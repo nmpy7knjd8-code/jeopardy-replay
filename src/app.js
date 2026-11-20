@@ -3,12 +3,15 @@
 const Q=new URLSearchParams(location.search);
 const FAST=Q.has('fast'), AUTO=Q.has('auto');
 const R=ms=>FAST?Math.max(40,ms/10):ms;           // delays & reading time (debug fast-forward)
-const READ_BUZZ_MS=5000, ANSWER_MS=15000, FINAL_MS=30000, LOCKOUT_MS=250;
+const READ_BUZZ_MS=7000, ANSWER_MS=15000, FINAL_MS=30000, LOCKOUT_MS=250;
 const $=s=>document.querySelector(s);
-const stage=$('#stage'), hud=$('#hud'), lights=$('#lights'), topL=$('#topL');
+const stage=$('#stage'), hud=$('#hud'), lights=$('#lights'), appEl=$('#app');
 const esc=s=>String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const money=n=>(n<0?'-':'')+'$'+Math.abs(n).toLocaleString('en-US');
 const YOU='You';
+let SHOW=EPISODES[0];
+const epParam=Q.get('ep');
+if(epParam){const e=EPISODES.find(e=>e.gameId===epParam)||EPISODES[+epParam];if(e)SHOW=e}
 const G={score:0,state:'intro',round:'J',used:new Set(),curCol:-1,stay:0,timers:[],stateAt:0,
  roundScores:{},clue:null,lockedUntil:0,openAt:0,sound:true,history:[]};
 
@@ -28,12 +31,12 @@ const sfx={
  dd(){[392,523,659,784,1047].forEach((f,i)=>tone(f,.2,'triangle',.12,i*.09))},
  tick(){tone(1200,.03,'square',.04)}
 };
-$('#mute').onclick=e=>{G.sound=!G.sound;e.target.textContent=G.sound?'🔊 Sound on':'🔇 Sound off';e.target.blur()};
+hud.addEventListener('click',e=>{const m=e.target.closest('#mute');if(m){G.sound=!G.sound;m.textContent=G.sound?'🔊':'🔇';m.blur()}});
 
 /* ---------- timers ---------- */
 function later(fn,ms){const t=setTimeout(fn,ms);G.timers.push(t);return t}
 function clearTimers(){G.timers.forEach(t=>{clearTimeout(t);clearInterval(t)});G.timers=[]}
-function setState(s){G.state=s;G.stateAt=performance.now()}
+function setState(s){G.state=s;G.stateAt=performance.now();if(s!=='answer')document.body.classList.remove('typing')}
 function runTimer(ms,onTick,onDone){
   const end=performance.now()+ms;
   const iv=setInterval(()=>{
@@ -46,48 +49,86 @@ function runTimer(ms,onTick,onDone){
 function setLights(mode){lights.className='lights'+(mode?' show':'')+(mode==='on'?' on':'')+(mode==='bad'?' bad':'')}
 
 /* ---------- HUD ---------- */
-function renderHud(extra){
+function renderHud(){
   hud.classList.remove('hide');
-  const left=30-G.used.size;
-  hud.innerHTML=`<div class="scorebox ${G.score<0?'neg':'pos'}">${money(G.score)}<small>${YOU}</small></div>
-  <div class="info">${extra!==undefined?extra:(G.round==='J'?'Jeopardy! Round':G.round==='DJ'?'Double Jeopardy! Round':'Final Jeopardy!')}${G.round!=='F'&&extra===undefined?`<br>${left} clue${left===1?'':'s'} left`:''}</div>`;
+  hud.innerHTML=`<div class="scorebox ${G.score<0?'neg':'pos'}">${money(G.score)}</div><button id="mute" type="button" aria-label="Toggle sound">${G.sound?'🔊':'🔇'}</button>`;
 }
-const S=(html)=>{stage.innerHTML=html};
+const S=(html)=>{stage.innerHTML=html;ro.disconnect();const cl=stage.querySelector('.clue');if(cl)ro.observe(cl);const bd=stage.querySelector('.body');if(bd)ro.observe(bd);requestAnimationFrame(fitAll)};
+const ro=window.ResizeObserver?new ResizeObserver(()=>requestAnimationFrame(fitAll)):{observe(){},disconnect(){}};
+/* ---------- fit-to-box text sizing ---------- */
+function fit(box,el,max,min=9){
+  if(!box||!el||!box.clientWidth)return;
+  const cs=getComputedStyle(box);
+  const w=box.clientWidth-parseFloat(cs.paddingLeft)-parseFloat(cs.paddingRight);
+  const h=box.clientHeight-parseFloat(cs.paddingTop)-parseFloat(cs.paddingBottom);
+  let lo=min,hi=max;
+  el.style.fontSize=hi+'px';
+  if(el.scrollWidth<=w+.5&&el.offsetHeight<=h){return}
+  while(hi-lo>.5){const mid=(lo+hi)/2;el.style.fontSize=mid+'px';(el.scrollWidth<=w+.5&&el.offsetHeight<=h)?lo=mid:hi=mid}
+  el.style.fontSize=lo+'px';
+}
+function fitAll(){
+  const vm=Math.min(innerWidth,innerHeight);
+  const clue=document.querySelector('.clue:not(.ans)');
+  if(clue)fit(clue,clue.firstElementChild,Math.min(vm*.13,96),12);
+  const cc=document.querySelector('.banner .cc');
+  if(cc)fit(cc.parentElement,cc,Math.min(vm*.11,84),14);
+  if(document.querySelector('.board')){
+    const cats=[...document.querySelectorAll('.cat')];
+    cats.forEach(c=>fit(c,c.firstElementChild,Math.min(vm*.085,70),8));
+    const sz=cats.map(c=>parseFloat(c.firstElementChild.style.fontSize)).sort((a,b)=>a-b);
+    const cap=sz[sz.length-1]/sz[0]<=1.5?sz[0]:sz[Math.floor(sz.length/2)];   // keep the row consistent: one shared size unless a cell is far smaller
+    cats.forEach(c=>{const f=parseFloat(c.firstElementChild.style.fontSize);if(f>cap)c.firstElementChild.style.fontSize=cap+'px'});
+    const last=document.querySelector('.cell[data-r="4"]');
+    if(last){fit(last,last.firstElementChild,Math.min(vm*.14,110),10);const fs=(parseFloat(last.firstElementChild.style.fontSize)*.84)+'px';document.querySelector('.board').style.setProperty('--vf',fs)}
+  }
+}
+addEventListener('resize',()=>requestAnimationFrame(fitAll));
+if(document.fonts&&document.fonts.ready)document.fonts.ready.then(fitAll);
+function syncVV(){
+  const v=window.visualViewport;if(!v)return;
+  appEl.style.height=v.height+'px';appEl.style.top=v.offsetTop+'px';
+  document.body.classList.toggle('kb',v.height<innerHeight-100);   // on-screen keyboard is up
+  window.scrollTo(0,0);requestAnimationFrame(fitAll);
+}
+if(window.visualViewport){visualViewport.addEventListener('resize',syncVV);visualViewport.addEventListener('scroll',syncVV);syncVV()}
 
 /* ---------- intro ---------- */
+let pick=0;
 function intro(){
   clearTimers();setState('intro');setLights(null);hud.classList.add('hide');
-  const d=new Date(SHOW.aired+'T12:00:00');
-  topL.innerHTML='<b>Jeopardy!</b> Replay';
-  S(`<div class="panel">
+  const fmt=e=>new Date(e.aired+'T12:00:00').toLocaleDateString('en-US',{month:'short',day:'numeric',year:'numeric'});
+  const cur=Math.max(0,EPISODES.indexOf(SHOW));pick=cur;
+  S(`<div class="panel intro">
     <div class="logo">Jeopardy!</div>
-    <div class="sub">Replay · ${esc(SHOW.show)} · ${d.toLocaleDateString('en-US',{weekday:'long',year:'numeric',month:'long',day:'numeric'})}</div>
-    <div class="contestants">${SHOW.contestants.map(c=>`<div><b>${esc(c.name)}</b>${esc(c.bio)}</div>`).join('')}<div><b>You</b>Taking the fourth podium</div></div>
-    <ul class="rules">
-      <li><b>Lights</b> – read the clue; when the border lights up, press <b>SPACE</b> or tap <b>BUZZ</b> (≈5 s). Too early = ¼ s lockout.</li>
-      <li><b>Answer</b> – type your response after buzzing (15 s). Typos &amp; “what is” are fine.</li>
-      <li><b>Daily Doubles</b> – wager up to your score (or the top clue value). <b>Final Jeopardy</b> – 30 s.</li>
-    </ul>
-    <button class="btn" id="go">Start the game</button>
-    <div class="hint">or press <b>Enter</b></div></div>`);
-  $('#go').onclick=()=>startRound('J');
+    <div class="sub">Pick an episode</div>
+    <div class="eps">${EPISODES.map((e,i)=>`<button type="button" class="ep${i===cur?' sel':''}" data-i="${i}">
+      <span class="ed">${fmt(e)} · ${esc(e.show)}</span>
+      <span class="en">${e.contestants.map(c=>esc(c.name)).join(' · ')}</span>
+      <span class="et">${esc(e.tag||'')}</span></button>`).join('')}</div>
+    <button class="btn" id="go">Start</button>
+    <div class="hint">Buzz when the lights come on · type your response · Enter to submit</div></div>`);
+  document.querySelectorAll('.ep').forEach(b=>b.onclick=()=>{pick=+b.dataset.i;SHOW=EPISODES[pick];document.querySelectorAll('.ep').forEach(x=>x.classList.toggle('sel',x===b))});
+  $('#go').onclick=()=>{SHOW=EPISODES[pick];startRound('J')};
 }
 
 /* ---------- rounds & board ---------- */
 function startRound(r){
   clearTimers();G.round=r;G.used=new Set();G.curCol=-1;G.stay=0;
-  topL.innerHTML=`<b>Jeopardy!</b> Replay · ${r==='J'?'Jeopardy! Round':'Double Jeopardy! Round'}`;
   renderBoard();renderHud();setState('board');
   later(pickNext,R(1600));
 }
 function renderBoard(flashKey){
+  const keepVf=document.querySelector('.board')?document.querySelector('.board').style.getPropertyValue('--vf'):'';
   const rd=SHOW.rounds[G.round];
   let h='<div class="board">'+rd.cats.map(c=>`<div class="cat"><span>${esc(c)}</span></div>`).join('');
   for(let r=0;r<5;r++)for(let c=0;c<6;c++){
     const k=c+','+r,used=G.used.has(k),mult=G.round==='J'?200:400;
-    h+=`<div class="cell${used?' used':''}${flashKey===k?' flash':''}" data-k="${k}">${used?'':'$'+(r+1)*mult}</div>`;
+    h+=`<div class="cell${used?' used':''}${flashKey===k?' flash':''}" data-k="${k}" data-r="${r}"><span>${used?'':'$'+(r+1)*mult}</span></div>`;
   }
   S(h+'</div>');
+  if(keepVf)document.querySelector('.board').style.setProperty('--vf',keepVf);
+  fitAll();
 }
 function clueAt(c,r){return SHOW.rounds[G.round].clues.find(x=>x.c===c&&x.r===r)}
 
@@ -116,14 +157,11 @@ function pickNext(){
 }
 
 /* ---------- clue card ---------- */
-function clueSize(t){const n=t.length;const k=n<50?1:n<90?.88:n<140?.76:n<200?.66:.58;return `min(${5.4*k}vw,${8.4*k}vh)`}
 const catName=()=>SHOW.rounds[G.round].cats[G.clue.c];
-const faceValue=c=>c.v*(G.round==='J'?1:1);
 function cardHtml(c,opts={}){
   const val=opts.noValue?'':`<span class="cv">${money(opts.wager!==undefined?opts.wager:c.v)}</span>`;
-  return `<div class="card"><div class="card-head"><span>${esc(opts.cat||catName())}</span>${val}</div>
-   <div class="clue" style="font-size:${clueSize(c.q)}">${esc(c.q)}</div>
-   ${c.img?'<div class="imgnote">📺 a picture accompanied this clue on the show</div>':''}
+  return `<div class="card"><div class="banner"><div class="ccbox"><span class="cc">${esc(opts.cat||catName())}</span></div>${val}</div>
+   <div class="body${c.img?' hasimg':''}">${c.img?`<div class="pic"><img src="${esc(c.img)}" alt="" draggable="false"></div>`:''}<div class="clue"><span class="ct">${esc(c.q)}</span></div></div>
    <div class="foot" id="foot"></div></div>`;
 }
 const foot=h=>{$('#foot').innerHTML=h};
@@ -138,14 +176,16 @@ function showClue(c){
   if(AUTO){/* driver below handles it */}
 }
 function footReading(){
-  foot(`<div class="hint">Listen… wait for the <b>lights</b></div><button class="buzz" id="bz">BUZZ</button>`);
+  foot(`<div class="hint">Wait for the lights…</div><button class="buzz" id="bz">BUZZ</button><button class="skip" id="skip" type="button">Don’t know · skip</button>`);
   $('#bz').addEventListener('pointerdown',e=>{e.preventDefault();buzz()});
+  $('#skip').onclick=skipClue;
 }
 function openBuzzers(){
   if(G.state!=='reading')return;
   setState('open');G.openAt=performance.now();setLights('on');sfx.open();
-  foot(`<div class="hint">Lights are on! Press <b>SPACE</b> or tap <b>BUZZ</b></div><button class="buzz live" id="bz">BUZZ!</button><div class="bar"><i id="bar"></i></div>`);
+  foot(`<button class="buzz live" id="bz">BUZZ!</button><div class="bar"><i id="bar"></i></div><button class="skip" id="skip" type="button">Don’t know · skip</button>`);
   $('#bz').addEventListener('pointerdown',e=>{e.preventDefault();buzz()});
+  $('#skip').onclick=skipClue;
   runTimer(READ_BUZZ_MS,f=>{const b=$('#bar');if(b){b.style.transform=`scaleX(${f})`;b.className=f<.3?'warn':''}},()=>{
     if(G.state==='open')noBuzz();
   });
@@ -155,7 +195,7 @@ function buzz(){
   if(G.state==='reading'){
     if(now<G.lockedUntil)return;
     G.lockedUntil=now+LOCKOUT_MS;sfx.lock();setLights('bad');
-    const h=$('.hint');if(h){h.innerHTML='<span class="lock">TOO EARLY! Locked out ¼ second</span>'}
+    const h=$('.hint');if(h){h.innerHTML='<span class="lock">TOO EARLY! Locked out</span>'}
     later(()=>{if(G.state==='reading'){setLights('armed');footReading()}},LOCKOUT_MS+30);
     return;
   }
@@ -167,17 +207,24 @@ function buzz(){
   }
 }
 function askAnswer(c,o){
-  const rowHtml=`<div class="hint">${o.prefix||''}Type your response — <b>Enter</b> to lock it in</div>
+  const rowHtml=`
    <div class="answer-row"><input id="ans" type="text" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" enterkeyhint="go" placeholder="What is …?"><button class="btn" id="sub">Go</button></div>
    <div class="bar"><i id="bar"></i></div><div class="hint" id="secs"></div>`;
   foot(rowHtml);
   const inp=$('#ans');inp.focus({preventScroll:true});
+  document.body.classList.add('typing');
+  inp.addEventListener('focus',()=>{setTimeout(syncVV,60);setTimeout(syncVV,350)});
   let done=false;
   const submit=()=>{if(done)return;done=true;clearTimers();o.cb(inp.value)};
   inp.addEventListener('keydown',e=>{if(e.key==='Enter'){e.preventDefault();submit()}});
   $('#sub').onclick=submit;
   runTimer(o.ms,(f,s)=>{const b=$('#bar');if(b){b.style.transform=`scaleX(${f})`;b.className=f<.3?'warn':''}const e=$('#secs');if(e)e.textContent=s+' s'},()=>{if(!done){done=true;o.cb(inp.value,true)}});
   G.submitAnswer=submit;
+}
+function skipClue(){
+  if(G.state!=='reading'&&G.state!=='open')return;
+  clearTimers();setState('nobuzz');setLights(null);
+  finishClue(G.clue,null,'skip');
 }
 function noBuzz(){
   clearTimers();setState('nobuzz');setLights(null);
@@ -211,7 +258,7 @@ function ddWager(c){
 }
 function ddClue(c){
   setState('answer');
-  S(cardHtml(c,{wager:G.wager}));setLights(null);renderHud(`Daily Double · wager ${money(G.wager)}`);
+  S(cardHtml(c,{wager:G.wager}));setLights(null);renderHud();
   askAnswer(c,{ms:ANSWER_MS,prefix:'',cb:(t,to)=>finishClue(c,t,'dd',to)});
 }
 
@@ -273,6 +320,7 @@ function finishClue(c,txt,mode,timedOut){
   const value=mode==='dd'?G.wager:c.v;
   let verdict,cls,delta=0;
   if(mode==='nobuzz'){verdict='Time’s up — no one buzzed';cls='meh';}
+  else if(mode==='skip'){verdict='Skipped';cls='meh';}
   else{
     const ok=txt&&judge(txt,c.a);
     delta=ok?value:-value;
@@ -282,7 +330,7 @@ function finishClue(c,txt,mode,timedOut){
   G.last={c,delta,value,txt,mode,cls};
   const wasRight=cls==='good';
   setState('result');
-  renderHud(G.round==='J'?'Jeopardy! Round':'Double Jeopardy! Round');
+  renderHud();
   S(`<div class="panel">
     <div class="sub">${esc(catName())} · ${money(mode==='dd'?G.wager:c.v)}${mode==='dd'?' · Daily Double':''}</div>
     <div class="verdict ${cls}">${verdict}</div>
@@ -299,7 +347,7 @@ function finishClue(c,txt,mode,timedOut){
   const ov=$('#override');
   if(ov)ov.onclick=()=>{
     G.score+=2*value;G.last.cls='good';G.last.delta=value;
-    ov.remove();renderHud(G.round==='J'?'Jeopardy! Round':'Double Jeopardy! Round');
+    ov.remove();renderHud();
     const v=$('.verdict');v.className='verdict good';v.textContent='Overruled — correct!';sfx.good();
   };
 }
@@ -321,11 +369,10 @@ function roundEnd(){
    ${rows.map(x=>`<tr class="${x[2]?'me':''}"><td>${esc(x[0])}</td><td class="${x[1]<0?'neg':''}">${money(x[1])}</td></tr>`).join('')}</table>
    <button class="btn" id="cont">${r==='J'?'On to Double Jeopardy!':'On to Final Jeopardy!'}</button><div class="hint">press <b>Enter</b></div></div>`);
   $('#cont').onclick=()=>r==='J'?startRound('DJ'):finalIntro();
-  renderHud(r==='J'?'Jeopardy! Round complete':'Double Jeopardy! Round complete');
+  renderHud();
 }
 function finalIntro(){
   clearTimers();G.round='F';setLights(null);setState('finalwager');
-  topL.innerHTML='<b>Jeopardy!</b> Replay · Final Jeopardy!';renderHud('Final Jeopardy!');
   const F=SHOW.final;
   if(G.score<=0){
     S(`<div class="panel"><div class="logo" style="font-size:min(9vw,14vh)">Final Jeopardy!</div><div class="sub">The category is</div><div class="h1 gold">${esc(F.cat)}</div>
@@ -358,7 +405,7 @@ function finalClue(){
     clearTimers();
     const ok=t&&judge(t,F.a);const delta=ok?G.wager:-G.wager;G.score+=delta;(ok?sfx.good:sfx.bad)();
     G.final={played:true,delta,txt:t,ok};G.last={mode:'final',cls:ok?'good':'bad',delta,value:G.wager};
-    setState('result');renderHud('Final Jeopardy!');
+    setState('result');renderHud();
     S(`<div class="panel"><div class="sub">${esc(F.cat)} · your wager ${money(G.wager)}</div>
      <div class="verdict ${ok?'good':'bad'}">${ok?'Correct!':(to&&!(t||'').trim()?'Time’s up!':'Incorrect')}</div>
      <div class="h1 ${ok?'gold':''}" style="font-size:min(7vw,10vh)">${ok?'+':'−'}${money(G.wager)}</div>
@@ -369,7 +416,7 @@ function finalClue(){
      <div class="contestants" style="gap:2vmin">${ok?'':'<button class="btn ghost" id="override">I was right (override)</button>'}<button class="btn" id="next">See the final results ▸</button></div>
      <div class="hint">press <b>Enter</b> or <b>Space</b></div></div>`);
     $('#next').onclick=nextAfterResult;
-    const ov=$('#override');if(ov)ov.onclick=()=>{G.score+=2*G.wager;G.final.delta=G.wager;G.final.ok=true;G.last.cls='good';ov.remove();renderHud('Final Jeopardy!');const v=$('.verdict');v.className='verdict good';v.textContent='Overruled — correct!';sfx.good()};
+    const ov=$('#override');if(ov)ov.onclick=()=>{G.score+=2*G.wager;G.final.delta=G.wager;G.final.ok=true;G.last.cls='good';ov.remove();renderHud();const v=$('.verdict');v.className='verdict good';v.textContent='Overruled — correct!';sfx.good()};
   }});
 }
 
@@ -384,7 +431,8 @@ function endScreen(){
   const all=[...people,me].sort((a,b)=>b.score-a.score||(a.real?-1:1)); // ties: the real contestant keeps the nod
   const place=all.indexOf(me)+1;
   const winner=all[0];
-  const remarks={'Greg':'New champion — ended Jamie’s 31-game streak','Jamie':'Finished 2nd after a 31-game run','Katrina':'Finished 3rd'};
+  const realRank=[...people].sort((a,b)=>b.score-a.score).map(p=>p.short);
+  const remarks={};realRank.forEach((n,i)=>remarks[n]=i===0?'Winner on the show':ORD(i+1)+' on the show');
   let headline;
   if(place===1)headline=`You win! You'd have beaten ${winner===me?'the whole podium':''} and ended the streak in style.`;
   else headline=`You would have placed <span class="gold">${ORD(place)}</span>`;
@@ -392,7 +440,7 @@ function endScreen(){
   const lost=people.filter(p=>p.score>=me.score).map(p=>p.name.split(' ')[0]);
   const detail=place===1?`You finished ahead of ${beat.join(', ')}.`:
     (beat.length?`You finished ahead of ${beat.join(' and ')}, but behind ${lost.join(' and ')}.`:`${lost.join(', ')} finished ahead of you.`);
-  S(`<div class="panel" style="gap:1.6vmin"><div class="sub">Show #9551 · final scores</div>
+  S(`<div class="panel" style="gap:1.6vmin"><div class="sub">${esc(SHOW.show)} · ${new Date(SHOW.aired+'T12:00:00').toLocaleDateString('en-US',{month:'short',day:'numeric',year:'numeric'})}</div>
    <div class="h1" style="font-size:min(8vw,12vh)">${place===1?'You <span class="gold">win!</span>':headline}</div>
    <div class="sub" style="letter-spacing:.08em;text-transform:none;font-size:max(13px,2.6vmin)">${detail}</div>
    <table class="cmp end"><tr><th>#</th><th>Contestant</th><th>After J!</th><th>After DJ!</th><th>Final</th></tr>
@@ -408,6 +456,7 @@ document.addEventListener('keydown',e=>{
   const st=G.state,age=performance.now()-G.stateAt;
   const inField=e.target&&e.target.tagName==='INPUT';
   if((st==='reading'||st==='open')&&(e.code==='Space'||e.key===' ')){e.preventDefault();if(!e.repeat)buzz();return}
+  if((st==='reading'||st==='open')&&(e.key==='s'||e.key==='S'||e.key==='Escape')){e.preventDefault();skipClue();return}
   if(inField)return;
   if(e.key==='Enter'||e.code==='Space'){
     if(st==='intro'){e.preventDefault();$('#go').click()}

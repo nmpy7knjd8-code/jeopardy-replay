@@ -1,0 +1,983 @@
+{
+ "show": "#9522",
+ "aired": "2026-03-17",
+ "note": "Jamie Ding game 3. \r Jamie Ding sets a new record high Coryat score of $42,400 and ties Ken Jennings's record for the most correct responses in a game (counting Final Jeopardy!), at 45.",
+ "contestants": [
+  {
+   "name": "Aidan O'Connell",
+   "bio": "a wastewater treatment operator from Henderson, Nevada",
+   "short": "Aidan"
+  },
+  {
+   "name": "Carman Nareau",
+   "bio": "a founder from Oakland, California",
+   "short": "Carman"
+  },
+  {
+   "name": "Jamie Ding",
+   "bio": "a bureaucrat and law student from Lawrenceville, New Jersey (whose 2-day cash winnings total $26,566)",
+   "short": "Jamie"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Jamie": 14000,
+   "Carman": -600,
+   "Aidan": 2600
+  },
+  "DJ": {
+   "Jamie": 48800,
+   "Carman": 600,
+   "Aidan": 4300
+  },
+  "Final": {
+   "Jamie": 51234,
+   "Carman": 1,
+   "Aidan": 4300
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "GENIUS IN A BATTLE",
+    "IT'S THE LAW",
+    "YOU CAN'T PINCH THEM!",
+    "\"X\"",
+    "LOS ANGELES",
+    "I LOVE THAT ALBUM!"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 27,
+     "q": "In 218 B.C. this general gassed up 37 elephants for a road trip & drove over the Alps with 30,000 buddies into Italy",
+     "a": "Hannibal",
+     "right": [
+      "Jamie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 20,
+     "q": "This type of legislation obligates an automaker to offer relief to buyers for defects to a vehicle over a specific time",
+     "a": "a lemon law",
+     "right": [
+      "Aidan"
+     ],
+     "wrong": [
+      "Carman"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 29,
+     "q": "That's Sam Hartman at QB for this school whose green uniform tradition fits the team name & goes back a century plus",
+     "a": "Notre Dame",
+     "right": [
+      "Jamie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 30,
+     "q": "In olde England it took 40 of these coins to equal 1 pound sterling",
+     "a": "a sixpence",
+     "right": [],
+     "wrong": [
+      "Aidan"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 22,
+     "q": "This L.A. beach neighborhood along the Pacific Ocean bears the name of an Italian city with which it shares a prominent aspect",
+     "a": "Venice Beach",
+     "right": [
+      "Jamie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 24,
+     "q": "I could drink this 2016 Beyoncé surprise release album in a gulp, though sometimes I just sip the hits like \"Freedom\"",
+     "a": "Lemonade",
+     "right": [
+      "Carman"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 26,
+     "q": "The plan of this Army lt. gen. in 1943: surprise; rock the enemy back on his heels; relentless pursuit; \"mop him up\"",
+     "a": "Patton",
+     "right": [
+      "Aidan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": true,
+     "order": 23,
+     "q": "From a Rudyard Kipling work, it's the idea that the strongest or most merciless in a society or group will survive",
+     "a": "the law of the jungle",
+     "right": [
+      "Jamie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2400
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 21,
+     "q": "Here's this green-clad outlaw on his deathbed asking to be buried where his arrow falls",
+     "a": "Robin Hood",
+     "right": [
+      "Jamie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 19,
+     "q": "The quality on display here, it's a word that demonstrates Latin's handedness bias",
+     "a": "dexterity",
+     "right": [
+      "Jamie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 28,
+     "q": "Joan Didion wrote of the '60s ending with the 1969 murders in L.A. by followers of this man",
+     "a": "Manson",
+     "right": [
+      "Jamie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 25,
+     "q": "The title of this 2022 album refers to some times when Taylor Swift couldn't sleep & was ruminating on her life",
+     "a": "Midnights",
+     "right": [
+      "Jamie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 17,
+     "q": "By faking retreats, William the Conqueror drew out the English on the way to finally taking out Harold II at this battle",
+     "a": "Hastings",
+     "right": [
+      "Jamie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 14,
+     "q": "In effect since 1951 & abbreviated UCMJ, it's the set of criminal laws governing all U.S. armed forces branches",
+     "a": "the Uniform Code of Military Justice",
+     "right": [
+      "Jamie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 10,
+     "q": "The green dress worn by this actress in \"Atonement\" won raves for costume designer Jacqueline Durran",
+     "a": "Keira Knightley",
+     "right": [
+      "Jamie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 7,
+     "q": "Maimonides set down his philosophy in a \"Guide for\" them, aka the confused, the baffled, the hopelessly at sea",
+     "a": "the Perplexed",
+     "right": [
+      "Jamie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 3,
+     "q": "Royce Hall & the Ronald Reagan Medical Center are iconic parts of this school with about 46,000 students",
+     "a": "UCLA",
+     "right": [
+      "Aidan"
+     ],
+     "wrong": [
+      "Carman"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 12,
+     "q": "X's 1980 debut album \"Los Angeles\" was produced by Ray Manzarek, keyboardist for this other classic L.A. band",
+     "a": "The Doors",
+     "right": [
+      "Jamie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 5,
+     "q": "The 1918 surprise attack led by this general nicknamed \"Black Jack\" led to the Argonne Forest being cleared of German troops",
+     "a": "(Black Jack) Pershing",
+     "right": [
+      "Jamie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 1,
+     "q": "In Pakistan this Muslim code of religious law was long applied through its own appellate court",
+     "a": "sharia",
+     "right": [
+      "Jamie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 4,
+     "q": "Those who favor this iconic brand's green cap include blues musician Seasick Steve",
+     "a": "John Deere",
+     "right": [
+      "Aidan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 15,
+     "q": "Also starting with \"E-X\", it means \"still existing\"; the linen Book of Zagreb is oldest this type of Etruscan book",
+     "a": "extant",
+     "right": [
+      "Jamie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 11,
+     "q": "In 2025 the stage at this summer venue was named for John Williams, who has conducted his own music & others' there since 1978",
+     "a": "the Hollywood Bowl",
+     "right": [
+      "Aidan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 8,
+     "q": "This one goes out to an album I love, their 1987 \"Document\", which features the song \"The One I Love\"",
+     "a": "R.E.M.",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 13,
+     "q": "This barbarian king ruled an empire that took on the Eastern Roman one in 443; success led to annual payments of 2,100 pounds of gold",
+     "a": "Attila the Hun",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 9,
+     "q": "Issued during the reign of Clovis, Salic law was the legal code of these people who conquered Gaul in the 5th century A.D.",
+     "a": "the Franks",
+     "right": [
+      "Jamie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 6,
+     "q": "This guy from the Philly suburbs tells TV viewers where to put their money; our money says his is on the Eagles",
+     "a": "(Jim) Cramer",
+     "right": [
+      "Jamie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 2,
+     "q": "Trade name Narcan, it's available over the counter & carrying a little of it as a nasal spray can save the life of someone overdosing",
+     "a": "naloxone",
+     "right": [
+      "Jamie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 18,
+     "q": "Much of the area was destroyed in 1965 riots, but this L.A. historic cultural monument that includes three tall spires survived",
+     "a": "the Watts Towers",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 16,
+     "q": "A highlight of OutKast's 2000 album \"Stankonia\" is \"B.O.B\", subtitled this; it became reality a few years later",
+     "a": "\"Bombs Over Baghdad\"",
+     "right": [
+      "Jamie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "EVERYBODY LOVES DINOSAURS",
+    "SWORD PLAY",
+    "A CINEMATIC SUM-UP THROUGH THE DECADES",
+    "OTHER KENS",
+    "5-LETTER VERBS",
+    "PERSONIFYING THE NATION"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 30,
+     "q": "Research at the North Carolina Museum of Natural Sciences on the fossil called \"Dueling Dinosaurs\" says this horned beast fought a Nanotyrannus, not a young T. rex",
+     "a": "Triceratops",
+     "right": [
+      "Jamie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 22,
+     "q": "In this musical, Arthur defeats the Black Knight after cutting off some extremities--just flesh wounds, really...",
+     "a": "Spamalot",
+     "right": [
+      "Jamie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 26,
+     "q": "1940s:\nIlsa gets on the plane, but will always have Paris",
+     "a": "Casablanca",
+     "right": [
+      "Aidan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 25,
+     "q": "In 1985 Ken Lay founded this energy company that later became known for things unrelated to energy",
+     "a": "Enron",
+     "right": [
+      "Jamie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 24,
+     "q": "Derived from Dutch, it's to drink liquid with a loud sucking noise & it's not very polite",
+     "a": "slurp",
+     "right": [
+      "Carman"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 20,
+     "q": "In an 1899 painting, a maiden symbolizing Finland is under attack by an eagle representing this big, aggressive neighbor",
+     "a": "Russia",
+     "right": [
+      "Jamie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "When dinosaurs emerged during this geologic period, they had to compete with other big reptiles like the Phytosaurs",
+     "a": "the Triassic",
+     "right": [
+      "Jamie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 28,
+     "q": "In 2023 the game Touken Ranbu was adapted for the stage in this type of Japanese drama & featured swords aplenty",
+     "a": "kabuki",
+     "right": [
+      "Jamie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 11,
+     "q": "2010s:\nDaniel Kaluuya meets Allison Williams' parents, but not in a ha ha, \"Meet the Parents\" kind of way",
+     "a": "Get Out",
+     "right": [
+      "Jamie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 27,
+     "q": "It's the last word in a No. 1 hit by Kenny Loggins, after much repeating of the phrase \"everybody cut\"",
+     "a": "footloose",
+     "right": [
+      "Aidan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 1,
+     "q": "With or without the word, it's what the traffic sign here wants you to do",
+     "a": "yield",
+     "right": [
+      "Jamie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 19,
+     "q": "Argentina is often depicted as one of these cowboys of the Pampas",
+     "a": "gaucho",
+     "right": [
+      "Carman"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 21,
+     "q": "Corythosaurus was one of the dinos known as this for their snouts resembling that of a familiar animal",
+     "a": "duck-billed",
+     "right": [
+      "Jamie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 18,
+     "q": "In this Gilbert & Sullivan musical, the police are overcome by the title sword-wielding vagabonds as Mabel looks on",
+     "a": "The Pirates of Penzance",
+     "right": [
+      "Jamie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 2,
+     "q": "1990s:\nThe Vincent Price is right--Johnny Depp is a shear delight",
+     "a": "Edward Scissorhands",
+     "right": [
+      "Jamie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 23,
+     "q": "This Ken co-founded Florentine Films, which produces his documentaries",
+     "a": "(Ken) Burns",
+     "right": [
+      "Jamie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 10,
+     "q": "Cut ties with or cut off a finger accidentally",
+     "a": "sever",
+     "right": [
+      "Jamie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 5,
+     "q": "Before Uncle Sam, the U.S. was depicted as this woman who shares her name with a river",
+     "a": "Columbia",
+     "right": [
+      "Jamie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 8,
+     "q": "This name that has been used for fossils formerly classified as Brontosaurus means \"deceptive lizard\"",
+     "a": "Apatosaurus",
+     "right": [
+      "Jamie"
+     ],
+     "wrong": [
+      "Aidan"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 12,
+     "q": "In \"Athena\", two young fencers brandish this type of sword, also a word for an antagonist in a play",
+     "a": "foil",
+     "right": [
+      "Jamie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 7,
+     "q": "1960s:\n2 bikers hit the road to Cannes & win Best Film by a New Director... oh wait, man, I mean, the movie's about the bikers, man",
+     "a": "Easy Rider",
+     "right": [
+      "Jamie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 4,
+     "q": "In 1998, sales of Tom Clancy's new novel \"Rainbow Six\" were outpaced by sales of a near 450-page report written by this Ken",
+     "a": "Starr",
+     "right": [
+      "Jamie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 6000
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 14,
+     "q": "To earnestly yearn for or desire, but hopefully, not thy neighbor's wife",
+     "a": "covet",
+     "right": [
+      "Aidan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 15,
+     "q": "Clad in a salakot hat & a shirt called a barong tagalog, Juan dela Cruz personifies this country's everyman",
+     "a": "the Philippines",
+     "right": [
+      "Aidan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2500
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 13,
+     "q": "Tyrannosaurus ruled the Cretaceous; this meat-eater was boss in the Jurassic",
+     "a": "Allosaurus",
+     "right": [
+      "Jamie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 3,
+     "q": "Spoiler alert! This swashbuckling title hero from an Edmond Rostand play dies waving his sword about with Roxane as witness",
+     "a": "Cyrano de Bergerac",
+     "right": [
+      "Jamie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 17,
+     "q": "1950s:\nEd Wood. Aliens. Bela Lugosi, placed in the film after his real-life death. In other words, perfection",
+     "a": "Plan 9 from Outer Space",
+     "right": [
+      "Jamie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 16,
+     "q": "Ken Thompson shared a Turing Award for his work during the '60s & '70s on this influential computer operating system",
+     "a": "Unix",
+     "right": [
+      "Jamie"
+     ],
+     "wrong": [
+      "Aidan"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 6,
+     "q": "It's a synonym for braid & it shares the same 2 vowels",
+     "a": "plait",
+     "right": [
+      "Jamie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 9,
+     "q": "A cartoon from the War of 1812 shows James Madison duking it out with George III as this personification of England",
+     "a": "John Bull",
+     "right": [
+      "Jamie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "HISTORIC NAMES",
+  "q": "This name of a grand duchess of the 20th century comes from a word meaning \"resurrection\" in Greek",
+  "a": "Anastasia",
+  "right": [
+   "Jamie"
+  ],
+  "wrong": [
+   "Carman",
+   "Aidan"
+  ]
+ },
+ "gameId": "9402"
+}
