@@ -4,15 +4,21 @@
 
 A simple personal web app that lets you play through a **real *Jeopardy!* episode** — Jeopardy round, Double Jeopardy, Daily Doubles and Final Jeopardy — and then compares your score with the real contestants.
 
-Example episode: **Show #9551, aired Monday, April 27, 2026** (Jamie Ding's 32nd game — Greg Shahade ends the streak).
-Real final scores: Greg Shahade $33,000 · Jamie Ding $19,010 · Katrina Puckett $4,990.
+Three real episodes are included (pick one on the start screen):
+
+| Aired | Show | Contestants | Real final scores |
+|---|---|---|---|
+| 2026-04-27 | #9551 | Greg Shahade · Jamie Ding · Katrina Puckett | $33,000 · $19,010 · $4,990 |
+| 2026-03-17 | #9522 | Jamie Ding · Aidan O'Connell · Carman Nareau | $51,234 · $4,300 · $1 |
+| 2026-01-30 | #9490 (Tournament of Champions exhibition) | Paolo Pasco · Laura Faddah · Scott Riccardi | $30,118 · $10,401 · $5,200 |
 
 > On iPhone: open the link in Safari → Share → **Add to Home Screen** for a full-screen app with the gold "J" icon.
 
 ## How to play
 - Clues are picked automatically, semi-randomly: high-value clues and staying in the current category are favoured, but there are no tidy top-to-bottom runs.
-- Read the clue; when the **border lights come on**, press **Space** or tap **BUZZ** (about 5 seconds). Buzzing too early locks you out for ¼ s, like the real show.
+- Read the clue (the category banner is at the top); when the **border lights come on**, press **Space** or tap **BUZZ** (about 7 seconds). Buzzing too early locks you out for ¼ s, like the real show.
 - After buzzing, type your response (15 s). Answer checking is lenient (“what is”, articles, punctuation, small typos, optional parenthetical parts). If it still gets you wrong, there's an **I was right** override.
+- Not sure? Tap **Don't know · skip** (or press **S**/**Esc**) before or during the buzz window: no score change, the response is revealed and play moves on.
 - Daily Doubles: wager up to your score or the round's top clue value. Final Jeopardy: wager, then 30 s to type.
 - The end screen ranks you against the real contestants, with per-round scores.
 
@@ -28,9 +34,9 @@ Debug URL params: `?fast=1` (short delays) and `?auto=1` (auto-plays the whole s
 - `manifest.json`, `apple-touch-icon.png`, `icon-192.png`, `icon-512.png`, `favicon.*` – home-screen app icon
 
 ## Limitations
+- Clue pictures: J! Archive's original clue images aren't available, so picture clues show a related, openly licensed image from Wikimedia Commons (see `media/CREDITS.md`); they stand in for what was on TV, and clues that were audio/video on the show (e.g. one video clue) show text only.
 - **No real buzz times:** no public dataset of per-clue buzz timing exists, so you don't race the real contestants' reflexes. You get the real clues/answers and who got each right or wrong on the show.
-- Clues that were accompanied by a picture on TV are shown as text only (marked with a 📺 note); no audio/video clues were used in this episode.
 - Daily Double values/wagers are the real ones for the note shown after each clue; your own wager follows the real rules.
 
 ## Credits & rights
-Clue data comes from the fan-run [J! Archive](https://j-archive.com/) (one episode, fetched once). *Jeopardy!* and all its elements belong to Jeopardy Productions, Inc.; this is an unofficial fan project for personal use. J! Archive's terms prohibit scraping and republication, and the clues are copyrighted — please don't redistribute or monetize this beyond personal use.
+Clue data comes from the fan-run [J! Archive](https://j-archive.com/) (three episodes, one page each). *Jeopardy!* and all its elements belong to Jeopardy Productions, Inc.; this is an unofficial fan project for personal use. J! Archive's terms prohibit scraping and republication, and the clues are copyrighted — please don't redistribute or monetize this beyond personal use.
