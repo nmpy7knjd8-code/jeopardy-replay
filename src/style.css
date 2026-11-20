@@ -16,7 +16,7 @@ body{font-family:'Oswald','Arial Narrow',sans-serif;font-weight:500;user-select:
 .board{flex:none;margin:0;width:96%;display:grid;grid-template-columns:repeat(6,1fr);gap:2px;padding:2px;background:#000}
 .cat,.cell{background:linear-gradient(180deg,#0b12ff,var(--blue) 40%,#0509c4);display:flex;align-items:center;justify-content:center;text-align:center;overflow:hidden;position:relative;box-shadow:inset 0 0 0 .25vmin rgba(255,255,255,.08),inset 0 -1vmin 2vmin rgba(0,0,40,.35)}
 .cat{font-family:Anton,Impact,'Arial Narrow',sans-serif;text-transform:uppercase;color:#fff;font-size:12px;line-height:1.1;padding:.3vmin .4vmin;letter-spacing:0;text-shadow:.15vmin .2vmin 0 #000;text-align:center;min-height:0}
-.cat span{display:block;width:100%;text-align:center;overflow-wrap:break-word;hyphens:auto;-webkit-hyphens:auto}
+.cat span{display:block;width:100%;text-align:center;overflow-wrap:normal;word-break:normal;hyphens:none;-webkit-hyphens:none}
 .cell{font-family:Anton,Impact,sans-serif;color:var(--gold);text-shadow:.3vmin .35vmin 0 #000;letter-spacing:.02em;min-height:0}
 .cell span{font-size:var(--vf,12px);line-height:1;white-space:nowrap}
 .cell.used{background:var(--blue);box-shadow:none;color:transparent;text-shadow:none}
@@ -158,8 +158,8 @@ body.kb .foot{min-height:0}
 .set .glow{background:linear-gradient(180deg,#3a58ff,#0a16ff 55%,#0610c4);border-radius:calc(var(--s)*6) calc(var(--s)*6) 0 0;box-shadow:0 0 calc(var(--s)*24) rgba(30,50,255,.8)}
 .set .board{display:grid;grid-template-columns:repeat(6,1fr);background:#03040a;padding:0;margin:0;width:auto}
 .set .cat,.set .cell{background:linear-gradient(180deg,#1430cc 0%,#0d22b2 55%,#0a1ca4 100%);box-shadow:inset 0 0 0 calc(var(--s)*1) rgba(120,150,255,.22);overflow:hidden;min-height:0;padding:0}
-.set .cat{font-family:Oswald,'Arial Narrow',sans-serif;font-weight:700;text-transform:uppercase;color:#eaf1ff;line-height:1.08;letter-spacing:.01em;text-shadow:calc(var(--s)*1.2) calc(var(--s)*1.4) 0 rgba(0,0,30,.75);padding:calc(var(--s)*3) calc(var(--s)*4)}
-.set .cat span{display:block;width:100%;text-align:center;overflow-wrap:break-word;hyphens:auto;-webkit-hyphens:auto}
+.set .cat{font-family:Oswald,'Arial Narrow',sans-serif;font-weight:700;text-transform:uppercase;color:#eaf1ff;line-height:1.1;letter-spacing:-.02em;text-shadow:calc(var(--s)*1.2) calc(var(--s)*1.4) 0 rgba(0,0,30,.75);padding:calc(var(--s)*3) calc(var(--s)*4)}
+.set .cat span{display:block;width:100%;text-align:center;overflow-wrap:normal;word-break:normal;hyphens:none;-webkit-hyphens:none}
 .set .cell{font-family:Anton,Impact,sans-serif;color:#eaa944;letter-spacing:.03em}
 .set .cell span{font-size:var(--vf,14px);line-height:1;white-space:nowrap;text-shadow:calc(var(--vf,14px)*.045) calc(var(--vf,14px)*.06) 0 #000,calc(var(--vf,14px)*.02) calc(var(--vf,14px)*.03) calc(var(--vf,14px)*.04) rgba(0,0,0,.6);display:inline-flex;align-items:center}
 .set .cell .dl{font-style:normal;font-size:.8em;margin-right:.07em;position:relative;top:-.02em}
@@ -185,3 +185,8 @@ body.kb .foot{min-height:0}
 .card .foot .hint{line-height:1.1}
 .card+#hud,#app:not(.dark) #hud{padding-top:max(14px,2.2vmin)}
 .skip{padding:max(6px,1vmin) 2vmin}
+
+@media (orientation:portrait){.set .cat{padding:calc(var(--s)*2) calc(var(--s)*1.5);letter-spacing:-.02em}}
+.set .cat span{overflow-wrap:normal!important;word-break:normal!important;hyphens:none!important}
+/* categories: condensed Anton, tight tracking, one size per board */
+.set .cat,.pr-cat{font-family:Anton,Impact,'Arial Narrow',sans-serif!important;font-weight:400!important;letter-spacing:-.02em!important}

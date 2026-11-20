@@ -72,9 +72,9 @@ const LAYOUT={
  land:{W:1024,H:577,gap:5,hdr:1,
   band:[28,0,962,66],strip:[40,41,938,12],sl:[0,0,70,235],sr:[954,0,70,235],pl:[72,84,58,446],pr:[890,84,58,446],
   bezel:[138,78,746,462],board:[171,101,680,402],glow:[40,548,940,29]},
- port:{W:400,H:336,gap:3.5,hdr:2.1,
-  band:[4,0,392,26],strip:[10,15,380,6],sl:[0,0,0,0],sr:[0,0,0,0],pl:[3,40,23,262],pr:[374,40,23,262],
-  bezel:[29,34,342,274],board:[35,40,330,262],glow:[10,318,380,12]}
+ port:{W:400,H:336,gap:3,hdr:2.1,
+  band:[4,0,392,26],strip:[10,15,380,6],sl:[0,0,0,0],sr:[0,0,0,0],pl:[2,40,12,262],pr:[386,40,12,262],
+  bezel:[14,34,372,274],board:[19,40,362,262],glow:[10,318,380,12]}
 };
 function sizeBoard(){
   const set=document.getElementById('set');if(!set)return;
@@ -101,12 +101,13 @@ function fitAll(){
     const wid=(txt,cls)=>{probe.className=cls;probe.innerHTML=txt;return probe.getBoundingClientRect().width};
     // ONE shared category size (Swiss-style bold condensed, white)
     let maxW=1;
-    SHOW.rounds[G.round].cats.forEach(t=>t.split(/\s+/).forEach(w=>{if(w.length>(innerWidth<innerHeight?8:10))return;maxW=Math.max(maxW,wid(w,'pr-cat'))}));
+    SHOW.rounds[G.round].cats.forEach(t=>t.split(/\s+/).forEach(w=>{maxW=Math.max(maxW,wid(w,'pr-cat'))}));
     const cats=[...bd.querySelectorAll('.cat')],spans=cats.map(c=>c.firstElementChild);
-    let f=Math.max(innerWidth<innerHeight?9.5:8,Math.min(g.hh*.22,(g.cw-8*g.s)*.93/maxW*100));
+    const c0=cats[0],pcs=getComputedStyle(c0),inner=c0.clientWidth-parseFloat(pcs.paddingLeft)-parseFloat(pcs.paddingRight);   // real cell inner width
+    let f=Math.max(8,Math.min(g.hh*.22,inner*.96/maxW*100));
     const apply=()=>spans.forEach(sp=>sp.style.fontSize=f+'px');apply();
-    const availH=g.hh-6*g.s;
-    while(f>7&&spans.some(sp=>sp.offsetHeight>availH)){f-=.4;apply()}
+    const availH=g.hh-4*g.s;
+    while(f>8&&spans.some(sp=>sp.offsetHeight>availH)){f-=.25;apply()}
     // ONE shared value size: widest label must fit with padding
     const vw=wid('<i class="dl">$</i>'+(G.round==='J'?'1000':'2000'),'pr-val');
     const vf=Math.max(8,Math.min(g.ch*.68,(g.cw*.84)/vw*100));
