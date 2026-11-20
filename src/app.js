@@ -70,7 +70,7 @@ function fit(box,el,max,min=9){
 /* TV-set layout: every rect is in "design pixels" of a reference screenshot (landscape 1024x577) or a compact phone variant */
 const LAYOUT={
  land:{W:1024,H:577,gap:5,hdr:1,
-  band:[28,0,962,66],strip:[40,41,938,12],sl:[0,0,70,235],sr:[954,0,70,235],pl:[72,84,58,446],pr:[890,84,58,446],
+  band:[28,0,962,66],strip:[40,41,938,12],sl:[0,0,70,577],sr:[954,0,70,577],pl:[72,84,58,446],pr:[890,84,58,446],
   bezel:[138,78,746,462],board:[171,101,680,402],glow:[40,548,940,29]},
  port:{W:400,H:336,gap:3,hdr:2.1,
   band:[4,0,392,26],strip:[10,15,380,6],sl:[0,0,0,0],sr:[0,0,0,0],pl:[2,40,12,262],pr:[386,40,12,262],
@@ -86,12 +86,14 @@ function sizeBoard(){
   put('.band',L.band);put('.strip',L.strip);put('.sl',L.sl);put('.sr',L.sr);put('.pl',L.pl);put('.pr',L.pr);put('.bezel',L.bezel);put('.board',L.board);put('.glow',L.glow);
   const [bx,by,bw,bh]=L.board,gap=L.gap*s,cw=(bw*s-5*gap)/6,ch=(bh*s-5*gap)/(5+L.hdr),hh=ch*L.hdr;
   const b=set.querySelector('.board');b.style.gap=gap+'px';b.style.gridTemplateRows=`${hh}px repeat(5,${ch}px)`;
+  const sr=set.getBoundingClientRect(),ar=appEl.getBoundingClientRect();
+  appEl.style.setProperty('--top',(sr.top-ar.top)+'px');appEl.style.setProperty('--bot',(sr.bottom-ar.top)+'px');appEl.style.setProperty('--s',s+'px');
   return {cw,ch,hh,s};
 }
 function fitAll(){
   const vm=Math.min(innerWidth,innerHeight),portrait=innerWidth<innerHeight;
   const clue=document.querySelector('.clue:not(.ans)');
-  if(clue)fit(clue,clue.firstElementChild,portrait?Math.min(26,vm*.07):Math.min(40,vm*.058),12);
+  if(clue)fit(clue,clue.firstElementChild,portrait?Math.min(22,vm*.06):Math.min(34,vm*.05),12);
   const cc=document.querySelector('.banner .cc');
   if(cc)fit(cc.parentElement,cc,Math.min(vm*.11,84),14);
   const bd=document.querySelector('.board');
@@ -147,7 +149,7 @@ function intro(){
 function startRound(r){
   clearTimers();G.round=r;G.used=new Set();G.curCol=-1;G.stay=0;
   renderBoard();renderHud();setState('board');
-  later(pickNext,R(2600));
+  later(pickNext,R(3600));
 }
 function renderBoard(flashKey){
   const rd=SHOW.rounds[G.round];
@@ -400,7 +402,7 @@ function nextAfterResult(){
   if(G.state!=='result')return;
   clearTimers();
   if(G.last.mode==='final')return endScreen();
-  setState('board');renderBoard();renderHud();later(pickNext,R(1900));
+  setState('board');renderBoard();renderHud();later(pickNext,R(2900));
 }
 
 /* ---------- round end / final ---------- */

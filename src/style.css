@@ -190,3 +190,56 @@ body.kb .foot{min-height:0}
 .set .cat span{overflow-wrap:normal!important;word-break:normal!important;hyphens:none!important}
 /* categories: condensed Anton, tight tracking, one size per board */
 .set .cat,.pr-cat{font-family:Anton,Impact,'Arial Narrow',sans-serif!important;font-weight:400!important;letter-spacing:-.02em!important}
+
+/* ===== Stage dressing: wall above, podium floor below (positions from --top/--bot set in JS) ===== */
+#app.dark{--top:200px;--bot:520px;--s:1px;
+ background:
+  /* podium panel behind score box */
+  linear-gradient(#6a7cff,#6a7cff) 0 calc(var(--bot) + 64px)/100% 2px no-repeat,
+  repeating-linear-gradient(90deg,rgba(130,150,255,.07) 0 1px,transparent 1px 56px) 0 calc(var(--bot) + 66px)/100% 100% no-repeat,
+  linear-gradient(180deg,rgba(40,70,255,.22),transparent 60px) 0 calc(var(--bot) + 66px)/100% 60px no-repeat,
+  linear-gradient(180deg,#26262f,#14141b 40%,#0a0a10) 0 calc(var(--bot) + 64px)/100% 100% no-repeat,
+  /* blue light bands on the floor (bright core + soft glow) */
+  linear-gradient(#7fa0ff,#2a4bff) 0 calc(var(--bot) + 30px)/100% 5px no-repeat,
+  linear-gradient(rgba(40,70,255,.0),rgba(40,70,255,.45),rgba(40,70,255,0)) 0 calc(var(--bot) + 22px)/100% 22px no-repeat,
+  linear-gradient(#6f90ff,#2644e8) 0 calc(var(--bot) + 52px)/100% 4px no-repeat,
+  linear-gradient(rgba(40,70,255,0),rgba(40,70,255,.4),rgba(40,70,255,0)) 0 calc(var(--bot) + 44px)/100% 18px no-repeat,
+  /* floor base */
+  linear-gradient(180deg,#0a1263 0,#060b3a 35%,#04061f 100%) 0 var(--bot)/100% 100% no-repeat,
+  /* gold/brown header stack above the set band */
+  linear-gradient(180deg,#e0a43a 0 3px,#8d5c34 3px 11px,#e0a43a 11px 14px,#6a4125 14px 23px,#e0a43a 23px 26px,#432818 26px 36px,#24150d 36px 44px) 0 calc(var(--top) - 44px)/100% 44px no-repeat,
+  /* wall light bars, left and right */
+  linear-gradient(90deg,#4f6dff,#2a45f0) 0 calc(var(--top) + (var(--bot) - var(--top))*.39)/12% calc(var(--s)*13) no-repeat,
+  linear-gradient(90deg,#4f6dff,#2a45f0) 0 calc(var(--top) + (var(--bot) - var(--top))*.59)/12% calc(var(--s)*13) no-repeat,
+  linear-gradient(90deg,#4f6dff,#2a45f0) 0 calc(var(--top) + (var(--bot) - var(--top))*.785)/12% calc(var(--s)*13) no-repeat,
+  linear-gradient(270deg,#4f6dff,#2a45f0) 100% calc(var(--top) + (var(--bot) - var(--top))*.68)/12% calc(var(--s)*13) no-repeat,
+  linear-gradient(270deg,#4f6dff,#2a45f0) 100% calc(var(--top) + (var(--bot) - var(--top))*.83)/12% calc(var(--s)*13) no-repeat,
+  linear-gradient(90deg,#4f6dff,#2a45f0) 0 calc(var(--top)*.30)/15% 7px no-repeat,
+  linear-gradient(90deg,#4f6dff,#2a45f0) 0 calc(var(--top)*.58)/15% 7px no-repeat,
+  linear-gradient(270deg,#4f6dff,#2a45f0) 100% calc(var(--top)*.44)/15% 7px no-repeat,
+  linear-gradient(270deg,#4f6dff,#2a45f0) 100% calc(var(--top)*.72)/15% 7px no-repeat,
+  /* purple stage tint at right */
+  radial-gradient(ellipse 22% 16% at 100% calc(var(--top) + (var(--bot) - var(--top))*.45),rgba(150,40,190,.55),transparent),
+  /* wall ribs + color */
+  repeating-linear-gradient(90deg,rgba(90,120,255,.13) 0 2px,transparent 2px 24px),
+  linear-gradient(180deg,#040720 0,#0a1670 var(--top),#0b1775 calc(var(--top) + (var(--bot) - var(--top))*.33),#41342e calc(var(--top) + (var(--bot) - var(--top))*.34),#2a2220 var(--bot));
+ background-color:#04061c}
+#app.dark #hud{background:none;padding-top:max(10px,1.6vmin)}
+#app.dark #hud .scorebox{box-shadow:0 0 14px rgba(60,100,255,.55),0 3px 6px rgba(0,0,0,.6)}
+/* side wall panels inside the set (landscape): blue wall on top, brown paneling with blue light bars below */
+.set .sl,.set .sr{opacity:1}
+.set .sl{background:
+ linear-gradient(#4a66ff,#2038e0) 0 calc(var(--s)*226)/100% calc(var(--s)*13) no-repeat,
+ linear-gradient(#4a66ff,#2038e0) 0 calc(var(--s)*340)/100% calc(var(--s)*13) no-repeat,
+ linear-gradient(#4a66ff,#2038e0) 0 calc(var(--s)*453)/100% calc(var(--s)*13) no-repeat,
+ linear-gradient(180deg,transparent 0 calc(var(--s)*195),#3b2f2b calc(var(--s)*196),#4b3c34 55%,#2a2220 100%),
+ repeating-linear-gradient(90deg,#0a1394 0 calc(var(--s)*5),#0c19b8 calc(var(--s)*5) calc(var(--s)*10)),#0a1394}
+.set .sr{background:
+ linear-gradient(#4a66ff,#2038e0) 0 calc(var(--s)*392)/100% calc(var(--s)*13) no-repeat,
+ linear-gradient(#4a66ff,#2038e0) 0 calc(var(--s)*476)/100% calc(var(--s)*13) no-repeat,
+ linear-gradient(#e0a43a,#e0a43a) 0 calc(var(--s)*118)/100% calc(var(--s)*3) no-repeat,
+ linear-gradient(#6a4125,#432818) 0 calc(var(--s)*121)/100% calc(var(--s)*18) no-repeat,
+ linear-gradient(#e0a43a,#e0a43a) 0 calc(var(--s)*139)/100% calc(var(--s)*3) no-repeat,
+ linear-gradient(#86b9e6,#5f8fc4) 0 calc(var(--s)*146)/100% calc(var(--s)*6) no-repeat,
+ linear-gradient(180deg,transparent 0 calc(var(--s)*196),rgba(150,40,190,.85) calc(var(--s)*200),rgba(120,34,160,.85) calc(var(--s)*330),#4b3c34 calc(var(--s)*334),#2a2220 100%),
+ repeating-linear-gradient(90deg,#0a1394 0 calc(var(--s)*5),#0c19b8 calc(var(--s)*5) calc(var(--s)*10)),#0a1394}
