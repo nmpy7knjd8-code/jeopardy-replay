@@ -31,12 +31,13 @@ const sfx={
  dd(){[392,523,659,784,1047].forEach((f,i)=>tone(f,.2,'triangle',.12,i*.09))},
  tick(){tone(1200,.03,'square',.04)}
 };
-hud.addEventListener('click',e=>{const m=e.target.closest('#mute');if(m){G.sound=!G.sound;m.textContent=G.sound?'🔊':'🔇';m.blur()}});
+hud.addEventListener('click',e=>{const m=e.target.closest('#mute');if(m){G.sound=!G.sound;m.innerHTML=G.sound?ICON.snd:ICON.mute;m.blur()}
+  if(e.target.closest('#ff'))fastForward();if(e.target.closest('#rskip'))skipRound()});
 
 /* ---------- timers ---------- */
 function later(fn,ms){const t=setTimeout(fn,ms);G.timers.push(t);return t}
 function clearTimers(){G.timers.forEach(t=>{clearTimeout(t);clearInterval(t)});G.timers=[]}
-function setState(s){G.state=s;G.stateAt=performance.now();if(s!=='answer')document.body.classList.remove('typing')}
+function setState(s){G.state=s;document.body.dataset.st=s;G.stateAt=performance.now();if(s!=='answer')document.body.classList.remove('typing')}
 function runTimer(ms,onTick,onDone){
   const end=performance.now()+ms;
   const iv=setInterval(()=>{
@@ -49,9 +50,16 @@ function runTimer(ms,onTick,onDone){
 function setLights(mode){lights.className='lights'+(mode?' show':'')+(mode==='on'?' on':'')+(mode==='bad'?' bad':'')}
 
 /* ---------- HUD ---------- */
+const ICON={
+ snd:'<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 9h4l5-4v14l-5-4H4z" fill="currentColor"/><path d="M16 8.5a5 5 0 0 1 0 7M18.5 6a8.5 8.5 0 0 1 0 12" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>',
+ mute:'<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 9h4l5-4v14l-5-4H4z" fill="currentColor"/><path d="M16.5 9.5l5 5m0-5l-5 5" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>',
+ ff:'<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3 6l9 6-9 6zM12 6l9 6-9 6z" fill="currentColor"/></svg>',
+ next:'<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 6l8.5 6L4 18zM12 6l8.5 6L12 18z" fill="currentColor"/><rect x="20" y="6" width="2" height="12" rx="1" fill="currentColor"/></svg>'};
 function renderHud(){
   hud.classList.remove('hide');
-  hud.innerHTML=`<div class="scorebox ${G.score<0?'neg':'pos'}">${money(G.score)}</div><button id="mute" type="button" aria-label="Toggle sound">${G.sound?'🔊':'🔇'}</button>`;
+  const rs=G.round==='J'||G.round==='DJ';
+  const real=G.skipped&&SHOW.scores[G.skipped]?`<div class="realstrip" aria-label="Real scores at the jump">${SHOW.contestants.map(c=>`${esc(c.short)} ${money(SHOW.scores[G.skipped][c.short])}`).join(' · ')}</div>`:'';
+  hud.innerHTML=`${real}<div class="corner l"><button id="ff" class="ic" type="button" aria-label="Skip the wait">${ICON.ff}</button></div><div class="scorebox ${G.score<0?'neg':'pos'}">${money(G.score)}</div><div class="corner r"><button id="mute" class="ic" type="button" aria-label="Toggle sound">${G.sound?ICON.snd:ICON.mute}</button>${rs?`<button id="rskip" class="ic" type="button" aria-label="${G.round==='J'?'Skip to Double Jeopardy':'Skip to Final Jeopardy'}">${ICON.next}</button>`:''}</div>`;
 }
 const S=(html)=>{stage.innerHTML=html;appEl.classList.toggle('dark',html.indexOf('class="bw"')>=0);ro.disconnect();const cl=stage.querySelector('.clue');if(cl)ro.observe(cl);const bd=stage.querySelector('.body');if(bd)ro.observe(bd);requestAnimationFrame(fitAll)};
 const ro=window.ResizeObserver?new ResizeObserver(()=>requestAnimationFrame(fitAll)):{observe(){},disconnect(){}};
@@ -69,12 +77,12 @@ function fit(box,el,max,min=9){
 }
 /* TV-set layout: every rect is in "design pixels" of a reference screenshot (landscape 1024x577) or a compact phone variant */
 const LAYOUT={
- land:{W:1024,H:577,gap:5,hdr:1,
-  band:[28,0,962,66],strip:[40,41,938,12],sl:[0,0,70,577],sr:[954,0,70,577],pl:[72,84,58,446],pr:[890,84,58,446],
-  bezel:[138,78,746,462],board:[171,101,680,402],glow:[40,548,940,29]},
- port:{W:400,H:336,gap:3,hdr:2.1,
-  band:[4,0,392,26],strip:[10,15,380,6],sl:[0,0,0,0],sr:[0,0,0,0],pl:[2,40,12,262],pr:[386,40,12,262],
-  bezel:[14,34,372,274],board:[19,40,362,262],glow:[10,318,380,12]}
+ land:{W:1024,H:564,gap:5,hdr:.8,
+  band:[28,0,962,66],strip:[40,41,938,12],sl:[0,0,70,564],sr:[954,0,70,564],pl:[72,84,58,433],pr:[890,84,58,433],
+  bezel:[138,78,746,449],board:[171,101,680,389.43],glow:[40,535,940,29]},
+ port:{W:400,H:322,gap:3,hdr:1.7,
+  band:[4,0,392,26],strip:[10,15,380,6],sl:[0,0,0,0],sr:[0,0,0,0],pl:[2,40,12,248],pr:[386,40,12,248],
+  bezel:[14,34,372,260],board:[19,40,362,248.08],glow:[10,304,380,12]}
 };
 function sizeBoard(){
   const set=document.getElementById('set');if(!set)return;
@@ -106,10 +114,14 @@ function fitAll(){
     SHOW.rounds[G.round].cats.forEach(t=>t.split(/\s+/).forEach(w=>{maxW=Math.max(maxW,wid(w,'pr-cat'))}));
     const cats=[...bd.querySelectorAll('.cat')],spans=cats.map(c=>c.firstElementChild);
     const c0=cats[0],pcs=getComputedStyle(c0),inner=c0.clientWidth-parseFloat(pcs.paddingLeft)-parseFloat(pcs.paddingRight);   // real cell inner width
-    let f=Math.max(8,Math.min(g.hh*.22,inner*.96/maxW*100));
+    let f=Math.max(8,Math.min(g.hh*.275,inner*.96/maxW*100));
     const apply=()=>spans.forEach(sp=>sp.style.fontSize=f+'px');apply();
     const availH=g.hh-4*g.s;
     while(f>8&&spans.some(sp=>sp.offsetHeight>availH)){f-=.25;apply()}
+    // verify with the real rendered words (guards against probe/rounding drift): no word may exceed the cell
+    const widest=()=>{let m=0;spans.forEach(sp=>{const tn=sp.firstChild;if(!tn)return;const t=tn.textContent,r=document.createRange();let i=0;
+      for(const w of t.split(/[\s-]+/)){if(!w)continue;const st=t.indexOf(w,i);i=st+w.length;r.setStart(tn,st);r.setEnd(tn,st+w.length);m=Math.max(m,r.getBoundingClientRect().width)}});return m};
+    for(let k=0;k<4;k++){const wm=widest();if(wm<=inner-.5)break;f=Math.max(6.5,f*(inner-1)/wm);apply()}
     // ONE shared value size: widest label must fit with padding
     const vw=wid('<i class="dl">$</i>'+(G.round==='J'?'1000':'2000'),'pr-val');
     const vf=Math.max(8,Math.min(g.ch*.68,(g.cw*.84)/vw*100));
@@ -142,7 +154,7 @@ function intro(){
       <span class="et">${esc(e.tag||'')}</span></button>`).join('')}</div>
     <button class="btn" id="go">Start</button></div>`);
   document.querySelectorAll('.ep').forEach(b=>b.onclick=()=>{pick=+b.dataset.i;SHOW=EPISODES[pick];document.querySelectorAll('.ep').forEach(x=>x.classList.toggle('sel',x===b))});
-  $('#go').onclick=()=>{SHOW=EPISODES[pick];startRound('J')};
+  $('#go').onclick=()=>{SHOW=EPISODES[pick];G.skipped=null;startRound('J')};
 }
 
 /* ---------- rounds & board ---------- */
@@ -165,9 +177,7 @@ function renderBoard(flashKey){
     <div class="p pillar pl"><b></b></div><div class="p pillar pr"><b></b></div>
     <div class="p bezel"></div>
     ${h.replace('class="board"','class="board p"')}
-    <div class="p glow"></div></div>
-    <button class="ff" id="ff" type="button" aria-label="Skip the wait" title="Skip the wait">⏩</button></div>`);
-  $('#ff').onclick=fastForward;
+    <div class="p glow"></div></div></div>`);
   fitAll();
 }
 function clueAt(c,r){return SHOW.rounds[G.round].clues.find(x=>x.c===c&&x.r===r)}
@@ -186,6 +196,13 @@ function choose(){
   const ws=pool.map(w),tot=ws.reduce((a,b)=>a+b,0);
   let t=Math.random()*tot;for(let i=0;i<pool.length;i++){t-=ws[i];if(t<=0)return {clue:pool[i],jump}}
   return {clue:pool[pool.length-1],jump};
+}
+function skipRound(){
+  if(G.round!=='J'&&G.round!=='DJ')return;
+  const from=G.round;clearTimers();setLights(null);G.pending=null;G.clue=null;
+  if(document.activeElement&&document.activeElement.blur)document.activeElement.blur();
+  G.roundScores[from]=G.score;G.skipped=from;
+  from==='J'?startRound('DJ'):finalIntro();
 }
 function fastForward(){
   if(G.state==='board'){clearTimers();pickNext()}
@@ -279,8 +296,7 @@ function noBuzz(){
 /* ---------- daily double ---------- */
 function ddSplash(c){
   setState('ddsplash');setLights(null);sfx.dd();
-  S(`<div class="panel flashbg"><div class="dd">Daily<br>Double!</div><div class="sub">${esc(catName())}</div><button class="ff" id="ff" type="button" aria-label="Skip">⏩</button></div>`);
-  $('#ff').onclick=fastForward;
+  S(`<div class="panel flashbg"><div class="dd">Daily<br>Double!</div><div class="sub">${esc(catName())}</div></div>`);
   G.pending=()=>ddWager(c);
   later(G.pending,R(2600));
 }
@@ -419,7 +435,7 @@ function roundEnd(){
   renderHud();
 }
 function finalIntro(){
-  clearTimers();G.round='F';setLights(null);setState('finalwager');
+  clearTimers();G.round='F';setLights(null);setState('finalwager');renderHud();
   const F=SHOW.final;
   if(G.score<=0){
     S(`<div class="panel"><div class="logo" style="font-size:min(9vw,14vh)">Final Jeopardy!</div><div class="h1 gold">${esc(F.cat)}</div>

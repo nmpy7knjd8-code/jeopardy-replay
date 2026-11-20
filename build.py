@@ -6,7 +6,7 @@ fonts = [("Anton","400","Anton-400.woff2"),("Libre Baskerville","700","LibreBask
 ff = "".join("@font-face{font-family:'%s';font-weight:%s;font-style:normal;font-display:swap;src:url(data:font/woff2;base64,%s) format('woff2')}\n" % (n,w,base64.b64encode((r/'fonts'/f).read_bytes()).decode()) for n,w,f in fonts)
 t = (r/'src/index.template.html').read_text()
 import re
-TAGS={'9434':"Jamie Ding's 32nd game",'9402':"Jamie Ding's record-setting game",'9369':'Tournament of Champions exhibition'}
+TAGS={'9434':"Jamie Ding's 32nd game",'9402':"Jamie Ding's record-setting game",'9369':'Tournament of Champions exhibition','9578':"Will Goree's 5th game",'9571':"Erica Doornek's 5th game",'9562':"Anthony Cantor's 5th game"}
 PRES=re.compile(r'^\s*\((?=[^)]*(?:present|report|Clue Crew|reads|introduc|video|host))[^)]*\)\s*',re.I)
 def clean(q):
     while PRES.match(q): q=PRES.sub('',q,1)
@@ -19,7 +19,7 @@ for f in (r/'src/episodes').glob('*.json'):
             c['q']=clean(c['q']); c.pop('img',None)
             mp=r/'media'/f"{e['gameId']}-{k}_{c['c']}_{c['r']}.jpg"
             if mp.exists(): c['img']='media/'+mp.name
-    e['final']['q']=clean(e['final']['q']); e['tag']=TAGS.get(e['gameId'],''); e.pop('note',None)
+    e['final']['q']=clean(e['final']['q']); e['show']='#'+re.sub(r'\D','',e['show']); e['tag']=TAGS.get(e['gameId'],''); e.pop('note',None)
     eps.append(e)
 eps.sort(key=lambda e:e['aired'],reverse=True)
 data = json.dumps(eps, ensure_ascii=False, separators=(',',':')).replace('</','<\\/')
