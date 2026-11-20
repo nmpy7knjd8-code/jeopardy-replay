@@ -53,7 +53,7 @@ function renderHud(){
   hud.classList.remove('hide');
   hud.innerHTML=`<div class="scorebox ${G.score<0?'neg':'pos'}">${money(G.score)}</div><button id="mute" type="button" aria-label="Toggle sound">${G.sound?'🔊':'🔇'}</button>`;
 }
-const S=(html)=>{stage.innerHTML=html;ro.disconnect();const cl=stage.querySelector('.clue');if(cl)ro.observe(cl);const bd=stage.querySelector('.body');if(bd)ro.observe(bd);requestAnimationFrame(fitAll)};
+const S=(html)=>{stage.innerHTML=html;appEl.classList.toggle('dark',html.indexOf('class="bw"')>=0);ro.disconnect();const cl=stage.querySelector('.clue');if(cl)ro.observe(cl);const bd=stage.querySelector('.body');if(bd)ro.observe(bd);requestAnimationFrame(fitAll)};
 const ro=window.ResizeObserver?new ResizeObserver(()=>requestAnimationFrame(fitAll)):{observe(){},disconnect(){}};
 /* ---------- fit-to-box text sizing ---------- */
 function fit(box,el,max,min=9){
@@ -63,20 +63,30 @@ function fit(box,el,max,min=9){
   const h=box.clientHeight-parseFloat(cs.paddingTop)-parseFloat(cs.paddingBottom);
   let lo=min,hi=max;
   el.style.fontSize=hi+'px';
-  if(el.scrollWidth<=w+.5&&el.offsetHeight<=h){return}
-  while(hi-lo>.5){const mid=(lo+hi)/2;el.style.fontSize=mid+'px';(el.scrollWidth<=w+.5&&el.offsetHeight<=h)?lo=mid:hi=mid}
+  if(el.scrollWidth<=el.clientWidth+1.5&&el.offsetHeight<=h){return}
+  while(hi-lo>.5){const mid=(lo+hi)/2;el.style.fontSize=mid+'px';(el.scrollWidth<=el.clientWidth+1.5&&el.offsetHeight<=h)?lo=mid:hi=mid}
   el.style.fontSize=lo+'px';
 }
+/* TV-set layout: every rect is in "design pixels" of a reference screenshot (landscape 1024x577) or a compact phone variant */
+const LAYOUT={
+ land:{W:1024,H:577,gap:5,hdr:1,
+  band:[28,0,962,66],strip:[40,41,938,12],sl:[0,0,70,235],sr:[954,0,70,235],pl:[72,84,58,446],pr:[890,84,58,446],
+  bezel:[138,78,746,462],board:[171,101,680,402],glow:[40,548,940,29]},
+ port:{W:400,H:336,gap:3.5,hdr:2.1,
+  band:[4,0,392,26],strip:[10,15,380,6],sl:[0,0,0,0],sr:[0,0,0,0],pl:[3,40,23,262],pr:[374,40,23,262],
+  bezel:[29,34,342,274],board:[35,40,330,262],glow:[10,318,380,12]}
+};
 function sizeBoard(){
-  const b=document.querySelector('.board');if(!b)return;
-  const portrait=innerWidth<innerHeight,ar=portrait?1.65:1.72,catF=portrait?2:1.4,gap=2,pad=2;
-  const availW=stage.clientWidth-(portrait?8:24),availH=stage.clientHeight-(portrait?16:20)-48;
-  let W=Math.min(availW,portrait?560:1180);
-  const hFor=w=>{const cw=(w-2*pad-5*gap)/6,ch=cw/ar;return ch*(5+catF)+5*gap+2*pad};
-  if(hFor(W)>availH)W=W*availH/hFor(W);
-  const cw=(W-2*pad-5*gap)/6,ch=cw/ar;
-  b.style.width=W+'px';b.style.gridTemplateRows=`${ch*catF}px repeat(5,${ch}px)`;
-  return {cw,ch,chCat:ch*catF};
+  const set=document.getElementById('set');if(!set)return;
+  const portrait=innerWidth<innerHeight,L=portrait?LAYOUT.port:LAYOUT.land;
+  const availW=stage.clientWidth-(portrait?4:16),availH=stage.clientHeight-6;
+  const s=Math.max(.2,Math.min(availW/L.W,availH/L.H));
+  set.style.width=L.W*s+'px';set.style.height=L.H*s+'px';set.style.setProperty('--s',s+'px');
+  const put=(sel,r)=>{const e=set.querySelector(sel);if(!e)return;e.style.left=r[0]*s+'px';e.style.top=r[1]*s+'px';e.style.width=r[2]*s+'px';e.style.height=r[3]*s+'px';e.style.display=r[2]?'':'none'};
+  put('.band',L.band);put('.strip',L.strip);put('.sl',L.sl);put('.sr',L.sr);put('.pl',L.pl);put('.pr',L.pr);put('.bezel',L.bezel);put('.board',L.board);put('.glow',L.glow);
+  const [bx,by,bw,bh]=L.board,gap=L.gap*s,cw=(bw*s-5*gap)/6,ch=(bh*s-5*gap)/(5+L.hdr),hh=ch*L.hdr;
+  const b=set.querySelector('.board');b.style.gap=gap+'px';b.style.gridTemplateRows=`${hh}px repeat(5,${ch}px)`;
+  return {cw,ch,hh,s};
 }
 function fitAll(){
   const vm=Math.min(innerWidth,innerHeight),portrait=innerWidth<innerHeight;
@@ -87,29 +97,25 @@ function fitAll(){
   const bd=document.querySelector('.board');
   if(bd){
     const g=sizeBoard();if(!g)return;
-    const cats=[...bd.querySelectorAll('.cat')];
-    // ONE shared category font size: largest size where the longest (<=12 letters) word fits the cell width
-    const probe=document.createElement('span');probe.className='cat';probe.style.cssText='position:absolute;visibility:hidden;white-space:nowrap;font-size:100px;padding:0;left:-9999px';document.body.appendChild(probe);
+    const probe=document.createElement('span');probe.style.cssText='position:absolute;visibility:hidden;white-space:nowrap;left:-9999px;font-size:100px';document.body.appendChild(probe);
+    const wid=(txt,cls)=>{probe.className=cls;probe.innerHTML=txt;return probe.getBoundingClientRect().width};
+    // ONE shared category size (Swiss-style bold condensed, white)
     let maxW=1;
-    SHOW.rounds[G.round].cats.forEach(t=>t.split(/\s+/).forEach(w=>{if(w.length>12)return;probe.textContent=w;maxW=Math.max(maxW,probe.scrollWidth)}));
-    probe.remove();
-    const availW=g.cw-8,availH=g.chCat-6;
-    let f=Math.min(g.cw*.2,24,availW/maxW*100);
-    f=Math.max(f,9);
-    const spans=cats.map(c=>c.firstElementChild);
-    const apply=()=>spans.forEach(sp=>sp.style.fontSize=f+'px');
-    apply();
-    while(f>9&&spans.some(sp=>sp.offsetHeight>availH)){f-=.5;apply()}
-    // ONE shared value font: the widest label ("$1000"/"$2000") must fit the cell width with padding
-    const vp=document.createElement('span');vp.className='cell';vp.style.cssText='position:absolute;visibility:hidden;white-space:nowrap;padding:0;left:-9999px;background:none;display:inline-block;width:auto;height:auto;font-size:100px';
-    vp.innerHTML='<span style="font-size:100px">$'+(G.round==='J'?'1000':'2000')+'</span>';document.body.appendChild(vp);
-    const vw=vp.firstElementChild.getBoundingClientRect().width;vp.remove();
-    const vf=Math.max(8,Math.min(g.ch*.6,(g.cw-10)/vw*100,60));
+    SHOW.rounds[G.round].cats.forEach(t=>t.split(/\s+/).forEach(w=>{if(w.length>(innerWidth<innerHeight?8:10))return;maxW=Math.max(maxW,wid(w,'pr-cat'))}));
+    const cats=[...bd.querySelectorAll('.cat')],spans=cats.map(c=>c.firstElementChild);
+    let f=Math.max(innerWidth<innerHeight?9.5:8,Math.min(g.hh*.22,(g.cw-8*g.s)*.93/maxW*100));
+    const apply=()=>spans.forEach(sp=>sp.style.fontSize=f+'px');apply();
+    const availH=g.hh-6*g.s;
+    while(f>7&&spans.some(sp=>sp.offsetHeight>availH)){f-=.4;apply()}
+    // ONE shared value size: widest label must fit with padding
+    const vw=wid('<i class="dl">$</i>'+(G.round==='J'?'1000':'2000'),'pr-val');
+    const vf=Math.max(8,Math.min(g.ch*.68,(g.cw*.84)/vw*100));
     bd.style.setProperty('--vf',vf+'px');
+    probe.remove();
   }
 }
 addEventListener('resize',()=>requestAnimationFrame(fitAll));
-if(document.fonts&&document.fonts.ready)document.fonts.ready.then(fitAll);
+if(document.fonts&&document.fonts.load){Promise.all([document.fonts.load('600 20px Oswald'),document.fonts.load('20px Anton'),document.fonts.load('700 20px "Libre Baskerville"')]).then(()=>{fitAll();setTimeout(fitAll,100)}).catch(()=>{})}
 function syncVV(){
   const v=window.visualViewport;if(!v)return;
   appEl.style.height=v.height+'px';appEl.style.top=v.offsetTop+'px';
@@ -131,8 +137,7 @@ function intro(){
       <span class="ed">${fmt(e)} · ${esc(e.show)}</span>
       <span class="en">${e.contestants.map(c=>esc(c.name)).join(' · ')}</span>
       <span class="et">${esc(e.tag||'')}</span></button>`).join('')}</div>
-    <button class="btn" id="go">Start</button>
-    <div class="hint">Buzz when the lights come on · type your response · Enter to submit</div></div>`);
+    <button class="btn" id="go">Start</button></div>`);
   document.querySelectorAll('.ep').forEach(b=>b.onclick=()=>{pick=+b.dataset.i;SHOW=EPISODES[pick];document.querySelectorAll('.ep').forEach(x=>x.classList.toggle('sel',x===b))});
   $('#go').onclick=()=>{SHOW=EPISODES[pick];startRound('J')};
 }
@@ -144,16 +149,22 @@ function startRound(r){
   later(pickNext,R(2600));
 }
 function renderBoard(flashKey){
-  const keepVf=document.querySelector('.board')?document.querySelector('.board').style.getPropertyValue('--vf'):'';
   const rd=SHOW.rounds[G.round];
   let h='<div class="board">'+rd.cats.map(c=>`<div class="cat"><span>${esc(c)}</span></div>`).join('');
   for(let r=0;r<5;r++)for(let c=0;c<6;c++){
     const k=c+','+r,used=G.used.has(k),mult=G.round==='J'?200:400;
-    h+=`<div class="cell${used?' used':''}${flashKey===k?' flash':''}" data-k="${k}" data-r="${r}"><span>${used?'':'$'+(r+1)*mult}</span></div>`;
+    h+=`<div class="cell${used?' used':''}${flashKey===k?' flash':''}" data-k="${k}" data-r="${r}"><span>${used?'':`<i class="dl">$</i>${(r+1)*mult}`}</span></div>`;
   }
-  S('<div class="bw">'+h+'</div><button class="ff" id="ff" type="button" aria-label="Skip the wait" title="Skip the wait">⏩</button></div>');
+  h+='</div>';
+  S(`<div class="bw"><div class="set" id="set">
+    <div class="p sl"></div><div class="p sr"></div>
+    <div class="p band"></div><div class="p strip"></div>
+    <div class="p pillar pl"><b></b></div><div class="p pillar pr"><b></b></div>
+    <div class="p bezel"></div>
+    ${h.replace('class="board"','class="board p"')}
+    <div class="p glow"></div></div>
+    <button class="ff" id="ff" type="button" aria-label="Skip the wait" title="Skip the wait">⏩</button></div>`);
   $('#ff').onclick=fastForward;
-  if(keepVf)document.querySelector('.board').style.setProperty('--vf',keepVf);
   fitAll();
 }
 function clueAt(c,r){return SHOW.rounds[G.round].clues.find(x=>x.c===c&&x.r===r)}
@@ -207,7 +218,7 @@ function showClue(c){
   if(AUTO){/* driver below handles it */}
 }
 function footReading(){
-  foot(`<div class="hint">Wait for the lights…</div><button class="buzz" id="bz">BUZZ</button><button class="skip" id="skip" type="button">Don’t know · skip</button>`);
+  foot(`<button class="buzz" id="bz">BUZZ</button><div class="bar" style="visibility:hidden"></div><button class="skip" id="skip" type="button">Don’t know · skip</button>`);
   $('#bz').addEventListener('pointerdown',e=>{e.preventDefault();buzz()});
   $('#skip').onclick=skipClue;
 }
@@ -226,7 +237,7 @@ function buzz(){
   if(G.state==='reading'){
     if(now<G.lockedUntil)return;
     G.lockedUntil=now+LOCKOUT_MS;sfx.lock();setLights('bad');
-    const h=$('.hint');if(h){h.innerHTML='<span class="lock">TOO EARLY! Locked out</span>'}
+    $('#foot').insertAdjacentHTML('afterbegin','<div class="hint"><span class="lock">TOO EARLY! Locked out</span></div>');
     later(()=>{if(G.state==='reading'){setLights('armed');footReading()}},LOCKOUT_MS+30);
     return;
   }
@@ -278,7 +289,7 @@ function ddWager(c){
    <div class="sub">You have <span class="gold">${money(G.score)}</span> · you may wager <span class="gold">$5</span> to <span class="gold">${money(max)}</span></div>
    <div class="answer-row" style="max-width:70vmin"><input id="wg" type="text" inputmode="numeric" autocomplete="off" placeholder="$ amount"><button class="btn" id="wgo">Lock in</button></div>
    <div class="contestants" style="gap:1vmin"><button class="btn ghost" data-w="${Math.min(1000,max)}">$1,000</button><button class="btn ghost" data-w="${Math.round(max/2)}">Half</button><button class="btn ghost" data-w="${max}">True Daily Double (max)</button></div>
-   <div class="hint" id="wmsg">Enter a whole-dollar amount</div></div>`);
+   <div class="hint" id="wmsg">&nbsp;</div></div>`);
   const inp=$('#wg');inp.focus({preventScroll:true});
   const go=()=>{
     const n=parseInt(inp.value.replace(/[^\d]/g,''),10);
@@ -375,7 +386,7 @@ function finishClue(c,txt,mode,timedOut){
     <div class="contestants" style="gap:2vmin">
      ${cls==='bad'?'<button class="btn ghost" id="override">I was right (override)</button>':''}
      <button class="btn" id="next">Next ▸</button></div>
-    <div class="hint">press <b>Enter</b> or <b>Space</b></div></div>`);
+    </div>`);
   $('#next').onclick=nextAfterResult;
   const ov=$('#override');
   if(ov)ov.onclick=()=>{
@@ -397,10 +408,10 @@ function roundEnd(){
   G.roundScores[G.round]=G.score;
   const r=G.round,real=SHOW.scores[r];
   const rows=[[YOU,G.score,true],...SHOW.contestants.map(c=>[c.name,real[c.short],false])].sort((a,b)=>b[1]-a[1]);
-  S(`<div class="panel"><div class="sub">End of the</div><div class="h1">${r==='J'?'Jeopardy! Round':'Double Jeopardy! Round'}</div>
+  S(`<div class="panel"><div class="h1">${r==='J'?'Jeopardy! Round':'Double Jeopardy! Round'}</div>
    <table class="cmp"><tr><th>Contestant</th><th>Score</th></tr>
    ${rows.map(x=>`<tr class="${x[2]?'me':''}"><td>${esc(x[0])}</td><td class="${x[1]<0?'neg':''}">${money(x[1])}</td></tr>`).join('')}</table>
-   <button class="btn" id="cont">${r==='J'?'On to Double Jeopardy!':'On to Final Jeopardy!'}</button><div class="hint">press <b>Enter</b></div></div>`);
+   <button class="btn" id="cont">${r==='J'?'On to Double Jeopardy!':'On to Final Jeopardy!'}</button></div>`);
   $('#cont').onclick=()=>r==='J'?startRound('DJ'):finalIntro();
   renderHud();
 }
@@ -408,18 +419,18 @@ function finalIntro(){
   clearTimers();G.round='F';setLights(null);setState('finalwager');
   const F=SHOW.final;
   if(G.score<=0){
-    S(`<div class="panel"><div class="logo" style="font-size:min(9vw,14vh)">Final Jeopardy!</div><div class="sub">The category is</div><div class="h1 gold">${esc(F.cat)}</div>
+    S(`<div class="panel"><div class="logo" style="font-size:min(9vw,14vh)">Final Jeopardy!</div><div class="h1 gold">${esc(F.cat)}</div>
       <div class="note">With ${money(G.score)}, you don't qualify to play Final Jeopardy — just like on the show.</div>
-      <button class="btn" id="cont">See the results</button><div class="hint">press <b>Enter</b></div></div>`);
+      <button class="btn" id="cont">See the results</button></div>`);
     G.wager=0;G.last={mode:'final',skip:true};
     $('#cont').onclick=()=>{G.final={played:false,delta:0};endScreen()};
     return;
   }
-  S(`<div class="panel"><div class="logo" style="font-size:min(9vw,14vh)">Final Jeopardy!</div><div class="sub">The category is</div><div class="h1 gold">${esc(F.cat)}</div>
+  S(`<div class="panel"><div class="logo" style="font-size:min(9vw,14vh)">Final Jeopardy!</div><div class="h1 gold">${esc(F.cat)}</div>
     <div class="sub">You have <span class="gold">${money(G.score)}</span> · wager <span class="gold">$0</span> to <span class="gold">${money(G.score)}</span></div>
     <div class="answer-row" style="max-width:70vmin"><input id="wg" type="text" inputmode="numeric" autocomplete="off" placeholder="$ amount"><button class="btn" id="wgo">Lock in</button></div>
     <div class="contestants" style="gap:1vmin"><button class="btn ghost" data-w="0">$0</button><button class="btn ghost" data-w="${Math.round(G.score/2)}">Half</button><button class="btn ghost" data-w="${G.score}">Everything</button></div>
-    <div class="hint" id="wmsg">Enter a whole-dollar amount</div></div>`);
+    <div class="hint" id="wmsg">&nbsp;</div></div>`);
   const inp=$('#wg');inp.focus({preventScroll:true});
   const go=()=>{
     const raw=inp.value.replace(/[^\d]/g,'');const n=raw===''?NaN:parseInt(raw,10);
@@ -447,7 +458,7 @@ function finalClue(){
      <div class="serif" style="font-size:max(20px,5vmin);color:var(--gold-b);text-shadow:.3vmin .35vmin 0 #000">${esc(F.a)}</div>
      <div class="note">On the show: ${F.right.length?`<b>${F.right.map(esc).join(', ')}</b> got it right`:''}${F.wrong.length?`; <b>${F.wrong.map(esc).join(', ')}</b> missed`:''}.</div>
      <div class="contestants" style="gap:2vmin">${ok?'':'<button class="btn ghost" id="override">I was right (override)</button>'}<button class="btn" id="next">See the final results ▸</button></div>
-     <div class="hint">press <b>Enter</b> or <b>Space</b></div></div>`);
+     </div>`);
     $('#next').onclick=nextAfterResult;
     const ov=$('#override');if(ov)ov.onclick=()=>{G.score+=2*G.wager;G.final.delta=G.wager;G.final.ok=true;G.last.cls='good';ov.remove();renderHud();const v=$('.verdict');v.className='verdict good';v.textContent='Overruled — correct!';sfx.good()};
   }});

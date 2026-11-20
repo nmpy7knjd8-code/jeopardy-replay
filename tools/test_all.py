@@ -21,7 +21,6 @@ with sync_playwright() as p:
         pg.goto(base + '?fast=1'); pg.wait_for_timeout(600)
         pg.screenshot(path=str(shots/f'{name}-episode-picker.png'))
         pg.click('.ep:nth-child(2)'); pg.click('.ep:nth-child(1)'); pg.click('#go'); pg.wait_for_selector('.board'); pg.wait_for_timeout(500)
-        pg.screenshot(path=str(shots/f'{name}-board.png'))
         cats = pg.evaluate("[...document.querySelectorAll('.cat')].map(c=>[c.offsetHeight,Math.round(parseFloat(c.firstElementChild.style.fontSize)),c.firstElementChild.scrollWidth<=c.clientWidth,c.firstElementChild.offsetHeight<=c.clientHeight])")
         print(name, 'board cats [h,font,fitW,fitH]:', cats)
         # skip through clues until a picture clue shows up (also exercises skip key)

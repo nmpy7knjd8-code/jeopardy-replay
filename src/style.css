@@ -137,3 +137,51 @@ body.kb .foot{min-height:0}
 .bw{flex:1;min-height:0;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:1.2vmin;padding-top:.5vmin}
 .ff{background:rgba(255,255,255,.08);border:.2vmin solid rgba(255,255,255,.18);border-radius:3vmin;color:#fff;font-size:max(18px,3.2vmin);line-height:1;padding:.7vmin 3vmin;opacity:.38;cursor:pointer;transition:opacity .15s;margin:0 auto;min-height:32px}
 .ff:hover,.ff:active,.ff:focus-visible{opacity:1;background:rgba(255,255,255,.2)}
+
+/* ================= TV set board (recreated in CSS, dimensions set from JS) ================= */
+#app.dark{background:radial-gradient(ellipse at 50% 40%,#10131f 0%,#07080f 60%,#030308 100%)}
+#app.dark #hud .scorebox{background:linear-gradient(#0a1ca8,#050e78)}
+.set{position:relative;flex:none}
+.set .p{position:absolute}
+.set .sl,.set .sr{background:repeating-linear-gradient(90deg,#0a1394 0 calc(var(--s)*5),#0c19b8 calc(var(--s)*5) calc(var(--s)*10));opacity:.9}
+.set .band{background:
+  linear-gradient(#e0a43a,#e0a43a) 0 calc(var(--s)*8)/100% calc(var(--s)*2.6) no-repeat,
+  linear-gradient(#e0a43a,#e0a43a) 0 calc(var(--s)*21)/100% calc(var(--s)*2.6) no-repeat,
+  linear-gradient(#e0a43a,#e0a43a) 0 calc(var(--s)*34)/100% calc(var(--s)*2.6) no-repeat,
+  linear-gradient(180deg,#8d5c34,#6a4125 45%,#432818 80%,#24150d);
+  border-radius:0 0 calc(var(--s)*18) calc(var(--s)*18);box-shadow:0 calc(var(--s)*3) calc(var(--s)*6) rgba(0,0,0,.6)}
+.set .strip{background:repeating-linear-gradient(90deg,#86b9e6 0 calc(var(--s)*38),transparent calc(var(--s)*38) calc(var(--s)*42));filter:drop-shadow(0 0 calc(var(--s)*2) rgba(130,190,255,.6));opacity:.95}
+.set .pillar{background:linear-gradient(90deg,#2d55ee,#5b8bff 50%,#2d55ee);border:calc(var(--s)*3) solid #17151a;border-radius:calc(var(--s)*3);box-shadow:0 0 calc(var(--s)*14) rgba(60,100,255,.55)}
+.set .pillar b{position:absolute;left:27%;right:27%;top:4%;bottom:4%;background:linear-gradient(90deg,#b95f2b,#d9803e 50%,#b95f2b);border:calc(var(--s)*2.5) solid #1b0f0e;box-shadow:0 0 calc(var(--s)*8) rgba(255,150,60,.35)}
+.set .pillar::after{content:'';position:absolute;left:calc(var(--s)*-3);right:calc(var(--s)*-3);top:0;bottom:0;background:repeating-linear-gradient(180deg,transparent 0 calc(var(--s)*64),#211c22 calc(var(--s)*64) calc(var(--s)*70))}
+.set .bezel{background:linear-gradient(135deg,#514849,#3a3637 45%,#2a2829);border:calc(var(--s)*3) solid #121114;border-radius:calc(var(--s)*4);box-shadow:0 calc(var(--s)*8) calc(var(--s)*16) rgba(0,0,0,.7),inset 0 0 calc(var(--s)*10) rgba(0,0,0,.45)}
+.set .glow{background:linear-gradient(180deg,#3a58ff,#0a16ff 55%,#0610c4);border-radius:calc(var(--s)*6) calc(var(--s)*6) 0 0;box-shadow:0 0 calc(var(--s)*24) rgba(30,50,255,.8)}
+.set .board{display:grid;grid-template-columns:repeat(6,1fr);background:#03040a;padding:0;margin:0;width:auto}
+.set .cat,.set .cell{background:linear-gradient(180deg,#1430cc 0%,#0d22b2 55%,#0a1ca4 100%);box-shadow:inset 0 0 0 calc(var(--s)*1) rgba(120,150,255,.22);overflow:hidden;min-height:0;padding:0}
+.set .cat{font-family:Oswald,'Arial Narrow',sans-serif;font-weight:700;text-transform:uppercase;color:#eaf1ff;line-height:1.08;letter-spacing:.01em;text-shadow:calc(var(--s)*1.2) calc(var(--s)*1.4) 0 rgba(0,0,30,.75);padding:calc(var(--s)*3) calc(var(--s)*4)}
+.set .cat span{display:block;width:100%;text-align:center;overflow-wrap:break-word;hyphens:auto;-webkit-hyphens:auto}
+.set .cell{font-family:Anton,Impact,sans-serif;color:#eaa944;letter-spacing:.03em}
+.set .cell span{font-size:var(--vf,14px);line-height:1;white-space:nowrap;text-shadow:calc(var(--vf,14px)*.045) calc(var(--vf,14px)*.06) 0 #000,calc(var(--vf,14px)*.02) calc(var(--vf,14px)*.03) calc(var(--vf,14px)*.04) rgba(0,0,0,.6);display:inline-flex;align-items:center}
+.set .cell .dl{font-style:normal;font-size:.8em;margin-right:.07em;position:relative;top:-.02em}
+.set .cell.used{background:linear-gradient(180deg,#1430cc 0%,#0d22b2 55%,#0a1ca4 100%)}
+.pr-cat{font-family:Oswald,sans-serif;font-weight:700;text-transform:uppercase;letter-spacing:.01em}
+.pr-val{font-family:Anton,Impact,sans-serif;letter-spacing:.03em;display:inline-flex}
+.pr-val .dl{font-style:normal;font-size:.8em;margin-right:.07em}
+.panel.intro{gap:max(18px,3.6vmin);justify-content:center;padding-bottom:6vmin}
+.panel.intro .btn{margin-top:max(8px,2vmin)}
+
+.bw{position:relative}
+.bw .ff{position:absolute;right:1.5vmin;bottom:.5vmin;margin:0;z-index:5}
+.set .cat,.set .cell,.set .cell.used{background:linear-gradient(180deg,#1229c6 0%,#0c20ae 55%,#0a1a9c 100%)}
+.set .cat{font-weight:600;color:#e4eeff}
+.set .cell{color:#efab47;letter-spacing:.07em}
+.pr-val{letter-spacing:.07em}
+.pr-cat{font-weight:600}
+.set .cell .dl{font-size:.9em!important;top:0!important;margin-right:.05em!important}
+.pr-val .dl{font-size:.9em!important;margin-right:.05em!important}
+/* clue card bottom controls: comfortable, even spacing */
+.foot{gap:max(16px,2.6vmin);padding-top:max(10px,1.6vmin);min-height:0;justify-content:flex-end}
+.foot .hint:empty,.foot .hint{min-height:0}
+.card .foot .hint{line-height:1.1}
+.card+#hud,#app:not(.dark) #hud{padding-top:max(14px,2.2vmin)}
+.skip{padding:max(6px,1vmin) 2vmin}
