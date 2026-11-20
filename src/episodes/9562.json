@@ -1,0 +1,970 @@
+{
+ "show": "#9645",
+ "aired": "2026-10-23",
+ "note": "Anthony Cantor game 5.",
+ "contestants": [
+  {
+   "name": "Shannon Leigh Godwin",
+   "bio": "an interior designer from Oakland, California",
+   "short": "Shannon"
+  },
+  {
+   "name": "Ajin Tae",
+   "bio": "a trader from New York, New York",
+   "short": "Ajin"
+  },
+  {
+   "name": "Anthony Cantor",
+   "bio": "a television and podcast producer from Toronto, Ontario (whose 4-day cash winnings total $77,199)",
+   "short": "Anthony"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Anthony": 4000,
+   "Ajin": 1800,
+   "Shannon": 7200
+  },
+  "DJ": {
+   "Anthony": 8000,
+   "Ajin": 3200,
+   "Shannon": 12000
+  },
+  "Final": {
+   "Anthony": 8000,
+   "Ajin": 200,
+   "Shannon": 16001
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "EURO-TRIPPING WITH RICK STEVES",
+    "THE CHAMPIONSHIP TEAM",
+    "RECENT BESTSELLERS",
+    "BEASTLY WORDS & PHRASES",
+    "I HOPE YOU'RE HUNGRY FOR...",
+    "NOTHING"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 27,
+     "q": "Rick says Warsaw's youth is now mostly okay with the early 1950s Palace of Culture & Science, the forced gift from this Soviet leader",
+     "a": "Stalin",
+     "right": [
+      "Shannon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 26,
+     "q": "In 2005 this baseball team won a championship; in 2024, they lost 121 games, the most in MLB history",
+     "a": "the Chicago White Sox",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 28,
+     "q": "\"Game Changer\" is Book One in a hockey-centric romance series; this is the second book, also the name of the TV series it spawned",
+     "a": "Heated Rivalry",
+     "right": [
+      "Shannon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 30,
+     "q": "Animals used to mean stubborn include the mule & this stocky British canine",
+     "a": "a bulldog",
+     "right": [
+      "Anthony"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 25,
+     "q": "Japanese food; we're having this, shrimp & veggies dipped in batter & fried",
+     "a": "tempura",
+     "right": [
+      "Ajin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 29,
+     "q": "The Beatrice & Benedick plot is a highlight of this Shakespeare play",
+     "a": "Much Ado About Nothing",
+     "right": [
+      "Shannon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 9,
+     "q": "Advice about these, the British word for rotaries: doing a full loop before even trying to exit is fun & slows you down",
+     "a": "a roundabout",
+     "right": [
+      "Anthony"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "Nicknamed \"America's Team\" in the 1970s, this franchise has won 5 Super Bowls",
+     "a": "the Cowboys",
+     "right": [
+      "Anthony"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 23,
+     "q": "We hold it to be self-evident that \"The Greatest Sentence Ever Written\" explores a line from this document",
+     "a": "the Declaration of Independence",
+     "right": [
+      "Ajin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 14,
+     "q": "This '80s hairstyle, a long & lonely strand hanging down, made a surprising comeback in 2025",
+     "a": "a rattail",
+     "right": [
+      "Anthony"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 8,
+     "q": "This 5-letter type of burger, named for how the patty is flattened on the grill to make it thin, crispy & delicious",
+     "a": "smash",
+     "right": [
+      "Shannon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 24,
+     "q": "The Latin \"nihil sub sole novum\" translates to this expression that originated in Ecclesiastes",
+     "a": "nothing new under the sun",
+     "right": [
+      "Shannon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 5,
+     "q": "At the world famous Hofbräuhaus in this German city, Rick enjoys what he calls the Teutonic sport of toasting",
+     "a": "Munich",
+     "right": [
+      "Shannon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 4,
+     "q": "Mark Messier, a former Oiler, helped lead this NHL team to a Stanley Cup in the 1993-94 season",
+     "a": "the Rangers",
+     "right": [
+      "Anthony"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 15,
+     "q": "In 2026 she looked back & published her memoir \"View from the East Wing\"",
+     "a": "Jill Biden",
+     "right": [
+      "Anthony"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 22,
+     "q": "Why, I haven't seen you since you were knee-high to this jumping insect",
+     "a": "a grasshopper",
+     "right": [
+      "Anthony"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 6,
+     "q": "A full stack of these pancakes at IHOP, \"a true breakfast classic that started it all\"",
+     "a": "buttermilk pancakes",
+     "right": [],
+     "wrong": [
+      "Anthony"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 20,
+     "q": "On the small screen Ygritte told this character that he knew nothing",
+     "a": "Jon Snow",
+     "right": [
+      "Shannon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 1,
+     "q": "In Bruges Rick confesses, \"I pray for cool weather in Belgium because\" these shops \"close down when it's hot\"",
+     "a": "chocolate",
+     "right": [
+      "Shannon"
+     ],
+     "wrong": [
+      "Anthony"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 19,
+     "q": "In 2016, she was the WNBA Finals MVP & helped the Los Angeles Sparks come out on top over the Minnesota Lynx",
+     "a": "Candace Parker",
+     "right": [],
+     "wrong": [
+      "Anthony",
+      "Ajin"
+     ],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 12,
+     "q": "\"Yesteryear\" focuses on one of these portmanteau influencers who ends up in 1855--not so cute living on a farm with 6 kids now",
+     "a": "tradwife",
+     "right": [
+      "Shannon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 17,
+     "q": "If you are looking smug or satisfied, you might embody this phrase, what Sylvester hoped he'd be vis-à-vis Tweety",
+     "a": "the cat that ate the canary",
+     "right": [
+      "Shannon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 13,
+     "q": "Lunch! Let's have this feminine version of a French sandwich: fried ham & cheese with an egg on top",
+     "a": "a croque madame",
+     "right": [
+      "Shannon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": true,
+     "order": 7,
+     "q": "Thomas Paine wrote, \"In the following pages I offer nothing more than simple facts, plain arguments\" & this",
+     "a": "common sense",
+     "right": [
+      "Shannon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1400
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 3,
+     "q": "Join Rick in Skofja Loka, Slovenia around Easter to see one of the best of these plays that dramatize the suffering of Christ",
+     "a": "passion plays",
+     "right": [
+      "Ajin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 16,
+     "q": "In 2024 Jude Bellingham did a (world) capital job of leading this Spanish team to a UEFA Champions League title",
+     "a": "Real Madrid",
+     "right": [
+      "Anthony"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 10,
+     "q": "Matt Haig wrote \"The\" this \"Library\" & followed it with \"The\" this \"Train\"",
+     "a": "Midnight",
+     "right": [
+      "Anthony"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 11,
+     "q": "An exaggerated tale is known as this type of story, naming 2 different male animals",
+     "a": "a cock & bull",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 18,
+     "q": "The classic Roman dish of spaghetti with Romano cheese & ground black pepper known by this Italian name",
+     "a": "Cacio e pepe",
+     "right": [
+      "Ajin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 21,
+     "q": "Bottom line of this philosopher's 1943 work \"Being & Nothingness”: All human endeavor is ultimately useless",
+     "a": "Sartre",
+     "right": [
+      "Anthony"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "100 YEARS OF COLONIAL WILLIAMSBURG",
+    "MED. ABBREV.",
+    "I GOT A FEVER",
+    "PAINT-ED",
+    "5-SYLLABLE WORDS",
+    "2020s IN MEMORIAM"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 29,
+     "q": "Enslaved Virginians who are portrayed include James, who took this French last name honoring a man he served in the Continental Army",
+     "a": "Lafayette",
+     "right": [
+      "Anthony"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 28,
+     "q": "Primary care doctors are also referred to as GPs, or these",
+     "a": "general practitioners",
+     "right": [
+      "Ajin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 30,
+     "q": "In 2012 Vanity Fair described this near-rhyming phenomenon as \"an unfettered adoration for the 18-year-old pop star\" by tween girls",
+     "a": "Bieber fever",
+     "right": [
+      "Shannon"
+     ],
+     "wrong": [
+      "Ajin"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "His last major work, \"A Bar at the Folies-Bergère\", hangs in London at the Courtauld Gallery",
+     "a": "(Édouard) Manet",
+     "right": [],
+     "wrong": [
+      "Anthony"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 26,
+     "q": "Type of coin or collectible issued to honor a person or event",
+     "a": "commemorative",
+     "right": [
+      "Ajin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 20,
+     "q": "The New York Times' 2026 obit said this 2-time pres. candidate had \"picked up the mantle\" after MLK's death in 1968",
+     "a": "Jesse Jackson",
+     "right": [
+      "Anthony"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 24,
+     "q": "Trade & craft education dates way back; the first maker of perukes, which are these, began work in 1940",
+     "a": "wigs",
+     "right": [
+      "Anthony"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 6,
+     "q": "A doctor may recommend eating more soluble fiber foods & less lactose if you have IBS, short for this",
+     "a": "irritable bowel syndrome",
+     "right": [
+      "Shannon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 25,
+     "q": "John Travolta played dancing king Tony Manero in this 1977 classic",
+     "a": "Saturday Night Fever",
+     "right": [
+      "Shannon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 23,
+     "q": "Around 1919 during a pandemic, Edvard Munch painted \"Self-Portrait with\" this Euro-named illness, perhaps not what he actually had",
+     "a": "Spanish Flu",
+     "right": [
+      "Anthony"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 22,
+     "q": "The third law of this says the entropy of a perfect crystal would be zero at absolute zero",
+     "a": "thermodynamics",
+     "right": [
+      "Ajin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 16,
+     "q": "Leonard Riggio, who died in 2024, was both praised & reviled for leading this bookselling chain that's doubly not named after him",
+     "a": "Barnes & Noble",
+     "right": [
+      "Shannon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 21,
+     "q": "When Elizabeth II visited in 1957, she flew into the airport that then bore this man's name; it still has the code PHF",
+     "a": "Patrick Henry",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 4,
+     "q": "SQ is an abbreviation for this, referring to injections given into a layer of fat beneath the skin",
+     "a": "subcutaneous",
+     "right": [
+      "Anthony"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 15,
+     "q": "2026 saw acts canceling shows due to an outbreak of \"blue dot fever\", a reference to unsold seats on this company's maps",
+     "a": "Ticketmaster",
+     "right": [
+      "Anthony"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": true,
+     "order": 3,
+     "q": "Around 1880 he switched from oils to pastels, as his dominant medium with \"The Blue Dancers\" as a prime example",
+     "a": "(Edgar) Degas",
+     "right": [],
+     "wrong": [
+      "Ajin"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1800
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 7,
+     "q": "There are clubs for this type of navigational sport that uses very detailed maps",
+     "a": "orienteering",
+     "right": [
+      "Anthony"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 10,
+     "q": "Mattel confirmed the 2026 death of Roger Sweet, designer of the beefy action figure of this \"Masters of the Universe\" hero",
+     "a": "He-Man",
+     "right": [
+      "Anthony"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 2,
+     "q": "The former Abby Aldrich, who married into this family, was a guiding force behind restoration & sometimes stayed in Bassett Hall",
+     "a": "Rockefeller",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 1,
+     "q": "Infectious mononucleosis is most commonly caused by this virus, EBV",
+     "a": "Epstein-Barr",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 14,
+     "q": "In a video for \"Fever Dream\", Paris Hilton gives this 2026 Grammy Best New Artist nominee a slap with her 22-carat diamond ring",
+     "a": "Alex Warren",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 17,
+     "q": "He didn't paint scenes that were easy like Sunday morning, but in 1930 he did paint \"An Early Sunday Morning\"",
+     "a": "(Edward) Hopper",
+     "right": [
+      "Anthony"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 11,
+     "q": "Wild fluctuations in the market getting you anxious? It's just this, from the Latin for \"to fly\"",
+     "a": "volatility",
+     "right": [],
+     "wrong": [
+      "Anthony"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 6000
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 8,
+     "q": "A retired Chinese military surgeon who passed away in 2023, Jiang Yanyong exposed Beijing's coverup of this 2000s epidemic",
+     "a": "SARS",
+     "right": [
+      "Anthony"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 12,
+     "q": "The first public exhibition building was a tavern where in 1769 members of this dissolved body met & said no to British imports",
+     "a": "the House of Burgesses",
+     "right": [
+      "Anthony"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 18,
+     "q": "When it comes to cholesterol, LDL stands for this",
+     "a": "low-density lipoprotein",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 13,
+     "q": "This 2005 Barrymore-Fallon romcom was loosely based on a memoir by a soccer fan; the title still made sense with a baseball reboot",
+     "a": "Fever Pitch",
+     "right": [
+      "Shannon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 19,
+     "q": "A can of Spam flies across the canvas in this L.A. pop artist's 1962 painting \"Actual Size\"",
+     "a": "Ed Ruscha",
+     "right": [],
+     "wrong": [
+      "Anthony"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 5,
+     "q": "There's a moral type of this, the belief that there's no absolute truth & every value is based on the person choosing it",
+     "a": "relativism",
+     "right": [
+      "Ajin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 9,
+     "q": "Google got its start in the garage of this Silicon Valley powerhouse who passed away at just 56 after running YouTube for 9 years",
+     "a": "Susan Wojcicki",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "PULITZER PRIZE-WINNING FICTION",
+  "q": "Inspired by the story to tell similar ones, Taylor Sheridan wrote the foreword to the 40th anniversary edition of this novel",
+  "a": "Lonesome Dove",
+  "right": [
+   "Shannon"
+  ],
+  "wrong": [
+   "Ajin",
+   "Anthony"
+  ]
+ },
+ "gameId": "9562"
+}

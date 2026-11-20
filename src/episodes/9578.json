@@ -1,0 +1,970 @@
+{
+ "show": "#9661",
+ "aired": "2026-11-16",
+ "note": "Will Goree game 5.",
+ "contestants": [
+  {
+   "name": "Josh Luiza",
+   "bio": "a CFO from Annapolis, Maryland",
+   "short": "Josh"
+  },
+  {
+   "name": "Kali Sluyter",
+   "bio": "a director of prospect development originally from Muskegon, Michigan",
+   "short": "Kali"
+  },
+  {
+   "name": "Will Goree",
+   "bio": "a teacher from Austin, Texas (whose 4-day cash winnings total $97,500)",
+   "short": "Will"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Will": 2800,
+   "Kali": 4000,
+   "Josh": 3600
+  },
+  "DJ": {
+   "Will": 8000,
+   "Kali": 9200,
+   "Josh": 9200
+  },
+  "Final": {
+   "Will": 1000,
+   "Kali": 2200,
+   "Josh": 0
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "FOR THEIR BIRTHDAY",
+    "KISSY FACE",
+    "3-LETTER RESPONSES",
+    "THAT'S THE BALL GAME",
+    "BETWEEN HEAVEN & HELL",
+    "A SOUTHERN DANDY CATEGORY"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 21,
+     "q": "Must be nice: Princess Beatrix of this nation got a new yacht called the Green Dragon for her 18th birthday",
+     "a": "the Netherlands",
+     "right": [
+      "Josh"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 23,
+     "q": "A Spider-Man kiss (upside down) on this stone in County Cork is said to bless the smoocher with the gift of gab",
+     "a": "the Blarney Stone",
+     "right": [
+      "Josh"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 30,
+     "q": "James Earl Jones became the voice of a TV network with his iconic promo \"This is...\"",
+     "a": "CNN",
+     "right": [
+      "Will"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 10,
+     "q": "In the sport where canoe comes before this word, players are mounted on kayaks, not horses",
+     "a": "polo",
+     "right": [
+      "Will"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 29,
+     "q": "In pro boxing this class is above 200 pounds",
+     "a": "heavyweight",
+     "right": [
+      "Josh"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 28,
+     "q": "What a lovely evenin'... ah believe ah'll enjoy this drink of bourbon, sugar, mint leaves & mint sprig garnish on the veranda",
+     "a": "a mint julep",
+     "right": [
+      "Josh"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 20,
+     "q": "His 45th birthday celebration in 1962 included a visit to NYC & a breathy song from the star of \"The Misfits\"",
+     "a": "Kennedy (JFK)",
+     "right": [
+      "Kali"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 22,
+     "q": "Families & friends reunited at the Kissing Post, a spot of joy on this island in New York Harbor",
+     "a": "Ellis Island",
+     "right": [
+      "Kali"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 25,
+     "q": "William Webster & William Sessions both served as directors of this",
+     "a": "the FBI",
+     "right": [],
+     "wrong": [
+      "Will"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 9,
+     "q": "Sort of a combo of soccer & table tennis, teqball is played as singles, doubles, or in this 2-player, 2-gender format",
+     "a": "mixed doubles",
+     "right": [
+      "Kali"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 26,
+     "q": "It means to badger or taunt a performer or speaker, & don't you dare",
+     "a": "heckle",
+     "right": [
+      "Will"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "Ah hear tell Grand-mama Lucretia has contracted the vapors & shall away to her manse near Pullen Park in this N.C. capital",
+     "a": "Raleigh",
+     "right": [
+      "Will"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 4,
+     "q": "Official celebration of this man's birthday began in 42 B.C. near the Ides of July",
+     "a": "Julius Caesar",
+     "right": [
+      "Will"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": true,
+     "order": 3,
+     "q": "In Matthew 26 he says, \"Whomsoever I shall kiss, that same is he: hold him fast\"",
+     "a": "Judas",
+     "right": [],
+     "wrong": [
+      "Kali"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 800
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 24,
+     "q": "In recent polls this school's Tiger Stadium ranked as the best stadium in college football & the most intimidating",
+     "a": "LSU",
+     "right": [
+      "Josh"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 8,
+     "q": "Change a letter in a winter broom & stone sport to get this Irish stick & ball game",
+     "a": "hurling",
+     "right": [
+      "Josh"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 15,
+     "q": "As a verb, it can mean to protect oneself from potential financial loss by making a counterbalancing investment",
+     "a": "a hedge",
+     "right": [
+      "Josh"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 11,
+     "q": "Bless his heart, but that boy's 'bout as useful as a steerin' wheel on this beast of burden, a hybrid offspring of a female horse",
+     "a": "a mule",
+     "right": [
+      "Will"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 16,
+     "q": "Eisenhower lauded this military man's 80th in 1960, thanking him for his service in both World Wars & Korea as well",
+     "a": "MacArthur",
+     "right": [
+      "Will"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 1,
+     "q": "\"The Kiss\" by this artist was purchased by the Austrian government before it was even finished",
+     "a": "Klimt",
+     "right": [
+      "Will"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 2,
+     "q": "Using a fleet of some 500 aircraft & 135,000 other vehicles, it delivers more than 20 million packages worldwide each day",
+     "a": "UPS",
+     "right": [
+      "Kali"
+     ],
+     "wrong": [
+      "Will"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 5,
+     "q": "The ball used in this sport weighs around 5.6 ounces, about as much as the puck used in its indoor relative, but it's usually white",
+     "a": "field hockey",
+     "right": [
+      "Will"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 6,
+     "q": "7-letter adjective meaning relating to the official language of Israel",
+     "a": "Hebraic",
+     "right": [
+      "Kali"
+     ],
+     "wrong": [
+      "Will"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 12,
+     "q": "Miss Della Mae, ah'm eternally in your debt for your gift of this cravat-style neck scarf secured with a pin; the silk is simply divine!",
+     "a": "an ascot",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 19,
+     "q": "A scandal in Naples! In 1798 this Navy man's mistress Emma Hamilton hosted his lavish 40th birthday party at her husband's crib",
+     "a": "Lord Nelson",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 17,
+     "q": "People make kissy faces under the mistletoe around Christmas, but that dang plant killed this god in Norse myth",
+     "a": "Balder",
+     "right": [],
+     "wrong": [
+      "Will"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 18,
+     "q": "Sharjah & Ajman are among the smaller of the 7 states that make up the federation known by these 3 letters for short",
+     "a": "the UAE",
+     "right": [
+      "Will"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 7,
+     "q": "If your cue ball has no clear shot at the next required ball, you've been this-ed, the name of a British billiards variant",
+     "a": "snookered",
+     "right": [
+      "Kali"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 14,
+     "q": "Used to measure land parcels, it's a unit of area equal to 10,000 square meters",
+     "a": "a hectare",
+     "right": [
+      "Josh"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 13,
+     "q": "Indeed, Jeremiah, ah will be attendin' this ball named for a French dance; Yankees call it a debutante ball, but it's for the jr. set",
+     "a": "cotillion",
+     "right": [
+      "Kali"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "POSSESSIVE LIT",
+    "THE NAVY",
+    "2026 IN SCIENCE",
+    "CONTESTANTS CALL FOR THE HITS",
+    "LESS-COMMON DOUBLE LETTERS",
+    "A DANDY SOUTHERN CATEGORY"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 30,
+     "q": "\"The Sorting Hat\" & \"The Journey from Platform Nine and Three-Quarters\" are chapters in this book",
+     "a": "Harry Potter and the Sorcerer's Stone",
+     "right": [
+      "Will"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 28,
+     "q": "\"It's always 70 degrees!\" says a video about serving aboard these at the U.S. Navy recruiting website",
+     "a": "a submarine",
+     "right": [],
+     "wrong": [
+      "Josh"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "Collected on James Ross Island in 1985, a Titanosaur fossil was identified as the earliest known dinosaur bone from this continent",
+     "a": "Antarctica",
+     "right": [
+      "Josh"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 12,
+     "q": "Good on you, AC/DC, with the songs from \"Power Up\", but it's an hour into the show & where's this song? \"No stop signs, speed limit\"",
+     "a": "\"Highway To Hell\"",
+     "right": [
+      "Josh"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 29,
+     "q": "Double V:\nIt's what the engine heard here is doing",
+     "a": "revving",
+     "right": [
+      "Will"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 26,
+     "q": "The ruins of this Inca city lie on a high ridge between 2 mountain peaks rising above the Urubamba River",
+     "a": "Machu Picchu",
+     "right": [
+      "Will"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 23,
+     "q": "Diana Wynne Jones created this wizard & his \"Moving Castle\"",
+     "a": "Howl",
+     "right": [
+      "Will"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 25,
+     "q": "On July 31, 1970, known as Black Tot Day, the Royal Navy stopped giving this to sailors",
+     "a": "rum",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 24,
+     "q": "By engineering yeast to make nutrients normally found in pollen, scientists made a \"superfood\" for these at-risk creatures",
+     "a": "honeybees",
+     "right": [
+      "Josh"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 11,
+     "q": "Love \"The Boys Of Dungeon Lane\", Sir Paul--now, this hit that \"some people want to fill the world with... What's wrong with that?\"",
+     "a": "\"Silly Love Songs\"",
+     "right": [],
+     "wrong": [
+      "Josh"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 22,
+     "q": "Double H:\nBoys often engage in this, playing on the edge of violence",
+     "a": "roughhousing",
+     "right": [
+      "Kali"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 21,
+     "q": "In a 2004 high note the reception hall at this Southern Hemisphere landmark got a new name--the Utzon Room",
+     "a": "the Sydney Opera House",
+     "right": [
+      "Will"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 18,
+     "q": "The 19th c. novel this Old Testament king's \"Mines\" isn't set in the Middle East but in Africa & is about seeking diamonds",
+     "a": "King Solomon",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 17,
+     "q": "Navy SEALs learn to swim stealthily without letting their arms or legs clear the water in a technique called the CSS, or combat this",
+     "a": "sidestroke",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 14,
+     "q": "A.I.-assisted video monitoring suggests seabirds collide less often than expected with this type of renewable energy apparatus",
+     "a": "a wind turbine",
+     "right": [
+      "Josh"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 10,
+     "q": "Billy Joel, I'm glad you can still \"Turn The Lights Back On\", & I'm glad it's over; sing this doo-wop tribute from \"An Innocent Man\"",
+     "a": "\"The Longest Time\"",
+     "right": [
+      "Kali"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 19,
+     "q": "Double X:\nIt's the manospheric trend of making yourself as physically attractive as possible",
+     "a": "looksmaxxing",
+     "right": [
+      "Will"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 20,
+     "q": "These two countries that border one another are alphabetically last in the Southern Hemisphere",
+     "a": "Zambia & Zimbabwe",
+     "right": [
+      "Will"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 1,
+     "q": "In a James Baldwin book, David has proposed to his girlfriend but keeps wanting to go to this man's \"Room\"",
+     "a": "Giovanni",
+     "right": [
+      "Will"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 4,
+     "q": "As this country's navy battled their gun-running, the Liberation Tigers of Tamil Eelam assassinated its commander in 1992",
+     "a": "Sri Lanka",
+     "right": [
+      "Will"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 13,
+     "q": "Scientists created the first lab-grown one of these tubular organs & implanted it in pigs, who could then swallow food",
+     "a": "an esophagus",
+     "right": [
+      "Will"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 9,
+     "q": "Wow, Paul Simon, the new songs on \"Seven Psalms\" are just... anyway, time for this song that says, \"Slip out the back, Jack\"",
+     "a": "\"50 Ways To Leave Your Lover\"",
+     "right": [
+      "Kali"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 8,
+     "q": "Double K:\nBritishism for the meal that might have tomatoes, beans & sausage",
+     "a": "brekkie",
+     "right": [
+      "Kali"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 16,
+     "q": "Madagascar is on the east side of this channel named for the country on the west",
+     "a": "the Mozambique Channel",
+     "right": [
+      "Will"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": true,
+     "order": 2,
+     "q": "In this Jodi Picoult novel with a 3-word title that Cain didn't say, Anna was conceived as a bone marrow match for Kate",
+     "a": "My Sister's Keeper",
+     "right": [],
+     "wrong": [
+      "Will"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 4400
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 3,
+     "q": "Naval Station this Virginia port city is the world's largest naval base, with 75 ships & a flight every 6 minutes",
+     "a": "Norfolk",
+     "right": [
+      "Josh"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": true,
+     "order": 5,
+     "q": "The Vera C. Rubin Observatory detected more than 11,000 new asteroids including hundreds of these bodies, TNOs for short",
+     "a": "trans-Neptunian objects",
+     "right": [],
+     "wrong": [
+      "Will"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2000
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 6,
+     "q": "Hey, Joe Jackson, I'll buy some \"Hope & Fury\" tour merch but I've gotta hear this 1982 hit about hitting the town in a yellow taxi",
+     "a": "\"Steppin' Out\"",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 7,
+     "q": "Double I, 4 syllables:\nThe plantar type can cause pain in the bottom of the foot; the necrotizing type, death",
+     "a": "fasciitis",
+     "right": [
+      "Josh"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 15,
+     "q": "1,100 miles east of Tierra del Fuego, this island visited by James Cook in 1775 sounds like an area for the Dandy in the Jeopardy! Round",
+     "a": "South Georgia Island",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "WELL-KNOWN AMERICANS",
+  "q": "His Time magazine obit says, \"He grew gross & paunchy & wore a bulletproof vest... He was 48\" & \"died like a rich Neapolitan”",
+  "a": "Al Capone",
+  "right": [],
+  "wrong": [
+   "Will",
+   "Kali",
+   "Josh"
+  ]
+ },
+ "gameId": "9578"
+}

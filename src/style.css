@@ -243,3 +243,45 @@ body.kb .foot{min-height:0}
  linear-gradient(#86b9e6,#5f8fc4) 0 calc(var(--s)*146)/100% calc(var(--s)*6) no-repeat,
  linear-gradient(180deg,transparent 0 calc(var(--s)*196),rgba(150,40,190,.85) calc(var(--s)*200),rgba(120,34,160,.85) calc(var(--s)*330),#4b3c34 calc(var(--s)*334),#2a2220 100%),
  repeating-linear-gradient(90deg,#0a1394 0 calc(var(--s)*5),#0c19b8 calc(var(--s)*5) calc(var(--s)*10)),#0a1394}
+
+/* ===================== Unified controls =====================
+   one shape (pill / circle), one border weight, one ghost treatment, three size tiers */
+:root{--pill:999px;--bw:1.5px;--ghost-bg:rgba(255,255,255,.07);--ghost-bd:rgba(255,255,255,.32);--ghost-fg:#e3e6ff;
+ --gold-face:linear-gradient(#fff2b8,var(--gold-b) 45%,#d99a1e);--gold-edge:rgba(90,60,0,.6);--gold-drop:0 3px 0 #7a5610,0 5px 12px rgba(0,0,0,.35);--ic:max(30px,4.4vmin)}
+/* primary (gold pill): Start, Continue, GO, live BUZZ */
+.btn,.buzz{font-family:Anton,Impact,sans-serif;text-transform:uppercase;letter-spacing:.1em;border-radius:var(--pill);cursor:pointer;line-height:1.1}
+.btn,.buzz.live{color:#2a1c00;background:var(--gold-face);border:var(--bw) solid var(--gold-edge);box-shadow:var(--gold-drop);opacity:1}
+.btn{font-size:max(17px,3.2vmin);padding:max(9px,1.3vmin) max(30px,5vmin);min-height:44px}
+.buzz{font-size:max(24px,5.4vmin);padding:max(8px,1.2vmin) max(42px,8vmin);min-height:52px}
+.buzz.live{box-shadow:var(--gold-drop),0 0 4vmin rgba(255,217,102,.7)}
+.btn:active,.buzz:active{transform:translateY(2px);box-shadow:0 1px 0 #7a5610}
+/* idle BUZZ = same pill, ghost treatment */
+.buzz:not(.live){color:rgba(255,255,255,.55);background:var(--ghost-bg);border:var(--bw) solid var(--ghost-bd);box-shadow:none;opacity:1}
+/* secondary (ghost pill): skip, ghost buttons */
+.skip,.btn.ghost{font:500 max(12px,1.8vmin)/1 Oswald,sans-serif;letter-spacing:.16em;text-transform:uppercase;color:var(--ghost-fg);background:var(--ghost-bg);border:var(--bw) solid var(--ghost-bd);border-radius:var(--pill);padding:max(8px,1.1vmin) max(18px,2.6vmin);text-decoration:none;box-shadow:none;min-height:0;opacity:.8}
+.skip:hover,.skip:active,.btn.ghost:hover{opacity:1;background:rgba(255,255,255,.14)}
+/* answer field matches the pill system */
+.answer-row{align-items:center}
+.answer-row input{border-radius:var(--pill)!important;border:var(--bw) solid var(--gold)!important;padding:max(9px,1.2vmin) max(18px,2.6vmin)!important;min-height:44px;box-sizing:border-box}
+.answer-row .btn{min-height:44px;padding:max(9px,1.2vmin) max(20px,3.2vmin)}
+/* icon controls (circle, ghost, same size): fast-forward | sound + round-skip */
+.ic{width:var(--ic);height:var(--ic);flex:none;box-sizing:border-box;border-radius:50%;padding:0;display:inline-grid;place-items:center;background:var(--ghost-bg);border:var(--bw) solid var(--ghost-bd);color:var(--ghost-fg);opacity:.45;cursor:pointer;transition:opacity .15s,background .15s;font-size:0;-webkit-tap-highlight-color:transparent}
+.ic svg{width:50%;height:50%;display:block}
+.ic:hover,.ic:focus-visible,.ic:active{opacity:1;background:rgba(255,255,255,.16)}
+#hud #mute{position:static;transform:none;padding:0;font-size:0}
+#hud .corner{position:absolute;bottom:max(8px,env(safe-area-inset-bottom));display:flex;flex-direction:column-reverse;gap:8px;align-items:center}
+#hud .corner.l{left:max(10px,2.4vmin)}
+#hud .corner.r{right:max(10px,2.4vmin);flex-direction:column}
+#hud .corner.l::before{content:'';width:var(--ic);height:var(--ic)}  /* mirror slot so ⏩ lines up with 🔊 */
+#hud .corner.r #mute{order:0}#hud .corner.r #rskip{order:1}
+#hud .corner.r:not(:has(#rskip)){padding-bottom:calc(var(--ic) + 8px)}
+body:not([data-st=board]):not([data-st=picking]):not([data-st=ddsplash]) #ff{visibility:hidden}
+#hud .realstrip{position:absolute;bottom:100%;left:0;right:0;text-align:center;font:500 max(10px,1.5vmin)/1.2 Oswald,sans-serif;letter-spacing:.1em;text-transform:uppercase;color:rgba(225,230,255,.72);padding:0 18vmin 4px;pointer-events:none}
+.bw .ff,.ff{display:none}
+/* picker: same card treatment; 6 entries = 3x2 on landscape, compact column on phone */
+.ep{border:var(--bw) solid var(--ghost-bd)!important;border-radius:14px!important;background:rgba(0,0,0,.25)!important}
+.ep.sel{border-color:var(--gold)!important;background:rgba(232,184,75,.14)!important;box-shadow:0 0 0 1px var(--gold) inset!important}
+@media (orientation:landscape){.eps{display:grid!important;grid-template-columns:repeat(3,1fr);width:min(150vmin,94vw)}.ep{flex:none}}
+@media (orientation:portrait){.panel.intro{gap:max(12px,2.4vmin)}.eps{gap:max(7px,1.2vmin)}.ep{padding:max(7px,1.1vmin) max(12px,2.2vmin)!important;gap:2px!important}.ep .en{font-size:max(15px,3.2vmin)!important}}
+#hud #mute.ic{background:var(--ghost-bg);border:var(--bw) solid var(--ghost-bd);width:var(--ic);height:var(--ic);opacity:.45;border-radius:50%}
+#hud #mute.ic:hover,#hud #mute.ic:active,#hud #mute.ic:focus-visible{opacity:1;background:rgba(255,255,255,.16)}
