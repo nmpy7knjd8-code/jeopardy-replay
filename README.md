@@ -18,6 +18,7 @@ Three real episodes are included (pick one on the start screen):
 - Clues are picked automatically, semi-randomly: high-value clues and staying in the current category are favoured, but there are no tidy top-to-bottom runs.
 - Read the clue (the category banner is at the top); when the **border lights come on**, press **Space** or tap **BUZZ** (about 7 seconds). Buzzing too early locks you out for ¼ s, like the real show.
 - After buzzing, type your response (15 s). Answer checking is lenient (“what is”, articles, punctuation, small typos, optional parenthetical parts). If it still gets you wrong, there's an **I was right** override.
+- The ⏩ button under the board skips the pause before the next clue.
 - Not sure? Tap **Don't know · skip** (or press **S**/**Esc**) before or during the buzz window: no score change, the response is revealed and play moves on.
 - Daily Doubles: wager up to your score or the round's top clue value. Final Jeopardy: wager, then 30 s to type.
 - The end screen ranks you against the real contestants, with per-round scores.

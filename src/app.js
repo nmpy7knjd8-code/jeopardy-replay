@@ -67,20 +67,45 @@ function fit(box,el,max,min=9){
   while(hi-lo>.5){const mid=(lo+hi)/2;el.style.fontSize=mid+'px';(el.scrollWidth<=w+.5&&el.offsetHeight<=h)?lo=mid:hi=mid}
   el.style.fontSize=lo+'px';
 }
+function sizeBoard(){
+  const b=document.querySelector('.board');if(!b)return;
+  const portrait=innerWidth<innerHeight,ar=portrait?1.65:1.72,catF=portrait?2:1.4,gap=2,pad=2;
+  const availW=stage.clientWidth-(portrait?8:24),availH=stage.clientHeight-(portrait?16:20)-48;
+  let W=Math.min(availW,portrait?560:1180);
+  const hFor=w=>{const cw=(w-2*pad-5*gap)/6,ch=cw/ar;return ch*(5+catF)+5*gap+2*pad};
+  if(hFor(W)>availH)W=W*availH/hFor(W);
+  const cw=(W-2*pad-5*gap)/6,ch=cw/ar;
+  b.style.width=W+'px';b.style.gridTemplateRows=`${ch*catF}px repeat(5,${ch}px)`;
+  return {cw,ch,chCat:ch*catF};
+}
 function fitAll(){
-  const vm=Math.min(innerWidth,innerHeight);
+  const vm=Math.min(innerWidth,innerHeight),portrait=innerWidth<innerHeight;
   const clue=document.querySelector('.clue:not(.ans)');
-  if(clue)fit(clue,clue.firstElementChild,Math.min(vm*.13,96),12);
+  if(clue)fit(clue,clue.firstElementChild,portrait?Math.min(26,vm*.07):Math.min(40,vm*.058),12);
   const cc=document.querySelector('.banner .cc');
   if(cc)fit(cc.parentElement,cc,Math.min(vm*.11,84),14);
-  if(document.querySelector('.board')){
-    const cats=[...document.querySelectorAll('.cat')];
-    cats.forEach(c=>fit(c,c.firstElementChild,Math.min(vm*.085,70),8));
-    const sz=cats.map(c=>parseFloat(c.firstElementChild.style.fontSize)).sort((a,b)=>a-b);
-    const cap=sz[sz.length-1]/sz[0]<=1.5?sz[0]:sz[Math.floor(sz.length/2)];   // keep the row consistent: one shared size unless a cell is far smaller
-    cats.forEach(c=>{const f=parseFloat(c.firstElementChild.style.fontSize);if(f>cap)c.firstElementChild.style.fontSize=cap+'px'});
-    const last=document.querySelector('.cell[data-r="4"]');
-    if(last){fit(last,last.firstElementChild,Math.min(vm*.14,110),10);const fs=(parseFloat(last.firstElementChild.style.fontSize)*.84)+'px';document.querySelector('.board').style.setProperty('--vf',fs)}
+  const bd=document.querySelector('.board');
+  if(bd){
+    const g=sizeBoard();if(!g)return;
+    const cats=[...bd.querySelectorAll('.cat')];
+    // ONE shared category font size: largest size where the longest (<=12 letters) word fits the cell width
+    const probe=document.createElement('span');probe.className='cat';probe.style.cssText='position:absolute;visibility:hidden;white-space:nowrap;font-size:100px;padding:0;left:-9999px';document.body.appendChild(probe);
+    let maxW=1;
+    SHOW.rounds[G.round].cats.forEach(t=>t.split(/\s+/).forEach(w=>{if(w.length>12)return;probe.textContent=w;maxW=Math.max(maxW,probe.scrollWidth)}));
+    probe.remove();
+    const availW=g.cw-8,availH=g.chCat-6;
+    let f=Math.min(g.cw*.2,24,availW/maxW*100);
+    f=Math.max(f,9);
+    const spans=cats.map(c=>c.firstElementChild);
+    const apply=()=>spans.forEach(sp=>sp.style.fontSize=f+'px');
+    apply();
+    while(f>9&&spans.some(sp=>sp.offsetHeight>availH)){f-=.5;apply()}
+    // ONE shared value font: the widest label ("$1000"/"$2000") must fit the cell width with padding
+    const vp=document.createElement('span');vp.className='cell';vp.style.cssText='position:absolute;visibility:hidden;white-space:nowrap;padding:0;left:-9999px;background:none;display:inline-block;width:auto;height:auto;font-size:100px';
+    vp.innerHTML='<span style="font-size:100px">$'+(G.round==='J'?'1000':'2000')+'</span>';document.body.appendChild(vp);
+    const vw=vp.firstElementChild.getBoundingClientRect().width;vp.remove();
+    const vf=Math.max(8,Math.min(g.ch*.6,(g.cw-10)/vw*100,60));
+    bd.style.setProperty('--vf',vf+'px');
   }
 }
 addEventListener('resize',()=>requestAnimationFrame(fitAll));
@@ -116,7 +141,7 @@ function intro(){
 function startRound(r){
   clearTimers();G.round=r;G.used=new Set();G.curCol=-1;G.stay=0;
   renderBoard();renderHud();setState('board');
-  later(pickNext,R(1600));
+  later(pickNext,R(2600));
 }
 function renderBoard(flashKey){
   const keepVf=document.querySelector('.board')?document.querySelector('.board').style.getPropertyValue('--vf'):'';
@@ -126,7 +151,8 @@ function renderBoard(flashKey){
     const k=c+','+r,used=G.used.has(k),mult=G.round==='J'?200:400;
     h+=`<div class="cell${used?' used':''}${flashKey===k?' flash':''}" data-k="${k}" data-r="${r}"><span>${used?'':'$'+(r+1)*mult}</span></div>`;
   }
-  S(h+'</div>');
+  S('<div class="bw">'+h+'</div><button class="ff" id="ff" type="button" aria-label="Skip the wait" title="Skip the wait">⏩</button></div>');
+  $('#ff').onclick=fastForward;
   if(keepVf)document.querySelector('.board').style.setProperty('--vf',keepVf);
   fitAll();
 }
@@ -147,13 +173,18 @@ function choose(){
   let t=Math.random()*tot;for(let i=0;i<pool.length;i++){t-=ws[i];if(t<=0)return {clue:pool[i],jump}}
   return {clue:pool[pool.length-1],jump};
 }
+function fastForward(){
+  if(G.state==='board'){clearTimers();pickNext()}
+  else if(G.state==='picking'||G.state==='ddsplash'){clearTimers();const f=G.pending;G.pending=null;f&&f()}
+}
 function pickNext(){
   if(G.used.size>=30)return roundEnd();
   const {clue,jump}=choose();
   G.stay=(!jump&&clue.c===G.curCol)?G.stay+1:1;G.curCol=clue.c;
   G.used.add(clue.c+','+clue.r);G.clue=clue;
   renderBoard(clue.c+','+clue.r);renderHud();setState('picking');
-  later(()=>clue.dd?ddSplash(clue):showClue(clue),R(1000));
+  G.pending=()=>clue.dd?ddSplash(clue):showClue(clue);
+  later(G.pending,R(1000));
 }
 
 /* ---------- clue card ---------- */
@@ -234,8 +265,10 @@ function noBuzz(){
 /* ---------- daily double ---------- */
 function ddSplash(c){
   setState('ddsplash');setLights(null);sfx.dd();
-  S(`<div class="panel flashbg"><div class="dd">Daily<br>Double!</div><div class="sub">${esc(catName())}</div></div>`);
-  later(()=>ddWager(c),R(2600));
+  S(`<div class="panel flashbg"><div class="dd">Daily<br>Double!</div><div class="sub">${esc(catName())}</div><button class="ff" id="ff" type="button" aria-label="Skip">⏩</button></div>`);
+  $('#ff').onclick=fastForward;
+  G.pending=()=>ddWager(c);
+  later(G.pending,R(2600));
 }
 function ddWager(c){
   setState('wager');
@@ -355,7 +388,7 @@ function nextAfterResult(){
   if(G.state!=='result')return;
   clearTimers();
   if(G.last.mode==='final')return endScreen();
-  setState('board');renderBoard();renderHud();later(pickNext,R(900));
+  setState('board');renderBoard();renderHud();later(pickNext,R(1900));
 }
 
 /* ---------- round end / final ---------- */
@@ -486,6 +519,6 @@ if(AUTO){
     else if(st==='roundend'&&age>600)$('#cont').click();
   },200);
 }
-window.__G=G;
+window.__G=G;window.__startRound=startRound;
 intro();
 })();
