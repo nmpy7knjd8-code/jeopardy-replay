@@ -13,12 +13,12 @@ body{font-family:'Oswald','Arial Narrow',sans-serif;font-weight:500;user-select:
 .scorebox.pos{color:#fff}
 #hud .info{font-size:max(11px,2.2vmin);letter-spacing:.12em;color:#aab0ff;text-transform:uppercase;text-align:center;line-height:1.5}
 /* board */
-.board{flex:1;min-height:0;display:grid;grid-template-columns:repeat(6,1fr);grid-template-rows:1.5fr repeat(5,1fr);gap:.7vmin;padding:.8vmin 1.4vmin;background:#000;margin:0 1vmin;border:.7vmin solid #000}
+.board{flex:none;margin:0;width:96%;display:grid;grid-template-columns:repeat(6,1fr);gap:2px;padding:2px;background:#000}
 .cat,.cell{background:linear-gradient(180deg,#0b12ff,var(--blue) 40%,#0509c4);display:flex;align-items:center;justify-content:center;text-align:center;overflow:hidden;position:relative;box-shadow:inset 0 0 0 .25vmin rgba(255,255,255,.08),inset 0 -1vmin 2vmin rgba(0,0,40,.35)}
-.cat{font-family:Anton,Impact,'Arial Narrow',sans-serif;text-transform:uppercase;color:#fff;font-size:min(2.3vw,3.9vh);line-height:1.1;padding:.8vmin .4vmin;letter-spacing:0;text-shadow:.2vmin .25vmin 0 #000;text-align:center}
-.cat span{display:block;width:100%;text-align:center}
-.cell{font-family:Anton,Impact,sans-serif;color:var(--gold);text-shadow:.45vmin .5vmin 0 #000;letter-spacing:.02em}
-.cell span{font-size:var(--vf,5vw);line-height:1}
+.cat{font-family:Anton,Impact,'Arial Narrow',sans-serif;text-transform:uppercase;color:#fff;font-size:12px;line-height:1.1;padding:.3vmin .4vmin;letter-spacing:0;text-shadow:.15vmin .2vmin 0 #000;text-align:center;min-height:0}
+.cat span{display:block;width:100%;text-align:center;overflow-wrap:break-word;hyphens:auto;-webkit-hyphens:auto}
+.cell{font-family:Anton,Impact,sans-serif;color:var(--gold);text-shadow:.3vmin .35vmin 0 #000;letter-spacing:.02em;min-height:0}
+.cell span{font-size:var(--vf,12px);line-height:1;white-space:nowrap}
 .cell.used{background:var(--blue);box-shadow:none;color:transparent;text-shadow:none}
 .cell.flash{animation:flash .22s steps(2) 4}
 @keyframes flash{0%{background:#fff;color:#000;text-shadow:none}100%{background:var(--blue)}}
@@ -99,9 +99,7 @@ table.cmp td small{display:block;font:500 max(10px,1.8vmin) Oswald,sans-serif;le
 .toast{position:absolute;left:50%;top:38%;transform:translate(-50%,-50%);font-family:Anton,Impact,sans-serif;font-size:min(11vw,16vh);color:#ff6a6a;text-shadow:.5vmin .6vmin 0 #000;pointer-events:none;animation:toast .25s ease-out}
 @keyframes toast{from{transform:translate(-50%,-50%) scale(1.5);opacity:0}to{transform:translate(-50%,-50%);opacity:1}}
 @media (orientation:portrait){
- .board{padding:.6vmin;margin:0 .5vmin}
  .card{padding:1.5vmin 2.5vmin 1vmin}
- .board{gap:.5vmin}
  .panel{padding:2vmin 3vmin}
 }
 @media (prefers-reduced-motion:reduce){.dd,.card,.cell.flash{animation:none}}
@@ -123,7 +121,6 @@ table.cmp td small{display:block;font:500 max(10px,1.8vmin) Oswald,sans-serif;le
 .pic{flex:0 0 42%;min-height:0;display:flex;align-items:center;justify-content:center}
 .pic img{max-width:100%;max-height:100%;object-fit:contain;border:.45vmin solid #fff;border-radius:.8vmin;box-shadow:0 .8vmin 2vmin rgba(0,0,0,.55);background:#fff}
 @media (orientation:landscape){.body.hasimg{flex-direction:row;gap:3vmin;align-items:stretch}.body.hasimg .pic{flex:0 0 38%}.body.hasimg .clue{flex:1}}
-@media (orientation:portrait){.board{grid-template-rows:1.25fr repeat(5,1fr)}.board{padding:.4vmin;margin:0 .3vmin}}
 
 .skip{background:none;border:0;color:#aab0ff;font:500 max(12px,2.2vmin) Oswald,sans-serif;letter-spacing:.14em;text-transform:uppercase;padding:.6vmin 2vmin;cursor:pointer;text-decoration:underline;text-underline-offset:.5vmin;text-decoration-color:rgba(170,176,255,.45)}
 .skip:active{color:#fff}
@@ -136,3 +133,7 @@ body.kb .pic{flex-basis:26%}
 body.kb .foot{min-height:0}
 @media (max-height:520px){body.typing #hud{display:none}.banner{padding:.6vmin 2vmin .5vmin}.ccbox{height:max(34px,9vmin)}.foot{min-height:0}.pic{flex-basis:26%}}
 .answer-row input{font-size:max(18px,4vmin)!important}
+
+.bw{flex:1;min-height:0;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:1.2vmin;padding-top:.5vmin}
+.ff{background:rgba(255,255,255,.08);border:.2vmin solid rgba(255,255,255,.18);border-radius:3vmin;color:#fff;font-size:max(18px,3.2vmin);line-height:1;padding:.7vmin 3vmin;opacity:.38;cursor:pointer;transition:opacity .15s;margin:0 auto;min-height:32px}
+.ff:hover,.ff:active,.ff:focus-visible{opacity:1;background:rgba(255,255,255,.2)}
