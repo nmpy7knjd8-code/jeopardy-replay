@@ -1,0 +1,969 @@
+{
+ "show": "#6266",
+ "aired": "2011-12-12",
+ "note": "Alex returns to conducting contestant interviews from near contestant lecterns.",
+ "contestants": [
+  {
+   "name": "Chuck Rezac",
+   "bio": "a cattle ranch hand from Emmett, Kansas",
+   "short": "Chuck"
+  },
+  {
+   "name": "Ellen Tabor",
+   "bio": "a psychiatrist from New York, New York",
+   "short": "Ellen"
+  },
+  {
+   "name": "Drew Bayers",
+   "bio": "a music supervisor originally from Milford, Connecticut (whose 1-day cash winnings total $19,200)",
+   "short": "Drew"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Drew": 5200,
+   "Ellen": 5200,
+   "Chuck": 2400
+  },
+  "DJ": {
+   "Drew": 11600,
+   "Ellen": 10000,
+   "Chuck": 13600
+  },
+  "Final": {
+   "Drew": 23200,
+   "Ellen": 10000,
+   "Chuck": 25200
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "AMERICAN POETS",
+    "INITIAL TV",
+    "COOKBOOKS",
+    "NOT ACTUALLY A STATE CAPITAL",
+    "TAKING SPECIAL MEASURES",
+    "GET A \"CLU\""
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 14,
+     "q": "He published the first edition of \"Leaves of Grass\" at his own expense & even set some of the type for it",
+     "a": "(Walt) Whitman",
+     "right": [
+      "Drew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "Mark Harmon investigates all crimes involving U.S. Navy & Marine Corps personnel on this drama",
+     "a": "NCIS",
+     "right": [
+      "Drew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 11,
+     "q": "Matt Armendariz has a whole book devoted to foods \"on a\" this! like hot dogs, fried mozzarella & chicken satay",
+     "a": "on a stick",
+     "right": [
+      "Drew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 3,
+     "q": "Witch hunting was more fashionable in this city 16 miles N.E. of Boston than in its West Coast counterpart",
+     "a": "Salem",
+     "right": [
+      "Ellen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 9,
+     "q": "It just came to me out of the blue--it's a measure of cloth, usually 40 yards",
+     "a": "a bolt",
+     "right": [
+      "Chuck"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 26,
+     "q": "Thick stick",
+     "a": "a club",
+     "right": [
+      "Drew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 15,
+     "q": "Upon this woman's death in 1886, her sister Lavinia found nearly 1,000 poems hidden away in her bureau",
+     "a": "Emily Dickinson",
+     "right": [
+      "Chuck"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "Hawkeye & Trapper John shared a tent called The Swamp on this sitcom",
+     "a": "M*A*S*H",
+     "right": [
+      "Ellen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 19,
+     "q": "In a twist on the meat dish, \"How to Cook Everything Vegetarian\" has a recipe for chili non this",
+     "a": "carne",
+     "right": [
+      "Drew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 4,
+     "q": "This city that lies about 125 miles from the mouth of the Savannah River is known for a certain golf course",
+     "a": "Augusta",
+     "right": [
+      "Chuck"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 10,
+     "q": "For my daughter's suitors' reference, my shotgun has a bore just under 3/4 of an inch wide, so it's a 12-this",
+     "a": "gauge",
+     "right": [
+      "Ellen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "To litter with things in a disorderly manner",
+     "a": "clutter",
+     "right": [
+      "Ellen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 17,
+     "q": "Shortly after becoming engaged to Sarah Shelton, he fell ill in a Baltimore tavern & died 4 days later on October 7, 1849",
+     "a": "(Edgar Allan) Poe",
+     "right": [
+      "Drew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 6,
+     "q": "In April 2009 the doors of Chicago's County General Hospital closed to TV viewers as this show ended",
+     "a": "ER",
+     "right": [
+      "Ellen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 20,
+     "q": "In \"The Lady & Sons Savannah Country Cookbook\", Paula Deen has a section on these, including Confederate bean",
+     "a": "soup",
+     "right": [
+      "Ellen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": true,
+     "order": 5,
+     "q": "You'll find the University of Missouri's main campus in this city--the one in Missouri, not in South Carolina",
+     "a": "Columbia",
+     "right": [
+      "Chuck"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1000
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 16,
+     "q": "Please tell us you know that a hoppus foot measures this building material--& tell us chop chop",
+     "a": "lumber (timber)",
+     "right": [
+      "Drew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 28,
+     "q": "Hen call",
+     "a": "a cluck",
+     "right": [
+      "Chuck"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 18,
+     "q": "This family of poets born in & around Boston includes Amy, James Russell & Robert",
+     "a": "the Lowells",
+     "right": [
+      "Ellen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 12,
+     "q": "Ponch & Jon were motorcycle cops on this '70s police drama",
+     "a": "CHiPs",
+     "right": [
+      "Drew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 21,
+     "q": "This chef whose last name is an anagram of bread published a book \"On Bread\" in 1973",
+     "a": "(James) Beard",
+     "right": [
+      "Chuck"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 7,
+     "q": "Home of the Cascade Falls, this city in Michigan (not Mississippi) is also called \"The Rose City\"",
+     "a": "Jackson",
+     "right": [
+      "Chuck"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 24,
+     "q": "Used in surveying, this unit is equal to one hundredth of a chain",
+     "a": "a link",
+     "right": [],
+     "wrong": [
+      "Chuck"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "Ungainly",
+     "a": "clumsy",
+     "right": [
+      "Ellen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 25,
+     "q": "In \"Concord Hymn\", he wrote, \"Here once the embattled farmers stood, and fired the shot heard round the world\"",
+     "a": "Ralph Waldo Emerson",
+     "right": [],
+     "wrong": [
+      "Chuck"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 13,
+     "q": "The beer-drinking MacKenzie brothers were a staple on this comedy show whose full name once included \"Network 90\"",
+     "a": "SCTV",
+     "right": [
+      "Drew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 22,
+     "q": "This Bravo star & former \"New York Housewife\" offers up some easy & healthy recipes in \"The Skinnygirl Dish\"",
+     "a": "Bethenny Frankel",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 8,
+     "q": "It's the seat of Illinois' Logan County & shares its name with the capital of a different Midwest state",
+     "a": "Lincoln",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 23,
+     "q": "1 of the 2 units, each 3 letters long & starting with \"R\", that measure radiation exposure from X-rays",
+     "a": "rads (or rem)",
+     "right": [
+      "Ellen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 30,
+     "q": "This type of heavenly group seen here is held together by mutual attraction",
+     "a": "a (star) cluster",
+     "right": [
+      "Drew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "MATH",
+    "ALSO A PRESIDENT'S SURNAME",
+    "BILLIARDS",
+    "FRENCH HISTORY",
+    "CARTS, WAGONS & SLEDS",
+    "RAND CORPORATION"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 3,
+     "q": "It's the result of one or more multiplications",
+     "a": "a product",
+     "right": [
+      "Ellen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "A shrub",
+     "a": "Bush",
+     "right": [
+      "Ellen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 19,
+     "q": "In 8-ball the balls are racked in this shape, with the 8 ball in the center",
+     "a": "a triangle",
+     "right": [
+      "Drew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 17,
+     "q": "Joan of Arc became the maid of this city when she led French troops to victory there in May 1429",
+     "a": "Orleans",
+     "right": [
+      "Chuck"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "Used to transport small loads like lawn dirt, it's a cart with 1 tire & a shallow body, held & pushed by handles",
+     "a": "a wheelbarrow",
+     "right": [
+      "Drew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 12,
+     "q": "Seen here are 1960s designs by engineer James Drake, who made use of RAND's Santa Monica location to become the father of this sport",
+     "a": "windsurfing",
+     "right": [
+      "Drew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 4,
+     "q": "When he wasn't busy rubaiyating, this 11th century renaissance man wrote a pioneering work on algebra",
+     "a": "Omar Khayyam",
+     "right": [
+      "Ellen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 7,
+     "q": "Carolla, Ant & Sandler",
+     "a": "Adams",
+     "right": [
+      "Ellen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 27,
+     "q": "The bed, or top, of a billiard table is usually made of this rock & can weigh as much as 800 pounds",
+     "a": "slate",
+     "right": [
+      "Chuck"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 18,
+     "q": "On May 10, 1981 France elected as president this socialist who then nationalized most of the private banks",
+     "a": "Francois Mitterrand",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 23,
+     "q": "It can be a sled or toboggan, someone riding in one, or a mat you put under a drink",
+     "a": "a coaster",
+     "right": [
+      "Ellen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 13,
+     "q": "RAND research culminated in a 1987 treaty on these 3-element compounds that break down the ozone layer",
+     "a": "CFCs",
+     "right": [
+      "Drew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 5,
+     "q": "The prefix \"mega\" denotes 10 to the 6th power; \"giga\", 10 to this power",
+     "a": "the ninth",
+     "right": [
+      "Chuck"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 9,
+     "q": "Shallow, crossable part of a river",
+     "a": "Ford",
+     "right": [
+      "Chuck"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 28,
+     "q": "This white object gave its name to a bald \"Dick Tracy\" villain",
+     "a": "cue ball",
+     "right": [
+      "Drew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": true,
+     "order": 20,
+     "q": "In a July 6, 2003 referendum, this Mediterranean island narrowly defeated a plan for limited autonomy",
+     "a": "Corsica",
+     "right": [
+      "Drew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2000
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 24,
+     "q": "It's a 2-wheeled wagon used to carry artillery ammunition; in song, they \"go rolling along\"",
+     "a": "caissons",
+     "right": [
+      "Chuck"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 14,
+     "q": "In the first book on this, computers doing tasks associated with human intellect, 6 chapters had been RAND reports",
+     "a": "Artificial Intelligence",
+     "right": [
+      "Chuck"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 6,
+     "q": "Jean Poncelet's work on conic sections helped found the \"projective\" form of this branch of mathematics",
+     "a": "geometry",
+     "right": [
+      "Drew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 10,
+     "q": "To puncture",
+     "a": "to pierce",
+     "right": [
+      "Chuck"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 29,
+     "q": "Snooker is played with 15 balls of this color & 6 balls of other colors",
+     "a": "red",
+     "right": [
+      "Chuck"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 21,
+     "q": "(Jimmy of the Clue Crew shows a map on the monitor.) In June 1940, France was split into German-occupied France & Vichy France; 2 1/2 years later, Germany gained control of a large part of continental France; Italy gained most of the area east of this river",
+     "a": "the Rhone",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 25,
+     "q": "A color & a woman's name combine in this term for a police wagon",
+     "a": "a Black Maria",
+     "right": [
+      "Ellen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 15,
+     "q": "Packet switching, the basic idea of the Internet, came from '60s research on communications in case of this awful event",
+     "a": "nuclear war",
+     "right": [
+      "Drew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 8,
+     "q": "Mathematicians disagree as to whether zero belongs in this set of numbers denoted N",
+     "a": "the natural numbers",
+     "right": [
+      "Chuck"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 11,
+     "q": "To allow",
+     "a": "Grant",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 30,
+     "q": "In 1845 this firm manufactured its first pool table for a Cincinnati meatpacker; it's sold millions of tables since then",
+     "a": "the Brunswick Corporation",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 22,
+     "q": "The October 1415 battle of this fortress, lost to the English, actually took place in a nearby muddy field",
+     "a": "Agincourt",
+     "right": [],
+     "wrong": [
+      "Ellen"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 26,
+     "q": "This Olympic sport gets its name from the metal sled introduced in the 1890s & what some people thought it resembled",
+     "a": "a skeleton",
+     "right": [
+      "Ellen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": true,
+     "order": 16,
+     "q": "The field called this \"theory\", which has influenced economics & other disciplines, was expanded at RAND in the '40s",
+     "a": "game theory",
+     "right": [],
+     "wrong": [
+      "Drew"
+     ],
+     "stumper": false,
+     "img": true,
+     "ddWager": 2000
+    }
+   ]
+  }
+ },
+ "gameId": "3780",
+ "final": {
+  "cat": "THE BILLBOARD TOP 40",
+  "q": "Previously done by the Trapp Family, this song about an instrumentalist was a Top 40 hit every December from 1958 to 1962",
+  "a": "\"The Little Drummer Boy\"",
+  "right": [
+   "Drew",
+   "Chuck"
+  ],
+  "wrong": [
+   "Ellen"
+  ]
+ }
+}

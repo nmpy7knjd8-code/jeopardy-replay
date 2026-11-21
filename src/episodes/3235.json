@@ -1,0 +1,981 @@
+{
+ "show": "#5804",
+ "aired": "2009-12-03",
+ "note": "Dave Belote game 2.",
+ "contestants": [
+  {
+   "name": "Emily Brown",
+   "bio": "a fund-raiser from Lincoln, Rhode Island",
+   "short": "Emily"
+  },
+  {
+   "name": "Todd Ryan",
+   "bio": "a biology student from Jacksonville, Florida",
+   "short": "Todd"
+  },
+  {
+   "name": "Dave Belote",
+   "bio": "the base commander from Nellis Air Force Base, Las Vegas (whose 1-day cash winnings total $39,999)",
+   "short": "Dave"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Dave": 5600,
+   "Todd": 9400,
+   "Emily": 3400
+  },
+  "DJ": {
+   "Dave": 13200,
+   "Todd": 20600,
+   "Emily": 15200
+  },
+  "Final": {
+   "Dave": 20601,
+   "Todd": 20600,
+   "Emily": 0
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "NATIONAL ANTHEMS",
+    "DOUBLE-LETTER WORDS",
+    "JAILHOUSE ROCK",
+    "ALSO A U.S. STATE",
+    "COMMON LAST NAME'S THE SAME",
+    "WOODSTOCK"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "\"Send her victorious, Happy and glorious, Long to reign over us, God save the Queen\"",
+     "a": "the United Kingdom",
+     "right": [
+      "Todd"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 30,
+     "q": "In Islam, the supreme being",
+     "a": "Allah",
+     "right": [
+      "Emily"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 12,
+     "q": "Al Capone & Machine Gun Kelly did time on this rock in San Francisco Bay",
+     "a": "Alcatraz",
+     "right": [
+      "Todd"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 17,
+     "q": "It was destroyed in Havana Harbor on Feb. 15, 1898",
+     "a": "the USS Maine",
+     "right": [
+      "Todd"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 7,
+     "q": "Samuel,\nDon,\nRafer",
+     "a": "Johnson",
+     "right": [],
+     "wrong": [
+      "Dave",
+      "Todd"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 2,
+     "q": "(Jimmy of the Clue Crew reports from inside the Museum at Bethel Woods, New York.) For an exhibit commemorating the 40th anniversary of the event, the museum constructed a replica of the Montreal hotel room used by this couple during their Bed-In for Peace",
+     "a": "John & Yoko",
+     "right": [
+      "Todd"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 22,
+     "q": "\"Arise, Ye Who Refuse To Be Slaves; With Our Very Flesh And Blood Let Us Build Our New Great Wall\"",
+     "a": "China",
+     "right": [
+      "Todd"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 29,
+     "q": "In baseball, it's a play in which a runner is caught off base & thrown out by the pitcher or catcher",
+     "a": "a pickoff",
+     "right": [
+      "Dave"
+     ],
+     "wrong": [
+      "Todd",
+      "Emily"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 13,
+     "q": "From 1964 to 1982 this Nobelist was incarcerated on rocky Robben Island off the coast of Cape Town",
+     "a": "Mandela",
+     "right": [
+      "Dave"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 18,
+     "q": "A numbered shirt you just bought from your favorite football team",
+     "a": "a New Jersey",
+     "right": [
+      "Dave"
+     ],
+     "wrong": [
+      "Todd"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 8,
+     "q": "Tom,\nShirley,\nDavy",
+     "a": "Jones",
+     "right": [
+      "Dave"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 3,
+     "q": "(Jimmy of the Clue Crew reports from outside the Museum at Bethel Woods, New York.) If you can't make it here to upstate New York, go to woodstock.com to read bios of performers like this man who closed the festival with blistering versions of \"The Star Spangled Banner\" & \"Hey Joe\"",
+     "a": "Jimi Hendrix",
+     "right": [
+      "Todd"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 23,
+     "q": "\"All Should Love, Awe And Cherish Thee, Gracious Is Thy Nile To Humanity\"",
+     "a": "Egypt",
+     "right": [
+      "Todd"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 28,
+     "q": "To baby, or to cook eggs in water just below the boiling point",
+     "a": "to coddle",
+     "right": [
+      "Dave"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 14,
+     "q": "The infamous penal colony on this rocky islet off the coast of South America opened in 1852",
+     "a": "Devil's Island",
+     "right": [
+      "Emily"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 19,
+     "q": "This band of \"Wayward Sons\" is fronted by Steve Walsh",
+     "a": "Kansas",
+     "right": [
+      "Todd"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 9,
+     "q": "Kate,\nKeely,\nWill",
+     "a": "Smith",
+     "right": [
+      "Emily"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 4,
+     "q": "(Kelly of the Clue Crew reports from inside the Museum at Bethel Woods, New York.) In the museum's theater, visitors can relax on beanbag chairs & watch festival highlights, such as the work of this Indian sitar master & friend of The Beatles",
+     "a": "Ravi Shankar",
+     "right": [
+      "Emily"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 24,
+     "q": "\"Sons Of The Gael! Men Of The Pale! The Long Watched Day Is Breaking\"",
+     "a": "Ireland",
+     "right": [
+      "Dave"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 27,
+     "q": "From the Middle English for \"knife\", it means to cut small shavings from a piece of wood",
+     "a": "to whittle",
+     "right": [
+      "Todd"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 15,
+     "q": "Accused Kurdish terrorist Abdullah Ocalan is the sole inmate held on this country's rocky island of Imrali",
+     "a": "Turkey",
+     "right": [
+      "Dave"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": true,
+     "order": 20,
+     "q": "2-word beseeching request for Ms. Fanning to continue in the direction of Antarctica",
+     "a": "South Dakota",
+     "right": [
+      "Todd"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 4000
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 10,
+     "q": "Seth,\nIsiah,\nClarence",
+     "a": "Thomas",
+     "right": [
+      "Emily"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 5,
+     "q": "(Jimmy of the Clue Crew reports from inside the Museum at Bethel Woods, New York.) The festival's iconic poster lists several acts who didn't end up playing, including these heavy metal forefathers who sang \"In-A-Gadda-Da-Vida\"--they ended up stuck at an airport",
+     "a": "Iron Butterfly",
+     "right": [
+      "Todd"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 25,
+     "q": "\"Beneath Our Radiant Southern Cross We'll Toil With Hearts And Hands\"",
+     "a": "Australia",
+     "right": [
+      "Dave"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 26,
+     "q": "A sophisticated debating technique is to point out that \"I'm\" this, \"you're glue\"",
+     "a": "rubber",
+     "right": [
+      "Emily"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 16,
+     "q": "This \"Chateau\" on a tiny rock in the Mediterranean was a prison in real life, not just in \"The Count of Monte Cristo\"",
+     "a": "Château d'If",
+     "right": [
+      "Todd"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 21,
+     "q": "First name of Ms. Engel of \"Mary Tyler Moore\" fame",
+     "a": "Georgia",
+     "right": [
+      "Dave"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 11,
+     "q": "James,\nJerry,\nGatemouth",
+     "a": "Brown",
+     "right": [
+      "Emily"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 6,
+     "q": "(Jimmy of the Clue Crew reports from outside the Museum at Bethel Woods, New York.) Woodstock opened with a performance by this African-American folk artist who was called back for so many encores, he ran out of material & had to improvise his now classic \"Freedom\"",
+     "a": "Richie Havens",
+     "right": [
+      "Todd"
+     ],
+     "wrong": [
+      "Emily"
+     ],
+     "stumper": false,
+     "img": true
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "MATH",
+    "MILESTONE BIRTHDAYS 2009",
+    "OPERA",
+    "LETTER, PLEASE",
+    "DEATH IN VENICE",
+    "LIFE IN DES MOINES"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 11,
+     "q": "Popular in geometry, as in logic, are statements known as \"if...\" this",
+     "a": "& then",
+     "right": [
+      "Todd"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 16,
+     "q": "On September 25 she turned 40 & her husband Michael Douglas turned 65",
+     "a": "Catherine Zeta-Jones",
+     "right": [
+      "Emily"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 23,
+     "q": "\"The Canterbury Pilgrims\", an 1884 opera, is based on a work by him",
+     "a": "Geoffrey Chaucer",
+     "right": [
+      "Todd"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 6,
+     "q": "Thiamin is the first of this vitamin group",
+     "a": "B",
+     "right": [
+      "Dave"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "Peggy of this American family of art patrons turned her Venice palazzo into a museum; her ashes are in its garden",
+     "a": "Guggenheim",
+     "right": [
+      "Emily"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 21,
+     "q": "You can't miss this building, finished in 1886 & regilded in 1927, 1965 & 1998",
+     "a": "the Capitol",
+     "right": [
+      "Dave"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 12,
+     "q": "The formula to find the area of one of these is 1/2 base times height",
+     "a": "a triangle",
+     "right": [
+      "Todd"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 17,
+     "q": "Don't expect this Fox News \"Culture Warrior\" to mellow in his 60s, which started September 10",
+     "a": "Bill O'Reilly",
+     "right": [
+      "Dave"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": true,
+     "order": 29,
+     "q": "Several operas based on \"The Hunchback of Notre Dame\" are named for this Gypsy girl",
+     "a": "Esméralda",
+     "right": [
+      "Emily"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 4000
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 7,
+     "q": "U.N. Secretary-General Thant's initial letter",
+     "a": "U",
+     "right": [
+      "Dave"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 2,
+     "q": "It's the main character Gustave von Aschenbach who succumbs in this author's \"Death in Venice\"",
+     "a": "Thomas Mann",
+     "right": [
+      "Dave"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 22,
+     "q": "A bar, opened in 2005, that re-creates an old-time tavern atmosphere is named for this Miller beer",
+     "a": "High Life",
+     "right": [
+      "Emily"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 13,
+     "q": "In coordinate geometry, the abscissa is the distance of a point from this vertical axis",
+     "a": "the y-axis",
+     "right": [
+      "Todd"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 18,
+     "q": "September marked the 80th birthday of this golfer & the 20th of his hospital that's helped an \"Army\" of kids",
+     "a": "Arnold Palmer",
+     "right": [
+      "Todd"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 27,
+     "q": "In a fairy tale Rossini opera, Angelina is called this",
+     "a": "Cinderella (La Cenerentola)",
+     "right": [],
+     "wrong": [
+      "Emily"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 8,
+     "q": "Females have 2 copies of this chromosome",
+     "a": "X",
+     "right": [
+      "Dave"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 3,
+     "q": "This composer died in the Palazzo Vendramin but was buried in the garden at Wahnfried, his home in Bayreuth",
+     "a": "(Richard) Wagner",
+     "right": [
+      "Emily"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 24,
+     "q": "Let's visit Wallace House, home to a family that produced 2 Secys. of this; maybe there'll be Vilsack House someday",
+     "a": "agriculture",
+     "right": [
+      "Dave"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 14,
+     "q": "The continuous summing of a change in a function over an interval, it's the inverse process of differentiation",
+     "a": "integration",
+     "right": [
+      "Todd"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 19,
+     "q": "We hope his cast mates threw him an \"Office\" party when he turned 30 on October 20",
+     "a": "(John) Krasinski",
+     "right": [
+      "Emily"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 26,
+     "q": "\"Pagliacci\" is almost always performed with this 1-act Mascagni opera, \"Cav\" for short",
+     "a": "Cavalleria rusticana",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 9,
+     "q": "Tomcats, Falcons & Eagles get this alphabetical designation in the Air Force",
+     "a": "F",
+     "right": [
+      "Todd"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 4,
+     "q": "This physicist who noted an effect in sound waves from moving sources died in Venice in 1853 & is buried in its San Michele",
+     "a": "(Christian) Doppler",
+     "right": [
+      "Emily"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 3000
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 25,
+     "q": "The annual Pridefest is more festive since the April 2009 decision that allowed this in Iowa",
+     "a": "gay marriage",
+     "right": [
+      "Emily"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 15,
+     "q": "When 2 of these intersect, their intersection is a straight line",
+     "a": "a plane",
+     "right": [
+      "Dave"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 20,
+     "q": "She married fellow musician Ryan Adams in March, a month before turning 25",
+     "a": "Mandy Moore",
+     "right": [
+      "Todd"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 28,
+     "q": "Tom Rakewell is lured into a life of vice in this 1951 opera based on a series of engravings by William Hogarth",
+     "a": "The Rake's Progress",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 10,
+     "q": "Precedes \"priori\" in a Latin phrase used in the study of logic",
+     "a": "a",
+     "right": [
+      "Todd"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 5,
+     "q": "This Russian founder of the Ballets Russes fell into a coma & died while on holiday in Venice",
+     "a": "Sergei Diaghilev",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 30,
+     "q": "Des Moinesians keep current with this newspaper, founded in a log cabin in 1849",
+     "a": "The Des Moines Register",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    }
+   ]
+  }
+ },
+ "gameId": "3235",
+ "final": {
+  "cat": "SHAKESPEARE'S WOMEN",
+  "q": "The name of this royal daughter from a tragedy is from a word meaning \"little king\"",
+  "a": "Regan (from King Lear)",
+  "right": [
+   "Dave"
+  ],
+  "wrong": [
+   "Emily",
+   "Todd"
+  ]
+ }
+}
