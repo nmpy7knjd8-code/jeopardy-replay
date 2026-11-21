@@ -55,6 +55,7 @@ Clue pictures are from Wikimedia Commons (each under its own license; see the li
 | 3844-J_0_0.jpg | [Iglesia de san francisco 300 dpi.jpg](https://commons.wikimedia.org/wiki/File:Iglesia_de_san_francisco_300_dpi.jpg) | Tomascastelazo | CC BY-SA 3.0 |
 | 3844-J_0_3.jpg | [Jamaica Iowa 20080118 Sign.JPG](https://commons.wikimedia.org/wiki/File:Jamaica_Iowa_20080118_Sign.JPG) | Ashton B Crew | CC BY-SA 3.0 |
 | 3844-J_2_1.jpg | [Sodium Atom.png](https://commons.wikimedia.org/wiki/File:Sodium_Atom.png) | Plazmi | CC BY-SA 4.0 |
+| 4001-J_2_2.jpg | [Keith Olbermann (3518745698).jpg](https://commons.wikimedia.org/wiki/File:Keith_Olbermann_(3518745698).jpg) | Jay Tamboli from Washington, DC, US | CC BY 2.0 |
 | 4101-DJ_1_2.jpg | [Tony Hawk in 2023.jpg](https://commons.wikimedia.org/wiki/File:Tony_Hawk_in_2023.jpg) | Christopher Michel | CC BY-SA 4.0 |
 | 4101-DJ_5_2.jpg | [Cathy Barry iafd.jpg](https://commons.wikimedia.org/wiki/File:Cathy_Barry_iafd.jpg) | www.iafd.com | CC BY-SA 2.0 |
 | 4101-J_0_0.jpg | [Play fight IMG 3018.JPG](https://commons.wikimedia.org/wiki/File:Play_fight_IMG_3018.JPG) | Brocken Inaglory | CC BY-SA 3.0 |
@@ -75,10 +76,15 @@ Clue pictures are from Wikimedia Commons (each under its own license; see the li
 | 466-J_4_3.jpg | [Stainless steel ball chain.jpg](https://commons.wikimedia.org/wiki/File:Stainless_steel_ball_chain.jpg) | W.carter | CC BY-SA 4.0 |
 | 466-J_4_4.jpg | [Scleroderma vulgaris.jpg](https://commons.wikimedia.org/wiki/File:Scleroderma_vulgaris.jpg) | DidierFy | CC BY-SA 4.0 |
 | 4697-DJ_5_1.jpg | [East Lothian Landscape , The Wichita Lineman - geograph.org.uk - 2526350.jpg](https://commons.wikimedia.org/wiki/File:East_Lothian_Landscape_,_The_Wichita_Lineman_-_geograph.org.uk_-_2526350.jpg) | Richard West | CC BY-SA 2.0 |
+| 4748-J_1_1.jpg | [Wicked Witch2.jpg](https://commons.wikimedia.org/wiki/File:Wicked_Witch2.jpg) | William Wallace Denslow, illustrator | Public domain |
 | 476-J_3_2.jpg | [Jan and Dean performing at Orange County Fair, 1985.jpg](https://commons.wikimedia.org/wiki/File:Jan_and_Dean_performing_at_Orange_County_Fair,_1985.jpg) | Author unknown; Photo courtesy Orange County Archives | No restrictions |
 | 4846-DJ_5_1.jpg | [Vista de Seattle, Washington, Estados Unidos, 2017-09-02, DD 07-08 HDR.jpg](https://commons.wikimedia.org/wiki/File:Vista_de_Seattle,_Washington,_Estados_Unidos,_2017-09-02,_DD_07-08_HDR.jpg) | Diego Delso | CC BY-SA 4.0 |
 | 5203-DJ_3_0.jpg | [Brazil Nordest House interior.jpg](https://commons.wikimedia.org/wiki/File:Brazil_Nordest_House_interior.jpg) | Wilfredor | CC0 |
 | 5203-J_5_4.jpg | [Long Island City New York May 2015 panorama 3.jpg](https://commons.wikimedia.org/wiki/File:Long_Island_City_New_York_May_2015_panorama_3.jpg) | King of Hearts | CC BY-SA 3.0 |
+| 5241-DJ_4_4.jpg | [Clustered Spires High-wheel bicycle race 2023 MD12.jpg](https://commons.wikimedia.org/wiki/File:Clustered_Spires_High-wheel_bicycle_race_2023_MD12.jpg) | Acroterion | CC BY-SA 4.0 |
+| 5351-J_0_2.jpg | [Grauman's Chinese Theatre, by Carol Highsmith fixed & straightened.jpg](https://commons.wikimedia.org/wiki/File:Grauman%27s_Chinese_Theatre,_by_Carol_Highsmith_fixed_%26_straightened.jpg) | Carol M. Highsmith | Public domain |
+| 5467-DJ_3_3.jpg | [Banana boat.jpg](https://commons.wikimedia.org/wiki/File:Banana_boat.jpg) | Andrew Malone | CC BY 2.0 |
+| 5467-J_4_1.jpg | [Martin Shkreli 2016.jpg](https://commons.wikimedia.org/wiki/File:Martin_Shkreli_2016.jpg) | House Committee on Oversight and Government Reform | Public domain |
 | 5521-DJ_2_0.jpg | [Hangar.svg](https://commons.wikimedia.org/wiki/File:Hangar.svg) | Hangar.jpeg: created by NASA / derivative work: Malyszkz | Public domain |
 | 5521-DJ_4_1.jpg | [Allium schoenoprasum (Bieslook). actm.jpg](https://commons.wikimedia.org/wiki/File:Allium_schoenoprasum_(Bieslook)._actm.jpg) | Agnes Monkelbaan | CC BY-SA 4.0 |
 | 5521-DJ_4_3.jpg | [Biological clock human.svg](https://commons.wikimedia.org/wiki/File:Biological_clock_human.svg) | NoNameGYassineMrabetTalk✉ fixed by Addicted04 | CC BY-SA 3.0 |

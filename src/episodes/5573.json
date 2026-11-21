@@ -1,0 +1,972 @@
+{
+ "show": "#7495",
+ "aired": "2017-03-24",
+ "note": "",
+ "contestants": [
+  {
+   "name": "Robert Weibezahl",
+   "bio": "a writer from Westlake Village, California",
+   "short": "Robert"
+  },
+  {
+   "name": "Jon Beebe",
+   "bio": "a software developer from New York, New York",
+   "short": "Jon"
+  },
+  {
+   "name": "Stephanie Garrone-Shufran",
+   "bio": "a teacher educator from Woburn, Massachusetts (whose 1-day cash winnings total $17,400)",
+   "short": "Stephanie"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Stephanie": 1000,
+   "Jon": 8400,
+   "Robert": 2600
+  },
+  "DJ": {
+   "Stephanie": 1800,
+   "Jon": 12400,
+   "Robert": 9000
+  },
+  "Final": {
+   "Stephanie": 0,
+   "Jon": 6799,
+   "Robert": 11000
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "ART & THE BIBLE",
+    "STATE",
+    "OH, THE HORROR!",
+    "THE \"LONG\" & THE \"SHORT\" OF IT",
+    "GREETINGS",
+    "WHAT'S IN YOUR POCKET?"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 13,
+     "q": "Here, Fra Angelico depicts this happening to Adam & Eve, like students who've misbehaved at school",
+     "a": "banishment (or being expelled from the garden)",
+     "right": [
+      "Stephanie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 20,
+     "q": "Wisconsin named this type of cow such as Holstein its state domestic animal & milks it for all it's worth",
+     "a": "a dairy cow",
+     "right": [
+      "Jon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 24,
+     "q": "In the original film it's the night in 1963 when 6-year-old Michael Myers stabbed his sister to death",
+     "a": "Halloween",
+     "right": [
+      "Robert"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "Thermal underwear",
+     "a": "long johns",
+     "right": [
+      "Stephanie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 14,
+     "q": "Bear is an enthusiastic type of this greeting",
+     "a": "a hug",
+     "right": [
+      "Stephanie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 9,
+     "q": "One of these 5-letter drives so when we get to your house, I can show you thousands of photos of my cats",
+     "a": "a flash drive",
+     "right": [
+      "Jon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 16,
+     "q": "2 ancient sculptures at the Cleveland Museum of Art show him being \"swallowed\" & \"cast up\"",
+     "a": "Jonah",
+     "right": [
+      "Jon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 19,
+     "q": "The back of Virginia's state quarter shows 3 ships landing at this spot in 1607",
+     "a": "Jamestown",
+     "right": [
+      "Robert"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 26,
+     "q": "\"Roanoke\", about a haunted farm house in North Carolina, is the sixth season of this FX anthology",
+     "a": "American Horror Story",
+     "right": [
+      "Robert"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "When it's Girl Scout cookie time, stock up on Trefoils, this type of cookie",
+     "a": "shortbread",
+     "right": [
+      "Jon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 15,
+     "q": "In 2014 Maori leaders in this nation greeted the Duchess of Cambridge with the traditional hongi, touching noses",
+     "a": "New Zealand",
+     "right": [
+      "Robert"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 10,
+     "q": "This 6-letter synonym for a talisman that I carry for good luck & to ward off evil",
+     "a": "an amulet",
+     "right": [
+      "Jon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 17,
+     "q": "\"The Penitent\" this woman is the subject of a painting by van Dyck",
+     "a": "Mary Magdalene",
+     "right": [
+      "Robert"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 4,
+     "q": "Though today we think of it as Midwestern, Ohio was the first state carved out of this territory",
+     "a": "the Northwest Territory",
+     "right": [
+      "Jon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 27,
+     "q": "Both a 1999 film & its 2016 sequel feature found footage exploring this title figure in the Maryland woods",
+     "a": "The Blair Witch Project",
+     "right": [
+      "Jon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 3,
+     "q": "MLB's Carlos Correa & Corey Seager",
+     "a": "shortstops",
+     "right": [
+      "Jon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 21,
+     "q": "If you're eager to receive a guest you proverbially \"put out\" this item with a 7-letter word on it",
+     "a": "the welcome mat",
+     "right": [
+      "Stephanie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 11,
+     "q": "I carry a flask full of this cinnamon whisky that \"tastes like heaven\" & \"burns like hell\"",
+     "a": "Fireball",
+     "right": [
+      "Jon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 18,
+     "q": "At the Hermitage in Russia is Rembrandt's painting of David saying goodbye to this friend & son of Saul",
+     "a": "Jonathan",
+     "right": [
+      "Jon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 5,
+     "q": "Bradford, Brevard & Broward are all counties in this state",
+     "a": "Florida",
+     "right": [
+      "Jon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "\"What's Wrong With Norman\" was an episode of this drama on A&E",
+     "a": "Bates Motel",
+     "right": [
+      "Robert"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 7,
+     "q": "Stephen King's \"The Glass Floor\" or \"Graveyard Shift\"",
+     "a": "short stories",
+     "right": [
+      "Jon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": true,
+     "order": 22,
+     "q": "British restraint doesn't get much more restrained than this 4-word greeting used in Africa in 1871",
+     "a": "\"Dr. Livingstone, I presume?\"",
+     "right": [],
+     "wrong": [
+      "Stephanie"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1200
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 12,
+     "q": "Glad you asked; it's a fountain pen from this \"Alpine\" company with an 18K gold nib & a diamond cap-top",
+     "a": "Montblanc",
+     "right": [
+      "Robert"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 25,
+     "q": "The painting seen here depicts this event found in Matthew",
+     "a": "the Sermon on the Mount",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 6,
+     "q": "New York's 445-mile border with Canada includes all 36 miles of this river",
+     "a": "the Niagara River",
+     "right": [],
+     "wrong": [
+      "Robert"
+     ],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 30,
+     "q": "Ghostface, the white-masked killer in this 1996 film, asks, \"What's your favorite scary movie?",
+     "a": "Scream",
+     "right": [
+      "Jon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 8,
+     "q": "This phrase meaning \"old\" alludes to a horse's gums receding as it ages",
+     "a": "long in the tooth",
+     "right": [
+      "Jon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 23,
+     "q": "Spoken greetings in more than 50 languages were sent along on this craft & its twin launched in 1977",
+     "a": "Voyager",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 28,
+     "q": "The keys to my 911 Turbo one of these",
+     "a": "a Porsche",
+     "right": [
+      "Stephanie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "LITERARY EDINBURGH",
+    "\"BETA\" TEST",
+    "BLUESY MUSIC",
+    "OIL!",
+    "FAMOUS AMERICAN WOMEN",
+    "DIFFERING BY A VOWEL"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 6,
+     "q": "She finished writing the first \"Harry Potter\" book while living in Edinburgh",
+     "a": "Rowling",
+     "right": [
+      "Stephanie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 7,
+     "q": "AKA Provitamin A, it gives a bright orange color to vegetables",
+     "a": "beta-Carotene",
+     "right": [
+      "Stephanie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 19,
+     "q": "The standard blues musical form is one of this many bars",
+     "a": "twelve",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 29,
+     "q": "With over 250 billion barrels of crude reserves, this Mideast nation is the world's No. 1 oil exporter",
+     "a": "Saudi Arabia",
+     "right": [
+      "Jon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "In 2016, 40 years after she became a \"Today\" show regular, she became the new host of CBS' \"Sunday Morning\"",
+     "a": "Jane Pauley",
+     "right": [
+      "Robert"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 20,
+     "q": "A prophetic sign & a prayer ending",
+     "a": "omen and amen",
+     "right": [
+      "Stephanie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 11,
+     "q": "It's elementary! Here's this author who was born in Edinburgh",
+     "a": "(Sir Arthur Conan) Doyle",
+     "right": [
+      "Jon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 8,
+     "q": "These drugs that suppress reactions in heart cells are prescribed to treat anxiety & angina",
+     "a": "beta blockers",
+     "right": [
+      "Jon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 25,
+     "q": "Legend has it, having forgotten about a 1924 deadline, George Gershwin wrote this piece in 3 weeks",
+     "a": "\"Rhapsody In Blue\"",
+     "right": [
+      "Robert"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 17,
+     "q": "In oil exploration geologists look for these compounds that consist only of the 2 elements symbolized by H & C",
+     "a": "hydrocarbons",
+     "right": [
+      "Jon"
+     ],
+     "wrong": [
+      "Robert"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 2,
+     "q": "In 1889 journalist Nellie Bly tried to beat the record of Phileas Fogg in this novel & did, by more than a week",
+     "a": "Around the World in Eighty Days",
+     "right": [
+      "Jon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 14,
+     "q": "Large & heavy & a written message or letter",
+     "a": "massive and missive",
+     "right": [
+      "Stephanie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 22,
+     "q": "In this time-traveling series, Jamie & Claire Fraser visit Bonnie Prince Charlie at Edinburgh's palace of Holyroodhouse",
+     "a": "Outlander",
+     "right": [
+      "Stephanie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 9,
+     "q": "It's the second-brightest star in a constellation named for a man-horse hybrid",
+     "a": "Beta Centauri",
+     "right": [
+      "Jon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 26,
+     "q": "Before going solo, Teddy Pendergrass was the lead singer of Harold Melvin & this group",
+     "a": "the Blue Notes",
+     "right": [
+      "Stephanie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 13,
+     "q": "The jackknife type of this tower over an oil well comes in 2 sections that are assembled on site",
+     "a": "an oil derrick",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 3,
+     "q": "This historian wrote the memoir \"Wait Till Next Year\" about her childhood as Brooklyn Dodgers fan Doris Kearns",
+     "a": "Doris Kearns Goodwin",
+     "right": [
+      "Robert"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 15,
+     "q": "The two Greek letters seen here",
+     "a": "epsilon and upsilon",
+     "right": [
+      "Jon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 23,
+     "q": "This Irvine Welsh novel about heroin addicts in Edinburgh became a film starring Ewan McGregor",
+     "a": "Trainspotting",
+     "right": [
+      "Robert"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 10,
+     "q": "It was founded at the College of William & Mary in 1776; are you a member?",
+     "a": "Phi Beta Kappa",
+     "right": [
+      "Robert"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 27,
+     "q": "He retitled his 1909 song \"Mr. Crump\" \"Memphis Blues\" & the rest is history",
+     "a": "W.C. Handy",
+     "right": [
+      "Robert"
+     ],
+     "wrong": [
+      "Stephanie"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 18,
+     "q": "The site of a major oil leak in 1979, the Bay of Campeche is the southernmost part of this body of water",
+     "a": "the Gulf of Mexico",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 4,
+     "q": "After the Battle of Cedar Mountain in 1862, a surgeon wrote, \"If heaven ever sent out a(n)...angel,\" she \"must be one\"",
+     "a": "Clara Barton",
+     "right": [
+      "Robert"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2000
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 16,
+     "q": "To give an order & to give praise",
+     "a": "command and commend",
+     "right": [
+      "Jon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2000
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 24,
+     "q": "Muriel Spark wrote about \"The Prime of\" this title miss, \"An Edinburgh Spinster\"",
+     "a": "Miss Jean Brodie",
+     "right": [
+      "Robert"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 12,
+     "q": "Electron emission & positron emission are types of this radioactive disintegration",
+     "a": "beta decay",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 28,
+     "q": "The 1970 hit song \"Roadhouse Blues\" by this band warns \"Keep your eyes on the road, your hands upon the wheel\"",
+     "a": "The Doors",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 30,
+     "q": "Last name of Erle, who started an oil well services firm in 1919 that spread worldwide, including Iraq",
+     "a": "Halliburton",
+     "right": [],
+     "wrong": [
+      "Jon",
+      "Robert"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 5,
+     "q": "This New York-born Supreme Court justice was the first female U.S. Solicitor General",
+     "a": "Elena Kagan",
+     "right": [],
+     "wrong": [
+      "Stephanie",
+      "Jon",
+      "Robert"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 21,
+     "q": "A vow to do something & the basis of a theory or plot",
+     "a": "promise and premise",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    }
+   ]
+  }
+ },
+ "gameId": "5573",
+ "final": {
+  "cat": "NATIVE AMERICAN PLACE NAMES",
+  "q": "You have to go through military security to reach this town with a Marine base on 3 sides & the Potomac on the other",
+  "a": "Quantico",
+  "right": [
+   "Robert"
+  ],
+  "wrong": [
+   "Stephanie",
+   "Jon"
+  ]
+ }
+}
