@@ -1,7 +1,9 @@
 """Screenshots of every control surface: intro, board, clue card (phone 375 + desktop). Usage: shot_ui.py <prefix>"""
 import sys, pathlib
 from playwright.sync_api import sync_playwright
-root=pathlib.Path(__file__).resolve().parent.parent; u=(root/'index.html').as_uri(); pre=sys.argv[1] if len(sys.argv)>1 else 'ui'
+sys.path.insert(0,str(pathlib.Path(__file__).resolve().parent))
+from testlib import start_server, ROOT as root
+u=start_server(); pre=sys.argv[1] if len(sys.argv)>1 else 'ui'
 errs=[]
 with sync_playwright() as p:
     b=p.chromium.launch()

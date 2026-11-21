@@ -1,0 +1,985 @@
+{
+ "show": "#8134",
+ "aired": "2020-01-09",
+ "note": "",
+ "contestants": [
+  {
+   "name": "Katie Needle",
+   "bio": "a retail supervisor from Brooklyn, New York",
+   "short": "Katie"
+  },
+  {
+   "name": "Claire Henner",
+   "bio": "a corporate recruiter from Chicago, Illinois",
+   "short": "Claire"
+  },
+  {
+   "name": "Lisa Warne-Magro",
+   "bio": "a homemaker and community volunteer from Austin, Texas (whose 2-day cash winnings total $24,500)",
+   "short": "Lisa"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Lisa": 4800,
+   "Claire": 4800,
+   "Katie": 3800
+  },
+  "DJ": {
+   "Lisa": 18000,
+   "Claire": 4400,
+   "Katie": 20000
+  },
+  "Final": {
+   "Lisa": 18000,
+   "Claire": 1,
+   "Katie": 36001
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "PARADISE BY",
+    "THE DASHBOARD LIGHT",
+    "FAIRY TALES & FOLK TALES",
+    "MAGAZINE COLLECTION",
+    "FROM THE GREEK",
+    "WEIRD FACTS"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 15,
+     "q": "A restaurant was named for this singer's \"Cheeseburger In Paradise\"",
+     "a": "Jimmy Buffett",
+     "right": [
+      "Katie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 11,
+     "q": "The pressure of one of these might be low based on the light seen here",
+     "a": "a tire",
+     "right": [
+      "Claire"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 21,
+     "q": "In an Irish tale, clever Tom captures this title magical creature who promises to bring him wealth, but deceives him instead",
+     "a": "a leprechaun",
+     "right": [
+      "Claire"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 16,
+     "q": "This colorful women's magazine once had sister magazines Blue Book & Green Book",
+     "a": "Redbook",
+     "right": [
+      "Lisa"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "A dramatic play in which the main character is brought to ruin in an unhappy ending",
+     "a": "a tragedy",
+     "right": [
+      "Katie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 6,
+     "q": "Adding this letter before \"OK\" dates back to a NASA official misunderstanding Alan Shepard during his first flight",
+     "a": "A",
+     "right": [
+      "Lisa"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 26,
+     "q": "According to this lead singer, \"Paradise City\" is where \"the grass is green & the girls are pretty\"",
+     "a": "Axl Rose",
+     "right": [
+      "Lisa"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 12,
+     "q": "The temperature of this liquid has gotten too high",
+     "a": "coolant (antifreeze)",
+     "right": [
+      "Lisa"
+     ],
+     "wrong": [
+      "Katie"
+     ],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 22,
+     "q": "Childe Rowland, youngest son of this legendary monarch of Britain, saves his sister & brothers from an elf king",
+     "a": "(King) Arthur",
+     "right": [
+      "Lisa"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 17,
+     "q": "Sports Illustrated has a yearly swimsuit edition; this competing mag is going online-only but will still print its Body Issue",
+     "a": "ESPN The Magazine",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "A word that means the same as another word",
+     "a": "a synonym",
+     "right": [
+      "Lisa"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 7,
+     "q": "The legislature of N.M., the home state of Clyde Tombaugh, has decreed this body to be a planet when it passes over the state",
+     "a": "Pluto",
+     "right": [
+      "Katie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 27,
+     "q": "\"Do you love me? Will you love me forever?\" are lyrics in this singer's \"Paradise By The Dashboard Light\"",
+     "a": "Meat Loaf",
+     "right": [
+      "Katie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 13,
+     "q": "There is a fault in this system if the light stays on",
+     "a": "the airbag system",
+     "right": [
+      "Claire"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 23,
+     "q": "Made famous by Walt Disney, this student uses magic while his teacher is away, leading to loads of trouble",
+     "a": "the Sorcerer's Apprentice",
+     "right": [
+      "Claire"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 18,
+     "q": "This 66-year-old magazine offers a section for shows on Netflix, Hulu & Amazon called \"Stream It!\"",
+     "a": "TV Guide",
+     "right": [
+      "Lisa"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 3,
+     "q": "A wound, or the psychological damage it causes",
+     "a": "a trauma",
+     "right": [
+      "Lisa"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 8,
+     "q": "In an annual competition, you toss a fish west over the state line from Florida to this state",
+     "a": "Alabama",
+     "right": [
+      "Claire"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 28,
+     "q": "\"We keep spending most our lives livin' in a gangsta's paradise\" on a hit by this rapper",
+     "a": "Coolio",
+     "right": [
+      "Claire"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 14,
+     "q": "The glow plug in this type of engine is not hot enough to ignite the fuel",
+     "a": "diesel",
+     "right": [],
+     "wrong": [
+      "Lisa"
+     ],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 24,
+     "q": "In this folk tale, the title barnyard trio faces off against a troll under a bridge",
+     "a": "The Three Billy Goats Gruff",
+     "right": [
+      "Lisa"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": true,
+     "order": 19,
+     "q": "Founded in 1922, this magazine sold longer versions of its condensed articles to other magazines",
+     "a": "Reader's Digest",
+     "right": [
+      "Lisa"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1600
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 4,
+     "q": "An absolute ruler; in ancient Greece it was one who seized power illegally",
+     "a": "a tyrant",
+     "right": [
+      "Katie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 9,
+     "q": "The name of this weasel relative can mean \"to clear out\"; in 1971 Fermilabs used one to clean the tubes of a particle accelerator",
+     "a": "a ferret",
+     "right": [
+      "Claire"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 29,
+     "q": "\"Dark Paradise\" is a song on her album \"Born to Die\"",
+     "a": "Lana Del Rey",
+     "right": [
+      "Katie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 30,
+     "q": "This lamp should only be on if visibility is reduced",
+     "a": "a fog light",
+     "right": [
+      "Claire"
+     ],
+     "wrong": [
+      "Lisa"
+     ],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 25,
+     "q": "The opera \"Rusalka\", about a water nymph who longs to be human, is partly based on this fairy tale by H.C. Andersen",
+     "a": "The Little Mermaid",
+     "right": [
+      "Katie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 20,
+     "q": "Founded in 1885, this magazine established an institute to test consumer goods, which might get its seal of approval",
+     "a": "Good Housekeeping",
+     "right": [
+      "Lisa"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 5,
+     "q": "The science of determining a tree's age by looking at its growth rings",
+     "a": "dendrochronology",
+     "right": [],
+     "wrong": [
+      "Claire"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 10,
+     "q": "Made from this 4-letter wood from India, the HMS Trincomalee is the oldest British warship still afloat",
+     "a": "teak",
+     "right": [
+      "Claire"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "MEDICAL MATTERS",
+    "ORGANIZATIONS",
+    "AMERICAN \"CITY\"",
+    "WORLD LEADERS",
+    "HOMOPHONE CALLS",
+    "IT'S THE GIELGUD MOVIE OF THE YEAR"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 12,
+     "q": "A risk factor for liver cancer is a chronic infection with the B- or C-type of this virus",
+     "a": "hepatitis",
+     "right": [
+      "Lisa"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 19,
+     "q": "I'd like to thank the Recording Academy for handing out these awards, first presented in 1959",
+     "a": "the Grammys",
+     "right": [
+      "Claire"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 6,
+     "q": "Lyndon Johnson accepted the 1964 Democratic nomination in this city's Boardwalk Hall",
+     "a": "Atlantic City",
+     "right": [
+      "Lisa"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 26,
+     "q": "In 1991 Helmut Kohl appointed her Minister for Women & Youth",
+     "a": "Angela Merkel",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "Remember: \"A\", for the city that is the official seat of government in a state; \"O\", for a state legislature building",
+     "a": "capital & capitol",
+     "right": [
+      "Lisa"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 11,
+     "q": "In 1991, 87-year-old Sir John played this \"Tempest\" magician, saying it was the only Shakespeare role he was the right age for",
+     "a": "Prospero",
+     "right": [
+      "Lisa"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 17,
+     "q": "An itching sensation in the chest can signal an attack of this, in which bronchioles narrow",
+     "a": "asthma",
+     "right": [
+      "Claire"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 22,
+     "q": "Warren E. Burger founded this body's historical society & served as its first honorary chairman",
+     "a": "the Supreme Court",
+     "right": [],
+     "wrong": [
+      "Lisa"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 7,
+     "q": "This Nevada city bears the name of John C. Fremont's scout",
+     "a": "Carson City",
+     "right": [
+      "Katie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 27,
+     "q": "This nation's president Dr. Arif Alvi was born in 1949, 2 years after his country achieved independence",
+     "a": "Pakistan",
+     "right": [
+      "Katie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 2,
+     "q": "A small piece of land in the sea, or a theater walkway",
+     "a": "isle (aisle)",
+     "right": [
+      "Katie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 13,
+     "q": "For this 1953 film Gielgud coached a nervous Marlon Brando, playing Mark Antony, on how to read The Bard's lines",
+     "a": "Julius Caesar",
+     "right": [
+      "Lisa"
+     ],
+     "wrong": [
+      "Claire"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 18,
+     "q": "You can apply a warm compress to this small abscess on the edge of the eyelid that's also called a hordeolum",
+     "a": "a stye",
+     "right": [
+      "Katie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": true,
+     "order": 23,
+     "q": "After stopping a carriage driver from beating his horse, Henry Bergh founded the org. known by these 5 letters for short",
+     "a": "the ASPCA",
+     "right": [
+      "Katie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 3000
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 8,
+     "q": "This is the only city that has \"City\" in its NBA team's full name",
+     "a": "Oklahoma City",
+     "right": [
+      "Katie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 28,
+     "q": "This media tycoon served as Italy's prime minister 3 times",
+     "a": "Berlusconi",
+     "right": [
+      "Claire"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 3,
+     "q": "A dull person can become exciting as a South African of Dutch extraction",
+     "a": "bore (Boer)",
+     "right": [
+      "Lisa"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 14,
+     "q": "In 1965 John played Henry IV in \"Chimes at Midnight\" with Orson Welles in this part that suited him physically",
+     "a": "Falstaff",
+     "right": [
+      "Katie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 20,
+     "q": "Red blood cells should be round but instead are crescent shaped in this type of anemia",
+     "a": "sickle cell anemia",
+     "right": [
+      "Lisa"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 24,
+     "q": "This organization, the IMF, was created in the 1940s to promote global trade & to secure financial stability",
+     "a": "the International Monetary Fund",
+     "right": [
+      "Katie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 9,
+     "q": "It's home to the South Dakota School of Mines & Technology",
+     "a": "Rapid City",
+     "right": [
+      "Lisa"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 29,
+     "q": "The son of Greek & Hungarian immigrants, he was the president of France from 2007 to 2012",
+     "a": "Sarkozy",
+     "right": [
+      "Katie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 4,
+     "q": "A verb meaning to shrivel, or an old adverb meaning \"Where to?\"",
+     "a": "wither (whither)",
+     "right": [
+      "Lisa"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 15,
+     "q": "John played Clarence when this other great 20th century Shakespearean actor directed \"Richard III\" in 1955",
+     "a": "(Laurence) Olivier",
+     "right": [
+      "Lisa"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 21,
+     "q": "(Sarah of the Clue Crew shows two anatomical diagrams on the monitor.) Osteoarthritis involves the breakdown of the cartilage that's between joints; inflammation of the membranes that lubricate the joints causes damage in this other type of arthritis",
+     "a": "rheumatoid",
+     "right": [
+      "Katie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 25,
+     "q": "\"Do Good\" is the motto of this women's fraternity whose name has the same initials as its motto",
+     "a": "Delta Gamma",
+     "right": [
+      "Katie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": true,
+     "order": 10,
+     "q": "Midwest news: in 1886 Wyandotte changed its name to this city; across the border, what was once Westport did the same in 1889",
+     "a": "Kansas City",
+     "right": [],
+     "wrong": [
+      "Lisa"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2000
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 30,
+     "q": "After an attack at 2 mosques in this city, PM Jacinda Ardern of New Zealand banned most semi-automatic weapons in 2019",
+     "a": "Christchurch",
+     "right": [
+      "Lisa"
+     ],
+     "wrong": [
+      "Claire"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 5,
+     "q": "Breezy, or a hawk's nest",
+     "a": "airy (aerie)",
+     "right": [
+      "Lisa"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 16,
+     "q": "1981 was the year of Gielgud's Oscar-winning turn as this character's butler",
+     "a": "Arthur",
+     "right": [
+      "Lisa"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  }
+ },
+ "gameId": "6520",
+ "final": {
+  "cat": "LAW ENFORCEMENT",
+  "q": "In 1892 Francisca Rojas became the world's first person convicted on the basis of this kind of evidence",
+  "a": "fingerprint",
+  "right": [
+   "Lisa",
+   "Katie"
+  ],
+  "wrong": [
+   "Claire"
+  ]
+ }
+}

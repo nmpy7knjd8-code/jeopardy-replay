@@ -1,6 +1,6 @@
 from playwright.sync_api import sync_playwright
 import pathlib,sys
-u=pathlib.Path(''+__import__('os').path.dirname(__import__('os').path.dirname(__file__))+'/index.html').as_uri()
+import sys,pathlib as _p; sys.path.insert(0,str(_p.Path(__file__).resolve().parent)); from testlib import start_server; u=start_server()
 JS="""()=>{const set=document.getElementById('set');const cells=[...set.querySelectorAll('.cell')],cats=[...set.querySelectorAll('.cat')];
  const vfit=cells.every(c=>{const s=c.firstElementChild,r=s.getBoundingClientRect(),cr=c.getBoundingClientRect();return r.left>=cr.left&&r.right<=cr.right&&r.top>=cr.top&&r.bottom<=cr.bottom});
  const cfit=cats.every(c=>c.firstElementChild.offsetHeight<=c.clientHeight&&c.firstElementChild.scrollWidth<=c.clientWidth+1);

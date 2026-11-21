@@ -1,0 +1,974 @@
+{
+ "show": "#5409",
+ "aired": "2008-02-28",
+ "note": "",
+ "contestants": [
+  {
+   "name": "Gwynne Ash",
+   "bio": "a university professor from Austin, Texas",
+   "short": "Gwynne"
+  },
+  {
+   "name": "Reynard Regenstreif-Harms",
+   "bio": "a student from Missoula, Montana",
+   "short": "Reynard"
+  },
+  {
+   "name": "Jason Dizon",
+   "bio": "an attorney from Woodside, New York (whose 1-day cash winnings total $7,800)",
+   "short": "Jason"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Jason": 2600,
+   "Reynard": 3000,
+   "Gwynne": 4000
+  },
+  "DJ": {
+   "Jason": 11200,
+   "Reynard": 1400,
+   "Gwynne": 12800
+  },
+  "Final": {
+   "Jason": 22400,
+   "Reynard": 2773,
+   "Gwynne": 22400
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "TALL STRUCTURES",
+    "TV",
+    "WHAT DOESN'T BELONG?",
+    "COURT-LY",
+    "SWEET",
+    "\"LOW\""
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 6,
+     "q": "This 1,046-foot-tall NYC building was one of the first to use stainless steel over much of the building's surface",
+     "a": "the Chrysler Building",
+     "right": [
+      "Gwynne"
+     ],
+     "wrong": [
+      "Reynard"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "It was Ed McMahon's 2-word introduction of the star of \"The Tonight Show\"",
+     "a": "\"Heeeere's Johnny\"",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 26,
+     "q": "Woodwinds:\nFrench horn,\nbassoon,\noboe",
+     "a": "French horn",
+     "right": [
+      "Reynard"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 16,
+     "q": "In 1867 Congress temporarily reduced the number of justices to 7 so this pres. couldn't appoint new ones",
+     "a": "Andrew Johnson",
+     "right": [
+      "Reynard"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 21,
+     "q": "Blackstrap is a variety of this brownish sugar residue that's used in animal feed",
+     "a": "molasses",
+     "right": [
+      "Gwynne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 11,
+     "q": "Marge, a cow in New Zealand & her offspring, have a gene allowing them to give this kind of milk",
+     "a": "low-fat milk",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 7,
+     "q": "The Nauru Tower is not in the island country of Nauru but on Ala Moana Boulevard in this U.S. city",
+     "a": "Honolulu",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "\"Barney Miller\" took place in the 12th precinct in this city",
+     "a": "New York City",
+     "right": [
+      "Gwynne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "Balkan countries:\nAlbania,\nLatvia,\nCroatia",
+     "a": "Latvia",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 17,
+     "q": "While working for the ACLU, this jurist won 5 of the 6 landmark cases she argued before the Supreme Court",
+     "a": "Ginsburg",
+     "right": [
+      "Gwynne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 22,
+     "q": "Traditionally, the dome-shaped Russian cake known as a kulich is served on this holiday",
+     "a": "Easter",
+     "right": [
+      "Gwynne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 12,
+     "q": "It's the \"lion's beer\" of Germany",
+     "a": "Lowenbrau",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 8,
+     "q": "The world's tallest supported structure is a 2,036-foot tower in North Dakota used primarily for this",
+     "a": "television broadcasting",
+     "right": [],
+     "wrong": [
+      "Reynard"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 3,
+     "q": "Fiery nickname of head nurse Margaret Houlihan",
+     "a": "\"Hot Lips\"",
+     "right": [
+      "Gwynne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 28,
+     "q": "U.S. veeps:\nCharles Curtis,\nCharles Wellman,\nCharles Dawes",
+     "a": "Charles Wellman",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 18,
+     "q": "As a Supreme Court law clerk, this future Chief Justice wrote a 1952 memo arguing the \"separate but equal\" position",
+     "a": "Rehnquist",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 23,
+     "q": "This powdery stuff that's 200 times sweeter than sugar is aka aspartic acid phenylalinine methyl ester",
+     "a": "NutraSweet (or aspartame)",
+     "right": [
+      "Reynard"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 13,
+     "q": "Proverbially, you don't want to be this foundation guy at the bottom on an elaborately carved Indian post",
+     "a": "the low man on the totem pole",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 9,
+     "q": "The 360 restaurant in this Toronto structure has \"the world's highest wine cellar\"--1,150 feet above the street",
+     "a": "the CN Tower",
+     "right": [
+      "Reynard"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 4,
+     "q": "On this kick-butt series, Keye Luke played the blind Shaolin priest known as Master Po",
+     "a": "Kung Fu",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "The Bible:\nMoabites,\nLuddites,\nEphraimites",
+     "a": "Luddites",
+     "right": [
+      "Gwynne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 19,
+     "q": "Under this Chief Justice, the court found in Griswold v. Connecticut a right to privacy in the penumbra of the Bill of Rights",
+     "a": "Earl Warren",
+     "right": [],
+     "wrong": [
+      "Jason",
+      "Gwynne"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 24,
+     "q": "The treat called this \"delight\" is made of fruit juice & gelatin, cubed & dusted with sugar",
+     "a": "Turkish delight",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 14,
+     "q": "This type of letter gets its name from being stored in the bottom of 2 trays used by compositors",
+     "a": "lowercase",
+     "right": [
+      "Gwynne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 10,
+     "q": "On July 21, 2007 the Burj Dubai surpassed this nation's Taipei 101 to become the world's tallest building",
+     "a": "Taiwan",
+     "right": [
+      "Reynard"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 5,
+     "q": "In 1966 this sci-fi show premiered with the episode \"The Man Trap\"",
+     "a": "Star Trek",
+     "right": [],
+     "wrong": [
+      "Gwynne"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 30,
+     "q": "British prime ministers:\nPalmerston,\nChambers,\nGladstone",
+     "a": "Chambers",
+     "right": [
+      "Reynard"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": true,
+     "order": 20,
+     "q": "This Chief Justice affirmed the government to be more than a weak confederation in McCulloch v. Maryland",
+     "a": "(John) Marshall",
+     "right": [],
+     "wrong": [
+      "Jason"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1000
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 25,
+     "q": "In the '70s HFCS, high fructose this, began to replace sugar as the primary sweetener in soft drinks",
+     "a": "corn syrup",
+     "right": [
+      "Gwynne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 15,
+     "q": "It's the medical condition aka hypotension",
+     "a": "low blood pressure",
+     "right": [
+      "Gwynne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "JAPANESE CULTURE",
+    "SAMUEL L. JACKSON",
+    "LITERARY CROSSWORD CLUES \"S\"",
+    "GOULASH",
+    "MEDICINE MEN & WOMEN",
+    "WORD ORIGINS"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 11,
+     "q": "(Kelly of the Clue Crew delivers the clue from Kyoto, Japan.) Ikebana, the art of flower arranging, originated in early floral offerings of this religion",
+     "a": "Buddhism",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [
+      "Gwynne"
+     ],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "In the late '80s, Sam was the rehearsal stand-in for this comedy legend on his self-titled sitcom",
+     "a": "Bill Cosby",
+     "right": [
+      "Gwynne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 13,
+     "q": "\"A Christmas Carol\" curmudgeon\n(7)",
+     "a": "Scrooge",
+     "right": [
+      "Gwynne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 24,
+     "q": "In Scandinavia, the Yule goat carries an elf bringing gifts; originally it carried this thunder god",
+     "a": "Thor",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 18,
+     "q": "In 1968 a federal court found this author & pediatrician guilty of violating the Selective Service Act",
+     "a": "Dr. Spock",
+     "right": [
+      "Reynard"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "This other term for a pastor is derived from the Middle Latin word persona",
+     "a": "parson",
+     "right": [
+      "Gwynne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 12,
+     "q": "(Kelly of the Clue Crew goes shoe shopping at Tokyo, Japan's Tsukiji Market.) Traditional geta footwear has an ancestor called tageta, which looked like snowshoes & were worn in the watery rice fields called these",
+     "a": "paddies",
+     "right": [
+      "Gwynne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 7,
+     "q": "Sam proclaimed, \"And you will know my name is the Lord when I lay my vengeance upon thee\" in this 1994 film",
+     "a": "Pulp Fiction",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 14,
+     "q": "Mlle. de Beauvoir\n(6)",
+     "a": "Simone",
+     "right": [
+      "Gwynne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 25,
+     "q": "Due to the encroaching sea, this North Carolina cape's lighthouse, the USA's tallest, was moved in 1999",
+     "a": "Hatteras",
+     "right": [
+      "Gwynne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 19,
+     "q": "In 1659 Italian anatomist Marcello Malpighi discovered that the lungs were made up of these tiny air sacs",
+     "a": "alveoli",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 3,
+     "q": "The name of this fine, soft leather is the French word for Sweden; Sweden was famous for gloves made of it",
+     "a": "suede",
+     "right": [],
+     "wrong": [
+      "Reynard"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 23,
+     "q": "(Cheryl of the Clue Crew delivers the clue from the Shibori Gallery in Kyoto, Japan.) Shibori, a fabric coloring method that goes back hundreds of years, is the Japanese equivalent of this retro American method",
+     "a": "tie-dye",
+     "right": [
+      "Gwynne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 8,
+     "q": "In 1995 Sam's Zeus Carver had a rough day with Bruce Willis in this sequel",
+     "a": "Die Hard with a Vengeance (or Die Hard 3)",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [
+      "Reynard",
+      "Gwynne"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 15,
+     "q": "Sweden's most \"August\" playwright\n(10)",
+     "a": "Strindberg",
+     "right": [
+      "Gwynne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 26,
+     "q": "The U.S. hasn't minted real gold coins as legal tender since the administration of this 32nd president",
+     "a": "FDR",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 20,
+     "q": "This German bacteriologist developed a test for syphilis & an inoculation for tetanus",
+     "a": "Wasserman",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 4,
+     "q": "This word for a blob or lump, perhaps of whipped cream, may come from dolpur, Icelandic for \"fat man\"",
+     "a": "dollop",
+     "right": [
+      "Gwynne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 29,
+     "q": "(Kelly of the Clue Crew delivers the clue from Tokyo, Japan.) In addition to artists & dancers, the government of Japan has designated swordsmiths & sword polishers living national these, an honor introduced in 1955",
+     "a": "treasures",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 9,
+     "q": "As Elijah Price, Sam was the frail antithesis to Bruce Willis in this 2000 flick",
+     "a": "Unbreakable",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 16,
+     "q": "Rilke wrote them \"to Orpheus\"\n(7)",
+     "a": "sonnets",
+     "right": [
+      "Gwynne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1600
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 27,
+     "q": "Appropriately, the 19th century's \"Lady with the Lamp\" was born in this Italian city",
+     "a": "Florence",
+     "right": [
+      "Gwynne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 21,
+     "q": "In 1796 he inoculated 8-year-old James Phipps with material from a cowpox pustule from Sarah Nelmes",
+     "a": "Jenner",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1000
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 5,
+     "q": "Esteban knows this term for someone who loads a ship's cargo comes from the Spanish word estibador",
+     "a": "stevedore",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 30,
+     "q": "(Cheryl sits with a geisha in Kyoto, Japan.) A geisha's skills include playing this three-stringed Japanese instrument",
+     "a": "a samisen",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 10,
+     "q": "Lucius Best was the secret identity of this ultra-cool \"Incredibles\" character voiced by Sam",
+     "a": "Frozone",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 17,
+     "q": "\"Quentin Durward\" creator\n(5)",
+     "a": "Sir Walter Scott",
+     "right": [],
+     "wrong": [
+      "Jason"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 28,
+     "q": "The opinionated comic strip cat Garfield got his name from this cartoonist's opinionated grandfather",
+     "a": "Jim Davis",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 22,
+     "q": "In 1889 Susan la Flesche Picotte, a member of this Nebraska tribe, became the first Native American female doctor",
+     "a": "Omaha",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 6,
+     "q": "From the Italian word for bell, it's the 9-letter term for a bell tower like the Venetian one seen here",
+     "a": "campanile",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    }
+   ]
+  }
+ },
+ "gameId": "2358",
+ "final": {
+  "cat": "THE NFL",
+  "q": "It's the only NFL team to play its home games out-of-state in a stadium named for another team",
+  "a": "the New York Jets",
+  "right": [
+   "Reynard",
+   "Jason",
+   "Gwynne"
+  ],
+  "wrong": []
+ }
+}

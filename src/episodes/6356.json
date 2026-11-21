@@ -1,0 +1,995 @@
+{
+ "show": "#1700",
+ "aired": "1992-01-10",
+ "note": "",
+ "contestants": [
+  {
+   "name": "Bill Dunn",
+   "bio": "a grad student originally from Harrisonville, Missouri",
+   "short": "Bill"
+  },
+  {
+   "name": "Patricia Ford-Smith",
+   "bio": "a postal inspector from Fresno, California",
+   "short": "Patricia"
+  },
+  {
+   "name": "Liz MacGillicuddy-Lucas",
+   "bio": "an actress originally from Hollywood, California (whose 1-day cash winnings total $1,799)",
+   "short": "Liz"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Liz": 4100,
+   "Patricia": -300,
+   "Bill": 2000
+  },
+  "DJ": {
+   "Liz": 8100,
+   "Patricia": 2700,
+   "Bill": -800
+  },
+  "Final": {
+   "Liz": 8600,
+   "Patricia": 5400,
+   "Bill": -800
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "THE SOUTH",
+    "NUMBER, PLEASE",
+    "THE FUNNIES",
+    "BROTHERS",
+    "HEADGEAR",
+    "POTPOURRI"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 3,
+     "q": "Ever since John Rolfe planted it, it's been Virginia's leading crop",
+     "a": "tobacco",
+     "right": [
+      "Liz"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 9,
+     "q": "In bowling, roll 12 strikes in a single game & you'll achieve this perfect score",
+     "a": "300",
+     "right": [
+      "Patricia"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 11,
+     "q": "This little boy's dog, Ruff, has a fear of cats",
+     "a": "Dennis the Menace",
+     "right": [
+      "Patricia"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 16,
+     "q": "Last name of brothers John & Will who introduced the first flaked cereal in 1895",
+     "a": "Kellogg",
+     "right": [
+      "Liz"
+     ],
+     "wrong": [
+      "Bill"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 13,
+     "q": "The upper part of a hat, or headgear for a king",
+     "a": "a crown",
+     "right": [
+      "Bill"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "It's the \"World's No. 1 Cycling Magazine\"; add 2 letters to \"cycling\" to get its name",
+     "a": "Bicycling",
+     "right": [
+      "Patricia"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 7,
+     "q": "The alleged stealing of a hog in 1873 led to the feud between these 2 southern families",
+     "a": "the Hatfields & the McCoys",
+     "right": [
+      "Bill"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 10,
+     "q": "On the FOX TV series, it's Brandon & Brenda's Beverly Hills zip code",
+     "a": "90210",
+     "right": [
+      "Liz"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 12,
+     "q": "With the outbreak of the Korean War, this Milton Caniff character reenlisted in the air force",
+     "a": "Steve Canyon",
+     "right": [
+      "Liz"
+     ],
+     "wrong": [
+      "Patricia"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 17,
+     "q": "Allen W. Dulles, brother of John Foster Dulles, was director of this agency from 1953-61",
+     "a": "the CIA (Central Intelligence Agency)",
+     "right": [
+      "Bill"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 26,
+     "q": "This type of cap is part of a Brownie Girl Scout Uniform",
+     "a": "a beanie",
+     "right": [
+      "Liz"
+     ],
+     "wrong": [
+      "Patricia"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "The leather pouch with hair or fur on it that's worn with this highland skirt is called the sporran",
+     "a": "a kilt",
+     "right": [
+      "Bill"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 8,
+     "q": "The first \"highway\" into Kentucky was this route blazed by Daniel Boone",
+     "a": "Wilderness Road (Wilderness Trail accepted)",
+     "right": [
+      "Liz"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 19,
+     "q": "In the Grimm's fairy tale, Briar-Rose (or Sleeping Beauty) slept for this many years",
+     "a": "100",
+     "right": [
+      "Patricia"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 22,
+     "q": "Camp Swampy is the setting for this Mort Walker military strip",
+     "a": "Beetle Bailey",
+     "right": [
+      "Bill"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 18,
+     "q": "After his father's death in 1743, he went to live with his half brother Lawrence on his Potomac estate",
+     "a": "Washington",
+     "right": [
+      "Patricia"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 27,
+     "q": "Compton's reports the Stetson was modeled on this south-of-the-border hat",
+     "a": "a sombrero",
+     "right": [
+      "Bill"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 4,
+     "q": "Of sight, hearing or smell, the sense that is least developed in beavers",
+     "a": "sight",
+     "right": [
+      "Liz"
+     ],
+     "wrong": [
+      "Bill"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 14,
+     "q": "In 1937 most of this swamp in Florida & Georgia was turned into a national wildlife refuge",
+     "a": "the Okefenokee",
+     "right": [
+      "Patricia"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": true,
+     "order": 20,
+     "q": "A Japanese haiku consists of three lines & this many syllables",
+     "a": "17",
+     "right": [],
+     "wrong": [
+      "Patricia"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 600
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 23,
+     "q": "In \"Peanuts\", it's the last name of Lucy & her brother, Linus",
+     "a": "Van Pelt",
+     "right": [
+      "Liz"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 25,
+     "q": "Bearded brothers William & Andrew first made this product in Poughkeepsie, New York about 1850",
+     "a": "cough drops",
+     "right": [
+      "Patricia"
+     ],
+     "wrong": [
+      "Bill"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 28,
+     "q": "To show off their curls, men turned up the brim 1st on 1 side, then both, then the back, making this hat",
+     "a": "a tricorn hat",
+     "right": [
+      "Liz"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 5,
+     "q": "This brick-shaped ice cream is served sliced to display its 3 layered colors",
+     "a": "Neapolitan",
+     "right": [
+      "Liz"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 15,
+     "q": "Rather than counties, Louisiana has 64 of these",
+     "a": "parishes",
+     "right": [
+      "Liz"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 21,
+     "q": "In roulette, it's the highest number on which you can bet",
+     "a": "36",
+     "right": [
+      "Bill"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 24,
+     "q": "In 1952 he performed the nuptials for Li'l Abner & Daisy Mae for $1.35",
+     "a": "Marrying Sam",
+     "right": [
+      "Liz"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 30,
+     "q": "This composer was the brother, not the \"Papa\", of composer Michael Haydn",
+     "a": "Joseph Haydn",
+     "right": [
+      "Liz"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 29,
+     "q": "Presidents wore silk toppers to inaugurations till Eisenhower broke tradition in '53 with this German design",
+     "a": "a homberg",
+     "right": [
+      "Bill"
+     ],
+     "wrong": [
+      "Patricia"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 6,
+     "q": "The last name of William McKinley's first vice president, or the capital of Tasmania",
+     "a": "Hobart",
+     "right": [
+      "Bill"
+     ],
+     "wrong": [
+      "Patricia"
+     ],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "NOTABLE NAMES",
+    "BIOLOGY",
+    "BUSINESS & INDUSTRY",
+    "SPIES",
+    "NEWFOUNDLAND",
+    "SONNETS"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "His father, Alexander Melville Bell, was a noted authority on phonetics & elocution",
+     "a": "Alexander Graham Bell",
+     "right": [
+      "Bill"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 16,
+     "q": "This word can mean a thread to close a wound or an immovable joint between skull bones",
+     "a": "suture",
+     "right": [
+      "Liz"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 6,
+     "q": "In gallons shipped, this U.S. company is the world's largest winemaker",
+     "a": "Gallo",
+     "right": [
+      "Patricia"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 9,
+     "q": "On September 22, 1776 this martyr of the Revolution lost his one life for his country",
+     "a": "Nathan Hale",
+     "right": [
+      "Bill"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 8,
+     "q": "Bullwinkle doesn't live in Newfoundland, but these are still the most widespread large wild animals",
+     "a": "moose",
+     "right": [
+      "Patricia"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 15,
+     "q": "The rules of sonnet writing were developed in this country by such poets as Guittone D'Arezzo",
+     "a": "Italy",
+     "right": [
+      "Patricia"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 2,
+     "q": "Dame Margaret's last name, or President Hayes' first",
+     "a": "Rutherford",
+     "right": [
+      "Patricia"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 18,
+     "q": "Parasitic trypanosomes found in the guts of tsetse flies cause this disease in humans",
+     "a": "sleeping sickness",
+     "right": [
+      "Bill"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 7,
+     "q": "In 1969 Dave Thomas opened his first restaurant called this after his 9-year-old daughter",
+     "a": "Wendy's",
+     "right": [
+      "Bill"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 10,
+     "q": "One of Queen Anne's top spies was this author of \"Robinson Crusoe\"",
+     "a": "(Daniel) Defoe",
+     "right": [
+      "Liz"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 11,
+     "q": "1,000-year-old ruins from these European explorers were uncovered at L'Anse aux Meadows in 1961",
+     "a": "the Vikings",
+     "right": [
+      "Liz"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 17,
+     "q": "The 1609 printing of his sonnets was dedicated to a mysterious \"Mr. W.H.\"",
+     "a": "Shakespeare",
+     "right": [
+      "Bill"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 3,
+     "q": "This artist known for his western bronzes had a western-sounding middle name, Sackrider",
+     "a": "Remington",
+     "right": [
+      "Patricia"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 26,
+     "q": "Vitamin K is essential for the synthesis of prothrombin, which helps blood do this",
+     "a": "clot",
+     "right": [
+      "Patricia"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 24,
+     "q": "In 1870 Henry Sherwin, A.T. Osborn & Edward Williams formed a company in Ohio to manufacture this",
+     "a": "paint",
+     "right": [
+      "Patricia"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 19,
+     "q": "Christopher John Boyce, who stole military secrets from TRW, was portrayed by Timothy Hutton in this 1985 film",
+     "a": "The Falcon and the Snowman",
+     "right": [
+      "Liz"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 12,
+     "q": "This cold, desolate mainland region of Newfoundland has been called \"The Land that God Gave Cain\"",
+     "a": "Labrador",
+     "right": [
+      "Bill"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 20,
+     "q": "His sonnet \"On His Blindness\" is also called \"When I Consider How My Light Is Spent\"",
+     "a": "John Milton",
+     "right": [
+      "Liz"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 4,
+     "q": "Born Irving Tennenbaum, he wrote novels about Van Gogh & Michelangelo under this name",
+     "a": "Irving Stone",
+     "right": [
+      "Liz"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 27,
+     "q": "It was discovered in Bauxite, Arkansas that this compound reduces tooth decay",
+     "a": "fluoride",
+     "right": [
+      "Bill"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 25,
+     "q": "Coca-Cola, Chrysler & Chevron are incorporated in this small eastern state",
+     "a": "Delaware",
+     "right": [
+      "Bill"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 22,
+     "q": "Some 40 years after his death, this British spy who conspired with B. Arnold was interred in Westminster Abbey",
+     "a": "Major Andre",
+     "right": [
+      "Bill"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 13,
+     "q": "2 of the biggest ones in North America are at Happy Valley-Goose Bay & Gander",
+     "a": "airports",
+     "right": [
+      "Bill"
+     ],
+     "wrong": [
+      "Patricia"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 21,
+     "q": "The sonnets in his \"Amoretti\" were probably inspired by his future wife, not by a \"Faerie Queene\"",
+     "a": "Spenser",
+     "right": [
+      "Bill"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 5,
+     "q": "Robert Penn Warren wrote a long narrative poem about this chief of the Nez Perce tribe in 1983",
+     "a": "Chief Joseph",
+     "right": [
+      "Patricia"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": true,
+     "order": 28,
+     "q": "The pinna is the external part of this sensory organ",
+     "a": "ear",
+     "right": [],
+     "wrong": [
+      "Bill"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 6000
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": true,
+     "order": 29,
+     "q": "This cooperative, headquartered in Minnesota, makes about one-third of U.S. butter",
+     "a": "Land O'Lakes",
+     "right": [],
+     "wrong": [
+      "Bill"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1000
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 23,
+     "q": "In 1985 three members of this family were convicted for their roles in supplying naval secrets to Russia",
+     "a": "the Walkers",
+     "right": [],
+     "wrong": [
+      "Bill"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 14,
+     "q": "The main campus of Memorial Univ., Newfoundland's only university, is in this city, the provincial capital",
+     "a": "St. Johns",
+     "right": [
+      "Liz"
+     ],
+     "wrong": [
+      "Bill"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 30,
+     "q": "This female poet from Maine won a 1923 Pulitzer for several works, including 8 sonnets in \"American Poetry\"",
+     "a": "Edna St. Vincent Millay",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    }
+   ]
+  }
+ },
+ "gameId": "6356",
+ "final": {
+  "cat": "AMERICAN DRAMA",
+  "q": "This 1938 play's 3 acts are titled \"Daily Life\", \"Love and Marriage\" & \"Death\"",
+  "a": "Our Town",
+  "right": [
+   "Patricia",
+   "Liz"
+  ],
+  "wrong": []
+ }
+}

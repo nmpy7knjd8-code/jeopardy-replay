@@ -1,20 +1,30 @@
+import sys
 """New episodes end-to-end (auto+fast), real score check, picture loads, round-skip button, header height."""
 import json, pathlib, time
 from playwright.sync_api import sync_playwright
-root=pathlib.Path(__file__).resolve().parent.parent; u=(root/'index.html').as_uri(); shots=root/'screenshots'
-NEW=('9578','9571','9562'); errs=[]
+sys.path.insert(0,str(pathlib.Path(__file__).resolve().parent))
+from testlib import start_server, ROOT as root
+u=start_server(); shots=root/'screenshots'
+NEW=('7401','7537','8958','9059')  # plus older seasons covered by test_auto_all.py
+OLD=('9578','9571','9562','9434','9402','9369'); errs=[]
 def hook(pg):
     pg.on('pageerror',lambda e:errs.append(str(e))); pg.on('console',lambda x:errs.append(x.text) if x.type=='error' else None)
 money=lambda v:('-' if v<0 else '')+'$'+f'{abs(v):,}'
 with sync_playwright() as p:
     b=p.chromium.launch()
     pg=b.new_page(); hook(pg); pg.goto(u)
-    eps=pg.evaluate("EPISODES.map(e=>({id:e.gameId,show:e.show,aired:e.aired,cons:e.contestants.map(c=>[c.name,c.short]),final:e.scores.Final,J:e.scores.J,DJ:e.scores.DJ,imgs:['J','DJ'].flatMap(k=>e.rounds[k].clues.filter(c=>c.img).map(c=>c.img))}))")
-    print('episodes in app:',[(e['id'],e['show']) for e in eps])
-    # every picture loads
-    allimg=[i for e in eps for i in e['imgs']]
+    eps=pg.evaluate("EPISODES.map(e=>({id:e.gameId,show:e.show,aired:e.aired,cons:e.contestants.map(c=>[c.name,c.short]),final:e.scores.Final,J:e.scores.J,DJ:e.scores.DJ,pics:e.pics}))")
+    print('episodes in app:',[(e['id'],e['show'],e['aired']) for e in eps])
+    import json as _json
+    allimg=[]
+    for f in sorted((root/'episodes').glob('*.json')):
+        d=_json.loads(f.read_text())
+        imgs=[c['img'] for k in ('J','DJ') for c in d['rounds'][k]['clues'] if c.get('img')]
+        allimg += imgs
+        for e in eps:
+            if e['id']==d['gameId']: e['imgs']=imgs
     bad=pg.evaluate("async l=>{const r=[];for(const s of l){const ok=await new Promise(res=>{const im=new Image();im.onload=()=>res(im.naturalWidth>0);im.onerror=()=>res(false);im.src=s});if(!ok)r.push(s)}return r}",allimg)
-    print('pictures',len(allimg),'failed',bad); print('new-episode pictures',{e['id']:len(e['imgs']) for e in eps if e['id'] in NEW})
+    print('pictures',len(allimg),'failed',bad); print('new-episode pictures',{e['id']:len(e.get('imgs',[])) for e in eps if e['id'] in NEW})
     pg.close()
     # round-skip button: J -> DJ -> Final, score unchanged, real scores shown
     for n,vp,m in (('m375',{'width':375,'height':667},1),('d',{'width':1024,'height':577},0)):
@@ -42,5 +52,11 @@ with sync_playwright() as p:
         txt=pg.inner_text('#stage'); ok=all((name in txt and money(e['final'][sh]) in txt) for name,sh in e['cons'])
         print(ep,e['show'],e['aired'],'finished',round(time.time()-t0),'s', pg.evaluate('__result'),'| real final',e['final'],'| end screen matches real:',ok)
         pg.screenshot(path=str(shots/f'm-end-screen-{ep}.png')); pg.close()
+    for ep in OLD:
+        e=next(x for x in eps if x['id']==ep)
+        pg=b.new_page(viewport={'width':390,'height':844},is_mobile=True,has_touch=True); hook(pg)
+        pg.goto(u+f'?fast=1&auto=1&ep={ep}'); t0=time.time(); pg.wait_for_function("__G.state==='end'",timeout=600000)
+        txt=pg.inner_text('#stage'); ok=all((name in txt and money(e['final'][sh]) in txt) for name,sh in e['cons'])
+        print(ep,e['show'],e['aired'],'REGRESSION finished',round(time.time()-t0),'s', pg.evaluate('__result'),'| end screen matches real:',ok); pg.close()
     b.close()
 print('ERRORS',errs)
