@@ -1,0 +1,977 @@
+{
+ "show": "#3906",
+ "aired": "2001-09-03",
+ "note": "First game of Season 18.",
+ "contestants": [
+  {
+   "name": "Hardy Watts",
+   "bio": "an elementary school teacher from Boston, Massachusetts",
+   "short": "Hardy"
+  },
+  {
+   "name": "Anne Reynolds",
+   "bio": "a lawyer from Toronto, Ontario",
+   "short": "Anne"
+  },
+  {
+   "name": "Roland Lange",
+   "bio": "a sales director from Brooklyn, New York (whose 2-day cash winnings total $22,500)",
+   "short": "Roland"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Roland": 2000,
+   "Anne": 3000,
+   "Hardy": 1100
+  },
+  "DJ": {
+   "Roland": 7500,
+   "Anne": 7900,
+   "Hardy": 5700
+  },
+  "Final": {
+   "Roland": 0,
+   "Anne": 400,
+   "Hardy": 100
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "TRUE STORY",
+    "OSCAR-WINNING ROLES",
+    "THEY HAVE HOOVES",
+    "DANCES",
+    "BALLS",
+    "RHYME TIME"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 3,
+     "q": "John Hersey wrote about 6 survivors of an August 6, 1945 explosion in this title city",
+     "a": "Hiroshima",
+     "right": [
+      "Roland"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "Mary Poppins",
+     "a": "Julie Andrews",
+     "right": [
+      "Roland"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 18,
+     "q": "One variety of the white-tailed species of this weighs only 50-75 pounds & lives in the Florida Keys",
+     "a": "the deer",
+     "right": [
+      "Roland"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 5,
+     "q": "Technically, a bubble dance is done with these props, not bubbles",
+     "a": "balloons",
+     "right": [],
+     "wrong": [
+      "Anne"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 9,
+     "q": "Mother & performer seen here in 1947",
+     "a": "Lucille Ball",
+     "right": [
+      "Anne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 11,
+     "q": "Mus musculus, this grayish-brown rodent lives in or near domiciles",
+     "a": "a house mouse",
+     "right": [
+      "Roland"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 4,
+     "q": "In \"Duty First\", alum Ed Ruggero calls this military academy \"America's premier leadership school\"",
+     "a": "West Point",
+     "right": [
+      "Anne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "Rooster Cogburn",
+     "a": "John Wayne",
+     "right": [
+      "Hardy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 23,
+     "q": "This wild African pig has 2 pairs of tusks that may reach a length of 24 inches",
+     "a": "the warthog",
+     "right": [
+      "Roland"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 26,
+     "q": "Back-bending dance that's neither heaven nor hell",
+     "a": "the limbo",
+     "right": [
+      "Anne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 10,
+     "q": "Perhaps, in the future, you'll see one of these divinatory aids",
+     "a": "a crystal ball",
+     "right": [
+      "Hardy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 12,
+     "q": "Abbreviated term for the genre that includes Isaac Asimov & Ursula K. Le Guin",
+     "a": "sci-fi",
+     "right": [
+      "Anne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 15,
+     "q": "Dr. Jerri Nielsen gives her account of discovering that she had breast cancer while \"ice bound\" here",
+     "a": "the South Pole",
+     "right": [
+      "Hardy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 6,
+     "q": "Loretta Lynn",
+     "a": "Sissy Spacek",
+     "right": [
+      "Roland"
+     ],
+     "wrong": [
+      "Hardy"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 24,
+     "q": "Despite its large size, this wild ox of Tibet is quite agile & can swim swift rivers",
+     "a": "the yak",
+     "right": [
+      "Roland"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 30,
+     "q": "A Carioca is a resident of Rio & also a ballroom version of this dance",
+     "a": "the samba",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 13,
+     "q": "We bet you know the balls seen here are used in this game of chance",
+     "a": "the lottery",
+     "right": [
+      "Hardy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": true,
+     "order": 14,
+     "q": "Restaurateur Trader Vic created this rum & curacao cocktail",
+     "a": "a mai tai",
+     "right": [],
+     "wrong": [
+      "Hardy"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 400
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 16,
+     "q": "This gonzo journalist tells the \"Strange and Terrible Saga\" of flying with angels--Hell's Angels",
+     "a": "Hunter Thompson",
+     "right": [
+      "Roland"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 7,
+     "q": "U.S. Marshal Sam Gerard",
+     "a": "Tommy Lee Jones",
+     "right": [
+      "Roland"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 25,
+     "q": "It's estimated that fewer than 1,000 members of the Bactrian species of this exist in the world, all in Mongolia & China",
+     "a": "the camel",
+     "right": [
+      "Hardy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 27,
+     "q": "It's a lively Spanish-American dance, or a \"Grim\" computer game from Lucas Arts",
+     "a": "fandango",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 19,
+     "q": "Seen here, it's also an offensive term for someone's spouse",
+     "a": "a ball & chain",
+     "right": [
+      "Anne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 21,
+     "q": "The title of hits by Madonna & Tommy James & the Shondells, it's slang for naughty behavior",
+     "a": "hanky panky",
+     "right": [
+      "Hardy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 17,
+     "q": "\"Into Thin Air\" is his account of scaling Everest & the tragedy that befell others around him",
+     "a": "Jon Krakauer",
+     "right": [
+      "Hardy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 8,
+     "q": "Mexican cop Javier Rodriguez Rodriguez",
+     "a": "Benicio Del Toro",
+     "right": [
+      "Anne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 29,
+     "q": "The soft, pliant leather from this cud-chewing goat is used as a polishing cloth & to make shirts",
+     "a": "a chamois",
+     "right": [
+      "Anne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 28,
+     "q": "An old French dance from a German folk dance, or a square dance move",
+     "a": "an allemande",
+     "right": [
+      "Anne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 20,
+     "q": "Used in large group games, it's the worldly projectile seen here",
+     "a": "an Earth ball",
+     "right": [],
+     "wrong": [
+      "Hardy"
+     ],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 22,
+     "q": "This hyphenated term means haphazard or disorganized",
+     "a": "willy-nilly",
+     "right": [
+      "Anne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "TRU STORY",
+    "TV THEME SONGS",
+    "WHERE WERE YOU LAST NIGHT?",
+    "FLIGHT",
+    "ARCHBISHOPS OF YORK",
+    "ACCENTÉ"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 26,
+     "q": "Truman Capote was born on September 30, 1924 in this Southern city",
+     "a": "New Orleans",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 21,
+     "q": "\"I'll be there for you when the rain starts to pour, I'll be there for you like I've been there before\"",
+     "a": "Friends",
+     "right": [
+      "Anne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 11,
+     "q": "Dancing at Le Balajo on the Rue de Lappe",
+     "a": "Paris",
+     "right": [
+      "Hardy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "Accessories of the dashing WWII Spitfire pilot included a leather helmet & a white silk one of these",
+     "a": "a scarf",
+     "right": [
+      "Hardy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 16,
+     "q": "Nicholas Heath, in office from 1555 to 1579, was the last archbishop of this faith",
+     "a": "Catholicism",
+     "right": [
+      "Roland"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 6,
+     "q": "An accent shows that this word means a summary of one's work experience, not \"to continue\"",
+     "a": "resumé",
+     "right": [
+      "Anne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 27,
+     "q": "This book about the murder of a farm family blurred the genres of literature & crime reportage",
+     "a": "In Cold Blood",
+     "right": [
+      "Anne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 22,
+     "q": "\"Raised in the woods so's he knew every tree\"",
+     "a": "Davy Crockett",
+     "right": [
+      "Roland"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 12,
+     "q": "Just checking out the view from the top of the Mark Hopkins",
+     "a": "San Francisco",
+     "right": [
+      "Roland"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 2,
+     "q": "The name of Vostok, the Soviets' first manned space flight program, means this direction",
+     "a": "east",
+     "right": [],
+     "wrong": [
+      "Anne",
+      "Hardy"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 17,
+     "q": "The first Norman archbishop, in 1070, was Thomas of this French tapestry town",
+     "a": "Bayeux",
+     "right": [
+      "Anne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 7,
+     "q": "It may be \"au lait\"",
+     "a": "café",
+     "right": [
+      "Roland"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 28,
+     "q": "This novella includes the line \"Holly Golightly had been a tenant in the old brownstone\"",
+     "a": "Breakfast at Tiffany's",
+     "right": [
+      "Anne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 23,
+     "q": "\"I've been searchin' my soul tonight, I know there's so much more to life\"",
+     "a": "Ally McBeal",
+     "right": [
+      "Hardy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 13,
+     "q": "Singing karaoke in Shinjuku",
+     "a": "Tokyo",
+     "right": [
+      "Anne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 3,
+     "q": "The map shown here illustrates the airline system of these central airports & spokes",
+     "a": "hubs",
+     "right": [
+      "Roland"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 18,
+     "q": "Early archbishops included Ethelbald, Egbert & this 8th c. one whose name combines parts of the other 2",
+     "a": "Ethelbert",
+     "right": [
+      "Hardy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": true,
+     "order": 8,
+     "q": "James Rogers' \"Dictionary of\" these includes \"on the horns of a dilemma\" & \"hook, line & sinker\"",
+     "a": "clichés",
+     "right": [
+      "Roland"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1500
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 29,
+     "q": "\"The Muses Are Heard\" is Truman's account of going to Moscow with the black cast of this Gershwin show",
+     "a": "Porgy and Bess",
+     "right": [
+      "Hardy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 24,
+     "q": "\"You're not the boss of me now! You're not the boss of me now! You're not the boss of me now & you're not so big!\"",
+     "a": "Malcolm in the Middle",
+     "right": [
+      "Anne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 14,
+     "q": "Down in Plaka listening to bouzouki music",
+     "a": "Athens",
+     "right": [
+      "Hardy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 4,
+     "q": "The hero of the first book by \"Little Prince\" author St.-Exupery is a pilot who delivers this",
+     "a": "the mail",
+     "right": [
+      "Hardy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 19,
+     "q": "A half-brother of Richard the Lionheart, Archbishop Geoffrey was a fellow member of this royal house",
+     "a": "Plantagenet",
+     "right": [
+      "Anne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 9,
+     "q": "It's the basic ballet maneuver seen here",
+     "a": "plié",
+     "right": [
+      "Anne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 30,
+     "q": "In 1990 this \"Loved One\" actor won a Tony for his portrayal of Capote in the one-man show \"Tru\"",
+     "a": "Robert Morse",
+     "right": [
+      "Roland"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 25,
+     "q": "In 1965: \"There's a man who leads a life of danger, to everyone he meets he stays a stranger\"",
+     "a": "Secret Agent",
+     "right": [
+      "Anne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 15,
+     "q": "Having steak gaucho-style at La Chacra",
+     "a": "Buenos Aires",
+     "right": [
+      "Anne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 5,
+     "q": "This Mach 3 plane was called the RS-71 until LBJ misread it in public & the name was changed",
+     "a": "the Blackbird (or the SR-71)",
+     "right": [
+      "Hardy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": true,
+     "order": 20,
+     "q": "As an adviser to Henry VIII, he was made Archbishop of York in 1514 & a cardinal in 1515",
+     "a": "Thomas Wolsey",
+     "right": [],
+     "wrong": [
+      "Anne"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1500
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 10,
+     "q": "Accented term for a Cajun stew of crayfish, vegetables & seasonings over rice",
+     "a": "étouffée",
+     "right": [
+      "Roland"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  }
+ },
+ "gameId": "466",
+ "final": {
+  "cat": "AUTOMOTIVE HISTORY",
+  "q": "This Ford with a name from Native American myth was the first model to be Motor Trend Car of the Year",
+  "a": "the Thunderbird",
+  "right": [],
+  "wrong": [
+   "Hardy",
+   "Roland",
+   "Anne"
+  ]
+ }
+}

@@ -1,7 +1,8 @@
 import pathlib, time, json, sys
 from playwright.sync_api import sync_playwright
-root = pathlib.Path(__file__).resolve().parent.parent
-base = sys.argv[1] if len(sys.argv) > 1 else (root/'index.html').as_uri()
+sys.path.insert(0,str(pathlib.Path(__file__).resolve().parent))
+from testlib import start_server, ROOT as root
+base = sys.argv[1] if len(sys.argv) > 1 else start_server()
 shots = root/'screenshots'; shots.mkdir(exist_ok=True)
 errs = []
 def hook(pg):
@@ -20,7 +21,7 @@ with sync_playwright() as p:
         pg = ctx.new_page(); hook(pg)
         pg.goto(base + '?fast=1'); pg.wait_for_timeout(600)
         pg.screenshot(path=str(shots/f'{name}-episode-picker.png'))
-        pg.click('.ep:nth-child(2)'); pg.click('.ep:nth-child(1)'); pg.click('#go'); pg.wait_for_selector('.board'); pg.wait_for_timeout(500)
+        pg.locator('.ep').nth(1).click(); pg.locator('.ep').nth(0).click(); pg.click('#go'); pg.wait_for_selector('.board'); pg.wait_for_timeout(500)
         cats = pg.evaluate("[...document.querySelectorAll('.cat')].map(c=>[c.offsetHeight,Math.round(parseFloat(c.firstElementChild.style.fontSize)),c.firstElementChild.scrollWidth<=c.clientWidth,c.firstElementChild.offsetHeight<=c.clientHeight])")
         print(name, 'board cats [h,font,fitW,fitH]:', cats)
         # skip through clues until a picture clue shows up (also exercises skip key)

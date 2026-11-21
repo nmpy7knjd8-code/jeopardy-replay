@@ -1,0 +1,987 @@
+{
+ "show": "#3314",
+ "aired": "1999-01-21",
+ "note": "",
+ "contestants": [
+  {
+   "name": "Laura McShane",
+   "bio": "an administrator and outreach officer from Greenbelt, Maryland",
+   "short": "Laura"
+  },
+  {
+   "name": "Mark Whittinghill",
+   "bio": "a computer technician and musician from Fayetteville, Arkansas",
+   "short": "Mark"
+  },
+  {
+   "name": "Debra Bricker",
+   "bio": "a dance teacher from Columbia, South Carolina (whose 1-day cash winnings total $5,699)",
+   "short": "Debra"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Debra": 1800,
+   "Mark": 2300,
+   "Laura": 3500
+  },
+  "DJ": {
+   "Debra": 8000,
+   "Mark": 8900,
+   "Laura": 4300
+  },
+  "Final": {
+   "Debra": 7000,
+   "Mark": 17799,
+   "Laura": 6300
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "ON THE \"TOWN\"",
+    "DON KNOTTS",
+    "SUSHI",
+    "NAME THE ROCKERS",
+    "EXTRACURRICULAR ACTIVITIES",
+    "ONLINE LINGO"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 7,
+     "q": "The National Baseball Hall of Fame was founded there in 1939",
+     "a": "Cooperstown, New York",
+     "right": [
+      "Debra"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 12,
+     "q": "Don won 5 Emmys in the '60s for playing this jittery comic sidekick",
+     "a": "Barney Fife",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 24,
+     "q": "Used to wrap pieces of sushi, this substance is called nori",
+     "a": "Seaweed",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "\"Monday, Monday\"",
+     "a": "The Mamas & The Papas",
+     "right": [
+      "Laura"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 17,
+     "q": "Students put together this, also called an annual, with photos of class members & school activities",
+     "a": "Yearbook",
+     "right": [
+      "Laura"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 6,
+     "q": "Be careful who you talk to in these online \"rooms\" -- people may not be who they say they are",
+     "a": "Chat rooms",
+     "right": [
+      "Debra"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 8,
+     "q": "Founded in 1652, it's South Africa's oldest city established by Europeans",
+     "a": "Cape Town",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 22,
+     "q": "Jack & Chrissy could tell you Don slayed 'em as new landlord Ralph Furley on this sitcom",
+     "a": "Three's Company",
+     "right": [
+      "Debra"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "Named for a U.S. state, this item is also popular in Japan",
+     "a": "California roll",
+     "right": [
+      "Laura"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "\"Another Brick In The Wall\"",
+     "a": "Pink Floyd",
+     "right": [
+      "Debra"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 18,
+     "q": "Psi Chi is an honor society in psychology; Chi Psi is one of these Greek letter societies",
+     "a": "Fraternity",
+     "right": [
+      "Debra"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 13,
+     "q": "Like a doomed plane, it describes system failure due to software or hardware malfunction",
+     "a": "Crash",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 9,
+     "q": "Guyana's capital, or a historic section of our own capital",
+     "a": "Georgetown",
+     "right": [
+      "Laura"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 23,
+     "q": "Don played a magical TV repairman in this 1998 fantasy in black & white -- & color",
+     "a": "Pleasantville",
+     "right": [
+      "Laura"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 28,
+     "q": "Sushi connoisseur Shigo Ito refreshes her palate with pickled strips of this root",
+     "a": "Ginger",
+     "right": [
+      "Laura"
+     ],
+     "wrong": [
+      "Debra"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 3,
+     "q": "\"Walk Like An Egyptian\"",
+     "a": "The Bangles",
+     "right": [
+      "Laura"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 19,
+     "q": "Teams engage in the Lincoln-Douglas & Parliamentary types of these",
+     "a": "Debates",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 14,
+     "q": "It doesn't mean \"to continue with wood\", it means to type in your I.D. & password in order to get started",
+     "a": "Log on",
+     "right": [
+      "Laura"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": true,
+     "order": 10,
+     "q": "A theatrical group from this Mass. seaport community helped launch the career of Eugene O'Neill",
+     "a": "Provincetown",
+     "right": [
+      "Laura"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 700
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 25,
+     "q": "In the classic \"The Ghost And Mr. Chicken\", Don sought a news scoop by spending the night in one of these",
+     "a": "Haunted house",
+     "right": [
+      "Debra"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "The topping seen here is ikura, made of these from a salmon",
+     "a": "Roe",
+     "right": [
+      "Laura"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 4,
+     "q": "\"U Can't Touch This\"",
+     "a": "MC Hammer",
+     "right": [
+      "Debra"
+     ],
+     "wrong": [
+      "Mark"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 20,
+     "q": "Free room & board are perks of being a dorm's R.A., which stands for this",
+     "a": "Resident assistant/advisor",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 15,
+     "q": "When you find those wacky 1970s photos of me online, it's time to do this, meaning transfer them to your computer",
+     "a": "Download",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 11,
+     "q": "This industrial city & surrounding area in eastern Pennsylvania provided the title of a 1982 Billy Joel hit",
+     "a": "Allentown",
+     "right": [
+      "Laura"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 26,
+     "q": "Don remarked \"I am cursed with an abnormal sexual magnetism\" as bird watcher Abner Peacock in this epic",
+     "a": "The Love God?",
+     "right": [],
+     "wrong": [
+      "Laura"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 30,
+     "q": "As an appetizer, you may serve this fish dish that's been called \"sushi without the rice\"",
+     "a": "Sashimi",
+     "right": [
+      "Laura"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 5,
+     "q": "\"Kashmir\"",
+     "a": "Led Zeppelin",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 21,
+     "q": "Write letters on behalf of prisoners of conscience when you join a chapter of AI, this organization",
+     "a": "Amnesty International",
+     "right": [
+      "Debra"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 16,
+     "q": "Inputting cyberheads take note: G.I.G.O. stands for this",
+     "a": "\"Garbage in, garbage out\"",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "THE WAR OF 1812",
+    "EDISON & THE PHONOGRAPH",
+    "JERRY SPRINGER'S BIBLE SHOW",
+    "DOUBLE TALK NAMES",
+    "THE FALL",
+    "OF THE ROMAN EMPIRE"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 6,
+     "q": "This hard-sided U.S. frigate destroyed the Java off South America on December 29, 1812",
+     "a": "U.S.S. Constitution",
+     "right": [
+      "Debra"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 15,
+     "q": "The 1st phonograph, a hand-cranked model, was devised by the Wizard in 1877 at this lab site",
+     "a": "Menlo Park",
+     "right": [
+      "Debra"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 11,
+     "q": "He crowded onto the stage with his 11 brothers for the \"Dad Likes You Best\" show",
+     "a": "Joseph",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 22,
+     "q": "Nickname of the female fashion designer born in France's Loire Valley region in 1883",
+     "a": "Coco (Chanel)",
+     "right": [
+      "Laura"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 17,
+     "q": "During this fall celebration in Germany, drinkers consume some 10 million pints of beer!",
+     "a": "Oktoberfest",
+     "right": [
+      "Laura"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "In 73 B.C., Spartacus & other gladiators escaped training school & fled to this volcano near Pompeii",
+     "a": "Mount Vesuvius",
+     "right": [
+      "Debra"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 7,
+     "q": "This engagement of January 8, 1815 has been called \"the needless battle\"",
+     "a": "Battle of New Orleans",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 27,
+     "q": "Edison marveled at the machine's ability to do this, perhaps making him the first to hear \"Paul is dead\"",
+     "a": "play backwards",
+     "right": [
+      "Debra"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 12,
+     "q": "These 2 were rather circumspect when Seth's letter got them on \"Fig Leaf Makeovers\"",
+     "a": "Adam & Eve",
+     "right": [
+      "Debra"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 23,
+     "q": "\"La boheme\", \"Rent\" & \"The Drew Carey Show\" all have a character with this name",
+     "a": "Mimi",
+     "right": [
+      "Debra"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 18,
+     "q": "By an act of Congress, it falls on the first Tuesday after the first Monday in November",
+     "a": "Election Day",
+     "right": [
+      "Laura"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 2,
+     "q": "For walls & vaults, the Romans invented a superior type of this material made of cement, water & gravel",
+     "a": "Concrete",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 8,
+     "q": "On June 1, 1812 he asked Congress to declare war on Great Britain; Congress did so on June 18",
+     "a": "James Madison",
+     "right": [
+      "Debra"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 28,
+     "q": "In 1878 Edison gave up working on his \"favorite invention\" to develop a practical one of these",
+     "a": "Light bulb",
+     "right": [
+      "Laura"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 13,
+     "q": "Samson brought the house down when she tricked him into appearing on the \"No More Secrets!\" show",
+     "a": "Delilah",
+     "right": [
+      "Laura"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 24,
+     "q": "1976's \"Don't Go Breaking My Heart\" was a No. 1 duet by Elton John & this woman",
+     "a": "Kiki Dee",
+     "right": [
+      "Laura"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 19,
+     "q": "Can't wait for Christmas? In Europe, this saint \"visits\" on Dec. 6, his feast day, with gifts in hand",
+     "a": "Saint Nicholas",
+     "right": [
+      "Debra"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 3,
+     "q": "Nearing death, he asked that his \"Aeneid\" be burned, but Augustus refused to have it destroyed",
+     "a": "Virgil",
+     "right": [
+      "Debra"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 9,
+     "q": "On the night of Sept. 13-14, 1814, this Washington attorney was detained aboard a British ship",
+     "a": "Francis Scott Key",
+     "right": [
+      "Debra"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1000
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 29,
+     "q": "Edison thought the phonograph should be used for this in an office, not for music & entertainment",
+     "a": "Dictation",
+     "right": [
+      "Debra"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 14,
+     "q": "Miriam & Aaron answered this man's questions on the \"Who's My Real Mother?\" episode",
+     "a": "Moses",
+     "right": [],
+     "wrong": [
+      "Laura"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 3000
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 25,
+     "q": "A nickname for Josephine, this name is stereotypically used for French poodles",
+     "a": "Fifi",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 20,
+     "q": "Every fall this Arizona town raises hell with Helldorado Days, an Old West gunslinging celebration",
+     "a": "Tombstone",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 4,
+     "q": "Latin name for the period of stability & peace that began in 27 B.C. & lasted about 2 centuries",
+     "a": "Pax Romana",
+     "right": [
+      "Debra"
+     ],
+     "wrong": [
+      "Laura"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 10,
+     "q": "After his flagship the Lawrence was disabled in Lake Erie, he transferred via small boat to the Niagara",
+     "a": "Oliver Hazard Perry",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 30,
+     "q": "On December 7, 1877 Edison demonstrated the phonograph to the editors of this journal",
+     "a": "Scientific American",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 16,
+     "q": "David was hidden offstage when Jonathan told this man \"Dad, Leave My Friends Alone!\"",
+     "a": "Saul",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 26,
+     "q": "Richard Pryor played this title character in a 1986 film; his life was calling",
+     "a": "Jo Jo Dancer",
+     "right": [
+      "Laura"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 21,
+     "q": "During this Jewish harvest festival, many families take meals in homemade huts",
+     "a": "Sukkot",
+     "right": [
+      "Laura"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 5,
+     "q": "After Caligula's assassination, this stammerer was found hiding behind a curtain & made emperor",
+     "a": "Claudius",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  }
+ },
+ "gameId": "1059",
+ "final": {
+  "cat": "NAMES IN THE NEWS",
+  "q": "In 1998 America's second-largest federal building was named in his honor",
+  "a": "Ronald Reagan",
+  "right": [
+   "Laura",
+   "Mark"
+  ],
+  "wrong": [
+   "Debra"
+  ]
+ }
+}

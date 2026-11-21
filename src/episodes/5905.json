@@ -1,0 +1,975 @@
+{
+ "show": "#7695",
+ "aired": "2018-02-09",
+ "note": "",
+ "contestants": [
+  {
+   "name": "Alison Sahner",
+   "bio": "a stay-at-home mom from Pittsburgh, Pennsylvania",
+   "short": "Alison"
+  },
+  {
+   "name": "Carlos Garcia",
+   "bio": "an immigration attorney from Los Angeles, California",
+   "short": "Carlos"
+  },
+  {
+   "name": "Marty Cunningham",
+   "bio": "an accountant and voice artist from Arvada, Colorado (whose 1-day cash winnings total $18,900)",
+   "short": "Marty"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Marty": 3800,
+   "Carlos": 4400,
+   "Alison": 6000
+  },
+  "DJ": {
+   "Marty": 26600,
+   "Carlos": 3600,
+   "Alison": 6800
+  },
+  "Final": {
+   "Marty": 30200,
+   "Carlos": 100,
+   "Alison": 5800
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "20th CENTURY FACTS",
+    "RECENT TV ROLES",
+    "MEALS",
+    "SHAKESPEARE, & I QUOTE",
+    "CRIME",
+    "PUN-ISHMENT"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 3,
+     "q": "In 1920 this blind & deaf woman co-founded the American Civil Liberties Union",
+     "a": "(Helen) Keller",
+     "right": [
+      "Alison"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "In 2017 Jodie Whittaker was tapped to be the 13th Doctor, & the first woman in the role, on this series",
+     "a": "Doctor Who",
+     "right": [
+      "Alison"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 11,
+     "q": "It's usually on weekends & a post-wedding one for out-of-town guests is a nice tradition",
+     "a": "brunch",
+     "right": [
+      "Carlos"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 17,
+     "q": "\"Shake it off. Come on, we'll visit Caliban my slave, who never yields us kind answer\"",
+     "a": "The Tempest",
+     "right": [
+      "Marty"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 16,
+     "q": "Jack McCoy offers you a deal for pleading guilty to Man 1; Man is short for this",
+     "a": "manslaughter",
+     "right": [
+      "Marty"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 23,
+     "q": "Even Psychology Today used the pun saying this \"is not just a river in Egypt\"",
+     "a": "denial",
+     "right": [
+      "Alison"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 7,
+     "q": "On June 4, 1944 this city fell to the Allies, the first Axis capital to be captured",
+     "a": "Rome",
+     "right": [
+      "Carlos"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "He turned up on Netflix as one of our \"Friends from College\"",
+     "a": "(Keegan-Michael) Key",
+     "right": [
+      "Carlos"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 12,
+     "q": "The 2-word name of this small British meal combines a part of the day and a beverage",
+     "a": "afternoon tea",
+     "right": [
+      "Marty"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 18,
+     "q": "\"You shall have me assisting you in all. But will you woo this wild-cat?\"",
+     "a": "The Taming of the Shrew",
+     "right": [
+      "Alison"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 19,
+     "q": "Descriptive term for the act of stealing wallets & other personal items in public places",
+     "a": "pickpocketing",
+     "right": [
+      "Carlos"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 24,
+     "q": "The trigonometry teacher was reluctant to do this for her son's loan",
+     "a": "co-sign",
+     "right": [
+      "Marty"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 8,
+     "q": "Infamous for its Communist hunting in the '50s, HUAC, short for this, became the Internal security Committee in 1969",
+     "a": "the House Un-American Activities Committee",
+     "right": [
+      "Marty"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 4,
+     "q": "He went from being a dad on \"Arrested Development\" to a dad on \"Ozark\"",
+     "a": "(Jason) Bateman",
+     "right": [
+      "Alison"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 13,
+     "q": "In England in 1500 the main meal was eaten around noon & called this",
+     "a": "dinner",
+     "right": [
+      "Marty"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 30,
+     "q": "\"People and senators, be not affrighted; fly not; stand still: ambition's debt is paid\"",
+     "a": "Julius Caesar",
+     "right": [
+      "Carlos"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 20,
+     "q": "Designated a crime in more & more states each year, it's using the internet to threaten or harass others",
+     "a": "cyberbullying",
+     "right": [
+      "Carlos"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 25,
+     "q": "Of a German philosopher, it's said, \"Immanuel doesn't pun, he\" this",
+     "a": "he can't",
+     "right": [
+      "Marty"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 9,
+     "q": "In 1990 Saddam Hussein said this country was part of Iraq & annexed it as a province; not Saddam's best move",
+     "a": "Kuwait",
+     "right": [
+      "Carlos"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 5,
+     "q": "Are you seeing what I'm seeing? It's this actor from \"Mr. Robot\"",
+     "a": "(Rami) Malek",
+     "right": [
+      "Alison"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 14,
+     "q": "zagat.com lists \"DC's Best for\" this type of breakfast where business & political deals get done",
+     "a": "a power breakfast",
+     "right": [
+      "Marty"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": true,
+     "order": 29,
+     "q": "\"His horse is slain, and all on foot he fights\"",
+     "a": "Richard III",
+     "right": [
+      "Alison"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2000
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 21,
+     "q": "Theft is the crime of stealing in general; this is specifically stealing from a residence or other dwelling",
+     "a": "burglary",
+     "right": [
+      "Alison"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 26,
+     "q": "It was an emotional wedding--even the cake was in these",
+     "a": "in tiers",
+     "right": [
+      "Alison"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 10,
+     "q": "Apt 2-word term for the 6,000-mile journey of the Chinese Communists escaping Nationalists in 1934 & '35",
+     "a": "the Long March",
+     "right": [
+      "Alison"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 6,
+     "q": "He went from \"Deadwood\" to \"American Gods\", where he plays Mr. Wednesday",
+     "a": "Ian McShane",
+     "right": [],
+     "wrong": [
+      "Alison"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 15,
+     "q": "Shakespeare's Falstaff asks, \"Will you\" do this \"with me\", a verb meaning \"to eat the evening meal\"",
+     "a": "sup",
+     "right": [
+      "Carlos"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 28,
+     "q": "\"Why, there they are, both baked in this pie; whereof their mother daintily hath fed\"",
+     "a": "Titus Andronicus",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 22,
+     "q": "From the Latin for \"play together\", this is people working or conspiring together to commit a crime",
+     "a": "collusion",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 27,
+     "q": "Those wacky 19th century Democrats won with the campaign slogan \"We Polked you in '44. We shall\" do this to \"you in '52\"",
+     "a": "Pierce",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "\"ALT\" LEFT",
+    "ISLAND NATIONS",
+    "BASS-O-MATIC",
+    "YOU STAY CLASSICAL, MUSIC",
+    "THE NATIONAL INVENTORS HALL OF FAMER",
+    "MOVIE TITLE MATH"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 6,
+     "q": "A heated dispute",
+     "a": "an altercation",
+     "right": [
+      "Alison"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "Cyprus is the legendary home of this Greek goddess of love",
+     "a": "Aphrodite",
+     "right": [
+      "Marty"
+     ],
+     "wrong": [
+      "Carlos"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 21,
+     "q": "Open yer yap & identify M. salmoides & M. dolomieu, these 2 popular game fish with contrasting names",
+     "a": "largemouth and smallmouth bass",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 11,
+     "q": "His composing sons fanned out across Europe, from C.P.E. in Prussia to Johann Christian in London",
+     "a": "Johann Sebastian Bach",
+     "right": [
+      "Marty"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 13,
+     "q": "Invented an \"apparatus for transmitting sound by electricity\" & \"techniques for teaching speech to the deaf\"",
+     "a": "(Alexander Graham) Bell",
+     "right": [
+      "Marty"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 24,
+     "q": "Both from 1960: \"Ocean's ____\" times \"The Magnificent ____\"",
+     "a": "77",
+     "right": [
+      "Marty"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 7,
+     "q": "How high am I? Let's look at this standard aviation device",
+     "a": "an altimeter",
+     "right": [
+      "Marty"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 2,
+     "q": "7 miles east of Venezuela is this island, the larger of the 2 that make up a nation",
+     "a": "Trinidad",
+     "right": [
+      "Marty"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 22,
+     "q": "The belted sandfish, a sea bass, is this Greek-derived word, meaning having both male & female sex organs",
+     "a": "hermaphrodite",
+     "right": [
+      "Carlos"
+     ],
+     "wrong": [
+      "Marty"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 12,
+     "q": "I have to admit, one tune in \"The Valkyrie\" by this composer always gets me singing, \"Kill da wabbit, kill da wabbit...\"",
+     "a": "Wagner",
+     "right": [
+      "Carlos"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 14,
+     "q": "This partner of Steve Jobs \"was awarded the National Medal of Technology... in 1985\"",
+     "a": "Wozniak",
+     "right": [
+      "Marty"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 25,
+     "q": "\"The ____ Year-Old Virgin\" minus \"The Dirty ____\"",
+     "a": "28",
+     "right": [
+      "Carlos"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 8,
+     "q": "This type of painted screen seen here was made for a Ghent cathedral",
+     "a": "an altarpiece (or altar screen)",
+     "right": [
+      "Marty"
+     ],
+     "wrong": [
+      "Carlos"
+     ],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 3,
+     "q": "This capital of an island nation is at the extreme south of North Island",
+     "a": "Wellington",
+     "right": [
+      "Marty"
+     ],
+     "wrong": [
+      "Alison"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 28,
+     "q": "You're in perfect spot to observe the bass species called the white this, a synonym for \"roost\"",
+     "a": "a perch",
+     "right": [
+      "Marty"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 18,
+     "q": "The Weber work heard here is this alliterative kind of composition for woodwind & orchestra",
+     "a": "a clarinet concerto",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": true,
+     "order": 15,
+     "q": "\"Inventor of the Checkered Game of Life, (he) ushered in a new age of parlor games\"",
+     "a": "Milton Bradley",
+     "right": [
+      "Marty"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 4000
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 23,
+     "q": "\"____ Men and a Baby\" times \"____ Degrees of Separation\"",
+     "a": "18",
+     "right": [
+      "Marty"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 9,
+     "q": "You are nude if you are \"in the\" this",
+     "a": "the altogether",
+     "right": [
+      "Marty"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 4,
+     "q": "This U.N. member is 500 miles northwest of Scotland",
+     "a": "Iceland",
+     "right": [
+      "Marty"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2000
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 29,
+     "q": "A sea bass called the \"giant\" this G-word can reach 900 pounds; despite the name, it's solitary",
+     "a": "a grouper",
+     "right": [
+      "Marty"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 19,
+     "q": "Ravel's instructions for this 1928 work were to start softly & play the end as loudly as possible",
+     "a": "Boléro",
+     "right": [
+      "Marty"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 16,
+     "q": "His \"discovery, which came to be known as vulcanization, strengthened rubber\"",
+     "a": "Goodyear",
+     "right": [
+      "Alison"
+     ],
+     "wrong": [
+      "Carlos"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 26,
+     "q": "\"Gone in ____ Seconds\" plus \"Assault on Precinct ____\"",
+     "a": "73",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 10,
+     "q": "It's the brightest star in the constellation Aquila",
+     "a": "Altair",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 5,
+     "q": "Haiti & the Dominican Republic share custody of this island",
+     "a": "Hispaniola",
+     "right": [
+      "Marty"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 30,
+     "q": "The calico bass is AKA the black this, & we're not making a judgment",
+     "a": "the black crappie",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 20,
+     "q": "\"Anitra's Dance\" is from a suite by Grieg written for this Ibsen play",
+     "a": "Peer Gynt",
+     "right": [
+      "Marty"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 17,
+     "q": "This American \"pioneered modern rocketry and space flight... held 214 patents in rocketry\"",
+     "a": "(Robert) Goddard",
+     "right": [
+      "Marty"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 27,
+     "q": "\"(____) Days of Summer\" times \"____ Heads in a Duffel Bag\"",
+     "a": "4000",
+     "right": [],
+     "wrong": [
+      "Marty"
+     ],
+     "stumper": true,
+     "img": false
+    }
+   ]
+  }
+ },
+ "gameId": "5905",
+ "final": {
+  "cat": "20th CENTURY BOOKS",
+  "q": "An \"ineffable quality\", this 3-word title represents \"the ability to go up in a hurtling piece of machinery\" day after day",
+  "a": "The Right Stuff",
+  "right": [
+   "Marty"
+  ],
+  "wrong": [
+   "Carlos",
+   "Alison"
+  ]
+ }
+}

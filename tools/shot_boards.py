@@ -1,7 +1,9 @@
 from playwright.sync_api import sync_playwright
 import pathlib
 root=pathlib.Path(__file__).resolve().parent.parent
-u=(root/'index.html').as_uri()
+import sys; sys.path.insert(0,str(pathlib.Path(__file__).resolve().parent))
+from testlib import start_server
+u=start_server()
 with sync_playwright() as p:
     b=p.chromium.launch()
     for n,vp,m in (('m',{'width':390,'height':844},1),('m375',{'width':375,'height':667},1),('d',{'width':1024,'height':577},0)):

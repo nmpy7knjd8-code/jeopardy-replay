@@ -9,11 +9,25 @@ const stage=$('#stage'), hud=$('#hud'), lights=$('#lights'), appEl=$('#app');
 const esc=s=>String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const money=n=>(n<0?'-':'')+'$'+Math.abs(n).toLocaleString('en-US');
 const YOU='You';
-let SHOW=EPISODES[0];
+const CATALOG=EPISODES;
 const epParam=Q.get('ep');
-if(epParam){const e=EPISODES.find(e=>e.gameId===epParam)||EPISODES[+epParam];if(e)SHOW=e}
+let SHOW=CATALOG.find(e=>e.gameId===epParam)||CATALOG[+epParam]||CATALOG[0];
+let pick=Math.max(0,CATALOG.findIndex(e=>e.gameId===SHOW.gameId));
 const G={score:0,state:'intro',round:'J',used:new Set(),curCol:-1,stay:0,timers:[],stateAt:0,
- roundScores:{},clue:null,lockedUntil:0,openAt:0,sound:true,history:[]};
+ roundScores:{},clue:null,lockedUntil:0,openAt:0,sound:true,history:[],skipped:null};
+function readPlayed(){try{return JSON.parse(localStorage.getItem('jr-played')||'{}')}catch(e){return{}}}
+function savePlayed(id,score){
+  if(AUTO||FAST)return;
+  try{
+    const all=readPlayed(),prev=all[id]||{},best=prev.best!=null?Math.max(prev.best,score):score;
+    all[id]={last:score,best,date:new Date().toISOString(),finished:true};
+    localStorage.setItem('jr-played',JSON.stringify(all));
+  }catch(e){}
+}
+function loadShow(id){
+  const meta=CATALOG.find(e=>e.gameId===id)||CATALOG[0];
+  return fetch('episodes/'+meta.gameId+'.json').then(r=>{if(!r.ok)throw new Error('episode '+r.status);return r.json()}).then(d=>{SHOW=Object.assign({},meta,d);return SHOW});
+}
 
 /* ---------- sound (tiny WebAudio blips) ---------- */
 let AC=null;
@@ -32,7 +46,7 @@ const sfx={
  tick(){tone(1200,.03,'square',.04)}
 };
 hud.addEventListener('click',e=>{const m=e.target.closest('#mute');if(m){G.sound=!G.sound;m.innerHTML=G.sound?ICON.snd:ICON.mute;m.blur()}
-  if(e.target.closest('#ff'))fastForward();if(e.target.closest('#rskip'))skipRound()});
+  if(e.target.closest('#ff'))fastForward();if(e.target.closest('#rskip'))skipRound();if(e.target.closest('#home'))askLeave()});
 
 /* ---------- timers ---------- */
 function later(fn,ms){const t=setTimeout(fn,ms);G.timers.push(t);return t}
@@ -54,13 +68,25 @@ const ICON={
  snd:'<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 9h4l5-4v14l-5-4H4z" fill="currentColor"/><path d="M16 8.5a5 5 0 0 1 0 7M18.5 6a8.5 8.5 0 0 1 0 12" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>',
  mute:'<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 9h4l5-4v14l-5-4H4z" fill="currentColor"/><path d="M16.5 9.5l5 5m0-5l-5 5" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>',
  ff:'<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3 6l9 6-9 6zM12 6l9 6-9 6z" fill="currentColor"/></svg>',
- next:'<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 6l8.5 6L4 18zM12 6l8.5 6L12 18z" fill="currentColor"/><rect x="20" y="6" width="2" height="12" rx="1" fill="currentColor"/></svg>'};
+ next:'<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 6l8.5 6L4 18zM12 6l8.5 6L12 18z" fill="currentColor"/><rect x="20" y="6" width="2" height="12" rx="1" fill="currentColor"/></svg>',
+ home:'<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 11.5 12 4l8 7.5V20a1 1 0 0 1-1 1h-5v-6H10v6H5a1 1 0 0 1-1-1z" fill="currentColor"/></svg>'};
 function renderHud(){
   hud.classList.remove('hide');
   const rs=G.round==='J'||G.round==='DJ';
   const real=G.skipped&&SHOW.scores[G.skipped]?`<div class="realstrip" aria-label="Real scores at the jump">${SHOW.contestants.map(c=>`${esc(c.short)} ${money(SHOW.scores[G.skipped][c.short])}`).join(' · ')}</div>`:'';
-  hud.innerHTML=`${real}<div class="corner l"><button id="ff" class="ic" type="button" aria-label="Skip the wait">${ICON.ff}</button></div><div class="scorebox ${G.score<0?'neg':'pos'}">${money(G.score)}</div><div class="corner r"><button id="mute" class="ic" type="button" aria-label="Toggle sound">${G.sound?ICON.snd:ICON.mute}</button>${rs?`<button id="rskip" class="ic" type="button" aria-label="${G.round==='J'?'Skip to Double Jeopardy':'Skip to Final Jeopardy'}">${ICON.next}</button>`:''}</div>`;
+  const atEnd=G.state==='end';
+  hud.innerHTML=`${real}<div class="corner l"><button id="ff" class="ic" type="button" aria-label="Skip the wait">${ICON.ff}</button><button id="home" class="ic" type="button" aria-label="Back to episodes">${ICON.home}</button></div><div class="scorebox ${G.score<0?'neg':'pos'}">${money(G.score)}</div><div class="corner r"><button id="mute" class="ic" type="button" aria-label="Toggle sound">${G.sound?ICON.snd:ICON.mute}</button><button id="rskip" class="ic" type="button" aria-label="${G.round==='J'?'Skip to Double Jeopardy':'Skip to Final Jeopardy'}" ${rs&&!atEnd?'':'hidden'}>${ICON.next}</button></div>`;
 }
+function askLeave(){
+  if(G.state==='end'){intro();return}
+  if($('.leave'))return;
+  const box=document.createElement('div');box.className='leave';box.setAttribute('role','dialog');box.setAttribute('aria-label','Leave game?');
+  box.innerHTML='<div class="leavecard"><div class="leaveq">Leave game?</div><div class="leaverow"><button type="button" class="btn" id="leavey">Yes</button><button type="button" class="btn ghost" id="leaven">No</button></div></div>';
+  appEl.appendChild(box);
+  $('#leavey').onclick=()=>{box.remove();clearTimers();setLights(null);G.pending=null;G.clue=null;G.skipped=null;intro()};
+  $('#leaven').onclick=()=>box.remove();
+}
+
 const S=(html)=>{stage.innerHTML=html;appEl.classList.toggle('dark',html.indexOf('class="bw"')>=0);ro.disconnect();const cl=stage.querySelector('.clue');if(cl)ro.observe(cl);const bd=stage.querySelector('.body');if(bd)ro.observe(bd);requestAnimationFrame(fitAll)};
 const ro=window.ResizeObserver?new ResizeObserver(()=>requestAnimationFrame(fitAll)):{observe(){},disconnect(){}};
 /* ---------- fit-to-box text sizing ---------- */
@@ -140,21 +166,66 @@ function syncVV(){
 if(window.visualViewport){visualViewport.addEventListener('resize',syncVV);visualViewport.addEventListener('scroll',syncVV);syncVV()}
 
 /* ---------- intro ---------- */
-let pick=0;
 function intro(){
   clearTimers();setState('intro');setLights(null);hud.classList.add('hide');
-  const fmt=e=>new Date(e.aired+'T12:00:00').toLocaleDateString('en-US',{month:'short',day:'numeric',year:'numeric'});
-  const cur=Math.max(0,EPISODES.indexOf(SHOW));pick=cur;
+  const played=readPlayed();
+  const fmt=e=>new Date(e.aired+'T12:00:00').toLocaleDateString('en-US',{month:'short',day:'numeric'});
+  const seasons=[...new Set(CATALOG.map(e=>e.season))].sort((a,b)=>b-a);
+  if(pick==null || pick>=CATALOG.length) pick=0;
+  let season=CATALOG[pick].season;
+  function rowsFor(s){
+    return CATALOG.map((e,i)=>[e,i]).filter(([e])=>e.season===s);
+  }
+  function mark(s){
+    const rows=rowsFor(s), n=rows.filter(([e])=>played[e.gameId]&&played[e.gameId].finished).length;
+    return n?`✓ ${n}/${rows.length}`:`${rows.length}`;
+  }
+  function cardsHtml(){
+    const rows=rowsFor(season);
+    return rows.map(([e,i])=>{
+      const p=played[e.gameId], did=p&&p.finished;
+      const badge=did?`<span class="played" aria-label="Played, best ${money(p.best)}">✓ ${money(p.best)}</span>`:'';
+      return `<button type="button" class="ep${i===pick?' sel':''}${did?' did':''}" data-i="${i}">
+        <span class="ed">${esc(e.show)} · ${fmt(e)}</span>
+        <span class="en">${e.contestants.map(c=>esc(c.short)).join(' · ')}</span>${badge}</button>`;
+    }).join('');
+  }
+  function menuHtml(){
+    return seasons.map(s=>{
+      const meta=CATALOG.find(e=>e.season===s);
+      return `<button type="button" class="sitem${s===season?' on':''}" data-s="${s}"><span>Season ${s} · ${meta.seasonYears}</span><span class="scount">${mark(s)}</span></button>`;
+    }).join('');
+  }
+  function headerLabel(){
+    const meta=CATALOG.find(e=>e.season===season);
+    return `Season ${season} · ${meta.seasonYears}`;
+  }
   S(`<div class="panel intro">
     <div class="logo">Jeopardy!</div>
-    <div class="sub">Pick an episode</div>
-    <div class="eps">${EPISODES.map((e,i)=>`<button type="button" class="ep${i===cur?' sel':''}" data-i="${i}">
-      <span class="ed">${fmt(e)} · ${esc(e.show)}</span>
-      <span class="en">${e.contestants.map(c=>esc(c.name)).join(' · ')}</span>
-      <span class="et">${esc(e.tag||'')}</span></button>`).join('')}</div>
+    <div class="sbar">
+      <button type="button" class="ssel" id="ssel" aria-haspopup="listbox" aria-expanded="false"><span id="slabel">${headerLabel()}</span><span class="scount" id="smeta">${mark(season)}</span><span class="chev" aria-hidden="true">▾</span></button>
+      <div class="smenu hide" id="smenu" role="listbox">${menuHtml()}</div>
+    </div>
+    <div class="eps" id="epgrid">${cardsHtml()}</div>
     <button class="btn" id="go">Start</button></div>`);
-  document.querySelectorAll('.ep').forEach(b=>b.onclick=()=>{pick=+b.dataset.i;SHOW=EPISODES[pick];document.querySelectorAll('.ep').forEach(x=>x.classList.toggle('sel',x===b))});
-  $('#go').onclick=()=>{SHOW=EPISODES[pick];G.skipped=null;startRound('J')};
+  const menu=$('#smenu'), sel=$('#ssel');
+  function bindCards(){
+    document.querySelectorAll('.ep').forEach(b=>b.onclick=()=>{pick=+b.dataset.i;SHOW=CATALOG[pick];document.querySelectorAll('.ep').forEach(x=>x.classList.toggle('sel',x===b))});
+  }
+  bindCards();
+  sel.onclick=e=>{e.stopPropagation();const open=menu.classList.toggle('hide');sel.setAttribute('aria-expanded',open?'false':'true')};
+  menu.querySelectorAll('.sitem').forEach(b=>b.onclick=e=>{
+    e.stopPropagation();
+    season=+b.dataset.s;
+    const first=CATALOG.findIndex(e=>e.season===season);
+    pick=first;SHOW=CATALOG[pick];
+    $('#slabel').textContent=headerLabel();$('#smeta').textContent=mark(season);
+    $('#epgrid').innerHTML=cardsHtml();bindCards();
+    menu.querySelectorAll('.sitem').forEach(x=>x.classList.toggle('on',+x.dataset.s===season));
+    menu.classList.add('hide');sel.setAttribute('aria-expanded','false');
+  });
+  if(!intro._close){intro._close=ev=>{const m=document.querySelector('#smenu'),s=document.querySelector('#ssel');if(!m||!s)return;if(!ev.target.closest('.sbar')){m.classList.add('hide');s.setAttribute('aria-expanded','false')}};document.addEventListener('pointerdown',intro._close);}
+  $('#go').onclick=()=>{G.skipped=null;const go=$('#go');go.disabled=true;loadShow(CATALOG[pick].gameId).then(()=>startRound('J')).catch(()=>{go.disabled=false})};
 }
 
 /* ---------- rounds & board ---------- */
@@ -486,8 +557,9 @@ function finalClue(){
 /* ---------- end ---------- */
 const ORD=n=>['1st','2nd','3rd','4th'][n-1];
 function endScreen(){
-  clearTimers();setState('end');setLights(null);hud.classList.add('hide');
+  clearTimers();setState('end');setLights(null);
   G.roundScores.F=G.score;
+  savePlayed(SHOW.gameId,G.score);
   const fin=SHOW.scores.Final;
   const people=SHOW.contestants.map(c=>({name:c.name,short:c.short,score:fin[c.short],real:true,j:SHOW.scores.J[c.short],dj:SHOW.scores.DJ[c.short]}));
   const me={name:'You',score:G.score,real:false,j:G.roundScores.J??0,dj:G.roundScores.DJ??0};
@@ -511,6 +583,7 @@ function endScreen(){
      <td class="${p.j<0?'neg':''}">${money(p.j)}</td><td class="${p.dj<0?'neg':''}">${money(p.dj)}</td><td class="${p.score<0?'neg':''}">${money(p.score)}</td></tr>`).join('')}</table>
    <div class="contestants"><button class="btn" id="again">Play again</button></div></div>`);
   $('#again').onclick=()=>{location.reload()};
+  renderHud();
   window.__result={place,score:G.score};
 }
 
@@ -542,13 +615,13 @@ if(AUTO){
       inp.value=Math.random()<.65?'what is '+c.a.replace(/\(|\)/g,''):'definitely wrong';
       setTimeout(()=>G.submitAnswer&&G.submitAnswer(),120);
     }
-    else if(st==='wager'&&$('#wg')&&!$('#wg').value){$('#wg').value=String(Math.min(G.score,1000)||5);G.wagerGo()}
+    else if(st==='wager'&&$('#wg')&&!$('#wg').dataset.f){const inp=$('#wg');inp.dataset.f=1;inp.value=String(Math.min(Math.max(G.score,5),1000));G.wagerGo()}
     else if(st==='finalwager'&&$('#wg')&&!$('#wg').value){$('#wg').value=String(Math.round(G.score/2));G.wagerGo()}
     else if(st==='finalwager'&&!$('#wg')&&age>600)$('#cont').click();
     else if(st==='result'&&age>600)nextAfterResult();
     else if(st==='roundend'&&age>600)$('#cont').click();
   },200);
 }
-window.__G=G;window.__startRound=startRound;
+window.__G=G;window.__startRound=startRound;window.__loadShow=loadShow;window.__savePlayed=savePlayed;window.__readPlayed=readPlayed;
 intro();
 })();

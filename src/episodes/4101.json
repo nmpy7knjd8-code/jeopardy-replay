@@ -1,0 +1,966 @@
+{
+ "show": "#6558",
+ "aired": "2013-03-06",
+ "note": "Drew Horwood game 2.",
+ "contestants": [
+  {
+   "name": "Lorraine Donahue",
+   "bio": "a document services supervisor from Shadyside, Ohio",
+   "short": "Lorraine"
+  },
+  {
+   "name": "Jon Gucinski",
+   "bio": "a security engineer originally from Naperville, Illinois",
+   "short": "Jon"
+  },
+  {
+   "name": "Drew Horwood",
+   "bio": "a business analyst from Minneapolis, Minnesota (whose 1-day cash winnings total $16,998)",
+   "short": "Drew"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Drew": 3800,
+   "Jon": 5600,
+   "Lorraine": 5400
+  },
+  "DJ": {
+   "Drew": 9800,
+   "Jon": 9600,
+   "Lorraine": 9300
+  },
+  "Final": {
+   "Drew": 19201,
+   "Jon": 18601,
+   "Lorraine": 17800
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "ALASKAN WILDLIFE",
+    "\"CROSS\" WORD CLUES",
+    "& WHAT DO YOU DO?",
+    "GET YOUR IRISH UP",
+    "POP GO THE LYRICS!",
+    "WASHINGTON, D.C. SCULPTURE"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 26,
+     "q": "(Sarah of the Clue Crew observes a bear at Pavlof Harbor in Alaska.) Despite their name, brown bears can have black or brown fur, & the brown bear here has a conspicuous shoulder hump & silver-tinted fur, which gives it this name, meaning \"gray\", not \"gruesome\"",
+     "a": "grizzly",
+     "right": [
+      "Jon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 4,
+     "q": "It's the horizontal part atop a soccer goal",
+     "a": "a crossbar",
+     "right": [
+      "Lorraine"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 16,
+     "q": "Dame Antoinette Sibley & \"Lord\" Michael Flatley",
+     "a": "dancers",
+     "right": [
+      "Jon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 9,
+     "q": "A national symbol, the shamrock is a variety of this plant",
+     "a": "a clover",
+     "right": [
+      "Drew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 14,
+     "q": "This movie theme says, \"kick off your Sunday shoes. Please, Louise, pull me off-a my knees\"",
+     "a": "\"Footloose\"",
+     "right": [
+      "Drew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "In the center of Lafayette Square you'll find not Lafayette but this Tennessean seventh president",
+     "a": "(Andrew) Jackson",
+     "right": [
+      "Drew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "(Sarah of the Clue Crew holds a crab at Lake Eva in Alaska.) In Alaska, only male Dungeness crabs are legal to catch; you know a male because of the triangular shape of this, the third major part of a crab's body, along with head & thorax",
+     "a": "the abdomen",
+     "right": [
+      "Drew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 5,
+     "q": "A lawyer tries to discredit a witness called by the opposite side by doing this",
+     "a": "cross-examine",
+     "right": [
+      "Lorraine"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 17,
+     "q": "Diane Arbus & \nRichard Avedon",
+     "a": "photographers",
+     "right": [
+      "Lorraine"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 10,
+     "q": "Treasure of the leprechauns found at the end of the rainbow",
+     "a": "a pot of gold",
+     "right": [
+      "Drew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 15,
+     "q": "As Billy Joel put it, \"Everybody's talkin' 'bout the new sound / Funny, but it's still\" this",
+     "a": "\"Rock And Roll To Me\"",
+     "right": [
+      "Jon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": true,
+     "order": 2,
+     "q": "73 years after his death, a statue of this musician was unveiled outside the band hall at the Marine Barracks",
+     "a": "John Philip Sousa",
+     "right": [
+      "Drew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true,
+     "ddWager": 200
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 28,
+     "q": "(Sarah of the Clue Crew reports from Glacier Bay in Alaska.) The straw-colored plumes that curve backwards from behind the eyes are part of the breeding ornamentation of the tufted variety of this auk family member",
+     "a": "a puffin",
+     "right": [
+      "Lorraine"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 6,
+     "q": "One factor in the demise of chivalry & knighthood was the development of this weapon",
+     "a": "the crossbow",
+     "right": [
+      "Drew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 18,
+     "q": "Brady Hoke & \nRex Ryan",
+     "a": "football coaches",
+     "right": [
+      "Jon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 11,
+     "q": "To say something is \"Black '47\" is a reference to the worst year of this calamity",
+     "a": "the Potato Famine",
+     "right": [
+      "Lorraine"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 21,
+     "q": "It's the 2-word title of the Lady Gaga song that includes \"ro mah, ro-mah-mah, gaga, ooh-la-la!\"",
+     "a": "\"Bad Romance\"",
+     "right": [
+      "Lorraine"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 3,
+     "q": "A bronze Boy Scout stands on the site where the first of these national Scout gatherings was held in 1937",
+     "a": "a jamboree",
+     "right": [
+      "Jon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "(Sarah of the Clue Crew reports from Glacier Bay in Alaska.) With dense populations in coastal habitats, the murre is vulnerable to oil spills; an estimated 185,000 murres were lost when this tanker spilled off Alaska in 1989",
+     "a": "the Exxon Valdez",
+     "right": [
+      "Jon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 7,
+     "q": "This constellation is between Centaurus & Musca",
+     "a": "the Southern Cross",
+     "right": [
+      "Drew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 19,
+     "q": "Herbert Putnam & Melvil Dewey; you might wanna concentrate on Dewey",
+     "a": "librarians",
+     "right": [
+      "Lorraine"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 12,
+     "q": "Irish cudgel wielded by leprechauns & warriors",
+     "a": "a shillelagh",
+     "right": [
+      "Lorraine"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 22,
+     "q": "From this 1991 hit: \"I thought that I heard you laughing, I thought that I heard you sing, I think, I thought I saw you try\"",
+     "a": "\"Losing My Religion\"",
+     "right": [
+      "Jon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 24,
+     "q": "\"Viva\" this revolutionary who stands life-size on the lawn in front of Mexico's embassy",
+     "a": "(Emiliano) Zapata",
+     "right": [
+      "Drew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 30,
+     "q": "(Sarah of the Clue Crew goes whale watching at Wachusett Cove in Alaska.) Humpbacks uniquely hunt using what's called a bubble net; the whales release a circle of bubbles under a school of fish, & as the air rises, a net forms, trapping the fish; the whales then swim up the net with open mouths, filtering food through these jawlike plates",
+     "a": "baleen",
+     "right": [
+      "Drew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 8,
+     "q": "In 1843 Benedict J. Fenwick founded it as a men's college in Massachusetts",
+     "a": "Holy Cross",
+     "right": [
+      "Jon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 20,
+     "q": "Renzo Piano & \nWalter Gropius",
+     "a": "architects",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 13,
+     "q": "3-word phrase meaning \"Ireland forever\"",
+     "a": "\"Erin go bragh\"",
+     "right": [
+      "Jon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 23,
+     "q": "This Elvis song says, \"We're caught in a trap, I can't walk out\"",
+     "a": "\"Suspicious Minds\"",
+     "right": [
+      "Lorraine"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 25,
+     "q": "The statue of this president in the Capitol rotunda represents the state of Ohio",
+     "a": "Garfield",
+     "right": [],
+     "wrong": [
+      "Drew"
+     ],
+     "stumper": true,
+     "img": true
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "WONKY LEAKS",
+    "THE TONYS",
+    "10-LETTER WORDS",
+    "KNOW YOUR AREA CODES",
+    "QUOTES FILLED WITH BOOZE",
+    "COMIC STRIP CHARACTERS"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 6,
+     "q": "In November 2010 WikiLeaks, founded by this man, began publishing an estimated 250,000 confidential U.S. diplomatic cables",
+     "a": "(Julian) Assange",
+     "right": [
+      "Drew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 22,
+     "q": "He was appointed envoy for peace efforts in the Middle East after resigning as British prime minister",
+     "a": "Tony Blair",
+     "right": [
+      "Lorraine"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 17,
+     "q": "Steal someone's ideas & pass them off as your own",
+     "a": "plagiarize",
+     "right": [
+      "Jon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 12,
+     "q": "712 gets you Iowa, 412, Pennsylvania & 212, this state",
+     "a": "New York",
+     "right": [
+      "Jon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "\"Gin was mother's milk to her\", says Eliza of her aunt in this Shaw play",
+     "a": "Pygmalion",
+     "right": [
+      "Lorraine"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 7,
+     "q": "Tess Trueheart; Chief Brandon; Pruneface",
+     "a": "Dick Tracy",
+     "right": [
+      "Jon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 27,
+     "q": "Washington Post nickname of the White House informant whose I.D. was kept secret for 33 years, until 2005",
+     "a": "Deep Throat",
+     "right": [
+      "Lorraine"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 23,
+     "q": "Anthony is the middle name of Samuel Alito; it's also the first name of this current benchmate",
+     "a": "Anthony Kennedy",
+     "right": [],
+     "wrong": [
+      "Drew"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 18,
+     "q": "The one for the movie \"Burlesque\" features 8 songs by Christina Aguilera & 2 by Cher",
+     "a": "a soundtrack",
+     "right": [
+      "Drew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 13,
+     "q": "313 will call up this Great Lakes state's eastern edge; 616, its western",
+     "a": "Michigan",
+     "right": [
+      "Jon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 2,
+     "q": "Boswell quotes him: \"claret is the liquor for boys; port, for men; but he who aspires to be a hero must drink brandy\"",
+     "a": "(Samuel) Johnson",
+     "right": [
+      "Drew"
+     ],
+     "wrong": [
+      "Jon"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 8,
+     "q": "Daughter Cookie; neighbor Herb Woodley; Mr. Beasley, the mailman",
+     "a": "Blondie",
+     "right": [
+      "Lorraine"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": true,
+     "order": 28,
+     "q": "In 1774 he became a past postmaster after leaking letters from British loyalist Thomas Hutchinson",
+     "a": "Benjamin Franklin",
+     "right": [],
+     "wrong": [
+      "Lorraine"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2500
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 24,
+     "q": "He's the successful entrepreneur & breathtaking athlete seen here",
+     "a": "Tony Hawk",
+     "right": [
+      "Drew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 19,
+     "q": "Last name of singer-songwriters Loudon III & Rufus; it's also the term for a wagon maker",
+     "a": "Wainwright",
+     "right": [
+      "Jon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 14,
+     "q": "For Buffalo dial 716; for this city of 2.6 million 100 miles away, dial 416",
+     "a": "Toronto",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 3,
+     "q": "This poet wrote, \"Go fetch to me a pint o' wine... that I may drink, before I go, a service to my bonnie lassie\"",
+     "a": "(Rabbie) Burns",
+     "right": [
+      "Lorraine"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 9,
+     "q": "Fiercely feminist friend Andrea seen here",
+     "a": "Cathy",
+     "right": [
+      "Lorraine"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 29,
+     "q": "The 2003 leaking of this CIA agent's name led to the end of her career, a prison term for a White House staffer & a movie",
+     "a": "Valerie Plame",
+     "right": [
+      "Drew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 25,
+     "q": "This author is best known for his series of detective novels featuring Navajo tribal policeman Jim Chee",
+     "a": "Tony Hillerman",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 20,
+     "q": "It's a beauty product such as Nair that removes unwanted hair",
+     "a": "a depilatory",
+     "right": [
+      "Lorraine"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 15,
+     "q": "This state's 201 was the first area code to be used, in 1951",
+     "a": "New Jersey",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 4,
+     "q": "Before lapsing into a coma, this Welsh poet supposedly said, \"I've had 18 straight whiskies; I think that's the record\"",
+     "a": "Dylan Thomas",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 10,
+     "q": "Rev. Scot Sloan; Zonker; B.D.",
+     "a": "Doonesbury",
+     "right": [
+      "Jon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 30,
+     "q": "Evidence suggests in 1848 Secretary of State James Buchanan leaked the terms of this Mexican-American War treaty",
+     "a": "the Treaty of Guadalupe Hidalgo",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 26,
+     "q": "This playwright's \"Millennium Approaches\" was the first part of his \"Angels in America\"",
+     "a": "Kushner",
+     "right": [
+      "Drew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 21,
+     "q": "This branch of zoology studies insects & related bugs like ticks & mites",
+     "a": "entomology",
+     "right": [
+      "Lorraine"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 16,
+     "q": "Give Akron a jingle with this area code, the lowest sequential one",
+     "a": "234",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": true,
+     "order": 5,
+     "q": "The title character of this Eugene O'Neill play says, \"Gimme a whiskey--ginger ale on the side. And don't be stingy, baby\"",
+     "a": "Anna Christie",
+     "right": [],
+     "wrong": [
+      "Lorraine"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2000
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 11,
+     "q": "Fritzi Ritz; Sluggo; Rollo",
+     "a": "Nancy",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    }
+   ]
+  }
+ },
+ "gameId": "4101",
+ "final": {
+  "cat": "U.S. HISTORY",
+  "q": "Congress has passed 11 of these: the first in 1812, the last in 1942",
+  "a": "declarations of war",
+  "right": [
+   "Lorraine",
+   "Jon",
+   "Drew"
+  ],
+  "wrong": []
+ }
+}
