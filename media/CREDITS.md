@@ -15,12 +15,17 @@ Clue pictures are from Wikimedia Commons (each under its own license; see the li
 | 1757-J_1_3.jpg | [Warp and weft (PSF).png](https://commons.wikimedia.org/wiki/File:Warp_and_weft_(PSF).png) | Pearson Scott Foresman | Public domain |
 | 1757-J_1_4.jpg | [Four to the floor bass dru.png](https://commons.wikimedia.org/wiki/File:Four_to_the_floor_bass_dru.png) | Original uploader was Hyacinth | Public domain |
 | 2035-J_5_4.jpg | [Keffiyeh-corner.png](https://commons.wikimedia.org/wiki/File:Keffiyeh-corner.png) | Magnificent Bowtruckle | CC0 |
+| 2053-DJ_0_3.jpg | [Snow Scene at Shipka Pass 1.JPG](https://commons.wikimedia.org/wiki/File:Snow_Scene_at_Shipka_Pass_1.JPG) | Psy guy | CC BY-SA 3.0 |
+| 2053-DJ_1_3.jpg | [Weather channel films SOWT at Eglin2.JPG](https://commons.wikimedia.org/wiki/File:Weather_channel_films_SOWT_at_Eglin2.JPG) | U.S. Air Force | Public domain |
+| 2053-DJ_4_3.jpg | [Seen ua paris 2007 jnl.jpg](https://commons.wikimedia.org/wiki/File:Seen_ua_paris_2007_jnl.jpg) | Jean-noël Lafargue | CC BY-SA 3.0 |
+| 2053-J_5_2.jpg | [Canine distemper pathology.jpg](https://commons.wikimedia.org/wiki/File:Canine_distemper_pathology.jpg) | unknown | Public domain |
 | 2358-DJ_0_0.jpg | [Large Gautama Buddha statue in Buddha Park of Ravangla, Sikkim.jpg](https://commons.wikimedia.org/wiki/File:Large_Gautama_Buddha_statue_in_Buddha_Park_of_Ravangla,_Sikkim.jpg) | Subhrajyoti07 | CC BY-SA 4.0 |
 | 2358-DJ_0_1.jpg | [Water reflection of a boy feeding hay to a cow in a paddy field at golden hour in Laos.jpg](https://commons.wikimedia.org/wiki/File:Water_reflection_of_a_boy_feeding_hay_to_a_cow_in_a_paddy_field_at_golden_hour_in_Laos.jpg) | Basile Morin | CC BY-SA 4.0 |
 | 2358-DJ_0_2.jpg | [Maestro Batik Tulis di Imogiri.jpg](https://commons.wikimedia.org/wiki/File:Maestro_Batik_Tulis_di_Imogiri.jpg) | Aconkyeah | CC BY-SA 4.0 |
 | 2358-DJ_0_3.jpg | [Treasure of silver coins of the XIV - beg. XV century. Found at Chornaya Promza village of the Bolshebereznikovsky district, Mordovia, USSR in 1961.jpg](https://commons.wikimedia.org/wiki/File:Treasure_of_silver_coins_of_the_XIV_-_beg._XV_century._Found_at_Chornaya_Promza_village_of_the_Bolshebereznikovsky_district,_Mordovia,_USSR_in_1961.jpg) | Mordovian History Museum | CC BY-SA 4.0 |
 | 2358-DJ_0_4.jpg | [Geisha Tuning a Samisen LACMA M.71.100.33.jpg](https://commons.wikimedia.org/wiki/File:Geisha_Tuning_a_Samisen_LACMA_M.71.100.33.jpg) | Yanagawa Shigenobu II (Japan, active 1824-1860) | Public domain |
 | 2358-DJ_5_4.jpg | [CampanileGiotto-01.jpg](https://commons.wikimedia.org/wiki/File:CampanileGiotto-01.jpg) | Thermos | CC BY-SA 2.5 |
+| 2672-DJ_0_0.jpg | [422 E Duke of Gloucester Street.jpg](https://commons.wikimedia.org/wiki/File:422_E_Duke_of_Gloucester_Street.jpg) | ProfReader | CC BY-SA 4.0 |
 | 2849-DJ_1_2.jpg | [Stained wooden clapboard siding.jpg](https://commons.wikimedia.org/wiki/File:Stained_wooden_clapboard_siding.jpg) | Daniel Case | CC BY-SA 3.0 |
 | 2849-DJ_1_4.jpg | [Dymaxion House exterior.jpg](https://commons.wikimedia.org/wiki/File:Dymaxion_House_exterior.jpg) | Alasdair McLellan | CC BY-SA 4.0 |
 | 2849-DJ_3_0.jpg | [March Town Clock - geograph.org.uk - 232592.jpg](https://commons.wikimedia.org/wiki/File:March_Town_Clock_-_geograph.org.uk_-_232592.jpg) | Tony Bennett | CC BY-SA 2.0 |
@@ -36,6 +41,9 @@ Clue pictures are from Wikimedia Commons (each under its own license; see the li
 | 2906-J_3_2.jpg | [Bacteria on everyday objects.png](https://commons.wikimedia.org/wiki/File:Bacteria_on_everyday_objects.png) | Manjunaf | CC BY-SA 4.0 |
 | 2906-J_3_3.jpg | [IUPAC definition for an emulsion.png](https://commons.wikimedia.org/wiki/File:IUPAC_definition_for_an_emulsion.png) | International Union of Pure and Applied Chemistry (IUPAC) | CC BY-SA 4.0 |
 | 2906-J_3_4.jpg | [Shock blanched vegetables in cold water (1041479893).jpg](https://commons.wikimedia.org/wiki/File:Shock_blanched_vegetables_in_cold_water_(1041479893).jpg) | ilovebutter from Houston, TX, USA | CC BY 2.0 |
+| 3135-DJ_1_0.jpg | [Vivien Leigh Gone Wind Restored.jpg](https://commons.wikimedia.org/wiki/File:Vivien_Leigh_Gone_Wind_Restored.jpg) | Vivien_Leigh_Gone_Wind2.jpg: Trailer screenshot derivative work: Wilfredor (talk | Public domain |
+| 3135-DJ_1_1.jpg | [Monty Python and the Holy Grail - 1974 U.S. Silver Gelatin Single-Weight Photo.jpg](https://commons.wikimedia.org/wiki/File:Monty_Python_and_the_Holy_Grail_-_1974_U.S._Silver_Gelatin_Single-Weight_Photo.jpg) | Published by Cinema 5 | Public domain |
+| 3135-DJ_1_2.jpg | [Heston and harrison planet of the apes.jpg](https://commons.wikimedia.org/wiki/File:Heston_and_harrison_planet_of_the_apes.jpg) | Unknown authorUnknown author | Public domain |
 | 3323-J_1_0.jpg | [Strobridge & Co. Lith.- Ben-Hur - Klaw & Erlanger's Stupendous Production.jpg](https://commons.wikimedia.org/wiki/File:Strobridge_%26_Co._Lith.-_Ben-Hur_-_Klaw_%26_Erlanger%27s_Stupendous_Production.jpg) | Adam Cuerden | Public domain |
 | 3323-J_1_1.jpg | [Steven Spielberg Masterclass Cinémathèque Française 2 cropped.jpg](https://commons.wikimedia.org/wiki/File:Steven_Spielberg_Masterclass_Cin%C3%A9math%C3%A8que_Fran%C3%A7aise_2_cropped.jpg) | Romain DUBOIS | CC BY-SA 3.0 |
 | 3323-J_1_2.jpg | [Lauren Bacall & Humphrey Bogart The Big Sleep Publicity.jpg](https://commons.wikimedia.org/wiki/File:Lauren_Bacall_%26_Humphrey_Bogart_The_Big_Sleep_Publicity.jpg) | Warner Bros. | Public domain |
