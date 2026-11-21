@@ -147,7 +147,7 @@ function fitAll(){
     // verify with the real rendered words (guards against probe/rounding drift): no word may exceed the cell
     const widest=()=>{let m=0;spans.forEach(sp=>{const tn=sp.firstChild;if(!tn)return;const t=tn.textContent,r=document.createRange();let i=0;
       for(const w of t.split(/[\s-]+/)){if(!w)continue;const st=t.indexOf(w,i);i=st+w.length;r.setStart(tn,st);r.setEnd(tn,st+w.length);m=Math.max(m,r.getBoundingClientRect().width)}});return m};
-    for(let k=0;k<4;k++){const wm=widest();if(wm<=inner-.5)break;f=Math.max(6.5,f*(inner-1)/wm);apply()}
+    for(let k=0;k<6;k++){const wm=widest();if(wm<=inner-.5)break;f=Math.max(6,f*(inner-1)/wm);apply()}
     // ONE shared value size: widest label must fit with padding
     const vw=wid('<i class="dl">$</i>'+(G.round==='J'?'1000':'2000'),'pr-val');
     const vf=Math.max(8,Math.min(g.ch*.68,(g.cw*.84)/vw*100));
