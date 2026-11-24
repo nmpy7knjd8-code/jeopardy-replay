@@ -1,0 +1,983 @@
+{
+ "show": "#6355",
+ "aired": "2012-04-13",
+ "note": "",
+ "contestants": [
+  {
+   "name": "Cat Still",
+   "bio": "an educational consultant from Los Angeles, California",
+   "short": "Cat"
+  },
+  {
+   "name": "Peter Allen",
+   "bio": "a high school chemistry teacher from Fresno, California",
+   "short": "Peter"
+  },
+  {
+   "name": "Judy Nichols",
+   "bio": "a mystery writer from Wilmington, North Carolina (whose 1-day cash winnings total $25,300)",
+   "short": "Judy"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Judy": 4000,
+   "Peter": 2200,
+   "Cat": 5800
+  },
+  "DJ": {
+   "Judy": 13200,
+   "Peter": 5800,
+   "Cat": 8200
+  },
+  "Final": {
+   "Judy": 21200,
+   "Peter": 10001,
+   "Cat": 11601
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "1937",
+    "DOUBLE TALK",
+    "\"E\"ASY SCIENCE?",
+    "FIRST NAMES",
+    "HEY, U2!",
+    "GET A ROOM!"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 11,
+     "q": "On March 26 spinach growers in Crystal City, Texas dedicated a statue honoring this comic strip character",
+     "a": "Popeye",
+     "right": [
+      "Peter"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 30,
+     "q": "Prison on the Hudson",
+     "a": "Sing Sing",
+     "right": [
+      "Cat"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 2,
+     "q": "It's the term for an unborn animal from the time of fertilization until the differentiation of the major organs",
+     "a": "an embryo",
+     "right": [
+      "Judy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 12,
+     "q": "Regina is Latin for \"queen\"; this is the male counterpart",
+     "a": "Rex",
+     "right": [
+      "Judy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "U2 got an early break when they won a talent contest sponsored by this Dublin brewery",
+     "a": "Guinness",
+     "right": [
+      "Peter"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 17,
+     "q": "A basement for your Beaujolais",
+     "a": "a wine cellar",
+     "right": [
+      "Cat"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 26,
+     "q": "This vessel that met disaster on May 6 had a frame of a lightweight alloy called duralumin",
+     "a": "the Hindenburg",
+     "right": [
+      "Judy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 23,
+     "q": "An abnormal sound in the heart",
+     "a": "a murmur",
+     "right": [
+      "Peter"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 7,
+     "q": "A wave signal reflected back to its point of origin from a distance",
+     "a": "echo",
+     "right": [
+      "Cat"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 13,
+     "q": "Have no doubt--it's the first name of tea merchants Twining & Lipton",
+     "a": "Thomas",
+     "right": [
+      "Judy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 3,
+     "q": "An allergy is one of the reasons Bono is usually seen wearing these",
+     "a": "sunglasses",
+     "right": [
+      "Judy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 18,
+     "q": "Where company executives hold formal meetings; it sounds like they have to move the surfing equipment out of the way",
+     "a": "a boardroom",
+     "right": [
+      "Cat"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 27,
+     "q": "In December he was appointed U.S. ambassador to Great Britain; wife Rose & his large family accompanied him there",
+     "a": "Joseph Kennedy",
+     "right": [
+      "Judy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 22,
+     "q": "Vegas casino with a clown marquee",
+     "a": "Circus Circus",
+     "right": [
+      "Judy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 8,
+     "q": "Fred Mertz could tell you it's a radical organic compound containing C2H5",
+     "a": "ethyl",
+     "right": [
+      "Cat"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 14,
+     "q": "Originally a surname, it probably gained popularity as a first name in honor of the 18th U.S. president",
+     "a": "Grant",
+     "right": [
+      "Cat"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 4,
+     "q": "We hope the band didn't behave like animals on this technically ambitious 1992 tour",
+     "a": "\"Zoo TV\"",
+     "right": [],
+     "wrong": [
+      "Peter"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 19,
+     "q": "Colorful spot in a theater or TV studio where performers can relax before a show",
+     "a": "the greenroom",
+     "right": [
+      "Judy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 28,
+     "q": "Soviet planes destroyed Italian tanks in the Battle of Guadalajara in this war",
+     "a": "the Spanish Civil War",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 24,
+     "q": "Yogi's bud",
+     "a": "Boo-Boo",
+     "right": [
+      "Cat"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 9,
+     "q": "A waterproof layer called the cuticle sometimes covers this outermost cellular layer of animals & plants",
+     "a": "epidermis",
+     "right": [
+      "Judy",
+      "Cat"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 15,
+     "q": "One of the 500 most popular girls' names, it means \"from England\", though it's a place in France",
+     "a": "Brittany",
+     "right": [
+      "Judy"
+     ],
+     "wrong": [
+      "Peter"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 5,
+     "q": "One of the 2 \"Joshua Tree\" No. 1 hits; one starts with \"I\", the other ends with \"you\"",
+     "a": "\"With Or Without You\" (or \"I Still Haven't Found What I'm Looking For\")",
+     "right": [
+      "Peter"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 20,
+     "q": "Put these 4 letters before \"chamber\" to get a space serving as an entryway into a larger room",
+     "a": "ante",
+     "right": [
+      "Cat"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 29,
+     "q": "In 1937 NBC Radio created a symphony orchestra for this Italian conductor",
+     "a": "Arturo Toscanini",
+     "right": [],
+     "wrong": [
+      "Judy"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 25,
+     "q": "A lack of vitamin B1 will give you this disease",
+     "a": "beriberi",
+     "right": [
+      "Judy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 10,
+     "q": "(Jimmy of the Clue Crew pushes down on an inflated ball.) Hooke's law governs this property that allows objects to compress & then rebound to their former shapes",
+     "a": "elasticity",
+     "right": [
+      "Cat"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": true,
+     "order": 16,
+     "q": "This French name means \"reborn\", a reference to Christian baptism",
+     "a": "Renee",
+     "right": [],
+     "wrong": [
+      "Judy"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1000
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 6,
+     "q": "Part of this 1988 U2 documentary with accompanying album was filmed at Graceland",
+     "a": "Rattle and Hum",
+     "right": [
+      "Peter"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 21,
+     "q": "Consisting of separate offices, it's the often featureless type of farm seen here",
+     "a": "a cubicle (or cube farm)",
+     "right": [
+      "Peter"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "ROLE IN COMMON",
+    "CANADA'S MARITIME PROVINCES",
+    "HARVARD ALUMNI",
+    "THE \"KID\" STAYS IN THE CATEGORY",
+    "POETS & POETRY",
+    "THE 100th ANNIVERSARY OF THE TITANIC"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "Peter Sellers,\nAlan Arkin,\nSteve Martin\n(a French policeman)",
+     "a": "(Jacques) Clouseau",
+     "right": [
+      "Cat"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 30,
+     "q": "A Haligonian is a resident of this Maritimes city",
+     "a": "Halifax",
+     "right": [
+      "Peter"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 17,
+     "q": "Benazir Bhutto (class of '73), the first female P.M. of this country, was known as \"Pinky\" during her Harvard days",
+     "a": "Pakistan",
+     "right": [
+      "Peter"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 12,
+     "q": "These popular 1980s toys were \"born\" in Cleveland, Georgia",
+     "a": "Cabbage Patch Kids",
+     "right": [
+      "Peter"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 7,
+     "q": "Robert Browning wrote that one of these is \"safe 'twixt you, me, and the gate-post!\"",
+     "a": "a secret",
+     "right": [
+      "Judy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 6,
+     "q": "The Titanic was on its way to this U.S. city when it struck the iceberg in the North Atlantic",
+     "a": "New York",
+     "right": [
+      "Peter"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 2,
+     "q": "Tony Perkins,\nVince Vaughn,\nHenry Thomas\n(a psycho)",
+     "a": "(Norman) Bates",
+     "right": [
+      "Cat"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 24,
+     "q": "Like a certain western U.S. state, Prince Edward Island is famed for growing these, as in the field seen here",
+     "a": "potatoes",
+     "right": [],
+     "wrong": [
+      "Cat"
+     ],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 18,
+     "q": "This Fed head graduated Harvard summa cum laude (1975) in economics (Natch)",
+     "a": "(Ben) Bernanke",
+     "right": [
+      "Peter"
+     ],
+     "wrong": [
+      "Cat"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 13,
+     "q": "They're soft, chewy & tart kid-shaped candies",
+     "a": "Sour Patch Kids",
+     "right": [
+      "Cat"
+     ],
+     "wrong": [
+      "Peter"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 8,
+     "q": "This divorced Algonquin \"News Item\" poet & wit continued writing under her married name",
+     "a": "Dorothy Parker",
+     "right": [
+      "Cat"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 22,
+     "q": "Among those who perished were Macy's co-owner Isidor Straus & this millionaire, the IV",
+     "a": "John Jacob Astor",
+     "right": [
+      "Cat"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 3,
+     "q": "Leonardo DiCaprio,\nJason Robards,\nDean Stockwell\n(a billionaire)",
+     "a": "(Howard) Hughes",
+     "right": [
+      "Peter"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": true,
+     "order": 25,
+     "q": "When the French ruled Canada, the region was known as this",
+     "a": "Acadia (Acadie)",
+     "right": [],
+     "wrong": [
+      "Cat"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2000
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 19,
+     "q": "This late-night host graduated magna cum laude from Harvard & was president of the Harvard Lampoon",
+     "a": "(Conan) O'Brien",
+     "right": [
+      "Cat"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 14,
+     "q": "Bill Cosby took over hosting duties on this series that began as a segment on \"Art Linkletter's House Party\"",
+     "a": "Kids Say The Darndest Things",
+     "right": [
+      "Peter"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 9,
+     "q": "Keats wrote, \"blinded alike from sunshine and from rain, as though\" this flower \"should shut, and be a bud again\"",
+     "a": "a rose",
+     "right": [
+      "Judy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": true,
+     "order": 23,
+     "q": "The first rescue ship on site was this British liner that picked up more than 700 survivors, mostly women & children",
+     "a": "the Carpathia",
+     "right": [],
+     "wrong": [
+      "Cat"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 4000
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 4,
+     "q": "Kate Bosworth,\nMargot Kidder,\nNoel Neill\n(a reporter)",
+     "a": "Lois Lane",
+     "right": [
+      "Peter"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 26,
+     "q": "New Brunswick is the only province that's officially this / Le Nouveau-Brunswick est la seule province officiellement ca",
+     "a": "dual-language/bilingual",
+     "right": [
+      "Cat"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 20,
+     "q": "This editor (class of '43) worked at the Crimson long before he oversaw the Washington Post's coverage of Watergate",
+     "a": "(Ben) Bradlee",
+     "right": [
+      "Cat"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 15,
+     "q": "This term for brainiac youths was applied to a youthful Phillies team of yore",
+     "a": "the Whiz Kids",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 10,
+     "q": "Referring to Abe's supposed early love, Edgar Lee Masters called her \"beloved in life of Abraham Lincoln\"",
+     "a": "Ann Rutledge",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 28,
+     "q": "Reportedly, the band played on until the ship went down, its final piece believed to be this 1841 hymn",
+     "a": "\"Nearer, My God, To Thee\"",
+     "right": [
+      "Judy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 5,
+     "q": "David Bowie,\nCrispin Glover,\nGuy Pearce\n(an artist)",
+     "a": "Andy Warhol",
+     "right": [
+      "Cat"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 27,
+     "q": "In Nova Scotia, you can see Bluenose II, this type of graceful sailing ship. To see Bluenose I, look on the Canadian dime",
+     "a": "a schooner",
+     "right": [
+      "Peter"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 21,
+     "q": "This onetime N.C. senator & wife of a senator worked at the Langdell Library before getting her J.D. (1965)",
+     "a": "Elizabeth Dole",
+     "right": [
+      "Judy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 16,
+     "q": "This cartoon urchin of 1890s newspapers lent his name to a kind of disreputable journalism",
+     "a": "the Yellow Kid",
+     "right": [
+      "Judy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 11,
+     "q": "Maybe on Sunday, Emily Dickinson wrote, \"Some keep\" this \"going to church--I keep it staying at home\"",
+     "a": "the Sabbath",
+     "right": [
+      "Judy"
+     ],
+     "wrong": [
+      "Peter"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 29,
+     "q": "The Titanic was owned by the White Star Line, which in turn was owned by this American banker & steel magnate",
+     "a": "J.P. Morgan",
+     "right": [],
+     "wrong": [
+      "Peter"
+     ],
+     "stumper": true,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "WORD ORIGINS",
+  "q": "An exploited part of a law, originally it meant an opening in a castle wall used to look at or shoot at an enemy",
+  "a": "a loop hole",
+  "right": [
+   "Peter",
+   "Cat",
+   "Judy"
+  ],
+  "wrong": []
+ },
+ "gameId": "3871"
+}

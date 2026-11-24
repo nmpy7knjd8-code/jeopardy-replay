@@ -1,0 +1,981 @@
+{
+ "show": "#6296",
+ "aired": "2012-01-23",
+ "note": "",
+ "contestants": [
+  {
+   "name": "Molly Newman",
+   "bio": "a writer and trivia hostess from Portland, Oregon",
+   "short": "Molly"
+  },
+  {
+   "name": "Kirby Burnett",
+   "bio": "a poker dealer from Prior Lake, Minnesota",
+   "short": "Kirby"
+  },
+  {
+   "name": "Bob Powell",
+   "bio": "a network administrator from Fort Walton Beach, Florida (whose 1-day cash winnings total $4,800)",
+   "short": "Bob"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Bob": 4400,
+   "Kirby": 3600,
+   "Molly": 8000
+  },
+  "DJ": {
+   "Bob": 17200,
+   "Kirby": 15600,
+   "Molly": 16400
+  },
+  "Final": {
+   "Bob": 799,
+   "Kirby": 27600,
+   "Molly": 2
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "COUNTRY GROUPS",
+    "CONSTELLATION TRANSLATION",
+    "DOMINO'S PIZZA",
+    "THAT'S TREASON!",
+    "2-LETTER WORDS",
+    "THE ARCTIC ENVIRONMENT"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 24,
+     "q": "The \"Lady\" in this group that won 5 2010 ACM Awards is Hillary Scott, daughter of country singer Linda Davis",
+     "a": "Lady Antebellum",
+     "right": [
+      "Kirby"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "Twins",
+     "a": "Gemini",
+     "right": [
+      "Kirby"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 11,
+     "q": "The Meatzza feast has ham, beef, Italian sausage & slices of this Italian salami",
+     "a": "pepperoni",
+     "right": [
+      "Kirby"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 12,
+     "q": "Accused of incest as well as treason, she was guillotined Oct. 16, 1793",
+     "a": "Marie Antoinette",
+     "right": [
+      "Kirby"
+     ],
+     "wrong": [
+      "Molly"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 2,
+     "q": "This mystical word used in mantras contains 3 sounds, but in English it's 2 letters",
+     "a": "om",
+     "right": [
+      "Kirby"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 19,
+     "q": "(Sarah of the Clue Crew reports from a ship's bridge.) Norway has continuous daylight from mid-May to July, giving it this 5-word nickname it shares with Alaska",
+     "a": "Land of the Midnight Sun",
+     "right": [
+      "Bob"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 25,
+     "q": "Randy Owen fronted this \"stately\" group whose hits include \"Christmas in Dixie\" & \"Born Country\"",
+     "a": "Alabama",
+     "right": [
+      "Kirby"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 7,
+     "q": "Big bear",
+     "a": "Ursa Major",
+     "right": [
+      "Bob"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 14,
+     "q": "An American Legends pizza made with 6 different cheeses is named for this state",
+     "a": "Wisconsin",
+     "right": [
+      "Bob"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 13,
+     "q": "He tried to surrender West Point, a key to the Hudson River Valley",
+     "a": "Benedict Arnold",
+     "right": [
+      "Molly"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 3,
+     "q": "It often follows \"in\" to mean \"concerning\"",
+     "a": "re",
+     "right": [
+      "Kirby"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": true,
+     "order": 20,
+     "q": "(Sarah of the Clue Crew presents the clue.) Lappish language gives us the name of this treeless environment, some of which is so dry, it's called the Arctic desert",
+     "a": "tundra",
+     "right": [
+      "Bob"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true,
+     "ddWager": 2200
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 26,
+     "q": "This country group stays in motion with hits like \"I'm Movin' On\" & \"Life Is A Highway\"",
+     "a": "Rascal Flatts",
+     "right": [
+      "Molly"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 8,
+     "q": "Ram",
+     "a": "Aries",
+     "right": [
+      "Molly"
+     ],
+     "wrong": [
+      "Kirby"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 15,
+     "q": "Domino's has pasta in a bread bowl, including this \"Spring\" style with veggies",
+     "a": "primavera",
+     "right": [
+      "Bob"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 16,
+     "q": "This English plot blew up in the faces of the plotters, many executed for treason in 1606",
+     "a": "the Gunpowder Plot",
+     "right": [
+      "Kirby"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 4,
+     "q": "Supernatural elements appear in kiri, a play in this Japanese form",
+     "a": "no",
+     "right": [
+      "Bob"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 21,
+     "q": "(Sarah of the Clue Crew presents the clue.) In Svalbard as well as Norway, you'll find many of these spectacular inlets; the Norwegian term for them is derived from a word meaning \"to pass through\"",
+     "a": "fjords",
+     "right": [
+      "Molly"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 27,
+     "q": "In 1981 they burned up the pop & country charts singing, \"My heart's on fire, Elvira\"",
+     "a": "The Oak Ridge Boys",
+     "right": [
+      "Molly"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 9,
+     "q": "Scales",
+     "a": "Libra",
+     "right": [
+      "Molly"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "How about an oven baked sandwich, like this one that refers to a place in Pennsylvania",
+     "a": "a Philly cheesesteak",
+     "right": [
+      "Molly"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 17,
+     "q": "It was treason when Roman naval commander Claudius threw these creatures used for augury into the sea",
+     "a": "chickens",
+     "right": [
+      "Kirby"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 5,
+     "q": "It's Latin for \"and\" , Y'al.",
+     "a": "et",
+     "right": [
+      "Molly"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 22,
+     "q": "(Sarah of the Clue Crew presents the clue.) Some define the boundary of the Arctic as the southern limit of the icy region with this, perennially frozen subsoil",
+     "a": "permafrost",
+     "right": [
+      "Molly"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 28,
+     "q": "In 2001 these guys from Texas were No. 1 on the country charts with \"I'm Already There\"",
+     "a": "Lonestar",
+     "right": [],
+     "wrong": [
+      "Molly"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 10,
+     "q": "Dragon (not \"Athenian statesman\")",
+     "a": "Draco",
+     "right": [
+      "Molly"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 30,
+     "q": "For dessert, Domino's has \"stix\" sprinkled with sugar & this spice",
+     "a": "cinnamon",
+     "right": [
+      "Molly"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 18,
+     "q": "Abdullah Ocalan was convicted for trying to found a Kurdish state in the southeast part of this country",
+     "a": "Turkey",
+     "right": [
+      "Kirby"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 6,
+     "q": "\"To say or utter\" is one of the American Heritage Dictionary's many definitions for this word--ask any teen",
+     "a": "go",
+     "right": [
+      "Molly"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 23,
+     "q": "(Sarah of the Clue Crew presents from the Svalbard Islands in Norway.) After Antarctica & Greenland, many consider Nordaustland in Svalbard to be covered with the third-largest in volume of this form of slow-moving glacier",
+     "a": "an ice cap",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "COUNTRY GROUPS",
+    "PICTURE THE \"S\"",
+    "CAN I HAVE A MOMENT?",
+    "REAL PEOPLE IN NOVELS",
+    "TALK ABOUT THE WEATHER",
+    "SCIENCE-FICTION TV"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 21,
+     "q": "This organization was formed in April 1949 to counter the Soviet Union",
+     "a": "NATO",
+     "right": [
+      "Bob"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 16,
+     "q": "This type of image is used to observe fetal growth",
+     "a": "a sonogram",
+     "right": [
+      "Molly"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 11,
+     "q": "Oprah calls instants of realization these moments; actress Ginnifer Goodwin had one that made her become a vegan",
+     "a": "an Aha! Moment",
+     "right": [],
+     "wrong": [
+      "Bob",
+      "Kirby",
+      "Molly"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "In \"Gatsby's Girl\" Caroline Preston fictionalized the romance of Ginevra King & this writer during his Princeton days",
+     "a": "F. Scott Fitzgerald",
+     "right": [
+      "Molly"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 6,
+     "q": "To have a casual conversation is to \"shoot\" this",
+     "a": "the breeze",
+     "right": [
+      "Kirby"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 26,
+     "q": "Episodes in this anthology included \"The Monsters are Due on Maple Street\" & \"To Serve Man\"",
+     "a": "The Twilight Zone",
+     "right": [
+      "Bob"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 22,
+     "q": "The PIIGS countries are European nations carrying heavy debt; the P & S are these southern neighbors",
+     "a": "Portugal & Spain",
+     "right": [
+      "Bob"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 17,
+     "q": "Mixologists know the name of this stick seen here",
+     "a": "a swizzle stick",
+     "right": [
+      "Kirby"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 12,
+     "q": "A driveway moment is when your car idles as Robert Siegel wraps up a fascinating story on this radio network",
+     "a": "NPR",
+     "right": [
+      "Bob"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 2,
+     "q": "The title of Nancy Horan's historical novel \"Loving Frank\" refers to this creator of Taliesin",
+     "a": "Frank Lloyd Wright",
+     "right": [
+      "Molly"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 7,
+     "q": "To survive a difficult situation is to \"weather\" this",
+     "a": "the storm",
+     "right": [
+      "Kirby"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 27,
+     "q": "This Steven Spielberg-produced alien invasion series on TNT features Noah Wyle as a resistance fighter",
+     "a": "Falling Skies",
+     "right": [
+      "Bob"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 23,
+     "q": "In 1945 Iraq became a founding member of this regional association of sovereign states",
+     "a": "the Arab League",
+     "right": [
+      "Molly"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 18,
+     "q": "This giant species of arid regions lends its name to a national park",
+     "a": "a saguaro cactus",
+     "right": [
+      "Molly"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 13,
+     "q": "The Webby Awards' top Internet moments for 2000-2009 include Twitter's role in this country's 2009 election protests",
+     "a": "Iran",
+     "right": [
+      "Bob"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 3,
+     "q": "The title of Jerry Stahl's \"I, Fatty\" refers to this comedian who narrates it",
+     "a": "Fatty Arbuckle",
+     "right": [
+      "Kirby"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 8,
+     "q": "When you show somebody up or get attention that is due others, you \"steal\" their this",
+     "a": "their thunder",
+     "right": [
+      "Bob"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 28,
+     "q": "In this series the Robinsons were headed to a distant star on the Jupiter II until Dr. Smith got in the way",
+     "a": "Lost in Space",
+     "right": [
+      "Molly"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 24,
+     "q": "MENA is a somewhat vague acronym for the countries of the \"Middle East &\" here",
+     "a": "North Africa",
+     "right": [
+      "Kirby"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 19,
+     "q": "Members of this special military unit are seen here",
+     "a": "the Swiss Guard",
+     "right": [
+      "Molly"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 14,
+     "q": "\"Old Bloomsbury\" is a section in \"Moments of Being\", a collection of reminiscences by this writer",
+     "a": "Virginia Woolf",
+     "right": [
+      "Kirby"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 4,
+     "q": "The novel \"The Paris Wife\" is narrated by Hadley Richardson, this writer's first wife",
+     "a": "(Ernest) Hemingway",
+     "right": [
+      "Kirby"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 4000
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 9,
+     "q": "It's the 5-word phrase associated with the logo seen here",
+     "a": "\"When it rains, it pours\"",
+     "right": [
+      "Bob"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true,
+     "ddWager": 5600
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 29,
+     "q": "They're not fraternity members, they're an elite team of mental superstars led by David Strathairn on Syfy",
+     "a": "Alphas",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 25,
+     "q": "It's a common 3-syllable acronym for the Low Countries",
+     "a": "Benelux",
+     "right": [
+      "Kirby"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 20,
+     "q": "The 19th century passage, \"an old\" this, in which my father had kept his private papers, refers to a desk like the one here",
+     "a": "a secretary",
+     "right": [
+      "Bob"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 15,
+     "q": "3-word phrase for a decisive instant; Arthur Koestler defined it as \"the sudden emergence of a new insight\"",
+     "a": "a moment of truth",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 5,
+     "q": "Hilary Mantel won the Man Booker Prize for \"Wolf Hall\", told from the perspective of this advisor to Henry VIII",
+     "a": "Thomas Cromwell",
+     "right": [],
+     "wrong": [
+      "Kirby"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 10,
+     "q": "When you're down & out, you're said to be \"in\" this belt of calm, light winds near the equator",
+     "a": "the doldrums",
+     "right": [
+      "Kirby"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 30,
+     "q": "This show about a very old time lord from the planet Gallifrey debuted on the BBC in 1963",
+     "a": "Doctor Who",
+     "right": [
+      "Molly"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "AMERICAN HISTORY",
+  "q": "This volunteer group was born in May 1898 near the bar in San Antonio's Menger Hotel; it existed for just 133 days",
+  "a": "the Rough Riders",
+  "right": [
+   "Kirby"
+  ],
+  "wrong": [
+   "Molly",
+   "Bob"
+  ]
+ },
+ "gameId": "3812"
+}

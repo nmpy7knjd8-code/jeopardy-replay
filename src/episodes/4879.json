@@ -1,0 +1,979 @@
+{
+ "show": "#7054",
+ "aired": "2015-04-23",
+ "note": "Greg Seroka game 1.",
+ "contestants": [
+  {
+   "name": "Greg Seroka",
+   "bio": "a chef from Steamboat Springs, Colorado",
+   "short": "Greg"
+  },
+  {
+   "name": "Ellen Burgett",
+   "bio": "a technical writer from Brighton, Michigan",
+   "short": "Ellen"
+  },
+  {
+   "name": "Michael Brady",
+   "bio": "a user experience designer from Norwood, Massachusetts (whose 2-day cash winnings total $33,602)",
+   "short": "Michael"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Michael": 4000,
+   "Ellen": 600,
+   "Greg": 9400
+  },
+  "DJ": {
+   "Michael": 12700,
+   "Ellen": -2600,
+   "Greg": 17400
+  },
+  "Final": {
+   "Michael": 13700,
+   "Ellen": -2600,
+   "Greg": 25401
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "IN THE PANTHEON",
+    "AIRPORTS",
+    "PLEASED TO MEAT YOU",
+    "SCIENCE TERMS IN FRENCH",
+    "5-LETTER \"W\"ORDS",
+    "I'M ALL ABOUT THAT BASSIST"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 21,
+     "q": "This Greek sea god fathered many horses, including Pegasus",
+     "a": "Poseidon",
+     "right": [
+      "Ellen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 8,
+     "q": "By the time it turned 60 in 2006, this London airport had handled around 1.4 billion passengers",
+     "a": "Heathrow",
+     "right": [
+      "Michael"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 2,
+     "q": "Because of its diet, low fat content & being free-range, the meat of this Aussie hopper is quite healthy",
+     "a": "a kangaroo",
+     "right": [
+      "Michael"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 17,
+     "q": "This part of a cell that contains the chromosomes is \"le noyau\"",
+     "a": "the nucleus",
+     "right": [
+      "Greg"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 16,
+     "q": "Walked slowly through the shallow waters",
+     "a": "waded",
+     "right": [
+      "Greg"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 10,
+     "q": "He's a singer, a bassist, &, as of 2014, Broadway composer with \"The Last Ship\"",
+     "a": "Sting",
+     "right": [
+      "Michael"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 22,
+     "q": "This love goddess got around, having erotic adventures (& children) with Ares, Hermes & the mortal Anchises",
+     "a": "Aphrodite",
+     "right": [
+      "Greg"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 26,
+     "q": "The name of Hartsfield-Jackson Airport honors 2 of the mayors of this city",
+     "a": "Atlanta",
+     "right": [
+      "Ellen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 4,
+     "q": "Varieties of this Hormel product include jalapeno & teriyaki",
+     "a": "Spam",
+     "right": [
+      "Greg"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 18,
+     "q": "With or without Monsieur Bunsen, \"un bec\", one of these, should get temperatures rising",
+     "a": "a burner",
+     "right": [
+      "Greg"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 3,
+     "q": "The goods sold by a peddler",
+     "a": "wares",
+     "right": [
+      "Greg"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 9,
+     "q": "In 1993 this bassist of some note said Michael Jackson picks up more for \"Yesterday\" than he does",
+     "a": "(Paul) McCartney",
+     "right": [
+      "Michael"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 23,
+     "q": "Here's a statue of this influential Greek god; that thing he's holding is a lyre",
+     "a": "Apollo",
+     "right": [
+      "Greg"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 27,
+     "q": "Naturally, the Sky Train takes passengers to this Phoenix airport",
+     "a": "Sky Harbor",
+     "right": [
+      "Greg"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 5,
+     "q": "This frankfurter dipped in batter & fried on a stick came to fame in 1942 at the Texas State Fair",
+     "a": "a corn dog",
+     "right": [
+      "Ellen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 19,
+     "q": "This element is \"le plomb\"; get it out!",
+     "a": "lead",
+     "right": [
+      "Ellen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 15,
+     "q": "Structure built for moorage",
+     "a": "wharf",
+     "right": [
+      "Michael"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 11,
+     "q": "He was a member of the Flowers of Romance before joining the Sex Pistols in 1977",
+     "a": "Sid Vicious",
+     "right": [
+      "Michael"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 24,
+     "q": "Maker of metal objects, the fire god Hephaestus is the Greek counterpart of this Roman",
+     "a": "Vulcan",
+     "right": [
+      "Greg"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 28,
+     "q": "Israel's main airport, Ben Gurion is about 25 miles from Jerusalem & less than 10 from this city \"that Never Stops\"",
+     "a": "Tel Aviv",
+     "right": [
+      "Michael"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 6,
+     "q": "The name of this Pennsylvania Dutch dish of cooked pork & cornmeal sounds like a wordplay board game",
+     "a": "scrapple",
+     "right": [
+      "Greg"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": true,
+     "order": 20,
+     "q": "In chemistry, \"une liaison\" is one of these, perhaps \"ionique\"",
+     "a": "a bond",
+     "right": [],
+     "wrong": [
+      "Ellen"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2200
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 14,
+     "q": "A young dog, or an impudent youngster",
+     "a": "whelp",
+     "right": [
+      "Greg"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 1,
+     "q": "Derek Smalls (Harry Shearer) laid down the big bottom end for this \"Big Bottom\" band",
+     "a": "Spinal Tap",
+     "right": [
+      "Greg"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 25,
+     "q": "The name of this goddess of agriculture indicates that she's a mother; she is--of Persephone",
+     "a": "Demeter",
+     "right": [
+      "Michael"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 29,
+     "q": "NRT is the airport code for this international airport that serves Tokyo",
+     "a": "Narita",
+     "right": [
+      "Greg"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 7,
+     "q": "Meat from a sheep over 2 years old is known as this; it has tougher flesh & a stronger flavor",
+     "a": "mutton",
+     "right": [
+      "Ellen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 30,
+     "q": "You'll be all-powerful when you attach the wires to \"les electrodes\" on this, \"la pile\"",
+     "a": "a battery",
+     "right": [
+      "Greg"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 13,
+     "q": "To shrink in pain",
+     "a": "wince",
+     "right": [
+      "Greg"
+     ],
+     "wrong": [
+      "Michael"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 12,
+     "q": "He co-wrote Led Zeppelin's \"Black Dog\" with Plant & Page; apparently, he had not yet begun to fight over writing credit",
+     "a": "John Paul Jones",
+     "right": [
+      "Michael"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "IN THE PANTHEON",
+    "THE CALENDAR",
+    "MOVIE & TV TERMS",
+    "BOLIVIA YOU ME",
+    "NONFICTION",
+    "THE LAST TIME THE CUBS WON THE WORLD SERIES"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 26,
+     "q": "Drew Barrymore & E.T. both say this 5-letter word; E.T. later pairs it with \"home\"",
+     "a": "phone",
+     "right": [
+      "Greg"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 21,
+     "q": "This many months have 31 days",
+     "a": "7",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "A pan shot, which gives the audience a larger view of the scene, gets its name from this longer word",
+     "a": "panorama",
+     "right": [
+      "Greg"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 16,
+     "q": "About 95% of Bolivians practice this branch of Christianity",
+     "a": "Catholicism",
+     "right": [
+      "Greg"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 7,
+     "q": "A 2014 biography tells her \"Untold Story\" of dealing with flashbacks after her husband's 1963 assassination",
+     "a": "Jackie Kennedy Onassis",
+     "right": [
+      "Ellen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 10,
+     "q": "It was 1908 & this Paris attraction was the tallest man-made structure in the world",
+     "a": "the Eiffel Tower",
+     "right": [
+      "Michael"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 27,
+     "q": "The winner of a running race breaks it first",
+     "a": "the tape",
+     "right": [
+      "Michael"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 22,
+     "q": "It's the only day of the week named for a satellite",
+     "a": "Monday",
+     "right": [
+      "Michael"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 2,
+     "q": "Choosing a performer to play a role based on appearance or similar parts he's done before",
+     "a": "typecasting",
+     "right": [
+      "Greg"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 17,
+     "q": "The Island of the Sun is a sacred site in the Bolivian portion of this lake",
+     "a": "Lake Titicaca",
+     "right": [
+      "Michael"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 6,
+     "q": "In a series of inspirational books, this dish precedes \"for the Bride's Soul\" & \"for the Pet Lover's Soul\"",
+     "a": "Chicken Soup",
+     "right": [
+      "Michael"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 12,
+     "q": "This man was gearing up to win the presidential election",
+     "a": "Taft",
+     "right": [
+      "Greg"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 28,
+     "q": "An unskilled drudge",
+     "a": "a peon",
+     "right": [
+      "Ellen"
+     ],
+     "wrong": [
+      "Michael"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": true,
+     "order": 23,
+     "q": "Dec. 21, 2012 was in the news as the end of a calendar cycle for this ancient Native American people",
+     "a": "the Mayans",
+     "right": [
+      "Michael"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1500
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 3,
+     "q": "Film critic Andrew Sarris coined this French term for a theory that says the director is the major creative force in a film",
+     "a": "auteur",
+     "right": [
+      "Greg"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 18,
+     "q": "The family of Pres. Evo Morales farmed this 4-letter crop common in Bolivia, & not for its use in cola",
+     "a": "coca",
+     "right": [
+      "Greg"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 8,
+     "q": "In the fourth book in his \"Killing\" series, Bill O'Reilly writes about \"The Strange Death of\" this WWII general",
+     "a": "Patton",
+     "right": [
+      "Ellen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 13,
+     "q": "This Turkish empire was still in existence",
+     "a": "the Ottoman Empire",
+     "right": [
+      "Greg"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 30,
+     "q": "One who held this Scottish title, a feudal lord, could aspire to be an earl",
+     "a": "thane",
+     "right": [
+      "Michael"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 24,
+     "q": "The Jewish year periodically has not a leap day but a leap month & this dress-up holiday moves from Adar to Adar Bet",
+     "a": "Purim",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 4,
+     "q": "As opposed to traditional live-audience sitcoms, shows like \"30 Rock\" are this-camera, more like movies",
+     "a": "single-camera",
+     "right": [
+      "Michael"
+     ],
+     "wrong": [
+      "Greg"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 19,
+     "q": "This city whose name suggests sugar is known as la Ciudad Blanca, \"the White City\"",
+     "a": "Sucre",
+     "right": [
+      "Michael"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 9,
+     "q": "2013 marked the 50th anniversary of her groundbreaking \"The Feminine Mystique\"",
+     "a": "(Betty) Friedan",
+     "right": [
+      "Greg"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 14,
+     "q": "Some people were tooling about in a luxurious touring car made by this company--one of the three P's",
+     "a": "Packard",
+     "right": [
+      "Greg"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 29,
+     "q": "Projection inserted into a mortise",
+     "a": "a tenon",
+     "right": [],
+     "wrong": [
+      "Ellen"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 25,
+     "q": "From the French for \"seed\", it's a Zola novel title & was the 7th month of the French Revolutionary calendar",
+     "a": "Germinal",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 5,
+     "q": "(Kelly of the Clue Crew shows an animation on the monitor.) The name of this diaphragm in a camera lens can be found in film techniques; when used before the word \"in\", it can open a scene, & before the word \"out\", it can close a scene",
+     "a": "iris",
+     "right": [],
+     "wrong": [
+      "Ellen"
+     ],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 20,
+     "q": "On Bolivia's coat of arms, one of these large birds perches atop an Incan shield",
+     "a": "an Andean Condor",
+     "right": [],
+     "wrong": [
+      "Ellen"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": true,
+     "order": 11,
+     "q": "This critically acclaimed 2001 book begins with a look at \"The Founding Fathers\", starting with Carl Karcher",
+     "a": "Fast Food Nation",
+     "right": [],
+     "wrong": [
+      "Michael"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2000
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 15,
+     "q": "His \"A Room with a View\" was brand new",
+     "a": "E.M. Forster",
+     "right": [
+      "Michael"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "ART IN THE CITY",
+  "q": "German city where you'll find the statue seen here",
+  "a": "Hamelin",
+  "right": [
+   "Michael",
+   "Greg"
+  ],
+  "wrong": []
+ },
+ "gameId": "4879"
+}

@@ -1,0 +1,979 @@
+{
+ "show": "#7079",
+ "aired": "2015-05-28",
+ "note": "Dan Feitel game 3.",
+ "contestants": [
+  {
+   "name": "Adrienne Onofri",
+   "bio": "a writer and editor from Queens, New York",
+   "short": "Adrienne"
+  },
+  {
+   "name": "Ivan Tan",
+   "bio": "a graduate student originally from Lexington, Massachusetts",
+   "short": "Ivan"
+  },
+  {
+   "name": "Dan Feitel",
+   "bio": "an attorney originally from Gillette, New Jersey (whose 2-day cash winnings total $45,599)",
+   "short": "Dan"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Dan": 5600,
+   "Ivan": 4800,
+   "Adrienne": 3400
+  },
+  "DJ": {
+   "Dan": 20000,
+   "Ivan": 15200,
+   "Adrienne": 15700
+  },
+  "Final": {
+   "Dan": 39999,
+   "Ivan": 0,
+   "Adrienne": 30401
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "SUPERHERO DAY JOBS?",
+    "BOOKS' FIRST LINES",
+    "BASEBALL STADIUMS",
+    "ISLANDS IN THE \"C\"s",
+    "PERFUME",
+    "WORDS WITH(IN) FRIENDS"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 21,
+     "q": "The Flash doesn't need a bike to excel at this message delivery job whose name comes from the French for \"run\"",
+     "a": "a courier",
+     "right": [
+      "Ivan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "The Beat Generation Bible:\n\"I first met Dean not long after my wife and I split up\"",
+     "a": "On the Road",
+     "right": [
+      "Ivan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 6,
+     "q": "In 2009 New Yorkers watched this major league park demolished; Yankee Stadium lasted another year",
+     "a": "Shea Stadium",
+     "right": [
+      "Ivan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 16,
+     "q": "The ruins of Knossos are on this Greek island",
+     "a": "Crete",
+     "right": [
+      "Adrienne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 26,
+     "q": "$76 can get you a bottle of Ralph from this designer",
+     "a": "Ralph Lauren",
+     "right": [
+      "Ivan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 11,
+     "q": "A fruit or cheese covering",
+     "a": "rind",
+     "right": [
+      "Dan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 22,
+     "q": "The new tower on the building named for this legendary publisher leaves many windows for Spidey to wash",
+     "a": "(William Randolph) Hearst",
+     "right": [
+      "Adrienne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "A dystopian novel:\n\"It was a bright cold day in April, and the clocks were striking thirteen\"",
+     "a": "1984",
+     "right": [
+      "Dan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 7,
+     "q": "The clock at 20th & Blake Streets is a meeting place for Colorado Rockies fans prior to entering this field",
+     "a": "Coors",
+     "right": [
+      "Dan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 17,
+     "q": "An old song says, \"26 miles across the sea\" this island \"is a-waitin' for me\"",
+     "a": "Catalina",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "Stella...! Stella...! Stella is a perfume by this daughter of a musician",
+     "a": "McCartney",
+     "right": [
+      "Ivan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 12,
+     "q": "Anyone eating a restaurant meal",
+     "a": "diner",
+     "right": [
+      "Ivan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 23,
+     "q": "Wolverine slices & dices up meats for this teppanyaki restaurant chain that began in 1964",
+     "a": "Benihana",
+     "right": [
+      "Dan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 3,
+     "q": "\"Renowned curator Jacques Sauniere staggered through the vaulted archway of the museum's grand gallery\"",
+     "a": "The Da Vinci Code",
+     "right": [
+      "Ivan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 8,
+     "q": "Marge Schott once threatened to move this team to Kentucky to get a better lease for Great American Ball Park",
+     "a": "the (Cincinnati) Reds",
+     "right": [
+      "Dan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 18,
+     "q": "Willemstad is the capital & chief town of this Dutch island in the Caribbean",
+     "a": "Curaçao",
+     "right": [
+      "Adrienne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 28,
+     "q": "Elizabeth Arden makes perfume called this colorful door",
+     "a": "Red Door",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 13,
+     "q": "Prevalent or widespread, like crime in certain areas",
+     "a": "rife",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 24,
+     "q": "For extra cash, Ant-Man asks honeybees to fork over some of this \"regal\" goo that's fed to prospective queens",
+     "a": "royal jelly",
+     "right": [
+      "Dan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 4,
+     "q": "By Joyce:\n\"Once upon a time and a very good time it was there was a moocow coming down along the road...\"",
+     "a": "Portrait of the Artist as a Young Man",
+     "right": [
+      "Dan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 9,
+     "q": "In 2005 Rogers Communications bought this team's SkyDome & renamed it Rogers Centre",
+     "a": "the Toronto Blue Jays",
+     "right": [
+      "Ivan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": true,
+     "order": 19,
+     "q": "These islands, Grand & Little, are named for the alligators reported to be native there",
+     "a": "the Cayman Islands",
+     "right": [
+      "Adrienne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1000
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "For the scent of manifesto, put that fragrance by this 3-named designer in one of his handbags",
+     "a": "Yves Saint Laurent",
+     "right": [
+      "Ivan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 14,
+     "q": "To tear apart",
+     "a": "rend",
+     "right": [
+      "Dan"
+     ],
+     "wrong": [
+      "Adrienne"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 25,
+     "q": "Hulk is a smash with film productions--he uses his skin as a backdrop for this process, a type of chroma key",
+     "a": "green screen",
+     "right": [
+      "Adrienne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 5,
+     "q": "Hard boiled:\n\"Sam Spade's jaw was long and bony, his chin a jutting V under the more flexible V of his mouth\"",
+     "a": "The Maltese Falcon",
+     "right": [
+      "Ivan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 10,
+     "q": "In 2008 the Cleveland Indians sold the naming rights to Jacobs Field to this insurance company",
+     "a": "Progressive",
+     "right": [
+      "Dan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 20,
+     "q": "The flag of these islands has a lot in common with the flag of New Zealand",
+     "a": "the Cook Islands",
+     "right": [
+      "Adrienne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 30,
+     "q": "Jasmin Noir is made by this company that uses a \"V\" instead of a \"U\" in its name",
+     "a": "Bulgari",
+     "right": [],
+     "wrong": [
+      "Adrienne"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 15,
+     "q": "A wetland",
+     "a": "fen",
+     "right": [
+      "Adrienne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "ARACHNIDS",
+    "PAINTERS & PAINTINGS",
+    "PSYCHOLOGY",
+    "1990--25 YEARS AGO",
+    "PERFORMERS' AUTOBIOGRAPHIES",
+    "\"G\"REA\"T\" WORDS"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 5,
+     "q": "Latrodectus mactans, the scientific name of this \"hourglass spider\", means \"murderous biting robber\"",
+     "a": "the black widow",
+     "right": [
+      "Ivan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 14,
+     "q": "In the 1890s he portrayed night life in \"A Corner of the Moulin de la Galette\" & \"At the Moulin Rouge\"",
+     "a": "Toulouse-Lautrec",
+     "right": [
+      "Dan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 21,
+     "q": "Emmy-nominated animal psychologist Cesar Millan is better known as this to TV viewers",
+     "a": "the \"Dog Whisperer\"",
+     "right": [
+      "Dan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 16,
+     "q": "After 11 years in the job, this U.K. prime minister resigned",
+     "a": "(Margaret) Thatcher",
+     "right": [
+      "Adrienne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "\"sTori telling\"\n(2008)",
+     "a": "Tori Spelling",
+     "right": [
+      "Adrienne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 4,
+     "q": "You say it to wish good health to someone who has sneezed",
+     "a": "Gesundheit",
+     "right": [
+      "Ivan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 6,
+     "q": "The Arizona blond species of this large, hairy spider inhabits the desert areas of the Southwest",
+     "a": "the tarantula",
+     "right": [
+      "Ivan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 15,
+     "q": "Looking at soft Camembert cheese inspired him to paint soft pocket watches in \"The Persistence of Memory\"",
+     "a": "(Salvador) Dalí",
+     "right": [
+      "Ivan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 26,
+     "q": "An impulse-control disorder, it's the compulsion to steal in the absence of any real economic motive",
+     "a": "kleptomania",
+     "right": [
+      "Ivan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": true,
+     "order": 17,
+     "q": "This city, capital of the same-named country, was overrun by Iraqi forces",
+     "a": "Kuwait",
+     "right": [
+      "Adrienne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 3500
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 2,
+     "q": "\"Dancing with Myself\"\n(2014)",
+     "a": "Billy Idol",
+     "right": [
+      "Adrienne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 10,
+     "q": "This cord made from animal intestines is used as strings for musical instruments",
+     "a": "gut",
+     "right": [],
+     "wrong": [
+      "Dan"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 7,
+     "q": "Like lobsters & millipedes, arachnids belong to this \"joint-legged\" phylum of the animal kingdom",
+     "a": "arthropods",
+     "right": [
+      "Ivan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 22,
+     "q": "In this Spaniard's \"Portrait of the Duchess of Alba\", the subject of the painting points to the artist's name at her feet",
+     "a": "Goya",
+     "right": [
+      "Adrienne"
+     ],
+     "wrong": [
+      "Dan"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 27,
+     "q": "This 2-word term has its origins in a hostage taking that followed a botched 1973 robbery of a Swedish bank",
+     "a": "Stockholm syndrome",
+     "right": [
+      "Adrienne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 18,
+     "q": "For the first time Pavarotti, Carreras & Domingo performed together as this supergroup",
+     "a": "the Three Tenors",
+     "right": [
+      "Ivan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 3,
+     "q": "\"Kiss and Make-Up\"\n(2001)",
+     "a": "Gene Simmons",
+     "right": [
+      "Dan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 11,
+     "q": "It's the reinforced eyelet in cloth or leather through which a fastener passes",
+     "a": "a grommet",
+     "right": [
+      "Ivan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 8,
+     "q": "Oh, orb weaver, I believe there are 2,800 species of you including a spider named for this strong material it produces",
+     "a": "silk",
+     "right": [
+      "Dan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 24,
+     "q": "Jacques-Louis David painted \"The Oath of the Horatii\" in this style, a reaction against Rococo",
+     "a": "Neoclassicism",
+     "right": [
+      "Dan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 29,
+     "q": "From the Sanskrit for \"circle\", in Jungian psychology, it's a symbol for the effort to unify the self",
+     "a": "a mandala",
+     "right": [
+      "Dan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 19,
+     "q": "Winnie (Churchill) got a ticker-tape parade on March 15, 1946; this Winnie was in one with her husband on June 20, 1990",
+     "a": "(Winnie) Mandela",
+     "right": [
+      "Adrienne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 23,
+     "q": "\"I Must Say: My Life as a Humble Comedy Legend\"\n(2014)",
+     "a": "(Martin) Short",
+     "right": [
+      "Dan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 12,
+     "q": "To \"run\" this was to endure an old military punishment as two lines of your comrades pummeled you",
+     "a": "the gauntlet",
+     "right": [
+      "Ivan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 9,
+     "q": "The northern deer tick spreads this disease by injecting bacteria into its victims' blood",
+     "a": "Lyme disease",
+     "right": [
+      "Dan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 25,
+     "q": "Some say that to achieve the look of his paintings, Vermeer must have used this device, Latin for \"dark chamber\"",
+     "a": "a camera obscura",
+     "right": [
+      "Dan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 30,
+     "q": "Musical term for a mental state in which someone is conscious of his actions but retains no memory of them",
+     "a": "a fugue (state)",
+     "right": [
+      "Dan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 20,
+     "q": "This Brit created the first prototype web pages",
+     "a": "(Tim) Berners-Lee",
+     "right": [
+      "Ivan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": true,
+     "order": 28,
+     "q": "\"This Time Together: Laughter and Reflection\"\n(2010)",
+     "a": "Carol Burnett",
+     "right": [
+      "Adrienne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 3200
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 13,
+     "q": "To \"run\" this, from the third Greek letter, is to cover the complete range or extent",
+     "a": "the gamut",
+     "right": [
+      "Dan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "AMERICAN LITERATURE",
+  "q": "Published a year later, \"Good Wives\" was a follow-up to this 1868 novel",
+  "a": "Little Women",
+  "right": [
+   "Adrienne",
+   "Dan"
+  ],
+  "wrong": [
+   "Ivan"
+  ]
+ },
+ "gameId": "4904"
+}

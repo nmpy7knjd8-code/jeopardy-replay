@@ -1,0 +1,971 @@
+{
+ "show": "#6490",
+ "aired": "2012-11-30",
+ "note": "Jason Shore game 3.",
+ "contestants": [
+  {
+   "name": "Tim Norris",
+   "bio": "an assistant district attorney from Knoxville, Tennessee",
+   "short": "Tim"
+  },
+  {
+   "name": "Karen Poole",
+   "bio": "a graduate student of paleontology from Washington, D.C.",
+   "short": "Karen"
+  },
+  {
+   "name": "Jason Shore",
+   "bio": "a medical student from Plano, Texas (whose 2-day cash winnings total $45,200)",
+   "short": "Jason"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Jason": 10000,
+   "Karen": 6200,
+   "Tim": 0
+  },
+  "DJ": {
+   "Jason": 25100,
+   "Karen": 8400,
+   "Tim": 0
+  },
+  "Final": {
+   "Jason": 22600,
+   "Karen": 1,
+   "Tim": 0
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "THE CDC SAYS",
+    "THEIR ORIGINAL NAMES",
+    "BEER ME!",
+    "42",
+    "TURN UP THE HEAT",
+    "IT'S CHILE IN HERE"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 16,
+     "q": "\"In housing built before 1978 assume that the paint has\" this toxic element \"unless tests show otherwise\"",
+     "a": "lead",
+     "right": [
+      "Karen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 11,
+     "q": "Oscar-winning actor Nicolas Coppola",
+     "a": "Nicolas Cage",
+     "right": [
+      "Tim"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 17,
+     "q": "A red kangaroo is on the so-called \"oil cans\" of this brand of beer",
+     "a": "Foster's",
+     "right": [
+      "Tim"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "The Dodgers retired his no. 42 jersey number in 1972 & all of MLB did in 1997",
+     "a": "Jackie Robinson",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 6,
+     "q": "When materials reach ignition temperature, you get this fiery reaction that can be \"spontaneous\"",
+     "a": "combustion",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 24,
+     "q": "About a third of all Chileans live in this capital city",
+     "a": "Santiago",
+     "right": [
+      "Tim"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 20,
+     "q": "This is scary-- \"almost every type of bacteria has become stronger & less responsive to\" treatment with these drugs",
+     "a": "antibiotics",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 12,
+     "q": "Illusionist David Kotkin",
+     "a": "David Copperfield",
+     "right": [
+      "Tim"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 18,
+     "q": "This brand was the first to put a widget in cans of its draught beer to create the creamy head on a pint served in a pub",
+     "a": "Guinness",
+     "right": [
+      "Karen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "Claudius, emperor in 42 A.D., would have written 42 this way",
+     "a": "XLII",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 7,
+     "q": "As a noun, it means a flame carried on a stick; as a verb, it means to burn down",
+     "a": "torch",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "This cape, the southernmost point of Chile & of South America, is only about 600 miles from Antarctica",
+     "a": "Cape Horn",
+     "right": [],
+     "wrong": [
+      "Karen"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 21,
+     "q": "Beware--this injury caused by \"a bump, blow, or jolt to the head...can occur in any sport or recreational activity\"",
+     "a": "a concussion",
+     "right": [
+      "Karen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 13,
+     "q": "Basketball great Ferdinand Lewis Alcindor Jr.",
+     "a": "Kareem Abdul-Jabbar",
+     "right": [
+      "Tim"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 19,
+     "q": "(Kelly of the Clue Crew gives the clue from the Anheuser-Busch brewery in St. Louis.) In the mid-19th century, Americans drank mainly heavy, top-fermented ales; the new, lighter lagers pioneered by Adolphus Busch were made possible by the new, European, bottom-fermenting types of this ingredient",
+     "a": "yeast",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [
+      "Tim"
+     ],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 3,
+     "q": "Just west of Heinz Chapel is the 42-story Cathedral of Learning, the central building of this university",
+     "a": "University of Pittsburgh",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 8,
+     "q": "To stir up & feed a furnace",
+     "a": "stoke",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 28,
+     "q": "One of Chile's national dishes is this single-serving folded meat pie",
+     "a": "an empanada",
+     "right": [
+      "Karen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 26,
+     "q": "Women should have these \"every 2 years from age 50 to 74\" as they \"are the best tests...to find breast cancer early\"",
+     "a": "mammograms",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 14,
+     "q": "\"Tha Carter\" rapper Dwayne Carter Jr.",
+     "a": "Lil Wayne",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 22,
+     "q": "Its label calls it (her?) \"Belgium's original beer\"",
+     "a": "Stella Artois",
+     "right": [
+      "Karen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 4,
+     "q": "This silvery metal used to strengthen steel has the atomic number 42 & the symbol Mo",
+     "a": "molybdenum",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 9,
+     "q": "A hellish, raging fire, or the Italian word for hell",
+     "a": "inferno",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": true,
+     "order": 29,
+     "q": "Chile is the world's leading producer of this metal that has been called \"the salary of Chile\"",
+     "a": "copper",
+     "right": [
+      "Karen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 3000
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 25,
+     "q": "To prevent this type of poisoning, don't use \"gasoline or charcoal-burning\" devices \"inside your home\"",
+     "a": "carbon monoxide",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 15,
+     "q": "Actress/comedian/TV talker Caryn Johnson",
+     "a": "Whoopi Goldberg",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 23,
+     "q": "You get to taste the malts & smell the hops on a tour of this brand's brewery on Germania Street in Boston",
+     "a": "Sam Adams",
+     "right": [
+      "Karen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 5,
+     "q": "In the Bible, 42 children who teased this prophet & disciple of Elijah were attacked by bears",
+     "a": "Elisha",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 10,
+     "q": "Rising updrafts of warm air; birds ride them to stay aloft while expending less energy",
+     "a": "thermals",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [
+      "Tim"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 30,
+     "q": "In 2011 a forensic investigation concluded that this president's 1973 death was a suicide",
+     "a": "(Salvador) Allende",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "DANCE COMPANIES",
+    "LETTER PERFECT",
+    "THE U.S. AMBASSADOR TO THE U.N.",
+    "CLASSIFICATION IS IN",
+    "AT THE MOVIES",
+    "END OF THE LINE"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 21,
+     "q": "Women auditioning for this leggy New York City dance troupe must be between 5' 6\" & 5' 10 1/2\" in height",
+     "a": "the Rockettes",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 4,
+     "q": "This complex of vitamins includes pyridoxine, cobalamin & thiamine",
+     "a": "B",
+     "right": [
+      "Karen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 22,
+     "q": "After Eisenhower defeated this man twice, he went on to serve as U.N. Ambassador for 4 years, until his death",
+     "a": "(Adlai) Stevenson",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 15,
+     "q": "Classes of these ships include Kitty Hawk, Enterprise & Nimitz",
+     "a": "aircraft carriers",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "In Men In Black III, now on BluRay, Will Smith's partner, a young Agent K, is played by this actor",
+     "a": "Josh Brolin",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 10,
+     "q": "Benjamin Franklin in his \"Advice to a Young Tradesman\":\n\"Remember that time is ____\"",
+     "a": "money",
+     "right": [
+      "Karen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 27,
+     "q": "In 1992 Joaquin Cortes formed his own company that featured this gypsy dance",
+     "a": "flamenco",
+     "right": [],
+     "wrong": [
+      "Karen"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 6,
+     "q": "Although not found in \"ounce\", this letter does appear in its abbreviation",
+     "a": "Z",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 23,
+     "q": "In 1997 this Hispanic American from New Mexico fit the bill",
+     "a": "Richardson",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 16,
+     "q": "This device used in making fabrics comes in high warp & low warp varieties",
+     "a": "a loom",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 2,
+     "q": "Aaron Cross, not our old pal Jason, is the hero of this film, the fourth in a spy franchise",
+     "a": "The Bourne Legacy",
+     "right": [
+      "Tim"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 11,
+     "q": "Ella Wheeler Wilcox:\n\"Laugh, and the world laughs with you; weep, and you ____ ____\"",
+     "a": "weep alone",
+     "right": [
+      "Tim"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 28,
+     "q": "The building housing this dance company opened August 20, 1856, in time for Czar Alexander II's coronation",
+     "a": "the Bolshoi",
+     "right": [
+      "Karen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 7,
+     "q": "In male Burmese names, this letter is an honorific prefix similar to Mister",
+     "a": "U",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 24,
+     "q": "On August 1st, 2005, the President named this man to the job in a recess appointment",
+     "a": "(John) Bolton",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 17,
+     "q": "This type of auto got its name from the old method of taking passengers to & from train stops",
+     "a": "the station wagon",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 3,
+     "q": "\"The Expendables 2\" adds the thespian talents of this former TV Texas Ranger to those of Stallone & Schwarzenegger",
+     "a": "Chuck Norris",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 14,
+     "q": "Joni Mitchell:\n\"They paved paradise and put up a ____ ____\"",
+     "a": "parking lot",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 29,
+     "q": "This company's present artistic director is, fittingly, Kevin McKenzie from the good old United States",
+     "a": "the American Ballet Theater",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 8,
+     "q": "In chess notation this single letter stands for the piece with a horse's head",
+     "a": "N",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 25,
+     "q": "This man got the assignment in 1971; he'd get to appoint 2 other men to the job himself",
+     "a": "George H.W. Bush",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1500
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 18,
+     "q": "This type of column named for a Greek city is usually decorated with acanthus leaves",
+     "a": "Corinthian",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [
+      "Tim"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 5,
+     "q": "In \"Hope Springs\" Tommy Lee Jones & this actress try to reignite their marital sparks",
+     "a": "Meryl Streep",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 13,
+     "q": "Martin Luther King Jr.: \"He's allowed me to go up to the mountain. And I've looked over, and I've seen the ____ ____\"",
+     "a": "promised land",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": true,
+     "order": 30,
+     "q": "During foreign tours, the Mariinsky Ballet Company is known by this name",
+     "a": "the Kirov",
+     "right": [],
+     "wrong": [
+      "Karen"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 3000
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 9,
+     "q": "Director Fritz Lang's first sound film was this 1931 classic starring Peter Lorre",
+     "a": "M",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 26,
+     "q": "Despite being a longtime Democrat, this woman was named to the post by Ronald Reagan",
+     "a": "Jeane Kirkpatrick",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 19,
+     "q": "The difference between white & brown rice is that white has had this fibrous & nutritious part removed",
+     "a": "germ (or the bran)",
+     "right": [
+      "Karen"
+     ],
+     "wrong": [
+      "Jason"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 20,
+     "q": "The '70s brought us \"Beneath\" this & \"Escape From\" it; in 2011 we got The \"Rise Of\" it",
+     "a": "The Planet Of The Apes",
+     "right": [
+      "Karen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 12,
+     "q": "Longfellow:\n\"This is the forest ____\"",
+     "a": "primeval",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "20th CENTURY AMERICAN WRITERS",
+  "q": "A publisher's note on one of his books called him \"The terror of typesetters\" & \"an enigma to book reviewers\"",
+  "a": "E.E. Cummings",
+  "right": [],
+  "wrong": [
+   "Karen",
+   "Jason"
+  ]
+ },
+ "gameId": "4025"
+}

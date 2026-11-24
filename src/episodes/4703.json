@@ -1,0 +1,991 @@
+{
+ "show": "#6923",
+ "aired": "2014-10-22",
+ "note": "",
+ "contestants": [
+  {
+   "name": "Mike Harwood",
+   "bio": "a dermatologist from Westerly, Rhode Island",
+   "short": "Mike"
+  },
+  {
+   "name": "Ali Palmer",
+   "bio": "an analyst from Portland, Oregon",
+   "short": "Ali"
+  },
+  {
+   "name": "Alexander Persaud",
+   "bio": "a Ph.D. student in economics originally from Dubuque, Iowa (whose 3-day cash winnings total $61,000)",
+   "short": "Alexander"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Alexander": 5400,
+   "Ali": 1800,
+   "Mike": 6000
+  },
+  "DJ": {
+   "Alexander": 16200,
+   "Ali": 12000,
+   "Mike": 18600
+  },
+  "Final": {
+   "Alexander": 8400,
+   "Ali": 16300,
+   "Mike": 4799
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "THE MOVIE'S INTERNATIONAL TITLE",
+    "OTHELLO",
+    "MONEY TALKS",
+    "3-LETTER FIRST NAMES",
+    "LIVING AT THE WATERGATE",
+    "ROCKS & MINERALS"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 11,
+     "q": "In France, this film about good ol' boys Bo & Luke somehow became \"Sheriff, Make Me Afraid\"",
+     "a": "The Dukes of Hazzard",
+     "right": [
+      "Mike"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "\"Othello\" opens on a street in this Italian city",
+     "a": "Venice",
+     "right": [
+      "Mike"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 29,
+     "q": "In an alliterative phrase, to get this \"for your buck\" means to maximize value received",
+     "a": "(more) bang",
+     "right": [
+      "Alexander"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 6,
+     "q": "A friend, or a partially opened flower",
+     "a": "a bud",
+     "right": [
+      "Mike"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 19,
+     "q": "This Kansas senator was head of the RNC & living at the Watergate during the '72 break-in but was in Chicago that night",
+     "a": "Bob Dole",
+     "right": [
+      "Alexander"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 28,
+     "q": "The luminescent effect that some minerals show is named this, for the mineral fluorite",
+     "a": "fluorescence",
+     "right": [
+      "Mike"
+     ],
+     "wrong": [
+      "Alexander"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 12,
+     "q": "The actual title name of this Julia Roberts crusader didn't work for Turkey, which went with \"Sweet Trouble\"",
+     "a": "Erin Brockovich",
+     "right": [
+      "Mike"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "Cassio calls this drink \"an enemy\" that men put \"in their mouths to steal away their brains\"",
+     "a": "wine",
+     "right": [
+      "Mike"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 30,
+     "q": "Traditionally, to put in this amount is to give your opinion on an issue",
+     "a": "your two cents",
+     "right": [
+      "Mike"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 7,
+     "q": "To detect a weapon a police officer might do this \"down\"",
+     "a": "pat",
+     "right": [
+      "Ali"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 20,
+     "q": "Ironically, in 1969 Rose Mary Woods, this man's secretary, was the victim of one of the Watergate's first burglaries",
+     "a": "Richard Nixon",
+     "right": [
+      "Ali"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "Statuario is a slightly translucent type of this used in fine statuary",
+     "a": "marble",
+     "right": [
+      "Ali"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 13,
+     "q": "In Turkey this Christian Bale movie was called \"Trickster\"; in Quebec, \"American Scam\"",
+     "a": "American Hustle",
+     "right": [
+      "Alexander"
+     ],
+     "wrong": [
+      "Ali"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 3,
+     "q": "In Act II, Scene 3 he says, \"I play the villain\"",
+     "a": "Iago",
+     "right": [
+      "Alexander"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 24,
+     "q": "If your money is doing this combusting act in your pocket, it means you're eager to spend it",
+     "a": "burning a hole",
+     "right": [
+      "Mike"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 8,
+     "q": "A climbing vine",
+     "a": "ivy",
+     "right": [
+      "Mike"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 21,
+     "q": "In 1996 this Supreme Court justice from N.Y. & Watergate resident had her purse snatched outside the building",
+     "a": "Ruth Bader Ginsburg",
+     "right": [
+      "Alexander"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 16,
+     "q": "(Sarah of the Clue Crew reports from the California Science Center in Los Angeles.) More than 20,000 thermal tiles on the space shuttle Endeavour's underside protected it from the heat of re-entry. Ultra lightweight, they're 90% air & 10% fibers of this sand-based mineral compound",
+     "a": "silica",
+     "right": [
+      "Mike"
+     ],
+     "wrong": [
+      "Ali"
+     ],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 14,
+     "q": "Germany knew this 1977 Woody Allen/Diane Keaton film as \"The Urban Neurotic\"",
+     "a": "Annie Hall",
+     "right": [
+      "Alexander"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 4,
+     "q": "She pleads with Othello, \"kill me tomorrow; let me live tonight\"",
+     "a": "Desdemona",
+     "right": [
+      "Mike"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 25,
+     "q": "Giving funds to be part of an organization, or struggling through challenges to earn your position",
+     "a": "paying dues",
+     "right": [
+      "Mike"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 9,
+     "q": "The side away from the wind",
+     "a": "lee",
+     "right": [
+      "Alexander"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 22,
+     "q": "At the center of a pres. scandal herself, she left neighbors apology notes for the fuss she brought to the building in the '90s",
+     "a": "Monica Lewinsky",
+     "right": [
+      "Ali"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 17,
+     "q": "A shade of gray is named for this rock originally used in blackboards",
+     "a": "slate",
+     "right": [
+      "Alexander"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 15,
+     "q": "In China this 1997 British comedy about unemployed guys becoming strippers became \"Pig Six Strong Men\"",
+     "a": "The Full Monty",
+     "right": [
+      "Mike"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 5,
+     "q": "This prop embroidered with strawberries once belonged to Othello's mother &, to him, represents fidelity",
+     "a": "a handkerchief",
+     "right": [
+      "Mike"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": true,
+     "order": 26,
+     "q": "Like Annie says, if something's a sure thing, you can do this, put up the last money you have",
+     "a": "bet your bottom dollar",
+     "right": [],
+     "wrong": [
+      "Mike"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1400
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 10,
+     "q": "Knowledge or mental cognizance",
+     "a": "ken",
+     "right": [
+      "Ali"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 23,
+     "q": "This Secretary of State often played chamber music piano accompanied by 4 friends in her apartment",
+     "a": "Condoleezza Rice",
+     "right": [
+      "Alexander"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 18,
+     "q": "Also called \"French chalk\", this metamorphic rock is used by tailors to make marks on cloth",
+     "a": "soapstone",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "PICTURE THE HITMAKERS",
+    "CRABBY!",
+    "FIRST LETTER Q, SECOND LETTER NOT U",
+    "EXPLORERS",
+    "GETTING IN SHAPE",
+    "TAKE THE STAIRS"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 30,
+     "q": "Jungle love is perfect for fans of these rockers",
+     "a": "Guns N' Roses",
+     "right": [
+      "Mike"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 6,
+     "q": "Like a lobster or a shrimp, a crab has one of these; unlike them, it keeps it curled under its midsection",
+     "a": "a tail",
+     "right": [
+      "Ali"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 28,
+     "q": "This term for a type of keyboard is sometimes followed by \"UIOP\"",
+     "a": "QWERTY",
+     "right": [
+      "Alexander"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 22,
+     "q": "Years after his most famous exploit, this Kiwi climber built 27 schools & 2 hospitals in northern Nepal",
+     "a": "(Edmund) Hillary",
+     "right": [
+      "Ali"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 29,
+     "q": "Tucker & Lemoine are types of this 6-sided polygon",
+     "a": "a hexagon",
+     "right": [
+      "Alexander"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "In a nursery rhyme, he runs \"upstairs and downstairs in his nightgown\"",
+     "a": "Wee Willie Winkie",
+     "right": [],
+     "wrong": [
+      "Alexander"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 13,
+     "q": "These Seattle rockers appeared in the Matt Dillon film \"Singles\"",
+     "a": "Pearl Jam",
+     "right": [
+      "Mike"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 7,
+     "q": "The robber crab of the South Pacific is also called this, from the palm product that's its principal diet",
+     "a": "the coconut",
+     "right": [
+      "Mike"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 23,
+     "q": "This cotton product was originally called Baby Gays",
+     "a": "a Q-tip",
+     "right": [
+      "Ali"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 21,
+     "q": "Before conquering Peru, he served as mayor & magistrate of Panama City from 1519 to 1523",
+     "a": "Pizarro",
+     "right": [
+      "Mike"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 27,
+     "q": "A kite quadrilateral shares this other name with a muscle--both derived from a Greek letter",
+     "a": "deltoid",
+     "right": [
+      "Alexander"
+     ],
+     "wrong": [
+      "Mike"
+     ],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 2,
+     "q": "Some believe the spiral staircase in the Loretto Chapel in Santa Fe was built by this patron saint of carpenters himself",
+     "a": "Saint Joseph",
+     "right": [
+      "Alexander"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 8,
+     "q": "He was born Marvin Aday in 1947",
+     "a": "Meat Loaf",
+     "right": [
+      "Mike"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 11,
+     "q": "Crabs of the genus Uca get this name from the male's habit of holding one oversized claw like a violin",
+     "a": "a fiddler crab",
+     "right": [
+      "Ali"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 17,
+     "q": "Summer temperatures in this country can rise above 120",
+     "a": "Qatar",
+     "right": [
+      "Mike"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 14,
+     "q": "In 1661 priests Johann Grueber & Albert d'Orville became the first Europeans in 3 centuries to visit this Tibetan city",
+     "a": "Lhasa",
+     "right": [
+      "Alexander"
+     ],
+     "wrong": [
+      "Ali"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 18,
+     "q": "This word for a really unequal triangle is from a Greek root meaning \"unequal\"",
+     "a": "scalene",
+     "right": [
+      "Alexander"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 3,
+     "q": "In the second book in her series, she solved the mystery of \"The Hidden Staircase\"",
+     "a": "Nancy Drew",
+     "right": [
+      "Alexander"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 9,
+     "q": "These funkmeisters formed in Chicago",
+     "a": "Earth, Wind & Fire",
+     "right": [
+      "Ali"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 12,
+     "q": "A crab's front legs develop into claws called chelae, better known by this \"ouchy\" name",
+     "a": "pincers (pinchers accepted)",
+     "right": [
+      "Mike"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 24,
+     "q": "3-letter term meaning \"which was to be shown\"",
+     "a": "Q.E.D.",
+     "right": [
+      "Alexander"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 16,
+     "q": "While living in Greenland in the 1890s, this African American adopted an Inuit child named Kudlooktoo",
+     "a": "Matthew Henson",
+     "right": [
+      "Alexander"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 20,
+     "q": "It's a diamond-shaped rhombus, or a medicated sore throat candy",
+     "a": "a lozenge",
+     "right": [
+      "Mike"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2600
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 4,
+     "q": "One of the most famous movie scenes is the Odessa Steps sequence in this landmark film",
+     "a": "Battleship Potemkin",
+     "right": [
+      "Ali"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 10,
+     "q": "One of its members was also in Genesis",
+     "a": "Mike + the Mechanics",
+     "right": [
+      "Ali"
+     ],
+     "wrong": [
+      "Mike"
+     ],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 26,
+     "q": "Familiar but lonely name for crabs of the family Paguridae that often appropriate empty snail shells",
+     "a": "hermit crabs",
+     "right": [
+      "Mike"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 25,
+     "q": "Scrabble players know it's an evergreen shrub of Arabia & its leaf is a stimulant",
+     "a": "qat",
+     "right": [
+      "Alexander"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 15,
+     "q": "Upon arrival in 1828, Rene Caillie called this Mali trading post \"nothing but a mass of ill-looking houses\"",
+     "a": "Timbuktu",
+     "right": [
+      "Mike"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 19,
+     "q": "Also an optical device, it's a solid figure whose ends have the same shape & each of whose sides is a parallelogram",
+     "a": "a prism",
+     "right": [
+      "Mike"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": true,
+     "order": 5,
+     "q": "The Keats-Shelley Memorial House in Rome is located near the foot of these famous stairs",
+     "a": "the Spanish Steps",
+     "right": [
+      "Ali"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 3400
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "EPONYMOUS GEOGRAPHY",
+  "q": "Named around 1616, it's the world's fifth-largest island & the largest named after a person",
+  "a": "Baffin Island",
+  "right": [
+   "Ali"
+  ],
+  "wrong": [
+   "Alexander",
+   "Mike"
+  ]
+ },
+ "gameId": "4703"
+}
