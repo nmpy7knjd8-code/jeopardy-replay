@@ -1,0 +1,967 @@
+{
+ "show": "#9125",
+ "aired": "2024-06-14",
+ "note": "Adriana Harmeyer game 13.",
+ "contestants": [
+  {
+   "name": "Kaitlin Tarr",
+   "bio": "an aspiring ceramicist from Denver, Colorado",
+   "short": "Kaitlin"
+  },
+  {
+   "name": "Susan Ayoob",
+   "bio": "a content strategist from San Francisco, California",
+   "short": "Susan"
+  },
+  {
+   "name": "Adriana Harmeyer",
+   "bio": "an archivist from West Lafayette, Indiana (whose 12-day cash winnings total $278,500)",
+   "short": "Adriana"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Adriana": 7200,
+   "Susan": 3000,
+   "Kaitlin": 3800
+  },
+  "DJ": {
+   "Adriana": 12400,
+   "Susan": 10200,
+   "Kaitlin": 12800
+  },
+  "Final": {
+   "Adriana": 20500,
+   "Susan": 0,
+   "Kaitlin": 12390
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "1824",
+    "SETTING PRETTY",
+    "THAT'S A FACT",
+    "RHYMING PHRASES",
+    "JEN",
+    "TONIC"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 22,
+     "q": "The American Colonization Society approved this name for a country established on the West African coast",
+     "a": "Liberia",
+     "right": [
+      "Kaitlin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 12,
+     "q": "\"Wuthering Heights\" speaks of spending time in these grasslands, \"on a bank of heath... with the bees humming dreamily\"",
+     "a": "the moors",
+     "right": [
+      "Kaitlin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 17,
+     "q": "Toss a standard pair of dice & your odds of rolling the total known by this serpentine name are 1 in 36",
+     "a": "snake eyes",
+     "right": [
+      "Kaitlin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "A trip on a party boat with alcohol aplenty",
+     "a": "a booze cruise",
+     "right": [
+      "Kaitlin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 6,
+     "q": "Kerry Washington grew up in the Bronx, where this girl \"from the block\" was her substitute dance teacher",
+     "a": "Jennifer Lopez",
+     "right": [
+      "Adriana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 30,
+     "q": "For a classic gin & tonic, you can use this brand's sapphire gin",
+     "a": "Bombay",
+     "right": [
+      "Kaitlin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 23,
+     "q": "18-year-old Henriette Sontag was the soprano as this man's final symphony premiered in Vienna",
+     "a": "Beethoven",
+     "right": [],
+     "wrong": [
+      "Kaitlin"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 13,
+     "q": "\"As You Like It\" finds the Duke & his retinue exiled to the lush environs of this forest",
+     "a": "Arden",
+     "right": [
+      "Adriana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 18,
+     "q": "Once upon a midday weary, researchers in Sweden found these birds were better at planning ahead than apes or 4-year-olds",
+     "a": "a raven",
+     "right": [
+      "Kaitlin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "There's a male first name in this phrase meaning all tied up or 50-50",
+     "a": "even Steven",
+     "right": [
+      "Adriana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 7,
+     "q": "This \"American Idol\" finalist played Motormouth Maybelle in the 2016 live TV production of \"Hairspray\"",
+     "a": "Hudson",
+     "right": [
+      "Adriana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 11,
+     "q": "Remembered now as a gift to Jesus, this rare 5-letter gum derived from thorny trees was used in tinctures & perfumes",
+     "a": "myrrh",
+     "right": [
+      "Adriana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 24,
+     "q": "The U.S. War Department created the B.I.A., this agency, to handle Native American issues",
+     "a": "the Bureau of Indian Affairs",
+     "right": [
+      "Susan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": true,
+     "order": 14,
+     "q": "The first act of this Verdi opera takes place in the king's palace in Memphis (not Tennessee)",
+     "a": "Aida",
+     "right": [
+      "Adriana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1000
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 19,
+     "q": "The trail named for this pair winds 4,900 miles through 16 states",
+     "a": "Lewis & Clark",
+     "right": [
+      "Kaitlin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 3,
+     "q": "Bangers & mash or fish & chips, maybe alongside a pint of ale",
+     "a": "pub grub",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 8,
+     "q": "In \"Office Space\" she played a waitress at Chotchkie's who was reprimanded for not wearing enough \"flair\"",
+     "a": "Aniston",
+     "right": [
+      "Susan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 27,
+     "q": "Remedies used this daisy-like flower as an antiseptic; you may be more familiar with it in your herbal tea",
+     "a": "chamomile",
+     "right": [
+      "Kaitlin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 25,
+     "q": "This man whose independence forces defeated the Spanish army in Peru was proclaimed its dictator",
+     "a": "Bolívar",
+     "right": [
+      "Adriana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 15,
+     "q": "Prince Siegfried in this ballet named for its setting takes a gander at Odette & later, her maidens dance a waltz",
+     "a": "Swan Lake",
+     "right": [
+      "Adriana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 20,
+     "q": "Supreme Court Justice John Campbell wrote a concurring opinion in the 1857 decision about this enslaved man",
+     "a": "Dred Scott",
+     "right": [
+      "Adriana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 4,
+     "q": "The main roads & side roads of a place, collectively",
+     "a": "the highways & byways",
+     "right": [
+      "Susan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 9,
+     "q": "In \"Legally Blonde\" Reese Witherspoon as Elle teaches her as Paulette how to \"bend & snap\"",
+     "a": "Jennifer Coolidge",
+     "right": [
+      "Kaitlin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 28,
+     "q": "Now interchangeable with \"liqueur\", this type of alcohol, from the Latin for \"heart\", once meant the drink had the qualities of a tonic",
+     "a": "a cordial",
+     "right": [
+      "Kaitlin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 26,
+     "q": "Florida's capital was moved to Tallahassee, midway between these two cities that had been alternating in the role",
+     "a": "Pensacola & St. Augustine",
+     "right": [],
+     "wrong": [
+      "Adriana"
+     ],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 16,
+     "q": "James Hilton wrote that its pavilions \"clung to the mountainside... with the chance delicacy of flower petals impaled upon a crag\"",
+     "a": "Shangri-La",
+     "right": [
+      "Adriana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 21,
+     "q": "This 5-letter word can stand by itself or precede Mennonite to refer to a Christian group in America",
+     "a": "Amish",
+     "right": [
+      "Adriana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 5,
+     "q": "There are 2 negatives in this 4-word phrase meaning something can be done without difficulty",
+     "a": "no muss, no fuss",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 10,
+     "q": "She served as press secretary for President Biden & got her own show on MSNBC in 2023",
+     "a": "(Jen) Psaki",
+     "right": [
+      "Susan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 29,
+     "q": "If you've heard of a tonic, you've heard of a balm that gets its name from this type of tree that's 2 letters longer than \"balm\"",
+     "a": "balsam",
+     "right": [
+      "Adriana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "AROUND SCOTLAND",
+    "AMERICAN POETS",
+    "TILL DEATH DO US PART",
+    "NO. 1 ON THE BILLBOARD HOT 100",
+    "FOREIGN WORDS & PHRASES",
+    "ANOTHER DAY IN PARASITES"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 7,
+     "q": "The Scottish Parliament & the royal residence of Holyrood Palace are in this city",
+     "a": "Edinburgh",
+     "right": [
+      "Kaitlin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 6,
+     "q": "The woman we know as this submitted her first great work \"Renascence\", for a prize under the gender-hiding name E. Vincent Millay",
+     "a": "Edna St. Vincent Millay",
+     "right": [
+      "Adriana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 26,
+     "q": "Before he slipped into a coma in January 1957, he told Lauren Bacall, \"Goodbye, kid. Hurry back\"",
+     "a": "Humphrey Bogart",
+     "right": [
+      "Adriana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 5,
+     "q": "2018: \n\"God's Plan\" & \n\"Nice For What\"",
+     "a": "Drake",
+     "right": [
+      "Adriana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 24,
+     "q": "Norwegian for \"sloping track\", it's the sloping track seen here",
+     "a": "slalom",
+     "right": [
+      "Kaitlin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 16,
+     "q": "In truly a hairy situation, these parasitic insects have biting types & sucking types, all of which sound just delightful",
+     "a": "lice",
+     "right": [
+      "Adriana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 8,
+     "q": "These Scottish geographic features include Rannoch, Lomond & Ness",
+     "a": "lochs",
+     "right": [
+      "Kaitlin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 21,
+     "q": "\"Some, Too Fragile for the Winter Winds\" is a poem from this \"Belle of Amherst\"",
+     "a": "Dickinson",
+     "right": [
+      "Susan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 27,
+     "q": "After he passed away on Halloween in 1926, his widow Bess held annual seances on that date to try to make contact with him",
+     "a": "Houdini",
+     "right": [],
+     "wrong": [
+      "Kaitlin"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 4,
+     "q": "2020: \n\"Savage\" & \"WAP\"",
+     "a": "Megan Thee Stallion",
+     "right": [
+      "Kaitlin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 25,
+     "q": "This Italian diminutive word applies to works like 1890's \"Robin Hood\", featuring the tune \"Brown October Ale\"",
+     "a": "operetta",
+     "right": [
+      "Adriana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 15,
+     "q": "That ain't your house! Cuckoos practice brood parasitism, putting an egg in this place, so other birds rear the young",
+     "a": "a different nest",
+     "right": [
+      "Kaitlin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 17,
+     "q": "Inverness is in the center of this elevated region, the most northerly mainland Scottish region",
+     "a": "the Highlands",
+     "right": [
+      "Adriana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 20,
+     "q": "In 1981, this poet's home on East 127th St. was declared a New York City landmark",
+     "a": "Hughes",
+     "right": [
+      "Susan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 28,
+     "q": "A grandson of Diego Rivera has suggested that Diego may have helped end the life of this suffering wife as a final act of love",
+     "a": "Frida Kahlo",
+     "right": [
+      "Kaitlin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 3,
+     "q": "The artist formerly known with a \"$\", in 2010: \n\"We R Who We R\" & \n\"Tik Tok\"",
+     "a": "Kesha",
+     "right": [
+      "Kaitlin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": true,
+     "order": 11,
+     "q": "\"Health\" in Spanish; you're wishing someone good health when you toast them saying this word",
+     "a": "salud",
+     "right": [],
+     "wrong": [
+      "Kaitlin"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 3000
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": true,
+     "order": 14,
+     "q": "Anopheles mosquitoes transmit one-celled parasites of the genus Plasmodium to humans, causing this sometimes-fatal disease",
+     "a": "malaria",
+     "right": [
+      "Kaitlin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2000
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 18,
+     "q": "This home of golf is also home to the first university in Scotland, founded in 1413",
+     "a": "St. Andrews",
+     "right": [
+      "Susan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 22,
+     "q": "Louis, the father of this Beat Generation figure, was also a poet but wrote more traditional verse like \"Morning in Spring\"",
+     "a": "Ginsberg",
+     "right": [
+      "Adriana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 29,
+     "q": "After this president's death in 1908, his wife Frances would become the first first lady to remarry",
+     "a": "Cleveland",
+     "right": [
+      "Kaitlin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 2,
+     "q": "One week in 1998: \n\"One Week\"",
+     "a": "Barenaked Ladies",
+     "right": [
+      "Susan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 9,
+     "q": "From the Yiddish, it can mean chicken fat or excessive sentimentality",
+     "a": "schmaltz",
+     "right": [
+      "Kaitlin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 13,
+     "q": "You give me fever, the hard type of this parasite--\nTexas cattle fever, hemorrhagic fever,\nQ fever...",
+     "a": "ticks",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 19,
+     "q": "A major industrial burgh in the east, Dundee is the principal city of this former county that shares its name with a cattle breed",
+     "a": "Angus",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 23,
+     "q": "Sparing him a treason trial, this poet was declared insane in 1946 & spent the next 12 years in a hospital",
+     "a": "Ezra Pound",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 30,
+     "q": "Sadly, an assassin's bullet took civil rights activist Medgar from this wife June 12, 1963 in Mississippi",
+     "a": "Myrlie Evers(-Williams)",
+     "right": [
+      "Susan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 1,
+     "q": "2022: \n\"First Class\" \nwith the Fergie sample",
+     "a": "Jack Harlow",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 10,
+     "q": "A member of the Communist power structure in Russia, it's come to mean the loyal subordinate of a political leader",
+     "a": "an apparatchik",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 12,
+     "q": "Parasitic worms in undercooked pork can cause this disease, so cook those BBQ ribs to at least 137 degrees",
+     "a": "trichinosis",
+     "right": [
+      "Kaitlin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "1960s AMERICA",
+  "q": "Helping draft an executive order in 1961, Hobart Taylor Jr. almost used the word \"positive\", but instead chose this alliterative phrase",
+  "a": "affirmative action",
+  "right": [
+   "Adriana"
+  ],
+  "wrong": [
+   "Susan",
+   "Kaitlin"
+  ]
+ },
+ "gameId": "8968"
+}

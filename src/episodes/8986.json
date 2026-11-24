@@ -1,0 +1,978 @@
+{
+ "show": "#9143",
+ "aired": "2024-07-10",
+ "note": "Isaac Hirsch game 6.",
+ "contestants": [
+  {
+   "name": "Larry P. Wellington",
+   "bio": "an entrepreneur from Madison, Mississippi",
+   "short": "Larry"
+  },
+  {
+   "name": "Alex Pribil",
+   "bio": "a fundraiser from Orlando, Florida",
+   "short": "Alex"
+  },
+  {
+   "name": "Isaac Hirsch",
+   "bio": "a customer support team lead from Burbank, California (whose 5-day cash winnings total $120,187)",
+   "short": "Isaac"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Isaac": 8000,
+   "Alex": 3200,
+   "Larry": 1800
+  },
+  "DJ": {
+   "Isaac": 16800,
+   "Alex": 5600,
+   "Larry": 10600
+  },
+  "Final": {
+   "Isaac": 21201,
+   "Alex": 9600,
+   "Larry": 16801
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "ROUGH TIMES IN THE CITY",
+    "NATIVE AMERICA",
+    "POTPOURRI",
+    "BREAD",
+    "TV REBOOTS",
+    "RHYME TIME"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 30,
+     "q": "In 1871 Patrick & Catherine O'Leary owned a cow in this city; a bovine pyromaniac? History is unsure, but the fire was devastating",
+     "a": "Chicago",
+     "right": [
+      "Alex"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 29,
+     "q": "For Native Americans who lived near water, transportation was often this type of canoe made from a hollowed-out log",
+     "a": "a dugout canoe",
+     "right": [],
+     "wrong": [
+      "Larry"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 22,
+     "q": "The 1792 Apportionment Act gave each state one of these for every 33,000 people; New Hampshire got 4, Virginia 19",
+     "a": "a congressional representative",
+     "right": [
+      "Isaac"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 24,
+     "q": "If you're eating a falafel sandwich, it's most likely in this pocket bread",
+     "a": "pita",
+     "right": [
+      "Larry"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 28,
+     "q": "In 2019 Jordan Peele took on the Rod Serling narration duties when he rebooted this anthology series",
+     "a": "The Twilight Zone",
+     "right": [
+      "Isaac"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 15,
+     "q": "Where a cetacean does some hard time",
+     "a": "whale jail",
+     "right": [
+      "Isaac"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 21,
+     "q": "In 1812 a 7.7 earthquake pretty much destroyed this Venezuelan capital",
+     "a": "Caracas",
+     "right": [
+      "Larry"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 20,
+     "q": "The Mandan of North Dakota were known for building this type of dwelling, named not for the planet, but for what it was covered in",
+     "a": "an earth dwelling (an earth lodge, earth house)",
+     "right": [
+      "Isaac"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 19,
+     "q": "This hardware store \"is the place\" that has more than 5,000 worldwide locations",
+     "a": "Ace",
+     "right": [
+      "Isaac"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 25,
+     "q": "A starter containing lactic acid bacteria is used to induce fermentation when making this tangy bread",
+     "a": "sourdough",
+     "right": [
+      "Alex"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 10,
+     "q": "A new fab 5 helps people reboot their wardrobe, style & diet on this Netflix series",
+     "a": "Queer Eye",
+     "right": [
+      "Isaac"
+     ],
+     "wrong": [
+      "Alex"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 14,
+     "q": "A cutlass or rapier kept in a Honda mid-size sedan",
+     "a": "a sword Accord (an Accord sword)",
+     "right": [
+      "Larry"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 1,
+     "q": "Of death & presidents: Grover Cleveland was \"The Hangman of\" it & William McKinley was assassinated there",
+     "a": "Buffalo",
+     "right": [
+      "Isaac"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 4,
+     "q": "Tragically, thousands of Cherokee perished during this forced removal & migration during the 1830s",
+     "a": "the Trail of Tears",
+     "right": [
+      "Isaac"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 16,
+     "q": "This techno-thriller author's works served as the inspiration for video games like \"Splinter Cell\" & \"Rainbow Six\"",
+     "a": "Clancy",
+     "right": [
+      "Isaac"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 26,
+     "q": "This dark brown bread with a German name is made wholly with unsifted rye flour & has been enjoyed in Central Europe for centuries",
+     "a": "pumpernickel",
+     "right": [
+      "Alex"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 7,
+     "q": "As if! This film became a TV series; Stacey Dash played Cher's BFF Dionne in both versions",
+     "a": "Clueless",
+     "right": [
+      "Isaac"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 11,
+     "q": "A top-story room used for storage that stays the same, never changing",
+     "a": "a static attic",
+     "right": [
+      "Alex"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 2,
+     "q": "The Beer Hall Putsch in this city was a 1923 coup attempt that led to Hitler's all-too-brief imprisonment",
+     "a": "Munich",
+     "right": [
+      "Isaac"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 5,
+     "q": "Of New Mexico's 19 Pueblo tribes, it's one of the largest & the last alphabetically",
+     "a": "the Zuni",
+     "right": [
+      "Isaac"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 17,
+     "q": "Some of the world's best snorkeling can be found at spots like Sharm El-Sheikh on this colorful sea",
+     "a": "the Red Sea",
+     "right": [
+      "Alex"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 27,
+     "q": "A cylindrical oven called a tandoor is traditionally used to make this kind of flat leavened bread",
+     "a": "naan",
+     "right": [
+      "Larry"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 8,
+     "q": "It was still the humans vs. the Cylons when this sci-fi series was rebooted",
+     "a": "Battlestar Galactica",
+     "right": [
+      "Isaac"
+     ],
+     "wrong": [
+      "Larry"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 12,
+     "q": "King Alaric's stock of chicken bouillon",
+     "a": "Goth broth",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": true,
+     "order": 3,
+     "q": "On Dec. 14, 1825 the Decembrist revolt in this port city sought to end serfdom; harshly, forcefully, serfdom did not end",
+     "a": "St. Petersburg",
+     "right": [
+      "Isaac"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1400
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 6,
+     "q": "Haudenosaunee, meaning \"people of the long house\", is the preferred name for this confederacy that included the Cayuga & Oneida",
+     "a": "the Iroquois Confederacy (Iroquois League)",
+     "right": [
+      "Isaac"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 18,
+     "q": "A 2016 study found that birds' brains are denser in these nerve cells than the brains of primates are",
+     "a": "neurons",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 23,
+     "q": "The name of this grilled bread antipasto topped with chopped tomatoes & herbs comes from Italian for \"to toast\"",
+     "a": "bruschetta",
+     "right": [
+      "Alex"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 9,
+     "q": "Nowadays it's this woman who evens the odds as \"The Equalizer\"",
+     "a": "Queen Latifah",
+     "right": [
+      "Larry"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 13,
+     "q": "A white sheep running a gambling den like the Mirage or Sahara",
+     "a": "a casino merino",
+     "right": [],
+     "wrong": [
+      "Isaac"
+     ],
+     "stumper": true,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "AFRICAN ISLANDS",
+    "AMERICAN LIT",
+    "ENDS IN \"GH\"",
+    "AUTOMAKERS",
+    "VISION & VISIONS",
+    "WHAT'S THAT MOVIE AGAIN?"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 29,
+     "q": "Nosy Be, Malagasy for \"big island\", is a popular beach destination just off this much bigger island",
+     "a": "Madagascar",
+     "right": [
+      "Alex"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 10,
+     "q": "This narrator of \"The Catcher in the Rye\" runs away from Pencey Prep, a phony school in phony Agerstown, Pennsylvania",
+     "a": "Holden Caulfield",
+     "right": [
+      "Larry"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 18,
+     "q": "In golf it's the area of grass bordering a fairway that's deliberately kept longer than the fairway grass",
+     "a": "the rough",
+     "right": [
+      "Alex"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 15,
+     "q": "In 1975 this company introduced the Pony, South Korea's first mass-produced car",
+     "a": "Hyundai",
+     "right": [],
+     "wrong": [
+      "Isaac"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 30,
+     "q": "Handel is said to have recalled, \"I did think I did see all heaven before me\" while composing this oratorio\n\n\"Hallelujah...\"",
+     "a": "the Messiah",
+     "right": [
+      "Isaac"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 9,
+     "q": "You know, the one where Neo has to disarm a bomb on a bus that's got that lady from \"The Blind Side\" on it",
+     "a": "Speed",
+     "right": [
+      "Larry"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 28,
+     "q": "Monrovia, Liberia, named for James Monroe, is partly on Bushrod Island, named for this Founding Father's favorite nephew",
+     "a": "Washington",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 7,
+     "q": "This novel begins, \"I first met Dean not long after my wife and I split up\"",
+     "a": "On the Road",
+     "right": [
+      "Larry"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 16,
+     "q": "A sad WWI poem is about a rifleman with his name carved \"on the willow-tree\" this",
+     "a": "a bough",
+     "right": [
+      "Alex"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 11,
+     "q": "In 1901, decades before merging with Benz, Daimler sold the first of these cars named for a diplomat's daughter",
+     "a": "a Mercedes",
+     "right": [
+      "Larry"
+     ],
+     "wrong": [
+      "Alex"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 24,
+     "q": "The optometer has been replaced by the phoropter to check for these 2 opposite conditions aka myopia & hyperopia",
+     "a": "nearsightedness & farsightedness",
+     "right": [
+      "Isaac"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 8,
+     "q": "That \"Taken\" guy has a son--stepson?... something like that--who drums along to \"All I Want For Christmas Is You\"",
+     "a": "Love Actually",
+     "right": [
+      "Alex"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": true,
+     "order": 19,
+     "q": "The Aswan Museum was founded in 1912 on Elephantine Island in this river",
+     "a": "the Nile",
+     "right": [],
+     "wrong": [
+      "Alex"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 4400
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 2,
+     "q": "He wrote \"Bartleby, the Scrivener\" while living at Arrowhead, his farm in the Berkshires",
+     "a": "Melville",
+     "right": [
+      "Isaac"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 17,
+     "q": "The Bible says, \"Every man hath his sword upon\" this part of the leg",
+     "a": "the thigh",
+     "right": [
+      "Larry"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 12,
+     "q": "Last name of Enzo, who left Alfa Romeo in 1939 & later started his own racing company",
+     "a": "Ferrari",
+     "right": [
+      "Larry"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 25,
+     "q": "A vision of God as the \"light supreme\" comes in the part of the \"Divine Comedy\" with this Italian title",
+     "a": "Paradiso",
+     "right": [
+      "Alex"
+     ],
+     "wrong": [
+      "Isaac"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 1,
+     "q": "I think that \"High School Musical\" fella smooches all over MJ & what's his face--Jackson Hughes?--plays P.T. Barnum",
+     "a": "The Greatest Showman",
+     "right": [
+      "Isaac"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 20,
+     "q": "This island & its companion Príncipe are known for their coffee & chocolate due to the islands' fertile volcanic soil",
+     "a": "São Tomé",
+     "right": [
+      "Isaac"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 3,
+     "q": "\"Let America be America again. Let it be the dream it used to be\", wrote this poet",
+     "a": "Langston Hughes",
+     "right": [],
+     "wrong": [
+      "Isaac"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 26,
+     "q": "Fittingly, since the audience is about to go home, it's the last word spoken by Macbeth",
+     "a": "enough",
+     "right": [
+      "Alex"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2000
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 13,
+     "q": "In 1904 he sold his interest in his company, hopefully for a king's \"ransom\", & then formed the REO Motor Car Co.",
+     "a": "(Ransom) Olds",
+     "right": [
+      "Isaac"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 22,
+     "q": "This journey to seek guidance by a spirit is part of the culture of many native peoples, such as the Plains Cree",
+     "a": "a vision quest",
+     "right": [
+      "Isaac"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 5,
+     "q": "I love that one where Scarface is a cop & Travis Bickle is a thief--I think Batman is in it too?",
+     "a": "Heat",
+     "right": [
+      "Isaac"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 21,
+     "q": "This nation of around 115 islands in the Indian Ocean was named for a minister of finance under Louis XV",
+     "a": "the Seychelles",
+     "right": [
+      "Isaac"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 4,
+     "q": "The stars guide the narrator of his Gothic poem \"Ulalume\"",
+     "a": "Edgar Allan Poe",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 27,
+     "q": "This verb means to protest vehemently or to vent angry disapproval",
+     "a": "to inveigh",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 14,
+     "q": "This French family introduced a 3-wheeled, steam-powered car at the 1889 World's Fair; they're still producing cars",
+     "a": "Peugeot",
+     "right": [
+      "Larry"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 23,
+     "q": "An Amsler grid--stare at the dot, do other areas waver?--can tell you if dry age-related this condition is becoming wet",
+     "a": "macular degeneration",
+     "right": [
+      "Alex"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 6,
+     "q": "The one where Clarice Starling & Bella Swan get their home invaded by that Thirty Seconds to Mars dude, who's rocking cornrows",
+     "a": "Panic Room",
+     "right": [
+      "Larry"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "FAMOUS AMERICANS",
+  "q": "In his 1999 memoir he wrote, \"I had been shot down a short walk's distance from the French-built prison, Hoa Lo\"",
+  "a": "(Senator John) McCain",
+  "right": [
+   "Alex",
+   "Larry",
+   "Isaac"
+  ],
+  "wrong": []
+ },
+ "gameId": "8986"
+}

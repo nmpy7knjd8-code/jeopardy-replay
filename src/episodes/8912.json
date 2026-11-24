@@ -1,0 +1,975 @@
+{
+ "show": "#9087",
+ "aired": "2024-04-23",
+ "note": "",
+ "contestants": [
+  {
+   "name": "Mark Lashley",
+   "bio": "a professor from Philadelphia, Pennsylvania",
+   "short": "Mark"
+  },
+  {
+   "name": "Lianne Schaffer",
+   "bio": "a piano teacher and musician from Newton, Massachusetts",
+   "short": "Lianne"
+  },
+  {
+   "name": "Nam Nguyen",
+   "bio": "a playwright from Mississauga, Ontario, Canada (whose 1-day cash winnings total $26,999)",
+   "short": "Nam"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Nam": 8600,
+   "Lianne": 2600,
+   "Mark": 1800
+  },
+  "DJ": {
+   "Nam": 17600,
+   "Lianne": 7000,
+   "Mark": 9000
+  },
+  "Final": {
+   "Nam": 17199,
+   "Lianne": 14000,
+   "Mark": 17601
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "PRESIDENTS & FIRST LADIES",
+    "CULTURE, POPULARLY",
+    "ITALIAN PRODUCTS",
+    "WORDS & THEIR MEANINGS",
+    "WHAT ARE YOU AFRAID OF?",
+    "RELAX, IT'S MATH"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 30,
+     "q": "A children's library & learning center in Little Rock, Arkansas is named for this first lady",
+     "a": "Clinton",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 27,
+     "q": "In January 2024, the copyright on the 1928 version of this character expired, so we can show him without, mmm, legal issues",
+     "a": "Mickey Mouse",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 28,
+     "q": "A post-World War II shortage of cocoa led to a product called Giandujot, a precursor of this hazelnut spread",
+     "a": "Nutella",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 29,
+     "q": "From the Latin for \"somewhere else\", it can be a claim that proves innocence or the person who backs up that claim",
+     "a": "alibi",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 20,
+     "q": "Glossophobia: \nThis, especially in public",
+     "a": "speaking",
+     "right": [
+      "Nam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 15,
+     "q": "From Latin for \"twice\" & \"cut\", it means to divide a line or figure into 2 equal parts",
+     "a": "bisect",
+     "right": [
+      "Nam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 10,
+     "q": "The last first lady born in the 1800s, she passed away in 1979, outliving Dwight by 10 years",
+     "a": "Mamie Eisenhower",
+     "right": [
+      "Lianne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 26,
+     "q": "Gene Autry's been gone for a while, but he was on the Billboard Hot 100 in late December 2023 with \"Here Comes\" this fellow",
+     "a": "Santa Claus",
+     "right": [
+      "Lianne"
+     ],
+     "wrong": [
+      "Nam"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 23,
+     "q": "It takes 12 years to make the traditional kind of this 2-word \"black gold\" from northern Italy",
+     "a": "balsamic vinegar",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 22,
+     "q": "Aspirin is an analgesic, describing its effect & from Greek for \"lack of\" this",
+     "a": "pain",
+     "right": [
+      "Lianne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 19,
+     "q": "Coulrophobia: \nThese performers & please don't send them in",
+     "a": "clowns",
+     "right": [
+      "Nam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 6,
+     "q": "\"Like fractions\" have the same this, making it easy to add & subtract them",
+     "a": "denominators",
+     "right": [
+      "Nam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 9,
+     "q": "A shopaholic who enjoyed lavish clothes & redecorating the White House, by 1864 she had spent over $27,000",
+     "a": "Mary Todd Lincoln",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 25,
+     "q": "In \"Poor Things\", this Oscar winner becomes kind of a combination of Eliza Doolittle & Frankenstein",
+     "a": "(Emma) Stone",
+     "right": [
+      "Nam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": true,
+     "order": 11,
+     "q": "This car brand's name begins with the first phonetic letter of the NATO alphabet & ends with another",
+     "a": "Alfa Romeo",
+     "right": [
+      "Lianne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1000
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 4,
+     "q": "From Italian, it can mean a daring desperado as well as a cheer",
+     "a": "bravo",
+     "right": [],
+     "wrong": [
+      "Lianne"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 18,
+     "q": "Chorophobia: \nThis activity",
+     "a": "dancing",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 3,
+     "q": "In a Tom Lehrer song, a movie called \"The Eternal Triangle\" stars Ingrid Bergman as this longest side of a right triangle",
+     "a": "a hypotenuse",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 8,
+     "q": "In the 1860s his great-grandfather George Washington Baines served as president of Baylor University",
+     "a": "LBJ",
+     "right": [
+      "Nam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 5,
+     "q": "It was a letter-perfect day on Jimmy Kimmel's show when Warren G welcomed this sax man to help out on \"Regulate\"",
+     "a": "Kenny G",
+     "right": [
+      "Nam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 12,
+     "q": "According to The New York Times, a marketing blitz by Campari Group made this orangey spritz the drink of the summer in 2018",
+     "a": "an Aperol spritz",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 21,
+     "q": "It's not trivial knowledge that trivia comes from a word meaning a spot where 3 of these meet",
+     "a": "road",
+     "right": [
+      "Nam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 17,
+     "q": "Samhainophobia: \nThis holiday",
+     "a": "Halloween",
+     "right": [
+      "Nam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 2,
+     "q": "It's a constant that multiplies a variable; in physics, there's a well-known one \"of friction\"",
+     "a": "a coefficient",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 7,
+     "q": "Not highly regarded by historians, he's the 19th century president seen here",
+     "a": "Buchanan",
+     "right": [
+      "Nam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 13,
+     "q": "Heirs get split one by one in this 2023 Netflix miniseries based on a Poe short story & starring Mary McDonnell as Madeline",
+     "a": "The Fall of the House of Usher",
+     "right": [
+      "Nam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 24,
+     "q": "The marble capitals of the rotunda at the U. of Virginia are made of this type of marble named for a town near the Apuan Alps",
+     "a": "Carrara",
+     "right": [
+      "Lianne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 14,
+     "q": "It once meant a light, fast ship but has come to mean one that's old & worn-out & possibly dismantled",
+     "a": "a hulk",
+     "right": [],
+     "wrong": [
+      "Mark"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 16,
+     "q": "Porphyrophobia: \nThis, literally, also the title of a 1983 Pulitzer Prize-winning novel",
+     "a": "the color purple",
+     "right": [
+      "Nam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 1,
+     "q": "These coordinates named for a 17th c. man describe the position of points in space in relation to an x-axis & y-axis",
+     "a": "Cartesian",
+     "right": [
+      "Nam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "THE PICTURE OF SOMEONE NAMED GREY",
+    "SHARED INTERNATIONAL LAKES",
+    "NAME THAT AUTHOR",
+    "20th CENTURY SONG, 21st CENTURY AD",
+    "I'LL REMEMBER LATE APRIL",
+    "\"PRO\" NOUNS"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 24,
+     "q": "This woman, who had a short reign in England, was executed in 1553, along with her husband of less than a year",
+     "a": "Jane Grey",
+     "right": [
+      "Nam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 26,
+     "q": "Egypt & Sudan share this lake created by the building of the Aswan High Dam",
+     "a": "Nasser",
+     "right": [
+      "Nam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "\"Early in the spring of 1750... a man-child was born to Omoro and Binta Kinte\"",
+     "a": "Haley",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 28,
+     "q": "'70s Native American band Redbone are back as \"Come & Get Your Love\" is in ads for this brand's trucks like the Silverado",
+     "a": "Chevy",
+     "right": [
+      "Nam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 29,
+     "q": "Soviet victims of radiation accidents are remembered every April 26, the day of the meltdown at this site",
+     "a": "Chernobyl",
+     "right": [
+      "Nam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 30,
+     "q": "The process of authenticating a will",
+     "a": "probate",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 23,
+     "q": "Joel Grey did a wonderful job as this character when \"Wicked\" premiered on Broadway in 2003",
+     "a": "the Wizard of Oz",
+     "right": [
+      "Nam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 25,
+     "q": "Lake Champlain is shared by the states of Vermont & New York & this province",
+     "a": "Quebec",
+     "right": [
+      "Nam"
+     ],
+     "wrong": [
+      "Mark"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 13,
+     "q": "\"Oh, how he loved that smell! And oh, how he wished he could go inside the factory and see what it was like!\"",
+     "a": "Roald Dahl",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 4,
+     "q": "Perhaps hearing \"You're My Best Friend\" from this band's album \"A Night at the Opera\" got you to book that Carnival cruise",
+     "a": "Queen",
+     "right": [
+      "Nam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 19,
+     "q": "Centuries after Europeans named it, then with no \"I\" in \"Serra\", this country became independent April 27, 1961",
+     "a": "Sierra Leone",
+     "right": [
+      "Nam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 17,
+     "q": "An expert who uses behavioral knowledge to identify suspected criminals",
+     "a": "a profiler",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 22,
+     "q": "In 1919, Sir Edward Grey came from England to try to get the U.S. to join this new world organization, didn't work",
+     "a": "the League of Nations",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 14,
+     "q": "This Russian hero named for a victory at the Neva River also won a battle on frozen Lake Peipus, now shared by Russia & Estonia",
+     "a": "Alexander Nevsky",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 12,
+     "q": "\"The John Galt line was moving forward. The attacks on his metal had ceased\"",
+     "a": "Ayn Rand",
+     "right": [
+      "Lianne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 3,
+     "q": "This lodging service founded in 2007 built an ad around Bob Dylan's \"Shelter From The Storm\"",
+     "a": "Airbnb",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 8,
+     "q": "This Swiss-based superlab released the World Wide Web free to all April 30, 1993, having considered charging a user fee",
+     "a": "CERN",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 15,
+     "q": "An introduction to a literary work",
+     "a": "a prologue",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 11,
+     "q": "Like many of his bestsellers, 1921's \"The Mysterious Rider\" concerns cowboys & gunslingers in the Old West",
+     "a": "Zane Grey",
+     "right": [
+      "Lianne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 21,
+     "q": "Niger, Nigeria & Cameroon all share this lake with its namesake nation",
+     "a": "Chad",
+     "right": [
+      "Nam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 9,
+     "q": "\"It was porkmaking by machinery, porkmaking by applied mathematics \n... but this slaughtering machine ran on\"",
+     "a": "(Upton) Sinclair",
+     "right": [
+      "Nam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2000
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 1,
+     "q": "\"Good Times Roll\" by this group turned up in a Capital One ad",
+     "a": "The Cars",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 7,
+     "q": "On April 29, 1945 the 45th Infantry Division of the U.S. 7th Army arrived to liberate this concentration camp near Munich",
+     "a": "Dachau",
+     "right": [
+      "Nam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 16,
+     "q": "A prominent nose, or an elephant's trunk",
+     "a": "a proboscis",
+     "right": [
+      "Lianne"
+     ],
+     "wrong": [
+      "Mark"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 10,
+     "q": "As prime minister, the Second Earl Grey, a leader of the liberal party called this, passed the democratizing 1832 Reform Bill",
+     "a": "the Whigs",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 20,
+     "q": "The world's highest navigable lake, it's shared by Peru & Bolivia",
+     "a": "Titicaca",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 5,
+     "q": "\"'I got in a couple of hassles at the work farm, to tell the pure truth, and the court ruled that I'm a psychopath\"'",
+     "a": "Ken Kesey",
+     "right": [],
+     "wrong": [
+      "Mark"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 2,
+     "q": "Bud Light Seltzer put this KC & the Sunshine Band footwear in a commercial",
+     "a": "\"Boogie Shoes\"",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": true,
+     "order": 6,
+     "q": "This organization was founded 80 years ago on April 25 to benefit institutions including Howard & Morehouse",
+     "a": "the United Negro College Fund",
+     "right": [],
+     "wrong": [
+      "Nam"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 3000
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 18,
+     "q": "From Latin for \"to beget\", it's a forefather or originator",
+     "a": "progenitor",
+     "right": [
+      "Nam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "BUSINESS",
+  "q": "In the 1850s the .925 sterling silver standard was instituted by this company, the first American one to do so",
+  "a": "Tiffany",
+  "right": [
+   "Lianne",
+   "Mark"
+  ],
+  "wrong": [
+   "Nam"
+  ]
+ },
+ "gameId": "8912"
+}
