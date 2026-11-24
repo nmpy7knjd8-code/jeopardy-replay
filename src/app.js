@@ -127,7 +127,7 @@ function sizeBoard(){
 function fitAll(){
   const vm=Math.min(innerWidth,innerHeight),portrait=innerWidth<innerHeight;
   const clue=document.querySelector('.clue:not(.ans)');
-  if(clue)fit(clue,clue.firstElementChild,portrait?Math.min(22,vm*.06):Math.min(34,vm*.05),12);
+  if(clue)fit(clue,clue.firstElementChild,portrait?Math.min(20,vm*.055):Math.min(31,vm*.046),12);
   const cc=document.querySelector('.banner .cc');
   if(cc)fit(cc.parentElement,cc,Math.min(vm*.11,84),14);
   const bd=document.querySelector('.board');

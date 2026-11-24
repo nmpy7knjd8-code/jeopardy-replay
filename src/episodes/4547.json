@@ -1,0 +1,992 @@
+{
+ "show": "#6870",
+ "aired": "2014-06-27",
+ "note": "",
+ "contestants": [
+  {
+   "name": "Sunil Hari",
+   "bio": "a Navy flight surgeon originally from West Chester, Ohio",
+   "short": "Sunil"
+  },
+  {
+   "name": "Jill Rowley",
+   "bio": "a flight attendant from Baltimore, Maryland",
+   "short": "Jill"
+  },
+  {
+   "name": "Jennifer Blanton",
+   "bio": "an attorney from San Diego, California (whose 3-day cash winnings total $57,000)",
+   "short": "Jennifer"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Jennifer": 2200,
+   "Jill": 3400,
+   "Sunil": 6200
+  },
+  "DJ": {
+   "Jennifer": 6600,
+   "Jill": 7200,
+   "Sunil": 9800
+  },
+  "Final": {
+   "Jennifer": 3399,
+   "Jill": 12201,
+   "Sunil": 8800
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "ANCIENT ROME",
+    "THE BAND THAT MADE ME FAMOUS",
+    "ON THE CORPORATE WEBPAGE",
+    "FINISH THE SEUSS LINE",
+    "THE FEMALE PERSUASION",
+    "THE \"OOD\" LIFE"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 19,
+     "q": "The last emperor of Rome, who was overthrown in 476, shared his name with this legendary founder of the city",
+     "a": "Romulus",
+     "right": [
+      "Jennifer"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 15,
+     "q": "Slash",
+     "a": "Guns N' Roses",
+     "right": [
+      "Jennifer"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 16,
+     "q": "The messenger of the gods knows the website of this company has a \"putting your teen behind the wheel\" section",
+     "a": "Mercury",
+     "right": [
+      "Jennifer"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 2,
+     "q": "\"I do not like them here or there. I do not like them anywhere. I do not like green eggs and ham. I do not like them...\"",
+     "a": "Sam-I-am",
+     "right": [
+      "Jennifer"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "On Oct. 15, 1860 young Grace Bedell wrote to this politician \"let your whiskers grow\"; he did",
+     "a": "Lincoln",
+     "right": [
+      "Sunil"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 20,
+     "q": "It was always a beautiful day in Mr. Rogers'",
+     "a": "Neighborhood",
+     "right": [
+      "Sunil"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "Carved on stone or metal, the acta diurna was an early newspaper posted this often in a public area",
+     "a": "daily",
+     "right": [
+      "Jill"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 14,
+     "q": "Flea",
+     "a": "Red Hot Chili Peppers",
+     "right": [
+      "Jennifer"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 17,
+     "q": "Deals discussed in 2014 on this cable giant's website included offers for new customers & its merger with Time Warner",
+     "a": "Comcast",
+     "right": [
+      "Sunil"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 5,
+     "q": "\"I'll just have to save him, because, after all, a person's a person, no matter...\"",
+     "a": "how small",
+     "right": [
+      "Jennifer"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 3,
+     "q": "Why, why, why, this Biblical woman who bugged a guy so much he gave up a tonsorial secret (& it cost the guy both eyes!)",
+     "a": "Delilah",
+     "right": [
+      "Jennifer"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 23,
+     "q": "Comprehended",
+     "a": "understood",
+     "right": [
+      "Sunil"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 28,
+     "q": "Roman roads were built with concrete made from pozzolana, ash from these; the roads by Pompeii must've been good",
+     "a": "volcanoes",
+     "right": [
+      "Sunil"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 13,
+     "q": "Morrissey",
+     "a": "The Smiths",
+     "right": [
+      "Sunil"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 18,
+     "q": "The page of one of the airlines bearing this name says they have \"more experience than our name suggests\"",
+     "a": "Virgin",
+     "right": [
+      "Jill"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 10,
+     "q": "\"And he brought back the toys! And the food for the feast! And he... he himself...! The Grinch carved...\"",
+     "a": "the roast beast",
+     "right": [
+      "Sunil"
+     ],
+     "wrong": [
+      "Jennifer"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 4,
+     "q": "Basically, this Shakespeare character tells her husband, kill the king as he sleeps; we'll set up his staff for it!",
+     "a": "Lady Macbeth",
+     "right": [
+      "Jill"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 24,
+     "q": "A disposition to kindness & compassion, or a place to donate clothes",
+     "a": "goodwill",
+     "right": [
+      "Sunil"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "(Jimmy of the Clue Crew points to a map on the monitor.) In ancient Rome, triumphant generals paraded into the city through the Campus Martius, which lay between Capitoline Hill & this river",
+     "a": "the Tiber",
+     "right": [
+      "Sunil"
+     ],
+     "wrong": [
+      "Jennifer"
+     ],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 12,
+     "q": "Bobby Brown",
+     "a": "New Edition",
+     "right": [
+      "Sunil"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": true,
+     "order": 21,
+     "q": "Bank of America's website offers investment options with this subsidiary whose logo is a bull",
+     "a": "Merrill Lynch",
+     "right": [],
+     "wrong": [
+      "Sunil"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 3000
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 9,
+     "q": "\"Say! That makes a story that no one can beat, when I say that I saw it on...\"",
+     "a": "Mulberry Street",
+     "right": [
+      "Jill"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 6,
+     "q": "Her unrelenting belief in Rasputin ended up being bad news for her & her royal hubby",
+     "a": "Alexandra",
+     "right": [
+      "Jennifer"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 25,
+     "q": "I've spotted a great spotted one of these",
+     "a": "a woodpecker",
+     "right": [
+      "Jennifer"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 30,
+     "q": "Latin for \"father of the family\", he was the oldest living male of the family & had total control of his household",
+     "a": "pater familias",
+     "right": [
+      "Sunil"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 11,
+     "q": "Questlove",
+     "a": "The Roots",
+     "right": [
+      "Sunil"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 22,
+     "q": "A giant company! With Colonel Sanders on its front page, or what some exclaim when eating KFC",
+     "a": "Yum!",
+     "right": [
+      "Jennifer"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 8,
+     "q": "\"'Yes... that's what I'd do,' said young Gerald McGrew. 'I'd make a few changes if...\"",
+     "a": "I ran the zoo",
+     "right": [
+      "Jill"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 7,
+     "q": "In an opera, her dance of the 7 veils is enough to persuade Herod to remove a guy's head",
+     "a": "Salome",
+     "right": [
+      "Sunil"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 26,
+     "q": "Cinematically speaking, it's Mumbai",
+     "a": "Bollywood",
+     "right": [
+      "Sunil"
+     ],
+     "wrong": [
+      "Jennifer"
+     ],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "IT'S AN EXPERIMENT",
+    "IN THE \"ZONE\"",
+    "DUAL BIOGRAPHIES",
+    "FILMS OF THE 1920s",
+    "FURNITURE",
+    "ALTERED STATES"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 9,
+     "q": "\"Experiment Eleven\" is a book on the discovery of streptomycin, the first antibiotic to work against this lung disease",
+     "a": "tuberculosis",
+     "right": [
+      "Sunil"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 6,
+     "q": "This 10-mile-wide strip of land in Central America was under U.S. jurisdiction from 1903 to 1979",
+     "a": "the Panama Canal Zone",
+     "right": [
+      "Jill"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 14,
+     "q": "In a biography by James Flexner, \"The Traitor And The Spy\" are this American & John Andre",
+     "a": "Benedict Arnold",
+     "right": [
+      "Jennifer"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 17,
+     "q": "This comedy team made their feature film debut in 1929's \"The Cocoanuts\", which was based on their stage play",
+     "a": "the Marx Brothers",
+     "right": [],
+     "wrong": [
+      "Jill",
+      "Sunil"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 20,
+     "q": "A jardiniere is a large decorative stand or receptacle for these",
+     "a": "flowers/plants (trees accepted)",
+     "right": [
+      "Jennifer"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "Ah I do",
+     "a": "Idaho",
+     "right": [
+      "Jill"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 12,
+     "q": "Recent experiments show lasers can make water condense--shoot 'em into the sky & maybe we can make it do this",
+     "a": "rain",
+     "right": [
+      "Jennifer"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 7,
+     "q": "An MTV show is titled this, where you don't want to be if you're trying to start a romance",
+     "a": "The Friend Zone",
+     "right": [
+      "Sunil"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 15,
+     "q": "In his book on \"The Parallel Lives Of Two American Warriors\", Stephen Ambrose took on Custer & this Sioux chief",
+     "a": "Crazy Horse",
+     "right": [],
+     "wrong": [
+      "Sunil"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 18,
+     "q": "The first synchronized voice heard in this 1927 film was not by Al Jolson but by young Bobby Gordon",
+     "a": "The Jazz Singer",
+     "right": [
+      "Jennifer"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 21,
+     "q": "The pembroke, a light, drop-leaf type of this, was probably named for the Earl of Pembroke, an amateur architect",
+     "a": "a table",
+     "right": [
+      "Jill"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 2,
+     "q": "Eel award",
+     "a": "Delaware",
+     "right": [
+      "Sunil"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 13,
+     "q": "In 1876 this inventor reproduced sound using a tuning fork, a crude relay & a conductive solution",
+     "a": "(Alexander Graham) Bell",
+     "right": [
+      "Jill"
+     ],
+     "wrong": [
+      "Sunil"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 8,
+     "q": "This neutral area of ground between hostile forces serves to prevent conflict",
+     "a": "a demilitarized zone",
+     "right": [
+      "Jennifer"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 16,
+     "q": "Maybe the 2012 bio of Emma Goldman, Alexander Berkman & this political movement has randomly numbered pages & no cover",
+     "a": "Anarchy",
+     "right": [
+      "Jennifer"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 19,
+     "q": "This swashbuckler starred in 1924's \"The Thief Of Bagdad\" & provided the story using the name Elton Thomas",
+     "a": "Douglas Fairbanks",
+     "right": [],
+     "wrong": [
+      "Jennifer",
+      "Sunil"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 24,
+     "q": "Many dens have recliners from this 12-letter brand founded in 1940",
+     "a": "Barcalounger",
+     "right": [
+      "Sunil"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 3,
+     "q": "A hen whimpers",
+     "a": "New Hampshire",
+     "right": [
+      "Jennifer"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 27,
+     "q": "In the 1940s John Draize did eye irritancy tests of these cute animals; we don't like scientists to do that anymore",
+     "a": "rabbits",
+     "right": [
+      "Jill"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1000
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 10,
+     "q": "Martin Landau had 3 hours to find a hidden bomb in \"The Jeopardy Room\", a 1964 episode of this series",
+     "a": "The Twilight Zone",
+     "right": [
+      "Sunil"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 22,
+     "q": "\"Greek Fire\" tells of the lives & love affair of singer Maria Callas & this shipping tycoon",
+     "a": "(Aristotle) Onassis",
+     "right": [
+      "Sunil"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 29,
+     "q": "\"The Kid\", co-starring Jackie Coogan, was the first feature-length film written & directed by him",
+     "a": "Charlie Chaplin",
+     "right": [
+      "Sunil"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 25,
+     "q": "Mies Van Der Rohe designed tubular types of these & said it's almost harder than designing a building",
+     "a": "chairs",
+     "right": [],
+     "wrong": [
+      "Jill",
+      "Sunil"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 4,
+     "q": "In the Northeast:\nCasts same tush",
+     "a": "Massachusetts",
+     "right": [
+      "Jennifer"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 28,
+     "q": "This university's 1971 experiment simulating prison life was ended as it got too real for students playing inmates & guards",
+     "a": "Stanford University",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 11,
+     "q": "This zone is between 23 1/2 degrees north & south latitude; is it hot out here?",
+     "a": "the tropical zone",
+     "right": [],
+     "wrong": [
+      "Sunil"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": true,
+     "order": 23,
+     "q": "Sharing part of their names, these 2 sons of slaves, one a scientist & one an educator, are the subject of \"Unshakable Faith\"",
+     "a": "George Washington Carver & Booker T. Washington",
+     "right": [],
+     "wrong": [
+      "Sunil"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1200
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 30,
+     "q": "Brigitte Helm played a dual role in this 1927 futuristic Fritz Lang film: Maria & a robot lookalike",
+     "a": "Metropolis",
+     "right": [
+      "Sunil"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 26,
+     "q": "In his will, Shakespeare left \"my wife my second best\" this \"with the furniture\"",
+     "a": "bed",
+     "right": [
+      "Jill"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 5,
+     "q": "In Dixie:\nOrca Harlot Inn",
+     "a": "North Carolina",
+     "right": [
+      "Sunil"
+     ],
+     "wrong": [
+      "Jennifer"
+     ],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "BRITISH AUTHORS",
+  "q": "The Pharmaceutical Journal praised her 1920 first novel, saying it dealt \"with poisons in a knowledgeable way\"",
+  "a": "Agatha Christie",
+  "right": [
+   "Jill"
+  ],
+  "wrong": [
+   "Jennifer",
+   "Sunil"
+  ]
+ },
+ "gameId": "4547"
+}
