@@ -1,0 +1,978 @@
+{
+ "show": "#5962",
+ "aired": "2010-07-13",
+ "note": "",
+ "contestants": [
+  {
+   "name": "Van Lane",
+   "bio": "an ATM support technician from Denver, Colorado",
+   "short": "Van"
+  },
+  {
+   "name": "Anne Anglim",
+   "bio": "a public health physician from Pasadena, California",
+   "short": "Anne"
+  },
+  {
+   "name": "Saad Hasan",
+   "bio": "a nanotechnology scientist from Nashville, Tennessee (whose 1-day cash winnings total $22,700)",
+   "short": "Saad"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Saad": 4200,
+   "Anne": 4200,
+   "Van": 11300
+  },
+  "DJ": {
+   "Saad": 10600,
+   "Anne": 8600,
+   "Van": 22500
+  },
+  "Final": {
+   "Saad": 17200,
+   "Anne": 16600,
+   "Van": 22500
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "ENGLISH LIT",
+    "CLASSIC ROCK",
+    "THE AGE OF ASPARAGUS",
+    "FAIL TO THE CHIEF",
+    "LET'S BLOW",
+    "BOOK WORDS"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 11,
+     "q": "During his \"Travels\" , he visited the flying island of Laputa",
+     "a": "Gulliver",
+     "right": [
+      "Van"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 6,
+     "q": "This group's fourth album had no title or name on the cover but did sell millions (\"Stairway To Heaven\" helped)",
+     "a": "Led Zeppelin",
+     "right": [
+      "Van"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 26,
+     "q": "The Ica, Lima & La Libertad regions are asparagus hotbeds in this country, the world's top exporter",
+     "a": "Peru",
+     "right": [
+      "Van"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 16,
+     "q": "In April 1961 he signed off on a disastrous invasion of a neighboring country",
+     "a": "John Kennedy",
+     "right": [
+      "Van"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 21,
+     "q": "Fuel is streamed through a turbine with compressed air in this type of engine first patented in 1930",
+     "a": "a jet engine",
+     "right": [
+      "Van"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "A boy servant, or to call out a name repeatedly as a summons",
+     "a": "page",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 12,
+     "q": "By the time the novel ends, this title character & Edward Rochester have been happily married for 10 years",
+     "a": "Jane Eyre",
+     "right": [
+      "Anne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 7,
+     "q": "\"I Get Around\" was their first #1 hit",
+     "a": "The Beach Boys",
+     "right": [
+      "Van"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "Asparagus plants can tolerate this table condiment better than most, so it's sometimes used in beds for weed control",
+     "a": "salt",
+     "right": [
+      "Anne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 17,
+     "q": "He took the blame for the failure of a mission to rescue U.S. hostages in Iran",
+     "a": "Carter",
+     "right": [
+      "Van"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 22,
+     "q": "Willis Carrier devised this type of system; one of the first was installed at a Grauman's theater",
+     "a": "an air conditioner",
+     "right": [
+      "Van"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "Vermiform usually precedes this body part that has no known function",
+     "a": "the appendix",
+     "right": [
+      "Saad"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 13,
+     "q": "This 1854 Tennyson poem was published only weeks after the actual incident",
+     "a": "Charge of the Light Brigade",
+     "right": [
+      "Saad"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 8,
+     "q": "This group that gave us \"Sweet Home Alabama\" was inducted into the Rock & Roll Hall of Fame in 2006",
+     "a": "Lynyrd Skynyrd",
+     "right": [
+      "Van"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 28,
+     "q": "Argenteuil in northern France is renowned for its delicate asparagus of this color",
+     "a": "white",
+     "right": [
+      "Van"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": true,
+     "order": 18,
+     "q": "His efforts to hold the Union together were ineffectual; 7 states seceded on his watch",
+     "a": "James Buchanan",
+     "right": [
+      "Van"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2500
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 23,
+     "q": "In a crash, sensors trigger an explosion that produces nitrogen gas to inflate this device introduced in the '80s",
+     "a": "an airbag",
+     "right": [
+      "Anne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 3,
+     "q": "Judicial punishment often measured in years",
+     "a": "a sentence",
+     "right": [
+      "Saad"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 14,
+     "q": "Her title \"Sonnets from the Portuguese\" referred to her husband's nickname for her",
+     "a": "Elizabeth Barrett Browning",
+     "right": [
+      "Van"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 9,
+     "q": "This group followed up 1994's \"Hell Freezes Over\" with the 2007 studio album \"Long Road Out of Eden\"",
+     "a": "The Eagles",
+     "right": [
+      "Anne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "Steamed asparagus makes a classic pairing with this \"national\" sauce made with egg yolks & butter",
+     "a": "hollandaise",
+     "right": [
+      "Saad"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 19,
+     "q": "His 1807 Embargo Act, meant to force Britain and France to respect our economic might, wrecked the U.S. economy",
+     "a": "Jefferson",
+     "right": [
+      "Van"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 24,
+     "q": "A book on 19th c. whaling gets its title from this traditional cry on sighting the creature",
+     "a": "\"Thar she blows!\"",
+     "right": [
+      "Saad"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 4,
+     "q": "Imposing adherence to a commitment, this word can be found in front of arbitration",
+     "a": "binding",
+     "right": [
+      "Van"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 15,
+     "q": "In her 1929 feminist essay \"A Room of One's Own\", she paid tribute to women writers",
+     "a": "Virginia Woolf",
+     "right": [
+      "Saad"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 10,
+     "q": "It's The Who song that says, \"Hope I die before I get old\"",
+     "a": "\"My Generation\"",
+     "right": [
+      "Van"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 30,
+     "q": "The root system of an asparagus is known by this \"royal\" name--odd, since it's underground, not on the head",
+     "a": "a crown",
+     "right": [
+      "Van"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 20,
+     "q": "Taft misstepped when he fired conservation hero Gifford Pinchot, head of this \"Service\" in the Agriculture Dept.",
+     "a": "the Forest Service",
+     "right": [
+      "Van"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 25,
+     "q": "(Sarah of the Clue Crew tries to blow out a candle from a distance, first with her mouth, then a plastic soda bottle.) Blowing out a candle from far away is hard because the blown air disperses, but concentrate the air through a small opening & it creates a whirling mass of air like a tornado called this",
+     "a": "a vortex",
+     "right": [
+      "Anne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 5,
+     "q": "Casey Kasem was known for presenting long-distance ones",
+     "a": "dedication",
+     "right": [
+      "Anne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "COMIC STRIPS",
+    "B.C.",
+    "THE FAMILY CIRCUS",
+    "BLOOM COUNTY",
+    "LIFE IN HELL",
+    "THE \"FAR\" SIDE"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 11,
+     "q": "In one panel, this \"Far Side\" cartoonist showed a group of cavemen tossing a cow in the air to make a milkshake",
+     "a": "(Gary) Larson",
+     "right": [
+      "Saad"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 6,
+     "q": "In the 100s B.C. this statue was completed by Alexandros; its farewell to arms would come later",
+     "a": "the Venus de Milo",
+     "right": [
+      "Saad"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 26,
+     "q": "Performers at the New Cole Brothers Circus recreate the 3-tiered, 7-man pyramid on one of these \"lofty\" things",
+     "a": "a high wire",
+     "right": [
+      "Van"
+     ],
+     "wrong": [
+      "Anne"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 14,
+     "q": "Here in L.A. County this flower is always in bloom in Pasadena around Jan. 1; there's even a big parade in its honor",
+     "a": "a rose",
+     "right": [
+      "Van"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 17,
+     "q": "First, we get you into hell & Charon will ferry you over; pay him with one of these items, the traditional fare",
+     "a": "a coin",
+     "right": [
+      "Saad"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "Fresh produce & cheesesteaks are sold at the USA's oldest continuously operating one of these in Penn.",
+     "a": "a farmers market",
+     "right": [
+      "Anne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 12,
+     "q": "Jeff & Akbar eternally question their love for each other in his \"Life in Hell\" comic strip",
+     "a": "Matt Groening",
+     "right": [
+      "Van"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 7,
+     "q": "This man born in Lumbini, India founded a religion",
+     "a": "the Buddha",
+     "right": [
+      "Anne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": true,
+     "order": 30,
+     "q": "P.T. Barnum's famed conjoined twins, Chang & Eng were born in this country in 1811",
+     "a": "Siam (Thailand accepted)",
+     "right": [
+      "Van"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 3000
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 22,
+     "q": "In its 2nd season of growth, stalks of this Mediterranean herb can be 3 feet tall; no word on \"sage, rosemary & thyme\"",
+     "a": "parsley",
+     "right": [
+      "Saad"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 18,
+     "q": "\"Come sail away\", as we set off on this river that Achilles was dipped in to make him invulnerable",
+     "a": "the Styx",
+     "right": [
+      "Anne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 2,
+     "q": "A mockery or sham",
+     "a": "a farce",
+     "right": [
+      "Van"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 13,
+     "q": "The prehistoric-set B.C. included this blonde character whose name sounds like that of a cartoon coyote",
+     "a": "Wiley",
+     "right": [
+      "Anne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 8,
+     "q": "In 195 B.C. this North African leader fled to Syria with the Romans in hot pursuit",
+     "a": "Hannibal",
+     "right": [
+      "Van"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 29,
+     "q": "At the Culpepper & Merriweather Circus, the Arlise Troupe performs crazy stunts on these single-axle vehicles",
+     "a": "the unicycle",
+     "right": [
+      "Van"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 23,
+     "q": "A festival celebrating these blossoms identified with the south is a yearly highlight in Columbia County, Arkansas",
+     "a": "magnolias",
+     "right": [],
+     "wrong": [
+      "Van"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 19,
+     "q": "You'll need to get by Cerberus, 3 times tougher than a regular dog; Orpheus charmed him with this & you may want to try it",
+     "a": "a lyre",
+     "right": [
+      "Saad",
+      "Van"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 3,
+     "q": "Most widely spoken member of the Iranian branch of the Indo-Iranian languages",
+     "a": "Farsi",
+     "right": [
+      "Van"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 15,
+     "q": "This penguin settled in \"Bloom County\"; he later starred in his own strip",
+     "a": "Opus",
+     "right": [
+      "Van"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 9,
+     "q": "Under Augustus, construction began on this \"all gods\" temple",
+     "a": "the Pantheon",
+     "right": [
+      "Saad"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 27,
+     "q": "John Ringling North worked on this Cecil B. DeMille film whose title describes his family's circus",
+     "a": "The Greatest Show on Earth",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 24,
+     "q": "A 2009 daffodil flower show was held in this county perhaps better known for its celebrated jumping frog",
+     "a": "Calaveras County",
+     "right": [
+      "Van"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 20,
+     "q": "Careful! You almost got smashed by this mythical man's boulder as it rolled back downhill again",
+     "a": "Sisyphus",
+     "right": [
+      "Anne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 4,
+     "q": "It sounds like something Rover brought from a long ways away, but it means \"improbable\"",
+     "a": "far-fetched",
+     "right": [
+      "Saad"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 16,
+     "q": "\"The Family Circus\" follows the life of Mommy, Daddy, Billy, Jeffy, Dolly & this baby brother with a 2-letter name",
+     "a": "P.J.",
+     "right": [
+      "Van"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 10,
+     "q": "This \"Great\" Persian leader freed the Jews from their Babylonian captivity",
+     "a": "Cyrus the Great",
+     "right": [],
+     "wrong": [
+      "Anne",
+      "Van"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 28,
+     "q": "One of this group's presentation \"Quindam\", featured several siblings",
+     "a": "Cirque du Soleil",
+     "right": [
+      "Van"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": true,
+     "order": 25,
+     "q": "Whether in Nome or Bethel, you'll always remember this hyphenated plant as Alaska's state flower",
+     "a": "the forget-me-not",
+     "right": [],
+     "wrong": [
+      "Van"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 3000
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 21,
+     "q": "Steer clear of this \"saucy' region--the gods lock up their enemies & torture them there",
+     "a": "Tartarus",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 5,
+     "q": "King of Egypt until abdicating in 1952",
+     "a": "Farouk",
+     "right": [
+      "Anne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "AMERICAN NOVELISTS",
+  "q": "An advocate of capitalism, in 1982 she was laid out beside a 6-foot dollar sign made of flowers",
+  "a": "Ayn Rand",
+  "right": [
+   "Anne",
+   "Saad",
+   "Van"
+  ],
+  "wrong": []
+ },
+ "gameId": "3435"
+}

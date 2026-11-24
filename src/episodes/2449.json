@@ -1,0 +1,993 @@
+{
+ "show": "#5452",
+ "aired": "2008-04-29",
+ "note": "Tom Morris game 1.",
+ "contestants": [
+  {
+   "name": "Gilah Pomeranz",
+   "bio": "a project manager from Yellow Springs, Ohio",
+   "short": "Gilah"
+  },
+  {
+   "name": "Tom Morris",
+   "bio": "a retailer and student from Irvine, California",
+   "short": "Tom"
+  },
+  {
+   "name": "Ric Leach",
+   "bio": "a training director from Miami, Florida (whose 2-day cash winnings total $32,800)",
+   "short": "Ric"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Ric": 4400,
+   "Tom": 6000,
+   "Gilah": 3200
+  },
+  "DJ": {
+   "Ric": 12800,
+   "Tom": 15700,
+   "Gilah": 7200
+  },
+  "Final": {
+   "Ric": 1,
+   "Tom": 25601,
+   "Gilah": 1
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "DIARIES & JOURNALS",
+    "SITCOM CENTRAL",
+    "INTERNATIONAL FOOD & DRINK",
+    "TIME",
+    "BRANDED",
+    "\"B\" YOUR BEST"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 26,
+     "q": "On June 20, 1942 she wrote that no one would be \"interested in the unbosomings of a thirteen-year-old schoolgirl\"",
+     "a": "Anne Frank",
+     "right": [
+      "Ric"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 6,
+     "q": "Roz Doyle was his producer & call screener at Seattle's KACL Radio",
+     "a": "Frasier",
+     "right": [
+      "Tom"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 21,
+     "q": "A Modern Greek word for \"bread\" gave us the name of this bread that's often stuffed with delicious fillings",
+     "a": "pita",
+     "right": [
+      "Gilah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 11,
+     "q": "It was enacted in the United States to save energy in World War I, but farmers forced its repeal a year later in 1919",
+     "a": "Daylight Savings Time",
+     "right": [
+      "Tom"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 16,
+     "q": "Elsie the Cow's \"husband\", his face is plastered on glue bottles",
+     "a": "Elmer",
+     "right": [
+      "Ric"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "Yes, Bubbe, it's a headscarf worn by Russian women, or a term for a Russian grandmother",
+     "a": "a babushka",
+     "right": [
+      "Ric"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "Julie Powell's book about mastering Julia Child's recipes began as this type of online journal",
+     "a": "a blog",
+     "right": [
+      "Ric"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 7,
+     "q": "Viewers finally got to see Wilson's face when the cast took their bows on this sitcom's last episode",
+     "a": "Home Improvement",
+     "right": [
+      "Ric"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 22,
+     "q": "In a traditional Chinese dish, hard-cooked eggs get a marbled appearance by being simmered in this beverage",
+     "a": "tea",
+     "right": [
+      "Gilah"
+     ],
+     "wrong": [
+      "Tom"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 12,
+     "q": "In military time, this time is rendered 1900 hours",
+     "a": "7 pm",
+     "right": [
+      "Gilah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 17,
+     "q": "It's \"the quicker picker-upper\"",
+     "a": "Bounty",
+     "right": [
+      "Gilah"
+     ],
+     "wrong": [
+      "Ric"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "Moon walker Aldrin's moniker",
+     "a": "Buzz",
+     "right": [
+      "Ric"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 28,
+     "q": "In describing a species of tortoise of this island group, Darwin wrote that \"some grow to an immense size\"",
+     "a": "the Galapagos",
+     "right": [
+      "Gilah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 8,
+     "q": "In 1997 Carol Burnett won an Emmy for playing Teresa Stemple, Jamie Buchman's mother on this series",
+     "a": "Mad About You",
+     "right": [
+      "Gilah"
+     ],
+     "wrong": [
+      "Ric"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 23,
+     "q": "The name of the popular pudding arroz con leche is Spanish for this \"with milk\"",
+     "a": "rice",
+     "right": [
+      "Tom"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 13,
+     "q": "It's the second month of the year with exactly 30 days in it",
+     "a": "June",
+     "right": [
+      "Ric"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 18,
+     "q": "In 1986 this company introduced its Dockers line of men's casual wear",
+     "a": "Levi's",
+     "right": [
+      "Ric"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 3,
+     "q": "Whether he \"did it\" or not, he's the male head servant",
+     "a": "the butler",
+     "right": [
+      "Ric"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": true,
+     "order": 29,
+     "q": "An 1855 entry in this Scottish missionary's African journal mentions the discovery of Victoria Falls",
+     "a": "(David) Livingstone",
+     "right": [
+      "Gilah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1600
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 9,
+     "q": "Julia Louis-Dreyfus competes with her ex's new girlfriend on this sitcom",
+     "a": "The New Adventures of Old Christine",
+     "right": [
+      "Tom"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 24,
+     "q": "(Sarah of the Clue Crew mixes a potent potable in a bar in Rio de Janeiro, Brazil.) Virtually Brazil's national drink, caipirinha is an icy concoction of fresh lime & cachaca, a liqueur distilled mainly from this sweet crop",
+     "a": "sugar cane",
+     "right": [
+      "Tom"
+     ],
+     "wrong": [
+      "Ric"
+     ],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 14,
+     "q": "This type of year is also known as a bissextile year",
+     "a": "a leap year",
+     "right": [
+      "Tom"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 19,
+     "q": "Brother began by making sewing machines; it made its first portable one of these in 1961",
+     "a": "a typewriter",
+     "right": [
+      "Ric"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 4,
+     "q": "An athletic competition combining skiing & shooting",
+     "a": "a biathlon",
+     "right": [
+      "Ric"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 30,
+     "q": "This \"Life of Samuel Johnson\" author also wrote \"Journal of a Tour to the Hebrides\", an early travel diary",
+     "a": "James Boswell",
+     "right": [],
+     "wrong": [
+      "Gilah"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 10,
+     "q": "She plays the amnesiac title character of \"Samantha Who?\"",
+     "a": "Christina Applegate",
+     "right": [
+      "Ric"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 25,
+     "q": "If you see \"lumache\" on an Italian menu, find out if they're these gastropods or the pasta shaped like them",
+     "a": "snails",
+     "right": [
+      "Tom"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 15,
+     "q": "Quick, it's the term for 1 billionth of a second",
+     "a": "a nanosecond",
+     "right": [
+      "Ric"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 20,
+     "q": "This cross-country skiing simulator wasn't invented in Scandinavia; it's from Minnesota",
+     "a": "NordicTrack",
+     "right": [
+      "Tom"
+     ],
+     "wrong": [
+      "Ric"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 5,
+     "q": "Until 1973, it was known as British Honduras",
+     "a": "Belize",
+     "right": [
+      "Tom"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "COMPOSERS",
+    "MOVIE TAGLINES",
+    "NORTH, CENTRAL & SOUTH AMERICAN LEADERS",
+    "AVIATION",
+    "THE GOOD OLD, OLD DAYS",
+    "INSIDE THE COUNTRY"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 18,
+     "q": "In 1867 Edvard Grieg founded the Norwegian Academy of Music in this city, then known as Christiania",
+     "a": "Oslo",
+     "right": [
+      "Ric"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "1993:\n\"He's having the worst day of his life... over and over again\"",
+     "a": "Groundhog Day",
+     "right": [
+      "Tom"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 6,
+     "q": "President Felipe Calderon is the head honcho in this North American nation",
+     "a": "Mexico",
+     "right": [
+      "Ric"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 11,
+     "q": "The B-17 is the Flying this, the B-29 the Super this, & the B-52 the Strato this",
+     "a": "Fortress",
+     "right": [
+      "Tom"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 23,
+     "q": "This student of Plato recognized 4 types of cause: material, efficient, formal & final",
+     "a": "Aristotle",
+     "right": [
+      "Ric"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 16,
+     "q": "There's a lot of \"love\" inside this country that borders Croatia",
+     "a": "Slovenia",
+     "right": [
+      "Ric"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 21,
+     "q": "Robert Schumann died age 46 in an asylum near Bonn, the city where this musical titan was born in 1770",
+     "a": "Beethoven",
+     "right": [
+      "Ric"
+     ],
+     "wrong": [
+      "Tom"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 2,
+     "q": "1987:\n\"Part man.\nPart machine.\nAll cop.\nThe future of law enforcement.\"",
+     "a": "RoboCop",
+     "right": [
+      "Ric"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 7,
+     "q": "Years before she became president, Michelle Bachelet of this nation was imprisoned by its Pinochet regime",
+     "a": "Chile",
+     "right": [
+      "Ric"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 12,
+     "q": "Col. Paul Tibbets commanded the bomber nicknamed this over Japan in August 1945",
+     "a": "Enola Gay",
+     "right": [
+      "Tom"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 24,
+     "q": "Around 480 B.C. this North African city-state controlled most of the western Mediterranean",
+     "a": "Carthage",
+     "right": [
+      "Ric"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 17,
+     "q": "All \"hail\" this country & its beautiful Buddhist temples",
+     "a": "Thailand",
+     "right": [
+      "Gilah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": true,
+     "order": 28,
+     "q": "In 1863 he became music director of the court balls in Vienna",
+     "a": "Johann Strauss",
+     "right": [],
+     "wrong": [
+      "Tom"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1000
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 3,
+     "q": "2007:\n\"Growing up and the bumps along the way\"",
+     "a": "Juno",
+     "right": [
+      "Ric"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 8,
+     "q": "Sandinista Daniel Ortega is having his second run as president of this Central American country",
+     "a": "Nicaragua",
+     "right": [
+      "Ric"
+     ],
+     "wrong": [
+      "Tom"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 13,
+     "q": "A name for a class of French fighter jets comes from this term meaning a desert optical illusion",
+     "a": "Mirage",
+     "right": [
+      "Tom"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 25,
+     "q": "Lycia, like Nicaea, was in what's now this Eurasian country",
+     "a": "Turkey",
+     "right": [
+      "Tom"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 19,
+     "q": "I could live simply in a \"hut\" in this Himalayan country",
+     "a": "Bhutan",
+     "right": [
+      "Ric"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 29,
+     "q": "This composer of the ballet \"Rodeo\" scored an Oscar for his score from \"The Heiress\"",
+     "a": "Aaron Copland",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 4,
+     "q": "1973:\n\"Where were you in '62?\"",
+     "a": "American Graffiti",
+     "right": [
+      "Gilah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 9,
+     "q": "He's the controversial president of Venezuela",
+     "a": "Chavez",
+     "right": [
+      "Tom"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 14,
+     "q": "In 1955 West Germany's national airline resumed flights under this revived name",
+     "a": "Lufthansa",
+     "right": [
+      "Tom"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 26,
+     "q": "He tamed Bucephalus & cut the Gordian knot",
+     "a": "Alexander the Great",
+     "right": [],
+     "wrong": [
+      "Tom"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2500
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 20,
+     "q": "\"Our\" trip to Europe won't be complete without a visit to this small grand duchy",
+     "a": "Luxembourg",
+     "right": [
+      "Gilah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 30,
+     "q": "In 1927 the Baldwin Piano Co. sponsored this Hungarian composer's first visit to the U.S.",
+     "a": "Béla Bartók",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 5,
+     "q": "2004:\n\"Moving at the speed of life, we are bound to collide with each other\"",
+     "a": "Crash",
+     "right": [
+      "Tom"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 10,
+     "q": "Ronald Venetiaan is president of this South American country, formerly a Dutch colony",
+     "a": "Suriname",
+     "right": [
+      "Ric"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 15,
+     "q": "In May 1987 a plane built by this Wichita, Kansas company landed in Red Square",
+     "a": "Cessna",
+     "right": [
+      "Tom"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 27,
+     "q": "A major goddess of this first great Cretan civilization was often depicted holding snakes",
+     "a": "the Minoans",
+     "right": [
+      "Tom"
+     ],
+     "wrong": [
+      "Ric"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 22,
+     "q": "I could \"dive\" & swim all day in this island republic in the Indian Ocean",
+     "a": "the Maldives",
+     "right": [
+      "Tom"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "BASEBALL TERMS",
+  "q": "Hall of Famer Willie Stargell called it \"a butterfly with hiccups\"",
+  "a": "a knuckleball",
+  "right": [
+   "Tom"
+  ],
+  "wrong": [
+   "Gilah",
+   "Ric"
+  ]
+ },
+ "gameId": "2449"
+}

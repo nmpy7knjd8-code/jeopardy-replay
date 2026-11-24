@@ -1,0 +1,985 @@
+{
+ "show": "#5955",
+ "aired": "2010-07-02",
+ "note": "",
+ "contestants": [
+  {
+   "name": "Kim Platnick",
+   "bio": "a school librarian from Dunwoody, Georgia",
+   "short": "Kim"
+  },
+  {
+   "name": "Aaron Wicks",
+   "bio": "a planning and evaluation manager from Rochester, New York",
+   "short": "Aaron"
+  },
+  {
+   "name": "Dave Edwards",
+   "bio": "an architect from Los Angeles, California (whose 1-day cash winnings total $13,001)",
+   "short": "Dave"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Dave": 5200,
+   "Aaron": 8600,
+   "Kim": 4000
+  },
+  "DJ": {
+   "Dave": 9000,
+   "Aaron": 19800,
+   "Kim": 6000
+  },
+  "Final": {
+   "Dave": 12001,
+   "Aaron": 18001,
+   "Kim": 2999
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "NEW TESTAMENT QUOTES",
+    "WIMBLEDON",
+    "AMONG THE 10 MOST POPULOUS COUNTRIES",
+    "PAUNCH SHOPS",
+    "ANTEBELLUM ROBERT E. LEE",
+    "3-LETTER WORDS"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 17,
+     "q": "In Luke, Elisabeth told her, \"Blessed art thou amoung women, and blessed is the fruit of thy womb\"",
+     "a": "Mary",
+     "right": [
+      "Dave"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 6,
+     "q": "In 1967 color TV was introduced to the U.K. when this network sponsored a tournament on centre court",
+     "a": "the BBC",
+     "right": [
+      "Dave"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "This South American country has about as many people as all the other South American countries combined",
+     "a": "Brazil",
+     "right": [
+      "Kim"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 26,
+     "q": "There are 290 fat calories in one of this chain's extra crispy breasts, but only 130 in the original recipe ones",
+     "a": "KFC",
+     "right": [
+      "Dave"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 16,
+     "q": "Robert graduated from this school in 1829 with an incredible zero demerits",
+     "a": "West Point",
+     "right": [
+      "Dave"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 11,
+     "q": "Take a small drink",
+     "a": "sip",
+     "right": [
+      "Kim"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 18,
+     "q": "\"Watch and pray, that ye enter not into temptation; the spirit indeed is willing, but\" this \"is weak\"",
+     "a": "the flesh",
+     "right": [
+      "Dave"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 7,
+     "q": "The Wimbledon championships are the only Grand Slam event played on this surface",
+     "a": "grass",
+     "right": [
+      "Kim"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "The Dharma Chakra or \"Wheel of Law\" appears on the flag of this country",
+     "a": "India",
+     "right": [
+      "Dave"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "Its Triple Whopper has a whopping 1,160 calories & 205 milligrams of cholesterol",
+     "a": "Burger King",
+     "right": [
+      "Kim"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 22,
+     "q": "Robert E. Lee was born Jan. 19, 1807 at Stratford Hall, the Lee family estate in Northern Virginia on the banks of this river",
+     "a": "the Potomac",
+     "right": [
+      "Aaron"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 12,
+     "q": "It's the \"stiff upper\" projecting rim of a pitcher",
+     "a": "a lip",
+     "right": [
+      "Aaron"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 19,
+     "q": "Jesus told those in the synagogue, \"Ye will surely say unto me this proverb, physician\" do this",
+     "a": "heal thyself",
+     "right": [
+      "Dave"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 8,
+     "q": "Between 1973 & 2006 this Czech-American appeared in 326 Wimbledon matches, the most of any player, male or female",
+     "a": "Martina Navratilova",
+     "right": [
+      "Dave"
+     ],
+     "wrong": [
+      "Aaron"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 3,
+     "q": "The Ural mountains form a boundary between the European & Asian parts of this country",
+     "a": "Russia",
+     "right": [
+      "Aaron"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 28,
+     "q": "If you're thinking outside the bun, think about the 990 calories & 1,930 mg of sodium in this chain's Volcano Nachos",
+     "a": "Taco Bell",
+     "right": [
+      "Dave"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": true,
+     "order": 23,
+     "q": "In 1831 Lee married Mary Anna Custis, the step-great-granddaughter of this man",
+     "a": "George Washington",
+     "right": [
+      "Aaron"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 3000
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 13,
+     "q": "Nada, nothing, or perhaps, to fasten your pants",
+     "a": "zip",
+     "right": [
+      "Aaron"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 20,
+     "q": "Before his conversion on the road to Damascus, he \"persecuted the church of God, and wasted it\"",
+     "a": "Paul",
+     "right": [
+      "Dave"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 9,
+     "q": "This sport is attached to the name of the club that sponsors Wimbledon, though activities are confined to tennis",
+     "a": "croquet",
+     "right": [
+      "Aaron"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 4,
+     "q": "It's the only African country in the top 10",
+     "a": "Nigeria",
+     "right": [
+      "Aaron"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "Hit a Grand Slam Slugger with hash browns at one of these restaurants & you've knocked in 85% of your RDV of fat",
+     "a": "Denny's",
+     "right": [
+      "Aaron"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 24,
+     "q": "During this war Lee distinguished himself at the siege of Veracruz & other battles",
+     "a": "the Mexican War",
+     "right": [
+      "Kim"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 14,
+     "q": "It can precede cord, tide & -roaring",
+     "a": "rip",
+     "right": [
+      "Aaron"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 21,
+     "q": "(Jimmy of the Clue Crew reports from the Jesus Museum in Israel.) The Jesus Boat is very much like those in which he sailed, as in Mark chapter 4 when there arose a great storm, & He rebuked this",
+     "a": "the wind",
+     "right": [
+      "Dave"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 10,
+     "q": "In 1985 he became the youngest player, the first unseeded player & the first German to win the men's singles title",
+     "a": "Boris Becker",
+     "right": [
+      "Aaron"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 5,
+     "q": "It claims all or part of 3 of the 10 largest islands in the world",
+     "a": "Indonesia",
+     "right": [],
+     "wrong": [
+      "Aaron"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 30,
+     "q": "The Melbourne, a porterhouse at this steakhouse chain, weighs in at over 1,000 calories",
+     "a": "Outback",
+     "right": [
+      "Kim"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 25,
+     "q": "In 1859 Robert E. Lee commanded the U.S. Marines that assaulted this man's barricaded forces at Harpers Ferry",
+     "a": "John Brown",
+     "right": [
+      "Kim"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 15,
+     "q": "After a 1997 golf injury, Evel Knievel got this body part replaced",
+     "a": "his hip",
+     "right": [
+      "Aaron"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "PIZZA",
+    "PAPA JOHNS",
+    "DOMINOES",
+    "LITTLE SEIZERS",
+    "NAME-RO UNO",
+    "SEE \"P-K\""
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "Sal's famous pizzeria is a focal point of this Spike Lee film",
+     "a": "Do The Right Thing",
+     "right": [
+      "Aaron"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 26,
+     "q": "He had 4 daughters, Bessie, Alta, Alice & Edith, & one son, John D, Jr.",
+     "a": "Rockefeller",
+     "right": [
+      "Aaron"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 6,
+     "q": "We have great expectations you know this 3-letter term for a dot on a domino",
+     "a": "a pip",
+     "right": [
+      "Dave"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 12,
+     "q": "Sea anemones use these both to paralyze & to gather in passing prey",
+     "a": "tentacles",
+     "right": [
+      "Aaron"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 7,
+     "q": "This philosopher was born in Stagira in Macedonia around 384 B.C.",
+     "a": "Aristotle",
+     "right": [
+      "Dave"
+     ],
+     "wrong": [
+      "Aaron"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 18,
+     "q": "Uh-oh! Someone had some trouble with this toy",
+     "a": "a pogo stick",
+     "right": [
+      "Aaron"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 2,
+     "q": "\"Cold Pizza\" was a morning show that debuted in 2003 on this sports cable network",
+     "a": "ESPN",
+     "right": [
+      "Dave"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 27,
+     "q": "He had 2 daughters & 2 other sons in addition to the one who became president in 1825",
+     "a": "John Adams",
+     "right": [
+      "Dave"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 17,
+     "q": "Dominoes originated in this country in ancient times; the game didn't reach Europe until the 18th century",
+     "a": "China",
+     "right": [
+      "Aaron"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 13,
+     "q": "There's a 1/2-ounce African dwarf species of this colorful bird that dives into rivers to seize lunch",
+     "a": "a kingfisher",
+     "right": [],
+     "wrong": [
+      "Dave",
+      "Kim"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 8,
+     "q": "In 1983 this Bulgarian-born artist surrounded 11 islands in Biscayne Bay with floating pink fabric",
+     "a": "Christo",
+     "right": [
+      "Dave"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 19,
+     "q": "Try this with lox... or caviar... or...",
+     "a": "pumpernickel",
+     "right": [
+      "Aaron"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 3,
+     "q": "Scar-Jo's hubby, he was one of the title \"guys\" in \"Two Guys, A Girl And A Pizza Place\"",
+     "a": "Ryan Reynolds",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": true,
+     "order": 28,
+     "q": "One of his sons, John IV, wrote the memoir \"The Other Side of Eden\"",
+     "a": "John Steinbeck",
+     "right": [],
+     "wrong": [
+      "Dave"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 3000
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 23,
+     "q": "A domino with both ends having the same value is called a double or this, which is 1 letter longer & also a garment",
+     "a": "a doublet",
+     "right": [
+      "Kim"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 14,
+     "q": "The white-handed species of this Asian lesser ape uses its white hands to grab fruit & eggs",
+     "a": "a gibbon",
+     "right": [
+      "Aaron"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 9,
+     "q": "In 1659 he produced his first major comedy, \"Les Precieuses Ridicules\" for Louis XIV",
+     "a": "Molière",
+     "right": [],
+     "wrong": [
+      "Dave"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 20,
+     "q": "It's the type of pillow seen here",
+     "a": "patchwork",
+     "right": [
+      "Kim"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 4,
+     "q": "This TV show centers on Fry, a pizza boy who was cryogenically frozen in 2000 & reawakened in the year 2999",
+     "a": "Futurama",
+     "right": [
+      "Dave"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 29,
+     "q": "This poet's third daughter, Deborah, was born in 1652, shortly after he went totally blind",
+     "a": "John Milton",
+     "right": [],
+     "wrong": [
+      "Dave",
+      "Kim"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 24,
+     "q": "Domino pieces are sometimes called these because they were originally made of ivory",
+     "a": "bones",
+     "right": [],
+     "wrong": [
+      "Kim"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2000
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 15,
+     "q": "The pea type of this lives on bivalves & grabs food from bivalves with its pincers",
+     "a": "a crab",
+     "right": [
+      "Dave"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 10,
+     "q": "This female folk singer who died in 2008 was called the \"voice of the civil rights movement\"",
+     "a": "Odetta",
+     "right": [
+      "Aaron"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 21,
+     "q": "It's a good idea to have plenty of this spice on hand",
+     "a": "paprika",
+     "right": [
+      "Aaron"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 5,
+     "q": "Early in her career Julia Roberts played Daisy in this tasty film",
+     "a": "Mystic Pizza",
+     "right": [
+      "Kim"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 30,
+     "q": "This \"Rabbit, Run\" author & father of 4 also wrote \"A Child's Calendar\", with a poem for every month",
+     "a": "John Updike",
+     "right": [
+      "Aaron"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 25,
+     "q": "Early pieces had white faces on ebony backing, resembling a priest wearing a domino, a dark this",
+     "a": "robe",
+     "right": [
+      "Dave"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 16,
+     "q": "3 inches long with a 2 1/2-inch fluffy tail, the African pygmy this feeds on seeds--nuts are out of its league",
+     "a": "a squirrel",
+     "right": [
+      "Kim"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 11,
+     "q": "The second president of Indonesia, he ruled from 1968 to 1998",
+     "a": "Suharto",
+     "right": [
+      "Aaron"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 22,
+     "q": "Your friend who is wearing this type of necklace is probably just back from Hawaii",
+     "a": "puka shell",
+     "right": [
+      "Dave"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "5-LETTER LITERARY TERMS",
+  "q": "The \"History\" by Herodotus has been called the earliest surviving European work of this form, from Latin for \"straightforward\"",
+  "a": "prose",
+  "right": [
+   "Dave"
+  ],
+  "wrong": [
+   "Kim",
+   "Aaron"
+  ]
+ },
+ "gameId": "3427"
+}
