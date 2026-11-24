@@ -14,7 +14,7 @@ const epParam=Q.get('ep');
 let SHOW=CATALOG.find(e=>e.gameId===epParam)||CATALOG[+epParam]||CATALOG[0];
 let pick=Math.max(0,CATALOG.findIndex(e=>e.gameId===SHOW.gameId));
 const G={score:0,state:'intro',round:'J',used:new Set(),curCol:-1,stay:0,timers:[],stateAt:0,
- roundScores:{},clue:null,lockedUntil:0,openAt:0,sound:true,history:[],skipped:null};
+ roundScores:{},clue:null,lockedUntil:0,openAt:0,sound:true,history:[],skipped:null,paused:false,pauseAt:0};
 function readPlayed(){try{return JSON.parse(localStorage.getItem('jr-played')||'{}')}catch(e){return{}}}
 function savePlayed(id,score){
   if(AUTO||FAST)return;
@@ -31,7 +31,7 @@ function loadShow(id){
 
 /* ---------- sound (tiny WebAudio blips) ---------- */
 let AC=null;
-function tone(f,d,type='sine',v=.12,delay=0){ if(!G.sound)return; try{
+function tone(f,d,type='sine',v=.12,delay=0){ if(!G.sound||G.paused)return; try{
   AC=AC||new (window.AudioContext||window.webkitAudioContext)();
   const t=AC.currentTime+delay,o=AC.createOscillator(),g=AC.createGain();
   o.type=type;o.frequency.setValueAtTime(f,t);g.gain.setValueAtTime(v,t);g.gain.exponentialRampToValueAtTime(.0001,t+d);
@@ -46,20 +46,102 @@ const sfx={
  tick(){tone(1200,.03,'square',.04)}
 };
 hud.addEventListener('click',e=>{const m=e.target.closest('#mute');if(m){G.sound=!G.sound;m.innerHTML=G.sound?ICON.snd:ICON.mute;m.blur()}
+  if(e.target.closest('#pause')){togglePause();const b=e.target.closest('#pause');if(b)b.blur();return}
+  if(G.paused)return;
   if(e.target.closest('#ff'))fastForward();if(e.target.closest('#rskip'))skipRound();if(e.target.closest('#home'))askLeave()});
 
 /* ---------- timers ---------- */
-function later(fn,ms){const t=setTimeout(fn,ms);G.timers.push(t);return t}
-function clearTimers(){G.timers.forEach(t=>{clearTimeout(t);clearInterval(t)});G.timers=[]}
-function setState(s){G.state=s;document.body.dataset.st=s;G.stateAt=performance.now();if(s!=='answer')document.body.classList.remove('typing')}
+const sched=[];
+function later(fn,ms){
+  const rec={kind:'to',fn,remain:ms,start:performance.now(),id:null};
+  rec.id=setTimeout(()=>{dropSched(rec);fn()},ms);
+  sched.push(rec);G.timers.push(rec.id);return rec.id;
+}
 function runTimer(ms,onTick,onDone){
-  const end=performance.now()+ms;
-  const iv=setInterval(()=>{
-    const left=end-performance.now();
-    if(left<=0){clearInterval(iv);onTick(0,0);onDone();return}
-    onTick(left/ms,Math.ceil(left/1000));
-  },50);
-  G.timers.push(iv);onTick(1,Math.ceil(ms/1000));
+  const rec={kind:'iv',onTick,onDone,remain:ms,total:ms,start:performance.now(),id:null};
+  const tick=()=>{
+    const left=rec.start+rec.remain-performance.now();
+    if(left<=0){clearInterval(rec.id);dropSched(rec);onTick(0,0);onDone();return}
+    onTick(left/rec.total,Math.ceil(left/1000));
+  };
+  rec.id=setInterval(tick,50);
+  sched.push(rec);G.timers.push(rec.id);
+  onTick(1,Math.ceil(ms/1000));
+}
+function dropSched(rec){const i=sched.indexOf(rec);if(i>=0)sched.splice(i,1)}
+function syncTimerIds(){G.timers=sched.map(r=>r.id).filter(Boolean)}
+function freezeSched(){
+  const t=performance.now();
+  for(const rec of sched){
+    if(rec.kind==='to'){clearTimeout(rec.id);rec.remain=Math.max(0,rec.remain-(t-rec.start))}
+    else{clearInterval(rec.id);rec.remain=Math.max(0,rec.start+rec.remain-t)}
+    rec.id=null;
+  }
+  G.timers=[];
+}
+function thawSched(){
+  const t=performance.now();
+  for(const rec of sched){
+    rec.start=t;
+    if(rec.kind==='to') rec.id=setTimeout(()=>{dropSched(rec);rec.fn()},rec.remain);
+    else rec.id=setInterval(()=>{
+      const left=rec.start+rec.remain-performance.now();
+      if(left<=0){clearInterval(rec.id);dropSched(rec);rec.onTick(0,0);rec.onDone();return}
+      rec.onTick(left/rec.total,Math.ceil(left/1000));
+    },50);
+  }
+  syncTimerIds();
+}
+function clearTimers(){
+  for(const rec of sched.splice(0)){if(rec.kind==='to')clearTimeout(rec.id);else clearInterval(rec.id)}
+  G.timers.forEach(t=>{clearTimeout(t);clearInterval(t)});G.timers=[];
+}
+function setState(s){G.state=s;document.body.dataset.st=s;G.stateAt=performance.now();if(s!=='answer')document.body.classList.remove('typing')}
+function pauseOverlay(){
+  let el=$('#pauseov');
+  if(!el){
+    el=document.createElement('div');el.id='pauseov';el.className='pauseov';el.hidden=true;
+    el.setAttribute('role','button');el.setAttribute('aria-label','Resume');
+    el.innerHTML='<div class="pauselabel">Paused</div>';
+    el.addEventListener('click',()=>{if(G.paused)setPaused(false)});
+    appEl.appendChild(el);
+  }
+  return el;
+}
+function setPaused(on,opts){
+  on=!!on;if(on===!!G.paused){
+    if(on&&opts&&opts.overlay===false){const el=pauseOverlay();el.hidden=true;el.classList.toggle('quiet',true)}
+    return;
+  }
+  if(G.state==='intro'&&on)return;
+  if(on){
+    G.pauseAt=performance.now();G.paused=true;freezeSched();
+    if(AC&&AC.state==='running')AC.suspend();
+    document.body.dataset.paused='1';
+    const el=pauseOverlay();
+    const show=!opts||opts.overlay!==false;
+    el.hidden=!show;el.classList.toggle('quiet',!show);
+  }else{
+    const dt=performance.now()-(G.pauseAt||performance.now());
+    G.paused=false;G.pauseAt=0;
+    if(G.openAt)G.openAt+=dt;
+    if(G.lockedUntil)G.lockedUntil+=dt;
+    if(G.stateAt)G.stateAt+=dt;
+    thawSched();
+    if(AC&&AC.state==='suspended')AC.resume();
+    document.body.removeAttribute('data-paused');
+    const el=$('#pauseov');if(el){el.hidden=true;el.classList.remove('quiet')}
+  }
+  if(G.state!=='intro')renderHud();
+}
+function togglePause(){setPaused(!G.paused)}
+function canTypePause(e){
+  if(G.state==='intro')return false;
+  if($('.leave'))return false;
+  const t=e&&e.target,tag=t&&t.tagName;
+  if(tag==='INPUT'||tag==='TEXTAREA'||(t&&t.isContentEditable))return false;
+  if(document.body.classList.contains('typing'))return false;
+  return true;
 }
 function setLights(mode){lights.className='lights'+(mode?' show':'')+(mode==='on'?' on':'')+(mode==='bad'?' bad':'')}
 
@@ -69,13 +151,16 @@ const ICON={
  mute:'<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 9h4l5-4v14l-5-4H4z" fill="currentColor"/><path d="M16.5 9.5l5 5m0-5l-5 5" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>',
  ff:'<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3 6l9 6-9 6zM12 6l9 6-9 6z" fill="currentColor"/></svg>',
  next:'<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 6l8.5 6L4 18zM12 6l8.5 6L12 18z" fill="currentColor"/><rect x="20" y="6" width="2" height="12" rx="1" fill="currentColor"/></svg>',
- home:'<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 11.5 12 4l8 7.5V20a1 1 0 0 1-1 1h-5v-6H10v6H5a1 1 0 0 1-1-1z" fill="currentColor"/></svg>'};
+ home:'<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 11.5 12 4l8 7.5V20a1 1 0 0 1-1 1h-5v-6H10v6H5a1 1 0 0 1-1-1z" fill="currentColor"/></svg>',
+ pause:'<svg viewBox="0 0 24 24" aria-hidden="true"><rect x="6" y="5" width="4" height="14" rx="1" fill="currentColor"/><rect x="14" y="5" width="4" height="14" rx="1" fill="currentColor"/></svg>',
+ play:'<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5.5v13l11-6.5z" fill="currentColor"/></svg>'};
 function renderHud(){
   hud.classList.remove('hide');
   const rs=G.round==='J'||G.round==='DJ';
   const real=G.skipped&&SHOW.scores[G.skipped]?`<div class="realstrip" aria-label="Real scores at the jump">${SHOW.contestants.map(c=>`${esc(c.short)} ${money(SHOW.scores[G.skipped][c.short])}`).join(' · ')}</div>`:'';
   const atEnd=G.state==='end';
-  hud.innerHTML=`${real}<div class="corner l"><button id="ff" class="ic" type="button" aria-label="Skip the wait">${ICON.ff}</button><button id="home" class="ic" type="button" aria-label="Back to episodes">${ICON.home}</button></div><div class="scorebox ${G.score<0?'neg':'pos'}">${money(G.score)}</div><div class="corner r"><button id="mute" class="ic" type="button" aria-label="Toggle sound">${G.sound?ICON.snd:ICON.mute}</button><button id="rskip" class="ic" type="button" aria-label="${G.round==='J'?'Skip to Double Jeopardy':'Skip to Final Jeopardy'}" ${rs&&!atEnd?'':'hidden'}>${ICON.next}</button></div>`;
+  const pauseLbl=G.paused?'Resume':'Pause';
+  hud.innerHTML=`${real}<div class="corner l"><button id="ff" class="ic" type="button" aria-label="Skip the wait">${ICON.ff}</button><button id="home" class="ic" type="button" aria-label="Back to episodes">${ICON.home}</button></div><div class="hudmid"><button id="pause" class="ic${G.paused?' on':''}" type="button" aria-label="${pauseLbl}" title="${pauseLbl}">${G.paused?ICON.play:ICON.pause}</button><div class="scorebox ${G.score<0?'neg':'pos'}">${money(G.score)}</div><span class="ic-slot" aria-hidden="true"></span></div><div class="corner r"><button id="mute" class="ic" type="button" aria-label="Toggle sound">${G.sound?ICON.snd:ICON.mute}</button><button id="rskip" class="ic" type="button" aria-label="${G.round==='J'?'Skip to Double Jeopardy':'Skip to Final Jeopardy'}" ${rs&&!atEnd?'':'hidden'}>${ICON.next}</button></div>`;
 }
 function askLeave(){
   if(G.state==='end'){intro();return}
@@ -83,7 +168,7 @@ function askLeave(){
   const box=document.createElement('div');box.className='leave';box.setAttribute('role','dialog');box.setAttribute('aria-label','Leave game?');
   box.innerHTML='<div class="leavecard"><div class="leaveq">Leave game?</div><div class="leaverow"><button type="button" class="btn" id="leavey">Yes</button><button type="button" class="btn ghost" id="leaven">No</button></div></div>';
   appEl.appendChild(box);
-  $('#leavey').onclick=()=>{box.remove();clearTimers();setLights(null);G.pending=null;G.clue=null;G.skipped=null;intro()};
+  $('#leavey').onclick=()=>{box.remove();clearTimers();setPaused(false);setLights(null);G.pending=null;G.clue=null;G.skipped=null;intro()};
   $('#leaven').onclick=()=>box.remove();
 }
 
@@ -167,7 +252,7 @@ if(window.visualViewport){visualViewport.addEventListener('resize',syncVV);visua
 
 /* ---------- intro ---------- */
 function intro(){
-  clearTimers();setState('intro');setLights(null);hud.classList.add('hide');
+  clearTimers();setPaused(false);setState('intro');setLights(null);hud.classList.add('hide');
   const played=readPlayed();
   const fmt=e=>new Date(e.aired+'T12:00:00').toLocaleDateString('en-US',{month:'short',day:'numeric'});
   const seasons=[...new Set(CATALOG.map(e=>e.season))].sort((a,b)=>b-a);
@@ -269,6 +354,7 @@ function choose(){
   return {clue:pool[pool.length-1],jump};
 }
 function skipRound(){
+  if(G.paused)return;
   if(G.round!=='J'&&G.round!=='DJ')return;
   const from=G.round;clearTimers();setLights(null);G.pending=null;G.clue=null;
   if(document.activeElement&&document.activeElement.blur)document.activeElement.blur();
@@ -276,6 +362,7 @@ function skipRound(){
   from==='J'?startRound('DJ'):finalIntro();
 }
 function fastForward(){
+  if(G.paused)return;
   if(G.state==='board'){clearTimers();pickNext()}
   else if(G.state==='picking'||G.state==='ddsplash'){clearTimers();const f=G.pending;G.pending=null;f&&f()}
 }
@@ -324,6 +411,7 @@ function openBuzzers(){
   });
 }
 function buzz(){
+  if(G.paused)return;
   const now=performance.now();
   if(G.state==='reading'){
     if(now<G.lockedUntil)return;
@@ -355,6 +443,7 @@ function askAnswer(c,o){
   G.submitAnswer=submit;
 }
 function skipClue(){
+  if(G.paused)return;
   if(G.state!=='reading'&&G.state!=='open')return;
   clearTimers();setState('nobuzz');setLights(null);
   finishClue(G.clue,null,'skip');
@@ -591,21 +680,27 @@ function endScreen(){
 document.addEventListener('keydown',e=>{
   const st=G.state,age=performance.now()-G.stateAt;
   const inField=e.target&&e.target.tagName==='INPUT';
-  if((st==='reading'||st==='open')&&(e.code==='Space'||e.key===' ')){e.preventDefault();if(!e.repeat)buzz();return}
+  const isP=e.key==='p'||e.key==='P';
+  const isSpace=e.code==='Space'||e.key===' ';
+  const spaceBusy=(st==='reading'||st==='open'||st==='intro'||st==='result'||st==='roundend'||(st==='finalwager'&&!$('#wg')));
+  if(!e.repeat&&canTypePause(e)&&(isP||(isSpace&&(G.paused||!spaceBusy)))){e.preventDefault();togglePause();return}
+  if(G.paused){if(isSpace||e.key==='Enter'||e.key==='s'||e.key==='S'||e.key==='Escape')e.preventDefault();return}
+  if((st==='reading'||st==='open')&&isSpace){e.preventDefault();if(!e.repeat)buzz();return}
   if((st==='reading'||st==='open')&&(e.key==='s'||e.key==='S'||e.key==='Escape')){e.preventDefault();skipClue();return}
   if(inField)return;
-  if(e.key==='Enter'||e.code==='Space'){
+  if(e.key==='Enter'||isSpace){
     if(st==='intro'){e.preventDefault();$('#go').click()}
     else if(st==='result'&&age>500){e.preventDefault();nextAfterResult()}
     else if(st==='roundend'&&age>400){e.preventDefault();$('#cont').click()}
     else if(st==='finalwager'&&!$('#wg')&&age>400){e.preventDefault();$('#cont').click()}
   }
 });
-stage.addEventListener('pointerdown',e=>{ if(AC&&AC.state==='suspended')AC.resume() });
+stage.addEventListener('pointerdown',e=>{ if(G.paused)return; if(AC&&AC.state==='suspended')AC.resume() });
 
 /* ---------- debug autoplay (?auto=1[&fast=1]) : plays the whole show by itself ---------- */
 if(AUTO){
   setInterval(()=>{
+    if(G.paused)return;
     const st=G.state,age=performance.now()-G.stateAt;
     if(st==='intro')$('#go').click();
     else if(st==='open'&&age>80)buzz();
@@ -622,6 +717,6 @@ if(AUTO){
     else if(st==='roundend'&&age>600)$('#cont').click();
   },200);
 }
-window.__G=G;window.__startRound=startRound;window.__loadShow=loadShow;window.__savePlayed=savePlayed;window.__readPlayed=readPlayed;
+window.__G=G;window.__startRound=startRound;window.__loadShow=loadShow;window.__savePlayed=savePlayed;window.__readPlayed=readPlayed;window.__setPaused=setPaused;window.__togglePause=togglePause;window.__clearTimers=clearTimers;
 intro();
 })();

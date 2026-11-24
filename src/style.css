@@ -4,7 +4,7 @@ html,body{margin:0;height:100%;background:#000;color:#fff;overflow:hidden;oversc
 body{font-family:'Oswald','Arial Narrow',sans-serif;font-weight:500;user-select:none;-webkit-user-select:none}
 #app{position:fixed;left:0;right:0;top:0;height:100%;display:flex;flex-direction:column;background:radial-gradient(ellipse at 50% 35%,#1219ff 0%,var(--blue) 45%,var(--blue-d) 100%);padding:env(safe-area-inset-top) env(safe-area-inset-right) env(safe-area-inset-bottom) env(safe-area-inset-left)}
 #stage{padding-top:max(env(safe-area-inset-top),0px);flex:1;min-height:0;position:relative;display:flex;flex-direction:column}
-#hud{flex:none;display:flex;justify-content:center;align-items:center;gap:3vmin;padding:.8vmin 2vmin max(2vmin,env(safe-area-inset-bottom));position:relative}
+#hud{flex:none;display:flex;justify-content:center;align-items:center;gap:3vmin;padding:.8vmin 2vmin max(2vmin,env(safe-area-inset-bottom));position:relative;z-index:16}
 #mute{position:absolute;right:2vmin;top:50%;transform:translateY(-50%);background:none;border:0;font-size:max(18px,3.4vmin);opacity:.6;cursor:pointer;padding:1vmin}
 #hud.hide{display:none}
 .scorebox{background:linear-gradient(#0a10ff,#0207a8);border:.5vmin solid #000;outline:.35vmin solid #6a70ff;border-radius:.5vmin;min-width:26vmin;padding:.2vmin 2vmin;text-align:center;font-family:Anton,Impact,sans-serif;font-size:max(20px,4.6vmin);letter-spacing:.04em;line-height:1.15;text-shadow:.25vmin .25vmin 0 #000}
@@ -329,3 +329,13 @@ body:not([data-st=board]):not([data-st=picking]):not([data-st=ddsplash]) #ff{vis
   .sbar{width:min(150vmin,94vw)}
 }
 @media (max-height:700px){.panel.intro .ep{padding:max(6px,0.9vmin) max(10px,1.6vmin)!important}.panel.intro .logo{font-size:min(11vw,8vh)}}
+
+/* pause: button sits beside the score, mirrored slot keeps the score centered */
+#hud .hudmid{display:flex;align-items:center;justify-content:center;gap:max(8px,1.4vmin);position:relative;z-index:1}
+#hud .hudmid .ic-slot{width:var(--ic);height:var(--ic);flex:none}
+#hud #pause.on{opacity:1;background:rgba(255,255,255,.16)}
+.pauseov{position:absolute;left:0;right:0;top:0;bottom:0;z-index:15;display:flex;align-items:center;justify-content:center;background:rgba(2,6,40,.58);cursor:pointer;-webkit-tap-highlight-color:transparent}
+.pauseov[hidden]{display:none!important}
+.pauseov.quiet{background:transparent;pointer-events:none}
+.pauseov .pauselabel{font-family:Anton,Impact,sans-serif;font-size:min(16vw,18vh);letter-spacing:.1em;text-transform:uppercase;color:#fff;text-shadow:.6vmin .7vmin 0 #000;pointer-events:none}
+body[data-paused="1"] #stage{filter:brightness(.62)}
