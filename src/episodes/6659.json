@@ -1,0 +1,992 @@
+{
+ "show": "#8220",
+ "aired": "2020-05-22",
+ "note": "",
+ "contestants": [
+  {
+   "name": "Charles Cato",
+   "bio": "a management consultant from Philadelphia, Pennsylvania",
+   "short": "Charles"
+  },
+  {
+   "name": "Morgan Wilbanks",
+   "bio": "a physician from Wauwatosa, Wisconsin",
+   "short": "Morgan"
+  },
+  {
+   "name": "Shawn Buell",
+   "bio": "a civil engineer from Zachary, Louisiana (whose 1-day cash winnings total $24,801)",
+   "short": "Shawn"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Shawn": 11000,
+   "Morgan": 2600,
+   "Charles": 3000
+  },
+  "DJ": {
+   "Shawn": 10200,
+   "Morgan": 21400,
+   "Charles": 8200
+  },
+  "Final": {
+   "Shawn": 3999,
+   "Morgan": 21400,
+   "Charles": 16200
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "YEARBOOK PHOTOS OF PEOPLE IN GOVERNMENT",
+    "WORLD FACTS",
+    "MAGAZINES",
+    "TV",
+    "I'D RATHER HAVE",
+    "A \"BOTTLE\" IN FRONT OF ME"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 9,
+     "q": "Even in high school, it was clear he'd join his dad's business, the U.S. Navy; he also served 30-plus years in the Senate",
+     "a": "(John) McCain",
+     "right": [
+      "Shawn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 16,
+     "q": "Chinese has more than a billion speakers, with this form being the most common",
+     "a": "Mandarin",
+     "right": [
+      "Shawn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 30,
+     "q": "Topps Magazine (1990-1993) was a quarterly devoted to collecting these",
+     "a": "baseball cards",
+     "right": [
+      "Shawn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 29,
+     "q": "Since the year 2000, this rapper has played \"SVU\" detective Fin Tutuola",
+     "a": "Ice-T",
+     "right": [
+      "Charles"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 28,
+     "q": "Instead of any current politician, I'd have lunch with this 16th president & hear about frontier life",
+     "a": "Lincoln",
+     "right": [
+      "Charles"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "Found worldwide in temperate seas, it's the most widely recognized species of dolphin",
+     "a": "a bottlenose dolphin",
+     "right": [
+      "Morgan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 13,
+     "q": "This future vice president got a good Catholic education at Delaware's Archmere Academy, class of 1961",
+     "a": "Joe Biden",
+     "right": [
+      "Morgan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 17,
+     "q": "This lake in the Cascade Mountains is the deepest lake in the United States",
+     "a": "Crater Lake",
+     "right": [
+      "Shawn"
+     ],
+     "wrong": [
+      "Morgan"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 26,
+     "q": "Dr. Hook & the Medicine show had a hit song about wanting to be on the cover of this music magazine",
+     "a": "Rolling Stone",
+     "right": [
+      "Shawn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 25,
+     "q": "In 2020 he was back as Jean-Luc Picard; engage!",
+     "a": "Sir Patrick Stewart",
+     "right": [
+      "Shawn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "Instead of a fancy restaurant meal, I'd rather have a backyard cookout serving up grilled these, like brats & chorizos",
+     "a": "sausages",
+     "right": [
+      "Shawn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 4,
+     "q": "It's a place where a road is narrow or blocked, causing traffic to move much more slowly",
+     "a": "a bottleneck",
+     "right": [
+      "Morgan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 10,
+     "q": "Here's this Brooklyn-born legal eagle years before joining the Supremes",
+     "a": "(Ruth Bader) Ginsburg",
+     "right": [
+      "Shawn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": true,
+     "order": 18,
+     "q": "The Bass Strait separates this smallest state of Australia from the mainland",
+     "a": "Tasmania",
+     "right": [
+      "Shawn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 3000
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 24,
+     "q": "On its list of fictional billionaires, this magazine estimated Superman nemesis Lex Luthor's wealth at $10.1 billion",
+     "a": "Forbes",
+     "right": [
+      "Morgan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 2,
+     "q": "Wolf Blitzer is in this CNN title place weekdays from 5 to 7 P.M. eastern",
+     "a": "The Situation Room",
+     "right": [
+      "Morgan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 21,
+     "q": "For a good guard dog, I'd pick from the AKC's list of them that includes the Doberman one of these, but not the miniature one",
+     "a": "A Pinscher",
+     "right": [
+      "Shawn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 5,
+     "q": "Dr. Spock advises about this practice, \"sterilize carefully... germs thrive on milk, just the way babies do\"",
+     "a": "*bottle feeding (**using a bottle to feed your baby)",
+     "right": [
+      "Morgan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 11,
+     "q": "This senator, originally from Alabama but serving Kentucky, overcame childhood polio",
+     "a": "Mitch McConnell",
+     "right": [
+      "Shawn"
+     ],
+     "wrong": [
+      "Morgan"
+     ],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 19,
+     "q": "Named for a Germanic people, this peninsula forms the continental part of Denmark",
+     "a": "Jutland",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 14,
+     "q": "From 1956 to 1963, Joan Didion worked her way up to an associate feature editor position for this women's fashion magazine",
+     "a": "Vogue",
+     "right": [
+      "Shawn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 3,
+     "q": "Nat Geo has this \"ursine\" guy \"Running Wild\"",
+     "a": "Bear Grylls",
+     "right": [
+      "Shawn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 22,
+     "q": "I'd rather see this epic 1962 movie biography set in the desert in a theater at 70mm projection than on a cell phone",
+     "a": "Lawrence of Arabia",
+     "right": [
+      "Charles"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 6,
+     "q": "This 1890s invention by William Painter was called a \"crown cork\" & resembled a monarch's crown",
+     "a": "a bottle cap",
+     "right": [
+      "Charles"
+     ],
+     "wrong": [
+      "Shawn"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 12,
+     "q": "When this Kentucky man was in high school, his dad was in Congress; nice bow tie, senator",
+     "a": "(Rand) Paul",
+     "right": [
+      "Charles"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 20,
+     "q": "The word \"The\" is officially part of the name of this tiny African country, highlighted on the map",
+     "a": "The Gambia",
+     "right": [
+      "Charles"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 15,
+     "q": "In her book \"Save Me the Plums\", Ruth Reichl recounts her days as editor in chief of this fancy food magazine that ceased to be in 2009",
+     "a": "Gourmet",
+     "right": [
+      "Shawn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 8,
+     "q": "Keri Russell was nominated for 3 straight Emmys playing spy on this FX drama",
+     "a": "The Americans",
+     "right": [
+      "Shawn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 23,
+     "q": "Instead of a beer, I'd rather have this French wine that Food & Wine Mag calls \"the world's most popular white\"",
+     "a": "chardonnay",
+     "right": [
+      "Morgan"
+     ],
+     "wrong": [
+      "Charles"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 7,
+     "q": "This shrub takes it name from the cleaning implement its flowers resemble",
+     "a": "a bottlebrush",
+     "right": [
+      "Shawn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "BROADWAY MUSICALS' OPENING NUMBERS",
+    "GRAPHIC NOVELS",
+    "PHYSICS",
+    "ON THE MONEY",
+    "A 1970s YEAR",
+    "THAT WORD IS QUITE A CHARACTER"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 30,
+     "q": "Sung by Prince Eric & his sailors: \"Fathoms Below\"",
+     "a": "The Little Mermaid",
+     "right": [
+      "Morgan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 29,
+     "q": "\"Usagi Yojimbo\" is an epic tale of a rabbit one of these feudal warriors",
+     "a": "a samurai",
+     "right": [
+      "Charles"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 28,
+     "q": "Einstein formed 2 theories of relativity: general relativity & this one",
+     "a": "the special",
+     "right": [
+      "Shawn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 11,
+     "q": "Above \"one\" on the back of the $1 bill is this 4-word phrase",
+     "a": "In God we trust",
+     "right": [
+      "Shawn"
+     ],
+     "wrong": [
+      "Morgan"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 13,
+     "q": "Edwin Moses wins gold in world record time as the Summer Olympics are held in Montreal",
+     "a": "'76",
+     "right": [
+      "Morgan"
+     ],
+     "wrong": [
+      "Charles"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 22,
+     "q": "A form of Dolores, this name is now associated with \"nymphet\" thanks to Nabokov",
+     "a": "Lolita",
+     "right": [
+      "Charles"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 27,
+     "q": "\"Oh, What A Beautiful Mornin\"'",
+     "a": "Oklahoma!",
+     "right": [
+      "Charles"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 18,
+     "q": "In Brian K. Vaughan's graphic novel \"Y: The Last Man\", the \"Y\" stands for one of these, as most of the guys have dropped dead",
+     "a": "a chromosome",
+     "right": [
+      "Morgan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 26,
+     "q": "In chemistry, it's the decomposition of organic matter; in physics, it's radioactive disintegration",
+     "a": "decay",
+     "right": [
+      "Shawn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 7,
+     "q": "The $10 bill features this hippest of treasury secretaries",
+     "a": "Hamilton",
+     "right": [
+      "Charles"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 12,
+     "q": "Following impeachment hearings, President Richard Nixon resigns",
+     "a": "1974",
+     "right": [],
+     "wrong": [
+      "Shawn",
+      "Charles"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 17,
+     "q": "This adjective based on a Cervantes character includes a hard \"X\" sound, unlike his name",
+     "a": "quixotic",
+     "right": [
+      "Morgan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": true,
+     "order": 20,
+     "q": "\"Food, Glorious Food\"",
+     "a": "Oliver!",
+     "right": [
+      "Morgan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 5000
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 2,
+     "q": "Nite Owl was one of these title crimefighters in an Alan Moore graphic novel, later a movie",
+     "a": "Watchmen",
+     "right": [
+      "Morgan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": true,
+     "order": 15,
+     "q": "From the Greek for \"heat\" & \"power\", it's the branch of physics dealing with the flow of heat & energy",
+     "a": "thermodynamics",
+     "right": [
+      "Morgan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 6600
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 10,
+     "q": "The back of the $2 bill shows John Turnbull's painting of this document's presentation to Congress",
+     "a": "the Declaration of Independence",
+     "right": [],
+     "wrong": [
+      "Shawn",
+      "Morgan",
+      "Charles"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 25,
+     "q": "Atari's Pong is created & the last man walks on the Moon",
+     "a": "1972",
+     "right": [],
+     "wrong": [
+      "Shawn"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 16,
+     "q": "This character played by Anne Bancroft is now a term for an older woman dating a younger man",
+     "a": "Mrs. Robinson",
+     "right": [
+      "Morgan"
+     ],
+     "wrong": [
+      "Shawn"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 19,
+     "q": "\"Comedy Tonight\"",
+     "a": "A Funny Thing Happened on the Way to the Forum",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 1,
+     "q": "The March trilogy about his experiences during the civil rights era, was co-written by this current congressman",
+     "a": "John Lewis",
+     "right": [
+      "Charles"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 4,
+     "q": "(Sarah of the Clue Crew presents by a display monitor.) After you safely drop an object off a building, when the downward force of gravity equals the upward force of air resistance, the falling object reaches a maximum speed, known by this two-word term",
+     "a": "terminal velocity",
+     "right": [
+      "Charles"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 9,
+     "q": "A Washington, D.C. structure dedicated in 1922 is on the back of this bill",
+     "a": "the $5 bill",
+     "right": [],
+     "wrong": [
+      "Morgan"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 24,
+     "q": "An Islamic revolution overthrows the Shah of Iran, who flees to Egypt",
+     "a": "1979",
+     "right": [
+      "Shawn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 5,
+     "q": "This alliterative \"SNL\" character is a term for a habitually negative person",
+     "a": "Debbie Downer",
+     "right": [
+      "Morgan"
+     ],
+     "wrong": [
+      "Shawn"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 21,
+     "q": "Based on a French play & set mostly at a drag club: \"We Are What We Are\"",
+     "a": "La Cage aux Folles",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 3,
+     "q": "Not the Spider-Man villain of the same name, this subject of Neil Gaiman's graphic novels is Morpheus, lord of the dreaming",
+     "a": "Sandman",
+     "right": [
+      "Morgan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 6,
+     "q": "Ci is the symbol of this unit of radioactivity named for a victim of it",
+     "a": "curies",
+     "right": [
+      "Shawn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 8,
+     "q": "The president first elected in 1868 has his face on this bill",
+     "a": "the $50",
+     "right": [
+      "Charles"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 23,
+     "q": "Not only does Elvis Presley die, but so do Groucho Marx, & Gummo too",
+     "a": "1977",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 14,
+     "q": "This Woody Allen character became a word for a chameleon-like person who turns up everywhere",
+     "a": "Zelig",
+     "right": [
+      "Morgan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "IVY LEAGUE GEOGRAPHY",
+  "q": "This state borders 3 other states with Ivy League schools, but doesn't have one itself",
+  "a": "Vermont",
+  "right": [
+   "Charles"
+  ],
+  "wrong": [
+   "Shawn",
+   "Morgan"
+  ]
+ },
+ "gameId": "6659"
+}

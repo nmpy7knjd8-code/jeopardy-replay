@@ -1,0 +1,973 @@
+{
+ "show": "#8647",
+ "aired": "2022-05-24",
+ "note": "Ryan Long game 8.",
+ "contestants": [
+  {
+   "name": "Bonnie Kistler",
+   "bio": "a novelist from Sarasota, Florida",
+   "short": "Bonnie"
+  },
+  {
+   "name": "Eric Pérez",
+   "bio": "an order management specialist from Shallow Lake, Ontario, Canada",
+   "short": "Eric"
+  },
+  {
+   "name": "Ryan Long",
+   "bio": "a rideshare driver from Philadelphia, Pennsylvania (whose 7-day cash winnings total $145,201)",
+   "short": "Ryan"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Ryan": 3600,
+   "Eric": 2200,
+   "Bonnie": 3600
+  },
+  "DJ": {
+   "Ryan": 15200,
+   "Eric": 5800,
+   "Bonnie": 7600
+  },
+  "Final": {
+   "Ryan": 15200,
+   "Eric": 11598,
+   "Bonnie": 0
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "WATER UNDER THE BRIDGE",
+    "SPORTS SHORTS",
+    "RIPPED FROM THE HEADLINES",
+    "ASIAN AMERICANS & PACIFIC ISLANDERS",
+    "WARTIME U.S. PRESIDENTS",
+    "Xs, THEN Os"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 6,
+     "q": "This river flows under the Arlington Memorial Bridge",
+     "a": "the Potomac",
+     "right": [
+      "Bonnie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 19,
+     "q": "\"The Stilt\" was this 7-footer's rhyming nickname",
+     "a": "Wilt Chamberlain",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 10,
+     "q": "These animals \"Lose Their Jobs as Milk Prices Drop\"",
+     "a": "cows",
+     "right": [
+      "Eric"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 29,
+     "q": "The first Asian-American Olympic medalist, Vicki Draves was also the first female to win gold in platform & springboard this",
+     "a": "diving",
+     "right": [
+      "Bonnie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 12,
+     "q": "As president-elect, Eisenhower said, \"Small attacks on small hills would not end this war\" that ended months later",
+     "a": "the Korean War",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 5,
+     "q": "\"Black tie preferred\" usually means this garment for men",
+     "a": "a tuxedo",
+     "right": [
+      "Eric"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 9,
+     "q": "In this U.S. state the Mackinac Bridge spans the straits of the same name",
+     "a": "Michigan",
+     "right": [
+      "Bonnie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 20,
+     "q": "The Atlanta Dream & Los Angeles Sparks play in this league",
+     "a": "the WNBA",
+     "right": [
+      "Eric"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 7,
+     "q": "\"Marijuana Issue Sent to\" this \"Committee\", generally composed of members of both houses of a legislature",
+     "a": "joint committee",
+     "right": [],
+     "wrong": [
+      "Ryan"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 13,
+     "q": "The late poet & professor Haunani-Kay Trask was a leader of the movement seeking sovereignty for this state",
+     "a": "Hawaii",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 26,
+     "q": "George H.W. Bush assembled a multinational coalition to win this war, but it didn't help him at reelection time",
+     "a": "the Gulf War",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "This synonym for dictionary can also refer to a specialized vocabulary for a field of study",
+     "a": "a lexicon",
+     "right": [
+      "Bonnie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 11,
+     "q": "The bridge & train seen here are crossing this Thai river made famous by a 1952 novel & a 1957 movie",
+     "a": "the River Kwai",
+     "right": [
+      "Bonnie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 21,
+     "q": "This Ram runneth over the Bengals' secondary to be MVP of Super Bowl LVI",
+     "a": "Cooper Kupp",
+     "right": [],
+     "wrong": [
+      "Ryan"
+     ],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 8,
+     "q": "Hips don't lie, nor does this singer, who \"says 'People Were Just Watching' & didn't help when wild boars robbed her in Barcelona\"",
+     "a": "Shakira",
+     "right": [
+      "Eric"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 14,
+     "q": "Joe Hayashi & Sadao Munemori are among the 21 Japanese Americans who earned this decoration for valor during World War II",
+     "a": "the Medal of Honor",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": true,
+     "order": 27,
+     "q": "In the final days of the Vietnam War, he ordered the airlift of more than 200,000 refugees, most of whom were brought to the USA",
+     "a": "Gerald Ford",
+     "right": [],
+     "wrong": [
+      "Ryan"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2000
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 2,
+     "q": "Flash lamps are one use for this noble gas",
+     "a": "xenon",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 17,
+     "q": "Venezuela's Angostura Bridge crosses this vital river",
+     "a": "the Orinoco",
+     "right": [
+      "Eric"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 22,
+     "q": "This team's retired numbers include Stan Musial's 6 & Bob Gibson's 45",
+     "a": "the St. Louis Cardinals",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 24,
+     "q": "\"California\" these birds \"Are Very Rare, But 10% of Them Are Trashing\" a house in Tehachapi",
+     "a": "condors",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 15,
+     "q": "Of Filipino ancestry, Nicole Scherzinger recorded the classic Filipino ballad \"Pangako\" in this language",
+     "a": "Tagalog",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 28,
+     "q": "During his administration, the Spanish-American War led to Guam, Puerto Rico & the Philippines being ceded to the U.S.",
+     "a": "(William) McKinley",
+     "right": [
+      "Bonnie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 3,
+     "q": "Nuts & bolt heads are commonly made in this shape because it's easy to tighten & loosen",
+     "a": "a hexagon",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 18,
+     "q": "Germany's Magdeburg Water Bridge helps boats cross this river that begins & ends with the same vowel",
+     "a": "the Elbe River",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 23,
+     "q": "He took gold with a powerhouse free skate at the 2022 Winter Olympics",
+     "a": "Nathan Chen",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 25,
+     "q": "\"Thanks to a Glitch, Some Seattle Mazda Drivers Can't Tune Their Radios Away From\" NPR, so at 7 A.M., it's this show or nothing",
+     "a": "Morning Edition",
+     "right": [],
+     "wrong": [
+      "Bonnie"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 16,
+     "q": "Terribly wounded while piloting an army helicopter in Iraq, she landed safely in the U.S. Senate, representing Illinois",
+     "a": "Tammy Duckworth",
+     "right": [
+      "Bonnie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 30,
+     "q": "The War of 1812 was called this president's war",
+     "a": "(James) Madison",
+     "right": [
+      "Bonnie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 4,
+     "q": "Also known as a postulate, it's a proposition regarded as established or self-evidently true",
+     "a": "an axiom",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "LITERATURE",
+    "NEWS PERSONALITIES PAST & PRESENT",
+    "U.S. GEOGRAPHIC HISTORY",
+    "MED. ABBREV.",
+    "WE DO TALK ABOUT BRUNO",
+    "YES, YES, YES"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "This round table wit's poem \"love song\" says, \"My own dear love, he is all my heart,--and I wish somebody'd shoot him\"",
+     "a": "Dorothy Parker",
+     "right": [
+      "Bonnie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 8,
+     "q": "Lester Holt has helped this network with the Olympics & the \"Nightly News\"",
+     "a": "NBC",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 18,
+     "q": "Despite the slogan \"54-40 or\" do this, in 1846 the U.S. settled for 49-00 as the northern border of the Oregon Territory",
+     "a": "fight",
+     "right": [],
+     "wrong": [
+      "Ryan",
+      "Bonnie"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 22,
+     "q": "I.V. means this, how some shots are given",
+     "a": "intravenous",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 3,
+     "q": "Saint Bruno the Great, Archbishop of Cologne in the 10th century, was co-regent of this, abbreviated HRE",
+     "a": "the Holy Roman Empire",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 16,
+     "q": "If you answer with a big this, a word derived from Hebrew that means \"so be it\", you truly agree, & not just on Sundays",
+     "a": "amen",
+     "right": [
+      "Bonnie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 10,
+     "q": "This Thomas Hardy title character is described as \"a fine and picturesque country girl\"",
+     "a": "Tess of the d'Urbervilles",
+     "right": [
+      "Bonnie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 9,
+     "q": "Seen here, she's interviewed everyone, from Tony Blair to Muammar al-Gaddafi",
+     "a": "(Christiane) Amanpour",
+     "right": [
+      "Eric"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 19,
+     "q": "This waterway completed in 1825 helped connect the urban East to the newly settled lands of what was then the West",
+     "a": "the Erie Canal",
+     "right": [
+      "Bonnie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 23,
+     "q": "CT\ncan stand for this, a cancer treatment",
+     "a": "chemotherapy",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 4,
+     "q": "He was an Elvis impersonator at age 4 in Hawaii",
+     "a": "Bruno Mars",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 13,
+     "q": "A group of hip kids might tell you yes with this 5-letter slang, or be referring to the bags they carry",
+     "a": "totes",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": true,
+     "order": 11,
+     "q": "This Shakespeare character says, \"When I was about thy years, Hal, I was not an eagle's talon in the waist\"",
+     "a": "(Sir John) Falstaff",
+     "right": [
+      "Bonnie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1200
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 25,
+     "q": "A press secretary for Pres. George W. Bush, she's a Fox anchor & hosts a book club for Fox Nation",
+     "a": "Dana Perino",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 20,
+     "q": "When the U.S. annexed this republic in 1845, it added about 390,000 square miles to the nation's territory",
+     "a": "the Republic of Texas",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 24,
+     "q": "CVA stands for this \"accident\", a medical term for a stroke",
+     "a": "a cerebrovascular accident",
+     "right": [
+      "Eric"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 5,
+     "q": "In 1934 Bruno Pontecorvo became the youngest member of this countryman's nuclear physics team",
+     "a": "(Enrico) Fermi",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 14,
+     "q": "Often a begrudging yes, this word also can refer to a penalty that needs to be paid",
+     "a": "fine",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 12,
+     "q": "\"Cat's Cradle\" by this author begins with a chapter called \"The Day the World Ended\" & goes on from there",
+     "a": "(Kurt) Vonnegut",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 26,
+     "q": "Now on CNBC, this man seen here had an early stint covering stories on \"A Current Affair\"",
+     "a": "Shepard Smith",
+     "right": [],
+     "wrong": [
+      "Bonnie"
+     ],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 21,
+     "q": "Reflecting the name of Istanbul's harbor, c. 1846 the strait connecting this U.S. bay to the ocean was dubbed \"Chrysopylae\"",
+     "a": "the San Francisco Bay",
+     "right": [],
+     "wrong": [
+      "Ryan"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2000
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 28,
+     "q": "A bone marrow transplant may lead to GVHD, this disease of incompatibility",
+     "a": "graft-versus-host disease",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 6,
+     "q": "\"Sylvie and Bruno\" was a dreamy 1889 children's book by this Brit who was comfortable with fantasy worlds",
+     "a": "Lewis Carroll",
+     "right": [],
+     "wrong": [
+      "Ryan",
+      "Bonnie"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 15,
+     "q": "This word found before \"action\" in the name of a social remedy can also be used to say \"yes\"",
+     "a": "affirmative",
+     "right": [
+      "Eric"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 2,
+     "q": "This Jonathan Swift title \"suggestion\" prevented \"the children of poor people from being a burthen to their parents\"",
+     "a": "A Modest Proposal",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 27,
+     "q": "With Fred Friendly, he had a radio broadcast called \"Hear It Now\", which became \"See It Now\" on television",
+     "a": "Edward R. Murrow",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 30,
+     "q": "A 1787 land ordinance set policy & was named for this large region acquired in the Revolutionary War",
+     "a": "the Northwest Territory",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 29,
+     "q": "An ENT might perform a T&A, these 2 surgeries at one time",
+     "a": "a tonsillectomy & adenoidectomy",
+     "right": [
+      "Bonnie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 7,
+     "q": "H. Norman Schwarzkopf Sr. testified about handwriting specimens at the 1935 trial of this accused kidnapper",
+     "a": "(Bruno) Hauptmann",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 17,
+     "q": "Beginning with an \"I\", this 11-letter word for an enthusiastic yes undoubtedly is related to the word \"doubt\"",
+     "a": "indubitably",
+     "right": [
+      "Bonnie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "THE MIDDLE AGES",
+  "q": "It was the surname of the 2 Scottish brothers who claimed monarchies of 2 different countries in the 13-teens",
+  "a": "Bruce",
+  "right": [
+   "Eric"
+  ],
+  "wrong": [
+   "Bonnie",
+   "Ryan"
+  ]
+ },
+ "gameId": "7364"
+}

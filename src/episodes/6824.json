@@ -1,0 +1,971 @@
+{
+ "show": "#8239",
+ "aired": "2020-09-17",
+ "note": "",
+ "contestants": [
+  {
+   "name": "Beth Gunter",
+   "bio": "an attorney from Los Angeles, California",
+   "short": "Beth"
+  },
+  {
+   "name": "Joe Velasco",
+   "bio": "a student from La Mirada, California",
+   "short": "Joe"
+  },
+  {
+   "name": "David Ferrara",
+   "bio": "a Realtor from Los Angeles, California (whose 1-day cash winnings total $4,977)",
+   "short": "David"
+  }
+ ],
+ "scores": {
+  "J": {
+   "David": 5000,
+   "Joe": 4200,
+   "Beth": 7400
+  },
+  "DJ": {
+   "David": 7600,
+   "Joe": 14600,
+   "Beth": 14200
+  },
+  "Final": {
+   "David": 15200,
+   "Joe": 20100,
+   "Beth": 1201
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "A SHRUBBERY!",
+    "WORD WORDS",
+    "DAILY READING",
+    "U.S. SENATOR RHYME TIME",
+    "AREN'T YOU...",
+    "DISCOUNT CEOs?"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "Honk if you know the name of this avian berry that grows on shrubs all over Europe & the United States",
+     "a": "a gooseberry",
+     "right": [
+      "Joe"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 6,
+     "q": "Add \"Y\" to the kind of clock with hands & numbers to get this type of comparison",
+     "a": "analogy",
+     "right": [
+      "Beth"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 11,
+     "q": "\"Black Sunday\" by Thomas Harris sees terrorists plot a deadly attack using a blimp on this ultimate sporting event",
+     "a": "the Super Bowl",
+     "right": [
+      "David"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 15,
+     "q": "McConnell's curveballs",
+     "a": "Mitch's pitches",
+     "right": [
+      "David"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 13,
+     "q": "This Harry Potter actor once signed a photo of Elijah Wood, \"I am not Elijah Wood\"",
+     "a": "(Daniel) Radcliffe",
+     "right": [
+      "Joe"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 20,
+     "q": "On Nov. 2, 2006 John Mackey, CEO of this grocery chain aka \"Whole Paycheck\", told employees he was giving up almost all of his salary",
+     "a": "Whole Foods",
+     "right": [
+      "Joe"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "Shrubs are woody plants with non-dominant stems, & a super-dense one can be called this, the surname of 2 presidents",
+     "a": "a bush",
+     "right": [
+      "Joe"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 7,
+     "q": "An idioticon is a dictionary of this \"D\" word, a form of a language spoken in a particular region",
+     "a": "a dialect",
+     "right": [
+      "Beth"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 12,
+     "q": "Mary Rodgers wrote this novel, later a Disney film, about a mother & daughter who magically switch places",
+     "a": "Freaky Friday",
+     "right": [
+      "Joe"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 19,
+     "q": "Booker's anecdotes",
+     "a": "Cory's stories",
+     "right": [
+      "Joe"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 14,
+     "q": "Actress Isla Fisher once put this \"Arrival\" actress' face on her holiday card & said no one noticed",
+     "a": "(Amy) Adams",
+     "right": [
+      "Joe"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 21,
+     "q": "Mark Zuckerberg asked Facebook for this salary in 2013, making him the lowest-paid guy there",
+     "a": "$1",
+     "right": [
+      "David"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 3,
+     "q": "Both Doc Holliday & a certain animated hound are fans of this fruit-bearing shrub",
+     "a": "a huckleberry",
+     "right": [
+      "David"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 8,
+     "q": "To talk without preparation is to ad-lib or to speak this \"sleeve-oriented\" way",
+     "a": "off the cuff",
+     "right": [
+      "Beth"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 16,
+     "q": "A 1958 novel (later an Albert Finney film) about a worker whose only pleasure is weekend blowouts is called this \"& Sunday Morning\"",
+     "a": "Saturday Night",
+     "right": [
+      "David"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 28,
+     "q": "Cruz' prescription pills",
+     "a": "Ted's meds",
+     "right": [
+      "Joe"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 25,
+     "q": "Actor Jeffrey Dean Morgan said the New York Post mistook him for this Oscar-winning Spanish actor",
+     "a": "(Javier) Bardem",
+     "right": [
+      "Joe"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 22,
+     "q": "This CEO of Tesla used to earn a salary representative of California's minimum wage, yet he never took a dime of it",
+     "a": "Elon Musk",
+     "right": [
+      "Beth"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 4,
+     "q": "The leaves of a small shrub produce this 5-letter dye that is widely used in temporary tattoos",
+     "a": "henna",
+     "right": [
+      "Beth"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 9,
+     "q": "It's a dramatic monologue or speech made to oneself",
+     "a": "a soliloquy",
+     "right": [
+      "Joe"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 17,
+     "q": "A youngster wakes up to find everything out of place in \"Wacky Wednesday\" by this author writing under the name Theo LeSieg",
+     "a": "Dr. Seuss",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "Independent Angus' violin section",
+     "a": "King's strings",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 26,
+     "q": "Jesse Eisenberg once said he was getting mistaken for this \"Arrested Development\" actor about once a day",
+     "a": "Michael Cera",
+     "right": [
+      "Beth"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": true,
+     "order": 23,
+     "q": "Jack Dorsey, CEO of this credit card processing giant, gets a $2.75 yearly salary, 2.75 being the percentage charged per swipe",
+     "a": "Square",
+     "right": [
+      "Beth"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true,
+     "ddWager": 2000
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 5,
+     "q": "Fats Waller put this sweet shrubbery word in front of \"Rose\" in one of his most famous songs",
+     "a": "honeysuckle",
+     "right": [
+      "David"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 10,
+     "q": "Lapsus linguae is literally Latin for this kind of mistake",
+     "a": "a slip of the tongue",
+     "right": [
+      "David"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 18,
+     "q": "This 1973 Kurt Vonnegut novel about depressed car dealer Dwayne Hoover is subtitled \"or Goodbye Blue Monday!\"",
+     "a": "Breakfast of Champions",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 30,
+     "q": "Sherrod's new teeth",
+     "a": "Brown's crowns",
+     "right": [
+      "Beth"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 27,
+     "q": "Though this sitcom actress sings in the duo She & Him, she's not crazy about being taken for Katy Perry",
+     "a": "Zooey Deschanel",
+     "right": [
+      "Beth"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 24,
+     "q": "When Meg Whitman took over as CEO of this hyphenated tech giant, she couldn't buy coffee with her salary; she did okay with stocks, though",
+     "a": "Hewlett-Packard",
+     "right": [
+      "David"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "FAMOUS NAMES",
+    "SCIENCE & NATURE",
+    "ONE-LETTER GEOGRAPHY",
+    "FILM COMPOSITION",
+    "THE 18th CENTURY",
+    "STARTS & ENDS WITH \"E\""
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 19,
+     "q": "A guide book called \"Adventures in Good Eating\" recommended the food at his Kentucky motel & changed his fortunes",
+     "a": "Colonel Sanders",
+     "right": [
+      "David"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 18,
+     "q": "The giant variety of this, Tridacna gigas, is the largest living bivalve mollusk & can grow to 4 feet across & 500 pounds",
+     "a": "a clam",
+     "right": [
+      "David"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 12,
+     "q": "Due west of its capital Salem, this state's D River is billed as the world's shortest at 120 feet",
+     "a": "Oregon",
+     "right": [
+      "David"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 4,
+     "q": "Piotr Adamczyk played this Polish composer in a 2002 film",
+     "a": "Chopin",
+     "right": [
+      "David"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 9,
+     "q": "In 1717 the first \"Grand Lodge\" of this secret society was founded",
+     "a": "the Masons (Freemasons)",
+     "right": [
+      "Beth"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "This word borrowed from the French can mean \"access\" as well as \"main course\"",
+     "a": "entrée",
+     "right": [
+      "David"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 20,
+     "q": "Sean Parker co-founded this music file-sharing service that debuted in 1999",
+     "a": "Napster",
+     "right": [
+      "Beth"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": true,
+     "order": 14,
+     "q": "Aside from the Sun & the Moon, this is the brightest natural object in the night sky",
+     "a": "Venus",
+     "right": [
+      "Joe"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2000
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 13,
+     "q": "You'll find the region called \"U\" in Pohnpei, one of the Federated States of this multi-island Pacific nation",
+     "a": "Micronesia",
+     "right": [
+      "Joe"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 5,
+     "q": "Ringo Starr was the pope & Roger Daltrey played the lead in a 1975 film called this Hungarian -\"omania\"",
+     "a": "Liszt",
+     "right": [
+      "David"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 26,
+     "q": "In 1783 she annexed the Crimean Peninsula & it became Russian territory",
+     "a": "Catherine the Great",
+     "right": [
+      "Joe"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 1,
+     "q": "It often means a lavish country residence, but in Britain can also mean a housing development",
+     "a": "an estate",
+     "right": [
+      "David"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 21,
+     "q": "Jonathan Larson created this show based on \"La Boheme\" that revived the rock musical genre in the 1990s",
+     "a": "Rent",
+     "right": [
+      "Joe"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 15,
+     "q": "After sulfur is removed, this has no odor; mercaptan is added to it so that leaks can be detected",
+     "a": "natural gas",
+     "right": [
+      "Joe"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 22,
+     "q": "Sweden, Denmark & Norway all have villages with the \"ring\" type of this vowel for a name",
+     "a": "A",
+     "right": [],
+     "wrong": [
+      "Joe"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": true,
+     "order": 6,
+     "q": "1938 & 1972 films both called \"The Great Waltz\" focus on this composer",
+     "a": "Johann Strauss",
+     "right": [],
+     "wrong": [
+      "David"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 7400
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 25,
+     "q": "In 1732 James Oglethorpe secured a royal charter to establish what became this colony",
+     "a": "Georgia",
+     "right": [
+      "David"
+     ],
+     "wrong": [
+      "Joe"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 3,
+     "q": "Synonym for a posse--a rapper's or an actor's, not a sheriff's",
+     "a": "an entourage",
+     "right": [
+      "Joe"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 29,
+     "q": "In 1935, the year before his Olympic heroics, this track star broke 3 world records & tied a 4th within 45 minutes",
+     "a": "Jesse Owens",
+     "right": [
+      "David"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 16,
+     "q": "Studying flares & the corona, in 2019 U.K. astronomers determined that this field is 10 times stronger than previously thought",
+     "a": "the Sun's magnetic field",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 23,
+     "q": "This French village exists at the junction of 3 roads, hence its one-letter name",
+     "a": "Y",
+     "right": [
+      "Beth"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 7,
+     "q": "Iosif Pasternak wrote & directed the documentary \"The Pathetique\" about this composer",
+     "a": "Tchaikovsky",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 27,
+     "q": "This Alpine German-speaking principality was created in 1719 & is still here today",
+     "a": "Liechtenstein",
+     "right": [
+      "Joe"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 10,
+     "q": "This word for a perfect example doesn't rhyme with \"home\"",
+     "a": "epitome",
+     "right": [
+      "David"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 30,
+     "q": "-ian added to the last name of this 3-named economist refers to his theories promoting government spending & stimulus",
+     "a": "(John Maynard) Keynes",
+     "right": [
+      "Beth"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 17,
+     "q": "(Sarah of the Clue Crew shows a monarch butterfly on the monitor.) Butterflies emerge as adults not from a cocoon but from one of these structures whose name is from the Greek for \"gold\"",
+     "a": "a chrysalis",
+     "right": [
+      "Joe"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 24,
+     "q": "Mount E on this island is at the entrance to the Tsugaru Strait, across which lies Honshu",
+     "a": "Hokkaido",
+     "right": [
+      "Joe"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 8,
+     "q": "\"Bride of the Wind\" (a Gustav wind?) found Jonathan Pryce playing this symphonist",
+     "a": "Mahler",
+     "right": [
+      "David"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 28,
+     "q": "In 1789 this Scotsman left from Lake Athabasca to explore the 1,100 miles of the Canadian river named for him",
+     "a": "the Mackenzie",
+     "right": [
+      "Beth"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 11,
+     "q": "This 9-letter word is a less common synonym for \"former\"",
+     "a": "erstwhile",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "20th CENTURY ARTISTS",
+  "q": "\"Los Tres Grandes\" were José Clemente Orozco, David Alfaro Siqueiros & him",
+  "a": "Diego Rivera",
+  "right": [
+   "David",
+   "Joe"
+  ],
+  "wrong": [
+   "Beth"
+  ]
+ },
+ "gameId": "6824"
+}
