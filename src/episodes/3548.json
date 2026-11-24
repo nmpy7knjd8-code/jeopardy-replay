@@ -1,0 +1,978 @@
+{
+ "show": "#6061",
+ "aired": "2011-01-10",
+ "note": "",
+ "contestants": [
+  {
+   "name": "Margaret Murphy",
+   "bio": "an assistant housing manager from Davenport, Iowa",
+   "short": "Margaret"
+  },
+  {
+   "name": "Michael Rose",
+   "bio": "a labor relations journalist from Washington, D.C.",
+   "short": "Michael"
+  },
+  {
+   "name": "Dan Jensen",
+   "bio": "a restaurant manager from Reston, Virginia (whose 2-day cash winnings total $40,202)",
+   "short": "Dan"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Dan": 4000,
+   "Michael": 4600,
+   "Margaret": 2200
+  },
+  "DJ": {
+   "Dan": 16800,
+   "Michael": 9000,
+   "Margaret": 4200
+  },
+  "Final": {
+   "Dan": 18001,
+   "Michael": 15599,
+   "Margaret": 5400
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "ITALIAN ART & ARTISTS",
+    "I'M YOUR LOCAL SPORTS GUY",
+    "CONDIMENTIA",
+    "LAUNDRY DETERGENT",
+    "HOLIDAYS & OBSERVANCES",
+    "THE \"CAR\" POOL"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "Begun in 1503, it's been called \"the most famous portrait in art history\"",
+     "a": "the Mona Lisa",
+     "right": [
+      "Dan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 6,
+     "q": "Whether I reported on Carlos Santana (the catcher, not the guitarist) or a pre-Heat-ed LeBron, I loved it at this city's WEWS",
+     "a": "Cleveland",
+     "right": [
+      "Michael"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 7,
+     "q": "This word once referred to a mushroom puree more often than to the familiar tomato version",
+     "a": "catsup",
+     "right": [
+      "Dan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 26,
+     "q": "Gladness, or a shout of encouragement",
+     "a": "Cheer",
+     "right": [
+      "Margaret"
+     ],
+     "wrong": [
+      "Dan"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 18,
+     "q": "On March 2 Texas celebrates its independence from this country",
+     "a": "Mexico",
+     "right": [
+      "Dan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 13,
+     "q": "Lions & tigers & bears, oh, my, are all this type of mammal--they eat meat",
+     "a": "carnivorous",
+     "right": [
+      "Michael"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "Michelangelo's scenes on the Sistine Chapel ceiling include this pair's \"temptation and expulsion\"",
+     "a": "Adam & Eve",
+     "right": [
+      "Dan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 8,
+     "q": "At Dallas' KTVT, I was all over this QB's 2009 breakup with Jessica Simpson",
+     "a": "Tony Romo",
+     "right": [
+      "Dan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 12,
+     "q": "Made from the seeds of a flowering plant, Plochman's & Gulden's are types of this",
+     "a": "mustard",
+     "right": [
+      "Dan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "3-letter adjective for the Beatles",
+     "a": "Fab",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 19,
+     "q": "Quebec's Fete Nationale is June 24, the feast day of this herald of Jesus",
+     "a": "St. John the Baptist (St. Jean Baptiste)",
+     "right": [],
+     "wrong": [
+      "Dan"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 14,
+     "q": "It's what Kelly is doing here",
+     "a": "cartwheel",
+     "right": [
+      "Dan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 3,
+     "q": "(Sarah of the Clue Crew shows a painting.) In a painting by Piero della Francesca, as Jesus is being baptized you see a dove descend upon him, representing this part of the trinity",
+     "a": "the Holy Spirit",
+     "right": [
+      "Michael"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 9,
+     "q": "I was at New York City's WABC in 1977 when this ever-quotable man said that he was \"the straw that stirs the drink\" for the Yankees",
+     "a": "Reggie Jackson",
+     "right": [
+      "Dan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 23,
+     "q": "Wilbur Scoville developed a test to gauge the perceived potency of these, found in condiments",
+     "a": "hot peppers (chili peppers)",
+     "right": [
+      "Michael"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 28,
+     "q": "3-letter word meaning \"the whole of\"",
+     "a": "All",
+     "right": [
+      "Michael"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 20,
+     "q": "In 2008 this holiday began \"late\", sundown on Dec. 21; how come no one said, \"Christmas is early this year\"?",
+     "a": "Hanukkah",
+     "right": [
+      "Michael"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": true,
+     "order": 15,
+     "q": "The Panteo Nacional in this city is the final resting place of Simon Bolivar",
+     "a": "Caracas",
+     "right": [],
+     "wrong": [
+      "Dan"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 4200
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 4,
+     "q": "In his \"Purgatorio\", this poet mentions that painter Giotto di Bondone \"is all the rage today\"",
+     "a": "Dante",
+     "right": [
+      "Dan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 10,
+     "q": "Though WLS-TV did not exist, I covered Babe Ruth's called shot in the 1932 series in this park's \"friendly confines\"; I'm old",
+     "a": "Wrigley Field",
+     "right": [
+      "Dan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 24,
+     "q": "In Kashmir, locals enjoy a type of this relish made with walnuts, yogurt & pomegranate seeds",
+     "a": "chutney",
+     "right": [
+      "Michael"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "Ebb or neap, for example",
+     "a": "Tide",
+     "right": [
+      "Dan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 21,
+     "q": "Administrative professionals day was originally called this day, for the person who filed & took dictation",
+     "a": "Secretary's Day",
+     "right": [
+      "Dan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 16,
+     "q": "It's No. 6 on the periodic table",
+     "a": "carbon",
+     "right": [
+      "Dan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 5,
+     "q": "(Kelly of the Clue Crew shows a painting.) Caravaggio's gypsy woman isn't just holding the man's hand, she's reading his palm, giving the painting this title",
+     "a": "The Fortune Teller",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 11,
+     "q": "Covering this player for Detroit's WDIV was an adventure",
+     "a": "Dennis Rodman",
+     "right": [
+      "Michael"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 25,
+     "q": "Sure, salsa verde has jalapenos & cilantro, but most of the \"verde\" comes from these",
+     "a": "tomatillos",
+     "right": [
+      "Margaret"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 30,
+     "q": "Philip III, king of France 1270-1285, was nicknamed this, another word for \"brazen\"",
+     "a": "Bold",
+     "right": [
+      "Dan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 22,
+     "q": "This holiday is also called La Fheile Padraig",
+     "a": "St. Patrick's Day",
+     "right": [
+      "Dan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 17,
+     "q": "14-letter adjective meaning pertaining to the heart & blood vessels",
+     "a": "cardiovascular",
+     "right": [
+      "Margaret"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "MONUMENTS & MEMORIALS",
+    "PLAYING HIMSELF",
+    "SCENE OF THE CRIME",
+    "THOSE ANIMALS FRIGHTEN ME!",
+    "A RIVER RUNS BETWEEN THEM",
+    "6-SYLLABLE WORDS"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "The National Vietnam Veteran's Art Museum in Chicago displays 58,000 of these identifiers in memory of those killed",
+     "a": "dogtags",
+     "right": [
+      "Dan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 16,
+     "q": "In \"The Man with Two Brains\", this creator of \"Jeopardy!\" played himself (& turned out to be \"the elevator killer\")",
+     "a": "Merv Griffin",
+     "right": [
+      "Michael"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 21,
+     "q": "On Jan. 17, 1950 robbers made off with $2.7 mil. from the Brinks Building near this city's Charlestown bridge",
+     "a": "Boston",
+     "right": [
+      "Michael"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 11,
+     "q": "Taurophobia",
+     "a": "bulls",
+     "right": [
+      "Dan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "France & Germany",
+     "a": "the Rhine",
+     "right": [
+      "Michael"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 26,
+     "q": "Grolier is an online one",
+     "a": "an encyclopedia",
+     "right": [
+      "Michael"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 5,
+     "q": "A white marble museum commemorating Queen Victoria stands in Kolkata in this country",
+     "a": "India",
+     "right": [
+      "Dan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 17,
+     "q": "On \"Arrested Development\", this man seen here played himself & four identical brothers with different personalities",
+     "a": "Andy Richter",
+     "right": [
+      "Dan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 22,
+     "q": "JFK was shot as his motorcade passed through this outdoor plaza, \"the front door of Dallas\"",
+     "a": "Dealey Plaza",
+     "right": [
+      "Michael"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 12,
+     "q": "Herpetophobia",
+     "a": "reptiles (or snakes)",
+     "right": [
+      "Dan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 3,
+     "q": "Thailand & Laos",
+     "a": "the Mekong",
+     "right": [
+      "Michael"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 27,
+     "q": "Legerdemain or sleight of hand",
+     "a": "prestidigitation",
+     "right": [
+      "Michael"
+     ],
+     "wrong": [
+      "Dan"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 6,
+     "q": "The Scottish National Monument, started in 1826 and still unfinished, is modeled on this ancient building",
+     "a": "the Parthenon",
+     "right": [
+      "Dan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 18,
+     "q": "This game show host landed 8 straight hard jabs before a right cross sent Happy Gilmore into a water hazard",
+     "a": "Bob Barker",
+     "right": [
+      "Michael"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 23,
+     "q": "$1 billion was stolen from this city's central bank March 18, 2003, shortly before U.S. bombing began",
+     "a": "Baghdad",
+     "right": [
+      "Michael"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": true,
+     "order": 13,
+     "q": "Hippophobia (don't say hippos)",
+     "a": "horses",
+     "right": [
+      "Dan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2000
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 4,
+     "q": "Poland & Germany",
+     "a": "the Oder",
+     "right": [],
+     "wrong": [
+      "Michael"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 28,
+     "q": "From the Latin for \"cannot grasp\" comes this word meaning \"impossible to understand\"",
+     "a": "incomprehensible",
+     "right": [
+      "Michael"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 7,
+     "q": "Following a name change, Taiwan's Democracy Memorial Hall once again bears this leader's name",
+     "a": "Chiang Kai-Shek",
+     "right": [
+      "Michael"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 19,
+     "q": "The movie could've been called \"Being Steven Seagal\" if this actor hadn't said yes to Spike Jonze for the 1999 film",
+     "a": "John Malkovich",
+     "right": [
+      "Michael"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 24,
+     "q": "The final conviction in the 1963 bombing of this city's 16th St. Baptist Church didn't come for nearly 40 years",
+     "a": "Birmingham",
+     "right": [],
+     "wrong": [
+      "Michael"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 14,
+     "q": "Vermiphobia",
+     "a": "worms",
+     "right": [
+      "Dan"
+     ],
+     "wrong": [
+      "Michael"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 9,
+     "q": "Venezuela & Colombia",
+     "a": "the Orinoco",
+     "right": [
+      "Dan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 29,
+     "q": "In 2006 the U.S. Army & the Marine Corps released a new field manual for this word, dealing with rebellion",
+     "a": "counterinsurgency",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 8,
+     "q": "The statue here commemorates Colonel Seth Warner's role at the Battle of Bennington during this war",
+     "a": "the Revolutionary War",
+     "right": [
+      "Michael"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 20,
+     "q": "As the 2008 film was called \"JCVD\", it would've been hard for anyone but this Belgian to play the title role",
+     "a": "Jean Claude van Damme",
+     "right": [
+      "Margaret"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 25,
+     "q": "An assassin fired 2 shots into William McKinley at the 1901 Pan-American Exposition in this city",
+     "a": "Buffalo",
+     "right": [
+      "Dan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 15,
+     "q": "Ailurophobia",
+     "a": "cats",
+     "right": [
+      "Dan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 10,
+     "q": "China & North Korea",
+     "a": "the Yalu River",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": true,
+     "order": 30,
+     "q": "Meaning \"before the flood\", this word refers to something or someone very old",
+     "a": "antediluvian",
+     "right": [],
+     "wrong": [
+      "Michael"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 4000
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "SYMBOLS",
+  "q": "One tale of its origin says that the blind seer Tiresias separated 2 snakes with his staff",
+  "a": "the caduceus",
+  "right": [
+   "Margaret",
+   "Michael",
+   "Dan"
+  ],
+  "wrong": []
+ },
+ "gameId": "3548"
+}

@@ -1,0 +1,979 @@
+{
+ "show": "#5832",
+ "aired": "2010-01-12",
+ "note": "Jason Zollinger game 1.",
+ "contestants": [
+  {
+   "name": "Jason Zollinger",
+   "bio": "an engine assembler from South Dayton, New York",
+   "short": "Jason"
+  },
+  {
+   "name": "Jennie Burroughs",
+   "bio": "a college librarian from Missoula, Montana",
+   "short": "Jennie"
+  },
+  {
+   "name": "Mariann Cook Andrews",
+   "bio": "an outreach specialist from Tumwater, Washington (whose 1-day cash winnings total $23,400)",
+   "short": "Mariann"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Mariann": 6400,
+   "Jennie": 3000,
+   "Jason": 5000
+  },
+  "DJ": {
+   "Mariann": 7600,
+   "Jennie": 13400,
+   "Jason": 24400
+  },
+  "Final": {
+   "Mariann": 15100,
+   "Jennie": 26400,
+   "Jason": 26801
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "FAMOUS SHAMUS",
+    "OBSCURE JANUARY HOLIDAYS & OBSERVANCES",
+    "THE WORLD OF POLITICS",
+    "ON THE MONEY",
+    "UNREAL ESTATE",
+    "MAKE A \"DOWN\" PAYMENT"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 12,
+     "q": "This 19th century character was known for his pipe smoking, violin playing & even cocaine use",
+     "a": "Sherlock Holmes",
+     "right": [
+      "Mariann"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 17,
+     "q": "January 4 is the national day to toss this type of dense Christmas goodie made with dried raisins, nuts & other stuff",
+     "a": "fruitcake",
+     "right": [
+      "Mariann"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 23,
+     "q": "Hamid Karzai became the first elected president of this Central Asian country in 2004",
+     "a": "Afghanistan",
+     "right": [
+      "Mariann"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 11,
+     "q": "The current $2 bill features him on the front",
+     "a": "Jefferson",
+     "right": [
+      "Jennie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "Bedford Falls is the setting of this classic 1946 Christmas film",
+     "a": "It's a Wonderful Life",
+     "right": [
+      "Mariann"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 6,
+     "q": "6 points on the gridiron",
+     "a": "a touchdown",
+     "right": [
+      "Jennie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 13,
+     "q": "You can find this Mickey Spillane tough guy in \"The Big Kill\" & \"My Gun Is Quick\"",
+     "a": "Mike Hammer",
+     "right": [
+      "Jennie"
+     ],
+     "wrong": [
+      "Mariann"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 18,
+     "q": "Call your friends: January 20 is national awareness day for these Antarctic birds",
+     "a": "penguins",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 24,
+     "q": "After being jailed for 28 years, he was elected president of South Africa in 1994",
+     "a": "Nelson Mandela",
+     "right": [
+      "Jennie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 19,
+     "q": "This building had to appear on a note--it's on the back of the $10 bill",
+     "a": "the U.S. Treasury",
+     "right": [
+      "Mariann"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "2-word name of the imaginary hometown of radio host Garrison Keillor, who grew up in Anoka, Minnesota",
+     "a": "Lake Wobegon",
+     "right": [
+      "Jennie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 7,
+     "q": "Street where you'll find Prime Minister Gordon Brown at home",
+     "a": "Downing",
+     "right": [
+      "Mariann"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 14,
+     "q": "\"G\" is for this bestselling novelist who came on the (crime) scene in 1982 with a female detective",
+     "a": "Sue Grafton",
+     "right": [
+      "Mariann"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 20,
+     "q": "January 17 doesn't come soon enough, as it's the designated day to ditch these annual promises made 2 1/2 weeks before",
+     "a": "New Year's resolutions",
+     "right": [
+      "Mariann"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 25,
+     "q": "Morgan Tsvangirai is an opposition leader in this troubled African country",
+     "a": "Zimbabwe",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 26,
+     "q": "This man with a strong military background gazes out from the front of the $50 bill",
+     "a": "(Ulysses) Grant",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 3,
+     "q": "Harper Lee grew up in Monroeville, Alabama & set this novel in the similar-but-made-up town of Maycomb",
+     "a": "To Kill a Mockingbird",
+     "right": [
+      "Mariann"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 8,
+     "q": "To transfer a file or program from the Internet to your home computer",
+     "a": "download",
+     "right": [
+      "Jennie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 15,
+     "q": "This elderly Englishwoman was in 1930's \"The Murder at the Vicarage\" & 1971's \"Nemesis\"",
+     "a": "Miss Marple",
+     "right": [
+      "Jennie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 21,
+     "q": "Mmmmmmmmmm, January 23 is a chance to show off your baking skills as it's the day for this; shoofly, anyone?",
+     "a": "pie",
+     "right": [
+      "Mariann"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "Raised in Mexico City, this New Mexico governor was the U.S. ambassador to the U.N. in 1999",
+     "a": "(Bill) Richardson",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": true,
+     "order": 27,
+     "q": "This Pennsylvania building graces the reverse of the $100 bill",
+     "a": "Independence Hall",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2600
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 4,
+     "q": "Gopher Prairie is the imaginary setting of this Sinclair Lewis novel",
+     "a": "Main Street",
+     "right": [
+      "Mariann"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 9,
+     "q": "A hostile face-to-face confrontation, like a gunfight at high noon in the Old West",
+     "a": "a showdown",
+     "right": [
+      "Mariann"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 16,
+     "q": "Robert B. Parker introduced this one-named P.I. in 1974's \"The Godwulf Manuscript\"",
+     "a": "Spenser",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 22,
+     "q": "On January 28 all of us can celebrate the day for this humming noisemaker invented in the 1840s",
+     "a": "a kazoo",
+     "right": [
+      "Mariann"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 30,
+     "q": "Michelle Bachelet is the first female elected leader of this South American country",
+     "a": "Chile",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 28,
+     "q": "The back of the $1 bill has the Latin phrases Annuit coeptis & Novus ordo seclorum, both from this Roman epic poet",
+     "a": "Virgil",
+     "right": [],
+     "wrong": [
+      "Jennie",
+      "Jason"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 5,
+     "q": "Bearing a close resemblance to William Randolph Hearst's San Simeon, it's Citizen Kane's mansion",
+     "a": "Xanadu",
+     "right": [
+      "Jennie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 10,
+     "q": "Yeehaw! It's a boisterous social gathering featuring square dancing",
+     "a": "a hoedown",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "FAMOUS AMOS",
+    "THE NATIONAL GALLERY OF ART",
+    "COLORS ON THE MAP",
+    "DRINK SOME \"T\"",
+    "IWO JIMA",
+    "SUPERLATIVES"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 21,
+     "q": "Samuel L. Jackson & Nicolas Cage team up in this 1993 comedy whose title plays off the \"Amos 'n' Andy\" radio series",
+     "a": "Amos & Andrew",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "Use your common sense & name this patriot in a portrait owned by the National Gallery",
+     "a": "Thomas Paine",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 8,
+     "q": "In Baden-Wurttemberg, Germany:\nThe ____ Forest",
+     "a": "Black",
+     "right": [
+      "Mariann"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 20,
+     "q": "Mexican law says that this must be made with at least 51% blue agave",
+     "a": "tequila",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "The American amphibious assault on Iwo Jima began on Feb. 19 of this year",
+     "a": "1945",
+     "right": [
+      "Mariann"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 13,
+     "q": "Exhibition shooter Bob Munden calls himself this phrase \"who ever lived\" (not \"in the West\")",
+     "a": "the fastest gun",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 23,
+     "q": "This singer/songwriter's albums include \"Under the Pink\" & \"Strange Little Girls\"",
+     "a": "Tori Amos",
+     "right": [
+      "Jennie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 4,
+     "q": "The National Gallery has a Rubens of this Old Testament prophet in the lions' den",
+     "a": "Daniel",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 9,
+     "q": "In a Wyoming national park:\n____stone Lake",
+     "a": "Yellow",
+     "right": [
+      "Jennie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 22,
+     "q": "It's the non-potent beverage in a Bloody Mary",
+     "a": "tomato juice",
+     "right": [
+      "Mariann"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 3,
+     "q": "The intense fighting at Iwo Jima involved the 4th & 5th divisions of this U.S. Armed Forces branch",
+     "a": "the Marines",
+     "right": [
+      "Mariann"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 14,
+     "q": "Someone slow-witted is said to be \"not\" this kitchen item \"in the drawer\"",
+     "a": "the sharpest knife",
+     "right": [
+      "Jennie"
+     ],
+     "wrong": [
+      "Jason"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 27,
+     "q": "On TV he played \"Good Times\" patriarch James Evans, killed off in an accident",
+     "a": "John Amos",
+     "right": [
+      "Mariann"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 15,
+     "q": "As seen here, the father of our country was painted by this father of American portraiture",
+     "a": "(Gilbert) Stuart",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [
+      "Mariann"
+     ],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 10,
+     "q": "In the Bay of Naples:\nThe ____ Grotto",
+     "a": "Blue",
+     "right": [
+      "Jennie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 24,
+     "q": "It's carbonated water that contains quinine & is often flavored with fruit",
+     "a": "tonic water",
+     "right": [
+      "Mariann"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": true,
+     "order": 5,
+     "q": "On Nov. 10, 1954 a bronze monument to the battle of Iwo Jima was dedicated at this location",
+     "a": "Arlington National Cemetery",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 6200
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 16,
+     "q": "(Kelly of the Clue Crew rubs her thumb and forefinger together.) You want me to feel sorry for you? Instead, I'm doing this",
+     "a": "playing the world's smallest violin",
+     "right": [
+      "Jennie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 28,
+     "q": "Legendary & innovative football coach who lived to be 102",
+     "a": "Amos Alonzo Stagg",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 17,
+     "q": "The National Gallery has several works by this American, including his seascape \"Breezing Up (A Fair Wind)\"",
+     "a": "(Winslow) Homer",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 11,
+     "q": "A suburb of D.C.:\n____ Spring, Maryland",
+     "a": "Silver",
+     "right": [
+      "Mariann"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 25,
+     "q": "A guy with this last name began distilling London dry gin in 1830",
+     "a": "Tanqueray",
+     "right": [
+      "Jennie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 6,
+     "q": "The iconic flag-raising photo was taken on this Iwo Jima mount",
+     "a": "Suribachi",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 18,
+     "q": "Something that panders to low, popular taste is said to appeal to this 3-word phrase used in adding fractions",
+     "a": "the lowest common denominator",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 4000
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 29,
+     "q": "The original \"Famous Amos\", he was a talent agent at William Morris before launching his cookie empire",
+     "a": "Wally Amos",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 30,
+     "q": "This British landscape painter financed his wedding with the painting seen here--note all the clouds",
+     "a": "John Constable",
+     "right": [],
+     "wrong": [
+      "Mariann"
+     ],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 12,
+     "q": "An inlet of Lake Superior:\n____fish Bay",
+     "a": "White",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 26,
+     "q": "This rum-based Jamaican liqueur gets its flavor from Blue Mountain coffee",
+     "a": "Tia Maria",
+     "right": [
+      "Jennie"
+     ],
+     "wrong": [
+      "Mariann"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 7,
+     "q": "Johnny Cash had a hit song about this Native American soldier who gained fame at Iwo Jima",
+     "a": "Ira Hayes",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 19,
+     "q": "The \"Survival Handbook\" for this \"Scenario\" includes what to do if your parachute doesn't open",
+     "a": "Worst-Case",
+     "right": [
+      "Jennie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "FAMOUS WOMEN",
+  "q": "Halls of fame into which she's been inducted include the California, National Women's, National Aviation & U.S. Astronaut",
+  "a": "Sally Ride",
+  "right": [
+   "Mariann",
+   "Jennie",
+   "Jason"
+  ],
+  "wrong": []
+ },
+ "gameId": "3277"
+}
