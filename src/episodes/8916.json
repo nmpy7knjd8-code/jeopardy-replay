@@ -1,0 +1,999 @@
+{
+ "show": "#9091",
+ "aired": "2024-04-29",
+ "note": "Amy Hummel game 4.",
+ "contestants": [
+  {
+   "name": "Kirsten Lundquist",
+   "bio": "a product marketer from Burlington, Vermont",
+   "short": "Kirsten"
+  },
+  {
+   "name": "Ferdinand Percentie",
+   "bio": "a day trader from Altamonte Springs, Florida",
+   "short": "Ferdinand"
+  },
+  {
+   "name": "Amy Hummel",
+   "bio": "an ER doctor from Milwaukee, Wisconsin (whose 3-day cash winnings total $58,195)",
+   "short": "Amy"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Amy": 3400,
+   "Ferdinand": 3400,
+   "Kirsten": 0
+  },
+  "DJ": {
+   "Amy": 13800,
+   "Ferdinand": 21600,
+   "Kirsten": 800
+  },
+  "Final": {
+   "Amy": 27599,
+   "Ferdinand": 13799,
+   "Kirsten": 1600
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "LITERATURE: THE SOMETHING OF SOMETHING",
+    "COMMUNICATION",
+    "CHRONICALLY ON LINE",
+    "FUN WITH PREFIXES",
+    "GREATER THAN, LESS THAN OR EQUAL TO",
+    "DISNEY MOVIE BY LYRICS"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 25,
+     "q": "The Joad more traveled; spoiler! Grampa & Granma don't finish the trip; life ain't peachy",
+     "a": "The Grapes of Wrath",
+     "right": [
+      "Amy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 4,
+     "q": "A single dot in Braille represents this letter",
+     "a": "\"A\"",
+     "right": [
+      "Amy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 30,
+     "q": "The ice cream machine at this fast food chain was working in 1990s Russia when the 1st one there served a line of 30k people",
+     "a": "McDonald's",
+     "right": [
+      "Amy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 28,
+     "q": "As its Greek prefix suggests, ergonomics deals with injuries related to this",
+     "a": "work",
+     "right": [
+      "Amy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 24,
+     "q": "One statute mile is equal to this number of feet",
+     "a": "5,280",
+     "right": [],
+     "wrong": [
+      "Kirsten"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 27,
+     "q": "\"Be our guest, be our guest, put our service to the test\"",
+     "a": "Beauty and the Beast",
+     "right": [
+      "Ferdinand"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 14,
+     "q": "Y'know, I think that portrait's crooked; man, you look great! What's your secret?; what's Wilde is that it's Oscar's only novel",
+     "a": "The Picture of Dorian Gray",
+     "right": [
+      "Amy"
+     ],
+     "wrong": [
+      "Ferdinand"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 19,
+     "q": "The proper way to address the pope--if you ever were to meet him--is with this 2-word salutation",
+     "a": "Your Holiness",
+     "right": [],
+     "wrong": [
+      "Amy",
+      "Ferdinand",
+      "Kirsten"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 9,
+     "q": "A 2009 Florida Times-Union article said shoppers for this November day \"began camping out Wednesday night\"--Wednesday!",
+     "a": "Black Friday",
+     "right": [
+      "Amy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 29,
+     "q": "This prefix meaning \"star\" works on its own as a name for a cartoon dog or a Houston ballplayer",
+     "a": "astro",
+     "right": [
+      "Ferdinand"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 23,
+     "q": "On the pH scale anything that ranks less than 7 is considered this",
+     "a": "acidic",
+     "right": [
+      "Kirsten"
+     ],
+     "wrong": [
+      "Ferdinand"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 26,
+     "q": "\"You're welcome! For the tides, the sun, the sky... you're welcome! I'm just an ordinary demi-guy\"",
+     "a": "Moana",
+     "right": [
+      "Kirsten"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 10,
+     "q": "An island prison, an island treasure; the main guy loses his Mercédès; revenge is served extremely cold",
+     "a": "The Count of Monte Cristo",
+     "right": [
+      "Ferdinand"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 6,
+     "q": "From the Greek for \"to hear\", it's the science of sound, including its transmission & reception",
+     "a": "acoustics",
+     "right": [],
+     "wrong": [
+      "Ferdinand"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 7,
+     "q": "Watch for the costumed Elmos while waiting on line at this Times Square booth for discounts on Broadway shows",
+     "a": "the TKTS booth",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 11,
+     "q": "In front of \"structure\", this 5-letter prefix means underneath",
+     "a": "infra",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 20,
+     "q": "In geometry this type of angle is greater than 90 degrees but less than 180",
+     "a": "obtuse",
+     "right": [
+      "Ferdinand"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 16,
+     "q": "\"When hearts are high, the time will fly, so whistle while you work\" (& put those dishes in the tub, woodland animals!)",
+     "a": "Snow White",
+     "right": [
+      "Amy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 12,
+     "q": "Get your Wharton MBA; Newland Archer aims for a new romance; well, that certainly was a time &/or era",
+     "a": "The Age of Innocence",
+     "right": [
+      "Ferdinand"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 5,
+     "q": "Autocue is another name for this device used by some on-camera talent",
+     "a": "a teleprompter",
+     "right": [
+      "Amy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 8,
+     "q": "In 2012 a viral photo showed a \"conga line\" of climbers moving up the Lhotse face on this mountain",
+     "a": "Everest",
+     "right": [
+      "Ferdinand"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 3,
+     "q": "Meaning \"many\", this prefix is found in front of -amorous or -hedron",
+     "a": "poly",
+     "right": [
+      "Kirsten"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 21,
+     "q": "Introduced by Einstein in 1905, it's been called \"the most famous equation in the world\"",
+     "a": "E=mc2",
+     "right": [
+      "Ferdinand"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 1,
+     "q": "\"I'm in the mood to help you, dude, you ain't never had a friend like me\"",
+     "a": "Aladdin",
+     "right": [
+      "Amy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": true,
+     "order": 13,
+     "q": "Colorful in so many ways; Civil War is hell; Henry, don't be a hero",
+     "a": "The Red Badge of Courage",
+     "right": [
+      "Ferdinand"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1000
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 17,
+     "q": "Over 200 years old, this debating society brings lively discussion (hopefully with British manners) to Oxford University",
+     "a": "the (Oxford) Union",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 18,
+     "q": "A doorman who worked the line at this defunct disco said, \"It was inclusive of people who were of that moment in Manhattan\"",
+     "a": "Studio 54",
+     "right": [
+      "Ferdinand"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 15,
+     "q": "Meaning \"without fertilization\", this prefix is found in front of -genesis in a long scientific word",
+     "a": "partheno",
+     "right": [
+      "Amy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 22,
+     "q": "By definition negative numbers are ones that are this, also the title of a novel & film",
+     "a": "less than zero",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 2,
+     "q": "\"De Bogotá hasta palenque me fui con toda la gente\"",
+     "a": "Encanto",
+     "right": [],
+     "wrong": [
+      "Amy",
+      "Ferdinand",
+      "Kirsten"
+     ],
+     "stumper": true,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "PUT IT IN THE LOUVRE!",
+    "TELEVISION",
+    "GETTING TERRITORIAL",
+    "NAMES IN AMERICAN HISTORY",
+    "BUSINESS ANNIVERSARIES",
+    "3 CONSECUTIVE CONSONANTS"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "Not this Italian Renaissance man's most famous work in the museum, \"Saint Anne\" is in the Grande Galerie",
+     "a": "da Vinci",
+     "right": [
+      "Ferdinand"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 24,
+     "q": "It's an arranged marriage for spies Donald Glover & Maya Erskine in this series based on a 2005 film",
+     "a": "Mr. & Mrs. Smith",
+     "right": [
+      "Kirsten"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 30,
+     "q": "Officially, Puerto Rico is a U.S. this, a term also used by Massachusetts & Virginia",
+     "a": "a Commonwealth",
+     "right": [
+      "Ferdinand"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 25,
+     "q": "Brazil's emperor Pedro II was on hand when he demonstrated his telephone at the Philadelphia exhibition in 1876",
+     "a": "Bell",
+     "right": [
+      "Ferdinand"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 29,
+     "q": "Though she doesn't look it, this character is turning 50 in 2024",
+     "a": "Hello Kitty",
+     "right": [
+      "Amy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 28,
+     "q": "It's a person who fishes with a hook, line & rod",
+     "a": "an angler",
+     "right": [
+      "Kirsten"
+     ],
+     "wrong": [
+      "Amy"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 14,
+     "q": "Louvre visitors might jog over to \"The Winged Victory of Samothrace\", honoring this Greek goddess",
+     "a": "Nike",
+     "right": [
+      "Ferdinand"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 23,
+     "q": "The final season of \"The Crown\" starred her as Queen Elizabeth II",
+     "a": "Imelda Staunton",
+     "right": [
+      "Ferdinand"
+     ],
+     "wrong": [
+      "Amy"
+     ],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 26,
+     "q": "Australia's territories include this island named for a December 1643 sighting",
+     "a": "Christmas Island",
+     "right": [
+      "Ferdinand"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 15,
+     "q": "He escaped on a British ship, leaving John André to be hanged; unpopular in America & Britain, he'd die in London in 1801",
+     "a": "Benedict Arnold",
+     "right": [
+      "Amy"
+     ],
+     "wrong": [
+      "Ferdinand"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 27,
+     "q": "June 12, 1924 is the birthday of this brand; you can use it to wipe away the happy tears you shed on its 100th",
+     "a": "Kleenex",
+     "right": [
+      "Amy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 22,
+     "q": "Seen here is an Arctic fox, a denizen of this frigid, treeless plain",
+     "a": "the tundra",
+     "right": [
+      "Amy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 11,
+     "q": "16th century tastemaker Isabella d'Este commissioned \"The Combat of Love and\" this restrained virtue; but which did Isabella favor",
+     "a": "Chastity",
+     "right": [],
+     "wrong": [
+      "Amy",
+      "Ferdinand"
+     ],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 20,
+     "q": "Linda Cardellini & John Francis Daley attended William McKinley High School on this short-lived series",
+     "a": "Freaks and Geeks",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 6,
+     "q": "The space center from which the European Space Agency launches rockets is located in this overseas territory of France",
+     "a": "French Guiana",
+     "right": [
+      "Ferdinand"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 8,
+     "q": "In 1895 this Black educator said, \"We can be as separate as the fingers, yet one as the hand in all things essential to mutual progress\"",
+     "a": "Booker T. Washington",
+     "right": [
+      "Ferdinand"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 7,
+     "q": "Products released in 2024 to honor this toy's 50th include a retro one with '80s packaging & colors & a 3x3 sensory one",
+     "a": "a Rubik's Cube",
+     "right": [
+      "Amy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 21,
+     "q": "Given for severe pain, the name of this drug comes from the Greek god of dreams",
+     "a": "morphine",
+     "right": [
+      "Amy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 12,
+     "q": "A fresco featuring Venus by this 15th century Italian--not the only time he painted her--was rediscovered in 1873",
+     "a": "Botticelli",
+     "right": [
+      "Ferdinand"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 4000
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 19,
+     "q": "He played Thomas Cromwell in the TV adaptation of \"Wolf Hall\"",
+     "a": "Mark Rylance",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 9,
+     "q": "Taiwan, Vietnam, Malaysia, the Philippines & a big neighbor all claim parts of the Spratly Islands in this directional sea",
+     "a": "the South China Sea",
+     "right": [
+      "Ferdinand"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 4,
+     "q": "Starting in 1758 Francis Lightfoot Lee served in this assembly in Colonial Virginia",
+     "a": "the House of Burgesses",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 2,
+     "q": "The \"I\" in the name of this automaker that's celebrating its 125th anniversary in 2024 originally stood for Italiana",
+     "a": "FIAT",
+     "right": [
+      "Ferdinand"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 17,
+     "q": "Pink eye is another name for this condition",
+     "a": "conjunctivitis",
+     "right": [
+      "Amy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 13,
+     "q": "Watteau's portrait of this sad clown from commedia dell'arte once had the title \"Gilles\"",
+     "a": "Pierrot",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 18,
+     "q": "Lee Pace starred as a man who could bring back the dead for a little while on this series whose title is slang for being dead",
+     "a": "Pushing Daisies",
+     "right": [
+      "Amy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": true,
+     "order": 10,
+     "q": "This territory's Winston Churchill Ave. runs to its northern border; the Carretera de la Frontera is on the opposite side",
+     "a": "Gibraltar",
+     "right": [
+      "Ferdinand"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 5000
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 5,
+     "q": "Did he sell the item that is his first name in his Georgia mercantile store? No idea, but he did sign the Declaration of Independence",
+     "a": "Button Gwinnett",
+     "right": [
+      "Amy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 3,
+     "q": "This posh London department store is celebrating its 175th anniversary with a teddy bear named Henry, after its founder",
+     "a": "Harrods",
+     "right": [
+      "Amy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 16,
+     "q": "An ancient region on the Balkan Peninsula, today it's divided among Greece, Turkey & Bulgaria",
+     "a": "Thrace",
+     "right": [
+      "Ferdinand"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "NICKNAMES",
+  "q": "Surfing legend Duke Kahanamoku has been called by this 2-word nickname that describes any dominant person or expert",
+  "a": "Big Kahuna",
+  "right": [
+   "Kirsten",
+   "Amy"
+  ],
+  "wrong": [
+   "Ferdinand"
+  ]
+ },
+ "gameId": "8916",
+ "cat_notes": {
+  "J": [
+   "Clues about Literature: the Something of Something.",
+   "Clues about Communication.",
+   "Clues about Chronically on Line.",
+   "Clues about Fun with Prefixes.",
+   "Clues about Greater Than, Less Than or Equal To.",
+   "Clues about Disney Movie by Lyrics."
+  ],
+  "DJ": [
+   "The category “PUT IT IN THE LOUVRE!” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "Clues about Television.",
+   "Clues about Getting Territorial.",
+   "Clues about Names in American History.",
+   "Clues about Business Anniversaries.",
+   "Clues about 3 Consecutive Consonants."
+  ],
+  "F": "Clues about Nicknames."
+ }
+}

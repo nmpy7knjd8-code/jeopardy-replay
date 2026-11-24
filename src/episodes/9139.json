@@ -1,0 +1,990 @@
+{
+ "show": "#9286",
+ "aired": "2025-03-10",
+ "note": "Laura Faddah game 9.",
+ "contestants": [
+  {
+   "name": "Sabrina Blanks",
+   "bio": "a microcrochet artist from Rock Hill, South Carolina",
+   "short": "Sabrina"
+  },
+  {
+   "name": "Harvey Silikovitz",
+   "bio": "an attorney and worldwide karaoke singer originally from West Orange, New Jersey",
+   "short": "Harvey"
+  },
+  {
+   "name": "Laura Faddah",
+   "bio": "a manager from Memphis, Tennessee (whose 8-day cash winnings total $92,599)",
+   "short": "Laura"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Laura": 1800,
+   "Harvey": 11200,
+   "Sabrina": 1600
+  },
+  "DJ": {
+   "Laura": 11200,
+   "Harvey": 36800,
+   "Sabrina": 4400
+  },
+  "Final": {
+   "Laura": 11200,
+   "Harvey": 23600,
+   "Sabrina": 8798
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "PARTS OF THE BOOK",
+    "AROUND THE GLOBE",
+    "LIKE PULLING TEETH",
+    "BASEBALL HALL OF FAME PLAQUES",
+    "GO GREEN",
+    "3 CONSONANTS, 3 VOWELS"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 29,
+     "q": "The outside edge of a book's binding with this anatomical name can also be called its backbone or shelfback",
+     "a": "the spine",
+     "right": [
+      "Sabrina"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 27,
+     "q": "There's a buoy but no island at Null Island at zero degrees latitude & zero degrees longitude in the eastern part of this ocean",
+     "a": "the Atlantic",
+     "right": [
+      "Laura"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 15,
+     "q": "It's the part of a tooth above the gumline, or the gold cap that might go over it",
+     "a": "a crown",
+     "right": [
+      "Harvey"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 25,
+     "q": "\"Holder of more than a score of Major and American League records, including that of playing 2,130 consecutive games\"",
+     "a": "Lou Gehrig",
+     "right": [],
+     "wrong": [
+      "Harvey"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 12,
+     "q": "This Wisconsin city sits on the spot where the Fox River empties into a certain body of water",
+     "a": "Green Bay",
+     "right": [
+      "Harvey"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 23,
+     "q": "To look upon someone with approval, whether secretly or not",
+     "a": "admire",
+     "right": [
+      "Harvey"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 28,
+     "q": "Jade 403 is sold as \"bookbinding\" this adhesive; it's acid free & fast drying",
+     "a": "glue",
+     "right": [
+      "Sabrina"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 26,
+     "q": "You can indeed see orcas around Orcas Island in this Pacific Northwest sound",
+     "a": "Puget Sound",
+     "right": [
+      "Harvey"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 16,
+     "q": "Wisdom teeth are the most likely to become this, meaning unable to break through the gumline",
+     "a": "impacted",
+     "right": [
+      "Harvey"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 24,
+     "q": "\"Big Papi... took the Red Sox... to three World Series titles... eight times named top designated hitter\"",
+     "a": "David Ortiz",
+     "right": [
+      "Harvey"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 22,
+     "q": "The Vegas of yore, Gretna Green in this country was a haven for young lovers who eloped",
+     "a": "Scotland",
+     "right": [
+      "Sabrina"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 30,
+     "q": "What's on this list of things to be discussed or done?",
+     "a": "agenda",
+     "right": [
+      "Harvey"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 14,
+     "q": "The inner & empty margin of a book is named this, like a water channel on a roof",
+     "a": "a gutter",
+     "right": [
+      "Harvey"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": true,
+     "order": 2,
+     "q": "The name of this South American capital refers to a feast day honoring the Virgin Mary",
+     "a": "Asunción",
+     "right": [
+      "Harvey"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1000
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 17,
+     "q": "Which is more pleasant? Being grilled by me or undergoing this procedure also known as endodontic therapy?",
+     "a": "a root canal",
+     "right": [
+      "Harvey"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 5,
+     "q": "\"Lifetime benchmarks include 5,714 strikeouts, seven no-hitters and 12 one-hitters in 27 seasons pitched\"",
+     "a": "(Nolan) Ryan",
+     "right": [
+      "Harvey"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 21,
+     "q": "Sacré bleu! It's the 2-word French term for green beans or string beans",
+     "a": "haricots verts",
+     "right": [
+      "Laura"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 11,
+     "q": "Oui, I will have this cream-filled pastry; in fact, make it deux",
+     "a": "éclair",
+     "right": [
+      "Sabrina"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 8,
+     "q": "The oxidized reddish-brown spots on old books are named after the reddish-brown coat of this wild canine",
+     "a": "a fox",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 1,
+     "q": "I'll always treasure my climb up 11,000-foot Cerro Gordo in this great mountain system of Mexico",
+     "a": "the Sierra Madre",
+     "right": [
+      "Harvey"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 18,
+     "q": "If you need a tooth pulled, your dentist will extract it with this tool with a plural-sounding name (& no, it's not \"pliers\")",
+     "a": "forceps",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 4,
+     "q": "A beacon of serenity & stature in the dugout... led Yankees to post-season in each of his 12 seasons at the helm",
+     "a": "Torre",
+     "right": [
+      "Harvey"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 20,
+     "q": "Ethan Allen & Benedict Arnold captured Fort Ticonderoga with this group",
+     "a": "the Green Mountain Boys",
+     "right": [
+      "Harvey"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 10,
+     "q": "Something tough to understand, like an inscrutable person",
+     "a": "an enigma",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 7,
+     "q": "Dover Books' \"Medieval and Renaissance Fashion\" has \"90 full-color\" these illuminating illustrations on special paper",
+     "a": "plates",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 6,
+     "q": "Visit the Free State National Gardens on your next trip to this one of South Africa's capital cities aka \"the city of roses\"",
+     "a": "Bloemfontein",
+     "right": [
+      "Harvey"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 19,
+     "q": "This jelly-like stuff at the center of a tooth contains blood vessels, connective tissues & (ouch!) nerves",
+     "a": "the pulp",
+     "right": [
+      "Harvey"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 3,
+     "q": "\"Helped lead the Cardinals to three World Series... trademark back flip made 'The Wizard' a fan favorite\"",
+     "a": "Ozzie Smith",
+     "right": [
+      "Harvey"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 13,
+     "q": "Marilyn Nelson's poem \"Green-Thumb Boy\" celebrates this agricultural genius she calls \"the Black Mendel\"",
+     "a": "(George Washington) Carver",
+     "right": [
+      "Harvey"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 9,
+     "q": "This white radish is widely used in Asian cuisine",
+     "a": "a daikon",
+     "right": [
+      "Laura"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "PARTS OF THE BOOK",
+    "AUSTRALIAN HISTORY",
+    "A NOTE OF COMMAND",
+    "CELEBRITY MENTORS",
+    "TAKE ME TO CHURCH",
+    "MISCELLAN-\"E\""
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 24,
+     "q": "In \"The Minister's Vigil\" chapter of this book, a minister sees a meteor's streak forming a dark red \"A\" in the sky",
+     "a": "The Scarlet Letter",
+     "right": [
+      "Harvey"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 25,
+     "q": "Australia's military commitment to this conflict peaked at more than 7,000 men in 1969",
+     "a": "the Vietnam War",
+     "right": [
+      "Harvey"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 30,
+     "q": "Training your dog to do this begins with the \"lie down\" command; then comes the finger gun & \"bang!\"",
+     "a": "play dead",
+     "right": [
+      "Harvey"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 11,
+     "q": "While teaching acting at Howard University, Phylicia Rashad mentored this future \"Black Panther\"",
+     "a": "Boseman",
+     "right": [
+      "Laura"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 23,
+     "q": "The design of this country's Hallgrímskirkja was inspired by the natural landscape & some say by Thor's hammer as well",
+     "a": "Iceland",
+     "right": [
+      "Harvey"
+     ],
+     "wrong": [
+      "Sabrina"
+     ],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "The only U.S. House standing committee with the same number of members from each party is this one that polices member misconduct",
+     "a": "the Ethics Committee",
+     "right": [
+      "Laura"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": true,
+     "order": 18,
+     "q": "This 6th grader & title character says, \"I've been looking for you God. I looked in temple. I looked in church\"",
+     "a": "Margaret",
+     "right": [
+      "Harvey"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 6000
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 17,
+     "q": "The 1851 discovery of this transformed the city of Ballarat, a place that's pivotal in a Sherlock Holmes story",
+     "a": "gold",
+     "right": [
+      "Harvey"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 26,
+     "q": "Don't listen to this command when you're on the edge of a swimming pool, but do when you're a soldier told to join a formation",
+     "a": "fall in",
+     "right": [
+      "Sabrina"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 10,
+     "q": "Saoirse Ronan said of this mentor who directed her in 2 films, \"She's everything I want to be as an actor & a filmmaker\"",
+     "a": "Greta Gerwig",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 22,
+     "q": "In 1775 2 lit lanterns seen in its steeple signaled that the British were coming, & not by land but by sea",
+     "a": "the Old North Church",
+     "right": [
+      "Harvey"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "In golf, it's the term for 2 strokes under par",
+     "a": "eagle",
+     "right": [
+      "Sabrina"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 5,
+     "q": "Milkman Dead travels to Shalimar & hears a song about his great-grandfather flying in this Toni Morrison work",
+     "a": "Song of Solomon",
+     "right": [],
+     "wrong": [
+      "Laura"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 3,
+     "q": "In 1877 this westernmost state capital was finally connected to the eastern states by telegraph",
+     "a": "Perth",
+     "right": [
+      "Harvey"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 7,
+     "q": "At the Texas Motor Speedway in 2023, Jelly Roll did not hold back giving the command \"Drivers,\" do this",
+     "a": "start your engines",
+     "right": [
+      "Harvey"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 2,
+     "q": "Colin Firth said this actor who played the snide Severus Snape took Colin under his wing & offered \"personal wisdom\"",
+     "a": "Rickman",
+     "right": [
+      "Harvey"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": true,
+     "order": 12,
+     "q": "This domed cathedral on Ludgate Hill in London was one of the inspirations for the Capitol Building in Washington, D.C.",
+     "a": "St. Paul's",
+     "right": [
+      "Laura"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 3000
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 28,
+     "q": "Harvested prior to maturing, they're a yummy low-calorie snack",
+     "a": "edamame",
+     "right": [
+      "Harvey"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 6,
+     "q": "Remedios the beauty, the daughter of Arcadio, mysteriously floats up to the heavens in this 1967 novel",
+     "a": "One Hundred Years of Solitude",
+     "right": [
+      "Laura"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 4,
+     "q": "Though a 2002 attack there killed 88 Aussies, Oz still contributes 1/4 of foreign visitors to this Indonesian isle",
+     "a": "Bali",
+     "right": [
+      "Harvey"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 8,
+     "q": "Child experts emphasize positive commands, like \"use\" this for within 4 walls, not \"quit yelling before daddy gets a migraine\"",
+     "a": "your inside voice",
+     "right": [
+      "Laura"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 9,
+     "q": "Can we talk? She may have come off as harsh & mean, but to Margaret Cho, this funny lady was \"gentle and loving and warm\"",
+     "a": "Joan Rivers",
+     "right": [
+      "Sabrina"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 13,
+     "q": "This Spaniard laid the first stone for the Cathedral Basilica of Lima in 1535 & was buried there after his murder",
+     "a": "Pizarro",
+     "right": [
+      "Laura"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 21,
+     "q": "This 11-letter word refers to underfired porous pottery made from coarse-grain clay",
+     "a": "earthenware",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 16,
+     "q": "In a Henry James novella, this title American girl sends Winterbourne a \"D.M.\" & asks if he remembers their time at Chillon Castle",
+     "a": "Daisy Miller",
+     "right": [
+      "Harvey"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 15,
+     "q": "In 1797, this Spanish breed of sheep was introduced & within a few decades wool became Australia's major export",
+     "a": "Merino",
+     "right": [
+      "Harvey"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 19,
+     "q": "It's the grammatical mood suited to commands, from \"Take cover!\" to \"Kiss me!\"",
+     "a": "the imperative",
+     "right": [
+      "Harvey"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 27,
+     "q": "(Sheryl Lee Ralph presents the clue.) I got my first break & my first film role when this legend hired me to play an outspoken teen named Barbara Hanley in 1977's \"A Piece of the Action\"; he became a mentor offering encouragement & advice at the start of my career, lessons that I still carry with me",
+     "a": "Sidney Poitier",
+     "right": [
+      "Laura"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 14,
+     "q": "Legend says Ivan the Terrible had the builder of this cathedral blinded, so he'd never again build anything as beautiful",
+     "a": "St. Basil's",
+     "right": [
+      "Harvey"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 20,
+     "q": "Early Norse myth is the subject of the 13th century books called the Poetic & Prose these",
+     "a": "Eddas",
+     "right": [
+      "Harvey"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "WORLD FLAGS",
+  "q": "A dark blue square in the upper left corner of the flag of this country represents the continent of Africa",
+  "a": "Liberia",
+  "right": [
+   "Sabrina"
+  ],
+  "wrong": [
+   "Laura",
+   "Harvey"
+  ]
+ },
+ "gameId": "9139",
+ "cat_notes": {
+  "J": [
+   "Clues about Parts of the Book.",
+   "Clues about Around the Globe.",
+   "Clues about Like Pulling Teeth.",
+   "Clues about Baseball Hall of Fame Plaques.",
+   "Clues about Go Green.",
+   "That's all the letters you'll need in each response."
+  ],
+  "DJ": [
+   "Clues about Parts of the Book.",
+   "Clues about Australian History.",
+   "Clues about A Note of Command.",
+   "Clues about Celebrity Mentors.",
+   "Clues about Take Me to Church.",
+   "Each answer contains the letter “E”, and the clues are about Miscellan."
+  ],
+  "F": "Clues about World Flags."
+ }
+}

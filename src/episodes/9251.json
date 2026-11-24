@@ -1,0 +1,985 @@
+{
+ "show": "#9374",
+ "aired": "2025-07-10",
+ "note": "Scott Riccardi game 6.",
+ "contestants": [
+  {
+   "name": "Jolynda Chenicek",
+   "bio": "a teacher from Tallahassee, Florida",
+   "short": "Jolynda"
+  },
+  {
+   "name": "Austin Hobbs",
+   "bio": "a library specialist from San Angelo, Texas",
+   "short": "Austin"
+  },
+  {
+   "name": "Scott Riccardi",
+   "bio": "an engineer from Somerville, New Jersey (whose 5-day cash winnings total $144,902)",
+   "short": "Scott"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Scott": 6200,
+   "Austin": 1400,
+   "Jolynda": 2600
+  },
+  "DJ": {
+   "Scott": 6400,
+   "Austin": 2200,
+   "Jolynda": 7800
+  },
+  "Final": {
+   "Scott": 4999,
+   "Austin": 1000,
+   "Jolynda": 2799
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "THE LETTER OF THE LAW",
+    "3 \"E\"",
+    "LET'S GET LOUD",
+    "TONY",
+    "MONTANA",
+    "SAY HELLO TO MY LITTLE FRIEND"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 24,
+     "q": "C: This synonym for co-conspirator to help do something illegal, a term used in a different way in the Civil War",
+     "a": "confederate",
+     "right": [
+      "Scott"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 30,
+     "q": "A \"pet\" this of mine is when they spell my name \"Kevin\" on my takeout order",
+     "a": "peeve",
+     "right": [
+      "Jolynda"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 29,
+     "q": "Go about 761 mph in air at sea level & you'll get one of these phenomena for your trouble",
+     "a": "a sonic boom",
+     "right": [
+      "Austin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 28,
+     "q": "Before hosting a late-night talk show, this Brit won in 2012 for his role in the comedy \"One Man, Two Guvnors\"",
+     "a": "(James) Corden",
+     "right": [
+      "Scott"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 27,
+     "q": "The Univ. of Montana recognized this as the name of its sports teams in 1923; you don't want to run into the animal in the wild!",
+     "a": "a Grizzly (bear)",
+     "right": [
+      "Scott"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 26,
+     "q": "Bob Cratchit was known to cheerfully carry this character on his shoulder",
+     "a": "Tiny Tim",
+     "right": [
+      "Scott"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 23,
+     "q": "E:\nIt's also called defalcation or peculation, but either way, don't take funds entrusted to you",
+     "a": "embezzle",
+     "right": [
+      "Jolynda"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 22,
+     "q": "Assigned to a lower level; it's specifically used of soccer teams dropped to a less elite division",
+     "a": "relegated",
+     "right": [
+      "Scott"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 21,
+     "q": "Loud mating cries are characteristic of this feline with many names, including catamount & painter",
+     "a": "the mountain lion (or cougar, or panther, or puma)",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 11,
+     "q": "Brody Grant got a Tony nomination for his Broadway debut as Ponyboy in this musical based on a novel; the show won, but Brody didn't",
+     "a": "The Outsiders",
+     "right": [
+      "Scott"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 25,
+     "q": "Montana became a part of the U.S. by way of this 1803 deal",
+     "a": "the Louisiana Purchase",
+     "right": [
+      "Austin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 20,
+     "q": "In a Grimm Brothers tale, this lad's dad, a tailor, gives him a darning needle to use as a sword on his travels",
+     "a": "Tom Thumb",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 5,
+     "q": "F:\nType of accountant who investigates the money side of crimes & tells the court about it",
+     "a": "forensic",
+     "right": [
+      "Scott"
+     ],
+     "wrong": [
+      "Jolynda"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 1,
+     "q": "Tennessee Williams knew that it's a place where wild animals are kept for exhibition",
+     "a": "menagerie",
+     "right": [
+      "Scott"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 3,
+     "q": "Malicious intent through loud & unreasonable noises & fighting in public are grounds for this 3-word criminal charge",
+     "a": "disturbing the peace",
+     "right": [
+      "Scott"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 8,
+     "q": "Carol Channing created the title role of Mrs. Levi in this Broadway musical & in 1964 was greeted with a Tony for it",
+     "a": "Hello, Dolly!",
+     "right": [
+      "Scott"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 12,
+     "q": "These 2 words, the Spanish names of 2 elements, are separated by \"Y\" on Montana's state seal",
+     "a": "oro y plata",
+     "right": [
+      "Scott"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 19,
+     "q": "Known to twirl his whiskers, Reepicheep, one of these creatures in Narnia, was \"most valiant of all the talking beasts\"",
+     "a": "a mouse",
+     "right": [
+      "Austin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 6,
+     "q": "A: This objection in court is made due to opposing counsel making conclusions & inferences drawn from facts; sustained!",
+     "a": "argumentative",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 2,
+     "q": "The IRS defines these as \"either a qualifying child or a qualifying relative of the taxpayer\"",
+     "a": "dependent",
+     "right": [
+      "Jolynda"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 15,
+     "q": "George H.W. Bush marveled at John Major dealing with PMQs, short for this, with everyone \"nose to nose... yelling at each other\"",
+     "a": "prime minister questions",
+     "right": [
+      "Jolynda"
+     ],
+     "wrong": [
+      "Austin"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 9,
+     "q": "Tony voters swallowed it down, awarding Best Book of a Musical to this show based on Alanis Morissette's music",
+     "a": "Jagged Little Pill",
+     "right": [
+      "Scott"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": true,
+     "order": 13,
+     "q": "These Native American people of Montana were named for the color of their moccasins",
+     "a": "the Blackfeet",
+     "right": [],
+     "wrong": [
+      "Scott"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 3000
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 18,
+     "q": "This 1954 book features the line \"Some sort of a creature of very small size, too small to be seen by an elephant's eyes\"",
+     "a": "Horton Hears a Who!",
+     "right": [
+      "Scott"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 7,
+     "q": "S:\nFrom the Latin for \"to furnish\", it means to persuade someone to commit perjury",
+     "a": "suborn",
+     "right": [
+      "Scott"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 4,
+     "q": "From Latin for \"to grasp\", this adjective describes graspy monkey tails, elephant trunks & giraffe tongues",
+     "a": "prehensile",
+     "right": [
+      "Scott"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 16,
+     "q": "An \"earthquake in the air\", shock waves from the 1883 volcanic eruption on this island went around the globe 7 times",
+     "a": "Krakatoa",
+     "right": [
+      "Scott"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 10,
+     "q": "He took 1978's Best Choreography for, what else, \"Dancin'\"; he also won in the same category for \"Sweet Charity\" & \"Pippin\"",
+     "a": "(Bob) Fosse",
+     "right": [
+      "Jolynda"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 14,
+     "q": "Take some time & mull over the pine cone seen here from this, the state tree of Montana",
+     "a": "the ponderosa pine",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 17,
+     "q": "Éomer tells him, \"I would cut off your head, beard & all, master dwarf, if it stood but a little higher from the ground\"",
+     "a": "Gimli",
+     "right": [
+      "Austin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "IT'S A DISASTER",
+    "THE HUMAN BODY",
+    "ARCHITECTURE",
+    "U.S. ARMY CADENCES",
+    "RECENT SCI-FI FLICKS",
+    "WORDS OF WISDOM"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 24,
+     "q": "In 2012 this company pled guilty to 12 felony counts in connection with its massive oil spill in the Gulf of Mexico",
+     "a": "BP",
+     "right": [
+      "Austin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 25,
+     "q": "A roller coaster ride through the nephrons of this organ would include the loop of Henle",
+     "a": "the kidneys",
+     "right": [
+      "Austin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 23,
+     "q": "17th century French architect François Mansart lent his name to a type of this part of a building with 2 slopes on every side",
+     "a": "the roof",
+     "right": [
+      "Jolynda"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "Unit pride is strong here, son / In Fort Drum's 10th Mountain one",
+     "a": "Division",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 30,
+     "q": "She plays Chani, a blue-eyed Fremen linked to Paul Atreides in the 2020s \"Dune\" movies",
+     "a": "Zendaya",
+     "right": [
+      "Scott"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 29,
+     "q": "It's the \"I\" in DNI, a presidential advisory position created in 2004",
+     "a": "Intelligence",
+     "right": [
+      "Austin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 18,
+     "q": "In 2023 high winds & dry conditions fueled the wildfires that devastated Maui & destroyed this town, the former royal capital",
+     "a": "Lahaina",
+     "right": [],
+     "wrong": [
+      "Austin"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 16,
+     "q": "Looking directly at the Sun during an eclipse can burn this light-sensitive membrane at the back of the eye",
+     "a": "the retina",
+     "right": [
+      "Scott"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 22,
+     "q": "Meant to resemble Yosemite's Half Dome, Wilshire Grand Center in this city is the tallest building west of the Mississippi",
+     "a": "L.A.",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 26,
+     "q": "Your kid tells you what to get her / at this base store that's 2 letters",
+     "a": "the PX",
+     "right": [
+      "Jolynda"
+     ],
+     "wrong": [
+      "Austin"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 4,
+     "q": "This film franchise that began in 2018 has predators with exceptional hearing that fans call \"Death Angels\"",
+     "a": "A Quiet Place",
+     "right": [
+      "Scott"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 28,
+     "q": "Now meaning a supremely smart person, in Roman times it referred to the attendant spirit of a person or place",
+     "a": "genius",
+     "right": [
+      "Austin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 7,
+     "q": "In 2003 tragedy struck NASA again when, returning to Earth after a 17-day mission, this Space Shuttle broke apart on reentry",
+     "a": "Columbia",
+     "right": [
+      "Jolynda"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 5,
+     "q": "Humans have apocrine & eccrine these, found in the skin; the eccrine ones help regulate temperature",
+     "a": "sweat glands",
+     "right": [
+      "Austin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 6,
+     "q": "Charles Barry & A.W.N. Pugin designed Big Ben's tower in the 19th century revival of this style",
+     "a": "Gothic (Revival)",
+     "right": [
+      "Jolynda"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 21,
+     "q": "35 a year he banks / This \"base of the NCO ranks\"",
+     "a": "the corporal",
+     "right": [],
+     "wrong": [
+      "Austin"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 3,
+     "q": "For your face-hugging pleasure, try the 2024 \"Alien\" movie with this subtitle familiar from myth",
+     "a": "Romulus",
+     "right": [],
+     "wrong": [
+      "Austin"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 13,
+     "q": "This 4-letter word can mean mentally sharp or physically sharp, like a blade",
+     "a": "keen",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 8,
+     "q": "The devastating 2004 tsunami in Asia was triggered by a 9.1 seaquake off the coast of this second largest of the Sunda Islands",
+     "a": "Sumatra",
+     "right": [
+      "Scott"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 10,
+     "q": "The ball of the ball-&-socket shoulder joint is the head of this arm bone",
+     "a": "the humerus",
+     "right": [],
+     "wrong": [
+      "Scott"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 4000
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 11,
+     "q": "As part of Expo '67, Moshe Safdie designed the prefabricated Habitat '67 residential complex in this city",
+     "a": "Montreal",
+     "right": [
+      "Scott"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 20,
+     "q": "Show this tank so you & they / See it weighs more than singer Gracie",
+     "a": "Abrams",
+     "right": [
+      "Jolynda"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 1,
+     "q": "Ryan Reynolds is the title NPC turned hero in this 2021 flick, in which Jodie Comer plays the PC, Molotov Girl",
+     "a": "Free Guy",
+     "right": [
+      "Austin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 14,
+     "q": "Latin for \"rude\" or \"rough\" gives us this adjective that means scholarly",
+     "a": "erudite",
+     "right": [],
+     "wrong": [
+      "Scott"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 3000
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 9,
+     "q": "In 1984 a toxic gas leak from a subsidiary of Union Carbide killed thousands in this Indian city",
+     "a": "Bhopal",
+     "right": [
+      "Scott"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 17,
+     "q": "The heart's alternating periods of contraction & relaxation are called these 2 similar words",
+     "a": "systole & diastole",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 12,
+     "q": "He joined Mead & White in a firm & designed the Beaux Arts style Boston Public Library",
+     "a": "(Charles) McKim",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 19,
+     "q": "It's 12 letters, it means sniper / Aim with calm, don't get too hyper",
+     "a": "sharpshooter",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 2,
+     "q": "In this 2023 film John David Washington is looking for the title A.I. architect & the odds are stacked against him",
+     "a": "The Creator",
+     "right": [],
+     "wrong": [
+      "Jolynda"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 15,
+     "q": "From Greek for \"having learned much\", it's a person who knows about a lot of topics, not just every kind of algebra & calculus",
+     "a": "polymath",
+     "right": [
+      "Jolynda"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "CHART TOPPERS",
+  "q": "His mother named him after her dream car but he topped the charts in 2019 under this moniker",
+  "a": "Lil Nas X",
+  "right": [],
+  "wrong": [
+   "Austin",
+   "Scott",
+   "Jolynda"
+  ]
+ },
+ "gameId": "9251",
+ "cat_notes": {
+  "J": [
+   "Clues about The Letter of the Law.",
+   "Because the most common letter in the alphabet will appear three times in each response.",
+   "The category “LET'S GET LOUD” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "Clues about Tony.",
+   "Clues about Montana.",
+   "Clues about Say Hello to My Little Friend."
+  ],
+  "DJ": [
+   "The category “IT'S A DISASTER” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "Clues about The Human Body.",
+   "Clues about Architecture.",
+   "Clues about U.S. Army Cadences.",
+   "Clues about Recent Sci-fi Flicks.",
+   "Clues about Words of Wisdom."
+  ],
+  "F": "Clues about Chart Toppers."
+ }
+}
