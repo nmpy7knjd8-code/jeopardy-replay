@@ -1,0 +1,986 @@
+{
+ "show": "#7602",
+ "aired": "2017-10-03",
+ "note": "Austin Rogers game 6.",
+ "contestants": [
+  {
+   "name": "Ryan Hughey",
+   "bio": "a student from Indianapolis, Indiana",
+   "short": "Ryan"
+  },
+  {
+   "name": "Amy Servat",
+   "bio": "an English teacher from Houston, Texas",
+   "short": "Amy"
+  },
+  {
+   "name": "Austin Rogers",
+   "bio": "a bartender from New York, New York (whose 5-day cash winnings total $188,700)",
+   "short": "Austin"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Austin": 7600,
+   "Amy": 5400,
+   "Ryan": 2200
+  },
+  "DJ": {
+   "Austin": 35000,
+   "Amy": 18600,
+   "Ryan": -200
+  },
+  "Final": {
+   "Austin": 69000,
+   "Amy": 0,
+   "Ryan": -200
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "LITERA-CHURCH",
+    "SILENT-LETTER VOCABULARY",
+    "OCCUPATIONS",
+    "MELLOW FELLOWS",
+    "TV",
+    "PSYCHIC JEOPARDY!"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 2,
+     "q": "A line in this novel refers to \"a great scandal\" in \"godly Master Dimmesdale's church\"",
+     "a": "The Scarlet Letter",
+     "right": [
+      "Amy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 18,
+     "q": "The Latin \"Agnus Dei\" means this baby animal \"of God\"",
+     "a": "lamb",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "You'll weld & shape andirons, hinges & even special \"shoes\" in this job",
+     "a": "blacksmith",
+     "right": [
+      "Amy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 10,
+     "q": "\"I do not believe in armed risings. They are a remedy worse than the disease\", said this man of India",
+     "a": "Gandhi",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 5,
+     "q": "He's the lovable Great Dane who hangs out with Daphne, Freddy, Shaggy & Velma",
+     "a": "Scooby-Doo",
+     "right": [
+      "Austin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 25,
+     "q": "Current U.S. coin (the smallest across)",
+     "a": "dime",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 3,
+     "q": "Set during the 1660s, W. Harrison Ainsworth's \"Old St. Pauls\" finds the London church treating victims of this",
+     "a": "the plague",
+     "right": [
+      "Austin"
+     ],
+     "wrong": [
+      "Amy"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 17,
+     "q": "To twist violently, like a neck",
+     "a": "wrench (or wring)",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 4,
+     "q": "You need a good line of patter to do this job, heard in action here",
+     "a": "auctioneer",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 11,
+     "q": "This physicist: \"It is a waste of time to be angry about my disability... people won't have time for you if you are always angry\"",
+     "a": "Stephen Hawking",
+     "right": [
+      "Amy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 6,
+     "q": "\"Feud: Bette and Joan\" examines the antipathy between these 2 screen legends",
+     "a": "Bette Davis and Joan Crawford",
+     "right": [
+      "Amy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 26,
+     "q": "AKC recognized breed (the only one that begins with a \"Y\")",
+     "a": "a Yorkie (or Yorkshire terrier)",
+     "right": [
+      "Amy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 15,
+     "q": "The little pueblo of Ácoma has a huge church \"more like a fortress\" in the novel \"Death Comes for\" this person",
+     "a": "the archbishop",
+     "right": [
+      "Amy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 19,
+     "q": "O. kisutch, or these, return upstream to deposit their eggs",
+     "a": "salmon",
+     "right": [
+      "Austin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 21,
+     "q": "Before embarking on a career in this job of installing window glass, note the Department of Labor says it has a high injury rate",
+     "a": "a glazier",
+     "right": [
+      "Austin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 12,
+     "q": "This Founding Father said a lot of stuff like \"Anger is never without a reason, but seldom with a good one\"",
+     "a": "Ben Franklin",
+     "right": [
+      "Amy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 7,
+     "q": "\"Death Works Overtime\" was an episode of this drama that was set in a funeral home",
+     "a": "Six Feet Under",
+     "right": [
+      "Amy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 28,
+     "q": "NFL starting quarterback (for the Seahawks)",
+     "a": "Russell Wilson",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 16,
+     "q": "It's the planetary title of Ken Follett's historical fiction about the building of a 12th century cathedral",
+     "a": "The Pillars of the Earth",
+     "right": [],
+     "wrong": [
+      "Ryan"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": true,
+     "order": 20,
+     "q": "The song entitled \"Great Is Thy Faithfulness\", for example",
+     "a": "a hymn",
+     "right": [
+      "Austin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 3000
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 22,
+     "q": "In this exotic job one uses music & movement to entrance a hamadryad",
+     "a": "a snake charmer",
+     "right": [
+      "Amy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 13,
+     "q": "This Chinese philosopher of the 500s B.C.: \"When anger rises, think of the consequences\"",
+     "a": "Confucius",
+     "right": [
+      "Amy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 8,
+     "q": "Far from \"Downton Abbey\", Dan Stevens stars as mutant David Haller on this FX series",
+     "a": "Legion",
+     "right": [
+      "Austin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "Wife of Henry VIII (died from childbirth in 1537)",
+     "a": "Jane Seymour",
+     "right": [
+      "Amy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 27,
+     "q": "The title of this play set in 1170 comes to fruition when a priest defies the king",
+     "a": "Murder in the Cathedral",
+     "right": [],
+     "wrong": [
+      "Ryan"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 24,
+     "q": "A silent \"K\" begins this British slang word meaning very tired",
+     "a": "knackered",
+     "right": [
+      "Austin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 23,
+     "q": "A licensed insurance one of these investigates claims to see if or how much his company should pay",
+     "a": "an adjuster",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 14,
+     "q": "This writer: \"God never did make a more calm, quiet, innocent recreation than angling\"",
+     "a": "Izaak Walton",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 9,
+     "q": "Far from \"Downton Abbey\", she stars as Letty on \"Good Behavior\"",
+     "a": "Michelle Dockery",
+     "right": [
+      "Austin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 30,
+     "q": "British drummer (in the Beatles before Ringo)",
+     "a": "(Pete) Best",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "NATIONAL GEOGRAPHIC'S MUST SEE PLACES FOR 2017",
+    "BEFORE & AFTER",
+    "\"OLD\" MOVIES",
+    "IS THAT A THING?",
+    "MARS",
+    "VENUS"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 24,
+     "q": "\"A biodiversity hotspot\", this country's Cloud Forests, north of Quito",
+     "a": "Ecuador",
+     "right": [
+      "Amy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 6,
+     "q": "The oldest pro baseball association merges with Woodrow Wilson's pet project",
+     "a": "the National League of Nations",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "In this movie Steve Carell's inexperience is revealed to his buddies over a card game",
+     "a": "The 40-Year-Old Virgin",
+     "right": [
+      "Austin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 11,
+     "q": "No, it's a goofy type of person, from the name of a Jim Nabors character",
+     "a": "a gomer",
+     "right": [
+      "Austin"
+     ],
+     "wrong": [
+      "Ryan"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 20,
+     "q": "Iron oxide gives Mars this nickname, also the title of a Robert Heinlein novel",
+     "a": "the Red Planet",
+     "right": [
+      "Austin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "The Roman deity Venus was identified with this Greek goddess of love",
+     "a": "Aphrodite",
+     "right": [
+      "Austin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 18,
+     "q": "For great American music, this state that gave us Luke Bryan & R.E.M.",
+     "a": "Georgia",
+     "right": [
+      "Austin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 7,
+     "q": "Margaret Mitchell's magnum opus soars with a Bette Midler smash",
+     "a": "\"Gone With the Wind Beneath My Wings\"",
+     "right": [
+      "Austin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 2,
+     "q": "Javier Bardem won an Oscar playing a hit man in this Coen brothers film",
+     "a": "No Country for Old Men",
+     "right": [
+      "Amy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 12,
+     "q": "Yes, it's a small boat; take out the \"H\" & you get a word meaning \"dirty\"",
+     "a": "a dinghy",
+     "right": [
+      "Amy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 26,
+     "q": "In 1965 this probe with a seafaring name shot Mars, becoming the first spacecraft to photograph a non-Earth planet",
+     "a": "Mariner",
+     "right": [
+      "Austin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 25,
+     "q": "In mythology Venus is married to Vulcan & is the mother of this winged god",
+     "a": "Eros (or Cupid)",
+     "right": [
+      "Amy"
+     ],
+     "wrong": [
+      "Ryan"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": true,
+     "order": 16,
+     "q": "After touching down at Incheon International Airport, this city that's kinetic, buzzed & up all night",
+     "a": "Seoul (South Korea)",
+     "right": [
+      "Austin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true,
+     "ddWager": 6400
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 8,
+     "q": "Original \"Hawaii Five-O\" actor who is Tolkien's follow-up to \"The Hobbit\"",
+     "a": "Jack Lord of the Rings",
+     "right": [
+      "Amy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 3,
+     "q": "Sophia Loren turns up to tempt Walter Matthau in this even more cranky sequel",
+     "a": "Grumpier Old Men",
+     "right": [
+      "Amy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 13,
+     "q": "No, it's a place, right before Kalkaska on the alphabetical list of Michigan counties",
+     "a": "Kalamazoo",
+     "right": [
+      "Amy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 21,
+     "q": "In 1610 this man made early telescopic observations of Mars & noted that it has phases like the moon",
+     "a": "Galileo",
+     "right": [
+      "Austin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 22,
+     "q": "Notable artistic representations of the goddess include this work from around 1485",
+     "a": "The Birth of Venus",
+     "right": [
+      "Austin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 15,
+     "q": "Now with tourist access to remote villages, this nation, PNG for short, on the world's second-largest island",
+     "a": "Papua New Guinea",
+     "right": [
+      "Austin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 9,
+     "q": "Woody Guthrie's American anthem salutes a Minnesota butter & cheese supplier",
+     "a": "\"This Land Is Your Land\" o' Lakes",
+     "right": [
+      "Amy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 4,
+     "q": "Will Ferrell is among those trying to get back his college spirit in this comedy",
+     "a": "Old School",
+     "right": [
+      "Amy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 14,
+     "q": "Yes, it's this 7-letter item seen in a church or an auditorium",
+     "a": "a lectern",
+     "right": [
+      "Austin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 19,
+     "q": "The tininess of Mars' 2 moons suggests that they might have been pulled from this belt between Mars & Jupiter",
+     "a": "the asteroid belt",
+     "right": [
+      "Amy"
+     ],
+     "wrong": [
+      "Ryan"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 23,
+     "q": "Venus' mortal lovers include this proverbially handsome human man",
+     "a": "Adonis",
+     "right": [
+      "Austin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 5400
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 17,
+     "q": "\"Beauty and bliss in the Rocky Mountains\": this town & national park in Alberta",
+     "a": "Banff",
+     "right": [
+      "Amy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 10,
+     "q": "Bob Woodward's Capital newspaper hitches up to an old type of fast horse-drawn carriage",
+     "a": "a Washington Post-chaise",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 5,
+     "q": "This quirky Korean revenge flick was remade by Spike Lee in 2013",
+     "a": "Oldboy",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 28,
+     "q": "No, it's a foreign person to the Japanese",
+     "a": "gaijin",
+     "right": [
+      "Austin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 29,
+     "q": "About 15 miles high & 400 miles across, this highest mountain on Mars shares part of its name with a Greek peak",
+     "a": "Mons Olympus",
+     "right": [
+      "Austin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 30,
+     "q": "Venus provides guidance to this Trojan hero fated to become an ancestor to the Romans",
+     "a": "Aeneas",
+     "right": [
+      "Austin"
+     ],
+     "wrong": [
+      "Ryan"
+     ],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "20th CENTURY WORLD LEADERS",
+  "q": "He said, \"Never again shall it be that this beautiful land will again experience the oppression of one by another\"",
+  "a": "Nelson Mandela",
+  "right": [
+   "Austin"
+  ],
+  "wrong": [
+   "Amy"
+  ]
+ },
+ "gameId": "5792"
+}
