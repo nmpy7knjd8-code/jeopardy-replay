@@ -1,0 +1,971 @@
+{
+ "show": "#6570",
+ "aired": "2013-03-22",
+ "note": "",
+ "contestants": [
+  {
+   "name": "Mary Jo Shoop",
+   "bio": "an associate program manager from Arlington, Virginia",
+   "short": "Mary Jo"
+  },
+  {
+   "name": "Rachel Liptak",
+   "bio": "a substitute teacher from Temecula, California",
+   "short": "Rachel"
+  },
+  {
+   "name": "Steve Rininger",
+   "bio": "a lawyer from Chicago, Illinois (whose 1-day cash winnings total $22,200)",
+   "short": "Steve"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Steve": 2000,
+   "Rachel": 8000,
+   "Mary Jo": 1200
+  },
+  "DJ": {
+   "Steve": 8000,
+   "Rachel": 15600,
+   "Mary Jo": 9600
+  },
+  "Final": {
+   "Steve": 15601,
+   "Rachel": 19201,
+   "Mary Jo": 3301
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "WE PUT CHARACTERS ON TRIAL",
+    "IVY LEAGUE ALMA MATERS",
+    "TRACK & FIELD",
+    "LOOKING GOOD!",
+    "THINK GLOBAL",
+    "\"ACT\" LOCAL"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 8,
+     "q": "Your honor, this lad aka Jack Dawkins was clearly in cahoots with Fagin",
+     "a": "the Artful Dodger",
+     "right": [
+      "Mary Jo"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 11,
+     "q": "John F. Kennedy & brother Ted",
+     "a": "Harvard",
+     "right": [
+      "Steve"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 2,
+     "q": "James Connolly was the 1st modern Olympic champion; in 1896 he won this event that then consisted of 2 hops & a jump",
+     "a": "the triple jump",
+     "right": [
+      "Rachel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 20,
+     "q": "You've lost 60 pounds! What's your secret? Oh, this alliterative group founded in the '70s by Jean Nidetch",
+     "a": "Weight Watchers",
+     "right": [
+      "Rachel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "About 27% of the area of the Netherlands is below this level",
+     "a": "sea level",
+     "right": [
+      "Rachel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 6,
+     "q": "It's not a doll! My G.I. Joe is known by this 2-word term",
+     "a": "an action figure",
+     "right": [
+      "Rachel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": true,
+     "order": 9,
+     "q": "It's no surprise that this Thomas Hardy title stonemason gives unclear responses on the witness stand",
+     "a": "Jude the Obscure",
+     "right": [],
+     "wrong": [
+      "Mary Jo"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1000
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 12,
+     "q": "Queen Noor of Jordan & Brooke Shields",
+     "a": "Princeton",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 3,
+     "q": "Over the past 100 years, the record in this field event has increased from 50' 11 3/4\" to 75' 10 1/4\"",
+     "a": "shot put",
+     "right": [
+      "Rachel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 21,
+     "q": "Who made that $2,665 limited-edition fuchsia quilted denim Linda bag? Oh, I see the \"LV\"-- it's this brand",
+     "a": "Louis Vuitton",
+     "right": [
+      "Steve"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 16,
+     "q": "In Brazil, only Sao Paulo has more people than this city",
+     "a": "Rio de Janeiro",
+     "right": [
+      "Rachel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 25,
+     "q": "It's someone working for political or social change, often with an organized group",
+     "a": "an activist",
+     "right": [
+      "Rachel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 10,
+     "q": "On trial for jewelry theft, this creature who sometimes goes by Smeagol took a plea agreement",
+     "a": "Gollum",
+     "right": [
+      "Steve"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 13,
+     "q": "Arlen Specter, for his B.A., & Donald Trump, for business school",
+     "a": "University of Pennsylvania",
+     "right": [],
+     "wrong": [
+      "Steve"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 4,
+     "q": "At distances of 50, 60 & 110 meters, these are 3 feet, 6 inches high",
+     "a": "the hurdles",
+     "right": [
+      "Rachel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 22,
+     "q": "That little black dress from this French designer! It's so 1926, the year the dress was introduced",
+     "a": "(Coco) Chanel",
+     "right": [
+      "Rachel"
+     ],
+     "wrong": [
+      "Steve"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 17,
+     "q": "Ah, the sights & smells of the world's largest camel fair, held annually in Rajasthan in this country",
+     "a": "India",
+     "right": [
+      "Rachel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 26,
+     "q": "4-word title of the 5th book of the New Testament",
+     "a": "Acts of the Apostles",
+     "right": [
+      "Rachel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "The Ministry of Love was the scene of the trial of this main character; his lawyer is appealing-- after 29 years",
+     "a": "Winston Smith",
+     "right": [],
+     "wrong": [
+      "Rachel"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 14,
+     "q": "Jodie Foster & Garry Trudeau",
+     "a": "Yale",
+     "right": [],
+     "wrong": [
+      "Steve"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 5,
+     "q": "In the \"Iliad\" & the \"Odyssey\" Homer mentioned these 2 throwing sports, both part of the decathlon",
+     "a": "javelin & discus",
+     "right": [
+      "Steve"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 23,
+     "q": "That Dermablend face makeup is magnifique! This company that makes the stuff was right: you're worth it!",
+     "a": "L'Oreal",
+     "right": [
+      "Rachel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 18,
+     "q": "In 1659 France & Spain signed a treaty named for this mutual mountain range",
+     "a": "the Pyrenees",
+     "right": [
+      "Rachel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 27,
+     "q": "Symbol Ac, this radioactive element is found in uranium ores",
+     "a": "actinium",
+     "right": [
+      "Rachel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 30,
+     "q": "Yes, this Indian lad had to kill those endangered sea turtles, but he was shipwrecked, with a tiger in the boat",
+     "a": "Pi",
+     "right": [
+      "Steve"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 15,
+     "q": "Maggie Gyllenhaal & Anna Paquin",
+     "a": "Columbia",
+     "right": [
+      "Mary Jo"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 7,
+     "q": "Flo Jo's sister-in-law, in the 1988 Olympics she set the world record for most total points in the heptathlon",
+     "a": "Jackie Joyner-Kersee",
+     "right": [
+      "Rachel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 24,
+     "q": "Your shawl jacket from this American \"Project Runway\" judge may be $2,500 but Miss Thang, you look like a million in it!",
+     "a": "Michael Kors",
+     "right": [
+      "Steve"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 19,
+     "q": "It's the country where Muscat is located",
+     "a": "Oman",
+     "right": [
+      "Mary Jo"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 28,
+     "q": "Someone who uses statistics to figure out when you're likely to die & thus whether you're worth insuring",
+     "a": "an actuary",
+     "right": [
+      "Rachel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "WE'RE ON MARS!",
+    "ABBREVIATION\"Z\"",
+    "IT WAS THE '60s",
+    "COMPASS POINT MOVIES",
+    "IN THE BOY SCOUT HANDBOOK",
+    "STATE SONG LYRICS"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 24,
+     "q": "The NASA video seen here shows this SUV-sized rover as it nears its landing in Gail Crater in August of 2012",
+     "a": "Curiosity",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 11,
+     "q": "ZOD:\nIt has\n12 signs",
+     "a": "the Zodiac",
+     "right": [
+      "Steve"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 16,
+     "q": "This Civil Rights leader convinced Nichelle Nichols to stay on \"Star Trek\", citing her as a positive inspiration",
+     "a": "Martin Luther King, Jr.",
+     "right": [
+      "Rachel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 6,
+     "q": "Mitzi Gaynor sang Rodgers & Hammerstein's \"I'm Gonna Wash That Man Right Out Of My Hair\" in this movie musical",
+     "a": "South Pacific",
+     "right": [
+      "Rachel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "The Scout motto ain't be-bop-a-lula, it's \"be\" this; let's see if you are",
+     "a": "prepared",
+     "right": [
+      "Mary Jo"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "\"It was Brigham Young who led the pioneers across the plains. They suffered with the trials they had to face\"",
+     "a": "Utah",
+     "right": [
+      "Mary Jo"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": true,
+     "order": 25,
+     "q": "Valerie Ambroise won an essay contest & named this rover for a 19th-century African-American woman",
+     "a": "Sojourner",
+     "right": [],
+     "wrong": [
+      "Mary Jo"
+     ],
+     "stumper": false,
+     "img": true,
+     "ddWager": 2000
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 12,
+     "q": "Zech:\nan Old Testament\nbook",
+     "a": "Zechariah",
+     "right": [
+      "Rachel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 17,
+     "q": "At 1968's Miss America Pageant, these were symbolically put in a trash can--but despite the legend were not burned",
+     "a": "bras",
+     "right": [
+      "Rachel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 7,
+     "q": "A giant mechanical spider plays a key role in this 1999 Will Smith movie set in the 19th century",
+     "a": "Wild Wild West",
+     "right": [
+      "Mary Jo"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 23,
+     "q": "Originally, this highest rank was called Wolf",
+     "a": "an Eagle Scout",
+     "right": [
+      "Mary Jo"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 2,
+     "q": "\"I love you, Catalina, you are very dear to me, I love you, Tamalpais, and I love Yosemite\"",
+     "a": "California",
+     "right": [
+      "Steve"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 28,
+     "q": "Mars's color is from being covered in this which may have been caused by water starting the oxidation of iron",
+     "a": "rust",
+     "right": [
+      "Mary Jo"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 13,
+     "q": "ZPG:\nA balance where the number of people neither increases nor decreases",
+     "a": "zero population growth",
+     "right": [
+      "Rachel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 18,
+     "q": "In 1967 Time magazine ran the oxymoronic-sounding headline \"San Francisco: Love on\" this street",
+     "a": "Haight Street",
+     "right": [
+      "Rachel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 8,
+     "q": "Hitchcock couldn't film inside the U.N. for this 1959 thriller, so he re-created its rooms on a soundstage",
+     "a": "North By Northwest",
+     "right": [
+      "Rachel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 21,
+     "q": "Merit badge types include Indian lore, dentistry, motorboating & this, making a record of one's ancestry",
+     "a": "genealogy",
+     "right": [
+      "Mary Jo"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 3,
+     "q": "\"It's the spirit of friendship, it's the spirit of hope. It's the Razorbacks every game they play\"",
+     "a": "Arkansas",
+     "right": [
+      "Steve"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 29,
+     "q": "In 2005 Opportunity found heat-shield rock, an iron-rich one of these space rocks, the first ever seen on another planet",
+     "a": "a meteorite",
+     "right": [
+      "Rachel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 14,
+     "q": "Zr:\nMetallic element used for laboratory crucibles",
+     "a": "zirconium",
+     "right": [
+      "Mary Jo"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 19,
+     "q": "On April 27, 1967 Canadian Prime Minister Pearson was in this city to open an expo",
+     "a": "Montreal",
+     "right": [
+      "Steve"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 9,
+     "q": "Nick Nolte has the best hands in football but a \"bad attitude\" in this satire on the business of football",
+     "a": "North Dallas Forty",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 22,
+     "q": "This subdivision of a Boy Scout troop \"is a team of six to eight boys who make things happen\"",
+     "a": "a patrol",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 4,
+     "q": "\"Your freeborn single star sends out its radiance to nations near and far\"",
+     "a": "Texas",
+     "right": [
+      "Steve"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2000
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 30,
+     "q": "Seen here in a model, on July 20th, 1976, this first U.S. Mars lander successfully soft-landed",
+     "a": "Viking",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 15,
+     "q": "ZL:\nPolish unit of currency",
+     "a": "the zloty",
+     "right": [
+      "Mary Jo"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 20,
+     "q": "Future Pope John Paul II was part of this 1962-65 council & helped draft its constitution on the church & the modern world",
+     "a": "Vatican II",
+     "right": [],
+     "wrong": [
+      "Rachel"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 10,
+     "q": "Viggo Mortensen was nominated for an Oscar for his role as a Russian mafioso in this 2007 film",
+     "a": "Eastern Promises",
+     "right": [
+      "Mary Jo"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 26,
+     "q": "This founder of scouting said, \"I don't consider a boy is a real scout till he has passed his First Class Scout\"",
+     "a": "Lord Robert Baden-Powell",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 5,
+     "q": "\"The whole day through just an old sweet song...\"",
+     "a": "Georgia",
+     "right": [
+      "Rachel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "SCIENCE WORDS",
+  "q": "This biological term for cell division was borrowed in 1939 to describe a form of energy release",
+  "a": "fission",
+  "right": [
+   "Steve",
+   "Rachel"
+  ],
+  "wrong": [
+   "Mary Jo"
+  ]
+ },
+ "gameId": "4122"
+}

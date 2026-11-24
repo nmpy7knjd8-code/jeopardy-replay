@@ -1,0 +1,988 @@
+{
+ "show": "#6214",
+ "aired": "2011-09-29",
+ "note": "",
+ "contestants": [
+  {
+   "name": "Chris Fleitas",
+   "bio": "a high school college prep counselor from San Francisco, California",
+   "short": "Chris"
+  },
+  {
+   "name": "Lindsy Lassere",
+   "bio": "a homemaker and fitness instructor originally from Lake Charles, Louisiana",
+   "short": "Lindsy"
+  },
+  {
+   "name": "Sergio Llorian",
+   "bio": "an attorney from New York, New York (whose 1-day cash winnings total $29,201)",
+   "short": "Sergio"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Sergio": 1000,
+   "Lindsy": 2800,
+   "Chris": 6600
+  },
+  "DJ": {
+   "Sergio": 2600,
+   "Lindsy": 4400,
+   "Chris": 32400
+  },
+  "Final": {
+   "Sergio": 3200,
+   "Lindsy": 8400,
+   "Chris": 38900
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "EAT-YMOLOGY",
+    "SIDEKICKS",
+    "ARCTIC WILDLIFE",
+    "UNDER THIS CABINET DEPARTMENT",
+    "\"NOT\" IN FRONT",
+    "OF THE CHILDREN"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "The name of this foodstuff comes from the Chinese \"dou\" for beans & \"fu\" for rotten",
+     "a": "tofu",
+     "right": [
+      "Sergio"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 18,
+     "q": "In June 2009 Hollywood mourned the passing of this longtime sidekick of Johnny Carson",
+     "a": "Ed McMahon",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 5,
+     "q": "(Sarah of the Clue Crew delivers the clue from Svalbard Islands in Norway.) As an adaptation to their cold environment, these sensory organs on walruses aren't external, but they can still detect input from up to a mile away",
+     "a": "ears",
+     "right": [
+      "Lindsy"
+     ],
+     "wrong": [
+      "Chris"
+     ],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 6,
+     "q": "Employees' Compensation Appeals Board",
+     "a": "Labor",
+     "right": [
+      "Lindsy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 24,
+     "q": "Sometimes this verdict is \"by reason of insanity\"",
+     "a": "not guilty",
+     "right": [
+      "Sergio"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 12,
+     "q": "From the Greek for \"child\", it's a doctor who specializes in the care of children",
+     "a": "pediatrician",
+     "right": [
+      "Lindsy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "This big flatfish got its name because it was largely eaten on holy days",
+     "a": "halibut",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [
+      "Lindsy"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 11,
+     "q": "This over 7-foot-tall \"walking carpet\" was Han Solo's first mate & constant companion",
+     "a": "Chewbacca",
+     "right": [
+      "Lindsy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 3,
+     "q": "(Sarah of the Clue Crew delivers the clue from Svalbard Islands in Norway.) The Atlantic variety of this comical seabird has a parrot-like bill that can hold many fish at one time",
+     "a": "a puffin",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 7,
+     "q": "Animal and Plant Health Inspection Service",
+     "a": "Agriculture",
+     "right": [
+      "Lindsy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 23,
+     "q": "Hyphenated term for an organization that exists to provide a service rather than to make money",
+     "a": "a not-for-profit (not-profit accepted)",
+     "right": [
+      "Lindsy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 13,
+     "q": "In a nursery rhyme, this woman \"had so many children she didn't know what to do\"",
+     "a": "the woman who lived in a shoe",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [
+      "Sergio"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 30,
+     "q": "This fruit's name comes from the Latin Persica praecocia, meaning \"early ripening peach\"",
+     "a": "an apricot",
+     "right": [],
+     "wrong": [
+      "Lindsy"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 16,
+     "q": "On \"I Love Lucy\", she was Lucy's BFF & partner in mischief",
+     "a": "Ethel (Mertz)",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 4,
+     "q": "(Sarah of the Clue Crew delivers the clue from Svalbard Islands in Norway.) The fin whale, second only to the blue whale in size, moves so quickly through the water that it is known as this racing dog breed of the sea",
+     "a": "greyhound",
+     "right": [
+      "Sergio"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 8,
+     "q": "The Bureau of Engraving & Printing",
+     "a": "Treasury",
+     "right": [
+      "Lindsy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 25,
+     "q": "Completes the title of Christopher Paul Curtis' classic novel for young adults \"Bud,...\"",
+     "a": "Not Buddy",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 20,
+     "q": "This can be used if a child misbehaves & should be 1 minute long per year of age; in the NBA it's 20 sec. or 1 minute",
+     "a": "a timeout",
+     "right": [
+      "Sergio"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "In German the \"Brat\" in Bratwurst means \"roast\"; the \"wurst\" means this",
+     "a": "sausage",
+     "right": [
+      "Lindsy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 17,
+     "q": "In books & the movies, Harry Potter has 2 sidekicks: Hermione Granger & this redheaded boy",
+     "a": "Ron Weasley",
+     "right": [
+      "Sergio"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 14,
+     "q": "(Sarah of the Clue Crew delivers the clue from Svalbard Islands in Norway.) A polar bear weighs a pound at birth, but because its mother's milk is 35% this, the richest milk of any bear species, a cub can weigh 20 pounds in 3 or 4 months",
+     "a": "fat",
+     "right": [
+      "Lindsy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": true,
+     "order": 9,
+     "q": "The Directorate for Management,\nThe Office of Intelligence and Analysis",
+     "a": "Homeland Security",
+     "right": [],
+     "wrong": [
+      "Lindsy"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1000
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 26,
+     "q": "This line of denim pants for women (whether or not they are moms) is known as NYDJ for short",
+     "a": "Not Your Daughter's Jeans",
+     "right": [
+      "Lindsy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 21,
+     "q": "1212's disastrous Children's Crusade may have been the inspiration for the story of this legendary flute player",
+     "a": "the Pied Piper",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 28,
+     "q": "Originally traded as solid cakes, after granulation this substance was called sakkara, meaning grit or gravel",
+     "a": "sugar",
+     "right": [],
+     "wrong": [
+      "Chris"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 19,
+     "q": "Jay Chou is seen here as this sidekick in a 2011 film",
+     "a": "Kato",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [
+      "Sergio"
+     ],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 15,
+     "q": "(Sarah of the Clue Crew delivers the clue from Svalbard Islands in Norway.) During development, a reindeer's antlers have a soft covering called this, named for the luxurious fabric it resembles",
+     "a": "velvet",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 10,
+     "q": "Patent and Trademark Office,\nBureau of Economic Analysis",
+     "a": "Commerce",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 27,
+     "q": "This 15-letter word means \"in spite of\"",
+     "a": "notwithstanding",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 22,
+     "q": "At the park the full bucket type of this is for 2- & 3-year-olds; kids who are 4 & 5 graduate to the half bucket",
+     "a": "a swing",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "IMMEDIATE PREDECESSORS",
+    "MATH ABBREV. & SYMBOLS",
+    "BLUES CLUES",
+    "SURFING THE OED",
+    "\"B\"OOKS",
+    "GIVE ME THAT OLD TIME RELIGION"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "As Speaker of the House, he was Dennis Hastert's predecessor",
+     "a": "Newt Gingrich",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 21,
+     "q": "In finding the area of a parallelogram, A=bh, b standing for this",
+     "a": "base",
+     "right": [
+      "Sergio"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 24,
+     "q": "Willie Dixon had the blues, saying this hard rock group didn't credit him for \"Whole Lotta Love\"; the sides settled in 1987",
+     "a": "Led Zeppelin",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 20,
+     "q": "Janian means this many \"-faced\"",
+     "a": "two",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 7,
+     "q": "This novel by Toni Morrison won the 1988 Pulitzer Prize for Fiction",
+     "a": "Beloved",
+     "right": [
+      "Lindsy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 8,
+     "q": "With more than a billion members, it's the largest branch of Christianity",
+     "a": "Roman Catholicism",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [
+      "Lindsy"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 19,
+     "q": "He was David's predecessor as Israel's king",
+     "a": "Saul",
+     "right": [
+      "Lindsy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 22,
+     "q": "Regarding sets, \"R\" refers to real numbers & \"Q\" refers to this group of numbers that also begins with R",
+     "a": "rational numbers",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 23,
+     "q": "This unfortunate word precedes Willie Johnson, Willie McTell & Lemon Jefferson in the performing names of bluesmen",
+     "a": "Blind",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 12,
+     "q": "Misandry is \"hatred of\" these",
+     "a": "men",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 2,
+     "q": "In 1852 Dickens started publishing this novel featuring the Jarndyces",
+     "a": "Bleak House",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 6,
+     "q": "During the 5th & 6th centuries, under the T'ang Dynasty, it became \"the way\" of China",
+     "a": "Taoism",
+     "right": [
+      "Lindsy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 16,
+     "q": "As center fielder for the New York Yankees, Mickey Mantle filled this Hall of Famer's shoes",
+     "a": "Joe DiMaggio",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 25,
+     "q": "cos, in trig",
+     "a": "cosine",
+     "right": [
+      "Sergio"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 27,
+     "q": "After this onetime \"Beale St. Blues Boy\" played 342 one-nighters in 1956, we had to wonder, was the thrill gone?",
+     "a": "B.B. King",
+     "right": [
+      "Lindsy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 13,
+     "q": "Addubitation is \"questioning oneself as though in\" this",
+     "a": "doubt",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [
+      "Lindsy"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": true,
+     "order": 3,
+     "q": "This children's classic is subtitled \"A Life in the Woods\"",
+     "a": "Bambi",
+     "right": [],
+     "wrong": [
+      "Chris"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 4000
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 9,
+     "q": "You'll find the official website of this religious group at www.watchtower.org",
+     "a": "the Jehovah's Witnesses",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 17,
+     "q": "As commander of U.N. forces in Korea, he preceded Matthew B. Ridgway",
+     "a": "Douglas MacArthur",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 5000
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 26,
+     "q": "cot, also in trig",
+     "a": "cotangent",
+     "right": [
+      "Sergio"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 30,
+     "q": "Heard here, he popularized the blues in the U.S. & even faraway England in the 1950s\n\n\"Got my mojo working /\nBut it just won't work on you\"",
+     "a": "Muddy Waters",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 14,
+     "q": "An acnestis is \"the part of the back between the shoulder blades... which an animal cannot reach to\" do this to it",
+     "a": "scratch",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 4,
+     "q": "This novel by Sinclair Lewis is a scathing indictment of middle-class America",
+     "a": "Babbitt",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 10,
+     "q": "The Theravada is the more conservative of the 2 main branches of this religion",
+     "a": "Buddhism",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [
+      "Sergio"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 18,
+     "q": "In 2011 Larry Page took over as CEO of Google, following this man",
+     "a": "(Eric) Schmidt",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 28,
+     "q": "csc--what's with all the trig?",
+     "a": "cosecant",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 29,
+     "q": "2011 is the 100th anniv. of the birth of this bluesman, known for the \"Crossroads\" where some say he sold his soul",
+     "a": "Robert Johnson",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 15,
+     "q": "Deteriorism is \"the doctrine that the tendency of things is to grow\" this",
+     "a": "worse",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 5,
+     "q": "Amelia Evans opens a cafe in this novella by Carson McCullers",
+     "a": "Ballad of the Sad Cafe",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 11,
+     "q": "Begun around 1500 by Guru Nanak, this religion incorporates elements of Hinduism",
+     "a": "Sikhism",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "THE 20th CENTURY",
+  "q": "In February 1967 this Asian leader said his people would \"never agree to negotiate under the threat of bombing\"",
+  "a": "Ho Chi Minh",
+  "right": [
+   "Sergio",
+   "Lindsy",
+   "Chris"
+  ],
+  "wrong": []
+ },
+ "gameId": "3722"
+}
