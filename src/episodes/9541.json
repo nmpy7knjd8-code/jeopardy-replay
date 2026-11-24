@@ -1,0 +1,965 @@
+{
+ "show": "#9624",
+ "aired": "2026-09-24",
+ "note": "",
+ "contestants": [
+  {
+   "name": "Carolyn Langton",
+   "bio": "an application developer from Sun Prairie, Wisconsin",
+   "short": "Carolyn"
+  },
+  {
+   "name": "Nikolas Polsinelli",
+   "bio": "a student from Winter Park, Florida",
+   "short": "Nikolas"
+  },
+  {
+   "name": "Emily Burnham",
+   "bio": "a writer and editor from Bangor, Maine (whose 1-day cash winnings total $17,201)",
+   "short": "Emily"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Emily": 2400,
+   "Nikolas": 1400,
+   "Carolyn": 3200
+  },
+  "DJ": {
+   "Emily": 8200,
+   "Nikolas": 13200,
+   "Carolyn": 8800
+  },
+  "Final": {
+   "Emily": 3199,
+   "Nikolas": 17601,
+   "Carolyn": 0
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "D.C.'s BLACK HERITAGE",
+    "J.LO, J-LAW & JHUD",
+    "WORLD GEOGRAPHY",
+    "WHERE DID I LEAVE MY WALLET?!",
+    "ORGANIZATIONS",
+    "WORD PUZZLES"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 27,
+     "q": "This abolitionist who escaped slavery as a young man was known as \"The Sage of Anacostia\" during his time in D.C.",
+     "a": "Douglass",
+     "right": [
+      "Carolyn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 28,
+     "q": "Podster & interviewer to the stars Jay Shetty officiated J.Lo's second wedding to him",
+     "a": "Ben Affleck",
+     "right": [
+      "Emily"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 6,
+     "q": "Just south of the Lagunas de Montebello National Park in southeastern Chiapas is this Central American country",
+     "a": "Guatemala",
+     "right": [],
+     "wrong": [
+      "Nikolas"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 29,
+     "q": "Oh, crud! I dropped my wallet in this waterway of myth whose name means \"the hateful\"; I'm not gettin' that back, am I?",
+     "a": "the Styx",
+     "right": [
+      "Nikolas"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 30,
+     "q": "Focusing on women & cardiovascular disease, Go Red for Women is an initiative of this organization",
+     "a": "the American Heart Association",
+     "right": [
+      "Emily"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 12,
+     "q": "Part of a morning repast:\nGEGS SEGG",
+     "a": "scrambled eggs",
+     "right": [
+      "Carolyn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 26,
+     "q": "In a 2016 speech President Obama called this D.C. university \"a centerpiece of African-American intellectual life\"",
+     "a": "Howard",
+     "right": [
+      "Nikolas"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 18,
+     "q": "Though Ms. Hudson didn't win \"American Idol\", she did bag an Oscar for her role as Effie in this movie",
+     "a": "Dreamgirls",
+     "right": [
+      "Emily"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "Baby boys' names in the early 2000s saw a sharp increase in names that rhyme with this gulf off Yemen",
+     "a": "Aden",
+     "right": [
+      "Nikolas"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 22,
+     "q": "I left my money at the bank! Specifically, this bank, founded in 1852 & known for its iconic stagecoach",
+     "a": "Wells Fargo",
+     "right": [
+      "Carolyn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 24,
+     "q": "Founded in 1910, the Green Mountain Club manages & maintains some 500 miles of hiking trails in this state",
+     "a": "Vermont",
+     "right": [
+      "Nikolas"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 13,
+     "q": "A way of submitting your preference without being there:\nQRS UVWXYZ",
+     "a": "absentee",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 17,
+     "q": "Wormley's Hotel was the scene of a deal after 1876's election & James Wormley made his famed beef tea for this president shot in 1881",
+     "a": "Garfield",
+     "right": [
+      "Emily"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 11,
+     "q": "In the 2010s, J-Law did muse duty for this director in films like \"American Hustle\"",
+     "a": "(David O.) Russell",
+     "right": [
+      "Carolyn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 3,
+     "q": "This 500-mile river empties into the Mediterranean in France, just west of Marseille",
+     "a": "the Rhône",
+     "right": [
+      "Nikolas"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 21,
+     "q": "The night man at this title place in song said relax, the wallet's here & \"you can check out any time you like, but you can never leave\"",
+     "a": "\"Hotel California\"",
+     "right": [
+      "Nikolas"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 7,
+     "q": "While the FFA is aimed at Future Farmers of America, the FBLA helps inspire students to become these, the B-L",
+     "a": "Business Leaders",
+     "right": [
+      "Nikolas"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 14,
+     "q": "Disassembling a product's construction in order to build a similar one:\nGNIREENIGNE",
+     "a": "reverse engineering",
+     "right": [
+      "Nikolas"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 16,
+     "q": "Also the name of a Parliament song, this \"sweet\" nickname was given to D.C. after it had a majority Black pop. in the 1970s",
+     "a": "Chocolate City",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 1,
+     "q": "In this film, Ms. Lopez was Marisa, a hotel cleaning woman in New York City with whom a Senate candidate falls in love",
+     "a": "Maid in Manhattan",
+     "right": [
+      "Carolyn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 4,
+     "q": "Hong Kong & Guangzhou are on this river delta that shares its name with an off-white shade",
+     "a": "Pearl",
+     "right": [
+      "Nikolas"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 19,
+     "q": "Mon portefeuille is at this university in Paris whose namesake, a master of theology, began teaching there in 1253",
+     "a": "the Sorbonne",
+     "right": [],
+     "wrong": [
+      "Nikolas"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": true,
+     "order": 8,
+     "q": "Rex Stout, Mary Higgins Clark & Lisa Scottoline have all been president of this, the MWA",
+     "a": "Mystery Writers of America",
+     "right": [],
+     "wrong": [
+      "Nikolas"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 3200
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 25,
+     "q": "A pun may be one:\n\"Othello\"\nbilateral bilberry bile",
+     "a": "a play on words",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 15,
+     "q": "A high school in Northwest D.C. is named for this jazz bandleader who grew up in the Shaw/Uptown area",
+     "a": "Duke Ellington",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 10,
+     "q": "Ms. Lawrence & her art dealer husband named their first child this, after American painter Twombly",
+     "a": "Cy",
+     "right": [
+      "Emily"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 5,
+     "q": "Known as the \"Door to Africa\", this city on the Strait of Gibraltar lends its name to a type of citrus fruit",
+     "a": "Tangiers",
+     "right": [
+      "Nikolas"
+     ],
+     "wrong": [
+      "Emily"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 20,
+     "q": "Don't ask me how my wallet ended up on this consonant-less moon that takes 1.77 Earth days to go around Jupiter; it was a crazy weekend",
+     "a": "Io",
+     "right": [
+      "Carolyn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 9,
+     "q": "An organization dedicated to protecting Africa's gorillas is named for & carries on the work of this woman murdered in 1985",
+     "a": "Dian Fossey",
+     "right": [
+      "Emily"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 23,
+     "q": "To earnestly pledge you are telling the truth:\nDang it!\nVulgate\nKing James Version American Standard",
+     "a": "to swear on a stack of Bibles",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "ANCIENT \"H\"ISTORY",
+    "QUASI-RELATED PAIRS",
+    "I SPEAK FOR THE TREES",
+    "LITERATURE: REVISITED",
+    "MOVIE ROLE, TV ROLE",
+    "7-LETTER WORDS"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 23,
+     "q": "Nebuchadnezzar II is said to have built this Wonder of the Ancient World for his wife, who missed the greenery of her homeland",
+     "a": "the Hanging Gardens of Babylon",
+     "right": [
+      "Nikolas"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 29,
+     "q": "Citrus peel cocktail garnish\n&\n\"triple-acting\" fabric cleaner",
+     "a": "twist & Shout",
+     "right": [
+      "Carolyn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 26,
+     "q": "Oak trees produce nuts in a \"boom & bust\" cycle, with boom periods, or mast years, yielding up to 10,000 of these",
+     "a": "acorns",
+     "right": [
+      "Carolyn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 30,
+     "q": "A man reinvents himself & falls in love with a TV star in Salman Rushdie's \"Quichotte\", inspired by this classic",
+     "a": "Don Quixote",
+     "right": [
+      "Nikolas"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 9,
+     "q": "White man Billy Hoyle in \"White Men Can't Jump\" &\n\"True Detective\" Marty Hart",
+     "a": "Woody Harrelson",
+     "right": [
+      "Emily"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 22,
+     "q": "Spooky term for what you did if you cut off contact with someone without notice or explanation",
+     "a": "ghosted",
+     "right": [
+      "Emily"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 4,
+     "q": "This nomadic group of the 4th & 5th centuries is thought to have come from a region roughly corresponding to modern Kazakhstan",
+     "a": "the Huns",
+     "right": [
+      "Emily"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 28,
+     "q": "Transition zone edge where 2 air masses meet in meteorology\n&\nthe guy who snaps the football",
+     "a": "front & center",
+     "right": [
+      "Nikolas"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 25,
+     "q": "These drought resistant trees with oily fruit can live for centuries; Ano Vuves in Greece has one that's at least 2,000 years old",
+     "a": "an olive",
+     "right": [
+      "Nikolas"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 27,
+     "q": "In Christopher Moore's \"Fool\", the jester of this Shakespeare king gets the limelight & shows Goneril a real good time",
+     "a": "King Lear",
+     "right": [
+      "Emily"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 8,
+     "q": "Sarah Connor in a film series &\nCatherine on \"Beauty and the Beast\"",
+     "a": "Linda Hamilton",
+     "right": [],
+     "wrong": [
+      "Emily"
+     ],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 19,
+     "q": "As a verb, it means to give something up; as a noun, to give in to impulses, as to behave with wild...",
+     "a": "abandon",
+     "right": [
+      "Emily"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 1,
+     "q": "It's the historical period that began in 323 B.C. with the death of Alexander the Great",
+     "a": "the Hellenistic period",
+     "right": [
+      "Nikolas"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 17,
+     "q": "A measurement of grams or pounds\n&\nthe seat of a bishop's office",
+     "a": "weight & see",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 11,
+     "q": "Maples reproduce by generating winged seeds that scatter via this means of dispersal also known as anemochory",
+     "a": "they scatter by the wind (wind dispersal)",
+     "right": [
+      "Nikolas"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 15,
+     "q": "Sandra Newman wrote a retelling of \"1984\" from the perspective of this character, Winston Smith's lover",
+     "a": "Julia",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 7,
+     "q": "Alma in \"Brokeback Mountain\" & Jen Lindley on \"Dawson's Creek\"",
+     "a": "Michelle Williams",
+     "right": [
+      "Emily"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 21,
+     "q": "The surface of an escritoire, or a computer feature",
+     "a": "a desktop",
+     "right": [
+      "Carolyn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 2,
+     "q": "One in London & one in NYC, the obelisks known as Cleopatra's Needles once stood in this Egyptian \"City of the Sun\"",
+     "a": "Heliopolis",
+     "right": [
+      "Nikolas"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1800
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 16,
+     "q": "Acronym for nuke-limiting agreements from the 1970s\n&\nto beat with repeated punches",
+     "a": "SALT & pepper",
+     "right": [],
+     "wrong": [
+      "Emily"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 3400
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 12,
+     "q": "For its ability to create & maintain its own ecosystem in arid regions, this odd-shaped African tree is known as the \"tree of life\"",
+     "a": "the baobob",
+     "right": [
+      "Nikolas"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 10,
+     "q": "This Madeline Miller novel tells the story of the \"Iliad\" from the perspective of the doomed Patroclus",
+     "a": "Song of Achilles",
+     "right": [
+      "Nikolas"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 5,
+     "q": "Barbarella &\nGrace Hanson",
+     "a": "Jane Fonda",
+     "right": [
+      "Emily"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 18,
+     "q": "An act of pardon granted to a large group, perhaps political prisoners",
+     "a": "amnesty",
+     "right": [
+      "Carolyn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 3,
+     "q": "Played by Rachel Weisz in a 2009 biopic, this Egyptian philosopher & mathematician was killed in the 5th c. by a Christian mob",
+     "a": "Hypatia",
+     "right": [
+      "Nikolas"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 24,
+     "q": "To pathetically complain\n&\nvital energies studied in Eastern medicines",
+     "a": "whine & qis",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 13,
+     "q": "Central Park's Mall is home to one of North America's largest and last remaining stands of the American species of this tree",
+     "a": "elm tree",
+     "right": [
+      "Emily"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 14,
+     "q": "\"The Chosen and the Beautiful\" reimagines this golfer from \"The Great Gatsby\" as a Vietnamese woman",
+     "a": "Jordan Baker",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 6,
+     "q": "Tang Lung in 1972's \"The Way of the Dragon\" & Kato on \"The Green Hornet\"",
+     "a": "Bruce Lee",
+     "right": [
+      "Emily"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 20,
+     "q": "From French, it's a naive young woman, particularly in film",
+     "a": "ingénue",
+     "right": [
+      "Carolyn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "U.S. GEOGRAPHY",
+  "q": "Meaning \"endless\" & \"grassy open place\", this name for a region of thousands of square miles first appeared on a map in 1823",
+  "a": "the Everglades",
+  "right": [
+   "Nikolas"
+  ],
+  "wrong": [
+   "Emily",
+   "Carolyn"
+  ]
+ },
+ "gameId": "9541"
+}

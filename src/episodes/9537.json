@@ -1,0 +1,972 @@
+{
+ "show": "#9620",
+ "aired": "2026-09-18",
+ "note": "",
+ "contestants": [
+  {
+   "name": "Michael Mott",
+   "bio": "a software engineering manager from Owens Cross Roads, Alabama",
+   "short": "Michael"
+  },
+  {
+   "name": "Holly Firlein",
+   "bio": "an attorney originally from Newark, Delaware",
+   "short": "Holly"
+  },
+  {
+   "name": "Mark Ramirez",
+   "bio": "an executive communications lead from Northglenn, Colorado (whose 1-day cash winnings total $20,800)",
+   "short": "Mark"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Mark": 5000,
+   "Holly": 8000,
+   "Michael": 2000
+  },
+  "DJ": {
+   "Mark": 15400,
+   "Holly": 8000,
+   "Michael": 9600
+  },
+  "Final": {
+   "Mark": 11500,
+   "Holly": 598,
+   "Michael": 3199
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "RECAPS OF SHAKESPEARE",
+    "TALK LIKE A PIRATE",
+    "SCIENCE",
+    "FOOD & DRINK",
+    "FALSE BERLIN",
+    "BIZARRE LITTLE MEN"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 25,
+     "q": "An interracial marriage produces external hatred & internal insecurities that lead to tragedy",
+     "a": "Othello",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 22,
+     "q": "It's a chain of related islands, like the Malay one",
+     "a": "archipelago",
+     "right": [
+      "Holly"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 21,
+     "q": "Hooke's law says the amount of this needed to compress a spring a given distance is proportional to that distance",
+     "a": "force",
+     "right": [
+      "Holly"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 17,
+     "q": "A Red Snapper is a variation of this cocktail made with tomato juice, but using gin instead of vodka",
+     "a": "a Bloody Mary",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 29,
+     "q": "The 2004 film starring Matt Damon as this CIA agent out in the cold includes a scene at the World Clock in Alexanderplatz",
+     "a": "Jason Bourne",
+     "right": [
+      "Holly"
+     ],
+     "wrong": [
+      "Michael"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 30,
+     "q": "They don't just make toys; in a famous story, they help out a poor cobbler by finishing shoes at night",
+     "a": "elves",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 10,
+     "q": "After a shipwreck, an island has unusual inhabitants of the wizard, monster & sprite variety",
+     "a": "The Tempest",
+     "right": [
+      "Holly"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 14,
+     "q": "This country declared its independence from Spain in 1816 as the United Provinces of the Rio de la Plata",
+     "a": "Argentina",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 18,
+     "q": "Fasten your seatbelts! Clear-air this occurs when hard-to-predict winds collide at different speeds",
+     "a": "turbulence",
+     "right": [
+      "Holly"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 16,
+     "q": "No, it doesn't really taste like chicken, but you can make buffalo bites using this vegetable",
+     "a": "cauliflower",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 28,
+     "q": "Published in 1945, \"The Berlin Stories\" inspired this musical",
+     "a": "Cabaret",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 23,
+     "q": "This bold race in \"World of Warcraft\" ride rams & are partly based on the ones in Tolkien, per the Wowpedia",
+     "a": "Dwarves",
+     "right": [
+      "Michael"
+     ],
+     "wrong": [
+      "Holly"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 9,
+     "q": "An outnumbered army achieves success & the triumphant victor marries a French princess",
+     "a": "Henry V",
+     "right": [
+      "Michael"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 1,
+     "q": "The 22 picture cards in a tarot deck are referred to as the \"Major\" this, meaning secret & mysterious knowledge",
+     "a": "Arcana",
+     "right": [
+      "Holly"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 2,
+     "q": "These third & final molars usually arrive on the cusp of adulthood",
+     "a": "wisdom teeth",
+     "right": [
+      "Michael"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 8,
+     "q": "Red Lobster's drink of rum, pineapple flavoring & cream of coconut had the 2-word rhyming name Alotta this",
+     "a": "Colada",
+     "right": [
+      "Michael"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 27,
+     "q": "One real Berlin: the title of this film refers to the spot in Berlin where Rudolf Abel was traded for an American",
+     "a": "Bridge of Spies",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 3,
+     "q": "The Boston Celtics' mascot Lucky, originally drawn by Red Auerbach's brother Zang, is one of these",
+     "a": "a leprechaun",
+     "right": [
+      "Holly"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": true,
+     "order": 4,
+     "q": "Both guys from out of town marry the women of their dreams & a band of outlaws gets pardoned",
+     "a": "The Two Gentlemen of Verona",
+     "right": [
+      "Holly"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1200
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 6,
+     "q": "Latin for \"to burn\" gives us this noun for a burning passion",
+     "a": "ardor",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 12,
+     "q": "When an animal eats acacia leaves, the tree releases these chemical signals in the form of ethylene gas to alarm nearby trees",
+     "a": "pheromones",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 11,
+     "q": "California is one of the many places that has banned the sale of this fattened goose liver due to animal cruelty",
+     "a": "foie gras",
+     "right": [
+      "Holly"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 24,
+     "q": "The graphic novel \"The Coldest City\", aka Berlin, became this Cold War thriller starring Charlize Theron",
+     "a": "Atomic Blonde",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 20,
+     "q": "Mythical little types are often good at metalworking, as were Greece's Cabiri, sons of this forge-working god",
+     "a": "Hephaestus",
+     "right": [
+      "Holly"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 5,
+     "q": "After his brother becomes a monk, a duke residing in a forest is restored to his rightful rule & everyone lives happily ever after",
+     "a": "As You Like It",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 7,
+     "q": "This hilly forested region of northern France follows \"Meuse\" in the name of a major Allied offensive in 1918",
+     "a": "the Argonne",
+     "right": [
+      "Holly"
+     ],
+     "wrong": [
+      "Mark"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 13,
+     "q": "The outer solar system has a \"Belt\" of icy objects & this same-named seemingly empty \"Cliff\"",
+     "a": "Kuiper",
+     "right": [
+      "Holly"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 15,
+     "q": "Panang & massaman are Thai varieties of this dish",
+     "a": "curry",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 26,
+     "q": "The 1983 Bond film \"Octopussy\" has 007 crossing from West Berlin into East Berlin via this infamous checkpoint",
+     "a": "Checkpoint Charlie",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 19,
+     "q": "In the legends of this largest ethnic group in South Africa, the Abatwa are tiny hunters who sleep in anthills",
+     "a": "the Zulu",
+     "right": [
+      "Holly"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "MIDTERM ELECTIONS",
+    "LEGALLY LATIN",
+    "BROADWAY MUSICALS BY SONGS",
+    "RELIGIOUS FRUIT",
+    "PORTMANTEAUS & BLENDED WORDS",
+    "5 \"BAD\" PLACES TO SEE BEFORE YOU DIE"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 30,
+     "q": "With reform on their minds, those first elected to Congress in 1974 like Henry Waxman & Tom Harkin were called this scandal's \"Babies\"",
+     "a": "Watergate",
+     "right": [
+      "Holly"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 24,
+     "q": "\"Let it be done\", or the Euro car brand that makes the \nGrande Panda",
+     "a": "fiat",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 23,
+     "q": "\"It's The Hard-Knock Life\"\n&\n\"Tomorrow\"",
+     "a": "Annie",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 21,
+     "q": "Wahi ka niu, to \"break open\" this hard-shelled fruit, was a sign of piety in Polynesia of yore",
+     "a": "a coconut",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 16,
+     "q": "A Mai Tai or Manhattan, but with no alcohol in it",
+     "a": "a mocktail",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 18,
+     "q": "nps.gov mentions mixed-grass prairie & a 75-million-year fossil record on its website for this national park",
+     "a": "Badlands",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "November 1950 was a tough month for him: an assassination attempt as he napped in his underwear at Blair House, then Democratic losses",
+     "a": "(Harry) Truman",
+     "right": [
+      "Michael"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 25,
+     "q": "This 2-word term, \"at first sight\", is a type of \"evidence\" that sustains a fact until proven otherwise",
+     "a": "prima facie",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 22,
+     "q": "\"The Rum Tum Tugger\"\n&\n\"Old Deuteronomy\"",
+     "a": "Cats",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 6,
+     "q": "In some countries it's customary to break the Ramadan fast with this fruit, like the medjool",
+     "a": "a date",
+     "right": [
+      "Holly"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 15,
+     "q": "The visible streak that can form in the wake of a jumbo jet",
+     "a": "a contrail",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 17,
+     "q": "This German city in the Black Forest with a double-talk name has Roman baths built more than 2,000 years ago",
+     "a": "Baden-Baden",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": true,
+     "order": 10,
+     "q": "The 1826 midterms, the first to take House control from an incumbent pres.' party, put a definite end to this 10-year-old era",
+     "a": "the Era of Good Feelings",
+     "right": [
+      "Michael"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 4000
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": true,
+     "order": 26,
+     "q": "If a judge conducts a hearing with only one of the 2 contending parties present, it's being held this Latin way",
+     "a": "ex parte",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2000
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 1,
+     "q": "\"America\"\n&\n\"I Feel Pretty\"",
+     "a": "West Side Story",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 2,
+     "q": "From this Bible book: \"Thy breasts shall be as clusters of the vine, & the smell of thy nose like apples\"",
+     "a": "Song of Songs (Song of Solomon)",
+     "right": [
+      "Holly"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 12,
+     "q": "This word dates back over 120 years, long before it came to mean a scrawled signature",
+     "a": "squiggle",
+     "right": [],
+     "wrong": [
+      "Holly"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 7,
+     "q": "In the 1960s a Greek architect designed this world capital about 10 miles from Rawalpindi",
+     "a": "Islamabad",
+     "right": [
+      "Michael"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 9,
+     "q": "1918's midterms made Republican Henry Cabot Lodge Senate Majority Leader, dooming this treaty the Senate rejected the following November",
+     "a": "the Treaty of Versailles",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 27,
+     "q": "Uncover this, the \"body of the crime\"; it goes to the principle of no one getting convicted of a crime without real evidence",
+     "a": "corpus delicti",
+     "right": [],
+     "wrong": [
+      "Holly"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 3,
+     "q": "\"The Rain In Spain\"\n&\n\"Get Me To The Church On Time\"",
+     "a": "My Fair Lady",
+     "right": [
+      "Michael"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 5,
+     "q": "Medieval European pilgrims to the Holy Land encountering this oblong fruit noted a cross appeared when it was sliced",
+     "a": "the banana",
+     "right": [],
+     "wrong": [
+      "Mark"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 13,
+     "q": "Many types of dogs have portmanteau names like this cross between two breeds, one from an island",
+     "a": "a Maltipoo",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [
+      "Holly"
+     ],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 8,
+     "q": "From Telescope Peak, you can see the highest & lowest points in the cont. U.S.--Mount Whitney & this low \"Basin\" in Death Valley",
+     "a": "Badwater Basin",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 11,
+     "q": "Losses in the Civil War midterms pushed the GOP into an alliance with this party whose name tells you which side of the war it was on",
+     "a": "the Union Party",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 28,
+     "q": "You hear a lot about this phrase, \"to stand by things decided\", regarding Supreme Court decisions that uphold precedents",
+     "a": "stare decisis",
+     "right": [
+      "Holly"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 4,
+     "q": "\"Hosanna\"\n&\n\"I Don't Know How To Love Him\"",
+     "a": "Jesus Christ Superstar",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 20,
+     "q": "Etrog, a citrus fruit, is used during this week-long holiday in Judaism also known as the Feast of Tabernacles",
+     "a": "Sukkot",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 14,
+     "q": "The killing of an entire alien species, it's the title of a sci-fi novel by Orson Scott Card",
+     "a": "Xenocide",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 19,
+     "q": "This city in India's Deccan Plateau is home to the world tallest monolith of Gautama Buddha",
+     "a": "Hyderabad",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "FICTIONAL CHARACTERS",
+  "q": "An outcast, this character plagues a hall called Heorot for a dozen years",
+  "a": "Grendel",
+  "right": [],
+  "wrong": [
+   "Holly",
+   "Michael",
+   "Mark"
+  ]
+ },
+ "gameId": "9537"
+}
