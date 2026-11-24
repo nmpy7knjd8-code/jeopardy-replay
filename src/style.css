@@ -282,7 +282,7 @@ body:not([data-st=board]):not([data-st=picking]):not([data-st=ddsplash]) #ff{vis
 .ep{border:var(--bw) solid var(--ghost-bd)!important;border-radius:14px!important;background:rgba(0,0,0,.25)!important}
 .ep.sel{border-color:var(--gold)!important;background:rgba(232,184,75,.14)!important;box-shadow:0 0 0 1px var(--gold) inset!important}
 @media (orientation:landscape){.eps{display:grid!important;grid-template-columns:repeat(3,1fr);width:min(150vmin,94vw)}.ep{flex:none}}
-@media (orientation:portrait){.panel.intro{gap:max(12px,2.4vmin)}.eps{gap:max(7px,1.2vmin)}.ep{padding:max(7px,1.1vmin) max(12px,2.2vmin)!important;gap:2px!important}.ep .en{font-size:max(15px,3.2vmin)!important}}
+@media (orientation:portrait){.panel.intro{gap:max(12px,2.4vmin)}.eps{gap:max(7px,1.2vmin)}}
 #hud #mute.ic{background:var(--ghost-bg);border:var(--bw) solid var(--ghost-bd);width:var(--ic);height:var(--ic);opacity:.45;border-radius:50%}
 #hud #mute.ic:hover,#hud #mute.ic:active,#hud #mute.ic:focus-visible{opacity:1;background:rgba(255,255,255,.16)}
 
@@ -315,10 +315,10 @@ body:not([data-st=board]):not([data-st=picking]):not([data-st=ddsplash]) #ff{vis
 .sitem:hover,.sitem.on{background:rgba(232,184,75,.16)}
 .sitem.on{box-shadow:0 0 0 1px var(--gold) inset}
 .sitem .scount{color:var(--gold);letter-spacing:.1em;opacity:.9}
-.panel.intro .eps{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:max(6px,1vmin);width:min(100vmin,94vw);flex:0 1 auto;min-height:0;overflow:auto;-webkit-overflow-scrolling:touch;align-content:start}
-.panel.intro .ep{position:relative;padding:max(8px,1.2vmin) max(12px,2vmin);gap:2px!important;min-height:0;align-items:flex-start;text-align:left}
-.panel.intro .ep .ed{font-size:max(12px,2.1vmin)!important;letter-spacing:.1em}
-.panel.intro .ep .en{font:500 max(11px,1.9vmin)/1.2 Oswald,sans-serif!important;letter-spacing:.04em;text-transform:uppercase;color:rgba(230,233,255,.78)}
+.panel.intro .eps{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:max(6px,1vmin);width:min(100vmin,94vw);flex:0 1 auto;min-height:0;overflow:auto;-webkit-overflow-scrolling:touch;align-content:start;padding-bottom:max(12px,2vmin);scroll-padding-bottom:max(12px,2vmin)}
+.panel.intro .ep{position:relative;display:flex;flex-direction:column;justify-content:center;align-items:stretch;box-sizing:border-box;padding:max(10px,1.5vmin) max(12px,2vmin)!important;gap:.3em!important;min-height:auto;height:auto;overflow:visible;text-align:left;-webkit-appearance:none;appearance:none}
+.panel.intro .ep .ed{display:block;font-size:max(12px,2.1vmin)!important;letter-spacing:.1em;line-height:1.45;overflow:visible}
+.panel.intro .ep .en{display:block;font:500 max(11px,1.9vmin)/1.45 Oswald,sans-serif!important;letter-spacing:.04em;text-transform:uppercase;color:rgba(230,233,255,.78);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;min-width:0;max-width:100%}
 .panel.intro .ep .played{position:absolute;top:max(6px,0.8vmin);right:max(8px,1.2vmin);font:500 max(11px,1.8vmin)/1 Oswald,sans-serif;letter-spacing:.04em;color:var(--gold);opacity:.9}
 .panel.intro .ep.did{border-color:rgba(232,184,75,.45)!important}
 .panel.intro .btn{position:relative;margin-top:max(10px,1.4vmin);z-index:2;flex:none}
@@ -328,7 +328,7 @@ body:not([data-st=board]):not([data-st=picking]):not([data-st=ddsplash]) #ff{vis
   .panel.intro .eps{grid-template-columns:repeat(3,minmax(0,1fr));width:min(150vmin,94vw)}
   .sbar{width:min(150vmin,94vw)}
 }
-@media (max-height:700px){.panel.intro .ep{padding:max(6px,0.9vmin) max(10px,1.6vmin)!important}.panel.intro .logo{font-size:min(11vw,8vh)}}
+@media (max-height:700px){.panel.intro .logo{font-size:min(11vw,8vh)}}
 
 /* pause: button sits beside the score, mirrored slot keeps the score centered */
 #hud .hudmid{display:flex;align-items:center;justify-content:center;gap:max(8px,1.4vmin);position:relative;z-index:1}
