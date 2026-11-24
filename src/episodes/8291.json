@@ -1,0 +1,992 @@
+{
+ "show": "#8912",
+ "aired": "2023-07-11",
+ "note": "",
+ "contestants": [
+  {
+   "name": "Erin Sheedy",
+   "bio": "a library science graduate student from Pittsburgh, Pennsylvania",
+   "short": "Erin"
+  },
+  {
+   "name": "Justin White",
+   "bio": "a director of orchestra personnel from Overland Park, Kansas",
+   "short": "Justin"
+  },
+  {
+   "name": "James Tyler",
+   "bio": "a senior editor from Blandon, Pennsylvania (whose 1-day cash winnings total $8,200)",
+   "short": "James"
+  }
+ ],
+ "scores": {
+  "J": {
+   "James": 4200,
+   "Justin": 3000,
+   "Erin": 5400
+  },
+  "DJ": {
+   "James": 15000,
+   "Justin": 9200,
+   "Erin": 7000
+  },
+  "Final": {
+   "James": 11000,
+   "Justin": 14701,
+   "Erin": 7000
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "SPACE CUISINE",
+    "SO YOU GOT YOUR \"M.A.\"",
+    "CARTOON CRITTERS",
+    "FIRST NAME VERBS",
+    "FRIENDS",
+    "IN HIGH PLACES"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 19,
+     "q": "After John Young smuggled a corned beef sandwich onto a Gemini mission, bits of this bread floated around the capsule",
+     "a": "rye",
+     "right": [
+      "Erin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 17,
+     "q": "Kendo & hapkido, to name just 2",
+     "a": "martial arts",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 18,
+     "q": "Nicknamed \"Taz\", this voracious Warner Bros. character is named for a real creature off Australia's coast",
+     "a": "the Tasmanian Devil",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "To honor, as with one's presence",
+     "a": "grace",
+     "right": [
+      "Erin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 25,
+     "q": "Bonding over their love of golf, this entertainer said that of all the presidents Gerald Ford was \"the one I can call a pal\"",
+     "a": "Bob Hope",
+     "right": [
+      "Justin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 30,
+     "q": "Mount Washington in this state is the highest point in New England",
+     "a": "New Hampshire",
+     "right": [
+      "Justin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 20,
+     "q": "The first drink taken on the Moon was this, by Buzz Aldrin as he observed communion aboard the Eagle",
+     "a": "wine",
+     "right": [
+      "Erin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 10,
+     "q": "The name of this New York City street is synonymous with the advertising industry",
+     "a": "Madison Avenue",
+     "right": [
+      "Erin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 12,
+     "q": "The 2022 sequel to the movie about this video game hedgehog finds him jamming to \"Here Comes The Hotstepper\"",
+     "a": "Sonic the Hedgehog",
+     "right": [
+      "Justin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "To put on clothes",
+     "a": "don",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 24,
+     "q": "This French general remained friends with George Washington after the Revolutionary War & even named a son after him",
+     "a": "Lafayette",
+     "right": [
+      "Erin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "From its observation deck, 1,465 feet above Toronto, you can feel this building sway in the wind",
+     "a": "the CN Tower",
+     "right": [
+      "Erin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 21,
+     "q": "Long missions don't serve foods high in this element, as astronauts have fewer red blood cells & can't process it well",
+     "a": "iron",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 9,
+     "q": "He said, \"Not only do I knock 'em out, I pick the round\"",
+     "a": "Muhammad Ali",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 7,
+     "q": "Gabriel Iglesias voiced this \"fastest mouse in all of Mexico\" in \"Space Jam: A New Legacy\"",
+     "a": "Speedy Gonzales",
+     "right": [
+      "Justin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 3,
+     "q": "To pry open",
+     "a": "jimmy",
+     "right": [
+      "James"
+     ],
+     "wrong": [
+      "Justin"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 13,
+     "q": "In a letter to Elizabeth Cady Stanton, she recalled \"stirring up the world to recognize the rights of women\"",
+     "a": "Susan B. Anthony",
+     "right": [
+      "Erin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 26,
+     "q": "Mount Vinson is the tallest of several mountains on Antarctica collectively referred to as Vinson this",
+     "a": "Vinson Massif",
+     "right": [
+      "Justin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 22,
+     "q": "To solve the problem of bread crumbs floating around, in 1985 NASA began using flat flour these",
+     "a": "a tortilla",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 11,
+     "q": "\"The Knight of Maison-Rouge\" is a long-forgotten Dumas adventure about this beautiful & tragic queen",
+     "a": "Marie Antoinette",
+     "right": [
+      "Justin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 6,
+     "q": "This title Manx cat is often addressed by his Chihuahua friend as \"You eeediot!\"",
+     "a": "Stimpy",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 4,
+     "q": "To kid around",
+     "a": "josh",
+     "right": [
+      "Erin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 14,
+     "q": "Conversations about language & myths initially bonded these two titans of fantasy influencing each other & their work",
+     "a": "C.S. Lewis & J.R.R. Tolkien",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 28,
+     "q": "It ranks as the highest mountain peak in both the Southern & Western Hemispheres",
+     "a": "Aconcagua",
+     "right": [
+      "Justin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 23,
+     "q": "During the 1975 Apollo-Soyuz link-up, cosmonauts & astronauts shared this beet soup from packages jokingly marked \"vodka\"",
+     "a": "borscht",
+     "right": [
+      "Erin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 16,
+     "q": "This 1910 law said you couldn't take women across state lines for immoral purposes",
+     "a": "the Mann Act",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 8,
+     "q": "Rainbow Dash is a daredevil Pegasus in this magical animated series",
+     "a": "My Little Pony",
+     "right": [
+      "Justin"
+     ],
+     "wrong": [
+      "James"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": true,
+     "order": 5,
+     "q": "To give, like a wish",
+     "a": "grant",
+     "right": [
+      "Erin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1000
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 15,
+     "q": "Meeting in India in the 1950s, Yehudi Menuhin & this sitarist forged a musical relationship that lasted the rest of their lives",
+     "a": "Ravi Shankar",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 29,
+     "q": "Located in Colorado & named for metal ore, at approximately 10,150 feet, it's the highest incorporated city in the USA",
+     "a": "Leadville",
+     "right": [],
+     "wrong": [
+      "Justin"
+     ],
+     "stumper": true,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "A CENTURY AGO: 1923",
+    "2 BOOKS IN ONE",
+    "\"B\" IN MUSIC",
+    "A GAME OF CARDS",
+    "CITY FOLK",
+    "7-LETTER WORDS"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 26,
+     "q": "This facility hosts its first game, with Babe Ruth hitting a 3-run homer to beat the Red Sox",
+     "a": "Yankee Stadium",
+     "right": [
+      "James"
+     ],
+     "wrong": [
+      "Justin"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 21,
+     "q": "\"Bleak Expectations\"",
+     "a": "Great Expectations & Bleak House",
+     "right": [
+      "Erin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "You could say it's a conductor's magic wand",
+     "a": "a baton",
+     "right": [
+      "Justin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 7,
+     "q": "This wild card originated in the game of euchre & may have gotten its name from it",
+     "a": "the joker",
+     "right": [
+      "Justin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 11,
+     "q": "In song, she posed the questions \"How Will I Know\" & \"Where Do Broken Hearts Go\"",
+     "a": "Whitney Houston",
+     "right": [
+      "Justin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 19,
+     "q": "It's a broom's natural partner",
+     "a": "dustpan",
+     "right": [
+      "Erin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 27,
+     "q": "This constitutional amendment to ban discrimination based on sex is first proposed in Congress",
+     "a": "the ERA",
+     "right": [],
+     "wrong": [
+      "Erin"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 22,
+     "q": "\"The Hunt for Present Danger\"",
+     "a": "The Hunt for Red October & Clear and Present Danger",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 2,
+     "q": "It's the male singing voice between tenor & bass",
+     "a": "a baritone",
+     "right": [
+      "Justin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 6,
+     "q": "This other name for solitaire is a virtue you might need while playing it",
+     "a": "patience",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 12,
+     "q": "This 2-time Oscar nominee who also plays Joyce Byers on \"Stranger Things\" was named for her hometown in Minnesota",
+     "a": "Winona Ryder",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 18,
+     "q": "A type of lettuce, or a big object produced by a process called calving",
+     "a": "iceberg",
+     "right": [
+      "Justin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 28,
+     "q": "At a conference of 20 nations in Vienna, this global law enforcement body is founded",
+     "a": "INTERPOL",
+     "right": [
+      "Justin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 23,
+     "q": "\"Dandelion 451\"",
+     "a": "Dandelion Wine & Fahrenheit 451",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": true,
+     "order": 3,
+     "q": "Russian by birth, he composed the patriotic song heard here for his beloved adopted country",
+     "a": "Irving Berlin",
+     "right": [],
+     "wrong": [
+      "Justin"
+     ],
+     "stumper": false,
+     "img": true,
+     "ddWager": 2800
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": true,
+     "order": 8,
+     "q": "There are 2 types of booze in this 2-player game",
+     "a": "gin rummy",
+     "right": [
+      "Justin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2200
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 13,
+     "q": "This \"TODAY\" co-anchor & legal correspondent received the top score on her Arizona bar exam in 2002",
+     "a": "Savannah Guthrie",
+     "right": [
+      "Justin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 16,
+     "q": "A vexing song or melody you can't get out of your head",
+     "a": "an earworm",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 29,
+     "q": "Peering back millennia, this archaeologist opens King Tut's burial chamber in the Valley of the Kings",
+     "a": "Howard Carter",
+     "right": [],
+     "wrong": [
+      "Justin"
+     ],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 24,
+     "q": "\"All the Pretty Old Men\"",
+     "a": "All the Pretty Horses & No Country for Old Men",
+     "right": [
+      "Justin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 4,
+     "q": "This \"Lullaby\" composer once upset Franz Liszt by falling asleep during one of his performances",
+     "a": "Brahms",
+     "right": [
+      "Erin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 9,
+     "q": "If you've been dealt an 11 in blackjack, consider this alliterative option",
+     "a": "double down",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 14,
+     "q": "He directed \"Home Alone\" as well as the first 2 Harry Potter movies",
+     "a": "Chris Columbus",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 17,
+     "q": "A piece of rope used to tie something to a ship, or a strap for carrying something around the neck",
+     "a": "a lanyard",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 30,
+     "q": "This Russian immigrant files a patent for the iconoscope, the first television transmission tube",
+     "a": "Vladimir Zworykin",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 25,
+     "q": "\"Sharp Girl\"",
+     "a": "Sharp Objects & Gone Girl",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 5,
+     "q": "This German music festival has been presenting the works of Wagner since 1876",
+     "a": "Bayreuth",
+     "right": [
+      "Justin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 10,
+     "q": "The name of this 18th century whist expert & author is often invoked as an authority, as in \"According to\"",
+     "a": "(Edmond) Hoyle",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 15,
+     "q": "This actress & model found a love match with Andy Roddick; they married in 2009",
+     "a": "Brooklyn Decker",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 20,
+     "q": "It's the place where horses are saddled before a race, or an enclosed space where they're exercised",
+     "a": "a paddock",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "OLYMPIC TEAMS",
+  "q": "A city of about 2.5 million people, since 1984 for political reasons it has been in the name of an Olympic team",
+  "a": "Taipei",
+  "right": [
+   "Justin"
+  ],
+  "wrong": [
+   "Erin",
+   "James"
+  ]
+ },
+ "gameId": "8291",
+ "cat_notes": {
+  "J": [
+   "Clues about Space Cuisine.",
+   "Each answer is formed from the initials M.A.",
+   "Clues about Cartoon Critters.",
+   "Clues about First Name Verbs.",
+   "Clues about Friends.",
+   "Clues in High Places."
+  ],
+  "DJ": [
+   "Clues about A Century Ago: 1923.",
+   "You'll need to name the two books by the same author that we've mashed up; give us the books, not the author.",
+   "Each answer is a person or name associated with the letter “B”, and the clues are about In Music.",
+   "Clues about A Game of Cards.",
+   "Clues about City Folk.",
+   "Each answer is a 7-letter word."
+  ],
+  "F": "Clues about Olympic Teams."
+ }
+}

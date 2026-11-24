@@ -1,0 +1,996 @@
+{
+ "show": "#8660",
+ "aired": "2022-06-10",
+ "note": "Eric Ahasic game 5. \r Sarah Whitcomb Foss's last game as a member of the Clue Crew.",
+ "contestants": [
+  {
+   "name": "Siobhan Doherty",
+   "bio": "a voice and speech teacher originally from Santa Barbara, California",
+   "short": "Siobhan"
+  },
+  {
+   "name": "Randy Moss",
+   "bio": "an attorney from Walnut Creek, California",
+   "short": "Randy"
+  },
+  {
+   "name": "Eric Ahasic",
+   "bio": "a meteorologist from Minneapolis, Minnesota (whose 4-day cash winnings total $105,801)",
+   "short": "Eric"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Eric": 7600,
+   "Randy": 5400,
+   "Siobhan": 2400
+  },
+  "DJ": {
+   "Eric": 28400,
+   "Randy": 13800,
+   "Siobhan": 3600
+  },
+  "Final": {
+   "Eric": 28000,
+   "Randy": 14000,
+   "Siobhan": 3595
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "WHERE AM I?",
+    "MOVIES WITH NARRATORS",
+    "ANIMAL ANAGRAMS",
+    "THE SHIRT OFF OUR BACK",
+    "U.S. DATES",
+    "JANE AUSTEN-TATIOUS"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 21,
+     "q": "(Sarah of the Clue Crew presents the clue.) I'm at the Smithsonian's National Air and Space Museum, one of dozens of institutions, monuments & memorials along this promenade & green area that extends from the U.S. Capitol to the Potomac",
+     "a": "the (National) Mall",
+     "right": [
+      "Eric"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 8,
+     "q": "2013: Disgraced stockbroker Jordan Belfort (Leonardo DiCaprio)",
+     "a": "The Wolf of Wall Street",
+     "right": [
+      "Eric"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 24,
+     "q": "I found this insect on a leaf",
+     "a": "a flea (from leaf)",
+     "right": [
+      "Eric"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 23,
+     "q": "This type of sweater is named for the rowing team",
+     "a": "crew (a crew neck)",
+     "right": [
+      "Randy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 16,
+     "q": "On this date each year moments of silence are observed in New York City at 8:46 & 9:03 A.M.",
+     "a": "September 11th",
+     "right": [
+      "Siobhan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 30,
+     "q": "Originally titled \"First Impressions\", this tale of Elizabeth Bennet would be Jane's second novel published",
+     "a": "Pride and Prejudice",
+     "right": [
+      "Eric"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 9,
+     "q": "(Sarah of the Clue Crew presents the clue.) I’m here on board the fire boat John S. Damrell helping protect this city’s harbor south of Winthrop & north of Quincy",
+     "a": "Boston",
+     "right": [
+      "Eric"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 18,
+     "q": "1979: Captain Willard (Martin Sheen) regrets he's still only in Saigon",
+     "a": "Apocalypse Now",
+     "right": [
+      "Randy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 25,
+     "q": "I saw this critter sneak into the yard",
+     "a": "a snake (from sneak)",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 22,
+     "q": "Seen here, this item is said to date back to the 1920s or '30s, when kimono fabric began to be used for men's shirts",
+     "a": "a Hawaiian shirt",
+     "right": [
+      "Eric"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 7,
+     "q": "For years 7-Eleven offered a little joy with free Slurpees on this date",
+     "a": "July 11th",
+     "right": [
+      "Randy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 29,
+     "q": "In Austen novels the girls like a guy who has \"four thousand\" or \"five thousand a year\"--4 or 5,000 of these",
+     "a": "pounds",
+     "right": [
+      "Randy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 1,
+     "q": "(Jimmy of the Clue Crew presents the clue.) I’m training for the worst, at the Texas A&M Extension Service in this city named for its railroad connections",
+     "a": "College Station",
+     "right": [
+      "Eric"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 17,
+     "q": "1990: Henry Hill says, \"As far back as I can remember, I always wanted to be a gangster\"",
+     "a": "Goodfellas",
+     "right": [
+      "Randy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 26,
+     "q": "Gosh, I didn't realize that half of these farm animals are raised in China",
+     "a": "hogs (from gosh)",
+     "right": [
+      "Eric"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 10,
+     "q": "A 2021 Rolling Stone headline: \"The best\" these \"shirts for channeling every style, from grunge to cool lumber jack\"",
+     "a": "flannel shirts",
+     "right": [
+      "Eric"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 4,
+     "q": "Punxsutawney Phil is known to make an appearance on this day",
+     "a": "February 2nd",
+     "right": [
+      "Eric"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 15,
+     "q": "Austen adaptations include the 1995 movie version of this novel starring Emma Thompson as Elinor Dashwood",
+     "a": "Sense and Sensibility",
+     "right": [
+      "Eric"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 2,
+     "q": "(Sarah of the Clue Crew presents the clue.) I’m in this area of San Francisco that served as an Army base for Spain, Mexico & the United States before switching to civilian use in 1994",
+     "a": "the Presidio",
+     "right": [
+      "Randy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 19,
+     "q": "1986: Richard Dreyfuss remembers back to when he was Wil Wheaton",
+     "a": "Stand By Me",
+     "right": [
+      "Randy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 27,
+     "q": "In summer this weasel is the color of toast",
+     "a": "a stoat (from toast)",
+     "right": [
+      "Randy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 11,
+     "q": "The name of this university is found from nearly head to toe in a fashionable type of shirt as well as a type of shoe",
+     "a": "Oxford",
+     "right": [
+      "Eric"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 5,
+     "q": "On this date in 1921 an Unknown Soldier was buried at Arlington National Cemetery",
+     "a": "November 11th",
+     "right": [],
+     "wrong": [
+      "Eric",
+      "Siobhan"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": true,
+     "order": 13,
+     "q": "Jane lived most of her life in this southern English county that lent its name to a \"New\" U.S. state",
+     "a": "Hampshire",
+     "right": [
+      "Siobhan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1000
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 3,
+     "q": "(Jimmy of the Clue Crew presents the clue.) I’m at the Wright Brothers National Memorial near Kitty Hawk, perhaps the most historically important spot in the 200-mile chain of islands off North Carolina",
+     "a": "the Outer Banks",
+     "right": [
+      "Eric"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 20,
+     "q": "1950: A screenwriter doesn't let being dead stop him from narrating a Hollywood tale",
+     "a": "Sunset Boulevard",
+     "right": [
+      "Randy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 28,
+     "q": "I hear this ostrich relative stands about 4 feet tall",
+     "a": "rhea (from hear)",
+     "right": [
+      "Eric"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 12,
+     "q": "Maude Adams' look in a 1905 Broadway production of a J.M. Barrie work popularized this flat collar on shirts",
+     "a": "Peter Pan",
+     "right": [
+      "Siobhan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 6,
+     "q": "Date in 1865 on which Union General Gordon Granger told the African Americans of Galveston they were free",
+     "a": "June 19th (Juneteenth)",
+     "right": [
+      "Eric"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 14,
+     "q": "2 of Jane's 6 novels were published posthumously--\"Persuasion\" & this one with a building for a title",
+     "a": "Northanger Abbey",
+     "right": [
+      "Siobhan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "A HISTORY OF NONVIOLENCE",
+    "NOTES FOR A BIOGRAPHY",
+    "KILLER TUNES",
+    "EARTH SCIENCE",
+    "SECRET SERVICES",
+    "P IS THE ONLY CONSONANT"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 20,
+     "q": "At age 13 he married Kasturba, whom he would later call his teacher in nonviolence",
+     "a": "Gandhi",
+     "right": [
+      "Eric"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 17,
+     "q": "George Monroe & William Robinson: 2 African-American riders in this horsepowered mail service in the 1860s",
+     "a": "the Pony Express",
+     "right": [
+      "Randy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 29,
+     "q": "\"Are you ready? Hey! Are you ready for this? Are you hanging on the edge of your seat?\" Are questions asked in this Queen tune",
+     "a": "\"Another One Bites The Dust\"",
+     "right": [
+      "Siobhan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 6,
+     "q": "By definition, orogeny concerns itself with the formation of these by upward movements of the Earth's crust",
+     "a": "mountains",
+     "right": [
+      "Eric"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 22,
+     "q": "The U.S. Secret Service Uniformed Division branch named for this building includes counter snipers on its roof",
+     "a": "the White House",
+     "right": [
+      "Eric"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 30,
+     "q": "A young wolf",
+     "a": "a pup",
+     "right": [
+      "Randy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 7,
+     "q": "Seen here, Stokely Carmichael replaced John Lewis as head of SNCC, short for their Nonviolent Coordinating Committee",
+     "a": "Student",
+     "right": [
+      "Eric"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 8,
+     "q": "Zhou Enlai: both prime minister & foreign minister of the country with this new name from its beginning in 1949",
+     "a": "the People's Republic of China",
+     "right": [
+      "Randy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 16,
+     "q": "He's the \"Calvin Broadus (1972-1994)\" referred to on the cover of \"Murder Was the Case\", both a song & short film",
+     "a": "Snoop Dogg",
+     "right": [
+      "Eric"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 5,
+     "q": "Increased seismic activity, especially in Oklahoma, has been linked to wastewater injection & this controversial practice",
+     "a": "fracking",
+     "right": [
+      "Siobhan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": true,
+     "order": 12,
+     "q": "Security Service & Secret Intelligence Service are the British agencies popularly known by these alphanumeric names",
+     "a": "MI5 & MI6",
+     "right": [
+      "Eric"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 3000
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 1,
+     "q": "The bonobo is one",
+     "a": "an ape",
+     "right": [
+      "Eric"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 18,
+     "q": "St. Elizabeth of this country rode between 2 armies & quelled hostilities between her son Afonso & her husband, King Dinis",
+     "a": "Portugal",
+     "right": [
+      "Eric"
+     ],
+     "wrong": [
+      "Randy",
+      "Siobhan"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 9,
+     "q": "Betty Friedan: the unhappy classmates at her Smith College 15th reunion inspired this 1963 nonfiction work",
+     "a": "The Feminine Mystique",
+     "right": [
+      "Eric"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 28,
+     "q": "Both Eric Clapton & Bob Marley sang this song, but swore it was in self-defense",
+     "a": "\"I Shot The Sheriff\"",
+     "right": [
+      "Randy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 2,
+     "q": "An iron ore, this mineral is named for the property it's exhibiting here",
+     "a": "magnetite",
+     "right": [
+      "Eric"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 23,
+     "q": "This country's intelligence agency goes by the short name Mossad, which just means \"the institute\"",
+     "a": "Israel",
+     "right": [
+      "Eric"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 13,
+     "q": "A sharp-pointed dueling sword",
+     "a": "an epee",
+     "right": [
+      "Siobhan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 19,
+     "q": "One story of this Lakota leader recalls him entering a battlefield, taking a seat & smoking a pipe",
+     "a": "Sitting Bull",
+     "right": [
+      "Eric"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2200
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 10,
+     "q": "King George I: from Hanover, Germany but had a claim on the British crown through this man, his great-granddad born a Scot",
+     "a": "James I",
+     "right": [
+      "Eric"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 27,
+     "q": "Fronted by Danny Elfman, this rhyming band sang, \"It's a dead man's party, who could ask for more?\"",
+     "a": "Oingo Boingo",
+     "right": [
+      "Randy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 3,
+     "q": "In contrast to the lithosphere, or solid outer part of the Earth, this consists of all the Earth's water",
+     "a": "hydrosphere",
+     "right": [
+      "Eric"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 24,
+     "q": "This 3-letter agency was created in 1954 as \"the sword & shield of the Communist Party\"",
+     "a": "the KGB",
+     "right": [
+      "Randy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 14,
+     "q": "A J.Lo song popularized this Spanish word for \"daddy\" or \"sweetheart\"",
+     "a": "papi",
+     "right": [
+      "Randy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 21,
+     "q": "This eldest son of Victoria was called \"The Peacemaker\"; the memorial here notes his Entente Cordiale with France",
+     "a": "Edward VII",
+     "right": [
+      "Eric"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 11,
+     "q": "Jefferson Davis: as U.S. Secretary of War in 1853, he approved the import of these from Egypt to test in the Southwest",
+     "a": "camels",
+     "right": [
+      "Eric"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 26,
+     "q": "Backed up by the Bad Seeds, PJ Harvey & this man sang of the tragic fate of \"Henry Lee\"",
+     "a": "Nick Cave",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 4,
+     "q": "This geologic era that began around 65 million years ago is the one we're living in today",
+     "a": "the Cenozoic",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 25,
+     "q": "This country's secret intelligence service ASIS was founded in 1952; its existence was only acknowledged in Parliament in 1975",
+     "a": "Australia",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 15,
+     "q": "It's the life stage of an insect that fits the category",
+     "a": "pupa",
+     "right": [
+      "Randy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "THE WESTERN HEMISPHERE",
+  "q": "Brazil stretches 2,700 miles from the Atlantic in the east to Serra do Divisor National Park on the border with this country in the west",
+  "a": "Peru",
+  "right": [
+   "Randy"
+  ],
+  "wrong": [
+   "Siobhan",
+   "Eric"
+  ]
+ },
+ "gameId": "7377",
+ "cat_notes": {
+  "J": [
+   "The category “WHERE AM I?” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "Clues about Movies with Narrators.",
+   "Each answer is formed by rearranging letters from a word or name in the clue.",
+   "Clues about The Shirt Off Our Back.",
+   "Clues about U.S. Dates.",
+   "Clues about Jane Austen-tatious."
+  ],
+  "DJ": [
+   "Clues about A History of Nonviolence.",
+   "Clues about Notes for a Biography.",
+   "Clues about Killer Tunes.",
+   "Clues about Earth Science.",
+   "Clues about Secret Services.",
+   "The category “P IS THE ONLY CONSONANT” sets the theme — the clues follow that idea and any wordplay suggested by the title."
+  ],
+  "F": "Clues about The Western Hemisphere."
+ }
+}

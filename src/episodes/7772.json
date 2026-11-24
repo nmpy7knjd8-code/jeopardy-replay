@@ -1,0 +1,1003 @@
+{
+ "show": "#8831",
+ "aired": "2023-03-20",
+ "note": "Melissa Klapper game 1.",
+ "contestants": [
+  {
+   "name": "Jake Garrett",
+   "bio": "a football coach and teacher from Trussville, Alabama",
+   "short": "Jake"
+  },
+  {
+   "name": "Melissa Klapper",
+   "bio": "a professor from Merion Station, Pennsylvania",
+   "short": "Melissa"
+  },
+  {
+   "name": "Kelly Barry",
+   "bio": "a marketing communications specialist from Seattle, Washington (whose 1-day cash winnings total $14,600)",
+   "short": "Kelly"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Kelly": 3000,
+   "Melissa": 5200,
+   "Jake": 6800
+  },
+  "DJ": {
+   "Kelly": 8200,
+   "Melissa": 24400,
+   "Jake": 12400
+  },
+  "Final": {
+   "Kelly": 16200,
+   "Melissa": 24801,
+   "Jake": 24800
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "STATE OF THE AIRPORT",
+    "GIFTS FOR THE SPORTS FAN?",
+    "QUITE THE FISH STORY",
+    "\"ME\"",
+    "MYSELF",
+    "& EYE"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 5,
+     "q": "Ontario International, John Wayne Airport",
+     "a": "California",
+     "right": [
+      "Melissa"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 16,
+     "q": "The little plane called a Piper this would be a perfect gift for a Chicago baseball fan",
+     "a": "a Cub",
+     "right": [
+      "Jake"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 18,
+     "q": "Fish argue whether a dentist is using a Hedstrom file or a K-Flex in this Pixar film; the DDS did use the Schilder technique",
+     "a": "Finding Nemo",
+     "right": [
+      "Kelly"
+     ],
+     "wrong": [
+      "Melissa"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 11,
+     "q": "This adjective for something neither bad nor good is from Latin for \"of middle quality\"",
+     "a": "mediocre",
+     "right": [
+      "Melissa"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 7,
+     "q": "Her autobiography's dedication included \"Malia and Sasha\" & a man \"who always promised me an interesting journey\"",
+     "a": "Michelle Obama",
+     "right": [
+      "Kelly"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 28,
+     "q": "Attention, students! Anisocoria is where these eye parts are unequal in size, maybe due to a torn or blocked blood vessel in the neck",
+     "a": "the pupils",
+     "right": [
+      "Melissa"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 3,
+     "q": "Ketchikan International, Wiley Post-Will Rogers",
+     "a": "Alaska",
+     "right": [
+      "Kelly"
+     ],
+     "wrong": [
+      "Jake"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 17,
+     "q": "This word for any cheap trinket sounds perfect for a Big Apple hoops lover",
+     "a": "a knickknack",
+     "right": [
+      "Melissa"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 19,
+     "q": "\"Piranha 3D\" ate up the screen with Elisabeth Shue, Ving Rhames & great Scott!--this inventive \"Back to the Future\" actor",
+     "a": "Christopher Lloyd",
+     "right": [
+      "Jake"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 12,
+     "q": "Koplik's spots are associated with this contagious disease",
+     "a": "the measles",
+     "right": [
+      "Jake"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 9,
+     "q": "His book \"iWoz\" is subtitled \"Computer Geek to Cult Icon\"",
+     "a": "Steve Wozniak",
+     "right": [
+      "Kelly"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "\"Avian\" term for the tiny wrinkles that form around the eyes as we age; we prefer to call them \"smile lines\"",
+     "a": "crow's feet",
+     "right": [
+      "Jake"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 1,
+     "q": "Vero Beach Regional, Naples Airport",
+     "a": "Florida",
+     "right": [
+      "Jake"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 20,
+     "q": "A young Tampa hockey fan would probably dig a toy car depicting this cinematic speedster",
+     "a": "Lightning McQueen",
+     "right": [
+      "Jake"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 30,
+     "q": "The force of Lasse Hallström was strong to pull in this Scot to play a fisheries expert in \"Salmon Fishing in the Yemen\"",
+     "a": "Ewan McGregor",
+     "right": [
+      "Melissa"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 13,
+     "q": "Metheglin is a variety of this fermented beverage",
+     "a": "mead",
+     "right": [
+      "Jake"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 8,
+     "q": "Part of the \"Life\" of this Rolling Stones guitarist: \"I am pulled over by police officers in Arkansas... and a standoff ensues\"",
+     "a": "Keith Richards",
+     "right": [
+      "Jake"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 26,
+     "q": "Everyone has a blind spot, as there are no photoreceptors--that is, rods or these--in the optic disk",
+     "a": "cones",
+     "right": [
+      "Kelly"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 2,
+     "q": "Lewiston/ \nNez Perce County, Pocatello Regional",
+     "a": "Idaho",
+     "right": [
+      "Kelly"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 21,
+     "q": "This 1987 Tom Clancy novel would make even the most curmudgeonly Belichick fan happy",
+     "a": "Patriot Games",
+     "right": [
+      "Melissa"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "Michael Caine said he never saw himself in this 4: \"The Revenge\", \"but I've seen the house it bought for my mum. It's fantastic\"",
+     "a": "Jaws",
+     "right": [
+      "Jake"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 14,
+     "q": "To wander aimlessly",
+     "a": "meander",
+     "right": [
+      "Jake"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 6,
+     "q": "His autobio said in 1835 Mr. Freeland hired him from his master, but he wanted \"to live upon free land as well as with Freeland\"",
+     "a": "Frederick Douglass",
+     "right": [
+      "Jake"
+     ],
+     "wrong": [
+      "Melissa"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 25,
+     "q": "It's a clouding of what was once a clear eye lens; seeing halos around lights is a sign of them",
+     "a": "cataract",
+     "right": [
+      "Melissa"
+     ],
+     "wrong": [
+      "Kelly"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": true,
+     "order": 4,
+     "q": "Cheboygan County, Grosse Ile Municipal",
+     "a": "Michigan",
+     "right": [
+      "Kelly"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1200
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 24,
+     "q": "This 2-word fungus that's used to make beer will be welcomed by your suds-crafting, baseball-loving bro in Milwaukee",
+     "a": "brewer's yeast",
+     "right": [
+      "Melissa"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 22,
+     "q": "Melissa Etheridge gave Brad Pitt lessons in fly-fishing so he could play Paul Maclean in this film",
+     "a": "A River Runs Through It",
+     "right": [
+      "Melissa"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 15,
+     "q": "A body part is found in this word describing one who refuses to tell the truth in plain language",
+     "a": "mealymouthed",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 10,
+     "q": "If we may get existential for a moment... in 1963 this thinker published \"Les Mots\", or \"The Words\" of his life",
+     "a": "Sartre",
+     "right": [
+      "Melissa"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 23,
+     "q": "Referring to the device used, these 2 words are the \"L-A\" in LASIK eye surgery",
+     "a": "laser-assisted",
+     "right": [
+      "Jake"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "UNESCO's INTANGIBLE CULTURAL HERITAGE",
+    "PRESIDENTIAL INAUGURATIONS",
+    "ALPHABETIC HOMOPHONES",
+    "SHORT STORY, SHORTER",
+    "WALK, THE LINE",
+    "CRY UNCLE"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 5,
+     "q": "The sericulture of China made UNESCO's list along with the skill of making this resulting fabric",
+     "a": "silk",
+     "right": [
+      "Kelly"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 13,
+     "q": "Read at Clinton's inauguration, her poem \"On the Pulse of Morning\" contains the line \"lost in the gloom of dust and ages\"",
+     "a": "Angelou",
+     "right": [
+      "Melissa"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 21,
+     "q": "Between Tarrytown & Nyack, New York lies a watery section of river known as the Tappan this",
+     "a": "the Zee",
+     "right": [
+      "Melissa"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 7,
+     "q": "Roderick, Madeline & their place itself don't make it to the end; after all, it is \"The Fall of\" this",
+     "a": "the House of Usher",
+     "right": [
+      "Melissa"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 17,
+     "q": "Walk the Moon recounts a night at the disco: \"I said, 'you're holding back', she said\" this title",
+     "a": "\"Shut Up And Dance\" with me",
+     "right": [
+      "Jake"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 22,
+     "q": "At her wedding to FDR in 1905, Eleanor was given away by this uncle, who happened to be president at the time",
+     "a": "Theodore Roosevelt",
+     "right": [
+      "Jake"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 1,
+     "q": "Argentina & Uruguay were recognized for this dance developed in Buenos Aires & Montevideo",
+     "a": "the tango",
+     "right": [
+      "Kelly"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 14,
+     "q": "His second inaugural marked the first time African Americans had been included in the inaugural parade",
+     "a": "Lincoln",
+     "right": [
+      "Jake"
+     ],
+     "wrong": [
+      "Kelly"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 27,
+     "q": "\"Every kiss begins with\" this jeweler",
+     "a": "Kay",
+     "right": [
+      "Melissa"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 6,
+     "q": "After a bad Hessian session, this schoolmaster is never seen in Sleepy Hollow again",
+     "a": "(Ichabod) Crane",
+     "right": [
+      "Jake"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 16,
+     "q": "Migos & this Canadian teamed up on the 2018 hit \"Walk It Talk It\"",
+     "a": "Drake",
+     "right": [
+      "Jake"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 23,
+     "q": "It was the last name of dancer & choreographer Agnes & her famous uncle Cecil B.",
+     "a": "de Mille (DeMille)",
+     "right": [
+      "Melissa"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 2,
+     "q": "Castells, or human towers, are created by amateur groups at festivals in this Spanish region that includes Barcelona & Tarragona",
+     "a": "Catalonia",
+     "right": [
+      "Jake"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 11,
+     "q": "FDR's 1st inaugural gave us this 10-word statement, a \"firm belief\" about \"nameless, unreasoning, unjustified terror\"",
+     "a": "\"The only thing we have to fear is fear itself\"",
+     "right": [],
+     "wrong": [
+      "Jake"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 28,
+     "q": "This word precedes \"England Slept\" in a 1940 book by JFK",
+     "a": "Why",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 10,
+     "q": "Frank Stockton leaves it up to you--\"Which came out of the opened door--the lady or\" this?",
+     "a": "the tiger",
+     "right": [
+      "Melissa"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 18,
+     "q": "Vanessa Carlton was nominated for 3 Grammys for her song that said, \"You know I'd walk\" this far to \"just see you tonight\"",
+     "a": "a thousand miles",
+     "right": [
+      "Jake"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 24,
+     "q": "At the time of his 1914 assassination, Franz Ferdinand was heir to the throne occupied by this man, his uncle",
+     "a": "Franz Joseph",
+     "right": [
+      "Kelly"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 3,
+     "q": "In 2022 UNESCO honored this long French loaf of bread, the most popular kind eaten in France year round",
+     "a": "a baguette",
+     "right": [
+      "Jake"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 12,
+     "q": "His nearly 8,500-word address is by far the longest ever; he should have saved his energy",
+     "a": "William Henry Harrison",
+     "right": [
+      "Jake"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 29,
+     "q": "The poem Amanda Gorman read at the U.N. General Assembly was titled \"An Ode We\" this",
+     "a": "Owe",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 9,
+     "q": "A \"Scrivener\" hired to copy legal documents, he's an early advocate of quiet quitting, then quits life itself",
+     "a": "Bartleby",
+     "right": [
+      "Melissa"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 19,
+     "q": "According to the Bangles, \"Slide your feet up the street, bend your back, shift your arm, then you pull it back\" to do this",
+     "a": "walk like an Egyptian",
+     "right": [
+      "Kelly"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 25,
+     "q": "Real name Ivan, he's the bitter, aging title character of a Chekhov play",
+     "a": "Uncle Vanya",
+     "right": [
+      "Melissa"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 4,
+     "q": "UNESCO referred to the duduk as Armenia's equivalent of this Western reed instrument",
+     "a": "an oboe",
+     "right": [
+      "Kelly"
+     ],
+     "wrong": [
+      "Jake"
+     ],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 15,
+     "q": "He, his wife & 9-year-old daughter were the first first family to walk all the way from the Capitol to the White House",
+     "a": "the Carters",
+     "right": [
+      "Melissa"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": true,
+     "order": 30,
+     "q": "It's a term for the seat of authority of a bishop",
+     "a": "a see",
+     "right": [
+      "Melissa"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 3000
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 8,
+     "q": "A Bierce last line--\"Peyton Farquhar was dead; his body... swung gently... beneath the timbers of\" this title structure",
+     "a": "Owl Creek Bridge",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 20,
+     "q": "Oddly, the official video for this '80s Katrina & The Waves hit showed the band strolling through a misty London in heavy coats",
+     "a": "\"Walking On Sunshine\"",
+     "right": [
+      "Melissa"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": true,
+     "order": 26,
+     "q": "In a letter to Tacitus, this man wrote of his elder uncle's death at Vesuvius from \"some gross and noxious vapor\"",
+     "a": "Pliny",
+     "right": [
+      "Melissa"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 5000
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "COUNTRIES OF AFRICA",
+  "q": "At one time a province of the Roman Empire, this kingdom is known to Arabic scholars as Al-Maghrib Al-Aqsa, \"the far west\"",
+  "a": "Morocco",
+  "right": [
+   "Kelly",
+   "Jake",
+   "Melissa"
+  ],
+  "wrong": []
+ },
+ "gameId": "7772",
+ "cat_notes": {
+  "J": [
+   "Clues about State of the Airport.",
+   "For example, \"Treasure received by a Denver NBA fan\" would be, \"What is a gold nugget?\".",
+   "Clues about Quite the Fish Story.",
+   "Each answer contains the letter group “ME”.",
+   "Clues about Myself.",
+   "Clues about And Eye."
+  ],
+  "DJ": [
+   "Clues about Unesco's Intangible Cultural Heritage.",
+   "Clues about Presidential Inaugurations.",
+   "The answers involve homophones — words that sound alike but differ in meaning or spelling.",
+   "Clues about Short Story, Shorter.",
+   "Clues about Walk, the Line.",
+   "Clues about Cry Uncle."
+  ],
+  "F": "Clues about Countries of Africa."
+ }
+}

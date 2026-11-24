@@ -1,0 +1,993 @@
+{
+ "show": "#8684",
+ "aired": "2022-07-14",
+ "note": "",
+ "contestants": [
+  {
+   "name": "Anjali Bhat",
+   "bio": "a lawyer from New York, New York",
+   "short": "Anjali"
+  },
+  {
+   "name": "Mark Primiano",
+   "bio": "a shelter veterinarian from Chicago, Illinois",
+   "short": "Mark"
+  },
+  {
+   "name": "Emily Fiasco",
+   "bio": "a middle school band director from St. Louis, Missouri (whose 1-day cash winnings total $28,000)",
+   "short": "Emily"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Emily": 5400,
+   "Mark": 4000,
+   "Anjali": 2200
+  },
+  "DJ": {
+   "Emily": 14000,
+   "Mark": 8000,
+   "Anjali": 12600
+  },
+  "Final": {
+   "Emily": 25201,
+   "Mark": 15500,
+   "Anjali": 0
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "THE FOUNDING FATHERS",
+    "EARTH",
+    "TV SHOWS BY EPISODE TITLE",
+    "UNITS OF MEASURE",
+    "TERRIBLE SUPERVILLAIN NAMES",
+    "THAT'S COLD!"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 6,
+     "q": "Encyclopedia Britannica calls him \"The Foundingest Father of them all\" (really!)",
+     "a": "George Washington",
+     "right": [
+      "Emily"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 14,
+     "q": "277 miles long & found in the American Southwest, it's one of the largest land gorges on Earth",
+     "a": "the Grand Canyon",
+     "right": [
+      "Emily"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "\"Last Exit to Springfield\"",
+     "a": "The Simpsons",
+     "right": [
+      "Emily"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 26,
+     "q": "About .26 inches, a unit called this insect's space is based on the length of the gaps in a hive",
+     "a": "a bee",
+     "right": [
+      "Anjali"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 8,
+     "q": "The king can't move without being put in check! Curses! It's this chess situation--a draw!--who no one ever wants to see!",
+     "a": "a stalemate",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 15,
+     "q": "With a name meaning \"cold\", he's the animated guy with a corncob pipe & a button nose",
+     "a": "Frosty (the Snowman)",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 7,
+     "q": "Cheers to this Harvard grad, a second cousin of the second president",
+     "a": "(Samuel) Adams",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 20,
+     "q": "The Earth's longest river is the Nile, but this one carries the most water by volume",
+     "a": "the Amazon",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "From 2012: \n\"Say My Name\"",
+     "a": "Breaking Bad",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "The GGE, this substance gallon equivalent, compares the energy content of alternative fuels",
+     "a": "gasoline",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 9,
+     "q": "\"Pater Corpus\" doesn't quite have the same ring as this slang term for the build of some fathers",
+     "a": "a dad bod",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 16,
+     "q": "About temperature, this adjective can mean cold; when used regarding lettuce, it means fresh & firm",
+     "a": "crisp",
+     "right": [
+      "Emily"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": true,
+     "order": 13,
+     "q": "Activist lawyer James Otis is credited with saying that this \"without representation is tyranny\"",
+     "a": "taxation",
+     "right": [
+      "Anjali"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 400
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 21,
+     "q": "This liquid beneath the Earth's surface is different in Hawaii--it has more molten rock & fewer gases & fragments",
+     "a": "magma",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [
+      "Anjali"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 3,
+     "q": "\"Chidi's Choice\"",
+     "a": "The Good Place",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 28,
+     "q": "A braza, about 5 1/2 feet, is an old Spanish measure based on the reach of outspread these",
+     "a": "arms",
+     "right": [
+      "Emily"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 10,
+     "q": "This insurance duo--the big cost you owe before your insurer kicks in & the money given to your doc as you get services--are just the worst",
+     "a": "deductible & co-pay",
+     "right": [],
+     "wrong": [
+      "Mark",
+      "Anjali"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 17,
+     "q": "This word is paired with an opposite in the name of a relieving cream to treat minor aches & pains of the muscles & joints",
+     "a": "icy",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 24,
+     "q": "This Virginian first became prominent for his oratory in a 1763 case about whether it was OK to pay clergy with cash rather than tobacco",
+     "a": "Patrick Henry",
+     "right": [
+      "Emily"
+     ],
+     "wrong": [
+      "Mark"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 22,
+     "q": "Larger trees are starting to encroach north on this ecosystem defined by its lack of them",
+     "a": "the tundra",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 4,
+     "q": "\"Wind Sprints\" & \n\"Black Eyes & Broken Hearts\"",
+     "a": "Friday Night Lights",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "A city map, also called a plat, shows the division into single-owner areas called this \"P\" word, a synonym of packages",
+     "a": "parcels",
+     "right": [
+      "Anjali"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 11,
+     "q": "Listerine says bad breath is \"also known as oral malodor or\" this word; now oral malodor... that'd be a better name",
+     "a": "halitosis",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 18,
+     "q": "If your office is really \"as cold as\" this space for dry aging, it's well under 40 degrees",
+     "a": "a meat locker",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 25,
+     "q": "The \"Penman of the Revolution\", John Dickinson drafted the first version of this predecessor to the Constitution",
+     "a": "the Articles of Confederation",
+     "right": [
+      "Emily"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 23,
+     "q": "Hurricanes don't hit our middle, as this \"effect\" of the rotating earth on wind flow increases the further you get from the equator",
+     "a": "the Coriolis",
+     "right": [
+      "Anjali"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 5,
+     "q": "\"Riding in Town Cars with Boys\" & \n\"The Unblairable Lightness of Being\"",
+     "a": "Gossip Girl",
+     "right": [
+      "Emily"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 30,
+     "q": "You can spell \"acre\" with letters in this metric measurement that equals 2.471 acres",
+     "a": "hectare",
+     "right": [
+      "Emily"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 12,
+     "q": "The result for your account of writing a check you can't cover? It's this villain who many need \"protection\" from",
+     "a": "overdraft",
+     "right": [
+      "Anjali"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 19,
+     "q": "The food seen here is prepared \"crudo\", Spanish & Italian for this word",
+     "a": "raw",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "RIVER NAMES",
+    "LITERARY CASTLES",
+    "ROMANCE LANGUAGES",
+    "THE WINDS OF POP CULTURE",
+    "I KNOW WHAT YOU DID",
+    "4 OF THE SAME LETTER"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 21,
+     "q": "This river's name comes from a word for \"arrow\", implying that it is faster than the Euphrates",
+     "a": "the Tigris",
+     "right": [
+      "Emily"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 15,
+     "q": "A Scottish castle is home to this school of witchcraft & wizardry",
+     "a": "Hogwarts",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "Spoken in medieval southern France, the dialect langue d'Oc got its name because Oc, not this, meant yes there",
+     "a": "oui",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "Saying it wasn't a \"protest song\", Bob Dylan did include the lyrics \"How many times must the cannonballs fly\"",
+     "a": "\"Blowin' In The Wind\"",
+     "right": [
+      "Emily"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 10,
+     "q": "As Germany's \"chancellor of change\", you ended military conscription & introduced a minimum wage",
+     "a": "Angela Merkel",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 22,
+     "q": "A small figurine like an Academy Award",
+     "a": "a statuette",
+     "right": [
+      "Anjali"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 27,
+     "q": "In Sanskrit, the name of this river comes from \"sindhu\", which means \"river\"",
+     "a": "the Indus River (the Sindh)",
+     "right": [
+      "Anjali"
+     ],
+     "wrong": [
+      "Emily"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 16,
+     "q": "This Prague author's unfinished novel \"The Castle\" has a man named K trying unsuccessfully to access the title place",
+     "a": "Kafka",
+     "right": [
+      "Anjali"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 7,
+     "q": "In 2008 this European country's parliament passed an act officially adopting Brazilian spellings of hundreds of words",
+     "a": "Portugal",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 3,
+     "q": "Seen here, Alexandra Shipp played a younger version of this film mutant originally portrayed by Halle Berry",
+     "a": "Storm",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 11,
+     "q": "You won the U.S. National All-Around Gymnastics Championships from 2013 to 2016 & in 2018, 2019 & 2021",
+     "a": "Simone Biles",
+     "right": [
+      "Emily"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 23,
+     "q": "At the recent Tokyo Olympics, Alix Klineman & April Ross netted gold in this sport",
+     "a": "beach volleyball",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": true,
+     "order": 28,
+     "q": "This river that gave its name to a Georgia city was known as Rio Dulce, or \"sweet river\", to early Spanish explorers",
+     "a": "the Savannah River",
+     "right": [],
+     "wrong": [
+      "Emily"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2000
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 17,
+     "q": "In this 17th century religious allegory, Christian & Hopeful are imprisoned for a time at Doubting Castle",
+     "a": "The Pilgrim's Progress",
+     "right": [
+      "Anjali"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 8,
+     "q": "Ladino, or Sephardi, was carried to the Mideast by people expelled from their homeland in 1492 at the urging of this judicial body",
+     "a": "the Inquisition",
+     "right": [
+      "Anjali"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 4,
+     "q": "Formerly the Hartford Whalers, they blew into Raleigh in 1997",
+     "a": "the Hurricanes",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 12,
+     "q": "You took a constitutional oath on October 26, 2020",
+     "a": "(Amy Coney) Barrett",
+     "right": [
+      "Emily"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 24,
+     "q": "An expert in the formal rules & procedures of running an assembly, like the British legislature",
+     "a": "a parliamentarian",
+     "right": [
+      "Anjali"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 29,
+     "q": "Some Europeans called this Chinese river the Blue River, perhaps to distinguish it from the Yellow River",
+     "a": "the Yangtze",
+     "right": [
+      "Anjali"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 18,
+     "q": "A key antagonist in \"The Chronicles of Narnia\", she lives in a castle full of stone statues",
+     "a": "the White Witch",
+     "right": [
+      "Anjali"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 9,
+     "q": "In 1898 an explosion killed the last known speaker of this Adriatic language that shared its name with a dog breed",
+     "a": "Dalmatian",
+     "right": [
+      "Emily"
+     ],
+     "wrong": [
+      "Mark"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 5,
+     "q": "\"Blood On The Coal\" by The Folksmen is on the soundtrack album of this Christopher Guest mockumentary",
+     "a": "A Mighty Wind",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 13,
+     "q": "You served as Archbishop of Cape Town from 1986 to 1996",
+     "a": "(Desmond) Tutu",
+     "right": [
+      "Emily"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 3000
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 25,
+     "q": "This adjective means having no previous example known",
+     "a": "unprecedented",
+     "right": [
+      "Anjali"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 30,
+     "q": "A king of Alba Longa, near present-day Castel Gandolfo, drowned in this river, which was then named for him",
+     "a": "the Tiber",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 19,
+     "q": "Young Cassandra Mortmain lives in the rundown title structure in \"I Capture the Castle\" by this \"101 Dalmatians\" author",
+     "a": "Dodie Smith",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 20,
+     "q": "Isolated from its romantic relatives, Romanian has been influenced by this language group of neighbors like Serbia & Bulgaria",
+     "a": "Slavic",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 6,
+     "q": "Spencer Tracy was on the side of evolution while Fredric March argued creationism in this classic 1960 film",
+     "a": "Inherit the Wind",
+     "right": [
+      "Anjali"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 14,
+     "q": "After a huge upset in the 1948 election, you did the honorable thing & conceded to Pres. Truman & sent congratulations",
+     "a": "Dewey",
+     "right": [
+      "Emily"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 26,
+     "q": "If you support another person's alibi, you provide this 4-\"O\" word from the Latin for \"to strengthen\"",
+     "a": "corroboration",
+     "right": [
+      "Emily"
+     ],
+     "wrong": [
+      "Anjali"
+     ],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "THE 20th CENTURY",
+  "q": "Maybe surprisingly, in 1918 this new leader was the first to recognize the independence of Finland",
+  "a": "Lenin",
+  "right": [
+   "Mark",
+   "Emily"
+  ],
+  "wrong": [
+   "Anjali"
+  ]
+ },
+ "gameId": "7412",
+ "cat_notes": {
+  "J": [
+   "Clues about The Founding Fathers.",
+   "Clues about Earth.",
+   "Clues about TV Shows by Episode Title.",
+   "Clues about Units of Measure.",
+   "Clues about Terrible Supervillain Names.",
+   "The category “THAT'S COLD!” sets the theme — the clues follow that idea and any wordplay suggested by the title."
+  ],
+  "DJ": [
+   "Clues about River Names.",
+   "Clues about Literary Castles.",
+   "Clues about Romance Languages.",
+   "Clues about The Winds of Pop Culture.",
+   "The category “I KNOW WHAT YOU DID” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "Clues about 4 of the Same Letter."
+  ],
+  "F": "Clues about The 20th Century."
+ }
+}

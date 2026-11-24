@@ -1,0 +1,992 @@
+{
+ "show": "#8556",
+ "aired": "2022-01-17",
+ "note": "Amy Schneider game 34.",
+ "contestants": [
+  {
+   "name": "Jorge Quiñones",
+   "bio": "a front end web developer from Boston, Massachusetts",
+   "short": "Jorge"
+  },
+  {
+   "name": "Frances Garrison",
+   "bio": "a high school English teacher from Hemet, California",
+   "short": "Frances"
+  },
+  {
+   "name": "Amy Schneider",
+   "bio": "an engineering manager from Oakland, California (whose 33-day cash winnings total $1,111,800)",
+   "short": "Amy"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Amy": 6400,
+   "Frances": 1000,
+   "Jorge": 1600
+  },
+  "DJ": {
+   "Amy": 26800,
+   "Frances": 7800,
+   "Jorge": 400
+  },
+  "Final": {
+   "Amy": 36800,
+   "Frances": 12800,
+   "Jorge": 800
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "THE LAKE SHOW",
+    "A MEMBER OF THE BANDS",
+    "WEIGHTS & MEASURES",
+    "\"PRE\"FIXES",
+    "ARTHUR CONAN DOYLE CHARACTERS",
+    "HOLMES & WATSON"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 26,
+     "q": "Near where it joins the Tigris, parts of this river flow through the marshes of Iraq's Lake Hammar",
+     "a": "the Euphrates",
+     "right": [
+      "Jorge"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "He reached nirvana as a drummer but went on to fight foo as a frontman",
+     "a": "Dave Grohl",
+     "right": [
+      "Jorge"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 11,
+     "q": "This \"handy\" measure of booze is a pour of about 3/4 of an inch",
+     "a": "a finger",
+     "right": [
+      "Amy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 16,
+     "q": "Accepted in advance, like a guaranteed credit card application",
+     "a": "pre-approved",
+     "right": [
+      "Amy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 6,
+     "q": "In addition to all the evil & crime, this man had time to write the book \"The Dynamics of an Asteroid\"",
+     "a": "Moriarty",
+     "right": [
+      "Amy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 21,
+     "q": "Artist-scientist William Henry Holmes painted cliff dwellings in the 1870s, & soon helped establish this -ology in America",
+     "a": "archaeology",
+     "right": [],
+     "wrong": [
+      "Amy"
+     ],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "The east coast of the state of Michigan is known as the sunrise side because of daybreak over this lake",
+     "a": "Lake Huron",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "This top-hatted guitarist left Guns N' Roses & brandished a new musical weapon, Velvet Revolver",
+     "a": "Slash",
+     "right": [
+      "Jorge"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 12,
+     "q": "Tire pressure is measured in psi, short for these",
+     "a": "pounds per square inch",
+     "right": [
+      "Amy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 17,
+     "q": "Before a contest, or to toss a few back before hitting the bars",
+     "a": "pre-game",
+     "right": [
+      "Amy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 7,
+     "q": "Charles Augustus Milverton, \"the worst man in London\", is using imprudent letters of lady Eva Brackwell in this evil deed",
+     "a": "blackmail",
+     "right": [
+      "Amy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 22,
+     "q": "At Jarama in 1937 anti-fascist Alonzo Watson became the first African American killed in this country's Civil War",
+     "a": "Spain",
+     "right": [
+      "Amy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 28,
+     "q": "Known for its tourist resorts, Lake Tahoe is a high elevation lake in these mountains of the western United States",
+     "a": "the Sierra Nevadas",
+     "right": [
+      "Jorge"
+     ],
+     "wrong": [
+      "Frances"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 3,
+     "q": "Hollywood Vampires were brought to life in 2015, led by Alice Cooper, Johnny Depp & guitarist Joe Perry of this band",
+     "a": "Aerosmith",
+     "right": [
+      "Frances"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": true,
+     "order": 13,
+     "q": "This unit of measure also means to come to understand",
+     "a": "to fathom",
+     "right": [],
+     "wrong": [
+      "Amy"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1800
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 18,
+     "q": "This word means secondhand, like a used car",
+     "a": "pre-owned",
+     "right": [
+      "Frances"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 8,
+     "q": "Mrs. Hudson is Sherlock's landlady at this alphanumeric London address",
+     "a": "221B Baker Street",
+     "right": [
+      "Amy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 23,
+     "q": "This heavyweight boxing champ of the 1970s & '80s was nicknamed the Easton Assassin",
+     "a": "Larry Holmes",
+     "right": [],
+     "wrong": [
+      "Frances",
+      "Jorge"
+     ],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "Found in a volcanic crater & ringed by Mayan villages, Lake Atitlán is in the highlands of this nation",
+     "a": "Guatemala",
+     "right": [
+      "Amy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 4,
+     "q": "Drummer Travis McNabb rocked for Better Than Ezra, then went country with this Jennifer Nettles band",
+     "a": "Sugarland",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 14,
+     "q": "At one time, a nook was a measure of land equal to about 20 of these",
+     "a": "acres",
+     "right": [
+      "Amy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 19,
+     "q": "It means biased or inclined in a particular direction, though it sounds like it means thrown away early",
+     "a": "pre-disposed",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 9,
+     "q": "In \"A Study in Scarlet\", this Scotland Yard inspector is described as \"lean and ferret-like\"",
+     "a": "Inspector Lestrade",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 24,
+     "q": "As part of this company, the Thomas J. Watson Research Center conducts work on A.I. & quantum computing",
+     "a": "IBM",
+     "right": [
+      "Jorge"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 30,
+     "q": "Lake Peipus forms part of the border between this northernmost Baltic republic & Russia",
+     "a": "Estonia",
+     "right": [
+      "Amy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 5,
+     "q": "Neil Finn, formerly of Split Enz, formed this band named for a cramped place on Sycamore Avenue in Los Angeles",
+     "a": "Crowded House",
+     "right": [
+      "Frances"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 15,
+     "q": "This length used in horse racing is equal to 220 yards, or 1/8 of a mile",
+     "a": "a furlong",
+     "right": [
+      "Amy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 20,
+     "q": "Some agrarian societies are considered this, not yet having developed manufacturing capability",
+     "a": "pre-industrial",
+     "right": [
+      "Amy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 10,
+     "q": "Irene Adler is known as the woman who outwitted Sherlock, but she only appears in one story: \"A Scandal in\" this kingdom",
+     "a": "Bohemia",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 25,
+     "q": "Called \"The Great Dissenter\", he was appointed to the Supreme Court in 1902 & served there for 29 years until the age of 90",
+     "a": "Oliver Wendell Holmes",
+     "right": [
+      "Amy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "20th CENTURY AMERICA",
+    "PALACES",
+    "INTERNATIONAL FOOD & DRINK",
+    "ILLUSTRATORS",
+    "DOCUMENTARIES",
+    "6-LETTER WORDS"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 30,
+     "q": "In 1979, Jimmy Carter installed the first of these at the White House; one is now at his presidential library",
+     "a": "solar panels",
+     "right": [
+      "Amy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 20,
+     "q": "It was the principal residence of French kings from Louis XIV to Louis XVI",
+     "a": "Versailles",
+     "right": [
+      "Amy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 6,
+     "q": "The name of this traditional Austrian dish is German for \"Viennese cutlet\"",
+     "a": "wienerschnitzel",
+     "right": [
+      "Amy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 28,
+     "q": "N.C. Wyeth contributed illustrations to the story about this guy who slept for 20 years",
+     "a": "Rip Van Winkle",
+     "right": [
+      "Amy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 29,
+     "q": "A 2021 documentary celebrates this legend who, after leaving Ike, reinvented herself to become the Queen of Rock & Roll",
+     "a": "Tina Turner",
+     "right": [
+      "Amy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 11,
+     "q": "This synonym for knowledge is said to be dispensed in pearls",
+     "a": "wisdom",
+     "right": [
+      "Amy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 5,
+     "q": "The Immigration Act of 1903 banned these no-government types with their wild eyes & smoking bombs from entering the United States",
+     "a": "anarchists",
+     "right": [
+      "Frances"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 16,
+     "q": "The Winter Palace in St. Petersburg was long the official residence of the Russian monarchy & today is part of this museum complex",
+     "a": "the Hermitage",
+     "right": [
+      "Amy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 1,
+     "q": "Belgians are fond of their moules-frites, these with French fries",
+     "a": "mussels",
+     "right": [
+      "Amy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 27,
+     "q": "On YouTube, children's author & illustrator Marc Brown teaches you how to draw this beloved aardvark",
+     "a": "Arthur",
+     "right": [
+      "Frances"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 7,
+     "q": "His life & lessons were the subject of \"Won't You Be My Neighbor?\"",
+     "a": "Mr. Rogers",
+     "right": [
+      "Amy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 12,
+     "q": "It's the container & specialty sporting good seen here",
+     "a": "a quiver",
+     "right": [
+      "Amy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 21,
+     "q": "The May 24, 1934 Dallas Morning News had a hometown angle with the headline these \"Dallas desperadoes shot to death in Louisiana\"",
+     "a": "Bonnie & Clyde",
+     "right": [
+      "Amy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": true,
+     "order": 17,
+     "q": "The Doge's Palace in Venice is connected to a prison complex by this fateful bridge built around 1600",
+     "a": "the Bridge of Sighs",
+     "right": [
+      "Amy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 4000
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 2,
+     "q": "Danes really love their beer, especially this type of pale golden lager that Tuborg introduced to the country in 1880",
+     "a": "pilsner",
+     "right": [
+      "Frances"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 24,
+     "q": "Like Langston Hughes, painter & illustrator Aaron Douglas was a leading figure of this arts movement centered in New York",
+     "a": "the Harlem Renaissance",
+     "right": [
+      "Jorge"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 8,
+     "q": "\"The Mushroom Club\", a 2005 documentary short, is a portrait of this city & its people, 60 years after the bombing",
+     "a": "Hiroshima",
+     "right": [
+      "Amy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 13,
+     "q": "To light a fire one can enjoy while using the same-named e-reader",
+     "a": "kindle",
+     "right": [
+      "Amy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 22,
+     "q": "Named for a god, this line of cars from Ford got cooler when James Dean drove one in \"Rebel Without a Cause'",
+     "a": "a Mercury",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 18,
+     "q": "Built in the 1740s, Sanssouci Palace in Potsdam was the summer residence of this \"Great\" Prussian",
+     "a": "Frederick the Great",
+     "right": [
+      "Amy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 3,
+     "q": "With or without masala, this Indian dish that often contains chicken literally means \"bits\" or \"pieces\"",
+     "a": "tikka",
+     "right": [
+      "Amy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 25,
+     "q": "British surgeon & artist Henry Vandyke Carter was the man behind the illustrations for this classic 1850s textbook",
+     "a": "Gray's Anatomy",
+     "right": [],
+     "wrong": [
+      "Jorge"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 4000
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 9,
+     "q": "Filmmaker & diver Craig Foster forged an unusual bond with a sea creature in this Netflix documentary",
+     "a": "My Octopus Teacher",
+     "right": [
+      "Jorge"
+     ],
+     "wrong": [
+      "Frances"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 14,
+     "q": "A Spanish wine cellar, or a corner grocery store",
+     "a": "bodega",
+     "right": [
+      "Frances"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 23,
+     "q": "This naturalist died in California in 1914, shortly before a dam flooded his beloved Hetch Hetchy Valley",
+     "a": "(John) Muir",
+     "right": [
+      "Amy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 19,
+     "q": "Once a home of Henry VIII, Hampton Court Palace was expanded at the behest of William & Mary by this 17th century architect",
+     "a": "(Sir Christopher) Wren",
+     "right": [
+      "Frances"
+     ],
+     "wrong": [
+      "Amy"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 4,
+     "q": "Popular in South America & said to have health benefits, the first part of this tea's name is from Spanish for \"herb\"",
+     "a": "yerba mate",
+     "right": [
+      "Frances"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 26,
+     "q": "\"Blue-winged Teal\" was among the 435 illustrations he did for a book published in four volumes between 1827 & 1838",
+     "a": "Audubon",
+     "right": [
+      "Amy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 10,
+     "q": "\"Bombshell\" is about this Austrian-born actress whose credits also include developing a communication system during WWII",
+     "a": "Hedy Lamarr",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 15,
+     "q": "Alphabetically, this fertilized egg is darn near last",
+     "a": "zygote",
+     "right": [
+      "Amy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "SCIENTIFIC NAMES",
+  "q": "The 1905 paper that gave this its name also referred to it as \"Dynamosaurus imperiosus\"",
+  "a": "Tyrannosaurus rex",
+  "right": [
+   "Jorge",
+   "Frances",
+   "Amy"
+  ],
+  "wrong": []
+ },
+ "gameId": "7243",
+ "cat_notes": {
+  "J": [
+   "Clues about The Lake Show.",
+   "Clues about A Member of the Bands.",
+   "Clues about Weights and Measures.",
+   "Each answer starts with “PRE”, and the clues are about Fixes.",
+   "Clues about Arthur Conan Doyle Characters.",
+   "Clues about Holmes and Watson."
+  ],
+  "DJ": [
+   "Clues about 20th Century America.",
+   "Clues about Palaces.",
+   "Clues about International Food and Drink.",
+   "Clues about Illustrators.",
+   "Clues about Documentaries.",
+   "Each answer is a 6-letter word."
+  ],
+  "F": "Clues about Scientific Names."
+ }
+}

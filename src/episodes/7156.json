@@ -1,0 +1,998 @@
+{
+ "show": "#8480",
+ "aired": "2021-10-01",
+ "note": "Matt Amodio game 33.",
+ "contestants": [
+  {
+   "name": "Samantha Wells",
+   "bio": "a graduate student from Urbana, Illinois",
+   "short": "Samantha"
+  },
+  {
+   "name": "Thomas Dai",
+   "bio": "a Ph.D. student from Cambridge, Massachusetts",
+   "short": "Thomas"
+  },
+  {
+   "name": "Matt Amodio",
+   "bio": "a Ph.D. student from New Haven, Connecticut (whose 32-day cash winnings total $1,212,401)",
+   "short": "Matt"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Matt": 10400,
+   "Thomas": 2600,
+   "Samantha": 2000
+  },
+  "DJ": {
+   "Matt": 35400,
+   "Thomas": 2200,
+   "Samantha": 5200
+  },
+  "Final": {
+   "Matt": 55400,
+   "Thomas": 1,
+   "Samantha": 4700
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "1871--150 YEARS AGO",
+    "SOME FUN & GAMES",
+    "SPIN CYCLE",
+    "GERUNDS",
+    "FOR YOUR REFERENCE",
+    "WAITER, THERE'S A BUG IN MY MOVIE"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 29,
+     "q": "In Brooklyn this impresario opened his circus, calling it a traveling museum, menagerie, caravan & hippodrome",
+     "a": "(P.T.) Barnum",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 30,
+     "q": "In blackjack this alliterative phrase means betting your original amount again & getting just one more card",
+     "a": "doubling (double) down",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 22,
+     "q": "You'll also need handsticks if you're buying these to spin in your juggling act, as Senor Wences did",
+     "a": "plates",
+     "right": [],
+     "wrong": [
+      "Matt"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 27,
+     "q": "Julia Child called the book titled \"Joy of\" this \"a fundamental resource\"",
+     "a": "Cooking",
+     "right": [
+      "Samantha"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 26,
+     "q": "\"Cyrus, epirus, papyrus, virus\" is an entry in the Oxford Dictionary of these",
+     "a": "Rhymes",
+     "right": [
+      "Thomas"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 28,
+     "q": "2018: \n\"Ant-Man and \nthe ____ \"",
+     "a": "Wasp",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [
+      "Thomas"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 19,
+     "q": "William Woods Holden of North Carolina became the USA's first governor removed from office via this process",
+     "a": "impeachment",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 20,
+     "q": "You open an imaginary curtain to indicate the category is a play title in this game; first word...!",
+     "a": "Charades",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 21,
+     "q": "A spin is named for Denise Biellmann, a Swiss star in this sport",
+     "a": "figure skating",
+     "right": [
+      "Thomas"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 23,
+     "q": "Of all sad words of tongue or sign, the saddest are \"We no longer validate\" this",
+     "a": "parking",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 24,
+     "q": "John was the first name of this Massachusetts bookseller who published his first volume of quotations in 1855",
+     "a": "(John) Bartlett",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 25,
+     "q": "2018: \n\"The Girl in \n____ ____ ____\"",
+     "a": "the Spider's Web",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 15,
+     "q": "March 21 saw the first meeting of a united Germany's Reichstag, or parliament, with this man as the first chancellor",
+     "a": "Bismarck",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 17,
+     "q": "The heads of 4 amphibious ungulates gobble up marbles in this Hasbro game",
+     "a": "Hungry Hungry Hippos",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 18,
+     "q": "A story says Babe Ruth's eyesight was so good he could read the label on one of these records of his day named for its RPM",
+     "a": "78",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 11,
+     "q": "A recital of a literary work, or a service performed by a psychic",
+     "a": "a reading",
+     "right": [
+      "Thomas"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 16,
+     "q": "The first book with this repetitive title was published in London in 1849; today it's followed by \"in Dentistry\", among many others",
+     "a": "Who's Who",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 9,
+     "q": "1938, \na Disney \n\"Silly Symphony\": \n\"____ and the Flame\"",
+     "a": "Moth",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 13,
+     "q": "This reporter for the New York Herald seen here made his way to Lake Tanganyika & a memorable encounter",
+     "a": "(Henry Morton) Stanley",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 7,
+     "q": "Based on a Mongol attack on Japan in 1274, \"Ghost of Tshushima\" has you battle as one of these & struggle to live to their code",
+     "a": "a samurai",
+     "right": [
+      "Thomas"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 12,
+     "q": "In the movie \"White Nights\", Mikhail Baryshnikov does a 3,960-degree turn, 11 in a row of these",
+     "a": "pirouettes",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 10,
+     "q": "Freefalling & the canopy ride are segments of this activity",
+     "a": "skydiving",
+     "right": [
+      "Thomas"
+     ],
+     "wrong": [
+      "Matt"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 14,
+     "q": "He divided the contents of his first thesaurus into 6 classes, just as his hero Linnaeus had done with animals",
+     "a": "Roget",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 8,
+     "q": "2002, \ndesert battles in the ancient world: \n\"The ____ King\"",
+     "a": "Scorpion",
+     "right": [
+      "Samantha"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": true,
+     "order": 1,
+     "q": "This performance space that seats more than 5,000 was opened by Queen Victoria",
+     "a": "Royal Albert Hall",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1000
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 5,
+     "q": "A \"red snake\" bet in this wheel game winds through 3 columns from 1 to 34",
+     "a": "roulette",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 4,
+     "q": "Labs use this machine that spins fluids to do your hematocrit, or blood analysis",
+     "a": "centrifuge",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 3,
+     "q": "Involving papers to be kept as a record, it's the process of delivering claims to a court",
+     "a": "a filing",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 2,
+     "q": "\"Do not break sentences in two\" & \"use the active voice\" were among William Strunk's original these title principles",
+     "a": "Elements of Style",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 6,
+     "q": "1958, \nremade in 1986: \n\"The ____\"",
+     "a": "Fly",
+     "right": [
+      "Samantha"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "CITIES OF IRELAND",
+    "SCIENCE",
+    "THE BANDS THEY FRONTED",
+    "NAME CALLING",
+    "THAT'S A BIG BOOK",
+    "ALLITERATION"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 28,
+     "q": "The name of this capital means \"black pool\", referring to the dark waters of the River Liffey",
+     "a": "Dublin",
+     "right": [
+      "Samantha"
+     ],
+     "wrong": [
+      "Thomas"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 13,
+     "q": "Stannite is a sulfide ore of copper, iron & this metal",
+     "a": "tin",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 29,
+     "q": "David Lee Roth",
+     "a": "Van Halen",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "This man adapted Charles Barbier's night writing code into a writing system for the blind",
+     "a": "Braille",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "If you're not a fan of long, long fiction, this 1862 Victor Hugo work will make you... what's the word... unhappy? Wretched?",
+     "a": "Les Misérables",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 30,
+     "q": "This kids' game, this kids' game, send a response right over by knowing it's a team line-breaking game",
+     "a": "Red Rover",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 14,
+     "q": "Galway is home to a national theater dedicated to works in the language called Irish this",
+     "a": "Gaelic",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 12,
+     "q": "For butterflies, the pupa is the third stage in this process",
+     "a": "metamorphosis",
+     "right": [
+      "Samantha"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 26,
+     "q": "Since the '70s & right through today: \nBelinda Carlisle",
+     "a": "Go-Go's",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 24,
+     "q": "This large Howitzer was named for the woman who once owned the Krupp Armaments Company",
+     "a": "Big Bertha",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": true,
+     "order": 11,
+     "q": "\"Of man's first disobedience, and the fruit\" is the first of this poem's more than 10,000 lines",
+     "a": "Paradise Lost",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 6000
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 23,
+     "q": "Drew Brees, who didn't put on pads until high school, started an organization to promote this coed, non-contact game",
+     "a": "flag football",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 8,
+     "q": "It was a long way to this city for the English King John, who built a castle there when he was governor",
+     "a": "Tipperary",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 7,
+     "q": "Also called thrombocytes, these cell fragments found in the blood are involved in clotting",
+     "a": "platelets",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 25,
+     "q": "Until they broke up in 1980: \nRobert Plant",
+     "a": "Led Zeppelin",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 22,
+     "q": "Creator of TV's \"Fargo\", Noah Hawley won this mystery award named for a certain Poe-et",
+     "a": "Edgar",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 5,
+     "q": "Might seem that way, but it won't take a hundred years to read this 1974 James Michener bestseller about the American West",
+     "a": "Centennial",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 19,
+     "q": "To have fun, to enjoy oneself; a character in Shakespeare \"must\" do this \"with the duchess' gold\"",
+     "a": "make merry",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 3,
+     "q": "Archaeologists in Cork found Viking artifacts that threaten to shatter this city's \"oldest in Ireland\" status like its crystal",
+     "a": "Waterford",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 2,
+     "q": "Astronomers recently found a cluster of these cosmic bodies & think their collisions were the source of gravitational waves",
+     "a": "black holes",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 21,
+     "q": "Before launching a solo country career: \nDarius Rucker",
+     "a": "Hootie & the Blowfish",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 15,
+     "q": "Around 1860 this man blazed a trail from Kansas & established a trading post in Oklahoma Territory",
+     "a": "Jesse Chisholm",
+     "right": [],
+     "wrong": [
+      "Matt"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 5000
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 4,
+     "q": "There's a synonym for \"dreary\" in the title, then 67 chapters of Jarndyce v. Jarndyce court action in this Dickens work",
+     "a": "Bleak House",
+     "right": [
+      "Thomas"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 18,
+     "q": "The middle horse has this condition, kind of the opposite of bow-legged",
+     "a": "knock-knee",
+     "right": [],
+     "wrong": [
+      "Thomas"
+     ],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 10,
+     "q": "A town called Drogheda sits on this river that lends its name to a decisive 1690 battle",
+     "a": "Boyne",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 9,
+     "q": "It's the common term for animals of the order Lagomorpha",
+     "a": "rabbits",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 20,
+     "q": "As a teen: \nRicky Martin",
+     "a": "Menudo",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 16,
+     "q": "Disraeli was among those who called this man's carriages \"the gondolas of London\"",
+     "a": "(Joseph) Hansom",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 6,
+     "q": "Book 10 of this Thomas Malory work has 88 chapters, & there are 21 books--just sayin'",
+     "a": "Le Morte d'Arthur",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 17,
+     "q": "A folktale tells of a hungry man who convinces people he can make a tasty pot of this, then gets them to add actual food",
+     "a": "stone soup",
+     "right": [
+      "Samantha"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "AMERICAN HISTORY",
+  "q": "The April 26, 1906 edition of The Call, a newspaper in this city, reported on the heroic death of hoseman James O'Neil",
+  "a": "San Francisco",
+  "right": [
+   "Matt"
+  ],
+  "wrong": [
+   "Thomas",
+   "Samantha"
+  ]
+ },
+ "gameId": "7156",
+ "cat_notes": {
+  "J": [
+   "Clues about 1871--150 Years Ago.",
+   "Clues about Some Fun and Games.",
+   "Clues about Spin Cycle.",
+   "Clues about Gerunds.",
+   "Clues for Your Reference.",
+   "Clues about Waiter, There's a Bug in My Movie."
+  ],
+  "DJ": [
+   "Clues about Cities of Ireland.",
+   "Clues about Science.",
+   "The category “THE BANDS THEY FRONTED” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "Clues about Name Calling.",
+   "Clues about That's a Big Book.",
+   "Each answer is alliterative — its main words start with the same sound."
+  ],
+  "F": "Clues about American History."
+ }
+}
