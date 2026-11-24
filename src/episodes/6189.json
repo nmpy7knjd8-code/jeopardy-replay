@@ -1,0 +1,977 @@
+{
+ "show": "#7903",
+ "aired": "2019-01-09",
+ "note": "",
+ "contestants": [
+  {
+   "name": "Evan Caris",
+   "bio": "a student and writer from Decatur, Georgia",
+   "short": "Evan"
+  },
+  {
+   "name": "Siobhan Fabio",
+   "bio": "an attorney from Little Rock, Arkansas",
+   "short": "Siobhan"
+  },
+  {
+   "name": "Jessica Holloway",
+   "bio": "an art education student from The Woodlands, Texas (whose 1-day cash winnings total $26,001)",
+   "short": "Jessica"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Jessica": 7400,
+   "Siobhan": 4200,
+   "Evan": 2400
+  },
+  "DJ": {
+   "Jessica": 14200,
+   "Siobhan": 19400,
+   "Evan": 8400
+  },
+  "Final": {
+   "Jessica": 28400,
+   "Siobhan": 10399,
+   "Evan": 2599
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "WHEEL OF JEOPARDY!",
+    "FOOD & DRINK",
+    "THE BOOK'S CENSORED EDITIONS",
+    "HISTORY",
+    "CHARLES DARWIN",
+    "THE VOYAGE OF A BEAGLE"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 11,
+     "q": "A board for when you are bored\n\n_ _ C K _ _ M M _ _",
+     "a": "backgammon",
+     "right": [
+      "Jessica"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "Oh, yeah! This non-carbonated beverage is Nebraska's state soft drink",
+     "a": "Kool-Aid",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 16,
+     "q": "1807's \"The Family Shakespeare\" changed some text & omitted this tale of 2 frisky lovers in ancient Egypt as unsuitable",
+     "a": "Antony and Cleopatra",
+     "right": [
+      "Siobhan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 6,
+     "q": "A book subtitled \"Alps & Elephants\" follows this Carthaginian general's march against Rome",
+     "a": "Hannibal",
+     "right": [
+      "Evan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 22,
+     "q": "Darwin used \"descent with modification\" before warming to this 9-letter word for biological changes over time",
+     "a": "evolution",
+     "right": [
+      "Siobhan"
+     ],
+     "wrong": [
+      "Jessica"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 21,
+     "q": "As an ace in this war, Snoopy was \"two thousand feet over St. Juvin...suddenly a Fokker triplane appeared\"",
+     "a": "World War I",
+     "right": [
+      "Evan"
+     ],
+     "wrong": [
+      "Jessica"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 12,
+     "q": "Three or more giving mutual support\n\nA G R _ _ P \n_ _ G",
+     "a": "a group hug",
+     "right": [
+      "Jessica"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "This pizza with simple toppings of mozzarella, tomatoes & basil was named in honor of the queen of Savoy",
+     "a": "Margherita",
+     "right": [
+      "Jessica"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": true,
+     "order": 17,
+     "q": "Seen as obscene, Richard Burton's 1885 version of this book of Mideast fables was published with major cuts",
+     "a": "The Arabian Nights",
+     "right": [
+      "Siobhan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2000
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 7,
+     "q": "King Philip II of Spain sent it in 1588 to invade England",
+     "a": "the Armada",
+     "right": [
+      "Evan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 23,
+     "q": "Darwin called this 1859 work \"one long argument\"",
+     "a": "The Origin of Species",
+     "right": [
+      "Evan"
+     ],
+     "wrong": [
+      "Jessica"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "Snoopy once journeyed to the top of a great hill, leading this small friend's troop of scouts",
+     "a": "Woodstock",
+     "right": [
+      "Jessica"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 13,
+     "q": "Insomniac's activity\n\nT _ _ _ _ N _ \n_ N _\nT _ _ N _ N _",
+     "a": "tossing and turning",
+     "right": [
+      "Jessica"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 3,
+     "q": "This hearty, spicy tripe soup has been touted as a hangover cure & is popular in Mexico on New Year's morning",
+     "a": "menudo",
+     "right": [
+      "Jessica"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 18,
+     "q": "This Philip Pullman series beginning with \"The Golden Compass\" cut Lyra's more adult feelings from the U.S. version",
+     "a": "His Dark Materials",
+     "right": [
+      "Jessica"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 8,
+     "q": "Egypt & Syria launched a war against Israel on October 6, 1973, which was this Jewish holy day",
+     "a": "Yom Kippur",
+     "right": [
+      "Jessica"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 24,
+     "q": "Darwin is known for finches, but his passion at home were these urban birds--he amassed more than 90 of them",
+     "a": "pigeons",
+     "right": [
+      "Evan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 28,
+     "q": "After Snoopy zips past his master on one of these, Charlie Brown simply says, \"Rosebud?\"",
+     "a": "a sled",
+     "right": [
+      "Evan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 14,
+     "q": "Precursor to the SUV\n\nS T _ T _ _ _\nW _ G _ _",
+     "a": "station wagon",
+     "right": [
+      "Jessica"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 4,
+     "q": "To make a pink daiquiri, you'll need rum, powdered sugar, lime juice & this syrup made of red currants or pomegranates",
+     "a": "grenadine",
+     "right": [
+      "Jessica"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 19,
+     "q": "Many passages depicting Basil's love for the title character were cut from editions of this Oscar Wilde book",
+     "a": "Picture of Dorian Gray",
+     "right": [
+      "Jessica"
+     ],
+     "wrong": [
+      "Siobhan"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 9,
+     "q": "This early 1920s scandal involved granting exclusive oil rights in Wyoming to the Mammoth Oil Company",
+     "a": "the Teapot Dome scandal",
+     "right": [
+      "Siobhan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 25,
+     "q": "In 1882 Darwin was buried in this London church next to Sir John Herschel",
+     "a": "Westminster Abbey",
+     "right": [
+      "Siobhan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "As this ultra-hip persona, Snoopy debates whether he should spend time at the student union or the library",
+     "a": "Joe Cool",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 15,
+     "q": "One of a twin in the Midwest\n\nS _ _ N _\n_ A U _",
+     "a": "Saint Paul",
+     "right": [
+      "Jessica"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 5,
+     "q": "Sauce Raifort, made from this condiment, is served cold as an accompaniment to prime rib",
+     "a": "horseradish",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 20,
+     "q": "This first novel by Theodore Dreiser was reissued nearly a century after it was published to add back 40,000 words",
+     "a": "Sister Carrie",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 10,
+     "q": "Originally it was a fortress; Cardinal Richelieu began using it as a state prison in the 17th century",
+     "a": "the Bastille",
+     "right": [
+      "Siobhan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 26,
+     "q": "The Royal Society awarded its medal to Charles in 1853 for his writings on these crustaceans found on rocks & ships' hulls",
+     "a": "barnacles",
+     "right": [
+      "Jessica"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 30,
+     "q": "In 1969 Snoopy described this as looking like a \"dirty beach\"; not quite as eloquent as magnificent desolation\"",
+     "a": "the Moon",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "BARTLETT'S, A TO Z",
+    "PLACES",
+    "COMPOSING, DECOMPOSING",
+    "\"Q\" INSIDE",
+    "FOREIGN FILM AWARDS",
+    "ERGONOMIC INJURIES"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 24,
+     "q": "A: \nThis \"Family\" cartoonist for his caption \"May I borrow a cup of cyanide?\"",
+     "a": "Charles Addams",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "The tallest point in Canada is Mount Logan, found in this territory",
+     "a": "the Yukon",
+     "right": [
+      "Siobhan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 7,
+     "q": "Gave us the \"Ring\" cycle, went to the \"Twilight of the Gods\" on February 13, 1883",
+     "a": "(Richard) Wagner",
+     "right": [
+      "Siobhan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 6,
+     "q": "Often followed by speeches, it's a lavish meal honoring an important occasion",
+     "a": "a banquet",
+     "right": [
+      "Siobhan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 17,
+     "q": "The Italian film award is modeled after this statue by Donatello (not Michelangelo)",
+     "a": "David",
+     "right": [
+      "Evan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 16,
+     "q": "Carpal tunnel syndrome afflicts your wrist, while tarsal tunnel syndrome happens here",
+     "a": "the ankle",
+     "right": [
+      "Evan"
+     ],
+     "wrong": [
+      "Jessica"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 23,
+     "q": "G: \nHim for \"Nonviolence is the first article of my faith\"",
+     "a": "Gandhi",
+     "right": [
+      "Siobhan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 2,
+     "q": "This Russian resort city that hosted the 2014 Winter Olympics also hosted some World Cup games in 2018",
+     "a": "Sochi",
+     "right": [
+      "Evan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 8,
+     "q": "Had some travails with \"La Traviata\"; died in Milan in 1901 & is buried at the home for retired musicians that he founded",
+     "a": "(Giuseppe) Verdi",
+     "right": [
+      "Jessica"
+     ],
+     "wrong": [
+      "Evan"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 9,
+     "q": "A sudden storm, especially one at sea",
+     "a": "squall",
+     "right": [
+      "Evan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 18,
+     "q": "In 2016 this monster finally got his due when a film featuring him won the Japanese Academy Award",
+     "a": "Godzilla",
+     "right": [
+      "Jessica"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 20,
+     "q": "It's often caused by repetitive gripping motions, though it sounds like you might pick it up at Wimbledon",
+     "a": "tennis elbow",
+     "right": [
+      "Evan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 25,
+     "q": "L: \nThis one-named pianist with \"I cried all the way to the bank\"",
+     "a": "Liberace",
+     "right": [
+      "Siobhan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": true,
+     "order": 3,
+     "q": "The lush island of Naxos has been called \"The Green Leaf of\" this sea",
+     "a": "the Aegean",
+     "right": [
+      "Evan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1200
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 10,
+     "q": "He wrote some lively \"Hungarian Dances\"; on April 3, 1897 it was lullaby & good night",
+     "a": "Brahms",
+     "right": [
+      "Siobhan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 13,
+     "q": "Native to Asia, this fruit is often used in jams and jellies",
+     "a": "the kumquat",
+     "right": [
+      "Siobhan"
+     ],
+     "wrong": [
+      "Evan"
+     ],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 19,
+     "q": "This director of \"The Skin I Live In\" has been nominated for the Goya Award for Best Director 9 times",
+     "a": "Pedro Almodóvar",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 28,
+     "q": "A digit curled & locked in place is called this type of finger that's proverbially \"itchy\"",
+     "a": "a trigger finger",
+     "right": [
+      "Siobhan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 26,
+     "q": "P: \nThis American-born poet for remarking in a 1915 letter, \"Poetry must be as well written as prose\"",
+     "a": "(Ezra) Pound",
+     "right": [
+      "Siobhan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 4,
+     "q": "It's been called Australia's \"Second City\" & was the second city named a UNESCO City of Literature",
+     "a": "Melbourne",
+     "right": [
+      "Siobhan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 11,
+     "q": "Caught us off guard with his \"Surprise\" Symphony; if you seek his grave, visit Austria's Bergkirche",
+     "a": "Haydn",
+     "right": [
+      "Siobhan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 14,
+     "q": "It's French for nickname",
+     "a": "sobriquet",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 21,
+     "q": "Marion Cotillard won an Oscar & a Cesar for her performance as Edith Piaf in this film",
+     "a": "La Vie en Rose",
+     "right": [
+      "Jessica"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 29,
+     "q": "Pain from whole body vibration affects this type of truck driver defined sometimes as a specialist in 600-mile-plus runs",
+     "a": "long haul",
+     "right": [
+      "Evan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": true,
+     "order": 27,
+     "q": "Z: \nAttributed to this revolutionary, \"It is better to die on your feet than to live on you knees!\"",
+     "a": "(Emiliano) Zapata",
+     "right": [
+      "Siobhan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1600
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 5,
+     "q": "Counterintuitive name of the waterfall that emerges from Venezuela's Auyan-Tepui, or \"Devil's Mountain\"",
+     "a": "Angel Falls",
+     "right": [
+      "Jessica"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 12,
+     "q": "Composed the \"Wedding March\"; died Nov. 4, 1847, 6 months after the sudden death of his sister & musical soulmate Fanny",
+     "a": "Mendelssohn",
+     "right": [
+      "Siobhan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 15,
+     "q": "Adjective meaning calm & free from commotion or disturbance",
+     "a": "tranquil",
+     "right": [
+      "Jessica"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 22,
+     "q": "Of course \"Run Lola Run\" won the Lola Award for Best Film by this country's film academy",
+     "a": "Germany",
+     "right": [
+      "Evan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 30,
+     "q": "RSIs, repetitive strain injuries, include one to this 4-muscle cuff in the shoulder; it affects painters as well as pitchers",
+     "a": "your rotator cuff",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "TV DRAMAS",
+  "q": "So that viewers wouldn't think it was about opera, the \"R\" in this show's logo was turned into a gun",
+  "a": "The Sopranos",
+  "right": [
+   "Jessica"
+  ],
+  "wrong": [
+   "Evan",
+   "Siobhan"
+  ]
+ },
+ "gameId": "6189"
+}

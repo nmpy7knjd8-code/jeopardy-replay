@@ -1,0 +1,968 @@
+{
+ "show": "#7387",
+ "aired": "2016-10-25",
+ "note": "",
+ "contestants": [
+  {
+   "name": "Joel Goldes",
+   "bio": "a dialect coach from Oak Park, California",
+   "short": "Joel"
+  },
+  {
+   "name": "Yoey Sacks",
+   "bio": "a store planner from New York, New York",
+   "short": "Yoey"
+  },
+  {
+   "name": "Lani Gonzalez",
+   "bio": "a managing director of an art bazaar from Austin, Texas (whose 2-day cash winnings total $35,600)",
+   "short": "Lani"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Lani": 8200,
+   "Yoey": 4400,
+   "Joel": 1400
+  },
+  "DJ": {
+   "Lani": 15000,
+   "Yoey": 2400,
+   "Joel": 7400
+  },
+  "Final": {
+   "Lani": 15000,
+   "Yoey": 4800,
+   "Joel": 1
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "NAME THE CAPITAL",
+    "THRILLERS & MYSTERIES",
+    "MAGAZINES",
+    "SOUNDS LIKE A FLOWER",
+    "THE \"IV\" LEAGUE",
+    "JUSTIN TIMBERLAKE"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 2,
+     "q": "Kentucky",
+     "a": "Frankfort",
+     "right": [
+      "Lani"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "A woman seeks to solve her parents' murder in \"The Hunt for\" this, also the mythical home of Kubla Khan",
+     "a": "Xanadu",
+     "right": [
+      "Yoey"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 30,
+     "q": "Kate Upton revealed she suffered frostbite after posing in Antarctica for this magazine's 2013 swimsuit issue",
+     "a": "Sports Illustrated",
+     "right": [
+      "Joel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 13,
+     "q": "Actress Graham or Locklear",
+     "a": "Heather",
+     "right": [
+      "Yoey"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 21,
+     "q": "The OED calls this type of bar a \"disreputable place of resort\"",
+     "a": "a dive",
+     "right": [
+      "Yoey"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 29,
+     "q": "J.T. & this late night host cover everything from the Sugarhill Gang to Kendrick Lamar in \"The History Of Rap\"",
+     "a": "Jimmy Fallon",
+     "right": [
+      "Lani"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 3,
+     "q": "Australia",
+     "a": "Canberra",
+     "right": [
+      "Yoey"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 25,
+     "q": "Frederick Forsyth wrote \"The Day of\" this beastly assassin trying to take out Charles de Gaulle",
+     "a": "the Jackal",
+     "right": [
+      "Joel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 9,
+     "q": "SA for short, in 1950 it published an article by Albert Einstein \"On the Generalized Theory of Gravitation\"",
+     "a": "Scientific American",
+     "right": [
+      "Lani"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "It regulates the light entering the eye",
+     "a": "iris",
+     "right": [
+      "Yoey"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 20,
+     "q": "Russian equivalent of G.I. Joe",
+     "a": "Ivan",
+     "right": [
+      "Lani"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 28,
+     "q": "This \"fashionable\" hit helped make Justin's album \"The 20/20 Experience\" one of the biggest sellers of 2013",
+     "a": "\"Suit & Tie\"",
+     "right": [
+      "Yoey"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 6,
+     "q": "South Dakota",
+     "a": "Pierre",
+     "right": [
+      "Yoey"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 26,
+     "q": "In this 1977 Robin Cook thriller with a 4-letter title, patients in surgery fail to awaken & then are used as organ donors",
+     "a": "Coma",
+     "right": [
+      "Lani"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": true,
+     "order": 10,
+     "q": "We're excited to tell you that this magazine focusing on technology & innovation coined the term \"crowdsourcing\"",
+     "a": "Wired",
+     "right": [
+      "Lani"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1000
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 16,
+     "q": "Got up from a chair",
+     "a": "rose",
+     "right": [
+      "Yoey"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 19,
+     "q": "Late at night while you're sleeping, Toxicodendron radicans, this, comes around",
+     "a": "poison ivy",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 22,
+     "q": "Justin says this man with a similar name who co-produced \"FutureSex/LoveSounds\" is like a brother to him",
+     "a": "Timbaland",
+     "right": [
+      "Lani"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 5,
+     "q": "The Dominican Republic",
+     "a": "Santo Domingo",
+     "right": [
+      "Yoey"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 8,
+     "q": "\"Postmortem\" from 1990 was Patricia Cornwell's first mystery featuring this female medical examiner",
+     "a": "Dr. Kay Scarpetta",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 11,
+     "q": "Launched in 1987, Cooking Light grew out of a column in this magazine that celebrates the best of Dixie",
+     "a": "Southern Living",
+     "right": [
+      "Yoey"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 14,
+     "q": "The Red Sox' David Ortiz is nicknamed \"Big\" this",
+     "a": "Papi",
+     "right": [
+      "Lani"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 18,
+     "q": "As a verb, it means to live together closely, like bees",
+     "a": "to hive",
+     "right": [
+      "Joel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 23,
+     "q": "Justin plays Napster founder Sean Parker in this movie about a start-up",
+     "a": "The Social Network",
+     "right": [
+      "Yoey"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 4,
+     "q": "Saskatchewan",
+     "a": "Regina",
+     "right": [
+      "Lani"
+     ],
+     "wrong": [
+      "Yoey"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 7,
+     "q": "2015's \"The Nature of the Beast\" is one of the Armand Gamache mysteries by this author with a coinage name",
+     "a": "Louise Penny",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 12,
+     "q": "This French satirical magazine got its name in part from a \"Peanuts\" character",
+     "a": "Charlie Hebdo",
+     "right": [
+      "Lani"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 15,
+     "q": "2 words:\nA foppish king of the beasts",
+     "a": "a dandy lion",
+     "right": [
+      "Lani"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 17,
+     "q": "The Convention on International Trade in Endangered Species banned this trade in 1989",
+     "a": "ivory",
+     "right": [
+      "Lani"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 24,
+     "q": "In 2016 this feel-good dance tune from the movie \"Trolls\" debuted at No. 1 on the Billboard Hot 100",
+     "a": "\"Can't Stop The Feeling!\"",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "PEOPLE OF THE BIBLICAL BOOK",
+    "DEWEY",
+    "NORTH CAROLINA, HISTORICALLY",
+    "WHATSAMATTA \"U\"?",
+    "FROM SCREEN TO STAGE",
+    "WORD ORIGINS"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "Big boo-boo in Genesis 25 as this man \"sold his birthright unto Jacob\", his twin brother",
+     "a": "Esau",
+     "right": [
+      "Lani"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 20,
+     "q": "In 1883 Melvil Dewey took this job at Columbia College",
+     "a": "librarian",
+     "right": [],
+     "wrong": [
+      "Joel"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 7,
+     "q": "At a Greensboro lunch counter in 1960, 4 students began this hyphenated type of protest & it lasted for 6 months",
+     "a": "a sit-in",
+     "right": [
+      "Lani"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 12,
+     "q": "Peptic ones can be duodenal or gastric",
+     "a": "an ulcer",
+     "right": [
+      "Lani"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "With co-writer Sylvester Stallone, this musical got in the ring & hit the Great White Way in 2014",
+     "a": "Rocky",
+     "right": [
+      "Lani"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 19,
+     "q": "This term for a personal driver originally meant someone who stoked a steam engine",
+     "a": "a chauffeur",
+     "right": [
+      "Joel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": true,
+     "order": 26,
+     "q": "The heat is on Abednego & his friends when they show up in this book",
+     "a": "Daniel",
+     "right": [],
+     "wrong": [
+      "Lani"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 800
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 21,
+     "q": "A N.Y. prosecutor before he was a 2-time presidential nominee, he won convictions in 72 of 73 racketeering cases",
+     "a": "Thomas Dewey",
+     "right": [
+      "Lani"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 8,
+     "q": "In 1524 this Italian made it to the mouth of the Cape Fear River; there was no bridge named for him there, though",
+     "a": "Verrazzano",
+     "right": [],
+     "wrong": [
+      "Lani",
+      "Yoey"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 13,
+     "q": "Relax, it's just dyspepsia--this common 2-word ailment of the abdomen",
+     "a": "upset stomach",
+     "right": [
+      "Lani"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 2,
+     "q": "Sammy Hagar & Kenny Loggins kicked off their Sunday shoes as Tony nominees for composing this musical",
+     "a": "Footloose",
+     "right": [
+      "Yoey"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 18,
+     "q": "Originally it was a place where rain fell from a roof; now it means to listen unseen to a conversation",
+     "a": "to eavesdrop",
+     "right": [
+      "Joel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 28,
+     "q": "This kinswoman to the Virgin Mary & mother of John the Baptist is mentioned only in Luke",
+     "a": "Elizabeth",
+     "right": [
+      "Lani"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 22,
+     "q": "On a 1954 show on WHBQ Memphis, star DJ Dewey Phillips played an advance copy of this man's \"That's All Right\" 30 times",
+     "a": "Elvis Presley",
+     "right": [
+      "Lani"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 9,
+     "q": "(Jimmy of the Clue Crew reports from the Wright Brothers Nat'l Memorial in North Carolina.) In 1902, the Wright Brothers made over 1,000 glider flights from the slopes of this 90-foot hill that was then a massive sand dune",
+     "a": "Kill Devil Hill",
+     "right": [],
+     "wrong": [
+      "Lani"
+     ],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 14,
+     "q": "Yep, it's sinusitis, an infection of this lofty tract",
+     "a": "the upper respiratory tract",
+     "right": [],
+     "wrong": [
+      "Joel"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 4,
+     "q": "A Monty Python film did succeed on Broadway as this 2005 musical",
+     "a": "Spamalot",
+     "right": [
+      "Yoey"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 3,
+     "q": "The name of this small magnifying glass used by jewelers is from a French term for a flawed gem",
+     "a": "a loupe",
+     "right": [
+      "Joel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 29,
+     "q": "Goliath makes his presence known in the first book of this man",
+     "a": "Samuel",
+     "right": [
+      "Yoey"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 23,
+     "q": "You may ring in when ready & name this May 1, 1898 battle that made Admiral George Dewey a national hero",
+     "a": "the Battle of Manila Bay",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 15,
+     "q": "North Carolina's second-oldest town was named \"New\" this by Swiss settlers; a capital idea!",
+     "a": "Bern",
+     "right": [
+      "Yoey"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 16,
+     "q": "Worked with nuclear fuel & now have liver problems? Could be this type of poisoning",
+     "a": "uranium",
+     "right": [
+      "Joel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 5,
+     "q": "Songs from this musical based on a 1968 film included \"Haben Sie Gehoert Das Deutsche Band?\" & \"Where Did We Go Right?\"",
+     "a": "The Producers",
+     "right": [],
+     "wrong": [
+      "Yoey"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 6400
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 10,
+     "q": "From the German, it's pleasure at someone's misfortune, combining words meaning \"harm\" & \"joy\"",
+     "a": "Schadenfreude",
+     "right": [
+      "Joel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 30,
+     "q": "The Book of John is where you'll find this Pharisee's discourse with Jesus",
+     "a": "Nicodemus",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 24,
+     "q": "John Dewey helped found this philosophical \"ism\" that stresses practical consequences",
+     "a": "pragmatism",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 25,
+     "q": "In 1776 this N.C. tribe supported the British & led by Chief Dragging Canoe attacked the colonists",
+     "a": "the Cherokee",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 17,
+     "q": "Swollen, painful big toe--sounds like gout, caused by elevated blood levels of this acid",
+     "a": "uric acid",
+     "right": [
+      "Joel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 6,
+     "q": "With songs like \"Saving All My Love\", this musical about a singer & an ex-Secret Service agent ran for 2 years in London",
+     "a": "The Bodyguard",
+     "right": [
+      "Lani"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 11,
+     "q": "The name of this Greek goddess of vengeance is now used to mean an unbeatable rival",
+     "a": "Nemesis",
+     "right": [
+      "Lani"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "WORDS IN THE NEWS 2016",
+  "q": "The Centre for European Reform is one of the sources credited with coining this new 6-letter portmanteau word",
+  "a": "Brexit",
+  "right": [
+   "Yoey",
+   "Lani"
+  ],
+  "wrong": [
+   "Joel"
+  ]
+ },
+ "gameId": "5441"
+}

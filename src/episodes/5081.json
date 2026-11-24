@@ -1,0 +1,977 @@
+{
+ "show": "#7158",
+ "aired": "2015-10-28",
+ "note": "",
+ "contestants": [
+  {
+   "name": "Nikki Grillos",
+   "bio": "a freelance associate casting director from New York, New York",
+   "short": "Nikki"
+  },
+  {
+   "name": "Chris Lastrapes",
+   "bio": "a business developer originally from Tulsa, Oklahoma",
+   "short": "Chris"
+  },
+  {
+   "name": "Sean Anderson",
+   "bio": "a law professor from Champaign, Illinois (whose 3-day cash winnings total $71,600)",
+   "short": "Sean"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Sean": 800,
+   "Chris": 4200,
+   "Nikki": 4600
+  },
+  "DJ": {
+   "Sean": 8400,
+   "Chris": 7400,
+   "Nikki": 7600
+  },
+  "Final": {
+   "Sean": 1599,
+   "Chris": 1700,
+   "Nikki": 14801
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "PRESIDENTS' MIDDLE NAMES",
+    "CONCERT HALLS",
+    "AUTO MAKERS",
+    "3-LETTER RESPONSES",
+    "TRANSLATE THE FRENCH",
+    "FILMS OF THE '90s"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "Hussein",
+     "a": "Obama",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 26,
+     "q": "In Berlin's Philharmonie you might sit behind the orchestra; it's built \"in-the-\" this, also a term used of theaters",
+     "a": "in the round",
+     "right": [
+      "Sean"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 21,
+     "q": "Time to head to Nevada in its Tahoe",
+     "a": "Chevy",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 16,
+     "q": "Just \"think\"--in 2012 Ginni Rometty became this company's first female CEO",
+     "a": "IBM",
+     "right": [
+      "Nikki"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 11,
+     "q": "Chaud, as in chocolat chaud",
+     "a": "hot",
+     "right": [
+      "Nikki"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 2,
+     "q": "The tag line of this film was \"A murdered wife. A one-armed man. An obsessed detective. The chase begins\"",
+     "a": "The Fugitive",
+     "right": [
+      "Sean"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 3,
+     "q": "Gamaliel",
+     "a": "(Warren) Harding",
+     "right": [
+      "Sean"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "In the 1940s the BBC Proms concerts moved from Queen's Hall to this one named for a prince",
+     "a": "Royal Albert Hall",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 22,
+     "q": "Max out storage space in its Sienna minivan",
+     "a": "Toyota",
+     "right": [
+      "Nikki"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 17,
+     "q": "A make-out session in a restaurant or at a ballgame",
+     "a": "PDA",
+     "right": [
+      "Nikki"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 12,
+     "q": "For dinner it's poisson (note the double \"S\")",
+     "a": "fish",
+     "right": [
+      "Nikki"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 7,
+     "q": "In 2014 ninnies Lloyd & Harry were back in the sequel to this 1994 movie",
+     "a": "Dumb and Dumber",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 4,
+     "q": "Abram",
+     "a": "James Garfield",
+     "right": [],
+     "wrong": [
+      "Nikki"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 29,
+     "q": "Manchester's Bridgewater Hall is so sonically tight that workmen in it didn't hear a 2-ton bomb this org. set off 1/2 mile away",
+     "a": "the IRA (the Irish Republican Army)",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 23,
+     "q": "I think I could learn to enjoy its Ghost Series II",
+     "a": "Rolls-Royce",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 18,
+     "q": "Resembling a flying saucer, the Theme Building located here is a cultural & historical landmark",
+     "a": "LAX",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 13,
+     "q": "Don't let le gazon grow under your feet",
+     "a": "grass",
+     "right": [
+      "Nikki"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 8,
+     "q": "(I'm NASCAR driver A.J. Allmendinger.) Tom Cruise plays Cole Trickle, a yankee who breaks into big-time stock car racing in this 1990 film",
+     "a": "Days of Thunder",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 5,
+     "q": "Earl",
+     "a": "(Jimmy) Carter",
+     "right": [
+      "Sean"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": true,
+     "order": 30,
+     "q": "The hall in Lahti, Finland is named after this composer",
+     "a": "Jean Sibelius",
+     "right": [],
+     "wrong": [
+      "Nikki"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 800
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 24,
+     "q": "Perhaps its Impreza will imprezz you",
+     "a": "Subaru",
+     "right": [],
+     "wrong": [
+      "Chris"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 19,
+     "q": "This network's original series have included \"Monk\", \"Psych\" & \"Suits\"",
+     "a": "USA",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [
+      "Sean"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 14,
+     "q": "A reporter should carry un stylo",
+     "a": "pen",
+     "right": [
+      "Nikki"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 9,
+     "q": "In 1996 Woody Harrelson portrayed this publisher & champion of free speech",
+     "a": "Larry Flynt",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 6,
+     "q": "Alan",
+     "a": "(Chester) Arthur",
+     "right": [
+      "Nikki"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 28,
+     "q": "This European city's philharmonic has a glorious showcase to play Mozart & more at its Musikfreunde",
+     "a": "Vienna",
+     "right": [
+      "Nikki"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 25,
+     "q": "Don't crash its Cadenza into a credenza",
+     "a": "Kia",
+     "right": [],
+     "wrong": [
+      "Nikki"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 20,
+     "q": "Timothy Leary was a leading advocate for the use of psychedelic drugs, this one in particular",
+     "a": "LSD",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 15,
+     "q": "La mariee, perhaps all in white",
+     "a": "bride",
+     "right": [
+      "Nikki"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 10,
+     "q": "They're the title objects that split Gwyneth Paltrow's life in two",
+     "a": "Sliding Doors",
+     "right": [
+      "Nikki"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "BOOKS' SUBTITLES",
+    "OLIVIA",
+    "NEO GEO",
+    "THINK MUSIC",
+    "THE U.S. MARINE CORPS",
+    "\"OO\" RAH"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 8,
+     "q": "This horse: \"An American Legend\" by Laura Hillenbrand",
+     "a": "Seabiscuit",
+     "right": [
+      "Sean"
+     ],
+     "wrong": [
+      "Nikki"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 21,
+     "q": "Australian vineyards provide the grapes for this singer's Koala Blue wines",
+     "a": "Olivia Newton-John",
+     "right": [
+      "Sean"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 16,
+     "q": "You take the left half of the old name, we'll take the right, said these 2 new European countries in 1993",
+     "a": "the Czech Republic & Slovakia",
+     "right": [
+      "Sean"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "\"If you want my body & you think I'm sexy, come on sugar let me know\"",
+     "a": "(Rod) Stewart",
+     "right": [
+      "Nikki"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 26,
+     "q": "A photo of the flag-raising on this island was used as a model for the Marine Memorial at Arlington",
+     "a": "Iwo Jima",
+     "right": [
+      "Sean"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 6,
+     "q": "It partners with \"whole kit\" to denote something in its entirety",
+     "a": "caboodle",
+     "right": [
+      "Sean"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": true,
+     "order": 10,
+     "q": "This number: \"A Portrait of My Father\" by George W. Bush",
+     "a": "41",
+     "right": [],
+     "wrong": [
+      "Nikki"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1000
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 22,
+     "q": "Her most famous role came in 1939 as Melanie Wilkes",
+     "a": "Olivia de Havilland",
+     "right": [
+      "Nikki"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 17,
+     "q": "This Pacific island nation dropped the \"Western\" from its name & it's now just \"the Independent State of\" it",
+     "a": "Samoa",
+     "right": [
+      "Sean"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 2,
+     "q": "\"You probably think this song is about you\"",
+     "a": "Carly Simon",
+     "right": [
+      "Nikki"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 27,
+     "q": "The Mameluke sword carried by officers dates to 1805, when the Marines rid the \"shores of\" this place of pirates",
+     "a": "Tripoli",
+     "right": [
+      "Sean"
+     ],
+     "wrong": [
+      "Nikki"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 7,
+     "q": "A pipe of near eastern origin with a flexible intake tube",
+     "a": "a hookah",
+     "right": [
+      "Nikki"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 11,
+     "q": "\"Endurance\": this Antarctic explorer's \"Incredible Voyage\"",
+     "a": "Sir Ernest Shackleton",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 23,
+     "q": "Nothing is ordinary for Olivia in this Shakespeare comedy: she loves Cesario, who is Viola in disguise",
+     "a": "Twelfth Night",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": true,
+     "order": 18,
+     "q": "In its official name this nation now describes itself as a \"Bolivarian Republic\"",
+     "a": "Venezuela",
+     "right": [
+      "Sean"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2000
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 3,
+     "q": "\"You're the reason I'm a-travelin' on, but don't think twice, it's all right\" (he wrote it)",
+     "a": "Bob Dylan",
+     "right": [
+      "Sean"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 28,
+     "q": "In the Pacific, Marine bases are located at Oahu, Hawaii & this Japanese island in the Ryukyus",
+     "a": "Okinawa",
+     "right": [
+      "Sean"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 9,
+     "q": "A funny reel of footage is named for this type of goof",
+     "a": "a blooper",
+     "right": [
+      "Nikki"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 12,
+     "q": "These \"Sisters: The Lost Lives of the Daughters of Nicholas and Alexandra\"",
+     "a": "the Romanovs",
+     "right": [
+      "Nikki"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 24,
+     "q": "Olivia Goldsmith, who wrote this 1992 novel about women whose exes acquire younger spouses, died during a facelift",
+     "a": "The First Wives Club",
+     "right": [
+      "Nikki"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 19,
+     "q": "Bombay has become Mumbai & this southern city famous for its fabrics is now known as Chennai",
+     "a": "Madras",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 4,
+     "q": "\"I'm thinking out loud, maybe we found love right where we are\"",
+     "a": "Ed Sheeran",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 29,
+     "q": "Marine recruits receive basic training in one of 2 places: Parris Island, S.C. or this Southern California city",
+     "a": "San Diego",
+     "right": [
+      "Sean"
+     ],
+     "wrong": [
+      "Chris"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 14,
+     "q": "French & English are the official languages of this country on Africa's west coast",
+     "a": "Cameroon",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 13,
+     "q": "This one-word title: \"Confessions of an Unredeemed Drug Addict\" by William S. Burroughs",
+     "a": "Junkie",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 25,
+     "q": "Olivia Williams is stuck in 1940s New Mexico as a physicist's wife on this WGN series without \"Project\" in its title",
+     "a": "Manhattan",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [
+      "Nikki"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 20,
+     "q": "Tshwane, after a local chief, is the new name of this South African city formerly named for a Boer leader",
+     "a": "Pretoria",
+     "right": [],
+     "wrong": [
+      "Sean"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 5,
+     "q": "\"You might think I'm foolish or maybe it's untrue, you might think I'm crazy, all I want is you\"",
+     "a": "The Cars",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 30,
+     "q": "In 1962 he became the first Marine to orbit the Earth",
+     "a": "John Glenn",
+     "right": [],
+     "wrong": [
+      "Sean"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 15,
+     "q": "Imperative & subjunctive are 2 examples of this property of verbs",
+     "a": "mood",
+     "right": [
+      "Sean"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "POPULAR PSYCHOLOGY TERMS",
+  "q": "Anna Freud wrote, \"The infantile ego resorts to\" this behavior \"in order not to become aware of some painful impression\"",
+  "a": "denial",
+  "right": [
+   "Nikki"
+  ],
+  "wrong": [
+   "Chris",
+   "Sean"
+  ]
+ },
+ "gameId": "5081"
+}

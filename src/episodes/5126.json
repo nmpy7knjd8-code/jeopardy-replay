@@ -1,0 +1,980 @@
+{
+ "show": "#7188",
+ "aired": "2015-12-09",
+ "note": "(Lin-Manuel Miranda: I'm Lin-Manuel Miranda. I wrote and star in the Broadway musical Hamilton. Clues about Alexander Hamilton coming up on Jeopardy!)    WE ASKED: Hamilton's Lin-Manuel Miranda.",
+ "contestants": [
+  {
+   "name": "Jon Lubbers",
+   "bio": "a mechanical engineer from Lafayette, Colorado",
+   "short": "Jon"
+  },
+  {
+   "name": "Bianca Howard",
+   "bio": "a waste reduction specialist from Cary, North Carolina",
+   "short": "Bianca"
+  },
+  {
+   "name": "Alex Maggio",
+   "bio": "a writer originally from Cincinnati, Ohio (whose 1-day cash winnings total $15,100)",
+   "short": "Alex"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Alex": 7400,
+   "Bianca": 2400,
+   "Jon": 6800
+  },
+  "DJ": {
+   "Alex": 19600,
+   "Bianca": 12600,
+   "Jon": 8400
+  },
+  "Final": {
+   "Alex": 25201,
+   "Bianca": 5599,
+   "Jon": 16799
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "PRESIDENTS ON TV",
+    "ADVERTISING ICONS",
+    "CROSSWORD CLUES \"T\"",
+    "LAST NAMES IN THE HARRY POTTER BOOKS",
+    "EARTH, WIND OR FIRE",
+    "HAMILTON"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 19,
+     "q": "He presided over \"The West Wing\" as President Jed Bartlet",
+     "a": "Martin Sheen",
+     "right": [
+      "Alex"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 8,
+     "q": "This feminine first name plus the last name of flour company executive William Crocker equaled instant icon",
+     "a": "Betty Crocker",
+     "right": [
+      "Alex"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 21,
+     "q": "Native American ax\n(8)",
+     "a": "tomahawk",
+     "right": [
+      "Alex"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 3,
+     "q": "Severus",
+     "a": "Snape",
+     "right": [
+      "Alex"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 26,
+     "q": "Conflagration",
+     "a": "fire",
+     "right": [
+      "Alex"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 12,
+     "q": "In the show, this rival prophetically warns Hamilton, \"Talk less, smile more, don't let them know what you're against or what you're for, you wanna get ahead? Fools who run their mouths off wind up dead\"--he was right",
+     "a": "Aaron Burr",
+     "right": [
+      "Jon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 24,
+     "q": "Show with Pres. Frank Underwood; I must confess that I do enjoy Frank's asides directly to the audience",
+     "a": "House of Cards",
+     "right": [
+      "Alex"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 13,
+     "q": "Why a talking this type of lizard in a GEICO ad? In its words, \"Because people trust advertising icons\"",
+     "a": "a gecko",
+     "right": [
+      "Alex"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 22,
+     "q": "Schoolroom snitch\n(10)",
+     "a": "tattletale",
+     "right": [
+      "Alex"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 7,
+     "q": "Rubeus",
+     "a": "Hagrid",
+     "right": [
+      "Bianca"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "Loam",
+     "a": "earth",
+     "right": [
+      "Jon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 6,
+     "q": "In the show, the Thomas Jefferson character performs \"What'd I Miss\"\n\n\"So, what did I miss? /\nWhat did I miss? /\nVirginia, my home, sweet home /\nI want to give you a kiss\"\n\nWhat Jefferson missed was America's post-war development while he was away as minister to this country",
+     "a": "France",
+     "right": [
+      "Jon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 14,
+     "q": "David Palmer was assassinated on this fast-paced show--guess he wasn't in good hands",
+     "a": "24",
+     "right": [
+      "Jon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": true,
+     "order": 16,
+     "q": "This rotund figure was once drawn \"drinking\" nails to show that driving over them didn't bother his tires",
+     "a": "the Michelin Man",
+     "right": [
+      "Bianca"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1200
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 23,
+     "q": "Parking lot picnic\n(8)",
+     "a": "tailgate",
+     "right": [
+      "Jon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 9,
+     "q": "Top man Albus",
+     "a": "Dumbledore",
+     "right": [
+      "Alex"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 2,
+     "q": "Flashover",
+     "a": "fire",
+     "right": [
+      "Jon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 5,
+     "q": "\"You cry in your tea which you hurl in the sea when you see me go by why so sad? Remember we made an arrangement when you went away, now you're making me mad\", rants this king",
+     "a": "George III",
+     "right": [
+      "Jon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 15,
+     "q": "Selina Meyer took a step up from this show's title",
+     "a": "Veep",
+     "right": [
+      "Bianca"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 17,
+     "q": "Jonathan Goldsmith plays this man in Dos Equis commercials",
+     "a": "the Most Interesting Man in the World",
+     "right": [
+      "Jon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 28,
+     "q": "Work from home\n(11)",
+     "a": "telecommute",
+     "right": [
+      "Alex"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 10,
+     "q": "Godric--it adorns a house at Hogwarts",
+     "a": "Gryffindor",
+     "right": [
+      "Jon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 20,
+     "q": "Mistral",
+     "a": "wind",
+     "right": [
+      "Jon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 4,
+     "q": "\"How does the bastard orphan immigrant decorated war vet unite the colonies through more debt?\" is asked about Hamilton shortly after he begins to run this Cabinet department",
+     "a": "the Treasury",
+     "right": [
+      "Alex"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 30,
+     "q": "This show featured Laura Roslin, a politician unafraid to come out strongly against Cylon attacks",
+     "a": "Battlestar Galactica",
+     "right": [
+      "Alex"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 18,
+     "q": "A cat with 9 lives has represented this battery brand since the 1930s",
+     "a": "Eveready",
+     "right": [],
+     "wrong": [
+      "Jon"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 29,
+     "q": "Type of bicycle built for 2\n(6)",
+     "a": "tandem",
+     "right": [
+      "Jon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 11,
+     "q": "We'll take offense if you don't know this last name of bossy Dolores",
+     "a": "Umbridge",
+     "right": [
+      "Alex"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 25,
+     "q": "Aridisol",
+     "a": "earth",
+     "right": [
+      "Alex"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 1,
+     "q": "A highlight of Act I is our staging of this climactic Virginia battle of 1781, in which Hamilton led an attack; it's where the British ultimately surrendered the war",
+     "a": "Yorktown",
+     "right": [
+      "Jon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "HIS OWN MUSEUM",
+    "HODGEPODGE",
+    "WHERE'S THAT BONE?",
+    "WORDS & PHRASES",
+    "A CATEGORY WITH GAPS",
+    "EGOT-ISTS"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 5,
+     "q": "This pop artist's museum opened in 1994 & is one of the 4 Carnegie Museums of Pittsburgh",
+     "a": "(Andy) Warhol",
+     "right": [
+      "Jon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 6,
+     "q": "If nose is your job title, you create these, perhaps for Guerlain",
+     "a": "perfumes (a scent accepted)",
+     "right": [
+      "Bianca"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "Carpal bone:\nThis joint",
+     "a": "the wrist",
+     "right": [
+      "Jon"
+     ],
+     "wrong": [
+      "Alex",
+      "Bianca"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "Now synonymous with taking a brief break from a long period of sitting, it may date back to an 1882 baseball game",
+     "a": "the seventh-inning stretch",
+     "right": [
+      "Jon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 15,
+     "q": "Great St. Bernard Pass through these mountains is one of the most ancient routes between Italy & Switzerland",
+     "a": "the Alps",
+     "right": [
+      "Alex"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 7,
+     "q": "He shared an Oscar, a Grammy & 4 of his Tonys with Oscar Hammerstein II",
+     "a": "(Richard) Rodgers",
+     "right": [
+      "Alex"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": true,
+     "order": 12,
+     "q": "A museum devoted to this scientist & inventor is housed in what was originally the Tuskegee campus laundry",
+     "a": "George Washington Carver",
+     "right": [
+      "Alex"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 3000
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 21,
+     "q": "Puppygate was a 2015 scandal that rocked these awards for science fiction authors",
+     "a": "the Hugo Awards",
+     "right": [
+      "Alex"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 3,
+     "q": "The incus or anvil:\nThis organ",
+     "a": "the ear",
+     "right": [
+      "Jon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 10,
+     "q": "This 3-word phrase at the end of Warner Bros. cartoons was first uttered in 1930",
+     "a": "\"That's all, folks\"",
+     "right": [
+      "Bianca"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 16,
+     "q": "Route 61 passes through Schuylkill Gap just north of the city of Hamburg in this state",
+     "a": "Pennsylvania",
+     "right": [
+      "Alex"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 8,
+     "q": "Robert Lopez completed his EGOT in 2015 with an Oscar for this \"Frozen\" tune",
+     "a": "\"Let It Go\"",
+     "right": [
+      "Bianca"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 13,
+     "q": "In Salzburg you can visit the house where he was born & see such mementos as his childhood violin & his clavichord",
+     "a": "Mozart",
+     "right": [
+      "Jon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 4,
+     "q": "This sea creature uses the snout that gives it its name to detect the electrical field of its prey",
+     "a": "a sawfish",
+     "right": [
+      "Alex"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 22,
+     "q": "The ischium:\nThis \"girdle\"",
+     "a": "the pelvic girdle",
+     "right": [
+      "Bianca"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 11,
+     "q": "A vessel holding water or feed for animals, it now also means a source of illicit income, like for politicians",
+     "a": "a trough",
+     "right": [
+      "Alex"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 17,
+     "q": "For several decades, Dixville Notch in this state traditionally has voted first in the U.S. presidential elections",
+     "a": "New Hampshire",
+     "right": [
+      "Alex"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 9,
+     "q": "She's seen here in 1977--the year she won the Emmy to complete her quartet",
+     "a": "Rita Moreno",
+     "right": [
+      "Bianca"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 19,
+     "q": "His Presidential Library & Museum is located in West Branch, Iowa",
+     "a": "Herbert Hoover",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 23,
+     "q": "Originally, Brownies were the youngest Girl Scouts; now, these \"flowery\" girls are",
+     "a": "Daisies",
+     "right": [
+      "Alex"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 24,
+     "q": "Turbinate bone:\nThe upper chamber of this cavity",
+     "a": "your nasal cavity",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 14,
+     "q": "An exact duplicate, not a deceased Quasimodo, it was a horse switched for another to defraud bookies",
+     "a": "a dead ringer",
+     "right": [
+      "Alex"
+     ],
+     "wrong": [
+      "Jon"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 18,
+     "q": "This pass connects Afghanistan & Pakistan via a gap in the Spin Ghar Mountains",
+     "a": "the Khyber Pass",
+     "right": [
+      "Bianca"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 25,
+     "q": "For 1973 Marvin Hamlisch got Os for both the score & \"memorable\" title song of this Redford-Streisand film",
+     "a": "The Way We Were",
+     "right": [
+      "Bianca"
+     ],
+     "wrong": [
+      "Alex"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 20,
+     "q": "This author's Museum & Story Centre in England is \"Flushbunkingly Gloriumptious \"; it says so right outside",
+     "a": "Roald Dahl",
+     "right": [
+      "Alex"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 26,
+     "q": "This term for the book that holds the prayers of a Catholic Mass sounds like it could be fired in war",
+     "a": "a missal",
+     "right": [],
+     "wrong": [
+      "Jon"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 29,
+     "q": "The talus:\nThis joint",
+     "a": "the ankle",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": true,
+     "order": 27,
+     "q": "The Mead Johnson Co. introduced this bland baby cereal, now a term for trite or childish ideas",
+     "a": "pablum",
+     "right": [
+      "Bianca"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 3000
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 28,
+     "q": "Neel Gap to Unicoi Gap is a scenic hike on this very long trail near its south end in Georgia",
+     "a": "the Appalachian Trail",
+     "right": [
+      "Jon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 30,
+     "q": "A Grammy & Tony came for Shakespeare, but this man's Oscar was for his supporting role in \"Arthur\"",
+     "a": "Sir John Gielgud",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "DOG BREEDS",
+  "q": "This small breed is named for a member of the 17th century House of Stuart",
+  "a": "the King Charles spaniel",
+  "right": [
+   "Jon",
+   "Alex"
+  ],
+  "wrong": [
+   "Bianca"
+  ]
+ },
+ "gameId": "5126"
+}

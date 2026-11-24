@@ -1,0 +1,983 @@
+{
+ "show": "#7784",
+ "aired": "2018-06-14",
+ "note": "",
+ "contestants": [
+  {
+   "name": "Katherine Pisarro-Grant",
+   "bio": "a verbal identity consultant from Brooklyn, New York",
+   "short": "Katherine"
+  },
+  {
+   "name": "Adam Manning",
+   "bio": "a senior sales manager from Denver, Colorado",
+   "short": "Adam"
+  },
+  {
+   "name": "Diana Hsu",
+   "bio": "a legal records assistant from Malden, Massachusetts (whose 1-day cash winnings total $24,001)",
+   "short": "Diana"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Diana": 7200,
+   "Adam": 5000,
+   "Katherine": 3200
+  },
+  "DJ": {
+   "Diana": 29600,
+   "Adam": 8600,
+   "Katherine": 10800
+  },
+  "Final": {
+   "Diana": 20600,
+   "Adam": 1,
+   "Katherine": 4399
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "WHAT'S THAT ON YOUR HEAD?",
+    "PLAYING POLITICS",
+    "SAME VOWEL, FRONT & BACK",
+    "COMBAT ROCK",
+    "PEOPLE OF THE WORLD",
+    "IT'S ABOUT TIME"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "A kitchen fixture is in the name of this slang term for a tall, usually black silk top hat",
+     "a": "a stovepipe",
+     "right": [
+      "Adam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 2,
+     "q": "Colorado's John Hickenlooper claims to be the first brewer/state governor since this Founding Father",
+     "a": "Sam Adams",
+     "right": [
+      "Adam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 4,
+     "q": "To give up a criminal to another nation for prosecution",
+     "a": "extradite",
+     "right": [
+      "Katherine"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 26,
+     "q": "Edwin Starr:\n\"____\", adding \"What is it good for?\"",
+     "a": "\"War\"",
+     "right": [
+      "Adam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 13,
+     "q": "Native Hawaiians are part of this ethnic group whose name means \"many islands\"",
+     "a": "Polynesian",
+     "right": [
+      "Katherine"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 21,
+     "q": "The D.O.E. found that 4 extra weeks added to this period in 2007 saved 0.5% of electricity per day, 1.3 billion KWH in total",
+     "a": "Daylight Savings Time",
+     "right": [
+      "Adam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 6,
+     "q": "\"A\" is the only vowel in this cold-weather mask & cap combo",
+     "a": "a balaclava",
+     "right": [
+      "Katherine"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 3,
+     "q": "In the '90s this ex-husband of Cher was mayor of Palm Springs & a 2-term Republican congressman",
+     "a": "Sonny Bono",
+     "right": [
+      "Katherine"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 5,
+     "q": "Resembling a clumsy pachyderm",
+     "a": "elephantine",
+     "right": [
+      "Diana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "Rage Against the Machine: \n\"____ In The Name\"",
+     "a": "Killing",
+     "right": [
+      "Katherine"
+     ],
+     "wrong": [
+      "Diana"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 14,
+     "q": "Javanese are the largest ethnic group of this nation",
+     "a": "Indonesia",
+     "right": [
+      "Diana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 22,
+     "q": "Also called \"New Style\", this calendar was proclaimed by the pope in 1582 as a reform of the Julian one",
+     "a": "Gregorian",
+     "right": [
+      "Adam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 8,
+     "q": "Wonder Woman wears this type of small crown that she can use like a boomerang",
+     "a": "a tiara",
+     "right": [
+      "Katherine"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 17,
+     "q": "Then a New Jersey prosecutor, this future governor helped jail Jared Kushner's father in 2005",
+     "a": "Chris Christie",
+     "right": [
+      "Adam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 7,
+     "q": "A supposed secret sect of world dominators, of which I am totally not a member",
+     "a": "the Illuminati",
+     "right": [
+      "Diana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 28,
+     "q": "Staff sergeant Barry Sadler: \n\"The Ballad Of\" these special forces",
+     "a": "the Green Berets",
+     "right": [
+      "Adam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": true,
+     "order": 15,
+     "q": "Afrikaners were once called by this name meaning \"farmer\"",
+     "a": "Boer",
+     "right": [
+      "Diana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1200
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 23,
+     "q": "In 1883 the scheduling of these made the adoption of standard time zones a necessity",
+     "a": "the railroad",
+     "right": [
+      "Diana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 10,
+     "q": "Here's Jackie Kennedy wearing one of these lace veils with a diminutive Spanish name",
+     "a": "a mantilla",
+     "right": [
+      "Diana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 18,
+     "q": "An Iraq War veteran & a Purple Heart recipient, she represents Illinois in the Senate",
+     "a": "(Tammy) Duckworth",
+     "right": [
+      "Adam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 9,
+     "q": "Food of the gods",
+     "a": "ambrosia",
+     "right": [
+      "Diana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "Pere Ubu:\n\"30 Seconds Over ____\"",
+     "a": "\"30 Seconds Over Tokyo\"",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 16,
+     "q": "The homeland of the Basques is this border-straddling mountain range",
+     "a": "the Pyrenees",
+     "right": [
+      "Adam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 24,
+     "q": "The moving shadow of a gnomon on this is what led to the use of the word clockwise",
+     "a": "a sundial",
+     "right": [
+      "Diana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 11,
+     "q": "You say hairnet, I say this 5-letter word, a decoration for women's hair in the Victorian era",
+     "a": "a snood",
+     "right": [
+      "Katherine"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 19,
+     "q": "A rough start to 2008 for this Dem. of North Carolina--he was third in South Carolina's primary, & scandal made things worse",
+     "a": "(John) Edwards",
+     "right": [
+      "Adam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 12,
+     "q": "Ayers Rock is also known as this, with the same vowel front, back & middle",
+     "a": "Uluru",
+     "right": [
+      "Diana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 30,
+     "q": "Elvis Costello:\n\"____ Forces\"",
+     "a": "\"Armed Forces\"",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 20,
+     "q": "The Pashtun mostly call these 2 countries home; you'll find over 30 million of them there",
+     "a": "Pakistan and Afghanistan",
+     "right": [
+      "Diana"
+     ],
+     "wrong": [
+      "Adam"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 25,
+     "q": "The Pleistocene is an example of this subdivision of a period, itself subdivided into ages",
+     "a": "an epoch",
+     "right": [
+      "Adam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "MAN CAVES",
+    "17th CENTURY LIT",
+    "COMPLETE THE RHYMING PHRASE",
+    "COLORS",
+    "BROADWAY NAMES",
+    "POLAR EXPLORATION"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 24,
+     "q": "A great place to go spelunking is the limestone caverns in Montana named for this pair of expeditioners",
+     "a": "Lewis and Clark",
+     "right": [
+      "Adam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 29,
+     "q": "Perrault's \"Tales of Mother Goose\" includes early versions of \"Sleeping Beauty\" & this shoe-losing lass",
+     "a": "Cinderella",
+     "right": [
+      "Adam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 11,
+     "q": "\"How now...\"",
+     "a": "brown cow",
+     "right": [
+      "Diana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "Sherwin-Williams paint colors include a delectable brownish yellow called \"Cut the\" this",
+     "a": "mustard",
+     "right": [
+      "Adam"
+     ],
+     "wrong": [
+      "Diana",
+      "Katherine"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "Larry Hagman's mom, Mary Martin, said that of all her stage roles, this one was her favorite",
+     "a": "Peter Pan",
+     "right": [
+      "Diana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 18,
+     "q": "During polar excursions, Robert Peary relied on the native people he referred to as \"my\" these",
+     "a": "Eskimos",
+     "right": [
+      "Diana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 25,
+     "q": "Caverns in Indiana bear the name & the bones of this trailblazer's brother Squire, who was laid to rest there in 1815",
+     "a": "(Daniel) Boone",
+     "right": [
+      "Adam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 17,
+     "q": "Francis Bacon penned a vision of society based on 17th century science, \"The New\" this fabled lost land",
+     "a": "Atlantis",
+     "right": [
+      "Diana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 12,
+     "q": "\"Little strokes fell great...\"",
+     "a": "oaks",
+     "right": [
+      "Diana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 7,
+     "q": "Careful--adding \"ide\" to this greenish-blue color produces a deadly poison",
+     "a": "cyan",
+     "right": [
+      "Adam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 3,
+     "q": "In a revival of this musical, Alan Cumming played the Emcee to Michelle Williams' Sally Bowles",
+     "a": "Cabaret",
+     "right": [
+      "Diana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 19,
+     "q": "Britain's Natural History Museum houses an egg collected in Antarctica in 1911 from this \"royal\" bird",
+     "a": "the emperor penguin",
+     "right": [
+      "Adam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 26,
+     "q": "Warren's Cave in Florida is named for Colonel John Warren, who led troops during the second of these Indian wars",
+     "a": "the Seminole Wars",
+     "right": [
+      "Adam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 15,
+     "q": "This French playwright had a flop with his 1665 take on the Don Juan legend",
+     "a": "Moliere",
+     "right": [
+      "Katherine"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 13,
+     "q": "\"Leaves of three...\"",
+     "a": "leave it be",
+     "right": [
+      "Katherine"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 8,
+     "q": "These intensely colored compounds used in paints get their name from the Latin for \"paint\"",
+     "a": "pigments",
+     "right": [
+      "Diana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 4,
+     "q": "She originated the role of Elphaba in \"Wicked\"",
+     "a": "Idina Menzel",
+     "right": [
+      "Diana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 20,
+     "q": "Occasionally having to get off & push, Daniel Burton recently became the first to reach the South Pole via this, a \"fat\" type",
+     "a": "a fat bicycle",
+     "right": [],
+     "wrong": [
+      "Adam"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 27,
+     "q": "This ancient playwright's cave on Salamis is believed to be where he wrote tragedies like \"Trojan Women\"",
+     "a": "Euripides",
+     "right": [
+      "Katherine"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 16,
+     "q": "An allegorical play about human destiny, Pedro Calderon's \"La Vida es Sueño\" translates as \"Life is\" one of these",
+     "a": "a dream",
+     "right": [
+      "Diana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 14,
+     "q": "\"Drive for show...\"",
+     "a": "but putt for dough",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 9,
+     "q": "This color obtained from a plant dye is also known as blue-violet",
+     "a": "indigo",
+     "right": [
+      "Diana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 4200
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 5,
+     "q": "In 2017 this rock icon became a Broadway name when he starred in a series of autobiographical acoustic shows",
+     "a": "Bruce Springsteen",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 22,
+     "q": "The first nuclear sub to visit the North Pole was this one that shared a name with a fictional submersible",
+     "a": "the Nautilus",
+     "right": [
+      "Diana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 7000
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 30,
+     "q": "A cave on Mount Carmel is named for this prophet who may have lived & hid there before whirlwinding up to heaven",
+     "a": "Elijah",
+     "right": [
+      "Diana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 28,
+     "q": "For imagery about the nature & meaning of the universe, John Donne & others were dubbed these poets",
+     "a": "metaphysical",
+     "right": [
+      "Katherine"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 21,
+     "q": "\"Red sky in morning...\"",
+     "a": "sailors take warning",
+     "right": [
+      "Diana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 10,
+     "q": "Lord Rayleigh explained that scattering of sunlight is what does this--now stop asking questions, Junior!",
+     "a": "what makes the sky blue",
+     "right": [
+      "Adam"
+     ],
+     "wrong": [
+      "Diana"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 6,
+     "q": "In 1980 she won a Tony for \"Evita\"; in 2008 she won for \"Gypsy\"",
+     "a": "Patti LuPone",
+     "right": [
+      "Katherine"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 23,
+     "q": "(Sarah of the Clue Crew shows the South Pole on the monitor.) Here is Amundsen's route to and from the South Pole, & here is the 1911-1912 route from Cape Evans led by this man--on the return trip, he met his end just 11 miles from shelter",
+     "a": "(Robert Falcon) Scott",
+     "right": [
+      "Diana"
+     ],
+     "wrong": [
+      "Adam"
+     ],
+     "stumper": false,
+     "img": true
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "CONSTELLATIONS",
+  "q": "This Zodiac constellation includes 2 lines (or strings) that terminate in a star called Alrescha, the knot",
+  "a": "Pisces",
+  "right": [],
+  "wrong": [
+   "Adam",
+   "Katherine",
+   "Diana"
+  ]
+ },
+ "gameId": "6014"
+}

@@ -1,0 +1,956 @@
+{
+ "show": "#7326",
+ "aired": "2016-06-20",
+ "note": "",
+ "contestants": [
+  {
+   "name": "Sally Neumann",
+   "bio": "a mental health counselor from Seattle, Washington",
+   "short": "Sally"
+  },
+  {
+   "name": "Joe Mulder",
+   "bio": "a closed captioner originally from Marshall, Minnesota",
+   "short": "Joe"
+  },
+  {
+   "name": "Liz Haigney Lynch",
+   "bio": "a freelance writer and genealogist from Montclair, New Jersey (whose 2-day cash winnings total $49,600)",
+   "short": "Liz"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Liz": 3800,
+   "Joe": 9400,
+   "Sally": 2800
+  },
+  "DJ": {
+   "Liz": 5400,
+   "Joe": 14600,
+   "Sally": 13900
+  },
+  "Final": {
+   "Liz": 6,
+   "Joe": 1399,
+   "Sally": 10900
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "JUST MISSED THE TITANIC",
+    "OFFICIAL STATE SYMBOLS",
+    "THE CINEMA OF BRADLEY COOPER",
+    "BEASTLY LIT",
+    "\"GO\" AHEAD",
+    "MAKE MY CAR"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "Even though he had made a deposit, this chocolate magnate avoided the \"kiss\" of death",
+     "a": "Hershey",
+     "right": [
+      "Joe"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 14,
+     "q": "Oregon picked the Chinook type of this as its state fish",
+     "a": "salmon",
+     "right": [
+      "Sally"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 2,
+     "q": "In this 2014 film a doctor tells Cooper's character that \"the Navy has credited you with over 160 kills\"",
+     "a": "American Sniper",
+     "right": [
+      "Joe"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 5,
+     "q": "\"Gloomy Gus\" & \"Gentle Ben\" both by Walt Morey",
+     "a": "bears",
+     "right": [
+      "Liz"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 3,
+     "q": "Slinger Lefty or singer Selena",
+     "a": "Gomez",
+     "right": [
+      "Joe"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 26,
+     "q": "The Sentra of your attention",
+     "a": "Nissan",
+     "right": [
+      "Liz"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": true,
+     "order": 8,
+     "q": "Offered free passage on the Titanic, this Italian chose a different ship but his invention saved 700 lives",
+     "a": "(Guglielmo) Marconi",
+     "right": [
+      "Liz"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 800
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 15,
+     "q": "These, discovered in Arkansas in 1906, are the state gem; a state park is a Crater of them",
+     "a": "diamonds",
+     "right": [
+      "Sally"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 10,
+     "q": "This 2009 film about a bachelor party in Las Vegas & its 2 sequels all star Bradley Cooper as Phil",
+     "a": "The Hangover",
+     "right": [
+      "Joe"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 6,
+     "q": "\"Willy the Champ\" by Anthony Browne & \"Me Cheeta\" by James Lever",
+     "a": "chimpanzee",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 4,
+     "q": "The tails of pocket these rodents serve as an organ of touch",
+     "a": "gophers",
+     "right": [
+      "Sally"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "The $120,000 S-class coupe; my friends all drive Porsches, I must make amends",
+     "a": "Mercedes",
+     "right": [
+      "Liz"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 9,
+     "q": "Edgar Selwyn, who gave this fellow film producer the \"wyn\" in his name, canceled passage to read a friend's novel",
+     "a": "Samuel Goldwyn",
+     "right": [
+      "Joe"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 17,
+     "q": "South Dakota's nickname mentions this landmark",
+     "a": "Mount Rushmore",
+     "right": [
+      "Joe"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 11,
+     "q": "Cooper supplied the voice of Rocket, a gun-toting talking raccoon, in this hit film",
+     "a": "Guardians of the Galaxy",
+     "right": [
+      "Joe"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 7,
+     "q": "\"Thunderhead\" by Mary O'Hara & \"King of the Wind\" by Marguerite Henry",
+     "a": "horses",
+     "right": [
+      "Liz"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 16,
+     "q": "Any mass pursuit of wealth, like the one that these fellows are part of",
+     "a": "a gold rush",
+     "right": [
+      "Joe"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 28,
+     "q": "The Rav4, which has the airbags8",
+     "a": "Toyota",
+     "right": [
+      "Joe"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 18,
+     "q": "This banker, the \"Napoleon of Wall Street\", booked passage & had his own private suite onboard but stayed in France",
+     "a": "J.P. Morgan",
+     "right": [
+      "Liz"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 20,
+     "q": "California's state motto is this Greek word that means \"I have found it!\"",
+     "a": "eureka",
+     "right": [
+      "Liz"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 12,
+     "q": "Cooper played Face in this 2010 film based on a TV series; the original TV actor, Dirk Benedict, had a bit role in the film",
+     "a": "The A-Team",
+     "right": [
+      "Joe"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 22,
+     "q": "\"Thomasina\" by Paul Gallico & \"Socks\" by Beverly Cleary",
+     "a": "a cat",
+     "right": [
+      "Sally"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 23,
+     "q": "To push or impel, it's also a term for a prod to drive oxen",
+     "a": "a goad",
+     "right": [
+      "Joe"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "The Sportage\n(Hint: SUV is 3 letters, too)",
+     "a": "Kia",
+     "right": [
+      "Joe"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 19,
+     "q": "A publisher talked this \"Sister Carrie\" author into taking a less expensive ship",
+     "a": "Dreiser",
+     "right": [
+      "Sally"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 21,
+     "q": "This state rock of Iowa has a name derived from Greek for \"earthlike\"",
+     "a": "geode",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 13,
+     "q": "Bradley said he \"fell in love with\" the curls he wore in an Oscar-nominated role as FBI agent Richie DiMaso in this fllm",
+     "a": "American Hustle",
+     "right": [
+      "Joe"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 25,
+     "q": "\"Mumu\" by Ivan Turgenev & \"Big Red\" by James Kjelgaard",
+     "a": "dogs",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 24,
+     "q": "Proverbial \"best friend\" of NHLers like Henrik Lundqvist",
+     "a": "a goalpost",
+     "right": [
+      "Joe"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 30,
+     "q": "The A4 runs 4 rings around the competition",
+     "a": "Audi",
+     "right": [
+      "Joe"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "ISTHMUS BE YOUR LUCKY DAY",
+    "FONTS",
+    "THE BILLBOARD ALL-TIME HOT 100",
+    "12-LETTER WORDS",
+    "WORLD PIECE",
+    "IN THE ____ OF BATTLE"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "The isthmus of this nation is the narrowest part of the Americas",
+     "a": "Panama",
+     "right": [
+      "Joe"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 5,
+     "q": "This showy font bears the name of a New York City street",
+     "a": "Broadway",
+     "right": [
+      "Joe"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "No. 1:\nC'mon baby, let's do this Chubby Checker dance sensation that topped the chart in both 1960 & 1962",
+     "a": "\"The Twist\"",
+     "right": [
+      "Sally"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 6,
+     "q": "The act of putting Naugahyde on the divan",
+     "a": "upholstering",
+     "right": [
+      "Joe"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 16,
+     "q": "2,200 miles in radius, this piece inside the Earth is about the size of Mars",
+     "a": "the core",
+     "right": [
+      "Liz"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 15,
+     "q": "Named for some big old structures nearby, the 1798 fight in which the French took Cairo:\nBattle of the ____",
+     "a": "Pyramids",
+     "right": [
+      "Joe"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 3,
+     "q": "This peninsula on the Black Sea is joined to the mainland by the Isthmus of Perekop",
+     "a": "the Crimean Peninsula",
+     "right": [
+      "Sally"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 8,
+     "q": "Copperplate Gothic harkens back to the era when printers cut into copper plates in this technique",
+     "a": "engraving",
+     "right": [
+      "Sally"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 7,
+     "q": "No. 74:\n\"Just The Way You Are\"--by him, not Billy Joel",
+     "a": "Bruno Mars",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 13,
+     "q": "It can refer to a not-so-close friend or personal knowledge of a subject",
+     "a": "acquaintance",
+     "right": [
+      "Joe"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 18,
+     "q": "This system stretches west to east from Nanga Parbat to Namcha Barwa",
+     "a": "the Himalayas",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 17,
+     "q": "1658 on a beach near Dunkirk, named for the sand formations on which it was fought:\nBattle of the ____",
+     "a": "Dunes",
+     "right": [
+      "Sally"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 4,
+     "q": "Cutting the isthmus between Africa & Asia, this canal shortened the distance between England & India by about 5,000 miles",
+     "a": "the Suez",
+     "right": [
+      "Liz"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 9,
+     "q": "Dashing off a quick \"note\"? Try this font whose name means \"deserving of attention\"",
+     "a": "Noteworthy",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 14,
+     "q": "No. 68:\nThe Stones didn't make the list, but this Maroon 5/Christina Aguilera pairing did",
+     "a": "\"Moves Like Jagger\"",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 21,
+     "q": "\"Rocky\" term for putting up obstacles to delay the release of damaging information",
+     "a": "stonewalling",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 19,
+     "q": "The name of this Earth layer that extends to about 60 miles in depth is from Greek for \"stone ball\"",
+     "a": "the lithosphere",
+     "right": [],
+     "wrong": [
+      "Sally"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 26,
+     "q": "Tennessee, 1863:\nBattle of Lookout ____",
+     "a": "Mountain",
+     "right": [
+      "Joe"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 12,
+     "q": "Just east of the Gulf of Finland, the Karelian Isthmus was the on/off HQ of this leading Commie between 1906 & '17",
+     "a": "Lenin",
+     "right": [
+      "Joe"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 10,
+     "q": "The name of this popular font is from the Latin for \"runner\"",
+     "a": "Courier",
+     "right": [
+      "Sally"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true,
+     "ddWager": 1500
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 27,
+     "q": "No. 100:\nHe just got in the door with 1997's \"You Make Me Wanna...\"",
+     "a": "Usher",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 22,
+     "q": "An aquarium becomes this when it's devoted to a certain specific creature",
+     "a": "a dolphinarium",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 24,
+     "q": "Earth's atmosphere is about 1% this alphabetically first noble gas",
+     "a": "argon",
+     "right": [
+      "Sally"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2000
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 29,
+     "q": "1813 fight in which Tecumseh was killed near a river in Ontario, not central London:\nBattle of the ____",
+     "a": "Thames",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 20,
+     "q": "Nearly 1/3 of New Zealand's people live in this isthmian city on North Island",
+     "a": "Auckland",
+     "right": [
+      "Sally"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 11,
+     "q": "Last name of John, an 18th century type designer, & of a family menaced by a fictional hound",
+     "a": "Baskerville",
+     "right": [
+      "Sally"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 30,
+     "q": "At No. 83, \"Play That\" 1970s Wild Cherry hit, which began as an actual command from the drummer",
+     "a": "\"Play That Funky Music\"",
+     "right": [
+      "Joe"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 23,
+     "q": "In 1609 Kepler lent new support to the theory that the planets revolve around the Sun, known by this adjective",
+     "a": "heliocentric",
+     "right": [
+      "Sally"
+     ],
+     "wrong": [
+      "Joe"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 25,
+     "q": "(Kelly of the Clue Crew shows two geological diagrams on the monitor.) Magma welling up from the Earth's interior creates new crust at the bottom of the ocean & drives the movement of the continents according to the hypothesis called this alliterative spreading",
+     "a": "seafloor spreading",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 28,
+     "q": "1939-45 struggle in which Allied destroyers & German U-boats disputed control of vital sea lanes:\nBattle of the ____",
+     "a": "Atlantic",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "EUROPEAN LITERATURE",
+  "q": "\"Episodes\" in this 1922 work include the Lotus Eaters & Ithaca",
+  "a": "Ulysses (by James Joyce)",
+  "right": [],
+  "wrong": [
+   "Liz",
+   "Sally",
+   "Joe"
+  ]
+ },
+ "gameId": "5319"
+}

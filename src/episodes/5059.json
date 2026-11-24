@@ -1,0 +1,982 @@
+{
+ "show": "#7142",
+ "aired": "2015-10-06",
+ "note": "Matt Jackson game 8.",
+ "contestants": [
+  {
+   "name": "Ernestine Gardner",
+   "bio": "an administrative assistant from South Bend, Indiana",
+   "short": "Ernestine"
+  },
+  {
+   "name": "John Kozempel",
+   "bio": "an I.T. consultant from Philadelphia, Pennsylvania",
+   "short": "John"
+  },
+  {
+   "name": "Matt Jackson",
+   "bio": "a paralegal from Washington, D.C. (whose 7-day cash winnings total $190,601)",
+   "short": "Matt"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Matt": 8000,
+   "John": 8000,
+   "Ernestine": 600
+  },
+  "DJ": {
+   "Matt": 36800,
+   "John": 4400,
+   "Ernestine": 3000
+  },
+  "Final": {
+   "Matt": 40009,
+   "John": 2789,
+   "Ernestine": 6000
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "THE I.T. GUY",
+    "PUBLISHED FIRST",
+    "STATE OF EMERGENCY",
+    "TV",
+    "A BILL IN CONGRESS",
+    "\"UN\" ENDING"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 11,
+     "q": "He may be there to increase this, the capacity of data transmitted point to point in a given amount of time",
+     "a": "bandwidth",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 10,
+     "q": "\"The Sign of the Four\",\n\"The Murders in the Rue Morgue\",\n\"The Mysterious Affair at Styles\"",
+     "a": "\"The Murders in the Rue Morgue\"",
+     "right": [
+      "John"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 23,
+     "q": "A coach for the NFL's Titans said \"good sized carp\" were in the team's parking lot after 2010 flooding in this state",
+     "a": "Tennessee",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 9,
+     "q": "For Season 30, this reality show divided the castaways into 3 tribes: White Collar, Blue Collar, & No Collar",
+     "a": "Survivor",
+     "right": [
+      "John"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 29,
+     "q": "These formal arguments for or against proposed bills take place on the floor of the House & the Senate",
+     "a": "debates",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 30,
+     "q": "A repeat episode",
+     "a": "a rerun",
+     "right": [
+      "John"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 12,
+     "q": "The I.T. guy knows his coffee & this Sun Microsystems computing language influenced by Objective-C",
+     "a": "Java",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 8,
+     "q": "\"Robinson Crusoe\",\n\"Paradise Lost\",\n\"Sense and Sensibility\"",
+     "a": "Paradise Lost",
+     "right": [
+      "Ernestine"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 24,
+     "q": "The escape of 2 prisoners from the Clinton Correctional Facility in this state led to a long 2015 manhunt",
+     "a": "New York",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "The hosts of the first GOP debate on Fox in August 2015 were Bret Baier, Chris Wallace & her",
+     "a": "Megyn Kelly",
+     "right": [
+      "John"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 28,
+     "q": "After a bill is introduced, it is given a number, printed & referred to one or more of these entities for review",
+     "a": "a committee",
+     "right": [
+      "John"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 18,
+     "q": "A Hemingway character says he \"brought Anita around for a little spot of good clean\" this",
+     "a": "fun",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 13,
+     "q": "He took the class at Princeton on C.A., short for this, the design of a computing system",
+     "a": "computer architecture",
+     "right": [
+      "John"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 5,
+     "q": "\"The Faerie Queene\",\n\"Don Quixote\",\nthe First Folio",
+     "a": "The Faerie Queene",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 20,
+     "q": "Hurricane Katrina devastated La. & also this state's coastal communities of Dauphin Island & Bayou La Batre",
+     "a": "Alabama",
+     "right": [
+      "John"
+     ],
+     "wrong": [
+      "Ernestine"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 1,
+     "q": "On a CBS drama Peter Florrick is the bad husband; Alicia Florrick is this title woman",
+     "a": "The Good Wife",
+     "right": [
+      "John"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 25,
+     "q": "A holiday symbol lends its name to this type of bill that attracts many amendments, like ornaments",
+     "a": "a Christmas tree bill",
+     "right": [
+      "John"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 16,
+     "q": "The way it feels on your fingers gives this baked treat its name",
+     "a": "a sticky bun",
+     "right": [],
+     "wrong": [
+      "John"
+     ],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 14,
+     "q": "This word means \"final\", but when the I.T. guy uses it, he means a device that communicates with a computer",
+     "a": "a terminal",
+     "right": [
+      "John"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 6,
+     "q": "\"Brave New World\",\n\"Nineteen Eighty-Four\",\n\"Erewhon\"",
+     "a": "Erewhon",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": true,
+     "order": 21,
+     "q": "On March 28, 1979 a nuclear plant in this state suffered a massive core meltdown",
+     "a": "Pennsylvania",
+     "right": [
+      "John"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2200
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 3,
+     "q": "At least your mother-in-law can't curse you the way Endora vexed & hexed Darrin Stephens on this '60s series",
+     "a": "Bewitched",
+     "right": [
+      "John"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 26,
+     "q": "Per its initials, the Revoking Excessive Policies that Encroach on American Liberties Act tried to do this to Obamacare",
+     "a": "repeal",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 17,
+     "q": "Shortened name used for the petty officer in charge of a ship's equipment",
+     "a": "a bosun",
+     "right": [
+      "Ernestine"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 15,
+     "q": "If your I.T. guy is from outside the company, you're this to him, also a program or system that requests server activity",
+     "a": "a client",
+     "right": [
+      "John"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 7,
+     "q": "\"Thus Spake Zarathustra\",\nHobbes' \"Leviathan\",\n\"The Social Contract\"",
+     "a": "Leviathan",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 22,
+     "q": "1850s conflict over slavery led to violence that was dubbed \"Bleeding\" this; it became a state in 1861",
+     "a": "Kansas",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 4,
+     "q": "An executive at Bravo, he also hosts \"Watch What Happens Live\"",
+     "a": "Andy Cohen",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 27,
+     "q": "In 2002 Congress approved a campaign-spending bill co-sponsored by John McCain & this Wisconsin senator",
+     "a": "(Russ) Feingold",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 19,
+     "q": "Originally referring to cloth or yarn made at one's residence, it now means \"rustic\" or \"unsophisticated\"",
+     "a": "homespun",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "THE \"I.T.\" GUY",
+    "BIBLICAL CITIES",
+    "WEATHER",
+    "I AM HISTORY!",
+    "SWORDS",
+    "THESE WORDS COULD GO ON A DIET"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 29,
+     "q": "This musician wrote in \"Takin' Back My Name\", \"I felt as comfortable with Tina as if I was with my mother\"",
+     "a": "Ike Turner",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 30,
+     "q": "Joseph & Mary traveled to this city of Joseph's birth to be taxed by the Romans",
+     "a": "Bethlehem",
+     "right": [
+      "John"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 17,
+     "q": "It forms on blades of grass in the morning because of condensation",
+     "a": "dew",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 12,
+     "q": "The 1830s Whigs wanted to offset Andrew Jackson with a \"coonskin\" politician & backed this b'ar-huntin' Tenn. congressman",
+     "a": "Davy Crockett",
+     "right": [
+      "Ernestine"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "A katana is a close combat sword that was traditionally used by these swordsmen",
+     "a": "samurai",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 19,
+     "q": "Besides referring to a larger clothing size, it can also be an Arctic dog",
+     "a": "husky",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 28,
+     "q": "In 2015 this former Piston was named president of the WNBA's Liberty",
+     "a": "Isiah Thomas",
+     "right": [
+      "John"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 27,
+     "q": "Joshua killed everyone in this city except for Rahab & her family because they hid Joshua's spies",
+     "a": "Jericho",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 16,
+     "q": "Cape Verde-type hurricanes develop as storms off this continent & then become hurricanes before reaching the Caribbean",
+     "a": "Africa",
+     "right": [
+      "Ernestine"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 13,
+     "q": "The only surviving son of a rector, this 17th century man went on to design more than 50 churches in London",
+     "a": "(Christopher) Wren",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 2,
+     "q": "Also a car from Oldsmobile, it was a short sword with a curved blade that was favored by sailors & pirates",
+     "a": "cutlass",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": true,
+     "order": 18,
+     "q": "Meaning plump, this adjective begins with a shipboard direction",
+     "a": "portly",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 4000
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 26,
+     "q": "This Aussie Olympian was nicknamed \"the Thorpedo\"",
+     "a": "Ian Thorpe",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 25,
+     "q": "The cities of Sodom & Gomorrah are believed to have been near this body of water",
+     "a": "the Dead Sea",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [
+      "John"
+     ],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 11,
+     "q": "You can build your own hygrometer using a human hair; the hair lengthens as this increases",
+     "a": "humidity",
+     "right": [
+      "Ernestine"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 9,
+     "q": "(Kelly of the Clue Crew shows a map on the monitor.) The Rhine, Danube & Volga Rivers provided the approximate empire borders of this ruthless warrior king in the 400s A.D.",
+     "a": "Attila the Hun",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 3,
+     "q": "With the same name as the raised part at the front of a saddle, it's the round knob at the end of a sword's hilt",
+     "a": "pommel",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 6,
+     "q": "The Latin for \"body\" gives us this 9-letter word that needs a diet",
+     "a": "corpulent",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 24,
+     "q": "Back when he was Tracy Marrow, this rapper & actor did a 4-year stint with the U.S. Army",
+     "a": "Ice-T",
+     "right": [
+      "Ernestine"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 23,
+     "q": "While a captive in this city, Daniel was given the name Belteshazzar",
+     "a": "Babylon",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 14,
+     "q": "In a bad storm, so many people resort to this more-than-breakfast restaurant, FEMA bases an index on its operations",
+     "a": "Waffle House",
+     "right": [],
+     "wrong": [
+      "John",
+      "Ernestine"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 10,
+     "q": "In the 1940s he needed 2 tries to become mayor of Minneapolis; 20 years later, he was vice president",
+     "a": "Hubert Humphrey",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 6000
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 4,
+     "q": "This sharp-pointed, 6-letter sword used for thrusting lost its cutting edge in the 18th century",
+     "a": "a rapier",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 7,
+     "q": "Take a boxing blow, insert an \"A\" & you get this word for a big belly",
+     "a": "paunch",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 22,
+     "q": "He left Russia when his 1862 novel \"Fathers and Sons\" outraged both radicals & conservatives",
+     "a": "Ivan Turgenev",
+     "right": [],
+     "wrong": [
+      "Matt"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 21,
+     "q": "The Gospel of Mark says that Jesus visited the Phoenician ports of Sidon & this",
+     "a": "Tyre",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 15,
+     "q": "Drizzle often falls from this lowest type of cloud, which looks like a smooth, even sheet",
+     "a": "stratus",
+     "right": [],
+     "wrong": [
+      "John"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 20,
+     "q": "Ukraine-born, she moved to the U.S. in 1906 & eventually became a world leader for Israel",
+     "a": "Golda Meir",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 5,
+     "q": "The national flag of Sri Lanka depicts one of these animals holding a sword",
+     "a": "a lion",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 8,
+     "q": "This word that means \"resembling swine\" rhymes with \"swine\"",
+     "a": "porcine",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "EUROPEAN AUTHORS",
+  "q": "\"To explain... Harry by the artless division into wolf and man is a hopelessly childish attempt\", he wrote in 1927",
+  "a": "Hermann Hesse",
+  "right": [
+   "Ernestine",
+   "Matt"
+  ],
+  "wrong": [
+   "John"
+  ]
+ },
+ "gameId": "5059"
+}

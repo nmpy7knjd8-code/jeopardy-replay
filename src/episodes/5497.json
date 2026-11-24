@@ -1,0 +1,978 @@
+{
+ "show": "#7440",
+ "aired": "2017-01-06",
+ "note": "",
+ "contestants": [
+  {
+   "name": "Christina Bussmann",
+   "bio": "a social worker from Columbus, Ohio",
+   "short": "Christina"
+  },
+  {
+   "name": "Dante Atkins",
+   "bio": "a Congressional press secretary from Washington, D.C.",
+   "short": "Dante"
+  },
+  {
+   "name": "Joe Bartolomeo",
+   "bio": "a professor and associate dean from Florence, Massachusetts (whose 1-day cash winnings total $14,000)",
+   "short": "Joe"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Joe": 5400,
+   "Dante": 5600,
+   "Christina": 1600
+  },
+  "DJ": {
+   "Joe": 15000,
+   "Dante": 17200,
+   "Christina": 3600
+  },
+  "Final": {
+   "Joe": 22500,
+   "Dante": 4399,
+   "Christina": 7200
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "CHILD REARING",
+    "STATE CAPITAL EVENTS",
+    "U.S. MILITARY MEN",
+    "BIBLE BOOK 'EM",
+    "2-LETTER WORDS",
+    "I MARRIED A MUSICIAN"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 7,
+     "q": "2-word term for the natural competitiveness between brothers & sisters; Mom likes me best!",
+     "a": "sibling rivalry",
+     "right": [
+      "Dante"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 2,
+     "q": "On Jan. 29, 2016 in Baton Rouge, the Mystic Krewe of Artemis was the first parade in this annual event",
+     "a": "Mardi Gras",
+     "right": [
+      "Christina"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 12,
+     "q": "A statue of this \"Green Mountain boy\" in the U.S. Capitol represents the state of Vermont",
+     "a": "Ethan Allen",
+     "right": [
+      "Dante"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "\"Therefore the Lord God sent him forth from the garden of Eden, to till the ground from whence he was taken\"",
+     "a": "Genesis",
+     "right": [
+      "Dante"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 20,
+     "q": "It introduces a conditional clause",
+     "a": "if",
+     "right": [
+      "Dante"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 26,
+     "q": "Kim Kardashian",
+     "a": "Kanye West",
+     "right": [
+      "Joe"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 8,
+     "q": "Also an '80s sitcom title, they are emotional or physical difficulties in development",
+     "a": "Growing Pains",
+     "right": [
+      "Christina"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 3,
+     "q": "In March 2016 you could catch an Easter concert by this group live in Salt Lake City or on closed-circuit simulcast",
+     "a": "the Mormon Tabernacle Choir",
+     "right": [
+      "Dante"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 13,
+     "q": "In 1997, Vernon Baker became one of only 7 African Americans & the only one living to receive this award for valor in World War II",
+     "a": "the Congressional Medal of Honor",
+     "right": [
+      "Joe"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 16,
+     "q": "\"And the seven angels which had the seven trumpets prepared themselves to sound\"",
+     "a": "Revelation",
+     "right": [
+      "Joe"
+     ],
+     "wrong": [
+      "Dante"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 21,
+     "q": "In math it's a synonym for \"times\"",
+     "a": "by",
+     "right": [
+      "Christina"
+     ],
+     "wrong": [
+      "Dante"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "Supermodel Iman",
+     "a": "David Bowie",
+     "right": [
+      "Joe"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 9,
+     "q": "It's a 5-letter word for a kid from about 9 to 12, no longer a child & not yet an adolescent",
+     "a": "a tween",
+     "right": [
+      "Christina"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 4,
+     "q": "The 1850s are back as tons of dirt cover the streets of Old this state capital in its annual Gold Rush Days",
+     "a": "Sacramento",
+     "right": [
+      "Dante"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 14,
+     "q": "This \"Mad\" Revolutionary War general later represented Ga. in Congress but returned to the Army in 1792",
+     "a": "Anthony Wayne",
+     "right": [
+      "Joe"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 17,
+     "q": "\"A wise son maketh a glad father: but a foolish son is the heaviness of his mother\"",
+     "a": "Proverbs",
+     "right": [
+      "Dante"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 22,
+     "q": "When I say, \"We'll be right back\", it's the next thing viewers see",
+     "a": "an ad",
+     "right": [
+      "Dante"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 28,
+     "q": "Singer Edie Brickell",
+     "a": "Paul Simon",
+     "right": [
+      "Joe"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 10,
+     "q": "Linus had one of these, a transitional object that helps a child move from dependence to independence",
+     "a": "a security blanket",
+     "right": [
+      "Joe"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 5,
+     "q": "Cactus League spring training is held throughout the area of this capital",
+     "a": "Phoenix",
+     "right": [
+      "Dante"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 15,
+     "q": "More than a million people attended his 1885 funeral in NYC & in 1897 a million attended the dedication of his tomb",
+     "a": "Ulysses S. Grant",
+     "right": [
+      "Dante"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 18,
+     "q": "\"My flesh is clothed with worms and clods of dust; my skin is broken, and become loathsome\"",
+     "a": "Job",
+     "right": [
+      "Dante"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 23,
+     "q": "The archaic plural form of thou",
+     "a": "ye",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "Supermodel Chrissy Teigen",
+     "a": "John Legend",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 11,
+     "q": "At 12 to 15 months it's recommended that your child have the MMR vaccine, which protects against these 3 things",
+     "a": "measles, mumps and rubella",
+     "right": [
+      "Dante"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 6,
+     "q": "Go to both the film & music parts of the SXSW festival in this capital & by all means, enjoy some BBQ",
+     "a": "Austin",
+     "right": [
+      "Dante"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 25,
+     "q": "Portrayed on film by Gary Cooper, this World War I sergeant had applied for conscientious objector status, but was denied",
+     "a": "Sergeant York",
+     "right": [
+      "Joe"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": true,
+     "order": 19,
+     "q": "\"So Moses the servant of the Lord died there in the land of Moab\"",
+     "a": "Deuteronomy",
+     "right": [],
+     "wrong": [
+      "Dante"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2000
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 24,
+     "q": "It's the game seen here",
+     "a": "Go",
+     "right": [
+      "Dante"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 30,
+     "q": "Bond girl Barbara Bach",
+     "a": "Ringo Starr",
+     "right": [
+      "Joe"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "WRITERS ON FILM",
+    "CHEMICAL ELEMENT SYMBOLS",
+    "JOB FAIR",
+    "BEGINS & ENDS WITH THE SAME VOWEL",
+    "MONTY VIDEO",
+    "URUGUAY"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "In \"Kill Your Darlings\", a murder draws together Allen Ginsberg & other figures of this movement",
+     "a": "the Beat movement",
+     "right": [
+      "Christina"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 26,
+     "q": "You get a \"prize\" if you know this element is No",
+     "a": "nobelium",
+     "right": [
+      "Joe"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 6,
+     "q": "With this job you get the sack before you start, & fill it with the Daily News or the Post",
+     "a": "a paperboy",
+     "right": [
+      "Joe"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 11,
+     "q": "Golden & triple double chocolate are varieties of this sandwich cookie",
+     "a": "an Oreo",
+     "right": [
+      "Christina"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 16,
+     "q": "Monty Woolley, a friend of this man, played himself when Cary Grant portrayed the songwriter in \"Night and Day\"",
+     "a": "Cole Porter",
+     "right": [
+      "Joe"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 21,
+     "q": "In 1811 Uruguay successfully rebelled against Spanish rule only to be annexed by this northern neighbor",
+     "a": "Brazil",
+     "right": [
+      "Dante"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 2,
+     "q": "\"Quills\" stars Geoffrey Rush as this irrepressible 18th century author during his days in an insane asylum",
+     "a": "the Marquis de Sade",
+     "right": [
+      "Christina"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 27,
+     "q": "You get an \"F\" if you don't know F is this element",
+     "a": "fluorine",
+     "right": [],
+     "wrong": [
+      "Christina"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 7,
+     "q": "Men named Larry Speakes & Josh Earnest have both held this White House job that sounds perfect for them",
+     "a": "press secretary",
+     "right": [
+      "Christina"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 12,
+     "q": "One who lives in Haifa or Tel Aviv",
+     "a": "an Israeli",
+     "right": [
+      "Joe"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 17,
+     "q": "In the '70s, this game show host was always ready to make a deal",
+     "a": "Monty Hall",
+     "right": [
+      "Joe"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": true,
+     "order": 22,
+     "q": "The first playing of this competition began July 13, 1930 in Montevideo; 13 countries vied, Uruguay won",
+     "a": "the World Cup",
+     "right": [
+      "Dante"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 5000
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 3,
+     "q": "Starring Johnny Depp, this film tells the story of J.M Barrie's friendship with the family that inspired \"Peter Pan\"",
+     "a": "Finding Neverland",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 28,
+     "q": "Canned chickpeas can say Na Na, Na Na, Na to canned peas as the latter have less of this element",
+     "a": "sodium",
+     "right": [
+      "Dante"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 8,
+     "q": "The Constitution was actually \"penned\" by Jacob Shallus, assistant this 5-letter job of the Penn. Assembly",
+     "a": "clerk",
+     "right": [
+      "Joe"
+     ],
+     "wrong": [
+      "Dante",
+      "Christina"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 13,
+     "q": "It's the area of study where kids make the acquaintance of polynomials",
+     "a": "algebra",
+     "right": [
+      "Dante"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 18,
+     "q": "General Monty Montgomery, as seen here at this 1942 Egyptian battle whose name he took for his title of nobility",
+     "a": "El Alamein",
+     "right": [
+      "Joe"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 23,
+     "q": "Cooler temps characterize Uruguay, the only S.A. country completely outside this warm midriff of the Earth",
+     "a": "the tropics",
+     "right": [],
+     "wrong": [
+      "Joe"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 4,
+     "q": "In \"Becoming Jane\" this actress starred as Jane Austen pre-fame & entangled in a desperate romance",
+     "a": "Anne Hathaway",
+     "right": [
+      "Christina"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 29,
+     "q": "It's the precious element whose symbol is found in the middle of the name of Haiti's capital",
+     "a": "gold",
+     "right": [
+      "Dante"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 3000
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 9,
+     "q": "Our almanac of famous people has only this 19th century Brit listed under the occupation \"dandy\"",
+     "a": "Beau Brummell",
+     "right": [],
+     "wrong": [
+      "Joe"
+     ],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 14,
+     "q": "For the Latin for \"fox mange\", it's the loss of hair",
+     "a": "alopecia",
+     "right": [
+      "Joe"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 19,
+     "q": "He's seen here in \"Suddenly Last Summer\", made after the 1956 car accident that changed his looks",
+     "a": "Monty Clift",
+     "right": [
+      "Joe"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 24,
+     "q": "This \"silver\" estuary off Uruguay saw WWII's first major naval battle; Germany's Graf Spee faced 3 British cruisers",
+     "a": "the Rio de la Plata",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 5,
+     "q": "(I'm Louis C.K.) In a 2015 film I played Arlen Hird, a composite character who is blacklisted along with this screenwriter played by Bryan Cranston",
+     "a": "(Dalton) Trumbo",
+     "right": [
+      "Christina"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 30,
+     "q": "Gimme 5, a Roman 5, which is the same as the symbol for this element",
+     "a": "vanadium",
+     "right": [],
+     "wrong": [
+      "Christina"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 10,
+     "q": "A typical homeowner's association has this position; Rosie Rios held it for the U.S. in 2016",
+     "a": "treasurer",
+     "right": [
+      "Joe"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 15,
+     "q": "To take in marriage, or to speak in favor of a cause",
+     "a": "espouse",
+     "right": [
+      "Joe"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 20,
+     "q": "This Parrot Sketch co-writer was the first member of the Monty Python troop to join the choir invisible",
+     "a": "Graham Chapman",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 25,
+     "q": "Uruguay has so many quarries of this that about 50 different types were used to build the Parliament building",
+     "a": "marble",
+     "right": [
+      "Dante"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "NAME THE 19th CENTURY WORK",
+  "q": "\"Modern bourgeois society... is like the sorcerer who is no longer able to control the powers... called up by his spells\"",
+  "a": "The Communist Manifesto",
+  "right": [
+   "Christina",
+   "Joe"
+  ],
+  "wrong": [
+   "Dante"
+  ]
+ },
+ "gameId": "5497"
+}

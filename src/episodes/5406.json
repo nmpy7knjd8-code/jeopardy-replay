@@ -1,0 +1,973 @@
+{
+ "show": "#7359",
+ "aired": "2016-09-15",
+ "note": "WE ASKED: Louis C.K.",
+ "contestants": [
+  {
+   "name": "Amy Ramsay",
+   "bio": "a program director from Medford, Massachusetts",
+   "short": "Amy"
+  },
+  {
+   "name": "Siddharth Hariharan",
+   "bio": "a student from Herndon, Virginia",
+   "short": "Siddharth"
+  },
+  {
+   "name": "Scott Bateman",
+   "bio": "a filmmaker and author from Beacon, New York (whose 1-day cash winnings total $28,001)",
+   "short": "Scott"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Scott": 5000,
+   "Siddharth": 5800,
+   "Amy": 3600
+  },
+  "DJ": {
+   "Scott": 19000,
+   "Siddharth": 14200,
+   "Amy": 10800
+  },
+  "Final": {
+   "Scott": 9599,
+   "Siddharth": 21601,
+   "Amy": 50
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "ENTERTAINING REDHEADS",
+    "SCANDINAVIA",
+    "LUCK OF THE DRAW",
+    "IN EXPLICABLE",
+    "I'M HERE TO SEE HERBERT HOOVER",
+    "STATE YOUR BUSINESS"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 27,
+     "q": "(Hi, I'm Louis C.K.) I got my big break in 1993 when I became a writer on \"Late Night\" with this other redhead; I was also the first to do stand-up on his show",
+     "a": "Conan O'Brien",
+     "right": [
+      "Scott"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "In winter, some places receive no sunlight for up to 2 months in this northernmost Scandinavian nation",
+     "a": "Norway",
+     "right": [
+      "Scott"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 11,
+     "q": "(Sarah of the Clue Crew shows a walk cycle on the monitor.) From the Latin for \"instill with life\", it's the creation of a motion picture from a series of still images",
+     "a": "animation",
+     "right": [
+      "Scott"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 18,
+     "q": "A proverb says \"look before you\" do this",
+     "a": "leap",
+     "right": [
+      "Siddharth"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 28,
+     "q": "The half-inch of rain in D.C. on the day of Hoover's inaugural in this year did not bode well",
+     "a": "1929",
+     "right": [
+      "Scott"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 6,
+     "q": "Disney &\nMattel",
+     "a": "California",
+     "right": [
+      "Amy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 26,
+     "q": "In a Disney film, Jodi Benson voiced this title character, daughter of King Triton",
+     "a": "the Little Mermaid (Ariel)",
+     "right": [
+      "Amy"
+     ],
+     "wrong": [
+      "Scott"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "In Denmark you are a pepper man or a pepper maid if you are not this by age 30",
+     "a": "married",
+     "right": [
+      "Amy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 12,
+     "q": "A prehistoric drawing on stone can be called a petroglyph or this, like art sometimes seen as an urban nuisance",
+     "a": "graffiti",
+     "right": [
+      "Amy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 21,
+     "q": "A man wears a boutonniere on this part of his jacket",
+     "a": "the lapel",
+     "right": [
+      "Siddharth"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 29,
+     "q": "See Herbert with this athlete who had popularity any politician would crave",
+     "a": "Babe Ruth",
+     "right": [
+      "Siddharth"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 7,
+     "q": "Caterpillar &\nSears Holdings",
+     "a": "Illinois",
+     "right": [
+      "Scott"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 15,
+     "q": "Redheads from books include Anne of Green Gables & this boy, the sixth in his family to go to Hogwarts",
+     "a": "Ron Weasley",
+     "right": [
+      "Amy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 3,
+     "q": "The 1986 assassination of Prime Minister Olof Palme on a street in this city has never been solved",
+     "a": "Stockholm",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 13,
+     "q": "(Kelly of the Clue Crew demonstrates by drawing a bird.) To draw in this liberated style means without support or the guidance of instruments",
+     "a": "freehand",
+     "right": [
+      "Siddharth"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 22,
+     "q": "A color or the fragrant flower seen here",
+     "a": "lilac",
+     "right": [
+      "Amy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 20,
+     "q": "Herbert is seen here with this non-relative",
+     "a": "J. Edgar Hoover",
+     "right": [
+      "Scott"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 8,
+     "q": "Hershey",
+     "a": "Pennsylvania",
+     "right": [
+      "Siddharth"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 16,
+     "q": "Redheaded Jessicas include the animated Jessica Rabbit & this co-star of \"The Help\" & \"Zero Dark Thirty\"",
+     "a": "Jessica Chastain",
+     "right": [
+      "Siddharth"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 4,
+     "q": "Some authorities include this \"land of a thousand lakes\" nation in Scandinavia, but others do not",
+     "a": "Finland",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 14,
+     "q": "From the name of an 18th century man, it's a profile portrait drawn in black",
+     "a": "a silhouette",
+     "right": [],
+     "wrong": [
+      "Amy"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 23,
+     "q": "Another word for vertex or summit",
+     "a": "apex",
+     "right": [
+      "Siddharth"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 19,
+     "q": "Here's Herbert with the football team of this then-new California university; he was manager for its first intercollegiate game",
+     "a": "Stanford",
+     "right": [
+      "Amy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": true,
+     "order": 10,
+     "q": "Berkshire Hathaway",
+     "a": "Nebraska",
+     "right": [
+      "Scott"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1600
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 25,
+     "q": "This redhead won a Grammy for her comedy album \"Calm Down Gurrl\"",
+     "a": "Kathy Griffin",
+     "right": [
+      "Siddharth"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 5,
+     "q": "Ragnar Lothbrok, a warrior of these Scandinavians, is the main character of the History Channel series named for them",
+     "a": "Vikings",
+     "right": [
+      "Siddharth"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 24,
+     "q": "To draw with the aid of rulers, scales & compasses is this precise kind of technical drawing",
+     "a": "drafting",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 17,
+     "q": "This wild goat sports quite a pair of horns",
+     "a": "the ibex",
+     "right": [
+      "Scott"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 30,
+     "q": "Mr. Hoover is with his dog; not a German shepherd, but a shepherd from this country Hoover helped feed during World War I",
+     "a": "Belgium",
+     "right": [
+      "Amy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 9,
+     "q": "Land O'Lakes",
+     "a": "Minnesota",
+     "right": [
+      "Scott"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "WOMEN AUTHORS",
+    "A SONG IN THAT MOVIE",
+    "TAKE ME TO COURT",
+    "ASTRONOMY",
+    "HISTORIC PLACES",
+    "CATCH SOME DOUBLE \"Z\"s"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 14,
+     "q": "\"Little House in the Big Woods\" was her first novel about her family's life in the late 1800s",
+     "a": "Laura Ingalls Wilder",
+     "right": [
+      "Amy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 15,
+     "q": "\"Over The Rainbow\"\n(1939)",
+     "a": "The Wizard of Oz",
+     "right": [
+      "Amy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 20,
+     "q": "In California this type of court has no jury & is where you go to sue someone for less than $10,000",
+     "a": "small claims court",
+     "right": [
+      "Scott"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 6,
+     "q": "On May 31, 2013 a 1.9-mile-wide one of these skimmed by the Earth at a distance of 3.6 million miles",
+     "a": "an asteroid",
+     "right": [
+      "Siddharth"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "Before Yalta, FDR, Churchill & Stalin met in this Mideast capital where they were hosted by the Shah",
+     "a": "Tehran",
+     "right": [
+      "Scott"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 30,
+     "q": "To burrow lovingly into your neck with the snout, like a puppy does",
+     "a": "nuzzle",
+     "right": [
+      "Amy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 13,
+     "q": "To play this author in \"The Hours\", Nicole Kidman donned a fake nose",
+     "a": "Virginia Woolf",
+     "right": [
+      "Scott"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 16,
+     "q": "\"Lose Yourself\"\n(2002)",
+     "a": "8 Mile",
+     "right": [
+      "Siddharth"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 21,
+     "q": "From the Latin for \"prove\", this type of court is where the validity of a will is proven",
+     "a": "probate",
+     "right": [
+      "Scott"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 7,
+     "q": "The Sombrero Galaxy is classified by astronomers as this type of galaxy having a pinwheel shape",
+     "a": "a spiral galaxy",
+     "right": [
+      "Siddharth"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 2,
+     "q": "This 1815 battle was actually fought 3 miles south of the village, itself 9 miles south of Brussels",
+     "a": "the Battle of Waterloo",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "People are this \"with excitement\", a word that starts with the first 2 letters of the alphabet",
+     "a": "abuzz",
+     "right": [
+      "Scott"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 12,
+     "q": "She's had the \"metal\" to sell 650 million copies of her books, like 2016's \"Property of a Noblewoman\"",
+     "a": "(Danielle) Steel",
+     "right": [
+      "Scott"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 17,
+     "q": "\"When You Wish Upon A Star\"\n(1940)",
+     "a": "Pinocchio",
+     "right": [
+      "Amy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 22,
+     "q": "Actually, don't take me to this animal-named improper or even farcical court",
+     "a": "a kangaroo court",
+     "right": [
+      "Scott"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 26,
+     "q": "A 1990 photo of Earth taken by this space probe prompted Carl Sagan to call planet Earth a \"pale blue dot\"",
+     "a": "Voyager 1",
+     "right": [],
+     "wrong": [
+      "Siddharth"
+     ],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 3,
+     "q": "This temple was intact until the 5th century when Phidias' giant statue of Athena was removed",
+     "a": "the Parthenon",
+     "right": [
+      "Amy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 28,
+     "q": "Calm down, don't work yourself into this excited state",
+     "a": "a tizzy",
+     "right": [
+      "Scott"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 10,
+     "q": "Known for her sharp wit, in the 1920s, she wrote articles for Vanity Fair & The New Yorker",
+     "a": "Dorothy Parker",
+     "right": [
+      "Siddharth"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true,
+     "ddWager": 3000
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 18,
+     "q": "Heard here is a song from this 1979 film",
+     "a": "Hair",
+     "right": [
+      "Scott"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 23,
+     "q": "This state's Supreme Court has been fighting governor Sam Brownback over school funding levels",
+     "a": "Kansas",
+     "right": [
+      "Amy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 8,
+     "q": "These extremely hot eruptions in the Sun's atmosphere can cause communications problems on Earth",
+     "a": "solar flares",
+     "right": [
+      "Siddharth"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 4,
+     "q": "Tradition says a door of the Schlosskirche, aka Castle Church, is the site where these were posted in 1517",
+     "a": "Martin Luther's (95) theses",
+     "right": [
+      "Scott"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 9,
+     "q": "You can get years in prison for this crime of a major theft of property",
+     "a": "embezzlement",
+     "right": [
+      "Siddharth"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 3000
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 11,
+     "q": "Enid Bagnold wrote this 1935 tale of a young woman who wins a prestigious race on a horse she won in a raffle",
+     "a": "National Velvet",
+     "right": [
+      "Amy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 19,
+     "q": "\"Puttin' On The Ritz\"\n(1974)",
+     "a": "Young Frankenstein",
+     "right": [
+      "Scott"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 24,
+     "q": "FICA is a line on your pay stub; this law set up a special court to approve national security warrants",
+     "a": "FISA",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 25,
+     "q": "The 2 brightest stars in Orion are Betelgeuse in the shoulder & this 5-letter one in his foot",
+     "a": "Rigel",
+     "right": [],
+     "wrong": [
+      "Amy"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 5,
+     "q": "On Aug. 31,1901 Leon Czolgosz arrived in this city, where he would shoot Pres. McKinley",
+     "a": "Buffalo",
+     "right": [
+      "Scott"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 27,
+     "q": "In music it precedes \"forte\" in a term literally meaning \"half loud\"",
+     "a": "mezzo",
+     "right": [
+      "Amy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "DANTE'S INFERNO",
+  "q": "During the journey, Dante encounters Homer, Socrates & Cicero, who bide their time in the first circle, aka this",
+  "a": "limbo",
+  "right": [
+   "Siddharth"
+  ],
+  "wrong": [
+   "Amy",
+   "Scott"
+  ]
+ },
+ "gameId": "5406"
+}
