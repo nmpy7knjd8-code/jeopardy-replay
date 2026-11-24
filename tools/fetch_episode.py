@@ -43,7 +43,8 @@ assert all(c['short'] for c in cons), (cons, nick)
 out = {'show': show, 'aired': d, 'note': comments.replace('\n', ' '), 'contestants': cons, 'scores': scores, 'rounds': {}}
 nimg = 0
 for rid, key, mult in (('jeopardy_round', 'J', 200), ('double_jeopardy_round', 'DJ', 400)):
-    r = s.find(id=rid); cats = [txt(c.find(class_='category_name')) for c in r.select('td.category')]
+    r = s.find(id=rid); cat_tds=r.select('td.category')
+    cats = [txt(c.find(class_='category_name')) for c in cat_tds]
     clues = []
     for td in r.select('td.clue'):
         t = td.find('td', class_='clue_text')
@@ -62,8 +63,14 @@ fj = s.find(class_='final_round'); t = fj.find('td', id='clue_FJ'); resp = fj.fi
 out['final'] = {'cat': txt(fj.find(class_='category_name')), 'q': txt(t), 'a': txt(resp.find('em')),
   'right': [txt(x) for x in resp.find_all('td', class_='right')], 'wrong': [txt(x) for x in resp.find_all('td', class_='wrong')]}
 out['gameId'] = gid
+# Host category comments, then generated notes for any blank ones
+try:
+    from make_cat_notes import fill_episode
+    fill_episode(out, html=html)
+except Exception as err:
+    print('cat_notes skipped:', err)
 (root/'src/episodes').mkdir(exist_ok=True)
-(root/f'src/episodes/{gid}.json').write_text(json.dumps(out, ensure_ascii=False, indent=1))
+(root/f'src/episodes/{gid}.json').write_text(json.dumps(out, ensure_ascii=False, indent=1)+'\n')
 n = [len(out['rounds'][k]['clues']) for k in 'J DJ'.split()]
 print(gid, show, d, comments.replace('\n',' ')[:80]); print([c['name'] for c in cons], 'clues', n, 'img', nimg, 'dd', [sum(c['dd'] for c in out['rounds'][k]['clues']) for k in ('J','DJ')])
 print(scores)

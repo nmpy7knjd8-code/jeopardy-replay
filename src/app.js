@@ -252,7 +252,7 @@ if(window.visualViewport){visualViewport.addEventListener('resize',syncVV);visua
 
 /* ---------- intro ---------- */
 function intro(){
-  clearTimers();setPaused(false);setState('intro');setLights(null);hud.classList.add('hide');
+  closeCatNote();clearTimers();setPaused(false);setState('intro');setLights(null);hud.classList.add('hide');
   const played=readPlayed();
   const fmt=e=>new Date(e.aired+'T12:00:00').toLocaleDateString('en-US',{month:'short',day:'numeric'});
   const seasons=[...new Set(CATALOG.map(e=>e.season))].sort((a,b)=>b-a);
@@ -321,7 +321,7 @@ function startRound(r){
 }
 function renderBoard(flashKey){
   const rd=SHOW.rounds[G.round];
-  let h='<div class="board">'+rd.cats.map(c=>`<div class="cat"><span>${esc(c)}</span></div>`).join('');
+  let h='<div class="board">'+rd.cats.map((c,i)=>`<div class="cat" data-c="${i}" role="button" tabindex="0" aria-label="About the category ${esc(c)}"><span>${esc(c)}</span></div>`).join('');
   for(let r=0;r<5;r++)for(let c=0;c<6;c++){
     const k=c+','+r,used=G.used.has(k),mult=G.round==='J'?200:400;
     h+=`<div class="cell${used?' used':''}${flashKey===k?' flash':''}" data-k="${k}" data-r="${r}"><span>${used?'':`<i class="dl">$</i>${(r+1)*mult}`}</span></div>`;
@@ -337,6 +337,39 @@ function renderBoard(flashKey){
   fitAll();
 }
 function clueAt(c,r){return SHOW.rounds[G.round].clues.find(x=>x.c===c&&x.r===r)}
+
+function catNoteText(round,i){
+  const n=SHOW.cat_notes;
+  if(!n)return '';
+  if(round==='F')return n.F||'';
+  const row=n[round];
+  return (row&&row[i])||'';
+}
+function closeCatNote(){
+  const pop=$('#catpop');
+  if(!pop)return;
+  pop.remove();
+  const resume=!!G.catPause;
+  G.catPause=false;
+  if(resume)setPaused(false);
+}
+function openCatNote(i){
+  if(G.round!=='J'&&G.round!=='DJ')return;
+  if(!(G.state==='board'||G.state==='picking'))return;
+  const title=(SHOW.rounds[G.round].cats||[])[i];
+  if(title==null)return;
+  if($('#catpop'))closeCatNote();
+  const note=catNoteText(G.round,i)||'This category follows the idea in its title.';
+  if(!G.paused){G.catPause=true;setPaused(true,{overlay:false})}
+  else G.catPause=false;
+  const pop=document.createElement('div');
+  pop.id='catpop';pop.className='catpop';pop.setAttribute('role','dialog');
+  pop.setAttribute('aria-modal','true');pop.setAttribute('aria-label','Category explanation');
+  pop.innerHTML=`<div class="catpopcard"><div class="catpoptitle">${esc(title)}</div><div class="catpopbody">${esc(note)}</div><button type="button" class="btn" id="catpopx">Close</button></div>`;
+  pop.addEventListener('click',e=>{if(e.target===pop)closeCatNote()});
+  appEl.appendChild(pop);
+  const x=$('#catpopx');if(x)x.onclick=closeCatNote;
+}
 
 /* semi-random, human-ish selection: favours high values, tends to stay in the category, sometimes jumps */
 function choose(){
@@ -680,6 +713,10 @@ function endScreen(){
 document.addEventListener('keydown',e=>{
   const st=G.state,age=performance.now()-G.stateAt;
   const inField=e.target&&e.target.tagName==='INPUT';
+  if($('#catpop')){
+    if(e.key==='Escape'||e.key==='Enter'||e.key==='p'||e.key==='P'||e.code==='Space'||e.key===' '){e.preventDefault();closeCatNote()}
+    return;
+  }
   const isP=e.key==='p'||e.key==='P';
   const isSpace=e.code==='Space'||e.key===' ';
   const spaceBusy=(st==='reading'||st==='open'||st==='intro'||st==='result'||st==='roundend'||(st==='finalwager'&&!$('#wg')));
@@ -696,6 +733,19 @@ document.addEventListener('keydown',e=>{
   }
 });
 stage.addEventListener('pointerdown',e=>{ if(G.paused)return; if(AC&&AC.state==='suspended')AC.resume() });
+stage.addEventListener('click',e=>{
+  const cat=e.target.closest('#set .board .cat');
+  if(!cat)return;
+  e.preventDefault();
+  const i=+cat.dataset.c;
+  if(Number.isInteger(i))openCatNote(i);
+});
+stage.addEventListener('keydown',e=>{
+  const cat=e.target.closest&&e.target.closest('#set .board .cat');
+  if(!cat)return;
+  if(e.key==='Enter'||e.key===' '){e.preventDefault();openCatNote(+cat.dataset.c)}
+});
+
 
 /* ---------- debug autoplay (?auto=1[&fast=1]) : plays the whole show by itself ---------- */
 if(AUTO){
@@ -717,6 +767,6 @@ if(AUTO){
     else if(st==='roundend'&&age>600)$('#cont').click();
   },200);
 }
-window.__G=G;window.__startRound=startRound;window.__loadShow=loadShow;window.__savePlayed=savePlayed;window.__readPlayed=readPlayed;window.__setPaused=setPaused;window.__togglePause=togglePause;window.__clearTimers=clearTimers;
+window.__G=G;window.__startRound=startRound;window.__loadShow=loadShow;window.__savePlayed=savePlayed;window.__readPlayed=readPlayed;window.__setPaused=setPaused;window.__togglePause=togglePause;window.__clearTimers=clearTimers;window.__openCatNote=openCatNote;window.__closeCatNote=closeCatNote;
 intro();
 })();
