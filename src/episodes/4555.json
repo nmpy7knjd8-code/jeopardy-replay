@@ -1,0 +1,964 @@
+{
+ "show": "#6876",
+ "aired": "2014-07-07",
+ "note": "",
+ "contestants": [
+  {
+   "name": "Justin Nigro",
+   "bio": "a coalition director originally from Ashtabula, Ohio",
+   "short": "Justin"
+  },
+  {
+   "name": "Robyn Stone",
+   "bio": "an actuarial recruiter from Scarsdale, New York",
+   "short": "Robyn"
+  },
+  {
+   "name": "Kay Thanaporn",
+   "bio": "a health care consultant from Decatur, Georgia (whose 1-day cash winnings total $33,199)",
+   "short": "Kay"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Kay": 5400,
+   "Robyn": 2800,
+   "Justin": 4800
+  },
+  "DJ": {
+   "Kay": 10600,
+   "Robyn": 11200,
+   "Justin": 14000
+  },
+  "Final": {
+   "Kay": 600,
+   "Robyn": 3900,
+   "Justin": 5599
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "POP GOES THE WORLD",
+    "WHATCHU TALKIN' 'BOUT, WALLACE?",
+    "NAME THE AUTOMAKER",
+    "TATER TOTS",
+    "SOMETHING'S WRONG WITH THIS GUY",
+    "WHO KNOWS \"C‑P‑R\"?"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 21,
+     "q": "\"Waterloo\" was this Stockholm group's first U.S. pop hit",
+     "a": "ABBA",
+     "right": [
+      "Justin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 26,
+     "q": "Originally a Democrat, this Southerner ran for president in 1964, '68, '72 & '76",
+     "a": "George Wallace",
+     "right": [
+      "Kay"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 16,
+     "q": "The Corolla",
+     "a": "Toyota",
+     "right": [
+      "Kay"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 11,
+     "q": "Russ, the little russet potato, was tres bon as pommes frites, which we call these",
+     "a": "french fries",
+     "right": [
+      "Justin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "There's an automated external defibrillator on the wall; use it to get this organ back in rhythm",
+     "a": "the heart",
+     "right": [
+      "Justin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 6,
+     "q": "By trade, Joseph, the husband of Mary, was one of these",
+     "a": "a carpenter",
+     "right": [
+      "Kay"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 22,
+     "q": "This Ottawa-born singer/songwriter has had hits with \"Ironic\" & \"Thank U\"",
+     "a": "Alanis Morrisette",
+     "right": [
+      "Kay"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "For more than 40 years, he brought his unique brand of journalism to CBS",
+     "a": "Mike Wallace",
+     "right": [
+      "Justin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 17,
+     "q": "The Charger &\nDurango",
+     "a": "Dodge",
+     "right": [
+      "Justin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 12,
+     "q": "Little Timmy Tater was sent to England to become crisps, which we call these",
+     "a": "potato chips",
+     "right": [
+      "Robyn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "Mouth to mouth may help, but he is having an \"attack\" of this 6-letter condition, meaning his airways have narrowed",
+     "a": "asthma",
+     "right": [
+      "Robyn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 7,
+     "q": "We use this word, Spanish for \"godfather\", for a close friend or associate",
+     "a": "compadre",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 23,
+     "q": "This 21st century band with a historical name hails from Scotland\n\n\"If I wane, this can die /\nIf I wane, this can die /\nI want you to take me out...\"",
+     "a": "Franz Ferdinand",
+     "right": [
+      "Kay"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 28,
+     "q": "In 1297 this Scottish patriot led the defeat of the English in the Battle of Stirling Bridge",
+     "a": "William Wallace",
+     "right": [
+      "Kay"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 18,
+     "q": "The Civic &\nPilot",
+     "a": "Honda",
+     "right": [
+      "Kay"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 13,
+     "q": "Ma & pa were proud of their spudlings when they were made into these Hanukkah potato pancakes",
+     "a": "latkes",
+     "right": [
+      "Robyn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 3,
+     "q": "He was eating something he shouldn't have & has gone into the anaphylactic type of this reaction",
+     "a": "shock",
+     "right": [
+      "Justin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 8,
+     "q": "One who takes short dozes in the afternoon, or takes felines from their owners",
+     "a": "a catnapper",
+     "right": [
+      "Robyn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 24,
+     "q": "\"Nothing Compares 2\" this Dublin-born songstress who topped the pop charts in 1990",
+     "a": "Sinead O'Connor",
+     "right": [
+      "Kay"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "This 3-named author penned a 1989 collection of short stories titled \"Girl with Curious Hair\"",
+     "a": "David Foster Wallace",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 19,
+     "q": "The Boxster &\nthe 911 Carrera",
+     "a": "Porsche",
+     "right": [
+      "Kay"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 14,
+     "q": "The young taters want to be part of this \"national\" dish that includes bacon & vinegar & may be served warm or cold",
+     "a": "German potato salad",
+     "right": [
+      "Robyn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 4,
+     "q": "So he can breathe, we're making a small hole in his windpipe, this process",
+     "a": "a tracheotomy",
+     "right": [
+      "Justin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": true,
+     "order": 9,
+     "q": "It's the study of secret writing, including codes & ciphers",
+     "a": "cryptography",
+     "right": [],
+     "wrong": [
+      "Robyn"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1000
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 25,
+     "q": "Born in Niteroi, Brazil, this bandleader scored pop hits with \"The Look Of Love\" & \"Never Gonna Let You Go\"",
+     "a": "Sérgio Mendes",
+     "right": [
+      "Kay"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 30,
+     "q": "Second of FDR's 3 vice presidents, he also served as Secretary of Agriculture, like his father before him",
+     "a": "Henry Wallace",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 20,
+     "q": "The Firebird &\nGrand Am",
+     "a": "Pontiac",
+     "right": [
+      "Justin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 15,
+     "q": "Tiny tubers want to grow up, join the deli & become this Jewish foodstuff, a mashed potato dumpling covered with a dough shell",
+     "a": "knish (kreplach accepted)",
+     "right": [
+      "Robyn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 5,
+     "q": "Actually, don't worry about CPR; a note on him says DNR, \"do not\" do this",
+     "a": "resuscitate",
+     "right": [
+      "Justin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 10,
+     "q": "Found in the Southwest, it's a dense growth of shrubs or small trees",
+     "a": "a chaparral",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "CHINESE HISTORY",
+    "RHYME TIME",
+    "THAT TICKLES!",
+    "THE AUTHOR WRITES",
+    "THE MOVIES",
+    "BURGS"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 26,
+     "q": "Begun in 486 B.C., China's \"Grand\" this is the world's longest manmade waterway",
+     "a": "Canal",
+     "right": [
+      "Justin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "A wealthy sorceress",
+     "a": "a rich witch",
+     "right": [
+      "Robyn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 18,
+     "q": "Tyco teamed with \"Sesame Street\" to create this 1996 fad",
+     "a": "Tickle Me Elmo",
+     "right": [
+      "Justin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 13,
+     "q": "\"'I am not made for perilous quests! I wish I had never seen the ring! Why did it come to me? Why was I chosen?\"'",
+     "a": "Tolkien",
+     "right": [
+      "Justin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 11,
+     "q": "In 1933's \"Flying Down to Rio\", Fred Astaire teamed with this lady for the first of 10 films",
+     "a": "Ginger Rogers",
+     "right": [
+      "Kay"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 6,
+     "q": "This city was founded in 1703 by a czar who hoped to make it a \"Window on the West\", bringing in Western culture",
+     "a": "St. Petersburg",
+     "right": [
+      "Kay"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": true,
+     "order": 27,
+     "q": "A folk tale tells of Meng Jiangnu, who searches for her husband along this public works project",
+     "a": "the Great Wall of China",
+     "right": [
+      "Justin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 400
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 2,
+     "q": "A yearly instruction book",
+     "a": "a annual manual",
+     "right": [
+      "Justin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 19,
+     "q": "This phrase for playing the piano refers to the substance of which the keys were once made",
+     "a": "tickling the ivories",
+     "right": [
+      "Robyn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 14,
+     "q": "\"Rikki-Tikki felt his eyes growing red and hot (when a mongoose's eyes grow red, he is angry)\"",
+     "a": "(Rudyard) Kipling",
+     "right": [
+      "Kay"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 12,
+     "q": "In this 1991 film, Robin Williams was Peter Banning, who did grow up, became a lawyer & married Wendy's granddaughter",
+     "a": "Hook",
+     "right": [
+      "Justin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 7,
+     "q": "From Philadelphia, get the spirit of I-76 & take it west for 2 hours to this state capital",
+     "a": "Harrisburg",
+     "right": [
+      "Justin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 28,
+     "q": "In 1901 China agreed to pay 11 nations about $330 million in damages that arose from this rebellion",
+     "a": "the Boxer Rebellion",
+     "right": [
+      "Justin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 3,
+     "q": "An ersatz cobra",
+     "a": "a fake snake",
+     "right": [
+      "Robyn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 20,
+     "q": "Tickle is the nickname of the chemical compound TiCl4, this tetrachloride",
+     "a": "titanium",
+     "right": [
+      "Kay"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 15,
+     "q": "\"'I scent the Hurons,' he said, speaking to the Mohicans; 'Yonder is open sky, through the tree-tops'\"",
+     "a": "(James Fenimore) Cooper",
+     "right": [
+      "Robyn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 23,
+     "q": "This 2009 horror film that cost $15,000 to make grossed over $100 million & has spawned 4 sequels",
+     "a": "Paranormal Activity",
+     "right": [],
+     "wrong": [
+      "Kay"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 8,
+     "q": "Jamestown, Yorktown & this Colonial city form America's \"Historic Triangle\"",
+     "a": "Williamsburg",
+     "right": [
+      "Robyn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 29,
+     "q": "(Sarah of the Clue Crew shows a portrait and a map on the monitor.) Huangdi won a great battle that consolidated his power among the tribes of the Huang He River, so it's fitting that he is referred to in English as the this emperor",
+     "a": "the Yellow Emperor",
+     "right": [
+      "Kay"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 4,
+     "q": "A seemingly evil reverend",
+     "a": "a sinister minister",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 21,
+     "q": "Steven Ray Tickle is one of the stars of this Discovery Channel series about illegal \"home brewers\"",
+     "a": "Moonshiners",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 16,
+     "q": "'\"I changed my name to Julius No--the Julius after my father and the No for my rejection of him and of all authority\"'",
+     "a": "Ian Fleming",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 24,
+     "q": "He won the Best Director Oscar for 2013's \"Gravity\"",
+     "a": "(Alfonso) Cuarón",
+     "right": [
+      "Robyn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 9,
+     "q": "This burg on the Elbe River was founded as a missionary center at the behest of Charlemagne in around 811",
+     "a": "Hamburg",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 30,
+     "q": "\"Know the enemy & know yourself\" is a lesson from this treatise, tactics from which were later used by Mao",
+     "a": "The Art of War",
+     "right": [
+      "Kay"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 5,
+     "q": "A suspension of hostilities made at a channel that carries currents from a gate",
+     "a": "a sluice truce (a truce sluice accepted)",
+     "right": [
+      "Justin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 22,
+     "q": "Swale Tickle is among the many small straits called tickles on this \"lately discovered\" Canadian island",
+     "a": "Newfoundland",
+     "right": [
+      "Justin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": true,
+     "order": 17,
+     "q": "\"Stephen Dedalus is my name, Ireland is my nation. Clongowes is my dwellingplace and heaven my expectation\"",
+     "a": "James Joyce",
+     "right": [],
+     "wrong": [
+      "Robyn"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2000
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 25,
+     "q": "In this 1966 Billy Wilder film, Walter Matthau persuades Jack Lemmon to exaggerate his injuries for the insurance money",
+     "a": "The Fortune Cookie",
+     "right": [
+      "Robyn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 10,
+     "q": "In October 2006 the major airport serving this city was renamed O.R. Tambo International Airport",
+     "a": "Johannesburg",
+     "right": [
+      "Robyn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "GOVERNMENT",
+  "q": "\"Features\" at the website of this agency include \"Protection\", \"Investigations\" & \"Know Your Money\"",
+  "a": "the Secret Service",
+  "right": [],
+  "wrong": [
+   "Kay",
+   "Robyn",
+   "Justin"
+  ]
+ },
+ "gameId": "4555"
+}

@@ -1,0 +1,978 @@
+{
+ "show": "#6781",
+ "aired": "2014-02-24",
+ "note": "Arthur Chu game 5.",
+ "contestants": [
+  {
+   "name": "Josh McIlvain",
+   "bio": "a home health aide from Syracuse, New York",
+   "short": "Josh"
+  },
+  {
+   "name": "Sofi Albizuri",
+   "bio": "a writer and mom from Miami, Florida",
+   "short": "Sofi"
+  },
+  {
+   "name": "Arthur Chu",
+   "bio": "a compliance analyst and voiceover artist from Broadview Heights, Ohio (whose 4-day cash winnings total $102,800)",
+   "short": "Arthur"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Arthur": 4800,
+   "Sofi": 2600,
+   "Josh": 4600
+  },
+  "DJ": {
+   "Arthur": 30800,
+   "Sofi": 7000,
+   "Josh": 5800
+  },
+  "Final": {
+   "Arthur": 20800,
+   "Sofi": 0,
+   "Josh": 0
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "PLANET FILL-IN",
+    "DON'T SONGS",
+    "GROUP NAMES OF ANIMALS",
+    "COMIC STRIPS IN OTHER WORDS",
+    "WHAT DO I STAND FOR?",
+    "THE NATIONAL MUSEUM OF AMERICAN HISTORY"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 27,
+     "q": "Veronica ____, a TV sleuth",
+     "a": "Veronica Mars",
+     "right": [
+      "Josh"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 2,
+     "q": "In 1997 Madonna had a hit with this song from \"Evita\" that she sang in the movie",
+     "a": "\"Don't Cry For Me Argentina\"",
+     "right": [
+      "Sofi"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 28,
+     "q": "When these birds get together, they're in a company or pandemonium; Polly wanna party!",
+     "a": "parrots",
+     "right": [
+      "Arthur"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 17,
+     "q": "Initials frequently seen following Vancouver",
+     "a": "B.C.",
+     "right": [
+      "Arthur"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 13,
+     "q": "In \"CSI\" on CBS",
+     "a": "Investigation",
+     "right": [
+      "Josh"
+     ],
+     "wrong": [
+      "Arthur"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 30,
+     "q": "(Alex delivers the clue from the National Museum of American History in Washington, D.C.) Thomas Jefferson designed this small portable desk; he used it for decades & then attached a note to it saying it might someday be of value because this important national document had been composed on it",
+     "a": "the Declaration of Independence",
+     "right": [
+      "Arthur"
+     ],
+     "wrong": [
+      "Sofi"
+     ],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 26,
+     "q": "Fuller's ____, an absorbent compound",
+     "a": "earth",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 3,
+     "q": "A 1956 No. 1 hit for Elvis & a Top 10 hit for Bobby Brown share this title",
+     "a": "\"Don't Be Cruel\"",
+     "right": [
+      "Arthur"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 23,
+     "q": "(Kelly of the Clue Crew reports from Madikwe Game Reserve in South Africa.) A herd of zebras is called this 6-letter word, perhaps because of the blinding effect of all those stripes on your eyes",
+     "a": "a dazzle",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 22,
+     "q": "Our 20th president",
+     "a": "Garfield",
+     "right": [
+      "Arthur"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 10,
+     "q": "In a hospital's ICU",
+     "a": "intensive",
+     "right": [
+      "Sofi"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 29,
+     "q": "(Alex delivers the clue from the National Museum of American History in Washington, D.C.) The first transcontinental car trip was made by Horatio Nelson Jackson in this 1903 Winton at a time when America had few roads & little support for cars, so, whenever he had a breakdown & needed repairs, he would often have to rely on these workers that the automobile would soon put out of business",
+     "a": "blacksmiths",
+     "right": [],
+     "wrong": [
+      "Sofi"
+     ],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 20,
+     "q": "Sega ____, a video game console",
+     "a": "Saturn",
+     "right": [
+      "Arthur"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 5,
+     "q": "\"Don't Know Why\" is the reason why she won all those Grammys in 2003, including Record of the Year",
+     "a": "Norah Jones",
+     "right": [
+      "Sofi"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 19,
+     "q": "3-letter organized crime term for a bunch of kangaroos",
+     "a": "a mob",
+     "right": [
+      "Arthur"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 8,
+     "q": "Latin for a statement that doesn't follow from what came before",
+     "a": "Non Sequitur",
+     "right": [
+      "Arthur"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 11,
+     "q": "In IM, this type of messaging",
+     "a": "instant",
+     "right": [
+      "Sofi"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 25,
+     "q": "(Alex delivers the clue from the National Museum of American History in Washington, D.C.) A sit-in by four young African-Americans in 1960 in Greensboro, North Carolina, sparked nationwide interest & activity in the civil-rights movement & also led this five-and-dime store to desegregate its lunch counters just about six months later",
+     "a": "Woolworth's",
+     "right": [
+      "Josh"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 1,
+     "q": "The ____ of Willendorf, a prehistoric sculptured figurine",
+     "a": "Venus",
+     "right": [
+      "Sofi"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 6,
+     "q": "2011's send-off song on \"American Idol\" was David Cook's version of this Simple Minds tune",
+     "a": "\"Don't You (Forget About Me)\"",
+     "right": [
+      "Josh"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 18,
+     "q": "Nevermore will you be unaware that a group of these birds is known as an unkindness",
+     "a": "a raven",
+     "right": [
+      "Sofi"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 14,
+     "q": "Mongrel dogs, informally",
+     "a": "Mutts",
+     "right": [
+      "Arthur"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 9,
+     "q": "In HIV",
+     "a": "immunodeficiency",
+     "right": [
+      "Josh"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 24,
+     "q": "(Alex delivers the clue from the National Museum of American History in Washington, D.C.) I'm with one of the earliest locomotives of the U.S. railroad system--it looks like it could still run, doesn't it?--& it actually did in 1981 as it celebrated its 150th birthday; it was built in England, & it is named for this symbolic Englishman",
+     "a": "John Bull",
+     "right": [
+      "Sofi"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 4,
+     "q": "San Jose ____ News, a paper in California",
+     "a": "Mercury",
+     "right": [
+      "Sofi"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 7,
+     "q": "Featured on \"Glee\" & in \"Rock Of Ages\", this song goes \"on and on and on and on\"",
+     "a": "\"Don't Stop Believin'\"",
+     "right": [
+      "Josh"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 15,
+     "q": "A group of these tot-totin' avians get together as a mustering",
+     "a": "storks",
+     "right": [
+      "Arthur"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 21,
+     "q": "Superman's dark twin",
+     "a": "Bizarro",
+     "right": [
+      "Josh"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": true,
+     "order": 12,
+     "q": "In BVI, including Tortola",
+     "a": "Islands",
+     "right": [],
+     "wrong": [
+      "Sofi"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 3000
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 16,
+     "q": "(Alex delivers the clue from the National Museum of American History in Washington, D.C.) Old 091 here took part in Operation Cedar Falls in January 1967, the largest offensive of the Vietnam War up to that point; she's a Bell UH-1, the workhorse helicopter of the war, known affectionately by this nickname",
+     "a": "a Huey",
+     "right": [
+      "Sofi"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "WRITERS HATIN' ON WRITERS",
+    "OSCAR BEST PICTURE PARTIAL MARQUEES",
+    "ASIAN CAPITALS",
+    "A PROPER BRITISH BURIAL",
+    "\"BED\"",
+    "BREAKFAST"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 26,
+     "q": "Twain said, \"Every time I read 'Pride and Prejudice', I want to dig her up and hit her over the skull with her own shin bone\"",
+     "a": "(Jane) Austen",
+     "right": [
+      "Arthur"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 17,
+     "q": "From 1993",
+     "a": "Schindler's List",
+     "right": [
+      "Arthur"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 28,
+     "q": "Most of this Chinese capital's people belong to the Han ethnic group; Manchus & Mongols are in the minority",
+     "a": "Beijing",
+     "right": [
+      "Arthur"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 29,
+     "q": "He's buried in St. George's Chapel in Windsor Castle, beside his third wife",
+     "a": "Henry VIII",
+     "right": [
+      "Arthur"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 30,
+     "q": "Barney, Betty, Pebbles & Bamm Bamm all live here",
+     "a": "Bedrock",
+     "right": [
+      "Josh"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "This McDonald's signature breakfast sandwich has Canadian bacon, American cheese & an English muffin",
+     "a": "an Egg McMuffin",
+     "right": [
+      "Arthur"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 23,
+     "q": "Virginia Woolf said this 1922 Joyce novel was by \"a queasy undergraduate scratching his pimples\"",
+     "a": "Ulysses",
+     "right": [
+      "Arthur"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 14,
+     "q": "Set in Atlanta",
+     "a": "Driving Miss Daisy",
+     "right": [
+      "Arthur"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": true,
+     "order": 24,
+     "q": "This capital is named for a religion",
+     "a": "Islamabad",
+     "right": [
+      "Arthur"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 5000
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 16,
+     "q": "Britain's Unknown Soldier lies in the only floor tomb on which visitors may not walk in this London site",
+     "a": "Westminster Abbey",
+     "right": [
+      "Josh"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 25,
+     "q": "Traditionally, these Arab nomads stopped long enough to hold a Thursday market in Beersheba, Israel",
+     "a": "bedouins",
+     "right": [
+      "Arthur"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 22,
+     "q": "It might take more than one country to contain this restaurant chain's \"Rooty Tooty Fresh N' Fruity\" breakfast",
+     "a": "International House of Pancakes (IHOP)",
+     "right": [
+      "Arthur"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 18,
+     "q": "Hemingway asked about this Mississippi novelist, \"does he really think big emotions come from big words?\"",
+     "a": "Faulkner",
+     "right": [
+      "Arthur"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 1,
+     "q": "Directed by Ron Howard",
+     "a": "A Beautiful Mind",
+     "right": [
+      "Josh"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 19,
+     "q": "It's the capital of a Hashemite kingdom",
+     "a": "Amman",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 15,
+     "q": "With his column not far away, Horatio Nelson is buried at this cathedral",
+     "a": "St Paul's",
+     "right": [
+      "Sofi"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 20,
+     "q": "A cowboy might curl up on one of these pads formed into a cylinder for portability",
+     "a": "a bedroll",
+     "right": [
+      "Arthur"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 21,
+     "q": "Parisians eat this dish for dessert & call it \"pain perdu\"; we eat it for breakfast",
+     "a": "French toast",
+     "right": [
+      "Sofi"
+     ],
+     "wrong": [
+      "Josh"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 6,
+     "q": "Oscar Wilde said, \"there are two ways of disliking poetry...to dislike it (&) to read\" this author of \"An Essay on Man\"",
+     "a": "Alexander Pope",
+     "right": [],
+     "wrong": [
+      "Sofi"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 2,
+     "q": "A 1971 thriller",
+     "a": "The French Connection",
+     "right": [
+      "Arthur"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 9,
+     "q": "It was founded in 1394 as the capital of the kingdom of Choson",
+     "a": "Seoul",
+     "right": [
+      "Arthur"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 8,
+     "q": "His shrine is at Canterbury Cathedral, where he was murdered in 1170",
+     "a": "Becket",
+     "right": [
+      "Arthur"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 13,
+     "q": "In 1969 John Lennon & Yoko Ono staged one of these \"for Peace\"",
+     "a": "a Bed-in",
+     "right": [
+      "Sofi"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 12,
+     "q": "A \"moons over my hammy omelette\" is a popular breakfast offering at this chain",
+     "a": "Denny's",
+     "right": [
+      "Arthur"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 5,
+     "q": "This writer famously said of Jack Kerouac's output, \"it isn't writing at all--it's typing\"",
+     "a": "Truman Capote",
+     "right": [
+      "Sofi"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": true,
+     "order": 10,
+     "q": "The third\nBest-Picture winner",
+     "a": "All Quiet on the Western Front",
+     "right": [
+      "Arthur"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true,
+     "ddWager": 5000
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 3,
+     "q": "This port lies about 60 miles northwest of Damascus on the Bay of St. George",
+     "a": "Beirut",
+     "right": [],
+     "wrong": [
+      "Arthur"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 4,
+     "q": "We hope the sky was a Nocturne in blue & gold as this American-born artist was buried in Chiswick in 1903",
+     "a": "James Abbott McNeill Whistler",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 11,
+     "q": "When the Statue of Liberty first lifted her light above Liberty Island it was known as this",
+     "a": "Bedloe's Island (Bedloe accepted)",
+     "right": [
+      "Arthur"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 7,
+     "q": "In a traditional English breakfast, kippers are this kind of fish",
+     "a": "herring",
+     "right": [
+      "Arthur"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "19th CENTURY PEOPLE",
+  "q": "Frederick Douglass said this man's \"zeal in the cause of my race was far greater than mine\"",
+  "a": "John Brown",
+  "right": [],
+  "wrong": [
+   "Josh",
+   "Sofi",
+   "Arthur"
+  ]
+ },
+ "gameId": "4433"
+}
