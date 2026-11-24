@@ -1,0 +1,997 @@
+{
+ "show": "#9515",
+ "aired": "2026-03-06",
+ "note": "James Denison game 1.",
+ "contestants": [
+  {
+   "name": "Heidi Schmechel",
+   "bio": "a veterinarian originally from Rumson, New Jersey",
+   "short": "Heidi"
+  },
+  {
+   "name": "James Denison",
+   "bio": "a college professor and museum curator originally from Alexandria, Virginia",
+   "short": "James"
+  },
+  {
+   "name": "Cory Aiello",
+   "bio": "a development officer from Indianapolis, Indiana (whose 1-day cash winnings total $17,930)",
+   "short": "Cory"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Cory": -200,
+   "James": 8400,
+   "Heidi": 4800
+  },
+  "DJ": {
+   "Cory": 3400,
+   "James": 24200,
+   "Heidi": 12200
+  },
+  "Final": {
+   "Cory": 2796,
+   "James": 36199,
+   "Heidi": 24400
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "BOASTING A COAST",
+    "BRIT BITS",
+    "VEGAS CASINO NAMES",
+    "SPORTS IDIOMS",
+    "BE VERY QUIET",
+    "I'M HUNTING OUTFITS"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 17,
+     "q": "Follow your nose to Nosy Komba & have a fun-filled visit at the Black Lemur Sanctuary in this nation with 100% coast",
+     "a": "Madagascar",
+     "right": [
+      "Heidi"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 27,
+     "q": "The Bodleian Library, one of the oldest in Great Britain, is located at this university",
+     "a": "Oxford",
+     "right": [
+      "Cory"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 24,
+     "q": "Arthur hit the jackpot with this weapon that in one film granted power \"'cause some watery tart threw a sword at you\"",
+     "a": "Excalibur",
+     "right": [
+      "Cory"
+     ],
+     "wrong": [
+      "James"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 19,
+     "q": "\"Down for the count\"",
+     "a": "boxing",
+     "right": [
+      "Cory"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 18,
+     "q": "This 4-letter word comes before \"down\" in an order to stifle rowdiness; a Taylor Swift song title says you need to do it!",
+     "a": "calm",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 30,
+     "q": "My neighborhood thrift store has a large collection of Hawaiian shirts also known by this familiar Hawaiian word",
+     "a": "aloha",
+     "right": [
+      "Cory"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 16,
+     "q": "The coastline of this principality on the Med is a mere 2.5 miles, but it's rich in a lot of other ways",
+     "a": "Monaco",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 15,
+     "q": "Completed in 1993 & with 23 1/2 miles underwater, it links England & France",
+     "a": "the Chunnel",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 13,
+     "q": "Naming this proper adjective for natives like Marco Polo & Casanova makes you a winner winner!",
+     "a": "the Venetian",
+     "right": [
+      "Heidi"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 6,
+     "q": "\"Buzzer beater\"",
+     "a": "basketball",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 20,
+     "q": "You can be as poor as one of these worship-house rodents, or as quiet as one; your choice",
+     "a": "a church mouse",
+     "right": [
+      "Cory"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 28,
+     "q": "Gonna sing \"Badlands\" during karaoke tonight, so I'm on the hunt for this alliterative denim coat to look like The Boss",
+     "a": "a jean jacket",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 5,
+     "q": "Directly north of Costa Rica, this country boasts coasts on the Caribbean & the Pacific as well as Lago Cocibolca",
+     "a": "Nicaragua",
+     "right": [
+      "Cory"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 14,
+     "q": "The Braemar Gathering is one of the most well-attended of these athletic, music & dance competitions held in Scotland",
+     "a": "the Highland Games",
+     "right": [
+      "Heidi"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 12,
+     "q": "You can bet Puccini's \"O mio babbino caro\" is a notable one, sometimes done as an encore",
+     "a": "the aria",
+     "right": [
+      "Heidi"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 1,
+     "q": "\"Call an audible\"",
+     "a": "football",
+     "right": [
+      "Cory"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 21,
+     "q": "Part of the name of the 1980 Winter Olympics site, it means quiet or peaceful",
+     "a": "placid",
+     "right": [
+      "Heidi"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 25,
+     "q": "For my flower power party I'm buying round sunglasses, a tie-dye shirt & some of these trousers with curved hems also known as flares",
+     "a": "bell bottoms",
+     "right": [
+      "Heidi"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 4,
+     "q": "Bounded to the north by Mali, this French-named nation is perfect for the category",
+     "a": "the Ivory Coast (Côte d'Ivoire)",
+     "right": [
+      "Heidi"
+     ],
+     "wrong": [
+      "Cory"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": true,
+     "order": 8,
+     "q": "According to the British monarchy's website, in 1810 this royal \"became permanently deranged\"",
+     "a": "George III",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2200
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 11,
+     "q": "Synonyms for this word include cultured & urbane, & that reminds me... who needs a drink at the table?",
+     "a": "cosmopolitan",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 2,
+     "q": "\"Knock for six\"\n(to shock or upset)",
+     "a": "cricket",
+     "right": [
+      "James"
+     ],
+     "wrong": [
+      "Cory"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 22,
+     "q": "Quality of a table procured at a restaurant for a later date, or restrained verbally in general",
+     "a": "reserved",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 26,
+     "q": "Looking to complete my athleisure fit with trendy shoes from this four-letter company named after a Maori word for \"to fly\"",
+     "a": "HOKA",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 7,
+     "q": "This country with 2 names in English has coastline on the Gulf of Martaban, an arm of the Andaman Sea",
+     "a": "Myanmar (Burma)",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 9,
+     "q": "This county at England's southwest tip has its own Celtic language",
+     "a": "Cornwall",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 10,
+     "q": "Letting the chips fall where they may, this animal goes unipedal for several hours at a time",
+     "a": "the flamingo",
+     "right": [
+      "Heidi"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 3,
+     "q": "\"Making the cut\"",
+     "a": "golf",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 23,
+     "q": "Shh, I need you to talk quietly, this 2-word Italian term",
+     "a": "sotto voce",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 29,
+     "q": "I'm looking for a flat cap with a marsupial logo from this company--it's big in rap fandom",
+     "a": "Kangol",
+     "right": [],
+     "wrong": [
+      "Cory"
+     ],
+     "stumper": true,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "SECRET MEETINGS",
+    "CHARACTER ASSASSINATION",
+    "ON THE GO",
+    "10-LETTER WORDS",
+    "EARTH SCIENCE",
+    "DIRECTORS"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 30,
+     "q": "Under the ruse of a duck hunt, a 1910 meeting on Georgia's Jekyll Island laid the foundation for this U.S. banking authority",
+     "a": "the Federal Reserve",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 11,
+     "q": "\"'Mr. Finch,' Mr. Tate said stolidly, 'Bob Ewell fell on his knife. He killed himself'\"",
+     "a": "Harper Lee",
+     "right": [
+      "Cory"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 26,
+     "q": "It's one way to get around a desert or off-road",
+     "a": "a dune buggy",
+     "right": [
+      "Cory"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 24,
+     "q": "The dissemination of information in a biased way; it's meant to persuade",
+     "a": "propaganda",
+     "right": [
+      "Heidi"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 29,
+     "q": "Gneiss & schist are examples of this class of rock transformed by heat, pressure or chemical reactions",
+     "a": "metamorphic",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 5,
+     "q": "On the passing of this director, Kyle MacLachlan said, \"While the world has lost a remarkable artist, I've lost a dear friend\"",
+     "a": "(David) Lynch",
+     "right": [
+      "Cory"
+     ],
+     "wrong": [
+      "James"
+     ],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 12,
+     "q": "For papal conclaves, blacked out windows ensure privacy in this building, where electors vote, burn ballots & swear an oath of secrecy",
+     "a": "the Sistine Chapel",
+     "right": [],
+     "wrong": [
+      "Cory",
+      "James"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 10,
+     "q": "Simon's end: \"The beast lay still, a few yards from the sea... the boys rushed screaming into the darkness\"",
+     "a": "Golding",
+     "right": [
+      "Cory"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 25,
+     "q": "To the delight of airline passengers, in July 2025 TSA announced you no longer have to do this when going through security",
+     "a": "remove your shoes",
+     "right": [
+      "Heidi"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 23,
+     "q": "Beep beep! It's also called the chaparral cock",
+     "a": "a roadrunner",
+     "right": [
+      "Cory"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 27,
+     "q": "Climate warming is largely attributed to 2 gases, carbon dioxide & this one mainly produced by human activity",
+     "a": "methane",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 4,
+     "q": "On finally winning his first Oscar in 2007 for \"The Departed\", he jokingly asked, \"Could you double-check the envelope?\"",
+     "a": "Scorsese",
+     "right": [
+      "Cory"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 13,
+     "q": "The Boston chapter of this paramilitary colonial org. met in Hanover Square under cover of darkness beneath a \"stately elm\"",
+     "a": "the Sons of Liberty",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 7,
+     "q": "Paul Bäumer \"fell in October 1918, on a day that was so quiet & still on the whole front\"",
+     "a": "Erich Maria Remarque",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 6,
+     "q": "DART First State provides public transportation services throughout this state",
+     "a": "Delaware",
+     "right": [
+      "Heidi"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": true,
+     "order": 20,
+     "q": "It was named for a French doctor who advocated for as quick & painless a death as possible",
+     "a": "guillotine",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 9000
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 19,
+     "q": "The heat index combines current temperature & this, water vapor in the air as a percentage of its saturation point",
+     "a": "relative humidity",
+     "right": [],
+     "wrong": [
+      "Cory",
+      "James",
+      "Heidi"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": true,
+     "order": 3,
+     "q": "Oscar-nominated for directing, she made her first onscreen appearance as an infant in \"The Godfather\"",
+     "a": "Sofia Coppola",
+     "right": [
+      "Heidi"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 3000
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 14,
+     "q": "To set the stage for a later meeting, Henry Kissinger feigned illness on a 1971 visit to Pakistan, then snuck off to this city",
+     "a": "Beijing",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 8,
+     "q": "\"The gardener saw Wilson's body a little way off in the grass, and the holocaust was complete\"",
+     "a": "F. Scott Fitzgerald",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 16,
+     "q": "The high-speed train known by this 3-letter abbreviation operates in France & also connects it with Belgium & a few other countries",
+     "a": "the TGV",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 21,
+     "q": "Not exactly a hat, this headpiece that's a staple at royal weddings seems to get its name from Latin for \"to cast a spell on\"",
+     "a": "a fascinator",
+     "right": [
+      "Heidi"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 18,
+     "q": "Sphalerite is the principal ore of this widely used metal employed in galvanizing steel against corrosion",
+     "a": "zinc",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 2,
+     "q": "She worked in publicity & public relations before directing such films as \"Selma\" & \"Origin\"",
+     "a": "Ava DuVernay",
+     "right": [
+      "Heidi"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 15,
+     "q": "Marked \"Secret Reich Matter\", a single copy remains of the grim protocol outlined at this 1942 conference of Nazi leaders",
+     "a": "the Wannsee Conference",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 9,
+     "q": "\"After Kid Sampson's legs, he would think of pitiful, whimpering Snowden freezing to death in the rear section of the plane\"",
+     "a": "(Joseph) Heller",
+     "right": [
+      "Cory"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 17,
+     "q": "In Thailand, you can get around on one of these double-talk auto rickshaws named for the sound the engine makes",
+     "a": "a tuk-tuk",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 22,
+     "q": "It's a traditional boat song made famous by Venice's gondoliers",
+     "a": "a barcarolle",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 28,
+     "q": "These clouds are described as basically fog, just a few thousand feet higher",
+     "a": "stratus clouds",
+     "right": [],
+     "wrong": [
+      "Cory"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 1,
+     "q": "This Spaniard has directed the films \"All About My Mother\" & \"Parallel Mothers\" (notice a trend?)",
+     "a": "(Pedro) Almodóvar",
+     "right": [
+      "Cory"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "COUNTRIES OF THE WORLD",
+  "q": "Its island province of Annobón lies at 1.4 degrees south latitude; its mainland begins at .92 degrees north latitude",
+  "a": "Equatorial Guinea",
+  "right": [
+   "Heidi",
+   "James"
+  ],
+  "wrong": [
+   "Cory"
+  ]
+ },
+ "gameId": "9394",
+ "cat_notes": {
+  "J": [
+   "Clues about Boasting a Coast.",
+   "Clues about Brit Bits.",
+   "Clues about Vegas Casino Names.",
+   "You'll name the sport that's the original source for each one.",
+   "[Ken reads \"very\" with a W like Elmer Fudd.].",
+   "The category “I'M HUNTING OUTFITS” sets the theme — the clues follow that idea and any wordplay suggested by the title."
+  ],
+  "DJ": [
+   "Clues about Secret Meetings.",
+   "Here you need to name the author who's killing off each character.",
+   "Clues on the Go.",
+   "Each answer is a 10-letter word.",
+   "Clues about Earth Science.",
+   "Clues about Directors."
+  ],
+  "F": "Clues about Countries of the World."
+ }
+}

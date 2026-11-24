@@ -1,0 +1,992 @@
+{
+ "show": "#9544",
+ "aired": "2026-04-16",
+ "note": "Jamie Ding game 25.",
+ "contestants": [
+  {
+   "name": "Erin Adams",
+   "bio": "a community college professor from Orlando, Florida",
+   "short": "Erin"
+  },
+  {
+   "name": "Andrew Younger",
+   "bio": "a nonprofit director from San Diego, California",
+   "short": "Andrew"
+  },
+  {
+   "name": "Jamie Ding",
+   "bio": "a bureaucrat and law student from Lawrenceville, New Jersey (whose 24-day cash winnings total $667,000)",
+   "short": "Jamie"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Jamie": 10800,
+   "Andrew": 4200,
+   "Erin": 2600
+  },
+  "DJ": {
+   "Jamie": 27600,
+   "Andrew": 6200,
+   "Erin": 3800
+  },
+  "Final": {
+   "Jamie": 35000,
+   "Andrew": 7601,
+   "Erin": 7599
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "THE 4 CORNERS STATES",
+    "FELINE FINE",
+    "RHYMES WITH A VOWEL",
+    "WOOLLY FOR YOU",
+    "AUSTEN",
+    "POWERS"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 28,
+     "q": "Taos Pueblo in New Mexico is home to an ancient settlement of buildings made from this 5-letter substance, a mixture of earth & straw",
+     "a": "adobe",
+     "right": [
+      "Andrew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 25,
+     "q": "In 2000 he won the U.S. Open, the British open & the PGA Championship",
+     "a": "Tiger Woods",
+     "right": [
+      "Jamie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 29,
+     "q": "Revolutionary Mr. Guevara to his friends",
+     "a": "Che",
+     "right": [
+      "Jamie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 21,
+     "q": "The oldest surviving homestead in this country, Elizabeth Farm played a major role in establishing the wool industry there",
+     "a": "Australia",
+     "right": [],
+     "wrong": [
+      "Jamie",
+      "Andrew",
+      "Erin"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 26,
+     "q": "Colin Firth & Matthew Macfadyen have portrayed this character in screen adaptations of \"Pride & Prejudice\"",
+     "a": "Fitzwilliam Darcy",
+     "right": [
+      "Jamie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 30,
+     "q": "Supposed to still have powers today, the holy lance that pierced Jesus' side is also called this weapon of Destiny",
+     "a": "a Spear",
+     "right": [
+      "Jamie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "Part of Arizona's Painted Desert lies in this national park known for its Triassic era trees",
+     "a": "Petrified Forest",
+     "right": [
+      "Andrew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 20,
+     "q": "Sir Purr is the official mascot of this NFL team that plays its home games at Bank of America Stadium in Charlotte",
+     "a": "the Panthers",
+     "right": [
+      "Jamie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 18,
+     "q": "Not guilty is one an indictee may enter",
+     "a": "a plea",
+     "right": [
+      "Erin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 9,
+     "q": "From the Latin for \"wool oil\", it can be used as a base for certain emollients & soaps",
+     "a": "lanolin",
+     "right": [
+      "Andrew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 13,
+     "q": "\"Persuasion\" tells of a second chance at love between Anne Elliot & Captain Wentworth, back after serving in these wars",
+     "a": "the Napoleonic Wars",
+     "right": [
+      "Jamie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 24,
+     "q": "In optics, a numerical power refers to this capacity, say, for a microscope",
+     "a": "magnification",
+     "right": [
+      "Jamie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 17,
+     "q": "Ghost towns in Utah & New Mexico are both called this, also a nickname they don't love in the City by the Bay",
+     "a": "Frisco",
+     "right": [
+      "Jamie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 23,
+     "q": "Janet Jackson had a No. 1 hit with this song that mentions \"nine lives\"",
+     "a": "\"Black Cat\"",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 10,
+     "q": "To tilt or alter, as in what bad data may do to the results of an experiment",
+     "a": "skew",
+     "right": [
+      "Jamie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 4,
+     "q": "Possibly a Moorish import, this Spanish variety of sheep is known for its fine, well-crimped wool",
+     "a": "Merino",
+     "right": [
+      "Jamie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 12,
+     "q": "Fanny Price is sent to live with her relatives the Bertrams at this title fictional Northamptonshire estate",
+     "a": "Mansfield Park",
+     "right": [
+      "Erin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 8,
+     "q": "A proclaimed \"binding\" of Rome & Berlin in 1936 led to what was known as these 4-letter powers",
+     "a": "the Axis",
+     "right": [
+      "Jamie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 7,
+     "q": "The 4-letter name of this essential river of Arizona is from a Yuma word for salty water, not a monster",
+     "a": "Gila",
+     "right": [
+      "Andrew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 5,
+     "q": "McCoy is the last name of the lead singer of this comic book rock band that had its own '70s TV cartoon",
+     "a": "Josie and the Pussycats",
+     "right": [
+      "Andrew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 2,
+     "q": "A large sheet of ice on the surface of water",
+     "a": "a floe",
+     "right": [
+      "Erin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 14,
+     "q": "The name sounds bad, but it's just firm-textured, twisted yarn made from long wool fibers & named for an English town",
+     "a": "worsted",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 1,
+     "q": "In real life, Jane visited this English city known for its waters; some of her characters visited the pump room there",
+     "a": "Bath",
+     "right": [
+      "Andrew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 19,
+     "q": "1819's this man v. Maryland held that the Constitution grants certain implied powers to the federal government",
+     "a": "McCulloch",
+     "right": [
+      "Jamie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 16,
+     "q": "Originally a military outpost, this city that's home to Colorado State U. was named for an early commander",
+     "a": "Fort Collins",
+     "right": [
+      "Andrew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 15,
+     "q": "As the title character in the film \"Shakes the Clown\", he disguises himself as a mime after he's framed for his boss' murder",
+     "a": "Bobcat Goldthwait",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 6,
+     "q": "Any dude, or a wire attached to something to brace & secure it in place",
+     "a": "a guy",
+     "right": [
+      "Jamie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": true,
+     "order": 11,
+     "q": "In mythology this group sought the Golden Fleece in an effort to remove the usurping king of Thessaly",
+     "a": "the Argonauts",
+     "right": [
+      "Jamie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 3800
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 3,
+     "q": "In this Jane Austen work, novel aficionado Catherine fears the title home is full of Gothic terrors",
+     "a": "Northanger Abbey",
+     "right": [
+      "Jamie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 22,
+     "q": "Also called fluid power, this type of power often using oils is more flexible than mechanical or electrical systems",
+     "a": "hydraulic",
+     "right": [
+      "Erin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "BRIDE OF THE YANKEES",
+    "CLASSICAL MUSIC",
+    "CELEB SURNAME THE SAME",
+    "BUILDINGS",
+    "5-LETTER MEDICAL ISSUES",
+    "STARTS WITH \"PLU\""
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 30,
+     "q": "Elizabeth, the widow of Union general Henry Halleck, co-founded the New York City hospital for this disease that's now Memorial Sloan Kettering",
+     "a": "cancer",
+     "right": [
+      "Jamie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 29,
+     "q": "Brahms' string these have an extra viola to get the odd number of players; Schubert doubles down on the cello",
+     "a": "quintets",
+     "right": [
+      "Jamie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 28,
+     "q": "Co-starred with Duchovny & the Hoff, respectively:\nGillian & Pamela",
+     "a": "Anderson",
+     "right": [
+      "Andrew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 26,
+     "q": "\"An Affair to Remember\" & \"Sleepless in Seattle\" have pivotal scenes on top of this building in New York City",
+     "a": "the Empire State Building",
+     "right": [
+      "Erin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "Coloring your world in a not-so-great way, it follows scarlet & yellow",
+     "a": "fever",
+     "right": [
+      "Andrew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 24,
+     "q": "In 1941 Dr. Glenn Seaborg went fission, producing this radioactive element in a cyclotron",
+     "a": "plutonium",
+     "right": [
+      "Andrew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 14,
+     "q": "New bride Annie was widowed in 77 days when Robert Gould Shaw went to \"Glory\" leading Black troops against the defenses of this S.C. city",
+     "a": "Charleston",
+     "right": [
+      "Jamie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 25,
+     "q": "This French composer known for evocative piano works only left us one movement of his one symphony from 1880",
+     "a": "Debussy",
+     "right": [
+      "Jamie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 22,
+     "q": "All roads lead to them:\nDiane & Nathan",
+     "a": "Lane",
+     "right": [
+      "Andrew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 21,
+     "q": "Construction of this Seattle structure that opened in 1962 cost $4.5 million; a 2018 renovation, about $100 million",
+     "a": "Space Needle",
+     "right": [
+      "Andrew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 23,
+     "q": "Bee aware this skin reaction is also called urticaria",
+     "a": "hives",
+     "right": [
+      "Andrew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 17,
+     "q": "As an adjective it means superlative; as a verb tense, it uses \"had\"",
+     "a": "pluperfect",
+     "right": [
+      "Jamie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 7,
+     "q": "Virginia, the widow of this sailor man, was on hand when his D.C. monument by female sculptor Vinnie Ream was dedicated in 1881",
+     "a": "Farragut",
+     "right": [
+      "Jamie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 18,
+     "q": "\"See, The Conqu'ring Hero Comes\" is heard in Handel's oratorio about this title hero, often performed around Hanukkah",
+     "a": "Judas Maccabaeus",
+     "right": [
+      "Jamie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 5,
+     "q": "Just like that Amity chief:\nAdrien & Adam",
+     "a": "Brody",
+     "right": [
+      "Jamie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 12,
+     "q": "Architect Paul R. Williams was part of the team that designed The Theme Building, a space-age design at this airport",
+     "a": "LAX",
+     "right": [],
+     "wrong": [
+      "Andrew"
+     ],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 2,
+     "q": "Claiming 11,000 lives before containment, the worst-ever outbreak of this virus plagued West Africa from 2014 to 2016",
+     "a": "Ebola",
+     "right": [
+      "Erin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 20,
+     "q": "This fancy adjective means relating to rain",
+     "a": "pluvial",
+     "right": [
+      "Jamie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 16,
+     "q": "Fittingly, Union General Philip Sheridan's wife Irene was born in Fort Union, N.M., built to protect this trail",
+     "a": "the Santa Fe Trail",
+     "right": [
+      "Jamie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 11,
+     "q": "Nominated for a 2026 Grammy, the guitar duo album \"Slavic Sessions\" includes 2 of this Czech composer's \"Slavonic Dances\"",
+     "a": "Dvořák",
+     "right": [
+      "Jamie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 7200
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 1,
+     "q": "I hear an Irish river calling:\nMichael & Molly",
+     "a": "Shannon",
+     "right": [
+      "Jamie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 9,
+     "q": "Britannica notes that this tallest building in the U.K. \"resembles the shaft of a stiletto switchblade\"",
+     "a": "The Shard",
+     "right": [
+      "Andrew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 3,
+     "q": "Guess what, TV's \"House\"? It is in fact this auto-immune disorder; the discoid type affects only the skin, not organs",
+     "a": "lupus",
+     "right": [
+      "Erin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 13,
+     "q": "Frangipani is another name for this fragrant flower that's popular for leis",
+     "a": "plumeria",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": true,
+     "order": 19,
+     "q": "It seems Ellen Marcy loved future Confederate general A.P. Hill more than this man whom she married, getting a name that rhymed",
+     "a": "McClellan",
+     "right": [],
+     "wrong": [
+      "Jamie"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 7600
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 6,
+     "q": "This work by Saint-Saëns is also called a \"Zoological Fantasy\"",
+     "a": "The Carnival of the Animals",
+     "right": [
+      "Jamie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 15,
+     "q": "We've heard stranger things:\nHeather & Gaten",
+     "a": "Matarazzo",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 10,
+     "q": "An iconic symbol of Rajasthan, the Hawa Mahal is a palace in this metropolis, often called \"The Pink City\"",
+     "a": "Jaipur",
+     "right": [
+      "Jamie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 4,
+     "q": "The HIB vaccine is highly effective vs. bacterial this acute respiratory illness, which tends to strike kids 7 or younger",
+     "a": "croup",
+     "right": [],
+     "wrong": [
+      "Andrew",
+      "Erin"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 8,
+     "q": "Earl Tinker runs the Illinois & Union Paper Co. in a Booth Tarkington novel titled this, meaning one who rules by money",
+     "a": "Plutocrat",
+     "right": [
+      "Jamie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "WORLD LANDMARKS",
+  "q": "In 2025 a church begun in 1882 became the tallest building in this city",
+  "a": "Barcelona",
+  "right": [
+   "Erin",
+   "Andrew",
+   "Jamie"
+  ],
+  "wrong": []
+ },
+ "gameId": "9426",
+ "cat_notes": {
+  "J": [
+   "Clues about The 4 Corners States.",
+   "Clues about Feline Fine.",
+   "Each answer is a rhyming word or phrase.",
+   "Clues about Woolly for You.",
+   "Clues about Austen.",
+   "Yeah, baby. Jamie, you're up first."
+  ],
+  "DJ": [
+   "Clues about Bride of the Yankees.",
+   "Clues about Classical Music.",
+   "Clues about Celeb Surname the Same.",
+   "Clues about Buildings.",
+   "Each answer is a 5-letter word or term related to 5-letter Medical Issues.",
+   "Each answer starts with “PLU”."
+  ],
+  "F": "Clues about World Landmarks."
+ }
+}

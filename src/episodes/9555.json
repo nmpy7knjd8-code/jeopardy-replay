@@ -1,0 +1,976 @@
+{
+ "show": "#9638",
+ "aired": "2026-10-14",
+ "note": "",
+ "contestants": [
+  {
+   "name": "Wesley Yiin",
+   "bio": "a film and TV executive from Los Angeles, California",
+   "short": "Wesley"
+  },
+  {
+   "name": "Kim Kalnoki",
+   "bio": "a pattern designer from Sacramento, California",
+   "short": "Kim"
+  },
+  {
+   "name": "Ron Clarke",
+   "bio": "a retired wildlife biologist from Chickaloon, Alaska (whose 1-day cash winnings total $18,200)",
+   "short": "Ron"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Ron": 4800,
+   "Kim": 3200,
+   "Wesley": 6800
+  },
+  "DJ": {
+   "Ron": 4800,
+   "Kim": 14400,
+   "Wesley": 14200
+  },
+  "Final": {
+   "Ron": 4800,
+   "Kim": 28401,
+   "Wesley": 10200
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "THE BETTER-THAN-MID ATLANTIC STATES",
+    "\"BIG\" STUFF",
+    "ADJECTIVES",
+    "HELLO, DOLLY",
+    "MASHED-UP BOOK TITLES",
+    "ETHAN HAWKE, AMERICAN ACTOR"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 30,
+     "q": "As on July 30, 1768, it often summoned Pennsylvanians to protest British policies, irritating loyalists with its clanging",
+     "a": "the Liberty Bell",
+     "right": [
+      "Wesley"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 20,
+     "q": "It's the shared nickname of both the New York Giants & IBM",
+     "a": "Big Blue",
+     "right": [
+      "Ron"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 28,
+     "q": "As a noun, it's an extinct pachyderm; as an adjective, it describes anything really big",
+     "a": "mammoth",
+     "right": [
+      "Wesley"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 27,
+     "q": "Raquel Reyes, a 10-year-old who plays pickleball & loves to DJ, is this brand's 2026 (doll, not human) Girl of the Year",
+     "a": "American Girl",
+     "right": [
+      "Kim"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 13,
+     "q": "\"Tender Is the Tycoon\"",
+     "a": "Tender Is the Night & The Last Tycoon",
+     "right": [
+      "Wesley"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 7,
+     "q": "(Ethan Hawke presents the clue.) In 2022, I stepped into this entertainment universe playing a cult leader in \"Moon Knight\"",
+     "a": "the Marvel Cinematic Universe (the MCU)",
+     "right": [
+      "Wesley"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 29,
+     "q": "Delaware boasts the USA's most \"flexible business formation statute\"; 2/3 of cos. on this list begun in 1955 make it their legal home",
+     "a": "the Fortune 500",
+     "right": [
+      "Ron"
+     ],
+     "wrong": [
+      "Kim"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 17,
+     "q": "Theodore Roosevelt was referring to foreign policy when he said, \"Speak softly &\" do this",
+     "a": "carry a big stick",
+     "right": [
+      "Wesley"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 24,
+     "q": "This 9-letter word for something hanging & swinging in a droopy way evokes a feature of a grandfather clock",
+     "a": "pendulous",
+     "right": [
+      "Ron"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 23,
+     "q": "Launched during the Cold War, this military-themed doll was marketed as an \"action figure\", not a doll, because guys blah blah blah",
+     "a": "G.I. Joe",
+     "right": [
+      "Wesley"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 11,
+     "q": "\"The Lost Demons\"",
+     "a": "The Lost Symbol & Angels and Demons",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 26,
+     "q": "(Ethan Hawke presents the clue.) I dropped out of college to make this New England-set movie with Robin Williams as my teacher, & it launched my career--\"carpe diem\", right?",
+     "a": "Dead Poets Society",
+     "right": [
+      "Kim"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 4,
+     "q": "Ruth Bader Ginsburg is one of the faces in the Million Dollar Staircase at the state capitol here, named for its cost long ago",
+     "a": "Albany",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 1,
+     "q": "In California, this stretch of coast south of Monterey has been called the greatest meeting of land & sea",
+     "a": "Big Sur",
+     "right": [
+      "Wesley"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 18,
+     "q": "This hyphenated \"moment\" compares a shift in thinking to finding Christ",
+     "a": "a come-to-Jesus moment",
+     "right": [
+      "Kim"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 12,
+     "q": "A 2006 New Yorker piece about these dolls said, \"They look like pole dancers on their way to work at a gentlemen's club\"",
+     "a": "Bratz",
+     "right": [
+      "Kim"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 9,
+     "q": "\"To Kill a Watchman\"",
+     "a": "To Kill a Mockingbird & Go Set a Watchman",
+     "right": [
+      "Wesley"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 25,
+     "q": "(Ethan Hawke presents the clue.) When I read the novel \"The Good Lord Bird\", a totally original take on a tragic American story, I knew I had to bring it to the screen, go a little Nic Cage as this abolitionist",
+     "a": "John Brown",
+     "right": [
+      "Wesley"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 5,
+     "q": "At Monocacy Natl. Battlefield in Maryland, learn about Union Gen. Lew Wallace's stand in \"The Battle that Saved\" this city",
+     "a": "Washington",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 2,
+     "q": "Built by Krupp, the World War I Howitzer nicknamed this could fire 1,800-pound shells nearly 6 miles",
+     "a": "Big Bertha",
+     "right": [
+      "Ron"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": true,
+     "order": 14,
+     "q": "This adjective for something communicated clearly is also used in dentistry to mean related to the frontmost teeth",
+     "a": "incisive",
+     "right": [
+      "Wesley"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1600
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 6,
+     "q": "Mini versions of monkey-like dolls called Monchhichi are sold as this alliterative type of toy, a surprise until it's opened",
+     "a": "a blind box",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 8,
+     "q": "\"The Stepford Baby\"",
+     "a": "The Stepford Wives & Rosemary's Baby",
+     "right": [
+      "Kim"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 21,
+     "q": "(Ethan Hawke presents the clue.) I was a fresh-faced new kid & Denzel Washington showed me the ropes in this drama on the streets of L.A. directed by Antoine Fuqua",
+     "a": "Training Day",
+     "right": [
+      "Wesley"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 16,
+     "q": "A \"Real Housewives of N.J.\" landmark, Dr. Aydin's plastic surgery practice is in this place named from the Lenape \"Peramsepuss\"",
+     "a": "Paramus",
+     "right": [
+      "Wesley"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 3,
+     "q": "This national park was authorized in 1935 to protect an area of the Chihuahuan Desert along the Rio Grande",
+     "a": "Big Bend",
+     "right": [
+      "Ron"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 15,
+     "q": "This word that ends with the sixth month describes something dull or lacking sophistication",
+     "a": "jejune",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 19,
+     "q": "These dolls based on Rose O'Neill's magazine drawings were all the rage in the 1910s & '20s",
+     "a": "Kewpies (Kewpie dolls)",
+     "right": [
+      "Ron"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 10,
+     "q": "\"Tortilla Row\"",
+     "a": "Tortilla Flat & Cannery Row",
+     "right": [
+      "Ron"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 22,
+     "q": "(Ethan Hawke presents the clue.) I got to help contribute to the iconography of the American West in this remake that makes the title group more diverse; plus, I got to play a guy named Goodnight Robicheaux",
+     "a": "The Magnificent Seven",
+     "right": [
+      "Kim"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "REPORT CARDS OF MYTHIC FIGURES",
+    "TV LOCALES",
+    "MEDIEVAL NAMES",
+    "COLLEGE RESPONSES",
+    "AROUND THE UNIVERSE",
+    "ENDS WITH A SILENT \"T\""
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "Though mortal, once as beautiful as Athena, but refuses to make eye contact",
+     "a": "Medusa",
+     "right": [
+      "Kim"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 30,
+     "q": "The once-quiet Place de l'Estrapade has become a tourism magnet for beret-clad fans of this Netflix series & its title heroine",
+     "a": "Emily in Paris",
+     "right": [
+      "Wesley"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 10,
+     "q": "A future theologian born near Aquino around 1225 was given this first name",
+     "a": "Thomas",
+     "right": [
+      "Wesley"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 29,
+     "q": "If you're the ruler of not just a regular duchy, you might hold this title; the pope bestowed it on Cosimo de Medici",
+     "a": "a grand duke",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 28,
+     "q": "Bursts of this Greek letter radiation from collapsing stars can release more energy in seconds than our sun in its existence",
+     "a": "gamma radiation",
+     "right": [
+      "Ron"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 19,
+     "q": "When talking food it precedes mignon & O-Fish",
+     "a": "filet",
+     "right": [
+      "Ron"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 26,
+     "q": "Can't ever finish rolling that rock up the hill: needs improvement",
+     "a": "Sisyphus",
+     "right": [
+      "Wesley"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 24,
+     "q": "Keke Palmer has some cagey neighbors in her Hinkley Hills cul-de-sac on this TV series, a reboot of a Tom Hanks film",
+     "a": "The 'Burbs",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": true,
+     "order": 25,
+     "q": "His book was nicknamed \"Il milione\", possibly because the tales in his travelogue seemed like a million lies",
+     "a": "Marco Polo",
+     "right": [],
+     "wrong": [
+      "Wesley"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1000
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 9,
+     "q": "Ordinal term for a Jerusalem structure built starting in 20 B.C., with no Ark of the Covenant this time",
+     "a": "the Second Temple",
+     "right": [],
+     "wrong": [
+      "Kim"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 20,
+     "q": "Some of these 5-letter planets that are not tethered to a star may have \"gone\" that way via being hit like a billiard ball",
+     "a": "rogue",
+     "right": [
+      "Kim"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 18,
+     "q": "One time only, in 1900, this ball-&-mallet game was an official Olympic sport",
+     "a": "croquet",
+     "right": [
+      "Kim"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 5,
+     "q": "Excels in shop class: made a helmet & winged sandals for Hermes as well as Achilles' armor",
+     "a": "Hephaestus",
+     "right": [
+      "Kim"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 4,
+     "q": "There's lots of cool, rich person stuff for Jon Hamm to steal in Westmont Village, the fictional suburb on this series",
+     "a": "Your Friends & Neighbors",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 17,
+     "q": "According to a saga, Leif converted his ma to Christianity & her chastity afterwards was a \"great trial\" to this dad's \"temper\"",
+     "a": "Erik the Red",
+     "right": [
+      "Kim"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 23,
+     "q": "In a 2025 episode of \"The Morning Show\", Billy Crudup reminisces about this mail-order outfit that offered 8 CDs for a penny",
+     "a": "Columbia House",
+     "right": [],
+     "wrong": [
+      "Ron"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 8,
+     "q": "Sometimes described as a \"featureless oval\", Cygnus A is this main type of galaxy named for its shape",
+     "a": "elliptical",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 2,
+     "q": "I'm glad you & I have a good this, a feeling of mutual respect & understanding",
+     "a": "rapport",
+     "right": [
+      "Wesley"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 6,
+     "q": "Absolutely inspiring to have in dance class! Acts as our muse",
+     "a": "Terpsichore",
+     "right": [
+      "Kim"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 4000
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 11,
+     "q": "The title of this series refers (rather ironically, wethinks) to an underground bunker city inside a Colorado mountain",
+     "a": "Paradise",
+     "right": [
+      "Wesley"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 15,
+     "q": "This dad & monarch was gracious after his son Pepin the Hunchback tried to have him killed--he just made him go to a monastery",
+     "a": "Charlemagne",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 21,
+     "q": "This New England dish may get its name from its collegiately crimson color",
+     "a": "Harvard beets",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 3,
+     "q": "Despite their huge size, some of these objects discovered in 1967 spin & beep hundreds of times a second",
+     "a": "pulsars",
+     "right": [],
+     "wrong": [
+      "Ron"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 1,
+     "q": "In this type of flooring, strips or panels of wood are arranged in geometric patterns",
+     "a": "parquet",
+     "right": [
+      "Kim"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 14,
+     "q": "Can't seem to stay awake in class; would love to see him apart from his twin Thanatos",
+     "a": "Hypnos",
+     "right": [
+      "Kim"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 13,
+     "q": "Exteriors of the Salty Whale, a pub in this series, were shot in Rockport, Mass., sans creepy underground chamber",
+     "a": "Widow's Bay",
+     "right": [
+      "Wesley"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 16,
+     "q": "Medieval Muslim historians said this Malian ruler was so generous that he had to borrow money during his return from Mecca",
+     "a": "Mansa Musa",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 22,
+     "q": "\"Jeopardy!\" clues & \"life, liberty & the pursuit of happiness\" lack this punctuation item, a Vampire Weekend song title",
+     "a": "an Oxford comma",
+     "right": [
+      "Wesley"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 12,
+     "q": "This middle layer of the Sun's atmosphere is known for its reddish tinge--it's a real sphere of color",
+     "a": "the chromosphere",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 7,
+     "q": "It's a light 2-wheeled, one-horse carriage, or, in Europe, another name for a high-end convertible",
+     "a": "a cabriolet",
+     "right": [
+      "Ron"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "FAMOUS BUILDINGS",
+  "q": "A replica of it was built for a 1912 exhibition in Earl's Court, 85 years before another opened on the other side of the river",
+  "a": "the Globe Theatre",
+  "right": [
+   "Kim"
+  ],
+  "wrong": [
+   "Ron",
+   "Wesley"
+  ]
+ },
+ "gameId": "9555",
+ "cat_notes": {
+  "J": [
+   "Clues about The Better-than-mid Atlantic States.",
+   "Each answer contains the letter group “BIG”.",
+   "Clues about Adjectives.",
+   "Clues about Hello, Dolly.",
+   "You need to name both books by the same author.",
+   "(Ethan: I'm Ethan Hawke. I've played Americans from the ordinary to the obsessed, and now I'm playing Lee Raybon on The Lowdown; he is definitely the latter. I'll have clues about some of those roles.)."
+  ],
+  "DJ": [
+   "Clues about Report Cards of Mythic Figures.",
+   "Clues about TV Locales.",
+   "Clues about Medieval Names.",
+   "Clues about College Responses.",
+   "Clues about Around the Universe.",
+   "Each answer ends with a silent “T”."
+  ],
+  "F": "Clues about Famous Buildings."
+ }
+}

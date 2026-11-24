@@ -1,0 +1,990 @@
+{
+ "show": "#9628",
+ "aired": "2026-09-30",
+ "note": "",
+ "contestants": [
+  {
+   "name": "Kristin Franke",
+   "bio": "a pastor from Washington, D.C.",
+   "short": "Kristin"
+  },
+  {
+   "name": "Ben Meyerson",
+   "bio": "a political consultant from New York, New York",
+   "short": "Ben"
+  },
+  {
+   "name": "Justin Robbins",
+   "bio": "a graduate student from Murrells Inlet, South Carolina (whose 2-day cash winnings total $38,802)",
+   "short": "Justin"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Justin": 8000,
+   "Ben": 2800,
+   "Kristin": 4600
+  },
+  "DJ": {
+   "Justin": 11800,
+   "Ben": 4400,
+   "Kristin": 10300
+  },
+  "Final": {
+   "Justin": 2999,
+   "Ben": 6400,
+   "Kristin": 8900
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "HISTORIC MEN",
+    "CROSSWORD CLUES \"C\"",
+    "TV SHOW WORKING TITLES",
+    "KID LIT",
+    "HELLO FROM...",
+    "THE OTHER SIDE"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 26,
+     "q": "In 1995 the French army finally declared his innocence publicly, 60 years after his death",
+     "a": "Dreyfus",
+     "right": [
+      "Justin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 25,
+     "q": "Dealer--in a casino\n(8 letters)",
+     "a": "croupier",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 27,
+     "q": "This show about 6 pals was almost called \"Six of One\" or \"Insomnia Cafe\"",
+     "a": "Friends",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 11,
+     "q": "This 6-year-old hotel dweller has a turtle named Skipperdee",
+     "a": "Eloise",
+     "right": [
+      "Kristin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 22,
+     "q": "Hilo or Honolulu:\nThis 3-syllable word",
+     "a": "aloha",
+     "right": [
+      "Justin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 23,
+     "q": "If you're in control, you're idiomatically \"cool as the other side of\" this--maybe a memory foam?",
+     "a": "a pillow",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [
+      "Kristin"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 5,
+     "q": "In 1923, a hail of gunfire took out this man in Parral, Mexico & some claim his remains are there",
+     "a": "(Pancho) Villa",
+     "right": [
+      "Justin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 13,
+     "q": "Favorite red wine from Tuscany\n(7 letters)",
+     "a": "Chianti",
+     "right": [
+      "Kristin"
+     ],
+     "wrong": [
+      "Ben"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 30,
+     "q": "Its placeholder title was \"Lenny, Penny & Kenny\"",
+     "a": "The Big Bang Theory",
+     "right": [],
+     "wrong": [
+      "Justin"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 10,
+     "q": "In \"How the Grinch Stole Christmas\", the title meanie decides to pilfer the holiday from this town",
+     "a": "Whoville",
+     "right": [
+      "Kristin"
+     ],
+     "wrong": [
+      "Justin"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 17,
+     "q": "France, where it's this word, \"good day\" literally & conversationally",
+     "a": "bonjour",
+     "right": [
+      "Justin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 24,
+     "q": "Sure, this fastener created by George de Mestral has little loops, but the little hooks on the other side make it magical",
+     "a": "Velcro",
+     "right": [
+      "Justin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 4,
+     "q": "Very good at remembering guys, D.C.'s Statuary Hall features Jacques Marquette & Robert La Follette as reps for this state",
+     "a": "Wisconsin",
+     "right": [
+      "Justin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 6,
+     "q": "Math term for the 6 in 6x\n(11 letters)",
+     "a": "coefficient",
+     "right": [
+      "Kristin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 2,
+     "q": "Before getting a different state in its name, this Disney Channel show was fitna be called \"Alexis Texas\"",
+     "a": "Hannah Montana",
+     "right": [
+      "Justin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 7,
+     "q": "Munro Leaf wrote \"The Story of\" this peaceful bull that stopped & smelled the flowers",
+     "a": "Ferdinand",
+     "right": [
+      "Kristin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 15,
+     "q": "Jim Carrey in this film:\n\"Good morning, oh, and in case I don't see ya, good afternoon, good evening, and good night!\"",
+     "a": "The Truman Show",
+     "right": [
+      "Justin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 20,
+     "q": "Here's a model of the third iteration of this aptly named Soviet spacecraft which gave us our first views of the far side of the Moon",
+     "a": "Luna",
+     "right": [
+      "Justin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 3,
+     "q": "He said, \"I never met a man I didn't like\" but also opined, \"No man is great if he thinks he is\"",
+     "a": "(Will) Rogers",
+     "right": [
+      "Justin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 12,
+     "q": "Citrus fruit aka a Christmas orange\n(10 letters)",
+     "a": "a clementine",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [
+      "Kristin"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 28,
+     "q": "An executive wanted \n\"The Secret Lives of Women\"; creator Marc Cherry shot that down",
+     "a": "Desperate Housewives",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 8,
+     "q": "\"Dinosaurs Before Dark\" is Book One in this time-traveling series starring siblings Jack & Annie",
+     "a": "the Magic Tree House",
+     "right": [
+      "Kristin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 16,
+     "q": "China; in Mandarin, there are several ways to say the word \"hello\", including this basic 2-syllable one",
+     "a": "ni hao",
+     "right": [
+      "Kristin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 19,
+     "q": "The front of a sheet of paper is called a recto; the other side is the this-o",
+     "a": "verso",
+     "right": [
+      "Kristin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 1,
+     "q": "Tom Lehrer sang, \"'Once the rockets are up, who cares where they come down? That's not my dept.', says\" this German scientist",
+     "a": "(Wernher) von Braun",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 14,
+     "q": "Hasty & superficial, like a glance\n(7 letters)",
+     "a": "cursory",
+     "right": [
+      "Kristin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 29,
+     "q": "This Jean Smart-led show was almost called \"Queen of Nowhere\"",
+     "a": "Hacks",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 9,
+     "q": "Maurice Sendak wrote about Pierre, \"Who only would say\" this phrase that rhymes with his name; his parents get pretty annoyed",
+     "a": "\"I don't care\"",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 18,
+     "q": "The Muslim world, with this Arabic greeting that means \"peace be upon you\"",
+     "a": "As-salamu alaykum",
+     "right": [
+      "Justin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": true,
+     "order": 21,
+     "q": "Someone obliged to take the other side of an argument is one of these, a post that once held sway in canonization",
+     "a": "the devil's advocate",
+     "right": [
+      "Justin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 3000
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "BUSINESS & FINANCE HISTORY",
+    "REMEMBERING DOLLY PARTON",
+    "A GEM OF A CATEGORY",
+    "6-SYLLABLE WORDS",
+    "SCIENCE",
+    "\"L\"AKES & \"R\"IVERS"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 29,
+     "q": "This man's American Fur Company dominated the market during the early 19th century",
+     "a": "(John Jacob) Astor",
+     "right": [
+      "Justin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 30,
+     "q": "Dolly's rise to fame began after she partnered with Porter Wagoner; going solo, she left him with this now-classic song",
+     "a": "\"I Will Always Love You\"",
+     "right": [
+      "Justin"
+     ],
+     "wrong": [
+      "Kristin"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 24,
+     "q": "When judging the quality & value of a diamond, examine its 4 Cs: color, clarity, cut & this measure of heft",
+     "a": "a carat",
+     "right": [
+      "Kristin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 25,
+     "q": "Extinct glyptodonts & trilobites are studied in this scientific discipline",
+     "a": "paleontology",
+     "right": [
+      "Justin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 22,
+     "q": "When making spirits, this process separates alcohol from water via evaporation & condensation",
+     "a": "distilling",
+     "right": [
+      "Kristin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "You take the high road & I'll take the low road to this body of water a little northwest of Glasgow",
+     "a": "Loch Lomond",
+     "right": [],
+     "wrong": [
+      "Kristin"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 6,
+     "q": "Commercial enclaves called kontors were part of this league that dominated Baltic trade from the 13th to 15th centuries",
+     "a": "the Hanseatic League",
+     "right": [
+      "Kristin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 14,
+     "q": "In 1980 Dolly made her big screen acting debut in this film; almost 30 years later, she wrote the songs for the Broadway musical",
+     "a": "9 to 5",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 23,
+     "q": "Also called turtleback, the Isle Royale Greenstone is the official gem of this state",
+     "a": "Michigan",
+     "right": [
+      "Kristin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": true,
+     "order": 15,
+     "q": "It was first used in a book title in a 1559 work subtitled \"Knowledge of the World of Disciplines\"",
+     "a": "encyclopedia",
+     "right": [],
+     "wrong": [
+      "Kristin"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 3500
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 19,
+     "q": "In 2023 scientists plucked chicken feathers for this protein (also found in hair) to help build a fuel cell",
+     "a": "keratin",
+     "right": [
+      "Justin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 17,
+     "q": "In 1944 the Allies failed to hold the crossing of this river at Arnhem, the Netherlands",
+     "a": "the Rhine",
+     "right": [
+      "Justin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 5,
+     "q": "After the 1906 San Francisco earthquake, the underwriter of this British insurer said, \"Pay... policy holders in full\"",
+     "a": "Lloyd's of London",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 3,
+     "q": "Part of Dolly's motivation to open Dollywood in this town near where she grew up was to celebrate regional culture",
+     "a": "Pigeon Forge",
+     "right": [
+      "Justin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 10,
+     "q": "Sailors once took this appropriate gemstone to sea with them for protection, sometimes carved with the image of Poseidon or Neptune",
+     "a": "aquamarine",
+     "right": [
+      "Justin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 7,
+     "q": "City, big city, town--it's any such place with independent political status & powers of self-government",
+     "a": "municipality",
+     "right": [
+      "Kristin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 1,
+     "q": "Herbert H. Dow's museum is near where he succeeded in producing this liquid-at-room-temperature element from brine",
+     "a": "bromine",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 16,
+     "q": "One story says the name of this big & beautiful Swiss lake comes from Latin for \"light\"",
+     "a": "Lucerne",
+     "right": [
+      "Kristin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 9,
+     "q": "The Dutch this was granted a trade monopoly between the Cape of Good Hope & the Straits of Magellan",
+     "a": "East India Company",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 26,
+     "q": "Inspired by a patchwork garment that her mother made for her from rags, Dolly wrote this song, a personal favorite",
+     "a": "\"Coat of Many Colors\"",
+     "right": [],
+     "wrong": [
+      "Justin"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 3000
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 11,
+     "q": "The Andamooka is a famous one of these Australian gemstones; it was presented to Queen Elizabeth on her visit there in 1954",
+     "a": "an opal",
+     "right": [
+      "Kristin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 8,
+     "q": "An overactive gland in the neck causes this condition that speeds up the metabolism & can cause a rapid heartbeat",
+     "a": "hyperthyroidism",
+     "right": [
+      "Justin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 2,
+     "q": "Alpha tocopherol is one of the main forms of this vitamin, a fat-soluble antioxidant",
+     "a": "vitamin E",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 18,
+     "q": "The Fiumicino River got this new/old name after it was identified as the site of an incident from the life of Caesar",
+     "a": "the Rubicon",
+     "right": [
+      "Kristin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 21,
+     "q": "In 1781 this \"Financier of the American Revolution\" founded the Bank of North America in Philadelphia",
+     "a": "Robert Morris",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 28,
+     "q": "One of Dolly’s proudest accomplishments was establishing her book-gifting program with this 2-word name",
+     "a": "the Imagination Library",
+     "right": [
+      "Justin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 12,
+     "q": "In Hindu mythology, this gem is said to be made from solidified lunar rays & will bring good luck as well as arouse passion",
+     "a": "moonstone",
+     "right": [
+      "Kristin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 13,
+     "q": "A division between the mantle & the core, the Wiechert-Gutenberg one is found at a depth of about 1,800 miles",
+     "a": "discontinuity",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 4,
+     "q": "One of the hardest natural substances, corundum is a crystalline form of the oxide of this abundant metal",
+     "a": "aluminum",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 20,
+     "q": "Europe's largest lake, it's just east of St. Petersburg in northwest Russia",
+     "a": "Ladoga",
+     "right": [],
+     "wrong": [
+      "Justin"
+     ],
+     "stumper": true,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "THE MOVIES",
+  "q": "On its 35th anniversary in 2026, this film was said to have \"shattered... gender stereotypes\" & embodied \"unwavering friendship\"",
+  "a": "Thelma & Louise",
+  "right": [
+   "Ben"
+  ],
+  "wrong": [
+   "Kristin",
+   "Justin"
+  ]
+ },
+ "gameId": "9545",
+ "cat_notes": {
+  "J": [
+   "Clues about Historic Men.",
+   "Crossword-style clues; each answer contains “C”.",
+   "Clues about TV Show Working Titles.",
+   "Clues about Kid Lit.",
+   "Clues about Hello From.",
+   "Clues about The Other Side."
+  ],
+  "DJ": [
+   "Clues about Business and Finance History.",
+   "Clues about Remembering Dolly Parton.",
+   "Clues about A Gem of a Category.",
+   "The category “6-SYLLABLE WORDS” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "Clues about Science.",
+   "The category “\"L\"AKES & \"R\"IVERS” sets the theme — the clues follow that idea and any wordplay suggested by the title."
+  ],
+  "F": "Clues about The Movies."
+ }
+}

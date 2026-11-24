@@ -1,0 +1,1001 @@
+{
+ "show": "#9665",
+ "aired": "2026-11-20",
+ "note": "",
+ "contestants": [
+  {
+   "name": "Carey Kennedy",
+   "bio": "a senior HR manager from Oswego, Illinois",
+   "short": "Carey"
+  },
+  {
+   "name": "Dave Cutler",
+   "bio": "a nonprofit manager from Portland, Oregon",
+   "short": "Dave"
+  },
+  {
+   "name": "Solomon Klein",
+   "bio": "an instructional designer from Toronto, Ontario, Canada (whose 2-day cash winnings total $50,000)",
+   "short": "Solomon"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Solomon": 6800,
+   "Dave": 3800,
+   "Carey": 3000
+  },
+  "DJ": {
+   "Solomon": 32000,
+   "Dave": 23000,
+   "Carey": 3800
+  },
+  "Final": {
+   "Solomon": 14000,
+   "Dave": 7601,
+   "Carey": 100
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "NATIONAL PARKS",
+    "CHEMISTRY",
+    "EATYMOLOGY",
+    "LANGUAGE LESSONS",
+    "BEN THERE",
+    "DONE THAT"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 30,
+     "q": "You can observe the \"River of Grass\" from the Pa-Hay-Okee Overlook in this Florida national park",
+     "a": "Everglades",
+     "right": [
+      "Solomon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 29,
+     "q": "It's the process by which a substance below its boiling point transitions from liquid to gas",
+     "a": "vaporization (evaporation)",
+     "right": [
+      "Carey"
+     ],
+     "wrong": [
+      "Dave"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 25,
+     "q": "This family of plants that includes beans & lentils gets its name from the Latin for \"to gather\"",
+     "a": "legumes",
+     "right": [
+      "Carey"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 28,
+     "q": "This French phrase, \"I don't know what\", has a certain...",
+     "a": "je ne sais quoi",
+     "right": [
+      "Carey"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 8,
+     "q": "Despite his long career, Ben Stein's best-loved work may well be the dull repetition of this pronoun in \"Ferris Bueller's Day Off\"",
+     "a": "anyone",
+     "right": [
+      "Solomon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 23,
+     "q": "I've done the aerial type of this practice, which combines acrobatics with traditional asanas",
+     "a": "yoga",
+     "right": [
+      "Carey"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 26,
+     "q": "You may not think of waterfalls in this California national park that averaged 104.5 degrees in summer 2024, but Darwin Falls is 18 feet of rad",
+     "a": "Death Valley",
+     "right": [
+      "Solomon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "Released when your body feels pain or stress, these chemicals get their name partly from the word endogenous",
+     "a": "endorphins",
+     "right": [
+      "Dave"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 24,
+     "q": "In its plural form, this food, basically a folded pizza, is Italian for \"pants\"",
+     "a": "calzone",
+     "right": [
+      "Carey"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 20,
+     "q": "I got a fever! & the only prescription is bis in die, which, translated from Latin, means I take it this way",
+     "a": "twice a day",
+     "right": [
+      "Dave"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 21,
+     "q": "For 18 seasons as a Pittsburgh Steeler, he wore No. 7 in honor of his childhood idol John Elway",
+     "a": "Roethlisberger",
+     "right": [
+      "Dave"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 22,
+     "q": "I've achieved catharsis in one of these alliterative establishments where people pay money to smash stuff",
+     "a": "a rage room",
+     "right": [
+      "Solomon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 17,
+     "q": "Riverside Geyser & Mammoth Hot Springs are features of this vaunted national park",
+     "a": "Yellowstone",
+     "right": [
+      "Solomon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 18,
+     "q": "The noble metals, which show great resistance to oxidation, include these 3 precious ones, atomic nos. 47, 78 & 79",
+     "a": "silver, gold & platinum",
+     "right": [
+      "Solomon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 19,
+     "q": "The Indian dish murgh makhani translates to this in English after two of its ingredients",
+     "a": "butter chicken",
+     "right": [
+      "Solomon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 7,
+     "q": "New to the OED, gigil, an intense feeling--like after seeing 2 adorable babies--is a borrowing from this Filipino language",
+     "a": "Tagalog",
+     "right": [
+      "Solomon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 9,
+     "q": "Dustin Hoffman & Barbra Streisand have played this actor's parents in 2 films",
+     "a": "Ben Stiller",
+     "right": [
+      "Dave"
+     ],
+     "wrong": [
+      "Solomon"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 12,
+     "q": "I've viewed foliage on a canopy tour harnessed to this contraption, a source of revenue for many ski resorts during the offseason",
+     "a": "a zip line",
+     "right": [
+      "Dave"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 2,
+     "q": "Hawaii Volcanoes National Park includes Mauna Loa & this, the world's most active volcano",
+     "a": "Kilauea",
+     "right": [],
+     "wrong": [
+      "Solomon"
+     ],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 13,
+     "q": "Located in the digestive system, lactase is one of these biological catalysts that breaks down the sugars in milk",
+     "a": "an enzyme",
+     "right": [
+      "Dave"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 1,
+     "q": "French & fun to say, it's a complimentary appetizer that is literally designed to \"entertain the mouth\"",
+     "a": "amuse-bouche",
+     "right": [
+      "Dave"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 3,
+     "q": "German words for \"time\" & \"spirit\" combine into this one used to define the mood of an era",
+     "a": "Zeitgeist",
+     "right": [
+      "Solomon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 6,
+     "q": "Big in the aughts, this pop punk band got its name from a book that twin brothers Benji & Joel Madden read as kids",
+     "a": "Good Charlotte",
+     "right": [
+      "Carey"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 10,
+     "q": "I've engaged in this centuries-old activity, now a trendy target sport; the first league formed in 2006 in a Toronto backyard",
+     "a": "axe throwing",
+     "right": [
+      "Solomon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 15,
+     "q": "What the Lakota named \"Mako Sica\" & the French called \"Les Mauvaises Terres à Traverser\" became this South Dakota natl. park",
+     "a": "Badlands",
+     "right": [
+      "Carey"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 14,
+     "q": "These substances have a positive or negative charge when dissolved in water; they are also part of \"what plants crave\" on film",
+     "a": "electrolytes",
+     "right": [
+      "Solomon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 4,
+     "q": "While their name means \"badly baked\", don't be misled--these sugar-coated donuts that are Hawaiian by way of Portugal are delish",
+     "a": "malassadas",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 16,
+     "q": "Let's speak Russian; this means \"goodbye\", & the first part is a big clue on starting to say it\n\nДо свидания",
+     "a": "Do svidaniya",
+     "right": [
+      "Solomon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": true,
+     "order": 5,
+     "q": "After changing his Indian name, this actor born Krishna Bhanji won an Oscar playing one of history's most famous Indians",
+     "a": "Ben Kingsley",
+     "right": [
+      "Solomon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1000
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 11,
+     "q": "I've gotten one of these TikTok-famous spa treatments, aka ichthyotherapy, that originated in the hot springs of Turkey",
+     "a": "a fish pedicure",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "HISTORIC AMERICANS",
+    "LITERARY DEDICATIONS",
+    "MUSICAL THEATER",
+    "IT'S ALL MINES",
+    "FEISTY LANGUAGE",
+    "THE METROPOLITAN MUSEUM OF ART"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 23,
+     "q": "In 2014 the Mormon Church acknowledged that this founder of the church had as many as 40 wives",
+     "a": "(Joseph) Smith",
+     "right": [
+      "Solomon"
+     ],
+     "wrong": [
+      "Carey"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 25,
+     "q": "Lord Byron mockingly dedicated \"Don Juan\" to Robert Southey, a former radical who in this job was writing poems for George III",
+     "a": "the poet laureate",
+     "right": [
+      "Solomon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 29,
+     "q": "Musical numbers in a parody of this TV show include \"The Dundies\" & \"Marry Me Beesly\"",
+     "a": "The Office",
+     "right": [
+      "Dave"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 28,
+     "q": "This hard, black coal of the highest metamorphic rank has a fixed carbon content between 86 & 98%",
+     "a": "anthracite",
+     "right": [
+      "Solomon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 21,
+     "q": "It can describe a corporate takeover where an entity buys a company despite objections",
+     "a": "hostile",
+     "right": [
+      "Dave"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 30,
+     "q": "You can check out a 4th century B.C. gold ring engraved with an image of this Greek messenger god",
+     "a": "Hermes",
+     "right": [
+      "Carey"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": true,
+     "order": 22,
+     "q": "The 2026 Figures of the American Revolution Forever stamps run alphabetically from this first lady to George Washington",
+     "a": "Abigail Adams",
+     "right": [
+      "Dave"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 10000
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 24,
+     "q": "This Beat man dedicated his \"Visions of Cody\" \"to America, whatever that is\"; guess he didn't find out on the road",
+     "a": "Kerouac",
+     "right": [
+      "Solomon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 26,
+     "q": "These 2 characters from \"West Side Story\" are based on Romeo & Juliet",
+     "a": "Tony & Maria",
+     "right": [
+      "Dave"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 27,
+     "q": "This Austrian city was named for nearby salt mines whose product was even used as a form of payment",
+     "a": "Salzburg",
+     "right": [
+      "Dave"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 20,
+     "q": "Alliteratively found before \"pear\" in the name of a spiny fruit, it can mean \"ill-tempered\"",
+     "a": "prickly",
+     "right": [
+      "Carey"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 19,
+     "q": "In 2026, the Met had a show devoted to the sublime poetry of this Italian Renaissance painter of the \"Alba Madonna\"",
+     "a": "Raphael",
+     "right": [
+      "Solomon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 13,
+     "q": "He was 70 when the first edition of his \"American Dictionary of the English Language\" was published in 1828",
+     "a": "Webster",
+     "right": [
+      "Dave"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 12,
+     "q": "This novel is dedicated \"Once again to Zelda\"",
+     "a": "The Great Gatsby",
+     "right": [
+      "Solomon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 1,
+     "q": "This Tony-winning musical ends with Frankie Valli & the Four Seasons singing \"Who Loves You\"",
+     "a": "Jersey Boys",
+     "right": [
+      "Solomon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 18,
+     "q": "White damp is a mining term for carbon monoxide, one of the deadly gases this sentinel species was meant to signal",
+     "a": "a canary",
+     "right": [
+      "Solomon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 16,
+     "q": "Scaramouche, a commedia dell'arte stock character who was easily scared, gave us this word for a petty fight",
+     "a": "skirmish",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 17,
+     "q": "Here's an iconic work by this American on view at the Met",
+     "a": "O'Keeffe",
+     "right": [
+      "Solomon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 10,
+     "q": "There really was a Hiawatha & he co-founded this Confederacy of 5, later 6, Native American nations",
+     "a": "the Iroquois (the Haudenosaunee)",
+     "right": [
+      "Dave"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 3,
+     "q": "This poet's work about farming, the \"Georgics\", was dedicated to Maecenas, a fabulously wealthy Roman patron",
+     "a": "Virgil",
+     "right": [
+      "Solomon"
+     ],
+     "wrong": [
+      "Dave"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 2,
+     "q": "Michael Crawford & Sarah Brightman were in the opening night cast of this musical in both London & on Broadway",
+     "a": "The Phantom of the Opera",
+     "right": [
+      "Solomon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 8,
+     "q": "This type of open-pit, or surface, mine is used to extract stone for building materials",
+     "a": "a quarry",
+     "right": [
+      "Dave"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 14,
+     "q": "In Greek mythology Eris was the goddess of this, now a modern forum for online group chats",
+     "a": "discord",
+     "right": [
+      "Solomon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 6,
+     "q": "A sculpture by Rodin at the Met shows this hero covering his eyes while the spirit of his beloved floats behind him",
+     "a": "Orpheus",
+     "right": [
+      "Solomon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 11,
+     "q": "Before she ran for president in 1872, she & her sister opened a stock brokerage firm with backing from Cornelius Vanderbilt",
+     "a": "(Victoria) Woodhull",
+     "right": [
+      "Solomon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 4,
+     "q": "This hard-living Los Angeles poet's 1971 novel \"Post Office\" \"is presented as a work of fiction & dedicated to nobody\"",
+     "a": "Bukowski",
+     "right": [
+      "Solomon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": true,
+     "order": 5,
+     "q": "This Lerner & Loewe musical was based on T.H. White's \"The Once & Future King\"",
+     "a": "Camelot",
+     "right": [
+      "Solomon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 5200
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 9,
+     "q": "Water in mines was a big problem until this Scot's 18th century steam engine innovations allowed for pumping",
+     "a": "James Watt",
+     "right": [
+      "Dave"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 15,
+     "q": "Derived from a form of the Latin adjective trux, it can mean deadly or belligerent",
+     "a": "truculent",
+     "right": [
+      "Solomon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 7,
+     "q": "A Met exhibit opening in fall 2026 pairs Jackson Pollock & this wife, an established abstract artist even before she met him",
+     "a": "(Lee) Krasner",
+     "right": [
+      "Dave"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "PLACE NAME MEANINGS",
+  "q": "In Ukrainian, it means \"wormwood\", also the name of a star in Revelation that poisons 1/3 of the Earth's water & causes many to die",
+  "a": "Chernobyl",
+  "right": [],
+  "wrong": [
+   "Carey",
+   "Dave",
+   "Solomon"
+  ]
+ },
+ "gameId": "9582",
+ "cat_notes": {
+  "J": [
+   "Clues about National Parks.",
+   "Clues about Chemistry.",
+   "Clues about Eatymology.",
+   "Clues about Language Lessons.",
+   "Clues about Ben There.",
+   "Clues about Done That."
+  ],
+  "DJ": [
+   "Clues about Historic Americans.",
+   "Clues about Literary Dedications.",
+   "Clues about Musical Theater.",
+   "The category “IT'S ALL MINES” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "Clues about Feisty Language.",
+   "Clues about The Metropolitan Museum of Art."
+  ],
+  "F": "Clues about Place Name Meanings."
+ }
+}
