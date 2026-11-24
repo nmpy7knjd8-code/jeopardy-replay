@@ -1,0 +1,970 @@
+{
+ "show": "#7225",
+ "aired": "2016-01-29",
+ "note": "",
+ "contestants": [
+  {
+   "name": "Sandy Hall",
+   "bio": "a nurse residency program manager originally from Evansville, Indiana",
+   "short": "Sandy"
+  },
+  {
+   "name": "Chris Becker",
+   "bio": "a bus driver and trainer from Orlando, Florida",
+   "short": "Chris"
+  },
+  {
+   "name": "Mara Apostol",
+   "bio": "a criminal defense attorney from Miami, Florida (whose 1-day cash winnings total $16,801)",
+   "short": "Mara"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Mara": 7800,
+   "Chris": 5800,
+   "Sandy": 5000
+  },
+  "DJ": {
+   "Mara": 12200,
+   "Chris": 21400,
+   "Sandy": 9800
+  },
+  "Final": {
+   "Mara": 2999,
+   "Chris": 18399,
+   "Sandy": 1
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "WHICH NYC BOROUGH?",
+    "ANAGRAMMED BOOKS OF THE BIBLE",
+    "ALPHABET SOUP",
+    "LONG-RUNNING SITCOMS",
+    "DOUBLE-LETTER BRANDS BY SLOGAN",
+    "PO PRESENTS UNCONVENTIONAL WARRIORS"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 21,
+     "q": "Has its name on a ferry that transports approximately 70,000 passengers each weekday",
+     "a": "Staten Island",
+     "right": [
+      "Mara"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "DENIAL",
+     "a": "Daniel",
+     "right": [
+      "Mara"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 16,
+     "q": "Served with or without matzo balls, C is for this soup \"for the Soul\"",
+     "a": "chicken soup",
+     "right": [
+      "Mara"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 3,
+     "q": "Dwight Schrute, on this sitcom: \"I did not become a... volunteer sheriff's deputy to make friends. & by the way, I haven't\"",
+     "a": "The Office",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 11,
+     "q": "\"When you care enough to send the very best\"",
+     "a": "Hallmark",
+     "right": [
+      "Sandy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 26,
+     "q": "(Po delivers the clue.) This British admiral, killed during his greatest victory at Trafalgar, was blind in one eye but didn't wear an eyepatch. You know I would have. Nobody messes with you when you wear an eyepatch",
+     "a": "(Horatio) Nelson",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 22,
+     "q": "Shares its name with a city in northeastern Kansas",
+     "a": "Manhattan",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "OX DUES",
+     "a": "Exodus",
+     "right": [
+      "Sandy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 17,
+     "q": "T is for this soup that's paired with grilled cheese on the Campbell's Kitchen website",
+     "a": "tomato",
+     "right": [
+      "Mara"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 7,
+     "q": "Episodes of this 1970s show included \"Some 38th Parallels\" & \"Patent 4077\"",
+     "a": "M*A*S*H",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 12,
+     "q": "\"The best a man can get\"",
+     "a": "Gillette",
+     "right": [
+      "Mara"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 28,
+     "q": "(Po delivers the clue.) This Danish master wrote a tale about a brave one-legged tin soldier & his love for a tiny toy dancer; he ended up being melted by the fire into the shape of a heart--sorry, that one always kinda gets me",
+     "a": "Hans Christian Andersen",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 23,
+     "q": "Is home to Coney Island",
+     "a": "Brooklyn",
+     "right": [
+      "Mara"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 4,
+     "q": "VIOLENT ERA",
+     "a": "Revelation",
+     "right": [
+      "Mara"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 18,
+     "q": "\"F\" is for this soup with a little cheesy goodness on top",
+     "a": "French onion soup",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 8,
+     "q": "On \"The Simpsons\" this character said, \"You may remember me from such medical films as 'Alice Doesn't Live Anymore'\"",
+     "a": "Troy McClure",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 13,
+     "q": "\"Think outside the bun\"",
+     "a": "Taco Bell",
+     "right": [
+      "Mara"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 27,
+     "q": "(Po delivers the clue.) In the American Revolution, I would have been grateful to this woman for bringing water in the heat of battle... though Molly Bowl of Noodles & Molly Dessert would have been nice to see, too",
+     "a": "(Molly) Pitcher",
+     "right": [
+      "Sandy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 24,
+     "q": "Is the only one entirely on the U.S. mainland",
+     "a": "the Bronx",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 5,
+     "q": "HER WEBS",
+     "a": "Hebrews",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 19,
+     "q": "B is for this thick 6-letter soup, perhaps lobster or mushroom",
+     "a": "bisque",
+     "right": [
+      "Mara"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 9,
+     "q": "Mark Wahlberg produced & guest starred on this series that ran on HBO from 2004 to 2011",
+     "a": "Entourage",
+     "right": [
+      "Sandy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": true,
+     "order": 14,
+     "q": "\"The toughest 4-letter word on wheels\"",
+     "a": "Jeep",
+     "right": [
+      "Mara"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2800
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "(Po delivers the clue.) I'm a big fan of this Shakespeare knight but Prince Hal ends up telling him, \"the grave doth gape for thee thrice wider\"--c'mon, that's not what you say to an old buddy",
+     "a": "Sir John Falstaff",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 25,
+     "q": "Hosted the 1939 & 1964 World's Fairs",
+     "a": "Queens",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 6,
+     "q": "SEE SIGN",
+     "a": "Genesis",
+     "right": [
+      "Mara"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 20,
+     "q": "A is for this spicy Mexican soup whose name is Spanish for \"meatball\"",
+     "a": "albóndigas",
+     "right": [
+      "Sandy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 10,
+     "q": "Before he was Leonard on \"The Big Bang Theory\", this actor made out with future co-star Mayim Bialik on \"Blossom\"",
+     "a": "Johnny Galecki",
+     "right": [
+      "Sandy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 15,
+     "q": "\"A diamond is forever\"",
+     "a": "De Beers",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 30,
+     "q": "(Po delivers the clue.) Jordan Noble was just 14 when he played the long roll in this 1815 battle, Andrew Jackson's victory over the British; so was a drummer, but's that's OK. We can't alI be, you know, in the thick of the fight",
+     "a": "the Battle of New Orleans",
+     "right": [
+      "Sandy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "ROTTEN TOMATOES",
+    "WHERE'S THAT BOOK?",
+    "SENIOR-ITIS",
+    "STARTS & ENDS WITH DIFFERENT VOWELS",
+    "THE WESTERN HEMISPHERE",
+    "BAND WITH"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "In the early 1900s some ketchup used rotten tomatoes masked by sodium benzoate, but this co. went artificial-preservative-free",
+     "a": "Heinz",
+     "right": [
+      "Mara"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 7,
+     "q": "\"Where the Sidewalk Ends\" is a collection of his poems & drawings",
+     "a": "Shel Silverstein",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 5,
+     "q": "In 1952 Thomas Watson Sr. turned over the presidency of this tech company to Thomas Jr.",
+     "a": "IBM",
+     "right": [
+      "Sandy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 12,
+     "q": "Leo Durocher said that he \"never questioned the integrity of\" one; his eyesight, yes",
+     "a": "umpire",
+     "right": [
+      "Sandy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 26,
+     "q": "The area of this capital of Peru stretches over 1,500 square miles",
+     "a": "Lima",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 21,
+     "q": "Freddie Mercury &\nBrian May",
+     "a": "Queen",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 2,
+     "q": "Begun during the Franco era, the tomato-hurling event known as \"La Tomatina\" is a fixture of this country",
+     "a": "Spain",
+     "right": [
+      "Sandy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 8,
+     "q": "This title of E.M. Forster's first novel completes the line \"fools rush in...\"",
+     "a": "where angels fear to tread",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 17,
+     "q": "This \"senior\" pastor was born with the first name Michael but changed that to Martin & did the same for his son",
+     "a": "Martin Luther King",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 13,
+     "q": "From the Latin for \"not known\", it means having one's identity concealed",
+     "a": "incognito",
+     "right": [
+      "Sandy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 28,
+     "q": "(Sarah of the Clue Crew shows a map on the monitor.) The National Oceanic and Atmospheric Administration has officially said that bad weather & poor navigation were to blame for any loss of transports in the area between Miami, Puerto Rico & this island",
+     "a": "Bermuda",
+     "right": [
+      "Mara"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 22,
+     "q": "Mike Love,\nAl Jardine &\nthe Wilson brothers",
+     "a": "the Beach Boys",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 3,
+     "q": "On PETA's website you can play a video game where you throw tomatoes at people who wear this",
+     "a": "fur",
+     "right": [
+      "Mara"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 9,
+     "q": "If you are looking for the title guy of this series, you might also spot his gal pal Wenda & his foe Odlaw",
+     "a": "Waldo",
+     "right": [
+      "Sandy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 18,
+     "q": "This sr. hit 152 home runs in his major league career; add Jr.'s total & you get 782",
+     "a": "Ken Griffey",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": true,
+     "order": 14,
+     "q": "A term for military weapons, ammunition & combat vehicles; insert an \"I\" & you get a statute",
+     "a": "ordnance",
+     "right": [],
+     "wrong": [
+      "Sandy"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2000
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 29,
+     "q": "\"Canada's Breadbasket\", this province is sandwiched between Alberta & Manitoba, eh?",
+     "a": "Saskatchewan",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 23,
+     "q": "Eddie Vedder on vocals",
+     "a": "Pearl Jam",
+     "right": [
+      "Sandy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 4,
+     "q": "In 2013 Russian activists pelted King Willem-Alexander of this country with tomatoes",
+     "a": "the Netherlands",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 10,
+     "q": "Max is wearing his wolf suit & causing mischief at the start of this Sendak classic",
+     "a": "Where the Wild Things Are",
+     "right": [
+      "Sandy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2000
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 19,
+     "q": "This \"Father of the Waltz\" (& of Jr.) composed more than 150 waltzes",
+     "a": "Johann Strauss",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 15,
+     "q": "You'll find K-I, ki, meaning \"energy\", within the name of this martial art",
+     "a": "aikido",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 27,
+     "q": "Rivers emptying into this gulf include the Sonora & Colorado",
+     "a": "the Gulf of California",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 24,
+     "q": "Richie Sambora on guitar",
+     "a": "Bon Jovi",
+     "right": [],
+     "wrong": [
+      "Chris"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 6,
+     "q": "When people don't get enough of this element, it may lead to osteoporosis; when tomatoes don't, they get blossom end rot",
+     "a": "calcium",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 11,
+     "q": "In Maria Semple's novel, Bee is the daughter of this woman & asks the title question, \"Where'd you go\"",
+     "a": "Bernadette",
+     "right": [
+      "Mara"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 20,
+     "q": "Around 1830 this pere wrote a series of historical plays like \"Napoleon Bonaparte\"",
+     "a": "Alexandre Dumas (Père)",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 16,
+     "q": "It's the central dark spot of the shadow cast by the Moon or Earth during an eclipse",
+     "a": "umbra",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 30,
+     "q": "It's believed that Lake Nicaragua & this city-named lake to the northwest once formed part of a Pacific Ocean bay",
+     "a": "Managua",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 25,
+     "q": "Donald Fagen &\nWalter Becker",
+     "a": "Steely Dan",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "THE AMERICAN REVOLUTION",
+  "q": "He wrote, \"As life and fortune are risked by serving his majesty, it is necessary that the latter shall be secured\"",
+  "a": "Benedict Arnold",
+  "right": [],
+  "wrong": [
+   "Sandy",
+   "Mara",
+   "Chris"
+  ]
+ },
+ "gameId": "5178"
+}

@@ -1,0 +1,975 @@
+{
+ "show": "#7288",
+ "aired": "2016-04-27",
+ "note": "Buzzy Cohen game 3.",
+ "contestants": [
+  {
+   "name": "Joe Indiviglia",
+   "bio": "a real estate marketer from San Diego, California",
+   "short": "Joe"
+  },
+  {
+   "name": "Ellen Plitt",
+   "bio": "an emergency room nurse from St. Louis, Missouri",
+   "short": "Ellen"
+  },
+  {
+   "name": "Buzzy Cohen",
+   "bio": "a music executive from Los Angeles, California (whose 2-day cash winnings total $50,002)",
+   "short": "Buzzy"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Buzzy": 6000,
+   "Ellen": 5200,
+   "Joe": 800
+  },
+  "DJ": {
+   "Buzzy": 13800,
+   "Ellen": 9600,
+   "Joe": 4000
+  },
+  "Final": {
+   "Buzzy": 8399,
+   "Ellen": 5399,
+   "Joe": 7995
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "THE POLITICS OF TV",
+    "DOUBLE DOUBLE LETTERS",
+    "MILITARY NICKNAMES",
+    "YOU AUTO KNOW",
+    "SLEUTHS & THEIR CREATORS",
+    "SWEET AISLE OF MINE"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 2,
+     "q": "On this series, Robin Wright isn't just the First Lady--she was also U.S. ambassador to the United Nations",
+     "a": "House of Cards",
+     "right": [
+      "Buzzy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 9,
+     "q": "Aphrodite or Artemis",
+     "a": "goddess",
+     "right": [
+      "Ellen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 15,
+     "q": "To his troops this WWII general was \"Dugout Doug\" because he was rarely seen out of his tunnels in Corregidor",
+     "a": "(Douglas) MacArthur",
+     "right": [
+      "Buzzy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "An automobile odor eliminator from Chemical Guys is named for this 3-word quality of fresh vehicles",
+     "a": "new car smell",
+     "right": [
+      "Joe"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 8,
+     "q": "Sherlock Holmes",
+     "a": "Sir Arthur Conan Doyle",
+     "right": [
+      "Buzzy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 24,
+     "q": "One favorite on the sweet aisle is the Y.S. Bee Farms brand of the clover type of this product",
+     "a": "honey",
+     "right": [
+      "Joe"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 6,
+     "q": "This actor went from being Roseanne's TV hubby to senator Gil John Biggs on \"Alpha House\"",
+     "a": "John Goodman",
+     "right": [
+      "Buzzy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 16,
+     "q": "No mask, but the kinkajou seen here is a member of this animal family",
+     "a": "raccoon",
+     "right": [
+      "Buzzy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 20,
+     "q": "When banished to Elba, he told his people he'd return with the violets & he did, receiving the nickname \"Corporal Violet\"",
+     "a": "Napoléon",
+     "right": [
+      "Ellen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 3,
+     "q": "This feature that amplifies turning force makes parallel parking a lot easier",
+     "a": "power steering",
+     "right": [
+      "Buzzy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 10,
+     "q": "Jesse Stone &\nSpenser (for hire)",
+     "a": "Robert Parker",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 25,
+     "q": "Kraft has big bags of these white things called Jet-Puffed that don't seem to weigh a lot",
+     "a": "marshmallows",
+     "right": [
+      "Buzzy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 14,
+     "q": "Joshua Malina plays the Attorney General on this show that's technically set in D.C. but c'mon, it's in Shondaland",
+     "a": "Scandal",
+     "right": [
+      "Ellen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 17,
+     "q": "It's the only state with exactly 2 pairs of double letters",
+     "a": "Massachusetts",
+     "right": [],
+     "wrong": [
+      "Joe"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 21,
+     "q": "German general Heinz Guderian was called the \"Father of\" this lightning war",
+     "a": "Blitzkrieg",
+     "right": [
+      "Ellen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 4,
+     "q": "\"Let's get ready to\" sit in this folding outside seat in the back of some early automobiles",
+     "a": "a rumble seat",
+     "right": [
+      "Ellen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 11,
+     "q": "Philip Marlowe",
+     "a": "(Raymond) Chandler",
+     "right": [
+      "Joe"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 26,
+     "q": "This product that comes in original, lite & sugar-free varieties shares a name with honest Abe's boyhood dwelling",
+     "a": "Log Cabin Syrup",
+     "right": [
+      "Joe"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "This 1980s \"Soap\" spin-off had its main character go from running the governor's household to being lt. gov. himself",
+     "a": "Benson",
+     "right": [
+      "Ellen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 18,
+     "q": "Oui, it's a clasp for holding a girl's hair in place",
+     "a": "a barrette",
+     "right": [
+      "Buzzy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 22,
+     "q": "This British field marshal was \"Monty\" & the \"Spartan General\", for his Spartan habits",
+     "a": "Montgomery",
+     "right": [
+      "Buzzy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 5,
+     "q": "In 2013 Toyota sold its 40 millionth of this model, accounting for 1 in 5 of all Toyotas ever sold worldwide",
+     "a": "the Corolla",
+     "right": [
+      "Joe"
+     ],
+     "wrong": [
+      "Buzzy"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 12,
+     "q": "Adam Dalgliesh",
+     "a": "P.D. James",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 27,
+     "q": "C&H or Domino is a good choice for this colorful stuff containing oodles of molasses",
+     "a": "brown sugar",
+     "right": [
+      "Buzzy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 30,
+     "q": "As Chief of Staff Teddy Sykes, Patton Oswalt was unafraid to give Jonah a hand on this comedy",
+     "a": "Veep",
+     "right": [
+      "Buzzy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 19,
+     "q": "Withhold from publication, or stop a rebellion",
+     "a": "suppress",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": true,
+     "order": 23,
+     "q": "He said his people called him the \"Victor of Tampico\" but Davy Crockett probably had a few other nicknames for him",
+     "a": "(Antonio López de) Santa Anna",
+     "right": [
+      "Buzzy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1200
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 7,
+     "q": "After being in a car accident with his wife & daughter in 1952, John Hetrick was inspired to invent these",
+     "a": "airbags",
+     "right": [
+      "Ellen"
+     ],
+     "wrong": [
+      "Joe"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 13,
+     "q": "Jane Rizzoli",
+     "a": "Tess Gerritsen",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 28,
+     "q": "Nutella is a spread made of these nuts with skim milk & cocoa",
+     "a": "hazelnuts",
+     "right": [
+      "Ellen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "THUS SAYETH THE LORD",
+    "12-LETTER WORDS",
+    "ON THE MOVIE'S SOUNDTRACK",
+    "AMERICAN ARCHITECTS",
+    "VETERINARY MEDICINE",
+    "SWEET ISLE OF MINE"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "To Moses:\n\"When thou goest to return into ____, see that thou do all those wonders before Pharaoh\"",
+     "a": "Egypt",
+     "right": [
+      "Buzzy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 11,
+     "q": "A good cop or a bad cop may be this person who asks you formal questions in an investigation",
+     "a": "an interrogator",
+     "right": [
+      "Buzzy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 6,
+     "q": "1972:\n\"Connie's Wedding\",\n\"Sicilian Pastorale\",\n\"The Baptism\"",
+     "a": "The Godfather",
+     "right": [
+      "Buzzy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 19,
+     "q": "After the crash of 1929, he began designing his \"Usonian\" homes, affordable housing for the middle class",
+     "a": "Frank Lloyd Wright",
+     "right": [
+      "Buzzy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 12,
+     "q": "(Sarah of the Clue Crew reports from UC Davis Veterinary Hospital.) Researchers at UC Davis are making great strides in regenerative medicine & in the treatment of various injuries and diseases using these--not the controversial kind from embryos, but from bone marrow & fat tissue",
+     "a": "stem cells",
+     "right": [
+      "Buzzy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 26,
+     "q": "Kodiak Island",
+     "a": "the United States",
+     "right": [
+      "Ellen"
+     ],
+     "wrong": [
+      "Buzzy"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 2,
+     "q": "To Cain:\n\"Where is Abel thy ____?\"",
+     "a": "brother",
+     "right": [
+      "Ellen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 16,
+     "q": "A comedian to the end, Rodney Dangerfield has as his epitaph \"There goes\" this region",
+     "a": "the neighborhood",
+     "right": [
+      "Buzzy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 7,
+     "q": "2005:\n\"Get Rhythm\",\n\"Wildwood Flower\",\n\"Jackson\"",
+     "a": "Walk the Line",
+     "right": [
+      "Ellen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 20,
+     "q": "In 1906 Stanford White was killed by the jealous husband of a showgirl at this NYC sports arena he designed",
+     "a": "Madison Square Garden",
+     "right": [
+      "Buzzy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 13,
+     "q": "Dogs should never eat these Hawaiian nuts, as they contain a toxin that can affect the nervous system",
+     "a": "Macadamia nuts",
+     "right": [
+      "Ellen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 27,
+     "q": "October Revolution Island",
+     "a": "Russia",
+     "right": [],
+     "wrong": [
+      "Joe"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 3,
+     "q": "To Adam:\n\"Who told thee that thou wast ____?\"",
+     "a": "naked",
+     "right": [
+      "Buzzy"
+     ],
+     "wrong": [
+      "Joe"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 17,
+     "q": "Compulsory enrollment in the military",
+     "a": "conscription",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 8,
+     "q": "2014:\n\"The Wormhole\",\n\"A Place Among The Stars\"",
+     "a": "Interstellar",
+     "right": [
+      "Joe"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 21,
+     "q": "Welton Becket & associates designed the round headquarters for this record label on Vine Street in Los Angeles",
+     "a": "Capitol Records",
+     "right": [
+      "Buzzy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 14,
+     "q": "(Jimmy of the Clue Crew reports from UC Davis Veterinary Hospital.) In 1990, the hospital established the first facility in the country to provide this service for pets that uses an artificial kidney to remove waste from the blood",
+     "a": "dialysis",
+     "right": [
+      "Joe"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 28,
+     "q": "East Wallabi Island",
+     "a": "Australia",
+     "right": [
+      "Joe"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 4,
+     "q": "To Joshua:\n\"Take you twelve men out of the people, out of every ____ a man\"",
+     "a": "tribe",
+     "right": [
+      "Buzzy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 18,
+     "q": "Paul Ehrlich coined this term for treating a disease with specific drugs",
+     "a": "chemotherapy",
+     "right": [],
+     "wrong": [
+      "Buzzy"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2000
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 9,
+     "q": "1964:\n\"Oddjob's Pressing Engagement\",\n\"Dawn Raid On Fort Knox\"",
+     "a": "Goldfinger",
+     "right": [
+      "Ellen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 22,
+     "q": "This Finnish American is seen here seated in a prototype of his womb chair in 1947",
+     "a": "Saarinen",
+     "right": [
+      "Joe"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 15,
+     "q": "Animal diseases that can be transmitted to humans are called zoonoses & include psittacosis, also called this fever",
+     "a": "parrot fever",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 29,
+     "q": "Zealand, aka Sjaelland",
+     "a": "Denmark",
+     "right": [
+      "Buzzy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 5,
+     "q": "To Noah:\n\"With thee will I establish my ____\"",
+     "a": "covenant",
+     "right": [
+      "Buzzy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 23,
+     "q": "Dorothy Parker said, \"Wit has truth in it; wisecracking is simply\" these exercises \"with words\"",
+     "a": "calisthenics",
+     "right": [
+      "Buzzy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 10,
+     "q": "1995:\n\"A Gift Of A Thistle\",\n\"The Battle Of Stirling\"",
+     "a": "Braveheart",
+     "right": [
+      "Joe"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": true,
+     "order": 24,
+     "q": "Henry Richardson influenced the Chicago school with such designs as the Glessner House & this department store",
+     "a": "Marshall Field's",
+     "right": [],
+     "wrong": [
+      "Buzzy"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 3000
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 25,
+     "q": "This \"Incredible\" vet has his own TV series on Nat Geo Wild that follows his practice in Central Michigan's farm country",
+     "a": "Dr. Jan Pol",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 30,
+     "q": "Celebes",
+     "a": "Indonesia",
+     "right": [],
+     "wrong": [
+      "Joe"
+     ],
+     "stumper": true,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "AMERICAN HISTORY",
+  "q": "\"A stimulus to the courageous\", the $25,000 Orteig Prize offer of 1919 resulted in his success 8 years later",
+  "a": "Lindbergh",
+  "right": [
+   "Joe"
+  ],
+  "wrong": [
+   "Ellen",
+   "Buzzy"
+  ]
+ },
+ "gameId": "5263"
+}

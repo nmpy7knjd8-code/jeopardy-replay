@@ -1,0 +1,975 @@
+{
+ "show": "#7318",
+ "aired": "2016-06-08",
+ "note": "Hunter Appler game 1.",
+ "contestants": [
+  {
+   "name": "Torrey Livenick",
+   "bio": "a law student originally from Las Vegas, Nevada",
+   "short": "Torrey"
+  },
+  {
+   "name": "Hunter Appler",
+   "bio": "an attorney originally from Mount Airy, North Carolina",
+   "short": "Hunter"
+  },
+  {
+   "name": "Stew Latwin",
+   "bio": "a Navy pilot originally from Rye, New York (whose 2-day cash winnings total $42,601)",
+   "short": "Stew"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Stew": 4200,
+   "Hunter": 3200,
+   "Torrey": 4200
+  },
+  "DJ": {
+   "Stew": 7400,
+   "Hunter": 14200,
+   "Torrey": 12400
+  },
+  "Final": {
+   "Stew": 14798,
+   "Hunter": 24801,
+   "Torrey": 400
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "BEST MUSICAL ACTOR TONY WINNERS",
+    "HISTORY IN ART",
+    "SURROUNDED BY STATISTICS",
+    "DOUBLE \"R\"",
+    "DIRTY BIRDS",
+    "HOW JUVENILE!"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 22,
+     "q": "2001:\nAs Max Bialystock in \"The Producers\"",
+     "a": "Nathan Lane",
+     "right": [
+      "Stew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 6,
+     "q": "Michelangelo took a stab at carving a bust of this slayer of Julius Caesar",
+     "a": "Brutus",
+     "right": [
+      "Hunter"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 9,
+     "q": "(Sarah of the Clue Crew does jumping jacks, lunges, and runs in place.) 30 minutes of exercise a day will improve this measure of vitality, marked for Americans at approximately 79 years",
+     "a": "lifespan",
+     "right": [
+      "Hunter"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 13,
+     "q": "It completes the motto of Mad magazine's zany icon Alfred E. Neuman: \"What--me...\"",
+     "a": "worry?",
+     "right": [
+      "Hunter"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 21,
+     "q": "Hardened sap from its drill holes typically surrounds the nest of the red-cockaded this",
+     "a": "woodpecker",
+     "right": [
+      "Stew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "Go for the whole caboodle with this word--a young, small, furbearing animal such as a fox",
+     "a": "a kit",
+     "right": [
+      "Stew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 23,
+     "q": "1988:\nAs the Phantom in \"Phantom of the Opera\"",
+     "a": "Michael Crawford",
+     "right": [
+      "Hunter"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": true,
+     "order": 7,
+     "q": "John Trumbull's painting of this event can be seen on the back of a $2 bill",
+     "a": "the signing of the Declaration of Independence",
+     "right": [
+      "Hunter"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1000
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 10,
+     "q": "In one study it averages $35,051 per fresh-faced mortarboard-wearing degree holder",
+     "a": "student (loan) debt",
+     "right": [
+      "Torrey"
+     ],
+     "wrong": [
+      "Stew"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 14,
+     "q": "An enclosure for equines",
+     "a": "a corral",
+     "right": [
+      "Torrey"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 25,
+     "q": "Loving soil more than sky, & not nocturnal like its kin, there's a burrowing type of this raptor",
+     "a": "a burrowing owl",
+     "right": [
+      "Torrey"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "Edward Stratemeyer conceived the juvenile novel series about these 2 brothers, teen detectives",
+     "a": "the Hardy Boys",
+     "right": [
+      "Stew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 24,
+     "q": "2014:\nThis 3-named actor as the 1-named Hedwig",
+     "a": "Neil Patrick Harris",
+     "right": [
+      "Hunter"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 8,
+     "q": "Rene Gagnon, one of the actual flag raisers on this island, is seen posing for the Marine Corps War Memorial statue",
+     "a": "Iwo Jima",
+     "right": [
+      "Stew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 18,
+     "q": "In 2014 1/4 of U.S. 16-year-olds had this document; 30 years ago it was nearly half",
+     "a": "a driver's license",
+     "right": [
+      "Hunter"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 15,
+     "q": "Soldiers; men & women in the reserves are sometimes called \"weekend\" ones",
+     "a": "warriors",
+     "right": [
+      "Stew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 26,
+     "q": "Since 1896 a Toledo baseball team has been known as these swamp dwellers",
+     "a": "the Mud Hens",
+     "right": [
+      "Hunter"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 3,
+     "q": "Youth \"violence prevention\" is part of what this org. offers in the Twin Cities; we hear it's \"fun to stay\" there",
+     "a": "the YMCA",
+     "right": [
+      "Stew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "2003:\nAs Edna Turnblad in \"Hairspray\"",
+     "a": "Harvey Fierstein",
+     "right": [],
+     "wrong": [
+      "Torrey"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 11,
+     "q": "An official war artist for Britain, in 1946 Dame Laura Knight documented the trials in this German city",
+     "a": "Nuremberg",
+     "right": [
+      "Hunter"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 19,
+     "q": "With fewer entries, this \"chilly\" arm of Homeland Security deported 316,000 people in 2014 & 80,000 fewer in 2015",
+     "a": "ICE (Immigration and Customs Enforcement)",
+     "right": [
+      "Hunter"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 16,
+     "q": "A weasel-like mammal related to the polecat, or, as used before \"out\", it means to bring to light",
+     "a": "ferret",
+     "right": [
+      "Torrey"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 27,
+     "q": "A 2014 study says the guts of these scavengers are adapted to not get sick from their putrid diet",
+     "a": "vultures",
+     "right": [
+      "Hunter"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 4,
+     "q": "5% of people with this disease have it as type 1, formerly termed juvenile",
+     "a": "diabetes",
+     "right": [
+      "Stew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 30,
+     "q": "1965:\nAs Tevye in \"Fiddler on the Roof\"",
+     "a": "Zero Mostel",
+     "right": [
+      "Stew"
+     ],
+     "wrong": [
+      "Hunter"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 12,
+     "q": "Benjamin West's \"The Death of General Wolfe\" depicts the 1759 battle of Quebec during this North American conflict",
+     "a": "the French and Indian War",
+     "right": [
+      "Torrey"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 20,
+     "q": "It's the busiest Amtrak station, with around 10 million riders a year",
+     "a": "Pennsylvania Station",
+     "right": [
+      "Torrey"
+     ],
+     "wrong": [
+      "Hunter"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 17,
+     "q": "From the Latin for \"parch\", it's the warm zone between the Tropic of Cancer & the Tropic of Capricorn",
+     "a": "torrid",
+     "right": [],
+     "wrong": [
+      "Hunter"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 28,
+     "q": "Yeah, baby! This \"C\" bird that produces guano, valued as fertilizer, is also called a shag",
+     "a": "the cormorant",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 5,
+     "q": "In 2016 President Obama put a ban on this type of confinement for juveniles in the federal prison system",
+     "a": "solitary confinement",
+     "right": [
+      "Torrey"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "GREAT SCOTS",
+    "BLENDED WORDS",
+    "THE BOOK BOOK",
+    "\"T\" MOBILE",
+    "LAKES & RIVERS",
+    "ROBOT CHECK-IN"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "This Scot wasn't just phoning it in when he got a patent on the telephone before he was 30",
+     "a": "Alexander Graham Bell",
+     "right": [
+      "Torrey"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 24,
+     "q": "Term for a paid leave from work spent enjoying time at home",
+     "a": "a staycation",
+     "right": [
+      "Torrey"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 17,
+     "q": "\"The Red Book of Guerrilla Warfare\" by this Chinese revolutionary laid out his theories & tactics",
+     "a": "Mao Zedong",
+     "right": [
+      "Stew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 14,
+     "q": "No bull, for much of the '90s, this Ford sedan was the bestselling car in America",
+     "a": "a Taurus",
+     "right": [
+      "Hunter"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 7,
+     "q": "At 155 feet below sea level, Lake Assal in central Djibouti is this continent's lowest point",
+     "a": "Africa",
+     "right": [
+      "Hunter"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "Spielberg's next 2-letter film after \"E.T.\", it featured Jude Law as a handsome mecha called Gigolo Joe",
+     "a": "A.I.",
+     "right": [
+      "Torrey"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 3,
+     "q": "In 1880, he sailed to Tahiti; while in the South Pacific, he wrote, \"In the South Seas\" & \"David Balfour\", a sequel to \"Kidnapped\"",
+     "a": "Robert Louis Stevenson",
+     "right": [
+      "Torrey"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 25,
+     "q": "It's the combined land mass seen here",
+     "a": "Eurasia",
+     "right": [
+      "Torrey"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 18,
+     "q": "The \"day\" medieval English folk thought the world would end; it comes before \"Book\" in the name of a tome that counted them",
+     "a": "Doomsday",
+     "right": [
+      "Torrey"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 15,
+     "q": "In 2012, this company, whose logo is seen here, introduced the first premium electric sedan",
+     "a": "Tesla",
+     "right": [
+      "Hunter"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 8,
+     "q": "The Moselle River provides part of this grand duchy's eastern border with Germany",
+     "a": "Luxembourg",
+     "right": [
+      "Hunter"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 5,
+     "q": "Disney asked the creators of the robot Sphero to make a toy version of this \"Force Awakens\" astromech",
+     "a": "BB-8",
+     "right": [
+      "Hunter"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 4,
+     "q": "Economist Adam Smith wrote the book fully titled \"An Inquiry into the Nature and Causes of\" this",
+     "a": "the Wealth of Nations",
+     "right": [
+      "Hunter"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 28,
+     "q": "A movie spoof in the style of \"This Is Spinal Tap\" or \"Borat\"",
+     "a": "a mockumentary",
+     "right": [
+      "Hunter"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 19,
+     "q": "This Ancient Egyptian text tells what to do to ensure one's entrance into the afterlife",
+     "a": "the Book of the Dead",
+     "right": [
+      "Hunter"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 16,
+     "q": "The Model T was affectionately known by this metallic 2-word nickname",
+     "a": "a Tin Lizzie",
+     "right": [
+      "Torrey"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 11,
+     "q": "The Philippines' largest lake is Laguna de Bay, referring to this nearby bay",
+     "a": "Manila Bay",
+     "right": [
+      "Stew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 6,
+     "q": "Thanks to DreamWorks, this defender of the universe is bringing cosmic justice to Netflix screens in a 2016 reboot",
+     "a": "Voltron",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 26,
+     "q": "It's largely thanks to this man, born in Scotland in 1838, that we have Sequoia National Park",
+     "a": "John Muir",
+     "right": [
+      "Torrey"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1400
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 29,
+     "q": "This monstrous term was coined in the 1990s for genetically engineered edibles",
+     "a": "frankenfood",
+     "right": [
+      "Hunter"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 600
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 20,
+     "q": "Peter Boxall wrote \"1001 Books You Must Read Before you Die\" & put Rabelais' 16th century tale of these 2 giants in it",
+     "a": "Gargantua & Pantagruel",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 22,
+     "q": "A 1988 film told of this \"Man and his Dream\" of building cutting-edge cars, like the one seen here",
+     "a": "(Preston) Tucker",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 12,
+     "q": "Lord Byron set a poem at the Castle of Chillon along the shores of this European lake",
+     "a": "Lake Geneva",
+     "right": [
+      "Stew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 9,
+     "q": "His awards include the Starcross, Medal of Honor with Clusters & Starfleet Command Decoration for Valor",
+     "a": "Mr. Data",
+     "right": [
+      "Hunter"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 27,
+     "q": "Einstein called this Scot's influence on physics \"the most profound and the most fruitful\" since Newton's",
+     "a": "(James Clerk) Maxwell",
+     "right": [
+      "Hunter"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 30,
+     "q": "This arm of Disney dreams up the theme parks & attractions & brings them to life",
+     "a": "the Imagineers",
+     "right": [
+      "Torrey"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 21,
+     "q": "\"Steal This Book\" by this Chicago Seven man is a handbook for the aspiring yippie revolutionary",
+     "a": "(Abbie) Hoffman",
+     "right": [
+      "Hunter"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 23,
+     "q": "The name of this compact SUV from Volkswagen suggests that it's part big cat & part lizard",
+     "a": "Tiguan",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 13,
+     "q": "Only 2 letters but more than 2,200 miles long, it flows across Russia to the Arctic Ocean",
+     "a": "the Ob",
+     "right": [],
+     "wrong": [
+      "Hunter"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 10,
+     "q": "Zingbot 3000 is quick with a joke to light up the blokes on this reality show",
+     "a": "Big Brother",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "STATE CAPITALS",
+  "q": "This Midwestern capital was named for a man who was born in what is now Turkey over 2,000 years ago",
+  "a": "St. Paul",
+  "right": [
+   "Stew",
+   "Hunter"
+  ],
+  "wrong": [
+   "Torrey"
+  ]
+ },
+ "gameId": "5306"
+}
