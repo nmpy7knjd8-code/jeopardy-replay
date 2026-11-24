@@ -1,0 +1,983 @@
+{
+ "show": "#8076",
+ "aired": "2019-10-21",
+ "note": "",
+ "contestants": [
+  {
+   "name": "Ryan Bradley",
+   "bio": "a TV animation marketing executive from West Hollywood, California",
+   "short": "Ryan"
+  },
+  {
+   "name": "Mononita Nur",
+   "bio": "an aerospace engineer from Huntsville, Alabama",
+   "short": "Mononita"
+  },
+  {
+   "name": "Daryn Firicano",
+   "bio": "a clinical representative from Las Vegas, Nevada (whose 2-day cash winnings total $21,799)",
+   "short": "Daryn"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Daryn": 4200,
+   "Mononita": 200,
+   "Ryan": 5800
+  },
+  "DJ": {
+   "Daryn": 9600,
+   "Mononita": 7200,
+   "Ryan": 14200
+  },
+  "Final": {
+   "Daryn": 4799,
+   "Mononita": 199,
+   "Ryan": 9199
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "MUSICAL LEGENDS",
+    "STARTS & ENDS WITH \"P\"",
+    "QUOTABLE NOTABLES",
+    "CANADIAN NATIONAL STUFF, EH?",
+    "OUR HOME",
+    "& NATIVE LAND"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 19,
+     "q": "Mexcan-born guitar legend seen here",
+     "a": "(Carlos) Santana",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 13,
+     "q": "It's a person's style of handwriting; a doctor's is stereotypically poor",
+     "a": "penmanship",
+     "right": [
+      "Daryn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 22,
+     "q": "Archimedes was referring to this simple machine when he said, \"Give me where to stand, and I will move the earth\"",
+     "a": "a lever",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 17,
+     "q": "If you're having trouble remembering these 2 national colors of Canada, think of the flag",
+     "a": "red & white",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 24,
+     "q": "We like the pool, but now it's time for some bubbly in our J-500 one of these that \"defines the hot tub experience\"",
+     "a": "a Jacuzzi",
+     "right": [
+      "Daryn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 30,
+     "q": "Musician Ravi Shankar",
+     "a": "India",
+     "right": [
+      "Daryn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 16,
+     "q": "On Sept. 25, 1970 she recorded \"Me And Bobby McGee\"; on October 4 she died",
+     "a": "(Janis) Joplin",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 12,
+     "q": "At the 2018 Indy 500 Scott Dixon's crew won the challenge named for this break for service",
+     "a": "pit stop",
+     "right": [
+      "Mononita"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 15,
+     "q": "F. Scott Fitzgerald warned that using this punctuation mark \"is like laughing at your own joke\"",
+     "a": "an exclamation mark",
+     "right": [
+      "Daryn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 18,
+     "q": "Canada's motto is \"a Mari usque ad Mare\", translated as \"from\" this \"to\" this",
+     "a": "sea",
+     "right": [
+      "Daryn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 29,
+     "q": "We have this directional exposure--it's great for the solar panels & Architectural Digest says it's best \"for bright light all day\"",
+     "a": "southern",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 28,
+     "q": "President to some, not so much to others Nicolás Maduro",
+     "a": "Venezuela",
+     "right": [
+      "Mononita"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 6,
+     "q": "Bob Hope gave this crooner his big break & his stage name in 1949 when he was performing under the name Joe Bari",
+     "a": "(Tony) Bennett",
+     "right": [
+      "Daryn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 9,
+     "q": "Ogden Nash called this root vegetable \"an anemic beet\"",
+     "a": "a parsnip",
+     "right": [
+      "Daryn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 23,
+     "q": "From this place, George Washington wrote his soldiers were unfit for duty because they were \"barefoot and otherwise naked\"",
+     "a": "Valley Forge",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 20,
+     "q": "Whether it's silver or bigleaf, Canada's national tree is this",
+     "a": "the maple",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 11,
+     "q": "I'm so glad we got rid of our old countertops & went with this 7-letter type of igneous rock",
+     "a": "granite",
+     "right": [
+      "Daryn"
+     ],
+     "wrong": [
+      "Mononita"
+     ],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 26,
+     "q": "The whiskey-wanting Greta Garbo",
+     "a": "Sweden",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 4,
+     "q": "This country crossover star's Top 40 hits included \"Rhinestone Cowboy\" & \"Wichita Lineman\"",
+     "a": "Glen Campbell",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 8,
+     "q": "On a Vegas-set reality series, Rick Harrison buys, sells & appraises items of historical value in this kind of establishment",
+     "a": "a pawn shop",
+     "right": [
+      "Daryn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 14,
+     "q": "This French microbiologist said, \"Chance favors only the prepared mind\"",
+     "a": "Pasteur",
+     "right": [
+      "Mononita"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 21,
+     "q": "This rodent became a national symbol in 1975",
+     "a": "the beaver",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 10,
+     "q": "We've got an extra sink & plenty of storage between the kitchen & dining room in the \"pantry\" named for this worker",
+     "a": "a butler",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 27,
+     "q": "Painter with a pipe dream René Magritte",
+     "a": "Belgium",
+     "right": [
+      "Daryn"
+     ],
+     "wrong": [
+      "Mononita"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 1,
+     "q": "This composer & bandleader was one of the most popular musicians of the swing era",
+     "a": "Duke Ellington",
+     "right": [],
+     "wrong": [
+      "Daryn",
+      "Mononita"
+     ],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 2,
+     "q": "The main building block of coral is this tiny organism",
+     "a": "a polyp",
+     "right": [
+      "Daryn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": true,
+     "order": 7,
+     "q": "In the 1940s this British novelist said \"The very concept of objective truth is fading out of the world\"",
+     "a": "George Orwell",
+     "right": [],
+     "wrong": [
+      "Daryn"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1600
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 5,
+     "q": "The national anthem \"O Canada\" was first sung in 1880 here, Canada's only walled city",
+     "a": "Quebec City",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 3,
+     "q": "This French phrase meaning \"following\" is used to describe a bathroom that connects to a bedroom",
+     "a": "en suite",
+     "right": [
+      "Daryn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 25,
+     "q": "Nobel Peace Prize winner F.W. de Klerk",
+     "a": "South Africa",
+     "right": [
+      "Mononita"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "BAN THAT BOOK!",
+    "ACCENTS",
+    "GAME OF CLONES",
+    "AMERICAN HISTORY",
+    "THE GENDER-FREE OPTION",
+    "\"T\" BIRDS"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "A book about George, who takes the new name Melissa, earned some bans but also one of these Greek-letter awards AKA the Lammys",
+     "a": "the Lambda Award",
+     "right": [
+      "Mononita"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 6,
+     "q": "A 2019 survey ranked this island nation as having the sexiest accent; nearby Australia ranked fifth",
+     "a": "New Zealand",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 28,
+     "q": "Using cloned DNA worked out just super-duper in this 1993 film... well, for its producers, not its characters",
+     "a": "Jurassic Park",
+     "right": [
+      "Daryn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 23,
+     "q": "\"Insure domestic tranquility\" & \"secure the blessings of liberty\" are lines from this historic document",
+     "a": "the Constitution",
+     "right": [
+      "Daryn"
+     ],
+     "wrong": [
+      "Ryan"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 14,
+     "q": "One suggestion for this chess piece: deputy sovereign",
+     "a": "queen",
+     "right": [
+      "Daryn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 30,
+     "q": "It's the tropical bird seen here",
+     "a": "a toucan",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 2,
+     "q": "This Stowe novel was banned in parts of the slave-holding South & in serf-holding Russia",
+     "a": "Uncle Tom's Cabin",
+     "right": [
+      "Mononita"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 7,
+     "q": "In Latin America, this word of thanks is pronounced with a soft \"C\"; in most of Spain, the \"C\" is said as a \"th\"",
+     "a": "gracias",
+     "right": [
+      "Daryn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 27,
+     "q": "This man returned to the \"Star Wars\" universe in animated form, voicing Mace Windu in \"The Clone Wars\"",
+     "a": "Samuel L. Jackson",
+     "right": [
+      "Mononita"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 15,
+     "q": "In the 1760s these 2 surveyors marked the boundary between Maryland & Pennsylvania",
+     "a": "Mason and Dixon",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [
+      "Daryn"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 16,
+     "q": "We could call this \"parental\" computer component a primary circuit board",
+     "a": "a motherboard",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "In 1784 Ben Franklin panned the bald eagle as a U.S. national symbol, preferring this bird instead",
+     "a": "the turkey",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": true,
+     "order": 3,
+     "q": "Forget the love story--Pasternak's \"Dr. Zhivago\" was banned in the USSR until 1987 because of its portrayal of this commie faction",
+     "a": "the Bolsheviks",
+     "right": [
+      "Mononita"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1400
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 13,
+     "q": "Ewan McGregor called the Midwest accent he used for this TV show based on a movie the hardest one he'd ever done",
+     "a": "Fargo",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 26,
+     "q": "Sarah, Helena & Cosima were but some of the \"Clone Club\" played by this actress on \"Orphan Black\"",
+     "a": "Tatiana Maslany",
+     "right": [
+      "Mononita"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": true,
+     "order": 9,
+     "q": "Woeful economic conditions helped reduce immigration from 4.2 million the decade before to less than 700,000 in this decade",
+     "a": "the 1930s",
+     "right": [],
+     "wrong": [
+      "Daryn"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 5000
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 17,
+     "q": "You can use this 6-letter term rather than Latina or Latino",
+     "a": "Latinx",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 22,
+     "q": "This small duck shares its name with a bluish-green color",
+     "a": "a teal duck",
+     "right": [
+      "Mononita"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 4,
+     "q": "Due to its alleged obscenity, in 1957 U.S. Customs seized 520 copies of this Allen Ginsberg poem printed in England",
+     "a": "\"Howl\"",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 12,
+     "q": "Scouse, the accent for this port city on England's West Coast, comes from lobscouse, a sailor's dish",
+     "a": "Liverpool",
+     "right": [
+      "Mononita"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 25,
+     "q": "This author was able to revive the character Duncan Idaho when he introduced clones called ghola in \"Dune Messiah\"",
+     "a": "(Frank) Herbert",
+     "right": [
+      "Daryn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 8,
+     "q": "In 1868 the House of Representatives voted 126 to 47 to impeach this man",
+     "a": "(Andrew) Johnson",
+     "right": [
+      "Daryn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 18,
+     "q": "How about \"synthetic\" or \"artificial\" instead of this hyphenated adjective",
+     "a": "man-made",
+     "right": [
+      "Mononita"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 21,
+     "q": "This swan is named for its low-pitched call",
+     "a": "a trumpeter swan",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 5,
+     "q": "The 1722 novel \"Moll Flanders\" by this author has been taken off shelves for lewdness",
+     "a": "Daniel Defoe",
+     "right": [],
+     "wrong": [
+      "Mononita"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 11,
+     "q": "It's another word for an Irish accent",
+     "a": "a brogue",
+     "right": [
+      "Daryn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 24,
+     "q": "Later featured in \"Game of Thrones\", this veteran British actor starred as a cloned mad scientist in a 2008 BBC sitcom",
+     "a": "Jonathan Pryce",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 10,
+     "q": "In 1863, George McClellan's military career was over, but this General George was on hand to defeat Robert E. Lee at Gettysburg",
+     "a": "Meade",
+     "right": [
+      "Daryn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 19,
+     "q": "To describe those who came before us, these \"bears\" are less patriarchal than these \"fathers\"",
+     "a": "forebears",
+     "right": [
+      "Daryn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 20,
+     "q": "Scarlet is one species of this songbird",
+     "a": "the scarlet tanager",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "U.S. CITIES",
+  "q": "Named for the ore once mined there, this city at an altitude of 10,152 feet is home to the National Mining Hall of Fame & Museum",
+  "a": "Leadville",
+  "right": [],
+  "wrong": [
+   "Mononita",
+   "Daryn",
+   "Ryan"
+  ]
+ },
+ "gameId": "6447"
+}

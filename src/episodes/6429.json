@@ -1,0 +1,981 @@
+{
+ "show": "#8061",
+ "aired": "2019-09-30",
+ "note": "",
+ "contestants": [
+  {
+   "name": "Jason Marsden",
+   "bio": "a nonprofit executive from Denver, Colorado",
+   "short": "Jason"
+  },
+  {
+   "name": "Jennifer Kinyak",
+   "bio": "a freelancer from Albuquerque, New Mexico",
+   "short": "Jennifer"
+  },
+  {
+   "name": "Laurel Lathrop",
+   "bio": "a graduate student from Tallahassee, Florida (whose 1-day cash winnings total $31,201)",
+   "short": "Laurel"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Laurel": 4800,
+   "Jennifer": 7600,
+   "Jason": -2200
+  },
+  "DJ": {
+   "Laurel": 17600,
+   "Jennifer": 15200,
+   "Jason": 16400
+  },
+  "Final": {
+   "Laurel": 32801,
+   "Jennifer": 15199,
+   "Jason": 30401
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "FROM THE SCOTS, AYE",
+    "COLLEGE-POURRI",
+    "I BEAT MERYL!",
+    "\"S\"EVEN-LETTER SCIENCE",
+    "TIME FOR A SNACK",
+    "TRAIL MIX"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 19,
+     "q": "This checked fabric pattern found on many a Tartan",
+     "a": "plaid",
+     "right": [
+      "Laurel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 15,
+     "q": "In 2018 Dartmouth offered almost 2,000 freshmen a place on this--neither acceptance nor rejection",
+     "a": "the waiting list",
+     "right": [
+      "Jennifer"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 7,
+     "q": "This \"Silver Linings Playbook\" actress said (accurately), \"I beat Meryl\" at the Golden Globes in 2013",
+     "a": "Jennifer Lawrence",
+     "right": [
+      "Jennifer"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "This complex organic compound is found in many plants & is used as a sweetening agent",
+     "a": "sucrose",
+     "right": [
+      "Jennifer"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 17,
+     "q": "Arrr! Snacks from this buccaneer brand include veggie puffs & aged white Cheddar puffs",
+     "a": "Pirate's Booty",
+     "right": [
+      "Laurel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 12,
+     "q": "In Boston follow this trail to see the Old State House & the Old North Church",
+     "a": "the Freedom Trail",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 20,
+     "q": "This type of minstrel-poet, not necessarily of Avon",
+     "a": "a bard",
+     "right": [
+      "Laurel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 30,
+     "q": "(Sarah of the Clue Crew presents from outside the Jet Propulsion Laboratory.) Transferred from the Army to NASA at the beginning of the space race, JPL, or Jet Propulsion Laboratory, is a division of this Pasadena-based science school",
+     "a": "Caltech",
+     "right": [
+      "Jennifer"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 8,
+     "q": "Talk about a Titanic upset! Meryl had \"Doubt\" but this British actress took the Oscar for \"The Reader\"",
+     "a": "Kate Winslet",
+     "right": [
+      "Laurel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "It's the second most abundant element in the earth's crust",
+     "a": "silicon",
+     "right": [
+      "Laurel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 16,
+     "q": "Even if it's not October, how about some of these, also called pepitas",
+     "a": "pumpkin seeds",
+     "right": [
+      "Jennifer"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 13,
+     "q": "You can still see wheel ruts along this 2,000-mile-long route used by pioneers heading west to the Willamette Valley",
+     "a": "the Oregon Trail",
+     "right": [
+      "Laurel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 21,
+     "q": "This word for a motto or advertising phrase",
+     "a": "a slogan",
+     "right": [
+      "Jennifer"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 29,
+     "q": "Bowling Green teams in this state were once known as the BG Normals or BG Pedagogues but Falcons seems a better fit",
+     "a": "Ohio",
+     "right": [
+      "Laurel"
+     ],
+     "wrong": [
+      "Jason"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 9,
+     "q": "In Meryl's one nomination for this drama award, she lost to Shirley Knight at the Shubert Theatre in 1976",
+     "a": "a Tony",
+     "right": [
+      "Laurel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 3,
+     "q": "It functions as a junction with the help of neurotransmitters",
+     "a": "synapse",
+     "right": [
+      "Jennifer"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 4,
+     "q": "Healthy & simple, broccoli & hummus sets you up with plenty of the complex type of these",
+     "a": "carbohydrates",
+     "right": [
+      "Laurel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 24,
+     "q": "This national scenic trail in the eastern U.S. passes through 14 states & 8 national forests",
+     "a": "the Appalachian Trail",
+     "right": [
+      "Laurel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 22,
+     "q": "This big pole that gets tossed by athletic Scotsmen",
+     "a": "caber",
+     "right": [
+      "Jennifer"
+     ],
+     "wrong": [
+      "Jason"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 28,
+     "q": "In 2017 Yale renamed one of its residential colleges to honor this Navy computing maven",
+     "a": "Grace Hopper",
+     "right": [],
+     "wrong": [
+      "Laurel"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 10,
+     "q": "No Oscar for Meryl because this other actress' role in \"Dead Man Walking\" was second to nun",
+     "a": "Susan Sarandon",
+     "right": [
+      "Jennifer"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": true,
+     "order": 6,
+     "q": "This species name is also the title of a bestselling history of humanity by Yuval Noah Hariri",
+     "a": "Sapiens",
+     "right": [
+      "Jennifer"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1600
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 5,
+     "q": "How about a couple of these, first sold under the Honey Maid name in 1925",
+     "a": "Graham crackers",
+     "right": [
+      "Jennifer"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 26,
+     "q": "A popular trail in Europe passes through France, Italy & Switzerland while circling this highest mountain in the Alps",
+     "a": "Mont Blanc",
+     "right": [],
+     "wrong": [
+      "Laurel"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 23,
+     "q": "You're on a first-name basis with this narrow mountain valley",
+     "a": "a glen",
+     "right": [
+      "Jennifer"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 27,
+     "q": "The opulent home of William & Kate Hofstra is now the centerpiece of a private university on this island",
+     "a": "Long Island",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 11,
+     "q": "At the BAFTA Awards the Brits have home court & several have beaten Meryl, including Helen Mirren for this 2006 film",
+     "a": "The Queen",
+     "right": [
+      "Laurel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 14,
+     "q": "In geology it's the normally hidden mineral-rich layer just above bedrock",
+     "a": "subsoil",
+     "right": [],
+     "wrong": [
+      "Jason"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 18,
+     "q": "Maybe a couple of medjool these wrapped in bacon?",
+     "a": "dates",
+     "right": [
+      "Laurel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 25,
+     "q": "In her memoir \"Wild\", Cheryl Strayed tells of hiking more than 1,000 miles of this trail, from Calif. to Washington State",
+     "a": "the Pacific Crest Trail",
+     "right": [],
+     "wrong": [
+      "Jason"
+     ],
+     "stumper": true,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "RECENT BROADWAY PLAYS",
+    "AMERICAN HISTORY",
+    "IT'S ONLY A PAPER MOON",
+    "EUROPEAN JOBS",
+    "A \"BUM\" STEER",
+    "FUN-TO-SAY QUOTATIONS"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 26,
+     "q": "Heidi Schreck reaches back to her days debating civics as a 15-year-old in \"What\" this document \"Means to Me\"",
+     "a": "the Constitution",
+     "right": [
+      "Laurel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "Before the Naval Academy opened in this city in 1845, midshipmen were trained at sea",
+     "a": "Annapolis",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 17,
+     "q": "Margaret Wise Brown wrote the kids' books \"The Runaway Bunny\" & this one that features a bunny going to sleep",
+     "a": "Goodnight Moon",
+     "right": [
+      "Laurel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 6,
+     "q": "The voga alla veneta technique of getting from place to place was made famous by men in this job",
+     "a": "gondoliers",
+     "right": [
+      "Jennifer"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 7,
+     "q": "An LP, or a collection of photographs",
+     "a": "an album",
+     "right": [
+      "Jennifer"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 16,
+     "q": "In an Edward Lear poem, this character says to the Owl, \"O let us be married! too long we have tarried\"",
+     "a": "the Pussycat",
+     "right": [
+      "Jennifer"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 27,
+     "q": "Laurie Metcalf & John Lithgow play the first couple in \"Hillary & Clinton\", set in this year Hillary first ran for president",
+     "a": "2008",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 2,
+     "q": "Most of the battle on June 17, 1775 took place on Breed's Hill, but it's this hill that gets the press",
+     "a": "Bunker Hill",
+     "right": [
+      "Laurel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 22,
+     "q": "\"In the light of the moon a little egg lay on a leaf\" is the first line of this classic children's book",
+     "a": "The Very Hungry Caterpillar",
+     "right": [
+      "Laurel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 18,
+     "q": "People are employed to fish for discarded bikes in the numerous canals of this capital city on the North Sea",
+     "a": "Amsterdam",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 8,
+     "q": "This type of bad trip is a real drag, man",
+     "a": "a bummer",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 12,
+     "q": "\"Hey, hey, mama, said the way you move, gonna make you sweat, gonna make you groove\" is from this Led Zeppelin tune",
+     "a": "\"Black Dog\"",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 28,
+     "q": "Set during The Troubles, \"The Ferryman\", which won the 2019 Tony for Best Play, takes place in this U.K. country",
+     "a": "Northern Ireland",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 5,
+     "q": "When this beloved first lady died in Washington in 1849, the \"ladies of Virginia\" were urged to wear a black bow or ribbon in tribute",
+     "a": "Dolley Madison",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 23,
+     "q": "The title of this James Bond novel referred to a fictional missile-based national defense system",
+     "a": "Moonraker",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": true,
+     "order": 19,
+     "q": "Ravenmaster Yeoman Warder Christopher Skaife said he felt \"like a proud father\" after 4 raven chicks hatched here in 2019",
+     "a": "the Tower of London",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 5000
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 9,
+     "q": "To blunder about, or to do a task badly",
+     "a": "to bumble",
+     "right": [
+      "Jennifer"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 13,
+     "q": "This film: \"Badges? We ain't got no badges! We don't need no badges! I don't have to show you any stinking badges!\"",
+     "a": "The Treasure of the Sierra Madre",
+     "right": [
+      "Jennifer"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 29,
+     "q": "Billed as a sequel to this first Shakespeare tragedy, the comedy \"Gary\" takes place after the climactic bloody Roman feast",
+     "a": "Titus Andronicus",
+     "right": [
+      "Laurel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 4,
+     "q": "In 1947 Congress passed this act named for 2 politicians that banned using union dues in national election campaigns",
+     "a": "Taft-Hartley",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 24,
+     "q": "This 2006 novel features the Volturi, Italy's reigning royal family of vampires",
+     "a": "New Moon",
+     "right": [
+      "Laurel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 20,
+     "q": "Go work at the Vatican on this force, also known as the world's smallest army",
+     "a": "the Swiss Guard",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 10,
+     "q": "Silly slang word for an umbrella",
+     "a": "a bumbershoot",
+     "right": [
+      "Laurel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 14,
+     "q": "In Barry Mann's doo-wop classic, it follows \"Who put the ram\"",
+     "a": "in the rama lama ding dong",
+     "right": [
+      "Laurel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 30,
+     "q": "Ethan Hawke broke more than 10 golf clubs wrecking the set nightly in a revival of this playwright's \"True West\"",
+     "a": "Sam Shepard",
+     "right": [
+      "Jennifer"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 3,
+     "q": "Suffering from tuberculosis, William Rufus DeVane King died in April 1853 before ever performing his duties in this post",
+     "a": "vice president",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": true,
+     "order": 25,
+     "q": "A novel by him says, \"Between me and the moonlight flitted a great bat, coming and going in great whirling circles\"",
+     "a": "Bram Stoker",
+     "right": [
+      "Laurel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 4000
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 21,
+     "q": "Try harvesting cork in the Algarve region of this country, one of Europe's leading producers",
+     "a": "Portugal",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 11,
+     "q": "Annoyingly self-assertive",
+     "a": "bumptious",
+     "right": [
+      "Jennifer"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 15,
+     "q": "\"I'm called little buttercup, dear little buttercup, though I could never tell why\" is from this Gilbert & Sullivan operetta",
+     "a": "the H.M.S. Pinafore",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "SYMBOLIC OBJECTS",
+  "q": "To complete one of its regular trips, in 1948 it took a boat across the English Channel; in 1952 it took a plane en route to Finland",
+  "a": "Olympic torch (Olympic flame)",
+  "right": [
+   "Jason",
+   "Laurel"
+  ],
+  "wrong": [
+   "Jennifer"
+  ]
+ },
+ "gameId": "6429"
+}
