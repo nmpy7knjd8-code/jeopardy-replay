@@ -1,0 +1,987 @@
+{
+ "show": "#6056",
+ "aired": "2011-01-03",
+ "note": "",
+ "contestants": [
+  {
+   "name": "Annemarie Brentrup",
+   "bio": "a pizza restaurant manager originally from Bismarck, North Dakota",
+   "short": "Annemarie"
+  },
+  {
+   "name": "Genaro Lopez",
+   "bio": "a contract administrator from Portland, Oregon",
+   "short": "Genaro"
+  },
+  {
+   "name": "Lyn Thomas",
+   "bio": "a library assistant from Redmond, Washington (whose 1-day cash winnings total $13,100)",
+   "short": "Lyn"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Lyn": 6700,
+   "Genaro": 4000,
+   "Annemarie": 4200
+  },
+  "DJ": {
+   "Lyn": 9100,
+   "Genaro": 16400,
+   "Annemarie": 14500
+  },
+  "Final": {
+   "Lyn": 16500,
+   "Genaro": 29001,
+   "Annemarie": 28999
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "NOVEL IDEAS",
+    "21st CENTURY ATHLETES",
+    "SKY HIGH",
+    "SCENTSATIONAL!",
+    "TECHNOLOGY OF THE PAST",
+    "\"EAU\" K"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 24,
+     "q": "One of the \"7 commandments\" in this Orwell novel reads: \"Whatever goes upon 4 legs or has wings, is a friend\"",
+     "a": "Animal Farm",
+     "right": [
+      "Annemarie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 7,
+     "q": "1 of the 2 NBA stars who make up Miami's new \"Big 3\" along with LeBron",
+     "a": "(Chris) Bosh (or Dwyane Wade)",
+     "right": [
+      "Annemarie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 2,
+     "q": "Trump Taj Mahal at 1000 Boardwalk",
+     "a": "Atlantic City",
+     "right": [
+      "Annemarie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 25,
+     "q": "With her signature fragrance called Glow (or is it G. Low?), you can smell just like this spicy diva",
+     "a": "Jennifer Lopez",
+     "right": [
+      "Annemarie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 12,
+     "q": "It dates back to 3000 B.C., when it was made with beeswax; by the Middle Ages tallow ones were in wide use",
+     "a": "candles",
+     "right": [
+      "Genaro"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 19,
+     "q": "It means \"water of\" a certain German city",
+     "a": "eau de Cologne",
+     "right": [
+      "Lyn"
+     ],
+     "wrong": [
+      "Annemarie"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 23,
+     "q": "The opening line of this 1605 novel mentions a lance, a shield & a skinny nag",
+     "a": "Don Quixote",
+     "right": [
+      "Lyn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 8,
+     "q": "Seen here, this Belgian tennis star has won 2 straight U.S. Opens--after a 2-year retirement",
+     "a": "(Kim) Clijsters",
+     "right": [
+      "Genaro"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 3,
+     "q": "1 Dag Hammarskjold Plaza at 885 2nd Avenue",
+     "a": "New York City",
+     "right": [
+      "Annemarie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 26,
+     "q": "C'mon, get this cheerful fragrance from Clinique, around since 1997",
+     "a": "Happy",
+     "right": [
+      "Genaro"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 13,
+     "q": "This implement amazed foreign visitors when it gained acceptance with diners in 16th century Italy",
+     "a": "a fork",
+     "right": [
+      "Annemarie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "This state capital was founded by gold prospectors in 1880",
+     "a": "Juneau",
+     "right": [
+      "Annemarie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 20,
+     "q": "\"Cleanliness is next to Fordliness\" is a line from this 1932 novel",
+     "a": "Brave New World",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 9,
+     "q": "OV-1 & Alexander the Great are 2 of this Washington Capitals hockey star's nicknames",
+     "a": "(Alexander) Ovechkin",
+     "right": [
+      "Genaro"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 4,
+     "q": "Aon center at 707 Wilshire Blvd",
+     "a": "Los Angeles",
+     "right": [
+      "Annemarie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 28,
+     "q": "Christian Dior introduced this killer scent in 1985",
+     "a": "Poison",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 14,
+     "q": "Originating in Asia around 200 B.C., this saddle attachment increased the military value of horses",
+     "a": "a stirrup",
+     "right": [
+      "Genaro"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 16,
+     "q": "A chest of drawers, or a government department",
+     "a": "a bureau",
+     "right": [
+      "Lyn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 21,
+     "q": "Chapter 39 of this novel includes a confession to the murder of Alyona Ivanova, an old pawnbroker",
+     "a": "Crime and Punishment",
+     "right": [
+      "Lyn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 10,
+     "q": "Seen here, he excelled on \"Dancing with the Stars\" & also plays a little football",
+     "a": "(Jason) Taylor",
+     "right": [
+      "Genaro"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 5,
+     "q": "Cadillac Tower at 65 Cadillac Square",
+     "a": "Detroit",
+     "right": [
+      "Annemarie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "This brand's colognes for men include Blue, Island Voyage & White Sail",
+     "a": "Nautica",
+     "right": [
+      "Lyn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 15,
+     "q": "The earliest man-made examples of this silica & borate material were beads made in the 1500s B.C.",
+     "a": "glass",
+     "right": [
+      "Lyn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 17,
+     "q": "It's the clothing & linens assembled by a bride for her marriage",
+     "a": "a trousseau",
+     "right": [
+      "Lyn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": true,
+     "order": 22,
+     "q": "In a 1948 novel he wrote, \"Pearls were accidents & the finding of one was luck, a little pat on the back by God\"",
+     "a": "(John) Steinbeck",
+     "right": [
+      "Lyn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1300
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 11,
+     "q": "He hit 58 homers for the Phillies in 2006 & has the same name as the temp-turned-boss-turned-temp on \"The Office\"",
+     "a": "(Ryan) Howard",
+     "right": [
+      "Genaro"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 6,
+     "q": "Four Embarcadero Center at 55 Clay Street",
+     "a": "San Francisco",
+     "right": [
+      "Annemarie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 30,
+     "q": "Launched in 1925, this classic oriental-floral scent was named for a favorite garden of Shah Jahan & his wife",
+     "a": "Shalimar",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 27,
+     "q": "A Sumerian pictograph shows one in 3500 B.C.: the oldest are wooden disks with 3 carved planks clamped by struts",
+     "a": "a wheel",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 18,
+     "q": "From the French for \"to carry\", it's a large suitcase that opens into 2 hinged compartments",
+     "a": "a portmanteau",
+     "right": [
+      "Lyn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "THE BIBLE",
+    "DUDE-ER-ONOMY",
+    "NUMBERS",
+    "ROMANS",
+    "\"FIRST\" CHRONICLES",
+    "JOB"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 25,
+     "q": "In Genesis 4 he lies about his brother's whereabouts--& to god, yet!",
+     "a": "Cain",
+     "right": [
+      "Genaro"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "Be cool, man, & name this 1969 flick where Billy & Captain America hit the road, man: now those were some dudes, man",
+     "a": "Easy Rider",
+     "right": [
+      "Genaro"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 21,
+     "q": "\"The Arabian Nights\" are \"tales from\" this number of nights",
+     "a": "1,001",
+     "right": [
+      "Annemarie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "He took his own life after receiving a false report that Cleopatra was already dead--oops!",
+     "a": "Mark Antony",
+     "right": [
+      "Annemarie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 6,
+     "q": "There is reddening of the epidermis but no blistering in this",
+     "a": "a first-degree burn",
+     "right": [
+      "Lyn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 11,
+     "q": "In 1991 Bill Clinton was pulling down a salary of $35,000 a year in this job",
+     "a": "governor",
+     "right": [
+      "Annemarie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 26,
+     "q": "He avenged his treatment by the Philistines, crashing their temple down on them",
+     "a": "Samson",
+     "right": [
+      "Lyn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 2,
+     "q": "Jeff Spicoli loved to surf in this movie'-aloha, Mr. Hand!",
+     "a": "Fast Times at Ridgemont High",
+     "right": [
+      "Annemarie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 24,
+     "q": "A nursery rhyme says, \"sing a song of sixpence, a pocket full of rye,\" this many \"blackbirds baked in a pie\"",
+     "a": "four and twenty",
+     "right": [
+      "Annemarie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 16,
+     "q": "In 8 A.D. he went through his own metamorphosis, from Rome's most successful poet to a man living in exile",
+     "a": "Ovid",
+     "right": [
+      "Genaro"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 7,
+     "q": "It outlaws an established state religion but doesn't include the phrase \"church & state\"",
+     "a": "the First Amendment",
+     "right": [
+      "Genaro"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": true,
+     "order": 12,
+     "q": "This 1989 Nobel Peace Prize winner is 75 years old & has spent 70 years in his current job",
+     "a": "the Dalai Lama",
+     "right": [
+      "Annemarie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1500
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 28,
+     "q": "In Matthew this ruler called for the deaths of all infant boys in Bethlehem: that's not so \"great\"",
+     "a": "Herod",
+     "right": [
+      "Lyn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 3,
+     "q": "Whoa! In 1991 these 2 title dudes got a sequel & totally returned to take a \"Bogus Journey\"",
+     "a": "Bill & Ted",
+     "right": [
+      "Genaro"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 20,
+     "q": "(Sarah of the Clue Crew reports from the pits at the Toyota Grand Prix.) For better grip on the road, racing tires need to be both sticky & strong, because the rubber approaches this temperature, the boiling point of water",
+     "a": "212 degrees",
+     "right": [
+      "Annemarie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 17,
+     "q": "In 41 A.D. members of his own Praetorian Guard gave him \"the boot\" for good",
+     "a": "Caligula",
+     "right": [
+      "Genaro"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 8,
+     "q": "Classic comedy routine for Bud & Lou",
+     "a": "\"Who's on First?\"",
+     "right": [
+      "Annemarie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 13,
+     "q": "You've nailed it if you know Norm Abram is the master one of these on TV's \"This Old House\"",
+     "a": "carpenter",
+     "right": [
+      "Genaro"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 29,
+     "q": "The Dragon, the False Prophet & the Beast are all mentioned in this book",
+     "a": "Revelation",
+     "right": [
+      "Annemarie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 4,
+     "q": "He didn't say much as Silent Bob in \"Clerks\" but no one in the film could say anything without him: he wrote the pic, too",
+     "a": "(Kevin) Smith",
+     "right": [
+      "Genaro"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 23,
+     "q": "In restaurant slang, this number means \"all gone\"",
+     "a": "86",
+     "right": [],
+     "wrong": [
+      "Lyn"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 4000
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 18,
+     "q": "While governor of Bithynia, this man the Younger corresponded with Trajan regarding the treatment of Christians there",
+     "a": "Pliny",
+     "right": [
+      "Genaro"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 9,
+     "q": "Medical term for the period between conception & 12 weeks of pregnancy",
+     "a": "the first trimester",
+     "right": [
+      "Genaro"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 14,
+     "q": "A jacket with gold braid & a \"V\" of buttons is named for this hotel fetcher & carrier",
+     "a": "a bellhop",
+     "right": [
+      "Genaro"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 30,
+     "q": "This rebellious son of King David seduced his father's concubines on the palace roof in full view of everyone",
+     "a": "Absalom",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 5,
+     "q": "This actor played a Lebowski, not the Big Lebowski, but the Dude abides",
+     "a": "Jeff Bridges",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 22,
+     "q": "The Screaming Eagles are this number airborne division",
+     "a": "101st",
+     "right": [
+      "Lyn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 19,
+     "q": "In his \"Odes\", this satirist & poet referred to Virgil as \"half of my soul\"",
+     "a": "Horace",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 10,
+     "q": "Peter the Hermit was a major promoter of this 11th century endeavor",
+     "a": "the First Crusade",
+     "right": [
+      "Annemarie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 15,
+     "q": "A seine may be part of the equipment in this job, the USA's most dangerous",
+     "a": "fishing",
+     "right": [
+      "Lyn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "POP STARS",
+  "q": "He was backed by London's Royal Philharmonic Concert Orchestra on his 2010 tour, which he called \"Symphonicity\"",
+  "a": "Sting",
+  "right": [
+   "Lyn",
+   "Annemarie",
+   "Genaro"
+  ],
+  "wrong": []
+ },
+ "gameId": "3542",
+ "cat_notes": {
+  "J": [
+   "Clues about Novel Ideas.",
+   "Clues about 21st Century Athletes.",
+   "We want you to name the city as we deal with [*]. We'll tell you about the skyscrapers.",
+   "The category “SCENTSATIONAL!” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "Clues about Technology of the Past.",
+   "Each answer contains the letter group “EAU”."
+  ],
+  "DJ": [
+   "Clues about The Bible.",
+   "Clues about Dude-er-onomy.",
+   "Clues about Numbers.",
+   "Clues about Romans.",
+   "Each answer contains the letter group “FIRST”, and the clues are about Chronicles.",
+   "Clues about Job."
+  ],
+  "F": "Clues about Pop Stars."
+ }
+}

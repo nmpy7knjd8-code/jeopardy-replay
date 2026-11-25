@@ -1,0 +1,990 @@
+{
+ "show": "#6160",
+ "aired": "2011-05-27",
+ "note": "",
+ "contestants": [
+  {
+   "name": "Monica Iyer",
+   "bio": "a law clerk from New York, New York",
+   "short": "Monica"
+  },
+  {
+   "name": "Renee Huff",
+   "bio": "a high school English teacher from Olney, Maryland",
+   "short": "Renee"
+  },
+  {
+   "name": "Chloe Horning",
+   "bio": "a graduate student in library and information science from Seattle, Washington (whose 1-day cash winnings total $14,000)",
+   "short": "Chloe"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Chloe": 3800,
+   "Renee": 2200,
+   "Monica": 10400
+  },
+  "DJ": {
+   "Chloe": 10200,
+   "Renee": 9200,
+   "Monica": 27200
+  },
+  "Final": {
+   "Chloe": 18401,
+   "Renee": 6200,
+   "Monica": 32200
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "1811",
+    "THE SHANGHAI WORLD EXPO",
+    "INGREDIENTS IN THE MACBETH WITCHES' CAULDRON",
+    "\"DROP\" IT, BUSTER!",
+    "IT'S THE POLICE",
+    "I'LL NEED SOME BACKUP"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 11,
+     "q": "Insane & no longer fit to rule, this British king was replaced by his son, the prince regent",
+     "a": "George III",
+     "right": [
+      "Monica"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 26,
+     "q": "The pavilion for this international organization was built to look like one of its relief tents",
+     "a": "the Red Cross",
+     "right": [
+      "Monica"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "\"Tongue of\" one of these best friends",
+     "a": "dog",
+     "right": [
+      "Chloe"
+     ],
+     "wrong": [
+      "Monica"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 6,
+     "q": "Refer to other people in conversation in order to impress those you're talking to",
+     "a": "name-drop",
+     "right": [
+      "Monica"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 14,
+     "q": "To officially record a charge against an arrestee; do it, Danno",
+     "a": "to book",
+     "right": [
+      "Monica"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 21,
+     "q": "...and the Gang",
+     "a": "Kool",
+     "right": [
+      "Monica"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 12,
+     "q": "Her \"Sense and Sensibility\" was published anonymously \"in three volumes\", \"by a lady\"",
+     "a": "Jane Austen",
+     "right": [
+      "Monica"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "This Alpine country's exhibit naturally included a ski lift ride",
+     "a": "Switzerland",
+     "right": [
+      "Monica"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "\"Eye of\" this amphibian",
+     "a": "newt",
+     "right": [
+      "Renee"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 7,
+     "q": "Firm candy made of gelatin & covered with sugar",
+     "a": "a gumdrop",
+     "right": [
+      "Monica"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 15,
+     "q": "The title of this Jack Webb TV drama refers to a systematic police search for a criminal",
+     "a": "Dragnet",
+     "right": [
+      "Renee"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 22,
+     "q": "...and the Pips",
+     "a": "Gladys Knight",
+     "right": [
+      "Monica"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 13,
+     "q": "This family-run company, founded in Germany to manufacture steel, eventually did a booming business",
+     "a": "Krupp",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 28,
+     "q": "A 20-foot-tall robotic baby named Miguelín was featured in this European country's exhibit",
+     "a": "Spain",
+     "right": [],
+     "wrong": [
+      "Monica"
+     ],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 3,
+     "q": "\"Tooth of\" this carnivore that can be timber or gray",
+     "a": "wolf",
+     "right": [
+      "Chloe"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 8,
+     "q": "Painted cloth hanging at the rear of a stage",
+     "a": "backdrop",
+     "right": [
+      "Renee"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": true,
+     "order": 17,
+     "q": "Named for a palace that housed visiting royalty, it's the HQ of the London Metropolitan Police",
+     "a": "Scotland Yard",
+     "right": [
+      "Monica"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2000
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 23,
+     "q": "...and the Crickets",
+     "a": "Buddy Holly",
+     "right": [
+      "Monica"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 16,
+     "q": "In an 1811 massacre, this pasha of Egypt (not the boxer) knocked out the Mamluks for good",
+     "a": "Muhammad Ali",
+     "right": [
+      "Monica"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "Artwork brought to China for the expo included a van Gogh, a Gauguin & a self-portrait by this woman in the Mexico pavilion",
+     "a": "Frida Kahlo",
+     "right": [
+      "Monica"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 4,
+     "q": "\"Wool of\" one of these flyers",
+     "a": "bat",
+     "right": [
+      "Monica"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 9,
+     "q": "Perhaps a slippery sombrero inspired this phrase meaning \"on a moment's notice\"",
+     "a": "at the drop of a hat",
+     "right": [
+      "Monica"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 18,
+     "q": "There's a first name in this term for a policeman's heavy nightstick",
+     "a": "a billy club",
+     "right": [
+      "Renee"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 24,
+     "q": "...and the Sunshine Band",
+     "a": "KC",
+     "right": [
+      "Monica"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 20,
+     "q": "Construction began on the USA's first federal highway, known as this road after the town in which it originated",
+     "a": "Cumberland Road",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 30,
+     "q": "These two special Chinese administrative regions each had a pavilion",
+     "a": "Hong Kong and Macao",
+     "right": [
+      "Monica"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 5,
+     "q": "\"Toe of\" this amphibian",
+     "a": "frog",
+     "right": [
+      "Chloe"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 10,
+     "q": "It's an old medical term for edema, the abnormal swelling of body tissue",
+     "a": "dropsy",
+     "right": [
+      "Chloe"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 19,
+     "q": "If you need a policeman in Marseilles, ask for one of these",
+     "a": "a gendarme",
+     "right": [
+      "Monica"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 25,
+     "q": "...and the Wailers",
+     "a": "Bob Marley",
+     "right": [
+      "Chloe"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "EUROPEAN NATIONALITIES",
+    "MOVIE TITLE MATH",
+    "YOU'RE THE TOP",
+    "McMEN",
+    "PINEAPPLES",
+    "ENDS WITH A BODY PART"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 10,
+     "q": "Effleurage is a light gliding stroke used in this hands-on type of spa treatment",
+     "a": "Swedish massage",
+     "right": [
+      "Chloe"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 6,
+     "q": "Number of simians in a Bruce Willis time travel movie squared",
+     "a": "144",
+     "right": [
+      "Chloe"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 16,
+     "q": "In 1985 Reagan & Gorbachev met in Geneva in this type of diplomatic meeting",
+     "a": "a summit",
+     "right": [
+      "Chloe"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 26,
+     "q": "In 1831 at age 22, he tried his hand at building a reaper",
+     "a": "McCormick",
+     "right": [
+      "Renee"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 21,
+     "q": "(Sarah of the Clue Crew reports from a pineapple plantation.) Pineapples are the only widely eaten of the bromeliads, a family of 3,000 species; like others, they aren't grown from seed, but by planting the top leafy structure, called this",
+     "a": "a crown",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "Someone who moves props or lighting for a theatrical production",
+     "a": "a stagehand",
+     "right": [
+      "Renee"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 12,
+     "q": "It's basically a big kettle with a close-fitting lid, used to cook pot roasts & stews",
+     "a": "a Dutch oven",
+     "right": [
+      "Renee"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 7,
+     "q": "Number of \"Weeks\" in a Mickey Rourke film plus the title of a Fellini film; they add up to a whole number",
+     "a": "18",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 18,
+     "q": "A fictional co. that may or may not help in roadrunner chasing, or a word from the Greek for \"highest point\"",
+     "a": "acme",
+     "right": [
+      "Renee"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 27,
+     "q": "His colleagues in the Senate had the decency to censure him, at long last, on Dec. 2, 1954",
+     "a": "(Joseph) McCarthy",
+     "right": [
+      "Monica"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 22,
+     "q": "(Sarah of the Clue Crew reports from a pineapple plantation.) Pineapple cultivation needs relatively little irrigation; with its reservoir formed in the leaves, the plant is a natural xerophyte, from the Greek \"xeros\", meaning this",
+     "a": "dry",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 2,
+     "q": "To identify an illness via medical exam",
+     "a": "diagnose",
+     "right": [
+      "Monica"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 13,
+     "q": "Leopoldville was the capital of this colony that existed from 1908 to 1960",
+     "a": "the Belgian Congo",
+     "right": [
+      "Monica"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 8,
+     "q": "Number of \"Days Later\" in a zombie flick divided by the title number of heroes in a Jessica Alba Marvel movie",
+     "a": "7",
+     "right": [
+      "Chloe"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 19,
+     "q": "The point formed in the hairline in the middle of the forehead is a \"widow's\" this",
+     "a": "peak",
+     "right": [
+      "Renee"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 28,
+     "q": "You don't have to picture this Republican senator; he's seen here",
+     "a": "(Mitch) McConnell",
+     "right": [
+      "Monica"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 23,
+     "q": "(Sarah of the Clue Crew reports from a pineapple plantation.) The pineapple shoots that grow from the mother plants after the main harvest are called the ratoon crop, also the Hawaiian term for a baby born to late-in-life parents; the word is thought to be from the Latin for this season",
+     "a": "autumn",
+     "right": [
+      "Chloe"
+     ],
+     "wrong": [
+      "Renee"
+     ],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 3,
+     "q": "Smugglers who hid booze in their footwear gave rise to this adjective for something made or sold illicitly",
+     "a": "a bootleg",
+     "right": [
+      "Renee"
+     ],
+     "wrong": [
+      "Chloe"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 14,
+     "q": "The uppermost polyp of this poisonous sea creature was thought to resemble a sail, hence its name",
+     "a": "a Portuguese man-of-war",
+     "right": [
+      "Monica"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 8000
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 9,
+     "q": "It's what 2(x+y) equals if x is the number of \"Angry Men\" in a 1957 film & y is the \"Kings\" in a George Clooney movie",
+     "a": "30",
+     "right": [
+      "Monica"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 20,
+     "q": "8-letter word for the highest point of success or the highest part of a rock formation",
+     "a": "pinnacle",
+     "right": [
+      "Renee"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 3000
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 25,
+     "q": "This '60s secretary of defense passed away in July 2009",
+     "a": "(Robert) McNamara",
+     "right": [
+      "Monica"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 29,
+     "q": "(Sarah of the Clue Crew reports from a pineapple plantation.) The material that's laid down where pineapples are planted keeps weeds off, retains warmth & keeps moisture in; though it's a strip of plastic rather than organic material, it's called this",
+     "a": "mulch",
+     "right": [],
+     "wrong": [
+      "Renee"
+     ],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 4,
+     "q": "A spiky sea critter, or a mischievous boy",
+     "a": "an urchin",
+     "right": [
+      "Monica"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 15,
+     "q": "The Elgin marbles helped establish this architectural style, based on 5th century B.C. works",
+     "a": "Greek revival",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 11,
+     "q": "Number preceding \"Pick Up\" in a Roy Scheider film minus Wesley Snipes' \"Passenger\" number in a 1992 movie",
+     "a": "-5",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 17,
+     "q": "This TV-making brand got its start in 1918 making radio equipment in Chicago",
+     "a": "Zenith",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 24,
+     "q": "This 18th century Scotman invented a form of pavement",
+     "a": "(John) McAdam",
+     "right": [
+      "Renee"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 30,
+     "q": "(Sarah of the Clue Crew reports from a pineapple plantation.) Whether grown in Africa or here in Hawaii, pineapples have eight spirals in one direction & 13 in the other--one example where nature shows the number sequence named for this Italian mathematician",
+     "a": "Fibonacci",
+     "right": [
+      "Chloe"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 5,
+     "q": "Most opulent",
+     "a": "richest",
+     "right": [
+      "Chloe"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "U.S. CITIES",
+  "q": "Alphabetically first among the 150 most populous U.S. cities, it has become the \"polymer capital of the world\"",
+  "a": "Akron",
+  "right": [
+   "Chloe",
+   "Monica"
+  ],
+  "wrong": [
+   "Renee"
+  ]
+ },
+ "gameId": "3653",
+ "cat_notes": {
+  "J": [
+   "Clues about 1811.",
+   "Clues about The Shanghai World Expo.",
+   "Clues about Ingredients in the Macbeth Witches Cauldron.",
+   "Each answer contains the letter group “DROP”.",
+   "The category “IT'S THE POLICE” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "Clues about I'll Need Some Backup."
+  ],
+  "DJ": [
+   "Each correct response in [*] will contain a European nationality.",
+   "Clues about Movie Title Math.",
+   "Clues about You're the Top.",
+   "Clues about Mcmen.",
+   "Clues about Pineapples.",
+   "Each answer ends with Body Part."
+  ],
+  "F": "Clues about U.S. Cities."
+ }
+}

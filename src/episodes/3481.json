@@ -1,0 +1,981 @@
+{
+ "show": "#5999",
+ "aired": "2010-10-14",
+ "note": "",
+ "contestants": [
+  {
+   "name": "Anjali Chelliah Sawe",
+   "bio": "a pediatric cardiologist from New York, New York",
+   "short": "Anjali"
+  },
+  {
+   "name": "Theo McLauchlin",
+   "bio": "a graduate student from Montreal, Quebec",
+   "short": "Theo"
+  },
+  {
+   "name": "Sara Wilkinson",
+   "bio": "a country club concierge from Athens, Georgia (whose 1-day cash winnings total $25,000)",
+   "short": "Sara"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Sara": 600,
+   "Theo": 5600,
+   "Anjali": 5200
+  },
+  "DJ": {
+   "Sara": 11000,
+   "Theo": 2600,
+   "Anjali": 10000
+  },
+  "Final": {
+   "Sara": 20001,
+   "Theo": 4200,
+   "Anjali": 14799
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "THE GOSPELS",
+    "THAT '70s TEAM",
+    "\"CO\" CO.s",
+    "WOMEN'S FIRSTS",
+    "CORN-UCOPIA",
+    "ANIMATED PUZZLES"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "He cast down 30 pieces of silver in the temple \"and departed, and went and hanged himself\"",
+     "a": "Judas",
+     "right": [
+      "Sara"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 7,
+     "q": "In 1977 Graig Nettles, Mickey Rivers & Thurman Munson wore this team's pinstripes",
+     "a": "New York Yankees",
+     "right": [
+      "Theo"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 6,
+     "q": "This company made the first soft drink consumed in space",
+     "a": "Coca-Cola",
+     "right": [
+      "Theo"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 16,
+     "q": "Georgia Neese Clark was right on the money, or at least her signature was, as the first woman in this post",
+     "a": "U.S. Treasurer",
+     "right": [],
+     "wrong": [
+      "Sara"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 18,
+     "q": "CoolPatch Pumpkins in Dixon, Calif. boasted the world's largest one of these--over 40 acres to get lost in!",
+     "a": "a cornfield maze",
+     "right": [
+      "Theo"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 25,
+     "q": "An '80s dance step",
+     "a": "moonwalk",
+     "right": [
+      "Anjali"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "In the first chapter of Luke, she said, \"my soul doth magnify the lord\" & \"all generations shall call me blessed\"",
+     "a": "Mary",
+     "right": [
+      "Anjali"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 8,
+     "q": "In 1972 Jerry West, Happy Hairston & Pat Riley (yes, that Pat Riley) ran the floor for this team",
+     "a": "the Lakers",
+     "right": [
+      "Theo"
+     ],
+     "wrong": [
+      "Anjali"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 12,
+     "q": "Some of the earliest revolvers by this company were the pocket, belt & holster models",
+     "a": "Colt",
+     "right": [
+      "Theo"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 17,
+     "q": "In 2009 Darwin's great-great-granddaughter Ruth Padel became this univ.'s first female professor of poetry",
+     "a": "Oxford",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 19,
+     "q": "The \"straight\" type of this liquor is distilled from a mash of at least 51% but not more than 79% corn",
+     "a": "bourbon",
+     "right": [
+      "Theo"
+     ],
+     "wrong": [
+      "Anjali"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 26,
+     "q": "You might see this written in a cemetery",
+     "a": "rest in peace",
+     "right": [
+      "Anjali"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": true,
+     "order": 3,
+     "q": "Sin committed by the woman about whom Jesus said, \"he that is without sin among you, let him first cast a stone at her\"",
+     "a": "adultery",
+     "right": [
+      "Anjali"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1000
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 9,
+     "q": "L.C. Greenwood, Mel Blount & Franco Harris were on this squad's 1975 roster",
+     "a": "the Steelers",
+     "right": [
+      "Theo"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 13,
+     "q": "Started as a glass company, it went on to make light bulbs, television tubes &, of course, cookware",
+     "a": "Corning",
+     "right": [
+      "Anjali"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 23,
+     "q": "In 1849 Elizabeth Blackwell became the first woman in the U.S. to earn a degree in this",
+     "a": "medicine",
+     "right": [
+      "Theo"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 20,
+     "q": "These threadlike fibers that grow beneath the husk are used in herbal medicines & tea",
+     "a": "corn silk",
+     "right": [
+      "Anjali"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 27,
+     "q": "Type of business that may not be here tomorrow",
+     "a": "fly-by-night",
+     "right": [
+      "Sara"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 4,
+     "q": "This disciple said, \"except I shall see in his hands the print of the nails... I will not believe\"",
+     "a": "Thomas",
+     "right": [
+      "Theo"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 10,
+     "q": "Darryl \"Chocolate Thunder\" Dawkins, Joe (Kobe's dad) Bryant & Julius \"Dr. J\" Erving hooped it up in 1979 for this team",
+     "a": "Philadelphia 76ers",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 14,
+     "q": "The earliest products by this company were candles, starch &, of course, soap",
+     "a": "Colgate",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 24,
+     "q": "Not Mel Brooks' wife but this explorer was the first woman to cross the ice to the North Pole",
+     "a": "Ann Bancroft",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 21,
+     "q": "Home to the Missouri Meerschaum Co., Washington, Missouri is hailed as this \"capital of the world\"",
+     "a": "corn pipe",
+     "right": [
+      "Anjali"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 28,
+     "q": "The earliest-known\nAmerican one was noted in 1799",
+     "a": "merry-go-round",
+     "right": [
+      "Theo"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 5,
+     "q": "After finding the disciples asleep in the garden of Gethsemane, Jesus said this \"indeed is willing, but the flesh is weak\"",
+     "a": "the spirit",
+     "right": [
+      "Anjali"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 11,
+     "q": "Larry Csonka, Larry Seiple, Larry Little & a bunch of no-names--at least on defense--played for this '72 undefeated team",
+     "a": "the Dolphins",
+     "right": [
+      "Theo"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 15,
+     "q": "Kirkland Signature is the house brand for this membership store",
+     "a": "Costco",
+     "right": [
+      "Theo"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 30,
+     "q": "A statue of her, the first woman elected to Congress, represents Montana in the U.S. Capitol",
+     "a": "Jeannette Rankin",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 22,
+     "q": "Seen here is one of the murals made with locally grown corn that has graced the Mitchell Corn Palace in this state",
+     "a": "South Dakota",
+     "right": [],
+     "wrong": [
+      "Theo"
+     ],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 29,
+     "q": "It happens in tough economic times",
+     "a": "corporate downsizing",
+     "right": [
+      "Anjali"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "GENERAL SCIENCE",
+    "CARTOON VOICES",
+    "MY NAME IS HENRY, I'LL BE YOUR WRITER",
+    "VARIETY PACK",
+    "OHIOANS",
+    "\"BUCK\" EYES"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 9,
+     "q": "In this type of simple machine, a version of the inclined plane, rotational force is translated into linear force",
+     "a": "a screw",
+     "right": [
+      "Sara"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 6,
+     "q": "Po, the title character in \"Kung Fu Panda\"",
+     "a": "Jack Black",
+     "right": [
+      "Sara"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "I used the meter of the Finnish epic \"Kalevala\" as the basis for that of \"The Song of Hiawatha\"",
+     "a": "Longfellow",
+     "right": [
+      "Anjali"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 14,
+     "q": "It's a slang term for a job for musicians, or a pronged spear used for fishing or catching frogs",
+     "a": "a gig",
+     "right": [
+      "Sara"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 21,
+     "q": "In 1941, 50 years affer his death, a military tank was named for this Lancaster, Ohio-born general",
+     "a": "Sherman",
+     "right": [
+      "Theo"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 24,
+     "q": "He was a little rascal, o-tay?",
+     "a": "Buckwheat",
+     "right": [
+      "Sara"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 10,
+     "q": "All existing species of these have placentas except marsupials & monotremes",
+     "a": "mammals",
+     "right": [
+      "Anjali"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 7,
+     "q": "Fiona in the \"Shrek\" movies",
+     "a": "Cameron Diaz",
+     "right": [
+      "Anjali"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": true,
+     "order": 2,
+     "q": "Emerson encouraged me to start keeping a journal, which I did until a few months before my death in 1862",
+     "a": "Henry David Thoreau",
+     "right": [],
+     "wrong": [
+      "Anjali"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2000
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 17,
+     "q": "The words tanning & tannin come from an old German word for this mighty tree, once the main source of tannin",
+     "a": "an oak",
+     "right": [
+      "Sara"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": true,
+     "order": 22,
+     "q": "This Ohioan was Teddy Roosevelt's veep & lent his name to a city in Alaska",
+     "a": "Fairbanks",
+     "right": [],
+     "wrong": [
+      "Theo"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 3000
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 25,
+     "q": "When it was founded in 1893, Sears was paired with this man's name",
+     "a": "Roebuck",
+     "right": [
+      "Sara"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 11,
+     "q": "This Saturnian moon is the only one in the solar system known to have clouds",
+     "a": "Titan",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 8,
+     "q": "Mr. Potato Head in all 3 \"Toy Story\" movies",
+     "a": "Don Rickles",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 3,
+     "q": "I wrote in \"Tropic of Cancer\", \"every man with a bellyful of the classics is an enemy to the human race\"",
+     "a": "Henry Miller",
+     "right": [
+      "Sara"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 18,
+     "q": "This 3-word phrase describes a desperate \"leap\" taken by a TV show to retain ratings",
+     "a": "jump the shark",
+     "right": [
+      "Sara"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 23,
+     "q": "In 1890 Ohioan Caroline Harrison became the first president general of this org. that traces members' lineages to 1776",
+     "a": "the D.A.R. (Daughters of the American Revolution)",
+     "right": [
+      "Anjali"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 26,
+     "q": "They backed up country music legend Buck Owens",
+     "a": "The Buckaroos",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 12,
+     "q": "In the U.S. the \"stately\" time divisions in the Carboniferous Period are called the Mississippian & this",
+     "a": "the Pennsylvanian",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 15,
+     "q": "Carl Fredricksen in \"Up\"",
+     "a": "Ed Asner",
+     "right": [
+      "Sara"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 4,
+     "q": "1904's \"The Golden Bowl\" was one of my last novels; I later became a British subject",
+     "a": "Henry James",
+     "right": [
+      "Sara"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 19,
+     "q": "In 1931 this Hull House founder was awarded the Nobel Peace Prize, the first American woman so honored",
+     "a": "(Jane) Addams",
+     "right": [
+      "Anjali"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 29,
+     "q": "Born in Bowersville, he had a bestselling book in 1952 with \"The Power of Positive Thinking\"",
+     "a": "Norman Vincent Peale",
+     "right": [
+      "Sara"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 27,
+     "q": "2-word term for an enlisted man of the lowest rank",
+     "a": "a buck private",
+     "right": [
+      "Theo"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 13,
+     "q": "It's the \"specific\" ratio between the density of pure water & that of another substance; for gold, it's 19.3",
+     "a": "specific gravity",
+     "right": [],
+     "wrong": [
+      "Theo"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 16,
+     "q": "Mrs. Potts the teapot in \"Beauty and the Beast\"",
+     "a": "Angela Lansbury",
+     "right": [
+      "Sara"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 5,
+     "q": "My 1742 novel \"Joseph Andrews\" was \"written in imitation of the manner of Cervantes\"",
+     "a": "Henry Fielding",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 20,
+     "q": "In 1954 Monaco's Prince Rainier created the Order of this family to reward those who contribute to the country's prestige",
+     "a": "Grimaldi",
+     "right": [
+      "Anjali"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 30,
+     "q": "This Steubenville, Ohio native served Abe Lincoln as Secretary of War",
+     "a": "Edwin Stanton",
+     "right": [],
+     "wrong": [
+      "Sara"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 28,
+     "q": "Used as currency on the frontier in the 1700s, these deer hides gave us a slang term for a dollar",
+     "a": "buckskins",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "COUNTRY NAMES",
+  "q": "The only 2 countries in the world with an \"X\" in their names, one is found in Europe & one in the Americas",
+  "a": "Luxembourg and Mexico",
+  "right": [
+   "Theo",
+   "Anjali",
+   "Sara"
+  ],
+  "wrong": []
+ },
+ "gameId": "3481",
+ "cat_notes": {
+  "J": [
+   "Clues about The Gospels.",
+   "Clues about That 70s Team.",
+   "Each answer starts with “CO”.",
+   "Clues about Women's Firsts.",
+   "Clues about Corn-ucopia.",
+   "Clues about Animated Puzzles."
+  ],
+  "DJ": [
+   "Clues about General Science.",
+   "Clues about Cartoon Voices.",
+   "Clues about henrys, riffing on the title “MY NAME IS HENRY, I'LL BE YOUR WRITER”.",
+   "Clues about Variety Pack.",
+   "Clues about Ohioans.",
+   "Each answer contains the letter group “BUCK”, and the clues are about Eyes."
+  ],
+  "F": "Clues about Country Names."
+ }
+}

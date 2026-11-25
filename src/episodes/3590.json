@@ -1,0 +1,993 @@
+{
+ "show": "#6099",
+ "aired": "2011-03-03",
+ "note": "",
+ "contestants": [
+  {
+   "name": "Carl Bradshaw",
+   "bio": "a financial manager from St. Louis, Missouri",
+   "short": "Carl"
+  },
+  {
+   "name": "Cecilia Boudreau",
+   "bio": "a lawyer for a nonprofit from Washington, D.C.",
+   "short": "Cecilia"
+  },
+  {
+   "name": "Kate Rowland",
+   "bio": "a family doctor from Chicago, Illinois (whose 1-day cash winnings total $16,401)",
+   "short": "Kate"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Kate": 7800,
+   "Cecilia": 1000,
+   "Carl": 7200
+  },
+  "DJ": {
+   "Kate": 11400,
+   "Cecilia": 5400,
+   "Carl": 17200
+  },
+  "Final": {
+   "Kate": 5400,
+   "Cecilia": 3800,
+   "Carl": 11599
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "STATE NICKNAMES",
+    "ALPHABET ROCKERS",
+    "SPECIAL MONTHS",
+    "THE INSTRUMENT OF DEATH",
+    "WHAT A NICE PAIR!",
+    "\"TIME\"LY WORDS"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 3,
+     "q": "It's called the \"Smallest State\" for a reason",
+     "a": "Rhode Island",
+     "right": [
+      "Kate"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 8,
+     "q": "These rappers remixed Aerosmith's \"Walk This Way\" into a Top 10 hit in 1986",
+     "a": "Run–D.M.C.",
+     "right": [
+      "Kate"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 9,
+     "q": "Shape Up U.S. Month &\nGet Organized Month",
+     "a": "January",
+     "right": [
+      "Cecilia"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "In 1793 Jean-Paul Marat was retired in the bath with one of these",
+     "a": "a knife",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 19,
+     "q": "Before it went preppy, this pair's store outfitted expeditions such as Charles Lindbergh's & Admiral Byrd's",
+     "a": "Abercrombie & Fitch",
+     "right": [
+      "Carl"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 14,
+     "q": "In this technique, a slow process such as plant growth is photographed at intervals & unfolds at high speed",
+     "a": "time-lapse photography",
+     "right": [
+      "Cecilia"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 4,
+     "q": "It's \"the Peninsula State\" because, well, because most of its area is a peninsula",
+     "a": "Florida",
+     "right": [
+      "Kate"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 20,
+     "q": "Their Texas boogie rock hits include \"Gimme All Your Lovin\" & \"Sharp Dressed Man\"",
+     "a": "ZZ Top",
+     "right": [
+      "Carl"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 10,
+     "q": "Library Lovers' Month &\nBlack History Month",
+     "a": "February",
+     "right": [
+      "Kate"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "In 1914 Franz Ferdinand didn't say \"Take Me Out\" but was anyway, via this",
+     "a": "a gunshot",
+     "right": [
+      "Carl"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 24,
+     "q": "This 3-word legal \"order\" is issued to one whose business practices are deemed to be illegal or unfair",
+     "a": "cease and desist",
+     "right": [
+      "Kate"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 15,
+     "q": "Arrangement in which employees set their own work schedules, especially their starting & finishing hours",
+     "a": "flex time",
+     "right": [
+      "Cecilia"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 5,
+     "q": "It's not only the \"Mother of Presidents\", it's the \"Mother of Statesmen\" as well",
+     "a": "Virginia",
+     "right": [
+      "Carl"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 21,
+     "q": "Their hit song \"Man On The Moon\" is a musical tribute to comedian Andy Kaufman",
+     "a": "R.E.M.",
+     "right": [
+      "Carl"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 11,
+     "q": "National Craft Month &\nIrish-American Heritage Month",
+     "a": "March",
+     "right": [
+      "Kate"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 28,
+     "q": "In 1940 Leon Trotsky, not one of his employees, got this",
+     "a": "the axe",
+     "right": [
+      "Kate"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 25,
+     "q": "According to legend, Rome was founded in 753 B.C. by these twins; one died & the other named the city for himself",
+     "a": "Romulus & Remus",
+     "right": [
+      "Carl"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 16,
+     "q": "A schedule listing arrivals & departures for buses or trains",
+     "a": "a timetable",
+     "right": [
+      "Kate"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 6,
+     "q": "The vast quantities of grapes grown there have caused this state to become known as \"the Grape State\"",
+     "a": "California",
+     "right": [
+      "Carl"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 22,
+     "q": "This '80s hair band from Illinois topped the charts with \"Keep On Loving You\" & \"Can't Fight This Feeling\"",
+     "a": "R.E.O. Speedwagon",
+     "right": [
+      "Carl"
+     ],
+     "wrong": [
+      "Cecilia"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 12,
+     "q": "Navajo Code Talkers Month &\nNational Salsa Month",
+     "a": "May",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "In 1880 outlaw Ned Kelly was doing this around Melbourne",
+     "a": "hanging",
+     "right": [
+      "Kate"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 26,
+     "q": "\"Attack of the Deranged Mutant Killer Monster Snow Goons\" is a collection of comics with this boy & tiger combo",
+     "a": "Calvin & Hobbes",
+     "right": [
+      "Carl"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 17,
+     "q": "Scott Joplin wrote, \"Never play\" this style of music \"fast\"",
+     "a": "ragtime",
+     "right": [
+      "Kate"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 7,
+     "q": "Arbor Day likely helped it become \"the Tree Planters State\"",
+     "a": "Nebraska",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 23,
+     "q": "This U.K. reggae-pop band with hits in the '80s & '90s took its name from a British unemployment form",
+     "a": "UB40",
+     "right": [
+      "Carl"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": true,
+     "order": 13,
+     "q": "PTA Membership Enrollment Month (in many states) &\nNational Preparedness Month",
+     "a": "September",
+     "right": [
+      "Kate"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1800
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 30,
+     "q": "In 1946, in order to avoid the noose, Hermann Goering picked his this",
+     "a": "poison pill (cyanide accepted)",
+     "right": [
+      "Carl"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 27,
+     "q": "Judges 16 details the hairy adventures of this noted twosome",
+     "a": "Samson & Delilah",
+     "right": [
+      "Cecilia"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 18,
+     "q": "\"Army Wives\" is the most-watched original series in this cable network's 25-year history",
+     "a": "Lifetime",
+     "right": [
+      "Kate"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "WILL U.",
+    "MARY: ME",
+    "WHAT'S IN YOUR WALLET?",
+    "TV CITY SETTINGS",
+    "STARTS WITH A BODY PART",
+    "THE SYDNEY OPERA HOUSE"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "The college named for this historic duo is in Williamsburg, Virginia",
+     "a": "William & Mary",
+     "right": [
+      "Carl"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 12,
+     "q": "Me: Mary McCauly, known as this for bringing water to the Patriots at the Battle of Monmouth",
+     "a": "Molly Pitcher",
+     "right": [
+      "Kate"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 11,
+     "q": "Some postage stamps from the animal rescue series that say adopt a pet from one of these",
+     "a": "a shelter",
+     "right": [
+      "Kate"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 3,
+     "q": "\"Boardwalk Empire\"",
+     "a": "Atlantic City",
+     "right": [
+      "Carl"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 17,
+     "q": "It's what you leave behind--money, wisdom, something that's part of your history",
+     "a": "your legacy",
+     "right": [
+      "Kate"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 23,
+     "q": "(Sarah of the Clue Crew reports from outside the Opera House in Sydney, Australia.) In 1973, \"The Magic Flute\", which included a queen character, was the first performance given here, & in the hall on opening night was this woman, who officially opened the Opera House",
+     "a": "Queen Elizabeth",
+     "right": [
+      "Kate"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 7,
+     "q": "The university named for him is in Bristol, Rhode Island",
+     "a": "Roger Williams",
+     "right": [
+      "Cecilia"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 13,
+     "q": "Me: Mary Anne Talbot, known as the \"British\" this type of warrior woman for serving in the army & navy disguised as a man",
+     "a": "an Amazon",
+     "right": [
+      "Cecilia"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 15,
+     "q": "My rewards card from this bookstore chain that has its headquarters in Ann Arbor, Michigan",
+     "a": "Borders",
+     "right": [
+      "Kate"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 2,
+     "q": "\"The Practice\"",
+     "a": "Boston",
+     "right": [
+      "Cecilia"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 19,
+     "q": "The name of this Japanese religion actually comes from Chinese words",
+     "a": "Shinto",
+     "right": [
+      "Kate"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 27,
+     "q": "(Kelly of the Clue Crew reports from inside the Opera House in Sydney, Australia.) To compensate for the high ceilings in the concert hall, acrylic rings were hung to reflect the sound of the instruments back to the orchestra & to improve this, from the Greek for \"to hear\"",
+     "a": "the acoustics",
+     "right": [
+      "Kate"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 8,
+     "q": "The university named for this 27th president has no classrooms (or bathtubs); it teaches all its courses online",
+     "a": "(William Howard) Taft",
+     "right": [
+      "Cecilia"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 14,
+     "q": "Me: Mary of Lorraine, regent of this country for my 12-year-old daughter, Mary Stuart",
+     "a": "Scotland",
+     "right": [
+      "Carl"
+     ],
+     "wrong": [
+      "Cecilia"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 24,
+     "q": "A ticket stub from a concert at this outdoor venue, the summer home of the L.A. Philharmonic",
+     "a": "the Hollywood Bowl",
+     "right": [
+      "Cecilia"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 4,
+     "q": "\"The Mentalist\"",
+     "a": "Sacramento",
+     "right": [],
+     "wrong": [
+      "Cecilia"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 20,
+     "q": "Breaker, breaker--it's a nickname used by a CB enthusiast while broadcasting",
+     "a": "a handle",
+     "right": [
+      "Carl"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 28,
+     "q": "(Kelly of the Clue Crew reports from inside the Opera House in Sydney, Australia) In March 2010, just shy of 90, this sitar virtuoso performed on the opera house stage with his daughter Anoushka in his \"Farewell to Australia\" tour",
+     "a": "Ravi Shankar",
+     "right": [
+      "Kate"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 9,
+     "q": "The university named for this river is just across the street from Oregon's Capitol building",
+     "a": "the Willamette",
+     "right": [
+      "Cecilia"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2000
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 16,
+     "q": "Me: Mary Mallon, & I'm not too crazy about this nickname--anyone can be a carrier",
+     "a": "Typhoid Mary",
+     "right": [
+      "Carl"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 25,
+     "q": "My Red Cross blood donor id card with my blood type, AB positive, known as the universal this",
+     "a": "recipient",
+     "right": [
+      "Carl"
+     ],
+     "wrong": [
+      "Kate"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 5,
+     "q": "\"Castle\"",
+     "a": "New York",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 21,
+     "q": "The fur of this rodent seen here is said to be 30 times softer than human hair",
+     "a": "the chinchilla",
+     "right": [],
+     "wrong": [
+      "Carl"
+     ],
+     "stumper": false,
+     "img": true,
+     "ddWager": 2000
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 29,
+     "q": "(Sarah of the Clue Crew reads from in front of the Opera House in Sydney, Australia) As the story goes, Danish architect Jorn Utzon's winning design for the opera house was saved from the rejection pile by this famed architect from Finland",
+     "a": "(Eero) Saarinen",
+     "right": [
+      "Carl"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 10,
+     "q": "The university named for this Quaker leader is in Oskaloosa, Iowa, not Altoona or Monongahela",
+     "a": "William Penn",
+     "right": [
+      "Carl"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 18,
+     "q": "Me: Mary Rowlandson, author of an account of my 1676 captivity during the war of this Native Amer. \"king\"",
+     "a": "King Philip",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 26,
+     "q": "A picture of my pooch--this Swiss mountain dog",
+     "a": "a Bernese",
+     "right": [],
+     "wrong": [
+      "Cecilia"
+     ],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 6,
+     "q": "\"Thirtysomething\"",
+     "a": "Philadelphia",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 22,
+     "q": "It's a temporary stopping of warfare by mutual consent",
+     "a": "an armistice",
+     "right": [
+      "Cecilia"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 30,
+     "q": "(Sarah of the Clue Crew reports from the stage of the Opera House in Sydney, Australia.) In September 2009, this 65-year-old dame of Maori descent thrilled audiences here on the Opera House stage, singing Strauss & Puccini",
+     "a": "(Kiri Te) Kanawa",
+     "right": [
+      "Carl"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "BIOGRAPHIES",
+  "q": "Michael Foldy examined \"The Trials of\" this author: \"Deviance, Morality, and Late-Victorian Society\"",
+  "a": "Oscar Wilde",
+  "right": [],
+  "wrong": [
+   "Cecilia",
+   "Kate",
+   "Carl"
+  ]
+ },
+ "gameId": "3590",
+ "cat_notes": {
+  "J": [
+   "Clues about State Nicknames.",
+   "Clues about Alphabet Rockers.",
+   "Clues about Special Months.",
+   "Clues about The Instrument of Death.",
+   "The category “WHAT A NICE PAIR!” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "Each answer contains the letter group “TIME”, and the clues are about Ly Words."
+  ],
+  "DJ": [
+   "Clues about Will U.",
+   "Clues about Mary: Me.",
+   "The category “WHAT'S IN YOUR WALLET?” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "Clues about TV City Settings.",
+   "Each answer starts with Body Part.",
+   "(Kelly: Behind the scenes and the story of one of the world's most original and recognizable designs.)."
+  ],
+  "F": "Clues about Biographies."
+ }
+}

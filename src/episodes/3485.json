@@ -1,0 +1,987 @@
+{
+ "show": "#6003",
+ "aired": "2010-10-20",
+ "note": "",
+ "contestants": [
+  {
+   "name": "Tommy Jordan",
+   "bio": "a pastor from Sylvania, Arkansas",
+   "short": "Tommy"
+  },
+  {
+   "name": "Megan Griffiths",
+   "bio": "a conservation technician from Omaha, Nebraska",
+   "short": "Megan"
+  },
+  {
+   "name": "Matt DeTura",
+   "bio": "a recent law school graduate from Washington, D.C. (whose 2-day cash winnings total $45,200)",
+   "short": "Matt"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Matt": 3200,
+   "Megan": 4600,
+   "Tommy": 6600
+  },
+  "DJ": {
+   "Matt": 13000,
+   "Megan": 5800,
+   "Tommy": 8200
+  },
+  "Final": {
+   "Matt": 16401,
+   "Megan": 8800,
+   "Tommy": 200
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "VOLCANOES",
+    "WE'RE CUCKOO",
+    "20th CENTURY WOMEN",
+    "MORE THAN ONE MEANING",
+    "SEEMS LIKE LONG AGO",
+    "ONLY YESTERDAY"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 3,
+     "q": "In 2010 stranded airline passengers learned that Eyjafjallajokull is a volcano in this country",
+     "a": "Iceland",
+     "right": [
+      "Tommy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "Unlike most birds, cuckoos have 2 of these pointing forward & 2 pointing backwards, if you \"grasp\" the clue",
+     "a": "talons (or toes)",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 5,
+     "q": "At a June 2008 auction, candid footage of her on the set of \"The Misfits\" sold for $60,000",
+     "a": "Marilyn Monroe",
+     "right": [
+      "Megan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 17,
+     "q": "A king's headgear, or a tooth cover",
+     "a": "a crown",
+     "right": [
+      "Megan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 22,
+     "q": "Around 900 the Toltec leader \"Cloud Serpent\" sacked Teotihuacan in what's now this country",
+     "a": "Mexico",
+     "right": [
+      "Tommy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 13,
+     "q": "\"Yesterday\" was released as a Beatles song, but this lad wrote & sang it himself",
+     "a": "(Paul) McCartney",
+     "right": [
+      "Tommy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 4,
+     "q": "A Japanese proverb says, \"he who climbs\" this peak \"once is a wise man, he who climbs it twice is a fool\"",
+     "a": "Mt. Fuji",
+     "right": [
+      "Megan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "In this 1975 film Jack Nicholson commented, \"I must be crazy to be in a looney bin like this!\"",
+     "a": "One Flew Over the Cuckoo's Nest",
+     "right": [
+      "Tommy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 6,
+     "q": "Before she was Secretary of State, she was a professor of international affairs at Georgetown Univ.",
+     "a": "Madeline Albright",
+     "right": [
+      "Tommy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 18,
+     "q": "A chemical element, or a golf club",
+     "a": "iron",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 23,
+     "q": "In Egypt in the 2nd millennium B.C., a typical daily laborer's wage included 1 or 2 jugs of this",
+     "a": "beer",
+     "right": [
+      "Megan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 14,
+     "q": "The thousands of covers include this group singing \"I'm not half the girl I used to be\" on the album \"I Hear a Symphony\"",
+     "a": "The Supremes",
+     "right": [
+      "Tommy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": true,
+     "order": 7,
+     "q": "According to National Geographic, it's the most dangerous volcano in the lower 48 states",
+     "a": "Mt. St. Helens",
+     "right": [
+      "Tommy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1000
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 28,
+     "q": "Edmund Spenser called the cuckoo the \"messenger of\" this season",
+     "a": "Spring",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 10,
+     "q": "She's one tough bunny--she ran daddy's Playboy Enterprises as CEO for over 20 years",
+     "a": "Christie Hefner",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 19,
+     "q": "To throw a baseball, or to present a TV show idea for production consideration",
+     "a": "pitch",
+     "right": [
+      "Tommy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 24,
+     "q": "In 627 Meccans besieged this city, but new resident Muhammad & his followers saved the day by digging a trench",
+     "a": "Medina",
+     "right": [
+      "Megan"
+     ],
+     "wrong": [
+      "Matt"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 15,
+     "q": "This man crooned \"Yesterday\" on his 1969 album \"My Way\"",
+     "a": "Frank Sinatra",
+     "right": [
+      "Tommy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 8,
+     "q": "In Sicilian it's called Muncibeddu, meaning \"mountain\"",
+     "a": "Mt. Etna",
+     "right": [
+      "Tommy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "Many cuckoo clocks have weights made into the shape of this reproductive part of a certain evergreen tree",
+     "a": "a pine cone",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 11,
+     "q": "She's the author & poet heard here reading from her memoir \"A Song Flung Up to Heaven\"\n\nThe times were so solemn, and the daily news so somber that we snatched mirth\n from unlikely places.",
+     "a": "Maya Angelou",
+     "right": [
+      "Megan"
+     ],
+     "wrong": [
+      "Matt"
+     ],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 20,
+     "q": "It's a house of worship, or the flattened region on either side of the forehead",
+     "a": "a temple",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 25,
+     "q": "In the 11th C. south Indian ruler Rajendracola Deva I conquered this island",
+     "a": "Sri Lanka",
+     "right": [
+      "Tommy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 16,
+     "q": "Syesha Mercado did the honors on this TV show's 2008 Beatles night",
+     "a": "American Idol",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 9,
+     "q": "A specific eruption style is named for this Caribbean volcano that erupted in 1902, killing thousands",
+     "a": "Mt. Pelée",
+     "right": [
+      "Tommy"
+     ],
+     "wrong": [
+      "Matt"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 30,
+     "q": "Dating from the 13th century, this word is derived from \"cuckoo\" & refers to a man with an unfaithful wife",
+     "a": "a cuckold",
+     "right": [
+      "Megan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 12,
+     "q": "Both of these Supreme Court justices were inducted into the National Women's Hall of Fame",
+     "a": "O'Connor and Ginsburg",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 21,
+     "q": "To sink, or someone who establishes something",
+     "a": "founder",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 26,
+     "q": "Demosthenes was much in demand in ancient Athens as a logographer, later this job of Ted Sorenson",
+     "a": "a speechwriter",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 27,
+     "q": "This R&B quartet's version of \"Yesterday\" is on their 1994 album \"II\"",
+     "a": "Boyz II Men",
+     "right": [
+      "Megan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "THE PULITZER PRIZE FOR DRAMA",
+    "LAST MOVIES",
+    "LIZARDRY",
+    "NON-DON KNOTS",
+    "STATE / COLLEGES",
+    "\"ERE\"Y WORDS"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 21,
+     "q": "It was a short interlude between his wins for \"Anna Christie\" (1922) & \"Strange Interlude\" (1928)",
+     "a": "(Eugene) O'Neill",
+     "right": [
+      "Tommy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 13,
+     "q": "\"Guess Who's Coming to Dinner\"\n(1967)",
+     "a": "Spencer Tracy",
+     "right": [
+      "Megan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 9,
+     "q": "Able to sit on a quarter, the dwarf variety of this lizard is the world's smallest & won't try to sell you car insurance",
+     "a": "the (dwarf) gecko",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 11,
+     "q": "(Kelly of the Clue Crew is ties a knot.) Also known as a reef knot, this common knot should be used as a binding knot, never a bend",
+     "a": "a square knot",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 6,
+     "q": "Berklee College of Music & Amherst College",
+     "a": "Massachusetts",
+     "right": [
+      "Tommy"
+     ],
+     "wrong": [
+      "Megan"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "Fabric from goat hair",
+     "a": "cashmere",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 22,
+     "q": "It was a picnic for him when he won in 1953 for \"Picnic\"",
+     "a": "William Inge",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 14,
+     "q": "\"Canadian Bacon\"\n(1995)",
+     "a": "John Candy",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 10,
+     "q": "The basilisk lizard is also known as the Jesus Christ lizard because of its ability to do this",
+     "a": "walk on water",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 12,
+     "q": "(Kelly of the Clue Crew ties a knot.) Especially useful in sailing & rock climbing, this knot with a numerical name is easily untied, even after the greatest strain",
+     "a": "a figure-eight knot",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 7,
+     "q": "New England College & Daniel Webster College",
+     "a": "New Hampshire",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 2,
+     "q": "From the Latin for \"to respect\", it's a verb meaning to regard with awe & devotion",
+     "a": "revere",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 24,
+     "q": "For Frank Gilroy in 1965, the subject was winning when \"The Subject Was\" these took home a Pulitzer",
+     "a": "Roses",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": true,
+     "order": 15,
+     "q": "\"Game of Death\"\n(released in 1978)",
+     "a": "Bruce Lee",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2000
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 27,
+     "q": "Because of a fracture plane across their lower vertebra, lizards have this ability, aka autotomy, to escape danger",
+     "a": "to shed their tail",
+     "right": [
+      "Megan"
+     ],
+     "wrong": [
+      "Matt",
+      "Tommy"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 18,
+     "q": "(Sarah of the Clue Crew ties a knot.) The knot called a \"fisherman's bend\" is also known as this \"bend\", as it can act as one for a boat to a dock",
+     "a": "an anchor bend",
+     "right": [],
+     "wrong": [
+      "Matt"
+     ],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 8,
+     "q": "Swarthmore & Bryn Mawr",
+     "a": "Pennsylvania",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 3,
+     "q": "Disease has been declared a crime & the sick are imprisoned in this 1872 Samuel Butler novel",
+     "a": "Erewhon",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 25,
+     "q": "Sadly, Jonathan Larson had died by the time this musical of his won the Pulitzer in 1996",
+     "a": "Rent",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 16,
+     "q": "\"Brainstorm\"\n(1983)",
+     "a": "Natalie Wood",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 28,
+     "q": "To ward off predators, the horned lizard will squirt this out of its eyes",
+     "a": "blood",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 19,
+     "q": "(Sarah of the Clue Crew ties a knot.) This type of hitch can be used to tow a log either afloat or on land; you might hear a lumberjack yell it, too",
+     "a": "a timber hitch",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 23,
+     "q": "Morehouse & Spelman Colleges",
+     "a": "Georgia",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 4,
+     "q": "Lake Hazen on this Canadian island is the world's largest lake entirely north of the Arctic Circle",
+     "a": "Ellesmere Island",
+     "right": [],
+     "wrong": [
+      "Matt"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 3000
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 26,
+     "q": "1954's winner was John Patrick for \"The Teahouse of\" this",
+     "a": "The Teahouse of the August Moon",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 17,
+     "q": "\"Always\"\n(1989)",
+     "a": "Audrey Hepburn",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 29,
+     "q": "The name of this lizard of Australia tells you he's not just happy to meet you, he's this",
+     "a": "frilled",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 20,
+     "q": "(Sarah of the Clue Crew ties a knot.) The name of this binding knot also describes a suffocating type of snake",
+     "a": "a constrictor",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 30,
+     "q": "Flagler College & Ringling School of Art & Design",
+     "a": "Florida",
+     "right": [
+      "Tommy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 5,
+     "q": "In Greek mythology, one must pass through this dark region of the underworld to reach Hades",
+     "a": "Erebus",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "COUNTRY DEMOGRAPHICS",
+  "q": "Because of a policy adopted in 1979, this country's young people are collectively referred to as \"little emperors\"",
+  "a": "China",
+  "right": [
+   "Megan",
+   "Matt"
+  ],
+  "wrong": [
+   "Tommy"
+  ]
+ },
+ "gameId": "3485",
+ "cat_notes": {
+  "J": [
+   "Clues about Volcanoes.",
+   "Clues about We're Cuckoo.",
+   "Clues about 20th Century Women.",
+   "Clues about More Than One Meaning.",
+   "Clues about Seems Like Long Ago.",
+   "Clues about Only Yesterday."
+  ],
+  "DJ": [
+   "Clues about The Pulitzer Prize for Drama.",
+   "Clues about Last Movies.",
+   "Clues about Lizardry.",
+   "Clues about Non-don Knots.",
+   "Clues about State / Colleges.",
+   "Each answer contains the letter group “ERE”, and the clues are about Y Words."
+  ],
+  "F": "Clues about Country Demographics."
+ }
+}

@@ -1,0 +1,1005 @@
+{
+ "show": "#6111",
+ "aired": "2011-03-21",
+ "note": "Tom Kunzen game 5.",
+ "contestants": [
+  {
+   "name": "Erin Maxwell",
+   "bio": "a high school English and drama teacher from Chicago, Illinois",
+   "short": "Erin"
+  },
+  {
+   "name": "Stephen Huey",
+   "bio": "a lawyer from Arlington, Virginia",
+   "short": "Stephen"
+  },
+  {
+   "name": "Tom Kunzen",
+   "bio": "a geotechnical engineer from Orlando, Florida (whose 4-day cash winnings total $110,601)",
+   "short": "Tom"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Tom": 5800,
+   "Stephen": 3800,
+   "Erin": 6400
+  },
+  "DJ": {
+   "Tom": 19000,
+   "Stephen": 11400,
+   "Erin": 10800
+  },
+  "Final": {
+   "Tom": 22801,
+   "Stephen": 22800,
+   "Erin": 20800
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "FLAGS OF THE WORLD",
+    "NETWORKING",
+    "AN ANCIENT GREEK NEWSCAST",
+    "OFFBEAT MUSEUMS",
+    "INTERNAL RHYMES",
+    "STUPID ANSWERS"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "(Kelly of the Clue Crew shows a flag on a monitor.) On the flag of Kiribati, the blue & white waves stand for the Pacific Ocean; the rising sun represents this, which straddles the nation",
+     "a": "the Equator",
+     "right": [
+      "Erin"
+     ],
+     "wrong": [
+      "Stephen"
+     ],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 2,
+     "q": "\"Sportscenter\"",
+     "a": "ESPN",
+     "right": [
+      "Erin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 13,
+     "q": "It's 404 B.C. & here is our top story: Athens has been forced to accept a humiliating peace treaty with this city-state",
+     "a": "Sparta",
+     "right": [
+      "Tom"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 22,
+     "q": "A museum at Temple University's School of Podiatric Medicine has some 900 pairs of these in its collection",
+     "a": "shoes",
+     "right": [
+      "Stephen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 7,
+     "q": "This term for an important person sounds like a giant toupee",
+     "a": "a bigwig",
+     "right": [
+      "Tom"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 12,
+     "q": "In Hollywood, it's the major street 2 blocks north of Sunset Boulevard",
+     "a": "Hollywood Boulevard",
+     "right": [
+      "Tom"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 8,
+     "q": "The castle & key on the flag of this British dependency symbolize its strategic position on the Mediterranean",
+     "a": "Gibraltar",
+     "right": [
+      "Tom"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 3,
+     "q": "\"Dinner: Impossible\"",
+     "a": "the Food Network",
+     "right": [
+      "Erin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 14,
+     "q": "Here's Helios with the forecast: lots of rain in Athens from this god of weather & so much more... watch out for his lightning!",
+     "a": "Zeus",
+     "right": [
+      "Erin"
+     ],
+     "wrong": [
+      "Stephen"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 23,
+     "q": "Next time you're roaming through North Dakota, visit the museum of this animal & its herd of about 30",
+     "a": "buffalo",
+     "right": [
+      "Stephen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 15,
+     "q": "It can be a meeting among business colleagues, or a Native American ceremonial feast",
+     "a": "a powwow",
+     "right": [
+      "Tom"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "A 2009 study recommended treating heroin addicts with diacetylmorphine, the active ingredient in this",
+     "a": "heroin",
+     "right": [
+      "Erin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 9,
+     "q": "The armillary sphere on this country's flag honors Prince Henry the Navigator",
+     "a": "Portugal",
+     "right": [
+      "Stephen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 4,
+     "q": "\"Project Runway\" (formerly on Bravo)",
+     "a": "Lifetime",
+     "right": [
+      "Stephen"
+     ],
+     "wrong": [
+      "Tom"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 16,
+     "q": "Breaking news 479 B.C.: Greece has beaten the remaining forces of this Xerxes-led empire! Let's party!",
+     "a": "the Persian Empire",
+     "right": [
+      "Tom"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 24,
+     "q": "In Austin, Minnesota you can ham it up at the museum of this meat product in a can",
+     "a": "Spam",
+     "right": [
+      "Tom"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 19,
+     "q": "It's a sturdy carryall worn by hikers as well as students",
+     "a": "a backpack",
+     "right": [
+      "Tom"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 28,
+     "q": "This lubricant's name means \"water displacement, 40th attempt\"",
+     "a": "WD-40",
+     "right": [
+      "Tom"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 10,
+     "q": "The green flag of this kingdom has a white sword & the shahadah, the Muslim statement of faith, in white script",
+     "a": "Saudi Arabia",
+     "right": [
+      "Stephen"
+     ],
+     "wrong": [
+      "Erin"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 5,
+     "q": "\"Man vs. Wild\"",
+     "a": "the Discovery Channel",
+     "right": [
+      "Erin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 17,
+     "q": "What's goin' on in sports, Aetos? King Augeas said now that this hero has cleaned the stables, rodeo season is open",
+     "a": "Heracles",
+     "right": [
+      "Tom"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 25,
+     "q": "Suite! A museum in Leavenworth, Wash. displays over 6,000 of these nifty tools, many resembling toy soldiers",
+     "a": "nutcrackers",
+     "right": [
+      "Erin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 20,
+     "q": "A natl. assoc. of wanderers says you can still be this 4-letter term even if you never rode a freight train",
+     "a": "a hobo",
+     "right": [
+      "Stephen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "If today is Jan. 14, 1952, this show is premiering on NBC",
+     "a": "the Today show",
+     "right": [
+      "Tom"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 11,
+     "q": "(Sarah of the Clue Crew shows a flag on a monitor.) In its talons, a bald eagle holds two traditional emblems--a fue, or a flyswitch, & an uatogi, or war club--on the flag of this territory",
+     "a": "American Samoa",
+     "right": [
+      "Stephen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 6,
+     "q": "\"The Closer\"",
+     "a": "TNT",
+     "right": [
+      "Erin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 18,
+     "q": "Up next, entertainment reporter Klakos has a review of this tragedy master's new play, \"Oedipus Rex\"",
+     "a": "Sophocles",
+     "right": [
+      "Tom"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": true,
+     "order": 26,
+     "q": "Get a whiff of the Brimstone Museum in Southwest Louisiana & learn all about mining for this element",
+     "a": "sulfur",
+     "right": [
+      "Erin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2000
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 21,
+     "q": "This adjective meaning unkempt & varied is often applied to disorganized armies or militias",
+     "a": "ragtag",
+     "right": [
+      "Tom"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 30,
+     "q": "China's Song Dynasty was noted for its contributions to the tz'u, a form of this",
+     "a": "a song",
+     "right": [
+      "Erin"
+     ],
+     "wrong": [
+      "Tom"
+     ],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "COMPLETES THE PULITZER-WINNING PLAY TITLE",
+    "THE SPORT'S GOVERNING BODY",
+    "AMERICAN FACES",
+    "IT'S \"AH\" FULL",
+    "I COME FROM OUTER SPACE",
+    "NEIL, EARTHLING"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 22,
+     "q": "Alfred Uhry's \"Driving Miss ____\"",
+     "a": "Daisy",
+     "right": [
+      "Tom"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "FIFA",
+     "a": "soccer",
+     "right": [
+      "Stephen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 6,
+     "q": "Here's this Confederate president in full beard, later in life",
+     "a": "Jefferson Davis",
+     "right": [
+      "Tom"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 11,
+     "q": "If you're convinced you're the one true savior, odds are you have this type of complex",
+     "a": "a messiah complex",
+     "right": [
+      "Tom"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 16,
+     "q": "This gas that I breathe, you call CH4 & use to heat your homes--funny universe",
+     "a": "methane",
+     "right": [
+      "Tom"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 21,
+     "q": "This Ohioan who became a licensed pilot on his 16th birthday is remembered for the one small step he took in 1969",
+     "a": "Neil Armstrong",
+     "right": [
+      "Erin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 24,
+     "q": "Robert E. Sherwood's \"Abe Lincoln in ____\"",
+     "a": "Illinois",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 2,
+     "q": "The WBO & the WBA",
+     "a": "boxing",
+     "right": [
+      "Tom"
+     ],
+     "wrong": [
+      "Erin"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 7,
+     "q": "He's the king of the wild frontier, looking rather dapper in the portrait seen here",
+     "a": "Davy Crockett",
+     "right": [
+      "Stephen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 12,
+     "q": "Hard reddish-brown wood of the genus Swietenia",
+     "a": "mahogany",
+     "right": [
+      "Tom"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 17,
+     "q": "You named my home galaxy after this--a spinning toy on a stick? How quaint; prepare to be destroyed",
+     "a": "a pinwheel",
+     "right": [
+      "Tom"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 23,
+     "q": "A 2010 episode of \"Glee\" featured his song \"Hello Again\"",
+     "a": "Neil Diamond",
+     "right": [
+      "Stephen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 25,
+     "q": "William Saroyan's \"The Time of Your ____\"",
+     "a": "Life",
+     "right": [
+      "Erin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 3,
+     "q": "The ITTF--it's what the \"TT\" stands for",
+     "a": "table tennis",
+     "right": [
+      "Tom"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 8,
+     "q": "In 1927, Orville Wright, on the left, came face-to-face with this man, famous in the same field as Orville",
+     "a": "Charles Lindbergh",
+     "right": [
+      "Tom"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 13,
+     "q": "This slang term for an unnecessary article of ornamentation comes from the chorus of \"Camptown Races\"",
+     "a": "doo-dah",
+     "right": [
+      "Stephen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 18,
+     "q": "My planet's star will reach the late stage called white this in only 3 billion years, so I had to get out of there",
+     "a": "a white dwarf",
+     "right": [
+      "Stephen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": true,
+     "order": 28,
+     "q": "Neil Estern sculpted him with his dog Fala for his Washington, D.C. memorial",
+     "a": "FDR",
+     "right": [
+      "Erin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 4000
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 26,
+     "q": "Jason Miller's \"That ____ Season\"",
+     "a": "Championship",
+     "right": [
+      "Erin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 4,
+     "q": "The ISF (it's big in Japan)",
+     "a": "sumo",
+     "right": [
+      "Stephen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 9,
+     "q": "There was something a little fishy about this treasury secretary & Chief Justice seen here",
+     "a": "(Salmon) Chase",
+     "right": [
+      "Tom"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 14,
+     "q": "3-dimensional figure with 8 plane faces",
+     "a": "an octahedron",
+     "right": [
+      "Stephen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1600
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 19,
+     "q": "I got the first message from Earth to the stars, sent from this type of telescope at Arecibo in 1974",
+     "a": "a radio telescope",
+     "right": [
+      "Tom"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 29,
+     "q": "In 2000 Neil Clark Warren founded this website that aims to unite people in long-term relationships",
+     "a": "eHarmony.com",
+     "right": [
+      "Tom"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 27,
+     "q": "Donald L. Coburn's \"The ____ Game\"",
+     "a": "Gin",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 5,
+     "q": "The FIS (it's big in Austria)",
+     "a": "skiing",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 10,
+     "q": "1972 U.S. presidential candidate seen here",
+     "a": "(Shirley) Chisholm",
+     "right": [
+      "Tom"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 15,
+     "q": "Now meaning a type of woven carpet, it formerly referred to a residence set aside for a noblewoman in India",
+     "a": "a mahal",
+     "right": [],
+     "wrong": [
+      "Erin"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 20,
+     "q": "Now that I am here, everyone who dismissed Erich von Daniken's book \"Chariots of\" these beings should feel shame",
+     "a": "the Gods",
+     "right": [],
+     "wrong": [
+      "Tom"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 30,
+     "q": "Before writing dark children's books like \"Coraline\" & \"The Graveyard Book\", he penned a bio of Duran Duran",
+     "a": "Neil Gaiman",
+     "right": [
+      "Tom"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "COMIC BOOK CHARACTERS ON SCREEN",
+  "q": "From 1966 to 1968 this role was played by 2 different actresses in a TV series; it was also the title role in a 2004 film",
+  "a": "Catwoman",
+  "right": [
+   "Erin",
+   "Stephen",
+   "Tom"
+  ],
+  "wrong": []
+ },
+ "gameId": "3604",
+ "cat_notes": {
+  "J": [
+   "Clues about Flags of the World.",
+   "We'll give you a show. You identify the network that carries that program.",
+   "Clues about An Ancient Greek Newscast.",
+   "Clues about Offbeat Museums.",
+   "Each answer is a rhyming word or phrase.",
+   "Clues about Stupid Answers."
+  ],
+  "DJ": [
+   "Clues about Completes the Pulitzer-winning Play Title.",
+   "You identify the sport for us.",
+   "Clues about American Faces.",
+   "Each answer contains the letter group “AH”.",
+   "The category “I COME FROM OUTER SPACE” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "Clues about Neil, Earthling."
+  ],
+  "F": "Clues about Comic Book Characters on Screen."
+ }
+}

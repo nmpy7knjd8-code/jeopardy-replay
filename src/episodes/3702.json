@@ -1,0 +1,1003 @@
+{
+ "show": "#6198",
+ "aired": "2011-07-20",
+ "note": "Mark Runsvold game 4.",
+ "contestants": [
+  {
+   "name": "Zac Youngblood",
+   "bio": "a truck driver from Austin, Texas",
+   "short": "Zac"
+  },
+  {
+   "name": "Maria Boyland",
+   "bio": "a social studies and English teacher from Rockaway Park, New York",
+   "short": "Maria"
+  },
+  {
+   "name": "Mark Runsvold",
+   "bio": "a student and waiter from Moscow, Idaho (whose 3-day cash winnings total $124,201)",
+   "short": "Mark"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Mark": 6600,
+   "Maria": 2400,
+   "Zac": 8000
+  },
+  "DJ": {
+   "Mark": 26000,
+   "Maria": 10800,
+   "Zac": 11200
+  },
+  "Final": {
+   "Mark": 29599,
+   "Maria": 16200,
+   "Zac": 22400
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "PRESIDENTS BY FIRST NAME",
+    "CELEBS WE'D LIKE TO SEE ON REALITY SHOWS",
+    "THEY HELD UP",
+    "ATTILA THE HUNGRY",
+    "WHO PAINTED WHOM?",
+    "SYNONYMS ON THE INSIDE"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 7,
+     "q": "The one & only Zachary",
+     "a": "Taylor",
+     "right": [
+      "Zac"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 22,
+     "q": "Dick Cheney belting out \"Man! I Feel Like A Woman!\" That would leave judge J-Lo's jaw hanging on this show",
+     "a": "American Idol",
+     "right": [
+      "Zac"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 17,
+     "q": "In a 1950 speech he held up what he said was a list of 205 Communists in the State Department",
+     "a": "(Joseph) McCarthy",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 12,
+     "q": "Attila, enjoy these Sardou: poached, with artichoke hearts, truffles, ham, anchovies & hollandaise",
+     "a": "eggs",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "1937:\n\"Portrait of Diego Rivera\"",
+     "a": "(Frida) Kahlo",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [
+      "Zac"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 5,
+     "q": "Inside \"equivalent\" is this word meaning equivalent",
+     "a": "equal (in equivalent)",
+     "right": [
+      "Zac"
+     ],
+     "wrong": [
+      "Mark"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 8,
+     "q": "The 2 Andrews",
+     "a": "Jackson and Johnson",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 23,
+     "q": "New roommate in this show's house! Yo, it's Martha Stewart, goin' to Karma with Deena & JWoww in search of juiceheads",
+     "a": "Jersey Shore",
+     "right": [
+      "Zac"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 18,
+     "q": "On Jan. 15, 1934 he held up the First National Bank in East Chicago, Indiana (& didn't stop to see a movie)",
+     "a": "John Dillinger",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 25,
+     "q": "Despite what a book title said, you'll be a real man after you eat this French dish made in a fluted pan",
+     "a": "quiche",
+     "right": [
+      "Zac"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "1892:\n\"Vahine no te vi\" or \"Woman with Mango\"",
+     "a": "(Paul) Gauguin",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 6,
+     "q": "Inside \"deceased\" is this word meaning deceased",
+     "a": "dead (in deceased)",
+     "right": [
+      "Maria"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 9,
+     "q": "3 of the 4 Williams",
+     "a": "Taft, William Henry Harrison, and Clinton (and McKinley)",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [
+      "Maria"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 24,
+     "q": "Duane Chapman's new sidekick chasing down bad guys on this A&E show? 3 words: Dame. Judi. Dench",
+     "a": "Dog the Bounty Hunter",
+     "right": [
+      "Maria"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 19,
+     "q": "An admiral's son, he held up under torture in North Vietnam, even refusing early release",
+     "a": "John McCain",
+     "right": [
+      "Zac"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 30,
+     "q": "I know you like this nut \"Roasting On An Open Fire\", along with your enemies; try some sweetened ones, as in marrons glaces",
+     "a": "chestnuts",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 3,
+     "q": "1892:\n\"Two Women Dancing at the Moulin Rouge\"",
+     "a": "Lautrec",
+     "right": [
+      "Zac"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 14,
+     "q": "Inside \"fragile\" is this word meaning fragile",
+     "a": "frail (in fragile)",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 10,
+     "q": "The last John alphabetically by last name",
+     "a": "Tyler",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 26,
+     "q": "Ladies & gentlemen, please enjoy the comedy stylings of Mr. Harry Reid on this NBC show hosted by Craig Robinson",
+     "a": "Last Comic Standing",
+     "right": [
+      "Zac"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 20,
+     "q": "In this type of story of the Pharisee & the publican, Jesus held up the latter as the example to follow",
+     "a": "a parable",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "Atty! No blood of the innocent until you've had this 9-letter veggie whose stalks are apple-green with purple-tinged tips",
+     "a": "asparagus",
+     "right": [
+      "Zac"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": true,
+     "order": 4,
+     "q": "Circa 1665:\n\"Girl with a Pearl Earring\"",
+     "a": "(Jan) Vermeer",
+     "right": [
+      "Zac"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1000
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 15,
+     "q": "Inside \"masculine\" is this 4-letter synonym for masculine",
+     "a": "male (in masculine)",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 11,
+     "q": "The 2 Thomases (one went by his middle name)",
+     "a": "Jefferson and Wilson",
+     "right": [
+      "Maria"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 27,
+     "q": "Can Meryl Streep make the Vikings as a defensive tackle? This HBO NFL series will test her famed versatility",
+     "a": "Hard Knocks",
+     "right": [
+      "Zac"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 21,
+     "q": "In the original myth, this Titan held up the sky, not the earth, on his shoulders",
+     "a": "Atlas",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 28,
+     "q": "I know you hate Italy, but it's obvious you love this Naples fave, a deep-fried, half-moon-shaped stuffed pizza",
+     "a": "a calzone",
+     "right": [
+      "Zac"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 13,
+     "q": "1903:\n\"The Old Guitarist\"",
+     "a": "Picasso",
+     "right": [
+      "Zac"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 16,
+     "q": "Inside \"exists\" is this word meaning exists",
+     "a": "is (in exists)",
+     "right": [
+      "Maria"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "BUSINESS & FINANCE ABBREV.",
+    "SONGS FROM MUSICALS",
+    "THE STYLE OF ELEMENTS",
+    "THAT'S \"RIGHT\"!",
+    "LOUIS, LOUIS",
+    "WE GOTTA GO"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 26,
+     "q": "IPO: a company's first stock sold to the general population",
+     "a": "Initial Public Offering",
+     "right": [
+      "Zac"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "\"Adelaide's Lament\" & \"Luck Be A Lady\"",
+     "a": "Guys and Dolls",
+     "right": [
+      "Maria"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 16,
+     "q": "Humphry Davy named this element after potash, its much older name",
+     "a": "potassium",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 21,
+     "q": "He plays between the right tackle & the center, & he probably really needs his deodorant",
+     "a": "the right guard",
+     "right": [
+      "Zac"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 5,
+     "q": "His alphabet consists of 6 raised points used in multiple combinations",
+     "a": "(Louis) Braille",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 4,
+     "q": "If we make it to this Asian island by November 12, we can celebrate its national holiday of Sun Yat-sen day",
+     "a": "Taiwan",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 27,
+     "q": "COO: the executive responsible to the board for the day-to-day running of the business",
+     "a": "Chief Operating Officer",
+     "right": [
+      "Zac"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 2,
+     "q": "\"Little Girls\" & \"It's The Hard-knock Life\"",
+     "a": "Annie",
+     "right": [
+      "Zac"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 17,
+     "q": "(Sarah of the Clue Crew holds a wall clock with symbols of the elements instead of numbers.) The Chem Time Clock helps chemistry students learn the periodic table by using elements' symbols in place of numbers; it's 1:35, or these two elements",
+     "a": "hydrogen & nitrogen",
+     "right": [
+      "Zac"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 22,
+     "q": "Doctrine asserting that federal laws shouldn't trump those of Alabama or Idaho",
+     "a": "states' rights",
+     "right": [
+      "Maria"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 6,
+     "q": "Raised in Detroit, he won the national Amateur Athletic Union light heavyweight boxing crown in 1934",
+     "a": "Joe Louis",
+     "right": [
+      "Maria"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 9,
+     "q": "For a vacation getaway, let's all head to this southernmost U.S. state",
+     "a": "Hawaii",
+     "right": [
+      "Zac"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 28,
+     "q": "P&L: of concern to all companies",
+     "a": "Profit and Loss",
+     "right": [
+      "Maria"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 3,
+     "q": "\"Willkommen\" & \"The Money Song\"",
+     "a": "Cabaret",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 18,
+     "q": "This element, atomic no. 17, is used as a bleach",
+     "a": "chlorine",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 23,
+     "q": "\"Shower\" us with this 3-word meteorological term meaning everything's a-ok",
+     "a": "right as rain",
+     "right": [
+      "Maria"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 13,
+     "q": "This top leader of the Nation of Islam is an accomplished violinist & once worked as a Calypso singer",
+     "a": "Farrakhan",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": true,
+     "order": 10,
+     "q": "Catching up on Mayan history is a treat in this most populous Central American nation; about half of the people are Mayan",
+     "a": "Guatemala",
+     "right": [],
+     "wrong": [
+      "Zac"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 4000
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 29,
+     "q": "ROI: the amount gained, before tax & after depreciation, from a venture",
+     "a": "Return On Investment",
+     "right": [
+      "Zac"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 7,
+     "q": "\"And I Am Telling You I'm Not Going\" & \"One Night Only\"",
+     "a": "Dreamgirls",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 19,
+     "q": "Make no bones about it, it's the fifth most abundant element in both the earth's crust & the human body",
+     "a": "calcium",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 5400
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 24,
+     "q": "In \"The Merry Adventures of Robin Hood\", Little John is fingered as one of these chief assistants",
+     "a": "a right-hand man",
+     "right": [
+      "Zac"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 14,
+     "q": "The middle name of this Art Nouveau glasswork artist was Comfort",
+     "a": "Tiffany",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 11,
+     "q": "Let's watch some movies when we get to this Asian country that makes more movies than any other, about 900 a year",
+     "a": "India",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 30,
+     "q": "EPS: the net income of a corporation divided by the total units of common stock outstanding",
+     "a": "Earnings Per Share",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 8,
+     "q": "\"The Song That Goes Like This\" & \"His Name Is Lancelot\"",
+     "a": "Spamalot",
+     "right": [
+      "Maria"
+     ],
+     "wrong": [
+      "Mark"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 20,
+     "q": "(Alex walks along the shore of the Dead Sea in Israel with mud all over his face.) For hundreds of years people have believed in the rejuvenating qualities of the Dead Sea's black mud; among its many components this element, symbol Mg, said to remove toxins from the skin; makes you feel good",
+     "a": "magnesium",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 25,
+     "q": "The U.N. adopted this, the UDHR, in 1948; I guess it'll still apply if we ever get to Alpha Centauri",
+     "a": "the Universal Declaration of Human Rights",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 15,
+     "q": "\"Pretty Baby\" & \"Atlantic City\" were films by this French director who was married to Candice Bergen",
+     "a": "Malle",
+     "right": [
+      "Maria"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 12,
+     "q": "If we trek to the southern section of this Egyptian peninsula, we can visit the mount of the same name",
+     "a": "Sinai",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "SPORTS MOVIES",
+  "q": "Their team colors were yellow & white & they were originally sponsored by Chico's Bail Bonds",
+  "a": "The Bad News Bears",
+  "right": [
+   "Maria",
+   "Zac",
+   "Mark"
+  ],
+  "wrong": []
+ },
+ "gameId": "3702",
+ "cat_notes": {
+  "J": [
+   "Clues about Presidents by First Name.",
+   "Clues about Celebs We'd Like to See on Reality Shows.",
+   "The category “THEY HELD UP” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "Clues about Attila the Hungry.",
+   "The category “WHO PAINTED WHOM?” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "Clues about Synonyms on the Inside."
+  ],
+  "DJ": [
+   "Clues about Business and Finance Abbrev.",
+   "Clues about Songs from Musicals.",
+   "Clues about The Style of Elements.",
+   "Each answer contains the letter group “RIGHT”.",
+   "Clues about Louis, Louis.",
+   "The category “WE GOTTA GO” sets the theme — the clues follow that idea and any wordplay suggested by the title."
+  ],
+  "F": "Clues about Sports Movies."
+ }
+}

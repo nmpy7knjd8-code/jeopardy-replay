@@ -1,0 +1,986 @@
+{
+ "show": "#6028",
+ "aired": "2010-11-24",
+ "note": "",
+ "contestants": [
+  {
+   "name": "Stephanie Gumble",
+   "bio": "an associate director of policy from Boston, Massachusetts",
+   "short": "Stephanie"
+  },
+  {
+   "name": "Rebecca O'Brien",
+   "bio": "a writer from Brooklyn, New York",
+   "short": "Rebecca"
+  },
+  {
+   "name": "Bob Kennedy",
+   "bio": "a college linguistics instructor from Santa Barbara, California (whose 1-day cash winnings total $17,700)",
+   "short": "Bob"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Bob": 3200,
+   "Rebecca": 2000,
+   "Stephanie": 3600
+  },
+  "DJ": {
+   "Bob": 15200,
+   "Rebecca": 8000,
+   "Stephanie": 8000
+  },
+  "Final": {
+   "Bob": 16100,
+   "Rebecca": 15999,
+   "Stephanie": 8500
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "BRIGHT LIGHTS, BIG CITY",
+    "2010 EMMY WINNERS",
+    "ORGANIZATIONS",
+    "MISSING BODY PARTS",
+    "DWIGHT EISENHOWER",
+    "I LIKE \"IKE\""
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 11,
+     "q": "This city is the brightest area along the East Coast",
+     "a": "New York",
+     "right": [
+      "Rebecca"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 2,
+     "q": "He outwitted, outplayed & outlasted Heidi Klum, among others, to take Best Reality Show Host",
+     "a": "Jeff Probst",
+     "right": [
+      "Bob"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 21,
+     "q": "This \"Union\" was formed in 1920 because the Supreme Court wasn't upholding free speech claims",
+     "a": "the ACLU",
+     "right": [
+      "Stephanie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 26,
+     "q": "A sharp plunge:\n____ dive",
+     "a": "nose",
+     "right": [
+      "Rebecca"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 16,
+     "q": "After taking office, Eisenhower ended hostilities in this conflict by agreeing to a ceasefire",
+     "a": "the Korean War",
+     "right": [
+      "Bob"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "Myers,\nDitka, or\nWallace",
+     "a": "Mike",
+     "right": [
+      "Stephanie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 12,
+     "q": "You can see the shore of this Asian capital's bay has orange sodium lamps, while the city uses green mercury lamps",
+     "a": "Tokyo",
+     "right": [
+      "Bob"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 7,
+     "q": "We know you're all over Outstanding Sound Editing... this Fox drama's \"4:00 am - 5:00 am\" episode won; Beep! boop! Beep! boop!",
+     "a": "24",
+     "right": [
+      "Bob"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 22,
+     "q": "(Former President Bill Clinton presents the clue.) My work with the first President Bush helps groups that create & carry out their own projects; a 2005 effort focused on the U.S. Gulf Coast in the wake of these 2 hurricanes",
+     "a": "Katrina & Rita",
+     "right": [],
+     "wrong": [
+      "Rebecca"
+     ],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "The result of a boxer's injuries:\ncauliflower ____",
+     "a": "ear",
+     "right": [
+      "Rebecca"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 17,
+     "q": "In 1916 Eisenhower married this woman, whom her father called \"Puddy\"",
+     "a": "Mamie Eisenhower",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 3,
+     "q": "A proverb says that powerful cerebrums \"think...\" this way",
+     "a": "alike",
+     "right": [
+      "Rebecca"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 13,
+     "q": "This Great Lakes city has 3 million people, but the surrounding suburbs increase the population to almost 10 million",
+     "a": "Chicago",
+     "right": [
+      "Rebecca"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 8,
+     "q": "Jim Parsons enjoys Klingon Boggle as physicist Sheldon Cooper on this CBS sitcom; he also enjoys his new Emmy",
+     "a": "The Big Bang Theory",
+     "right": [
+      "Stephanie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 23,
+     "q": "Started in 1961 to stop human rights abuses around the globe, this organization lit its first candle the same year",
+     "a": "Amnesty International",
+     "right": [
+      "Bob"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 28,
+     "q": "Alert watchfulness:\neagle ____",
+     "a": "eye",
+     "right": [
+      "Rebecca"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 18,
+     "q": "It was the highest military rank Eisenhower achieved before resigning so he could run for the presidency",
+     "a": "5-star general",
+     "right": [],
+     "wrong": [
+      "Bob"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 4,
+     "q": "A sudden variation in voltage or current",
+     "a": "a spike",
+     "right": [
+      "Rebecca"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 14,
+     "q": "The amazing variety of light colors must belong to this U.S. desert city",
+     "a": "Las Vegas",
+     "right": [
+      "Bob"
+     ],
+     "wrong": [
+      "Rebecca"
+     ],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 9,
+     "q": "Know what Emmy voters like? Meth & murder! OK, not really, but they loved Aaron Paul as Jesse Pinkman on this AMC show",
+     "a": "Breaking Bad",
+     "right": [
+      "Stephanie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 24,
+     "q": "This service \"Club\" has a 4-way test of things they think, say & do, including \"Will it be beneficial to all concerned?\"",
+     "a": "the Rotary Club",
+     "right": [],
+     "wrong": [
+      "Bob",
+      "Rebecca"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "These were part of the \"Flashdance\" look in the '80s:\n____ warmers",
+     "a": "leg",
+     "right": [
+      "Bob"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": true,
+     "order": 19,
+     "q": "Eisenhower died in this year, the same year his vice president took up residence in the White House",
+     "a": "1969",
+     "right": [
+      "Bob"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1200
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 5,
+     "q": "Long-snouted freshwater swimmer of the family Esocidae",
+     "a": "(northern) pike",
+     "right": [
+      "Stephanie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 15,
+     "q": "This Capital gleams on the southern shore of the Rio de la Plata",
+     "a": "Buenos Aires",
+     "right": [
+      "Bob"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 10,
+     "q": "Claire Danes won for playing the title role in this HBO movie; Julia Ormond won for playing her mother",
+     "a": "Temple Grandin",
+     "right": [
+      "Stephanie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 25,
+     "q": "Julian Bond was the first president of this \"Law Center\" that works for civil rights & tolerance education",
+     "a": "the Southern Poverty Law Center",
+     "right": [
+      "Rebecca"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 30,
+     "q": "The Beatles wore them:\n____ boots",
+     "a": "ankle",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 20,
+     "q": "From 1971 to 1978 Eisenhower's image graced the front of this U.S. coin",
+     "a": "the dollar",
+     "right": [],
+     "wrong": [
+      "Bob"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 6,
+     "q": "To form coins by stamping metal",
+     "a": "strike",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "ISLAMIC CULTURE",
+    "NBA LOGOS",
+    "BRITISH POETS",
+    "\"S\"MORGASBORD",
+    "WHAT A GODDESS",
+    "ROMAN NUMERAL WORDS"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "(Jimmy of the Clue Crew presents the clue from Jerusalem's Mayer Museum in Israel.) This chess set was made around the year 1000 in this present-day country; their king was called \"shah\" & the end of the game was \"shah mat\", our checkmate",
+     "a": "Iran",
+     "right": [
+      "Rebecca"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 11,
+     "q": "Lucky, who wears a vest, bow tie & bowler hat with shamrocks on them",
+     "a": "the Celtics",
+     "right": [
+      "Bob"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 16,
+     "q": "In May 2009 Carol Ann Duffy became the first woman in history appointed to this U.K. post",
+     "a": "Poet Laureate",
+     "right": [
+      "Bob"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 21,
+     "q": "If you're having albondigas in a Mexican restaurant, you're eating meatball this",
+     "a": "soup",
+     "right": [
+      "Bob"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 6,
+     "q": "Associated with Juno, she's Zeus' sister-wife",
+     "a": "Hera",
+     "right": [
+      "Bob"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 26,
+     "q": "To combine, perhaps for movie cowboy Tom",
+     "a": "mix",
+     "right": [
+      "Rebecca"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 2,
+     "q": "The spiritual center of Tunisia is Kairouan, \"The City of 50\" of these religious buildings",
+     "a": "mosques",
+     "right": [
+      "Bob"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 12,
+     "q": "A flaming red basketball going through a white hoop",
+     "a": "the (Miami) Heat",
+     "right": [
+      "Bob"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 17,
+     "q": "In his \"Essay on Man\", he wrote, \"Know then thy self presume not God to scan, the proper study of mankind is man\"",
+     "a": "Alexander Pope",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 22,
+     "q": "Sometimes confused with a sea creature, they're also called green onions",
+     "a": "scallions",
+     "right": [
+      "Stephanie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 7,
+     "q": "Hesiod mentioned the names of these 9 sister goddesses, patrons of particular arts & sciences",
+     "a": "the Muses",
+     "right": [
+      "Bob"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 27,
+     "q": "It can follow \"wind\" or \"pepper\"",
+     "a": "mill",
+     "right": [
+      "Bob"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 3,
+     "q": "(Sarah of the Clue Crew presents the clue from the Mayer Museum in Israel.) Astronomy was just one area in which the Islamic world made great strides with devices like these navigational instruments with the same root as the word \"astronomy\"",
+     "a": "the astrolabe",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 13,
+     "q": "A shield with a horse's head & a single star",
+     "a": "the (Dallas) Mavericks",
+     "right": [
+      "Bob"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": true,
+     "order": 18,
+     "q": "He wrote a 1671 poem about the biblical Samson, who like him suffered blindess",
+     "a": "John Milton",
+     "right": [],
+     "wrong": [
+      "Bob"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1200
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 23,
+     "q": "There's a pineapple type of this herb whose name also means wise",
+     "a": "sage",
+     "right": [
+      "Bob"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 8,
+     "q": "This Greek goddess of war & handicraft changed Arachne into a spider after a weaving contest between them",
+     "a": "Athena",
+     "right": [
+      "Bob"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 28,
+     "q": "To imitate",
+     "a": "mimic",
+     "right": [
+      "Bob"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 4,
+     "q": "Ta'ziyah, Muslim passion plays, tend to show the martyrdom of members of this minority branch of Islam",
+     "a": "Shia",
+     "right": [
+      "Rebecca"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 14,
+     "q": "A sword goes through the \"C\" in the team's name",
+     "a": "the (Cleveland) Cavaliers",
+     "right": [
+      "Rebecca"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 19,
+     "q": "In early 1956 he met Sylvia Plath at a launch party for his literary magazine St. Botolph's Review",
+     "a": "Ted Hughes",
+     "right": [
+      "Stephanie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 24,
+     "q": "This quick bread takes its name from the Stone of Destiny",
+     "a": "scones",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 9,
+     "q": "You think your family is unusual? This Greek goddess of victory was the daughter of Pallas (a Titan) & Styx (a river in Hades)",
+     "a": "Nike",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 29,
+     "q": "Full of life, or when talking about color, strikingly intense",
+     "a": "vivid",
+     "right": [
+      "Bob"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 5,
+     "q": "A qibla indicator shows where to face when praying: toward Mecca & specifically, toward this holy structure",
+     "a": "the Kaaba",
+     "right": [
+      "Rebecca"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": true,
+     "order": 15,
+     "q": "The letter \"W\" forms the body of a man in blue wearing a pointy hat",
+     "a": "the (Washington) Wizards",
+     "right": [
+      "Rebecca"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2000
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 20,
+     "q": "The famous \"Death be not proud\" line is from this man's \"Holy Sonnets\"",
+     "a": "John Donne",
+     "right": [
+      "Stephanie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 25,
+     "q": "This Italian dish that contains slices of veal & prosciutto sounds like a Cirque du Soleil show",
+     "a": "saltimbocca",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 10,
+     "q": "The name of this Greek goddess means \"foam born\", which some stories say she was",
+     "a": "Aphrodite",
+     "right": [],
+     "wrong": [
+      "Rebecca"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 30,
+     "q": "Furious",
+     "a": "livid",
+     "right": [
+      "Bob"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "PAINTINGS",
+  "q": "The alternate name of this 16th century Italian painting also means \"cheerful\"",
+  "a": "the Mona Lisa",
+  "right": [
+   "Rebecca",
+   "Stephanie",
+   "Bob"
+  ],
+  "wrong": []
+ },
+ "gameId": "3513",
+ "cat_notes": {
+  "J": [
+   "With the pictures provided thanks to NASA.",
+   "Clues about 2010 Emmy Winners.",
+   "Clues about Organizations.",
+   "Clues about Missing Body Parts.",
+   "Clues about Dwight Eisenhower.",
+   "Each answer ends with “IKE”."
+  ],
+  "DJ": [
+   "Clues about Islamic Culture.",
+   "Clues about NBA Logos.",
+   "Clues about British Poets.",
+   "Each answer starts with “S”, and the clues are about Morgasbord.",
+   "Clues about What a Goddess.",
+   "Clues about Roman Numeral Words."
+  ],
+  "F": "Clues about Paintings."
+ }
+}

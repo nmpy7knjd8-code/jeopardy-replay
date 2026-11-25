@@ -1,0 +1,991 @@
+{
+ "show": "#6121",
+ "aired": "2011-04-04",
+ "note": "Christopher Short game 2.",
+ "contestants": [
+  {
+   "name": "Tom Moosbrugger",
+   "bio": "a library worker from Columbus, Ohio",
+   "short": "Tom"
+  },
+  {
+   "name": "Ko Otaka",
+   "bio": "a realtor from Washington, D.C.",
+   "short": "Ko"
+  },
+  {
+   "name": "Christopher Short",
+   "bio": "a pub trivia editor from Crawfordsville, Indiana (whose 1-day cash winnings total $21,600)",
+   "short": "Christopher"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Christopher": 6000,
+   "Ko": -200,
+   "Tom": 5800
+  },
+  "DJ": {
+   "Christopher": 14400,
+   "Ko": 6200,
+   "Tom": 18200
+  },
+  "Final": {
+   "Christopher": 10400,
+   "Ko": 0,
+   "Tom": 7599
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "PLAY STATION",
+    "FACE BOOK",
+    "HANDHELD",
+    "AYE, \"PAD\"",
+    "ONLINE",
+    "JEOPARDY PLATFORMS"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 6,
+     "q": "Sean O'Casey's \"Juno and the Paycock\" is set in the 1920s in a tenement building in this capital city",
+     "a": "Dublin",
+     "right": [
+      "Ko"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 11,
+     "q": "Possessing 5 faces & 15 eyes, Pancanana is a demon god of this Asian religion",
+     "a": "Hinduism",
+     "right": [
+      "Ko"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 25,
+     "q": "Used by bird watchers, these items are simply a connected pair of handheld telescopes",
+     "a": "binoculars",
+     "right": [
+      "Tom"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "Composer & priest Giovanni Martini is known by this \"fatherly\" title",
+     "a": "Padre",
+     "right": [
+      "Tom"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 16,
+     "q": "In 2010 this site removed its adult services listings",
+     "a": "Craigslist",
+     "right": [
+      "Christopher"
+     ],
+     "wrong": [
+      "Ko"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 21,
+     "q": "Hemingway's \"The Dangerous Summer\" was inspired by Dominguin, who worked in this type of sporting arena",
+     "a": "a bullfighting arena",
+     "right": [
+      "Tom"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 7,
+     "q": "William Inge set both \"Picnic\" & \"Bus Stop\" in this Midwestern state",
+     "a": "Kansas",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 12,
+     "q": "According to Christopher Marlowe, hers was \"The face that launched a thousand ships\"",
+     "a": "Helen of Troy",
+     "right": [
+      "Christopher"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "President Obama says one of his worst habits is frequently checking this handheld device from RIM",
+     "a": "a BlackBerry",
+     "right": [
+      "Christopher"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "Saddle up! It's from the Middle English for \"enclosure\"",
+     "a": "paddock",
+     "right": [
+      "Christopher"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 17,
+     "q": "In this rural social networking game from Zynga, you start with 6 plots of land",
+     "a": "Farmville",
+     "right": [
+      "Christopher"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 22,
+     "q": "In 1975, the USS Kirk had to push helicopters off its deck as it helped people fleeing from this Asian capital",
+     "a": "Saigon",
+     "right": [
+      "Ko"
+     ],
+     "wrong": [
+      "Tom"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 8,
+     "q": "Many believe that this hamlet in the play \"Our Town\" represented Peterborough, New Hampshire",
+     "a": "Grover's Corners",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 13,
+     "q": "This military marching command to reverse is the title of Col. David H. Hackworth's \"Odyssey of an American Warrior\"",
+     "a": "about-face",
+     "right": [
+      "Tom"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 28,
+     "q": "They're the handheld percussion instruments heard here",
+     "a": "castanets",
+     "right": [
+      "Tom"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 3,
+     "q": "Princess Amidala, to her friends",
+     "a": "Padmé",
+     "right": [
+      "Christopher"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 18,
+     "q": "Online ABC & Disney users know to type these 2 letters prior to \".com\" to use those sites",
+     "a": "G-O",
+     "right": [
+      "Tom"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": true,
+     "order": 23,
+     "q": "The Kangshung Face, the North Col & the Khumu Icefall are all parts of this dangerous place",
+     "a": "Mt. Everest",
+     "right": [],
+     "wrong": [
+      "Ko"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1000
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 9,
+     "q": "In a musical, MacConnachy Square is in the heart of this enchanted Scottish village",
+     "a": "Brigadoon",
+     "right": [
+      "Christopher"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 14,
+     "q": "In Catholic lore, when this female saint wiped the sweat from Jesus' face with her veil, an image of him remained there",
+     "a": "Veronica",
+     "right": [],
+     "wrong": [
+      "Christopher",
+      "Ko",
+      "Tom"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "4-letter word for any article used to dress a stage for a scene, or any object carried by hand onstage",
+     "a": "a prop",
+     "right": [
+      "Tom"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 4,
+     "q": "This device has a U-shaped bar that goes through a loop called a staple",
+     "a": "a padlock",
+     "right": [
+      "Christopher"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 19,
+     "q": "Julian Assange runs this site known for posting U.S. military documents, to the Pentagon's displeasure",
+     "a": "WikiLeaks",
+     "right": [
+      "Tom"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 24,
+     "q": "A train platform spells final jeopardy for this Tolstoy title heroine",
+     "a": "Anna Karenina",
+     "right": [
+      "Christopher"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 10,
+     "q": "This title swordsman & poet visits Roxane, whom he loves, at her convent every week for almost 15 years",
+     "a": "Cyrano",
+     "right": [
+      "Tom"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 15,
+     "q": "In 1910 this man published his story collection \"Lost Face\", which includes \"To Build a Fire\"",
+     "a": "Jack London",
+     "right": [
+      "Tom"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 30,
+     "q": "On \"Star Trek\" handheld devices included tricorders & these weapons with a \"stun\" setting",
+     "a": "phasers",
+     "right": [
+      "Christopher"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 5,
+     "q": "Found at the confluence of the Ohio & Tennessee Rivers, it's the seat of McCracken County, Kentucky",
+     "a": "Paducah",
+     "right": [
+      "Christopher"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 20,
+     "q": "Wake up, pops! Danica Patrick can be seen in ads for this domain-procuring site",
+     "a": "GoDaddy.com",
+     "right": [
+      "Tom"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 26,
+     "q": "Alliterative term for a feat done by 1920s barnstorming pilots; the man who did it first had less than a 2-year career",
+     "a": "wing walking",
+     "right": [
+      "Ko"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "ARCHITECTURE",
+    "THE MOGULS & THE MOVIES",
+    "POETIC QUESTIONS",
+    "NOT WHAT IT SOUNDS LIKE",
+    "FOUNTAINS",
+    "IN THE DICTIONARY"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "This style of home named for a Massachusetts peninsula features a gabled roof & a central chimney",
+     "a": "a Cape Cod",
+     "right": [
+      "Ko"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 16,
+     "q": "Starting in 1915, Carl Laemmle built this \"city\" named for his studio, complete with its own mayor & fire department",
+     "a": "Universal City",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 17,
+     "q": "This piece of Edgar Allan Poe-try asks, \"Is there--is there balm in Gilead?--tell me--tell me, I implore!\"",
+     "a": "\"The Raven\"",
+     "right": [
+      "Christopher"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 5,
+     "q": "Combine the last name of writer Virginia & the strong safety who rushes the QB to get this newsman\n(5, 7)",
+     "a": "Woolf Blitzer",
+     "right": [
+      "Christopher"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 19,
+     "q": "The fountains in this French palace express the power of the king over nature",
+     "a": "Versailles",
+     "right": [
+      "Tom"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 10,
+     "q": "It follows blue, cran & straw",
+     "a": "berry",
+     "right": [
+      "Christopher"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": true,
+     "order": 2,
+     "q": "This British architectural style began with the accession of Henry VII in the late 15th century",
+     "a": "Tudor",
+     "right": [
+      "Ko"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2000
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 22,
+     "q": "These brothers brought sound to the big screen with \"The Jazz Singer\"",
+     "a": "the Warner Brothers",
+     "right": [
+      "Christopher"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 18,
+     "q": "In \"Song of Myself\", he asked, \"Do I contradict myself?\"",
+     "a": "Whitman",
+     "right": [
+      "Tom"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 6,
+     "q": "A courteous & respectful set of dishes & utensils, as for afternoon tea\n(5, 7)",
+     "a": "civil service",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 20,
+     "q": "This European capital is famous for its fountains, like the one seen here depicting Triton",
+     "a": "Rome",
+     "right": [
+      "Tom"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 11,
+     "q": "This synonym for shy is derived from abash, meaning to embarrass",
+     "a": "bashful",
+     "right": [
+      "Christopher"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 3,
+     "q": "From 1938 to 1952 this Bauhaus creator headed Harvard's architecture department",
+     "a": "(Walter) Gropius",
+     "right": [
+      "Ko"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 23,
+     "q": "The moguls proved their patriotism with movies like this one, in which Bogey battles Germans in the title desert",
+     "a": "Sahara",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 26,
+     "q": "His \"Love Song of J. Alfred Prufrock\" asks, \"Do I dare disturb the universe?\"",
+     "a": "Eliot",
+     "right": [
+      "Ko"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 7,
+     "q": "A depressed young southern lady; perhaps her beau is gone\n(4, 5)",
+     "a": "blue belle",
+     "right": [
+      "Christopher"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 21,
+     "q": "Take in a night show every 15 minutes in front of this Las Vegas hotel",
+     "a": "the Bellagio",
+     "right": [
+      "Christopher"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 12,
+     "q": "Slower than a gallop, this horse's gait is named for a pilgrimage site in England",
+     "a": "canter",
+     "right": [
+      "Tom"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 4,
+     "q": "Craftsman homes feature these on the porch, but they're square, not round as in ancient Greek temples",
+     "a": "columns",
+     "right": [
+      "Christopher"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 24,
+     "q": "Under siege by TV, Darryl F, Zanuck publicly declared every picture he made would now be in this widescreen process",
+     "a": "CinemaScope",
+     "right": [
+      "Ko"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 27,
+     "q": "This poet innocently wondered, \"Little lamb, who made thee?\"",
+     "a": "William Blake",
+     "right": [],
+     "wrong": [
+      "Ko"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2000
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 8,
+     "q": "Complete demolition of a tall grass that produces sugar\n(6, 4)",
+     "a": "razing cane",
+     "right": [
+      "Christopher"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 29,
+     "q": "This Chicago fountain seen here has the same name as a palace",
+     "a": "the Buckingham Fountain",
+     "right": [
+      "Tom"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 13,
+     "q": "With a small circle above it, this letter represents a unit used to measure light wavelengths",
+     "a": "an A",
+     "right": [
+      "Tom"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 15,
+     "q": "(Sarah of the Clue Crew presents the clue on a monitor.) A cupola is the top structure of a dome; when the windows or walls are opened to illuminate the dome interior, it's this type of cupola, sharing its name with a certain portable light",
+     "a": "a lantern",
+     "right": [
+      "Tom"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 25,
+     "q": "William Randolph Hearst was said to have spent\n$7 million promoting the career of this actress, his companion",
+     "a": "Marion Davies",
+     "right": [
+      "Ko"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 28,
+     "q": "Keats' ode to this bird ends, \"Was it a vision, or a waking dream? Fled is that music:--do I wake or sleep?\"",
+     "a": "the nightingale",
+     "right": [
+      "Tom"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 9,
+     "q": "The area or subject covered by 19th c. writer Bret when he was a reporter\n(5, 4)",
+     "a": "Harte beat",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 30,
+     "q": "The fountain seen here is a symbol of this Swiss city; note that it's in a lake",
+     "a": "Geneva",
+     "right": [
+      "Tom"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 14,
+     "q": "From the Italian for \"little property\", it can be a trifle or a short, light piece of music or verse",
+     "a": "bagatelle",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "WORLD GEOGRAPHY",
+  "q": "These 3 nations each border the world's largest & smallest oceans",
+  "a": "Russia, the United States & Canada",
+  "right": [],
+  "wrong": [
+   "Ko",
+   "Christopher",
+   "Tom"
+  ]
+ },
+ "gameId": "3614",
+ "cat_notes": {
+  "J": [
+   "Clues about Play Station.",
+   "Clues about Face Book.",
+   "Clues about Handheld.",
+   "Each answer contains the letter group “PAD”.",
+   "Clues about Online.",
+   "Clues about Jeopardy Platforms."
+  ],
+  "DJ": [
+   "Clues about Architecture.",
+   "Clues about The Moguls and the Movies.",
+   "Clues about Poetic Questions.",
+   "The answers involve homophones — words that sound alike but differ in meaning or spelling.",
+   "Clues about Fountains.",
+   "Clues in the Dictionary."
+  ],
+  "F": "Clues about World Geography."
+ }
+}
