@@ -1,0 +1,995 @@
+{
+ "show": "#6853",
+ "aired": "2014-06-04",
+ "note": "",
+ "contestants": [
+  {
+   "name": "Guy Wilson",
+   "bio": "a football coach and tutor from Leesburg, Florida",
+   "short": "Guy"
+  },
+  {
+   "name": "Heather Powell",
+   "bio": "a director of compliance investigations from Schwenksville, Pennsylvania",
+   "short": "Heather"
+  },
+  {
+   "name": "Sarah Fremgen",
+   "bio": "a microbiologist from Carrollton, Texas (whose 1-day cash winnings total $21,000)",
+   "short": "Sarah"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Sarah": 11000,
+   "Heather": 3800,
+   "Guy": 2000
+  },
+  "DJ": {
+   "Sarah": 19400,
+   "Heather": 8900,
+   "Guy": 15200
+  },
+  "Final": {
+   "Sarah": 31400,
+   "Heather": 16900,
+   "Guy": 9000
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "WRAPPER'S DELIGHT",
+    "MICHIGAN ODDS & ENDS",
+    "WHAT KIND OF ANIMATED ANIMAL ARE YOU?",
+    "DIFFERS BY A LETTER",
+    "THAT'S ALL IN THE PAST",
+    "I'M A CHANGED MAN!"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 18,
+     "q": "The wrapper leaf for these, like Cohibas, is the most expensive leaf used",
+     "a": "cigar",
+     "right": [
+      "Heather"
+     ],
+     "wrong": [
+      "Guy"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "Appropriately, this type of public building in Grand Rapids is named after astronaut Roger B. Chaffee",
+     "a": "a planetarium",
+     "right": [],
+     "wrong": [
+      "Heather",
+      "Guy"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 3,
+     "q": "Rocky of Rocky & Bullwinkle fame",
+     "a": "a squirrel",
+     "right": [
+      "Sarah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 8,
+     "q": "A baseball officiator & a huge territory under sovereign power",
+     "a": "an umpire & an empire",
+     "right": [
+      "Sarah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 13,
+     "q": "On Oct. 20, 2011 he was killed in his hometown of Surt, Libya",
+     "a": "Gaddafi",
+     "right": [
+      "Sarah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 26,
+     "q": "Some men can be real pigs, especially after Circe gets done with them in this epic poem",
+     "a": "The Odyssey",
+     "right": [
+      "Sarah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 19,
+     "q": "Corn husks are the traditional wrappers for these treats",
+     "a": "tamales",
+     "right": [
+      "Sarah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "The Porcupine Mountains, or \"Porkies\", are in this 16,000-square-mile northern slice of Michigan",
+     "a": "the Upper Peninsula",
+     "right": [
+      "Sarah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 4,
+     "q": "Alvin, Simon & Theodore",
+     "a": "the chipmunks",
+     "right": [
+      "Sarah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 9,
+     "q": "Likely to break & a stiff hairlike structure on a brush",
+     "a": "brittle & bristle",
+     "right": [
+      "Sarah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 14,
+     "q": "In the 1840s he led 147 Mormon settlers west & would supervise the migration of thousands more",
+     "a": "Brigham Young",
+     "right": [
+      "Sarah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "In this Villeneuve tale, a monster/prince tells his female guest, \"do not trust too much to your eyes\"",
+     "a": "Beauty and the Beast",
+     "right": [
+      "Heather"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 20,
+     "q": "Throughout history, organs were removed before the subject was wrapped in linens in this embalming process",
+     "a": "mummification",
+     "right": [
+      "Sarah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 23,
+     "q": "Crazy! The city of Wayne & Wayne county are both named after this 18th century soldier",
+     "a": "Anthony Wayne",
+     "right": [
+      "Heather"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 5,
+     "q": "Babar",
+     "a": "an elephant",
+     "right": [
+      "Heather"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 10,
+     "q": "Heavenly & plunging from a platform into a pool",
+     "a": "divine & diving",
+     "right": [
+      "Heather"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": true,
+     "order": 15,
+     "q": "Paul Revere whipped up patriotic anger with his image of this bloody 1770 event",
+     "a": "the Boston Massacre",
+     "right": [
+      "Sarah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true,
+     "ddWager": 2000
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 28,
+     "q": "Stevenson: \"all human beings...are commingled out of good and evil: and\" this man \"alone... was pure evil\"",
+     "a": "Hyde",
+     "right": [
+      "Guy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 21,
+     "q": "Leeches & earthworms create these cases not for their pupal stages but for their eggs",
+     "a": "cocoons",
+     "right": [
+      "Heather"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 24,
+     "q": "Fair Lane is the name of Henry Ford's mansion in this city next to Detroit",
+     "a": "Dearborn",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 6,
+     "q": "Timon in \"The Lion King\"",
+     "a": "a meerkat",
+     "right": [
+      "Sarah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 11,
+     "q": "A pair of 4-letter words meaning to leave out & to send forth",
+     "a": "omit & emit",
+     "right": [
+      "Heather"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 16,
+     "q": "Once called Lacedaemon, it was a city-state that eventually came under Rome's control in 146 B.C.; this is...!",
+     "a": "Sparta",
+     "right": [
+      "Guy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "One minute, this 1890 title guy is young & handsome; the next, his old corpse is only I.D.'d by his rings",
+     "a": "Dorian Gray",
+     "right": [
+      "Sarah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 22,
+     "q": "This shoulder wrap for women is spelled the same as a past tense verb",
+     "a": "a stole",
+     "right": [
+      "Sarah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 25,
+     "q": "This 1860s Detroiter's name is on a ginger ale that's the oldest existing U.S. bottled soft drink",
+     "a": "(James) Vernor",
+     "right": [
+      "Guy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 7,
+     "q": "Diego, voiced by Denis Leary",
+     "a": "a saber-toothed tiger",
+     "right": [
+      "Sarah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 12,
+     "q": "Pertaining to a son or daughter & a small ornament on top of a spire or piece of furniture",
+     "a": "filial & finial",
+     "right": [
+      "Sarah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 17,
+     "q": "Lasting 16 years longer than you'd think, this war was won by the French, though England won most of the battles",
+     "a": "the Hundred Years War",
+     "right": [
+      "Sarah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 30,
+     "q": "This Kafka guy awakes to find he has an armor-plated back, a domelike brown belly & numerous legs",
+     "a": "Gregor Samsa",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "INTERNATIONAL ROAD VEHICLE STICKERS",
+    "THE THEATRE",
+    "1940s NEWSMAKERS",
+    "\"ISM\" QUEST",
+    "FOOD IN THE BIBLE",
+    "BODY LATIN"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 4,
+     "q": "It straddles two continents",
+     "a": "Turkey",
+     "right": [
+      "Guy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "When these theatre awards were first presented in 1947, the winners got a scroll plus a compact (women) or money clip (men)",
+     "a": "a Tony Award",
+     "right": [
+      "Heather"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 9,
+     "q": "In a July 1941 speech in London, he told the Nazis, \"You do your worst and we will do our best\"",
+     "a": "Churchill",
+     "right": [
+      "Heather"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 26,
+     "q": "The active, principled denial of the existence of God",
+     "a": "atheism",
+     "right": [
+      "Heather"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "In Leviticus, God says thou shalt not gather every one of these \"of thy vineyard; thou shalt leave them for the poor\"",
+     "a": "grapes",
+     "right": [
+      "Heather"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 21,
+     "q": "Manus",
+     "a": "hand",
+     "right": [
+      "Heather"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 16,
+     "q": "In Southern Africa",
+     "a": "Lesotho",
+     "right": [
+      "Sarah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 3,
+     "q": "(Jimmy of the Clue Crew shows a curtain on the monitor.) In the theatre, when the curtain is raised vertically & completely disappears into the fly, it's called this type of reveal for the instrument of execution it resembles",
+     "a": "a guillotine",
+     "right": [
+      "Sarah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 12,
+     "q": "This newsmaker is seen here during his 1948 fast to end the violence following the partition of India",
+     "a": "(Mohandas) Gandhi",
+     "right": [
+      "Guy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 27,
+     "q": "It's the desire to suffer pain & to be subject to another's commands",
+     "a": "masochism",
+     "right": [
+      "Heather"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 5,
+     "q": "Miraculously, Jesus fed 5,000 people with just \"five barley loaves, and two small\" ones of these",
+     "a": "fish",
+     "right": [
+      "Guy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 22,
+     "q": "Pulmo",
+     "a": "lung",
+     "right": [
+      "Sarah"
+     ],
+     "wrong": [
+      "Heather"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 17,
+     "q": "It's made up of about 700 islands & keys",
+     "a": "The Bahamas",
+     "right": [
+      "Sarah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": true,
+     "order": 10,
+     "q": "This magazine began in 1884 as a handout for David Belasco's \"May Blossom\"",
+     "a": "Playbill",
+     "right": [
+      "Heather"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 3500
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 13,
+     "q": "In 1948 this undersea explorer made the first underwater archaeological dive using scuba tanks",
+     "a": "Cousteau",
+     "right": [
+      "Guy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 28,
+     "q": "(I'm science reporter Amy Harmon.) In a \"Talk to the Newsroom\" feature, I discussed covering the debate over whether this \"ism\", the belief that God made the universe from nothing, should be taught alongside evolution in science classrooms",
+     "a": "creationism",
+     "right": [
+      "Sarah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": true,
+     "order": 6,
+     "q": "After the Israelites crossed into Canaan & other sustenance was available, this food stopped falling",
+     "a": "manna",
+     "right": [
+      "Guy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 3200
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 23,
+     "q": "Maxilla",
+     "a": "jaw",
+     "right": [
+      "Guy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 18,
+     "q": "Population about 80 million",
+     "a": "Iran",
+     "right": [
+      "Heather"
+     ],
+     "wrong": [
+      "Guy"
+     ],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 11,
+     "q": "In June 2012 this NYC series celebrated its 50th anniversary with an outdoor production of \"As You Like It\"",
+     "a": "Shakespeare in the Park",
+     "right": [
+      "Guy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 14,
+     "q": "Convicted of high treason, he was shot by a firing squad at Akershus Fortress in Oslo on October 24, 1945",
+     "a": "(Vidkun) Quisling",
+     "right": [
+      "Guy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 29,
+     "q": "Coined in 1870s Britain, it's extreme nationalism backed up by a bellicose foreign policy",
+     "a": "jingoism",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 7,
+     "q": "The King James Version tells us Esau sold his birthright for a pottage of these legumes",
+     "a": "lentils",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 24,
+     "q": "Genu",
+     "a": "the knee",
+     "right": [
+      "Sarah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 20,
+     "q": "An Alpine nation; its sticker abbreviation comes from its Latin name",
+     "a": "Switzerland",
+     "right": [
+      "Sarah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 19,
+     "q": "In 1937 John Houseman & Orson Welles founded this repertory company that did radio as well as stage",
+     "a": "the Mercury Theatre",
+     "right": [],
+     "wrong": [
+      "Heather"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 15,
+     "q": "After losing to FDR in 1940, this GOP candidate told the party faithful that its function was to be \"that of the loyal opposition\"",
+     "a": "Wendell Willkie",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 30,
+     "q": "(I'm Ross Douthat.) In my online postings, like those critical of Obamacare, I try to bring to the Times blogosphere this philosophy; George W. Bush said his was compassionate & I hope mine is too",
+     "a": "conservatism",
+     "right": [
+      "Guy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 8,
+     "q": "In a parable, Jesus told of this \"least of all seeds\" that, when grown, is the greatest among herbs",
+     "a": "the mustard seed",
+     "right": [
+      "Guy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 25,
+     "q": "Supercilium",
+     "a": "the eyebrow",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "THE BEATLES",
+  "q": "Of The Beatles' 20 U.S. No. 1 hits, this song has the shortest title",
+  "a": "\"Help!\"",
+  "right": [
+   "Heather",
+   "Sarah"
+  ],
+  "wrong": [
+   "Guy"
+  ]
+ },
+ "gameId": "4528",
+ "cat_notes": {
+  "J": [
+   "Interesting spelling there.",
+   "Clues about Michigan Odds and Ends.",
+   "The category “WHAT KIND OF ANIMATED ANIMAL ARE YOU?” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "Clues about Differs by a Letter.",
+   "Clues about That's All in the Past.",
+   "Because..."
+  ],
+  "DJ": [
+   "Clues about International Road Vehicle Stickers.",
+   "Clues about The Theatre.",
+   "Clues about 1940s Newsmakers.",
+   "Each answer ends with “ISM”, and the clues are about Quest.",
+   "Clues about Food in the Bible.",
+   "Clues about Body Latin."
+  ],
+  "F": "Very much in the news this year because of the anniversary."
+ }
+}

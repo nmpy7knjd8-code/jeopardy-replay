@@ -1,0 +1,999 @@
+{
+ "show": "#6845",
+ "aired": "2014-05-23",
+ "note": "Julia Collins game 15.",
+ "contestants": [
+  {
+   "name": "Brandon Barnes",
+   "bio": "a student of sociology from Park Forest, Illinois",
+   "short": "Brandon"
+  },
+  {
+   "name": "Steve Buechner",
+   "bio": "an attorney from Los Angeles, California",
+   "short": "Steve"
+  },
+  {
+   "name": "Julia Collins",
+   "bio": "a supply chain professional from Kenilworth, Illinois (whose 14-day cash winnings total $284,100)",
+   "short": "Julia"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Julia": 11600,
+   "Steve": 1600,
+   "Brandon": -1400
+  },
+  "DJ": {
+   "Julia": 30400,
+   "Steve": 10400,
+   "Brandon": -1000
+  },
+  "Final": {
+   "Julia": 30800,
+   "Steve": 1,
+   "Brandon": -1000
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "THE LEGISLATIVE BRANCH",
+    "\"CAN\" IT!",
+    "EUROPEAN HISTORY",
+    "THAT'S MY JOB",
+    "PAUL McCARTNEY",
+    "WINGS"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 3,
+     "q": "A Toronto bylaw says homeowners need permission to cut down a tree more than 1 foot in diameter unless it's 100% this",
+     "a": "dead",
+     "right": [
+      "Julia"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 5,
+     "q": "At a swim party you'll make a big splash if you grasp your knees & do this type of jump into the pool",
+     "a": "cannonball",
+     "right": [
+      "Brandon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 11,
+     "q": "Initially a barbed wire barrier, it began going up August 13, 1961",
+     "a": "the Berlin Wall",
+     "right": [
+      "Julia"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 21,
+     "q": "Vintner",
+     "a": "a winemaker",
+     "right": [
+      "Steve"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "In 2003 Paul sang \"come and keep your comrade warm\" as he played his first-ever Russian concert, in this square",
+     "a": "Red Square",
+     "right": [
+      "Julia"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 16,
+     "q": "An official state bird, the Rhode Island Red is one of these",
+     "a": "a chicken",
+     "right": [],
+     "wrong": [
+      "Brandon"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 4,
+     "q": "A California law grew out of the case of these tall trees blocking solar panels in Sunnyvale",
+     "a": "redwoods",
+     "right": [
+      "Brandon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 6,
+     "q": "If a piece of film is \"in the can\", it's in one of these containers",
+     "a": "a canister",
+     "right": [
+      "Julia"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 12,
+     "q": "According to tradition, in 490 B.C., Pheidippides ran 25 miles to announce a Greek victory in this battle",
+     "a": "Marathon",
+     "right": [
+      "Julia"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 22,
+     "q": "Milliner",
+     "a": "a hatmaker",
+     "right": [
+      "Julia"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "This superstar was Paul's duet partner for 1983's \"Say Say Say\"",
+     "a": "Michael Jackson",
+     "right": [
+      "Steve"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 17,
+     "q": "Yes, Atticus, the delicately handled bird here is one of these",
+     "a": "a finch",
+     "right": [
+      "Steve"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 18,
+     "q": "In 1939 Oregon's legislature chose the fir named for this man as the state tree",
+     "a": "Douglas",
+     "right": [
+      "Steve"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 8,
+     "q": "Served as an appetizer, it's a bite-sized piece of bread or toast topped with a savory garnish",
+     "a": "a canapé",
+     "right": [
+      "Julia"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": true,
+     "order": 13,
+     "q": "The Battle of Balaklava & the Battle of Inkerman took place during this war",
+     "a": "the Crimean War",
+     "right": [
+      "Julia"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1200
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 23,
+     "q": "Terpsichorean",
+     "a": "a dancer",
+     "right": [
+      "Julia"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 7,
+     "q": "In a No. 1 song by Wings, \"With\" this \"we can help it out, we can make this whole damn thing work out\"",
+     "a": "a little luck",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 28,
+     "q": "Each tail feather is tipped with an eyespot on the males of this resplendent bird",
+     "a": "the peacock",
+     "right": [
+      "Julia"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 19,
+     "q": "Federal law protects all plants in this national park, including the \"Biblical\" tree the park's named for",
+     "a": "Joshua Tree",
+     "right": [
+      "Julia"
+     ],
+     "wrong": [
+      "Brandon"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 9,
+     "q": "A small Mayan village until 1970, today it's one of Mexico's premier resort areas",
+     "a": "Cancún",
+     "right": [
+      "Julia"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 14,
+     "q": "The Glorious Revolution of 1688 ended the rule of King James II & brought this pair to the English throne",
+     "a": "William & Mary",
+     "right": [
+      "Julia"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 24,
+     "q": "Apiculturist",
+     "a": "a beekeeper",
+     "right": [
+      "Julia"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 26,
+     "q": "Paul woke up with the tune for this song in his head & gave it the provisional title \"Scrambled Eggs\"",
+     "a": "\"Yesterday\"",
+     "right": [
+      "Julia"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "During the creche stage, chicks of the emperor type of this bird lose their fuzzy down covering",
+     "a": "penguins",
+     "right": [
+      "Julia"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 20,
+     "q": "A Maryland law calls for the replanting of this conifer, such as the loblolly or shortleaf",
+     "a": "pine",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 10,
+     "q": "You might know that this dialect is also called Yue",
+     "a": "Cantonese",
+     "right": [
+      "Julia"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 15,
+     "q": "In France the Carolingian dynasty was followed by this one named for a guy named Hugh",
+     "a": "Capetian",
+     "right": [],
+     "wrong": [
+      "Julia",
+      "Brandon"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 25,
+     "q": "Metrist",
+     "a": "a poet",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 27,
+     "q": "This musician co-wrote Paul's hit \"My Brave Face\" as well as his own hit \"Veronica\"",
+     "a": "Elvis Costello",
+     "right": [
+      "Julia"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 30,
+     "q": "There is a red-footed as well as a blue-footed type of this tropical seabird",
+     "a": "a booby",
+     "right": [
+      "Julia"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "BODACIOUS CANTATAS",
+    "9-LETTER WORDS",
+    "THE MIDWEST",
+    "ASIAN AMERICANS",
+    "THE ENTERTAINMENT BIZ",
+    "AUTH\"ER\"S"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 22,
+     "q": "A sonata is to be played; the word \"cantata\" means a work to be performed this way",
+     "a": "sung",
+     "right": [
+      "Julia"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 3,
+     "q": "This mark of punctuation combines 2 other punctuation marks",
+     "a": "semicolon",
+     "right": [
+      "Julia"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "(Jimmy of the Clue Crew shows a map on the monitor.) The Northwest Ordinance set Illinois' northern border here; when statehood was requested in 1817, an Illinois delegate had Congress move it 60 miles to the north to include a Lake Michigan port that would become this city",
+     "a": "Chicago",
+     "right": [
+      "Steve"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 12,
+     "q": "At Harvard, Tony Hsieh sold pizzas out of his dorm room; today he's the CEO of this largest online shoe retailer",
+     "a": "Zappos",
+     "right": [
+      "Julia"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "The company named for him traces its origins to the founding of Muppets, Inc. in 1958",
+     "a": "Jim Henson",
+     "right": [
+      "Julia"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 17,
+     "q": "She was the first African-American woman to win the Pulitzer Prize for Fiction",
+     "a": "Alice Walker",
+     "right": [],
+     "wrong": [
+      "Julia",
+      "Brandon"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": true,
+     "order": 23,
+     "q": "Alessandro Scarlatti's \"O di Betlemme altera\" was written for this holiday",
+     "a": "Christmas",
+     "right": [
+      "Julia"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2000
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 28,
+     "q": "This fuse or percussion cap is used to set off an explosive charge",
+     "a": "detonator",
+     "right": [
+      "Steve"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 4,
+     "q": "It's Nebraska's top plant crop",
+     "a": "corn",
+     "right": [
+      "Brandon"
+     ],
+     "wrong": [
+      "Julia"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 13,
+     "q": "Penn.-raised Daniel Dae Kim had to relearn Korean to play Jin Kwon on this early 2000s adventure series",
+     "a": "Lost",
+     "right": [
+      "Julia"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 11,
+     "q": "In 2013 this onetime Thomas Edison company sold its stake in NBC & Universal Studios",
+     "a": "General Electric",
+     "right": [
+      "Julia"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 18,
+     "q": "The life & death dates for this poet in Britannica simply say, \"flourished 9th or 8th century BCE?, Ionia? (now in Turkey)\"",
+     "a": "Homer",
+     "right": [
+      "Steve"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 24,
+     "q": "A Handel cantata tells the story of this Greek god & his pursuit of Daphne",
+     "a": "Apollo",
+     "right": [
+      "Julia"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 29,
+     "q": "The derivation & history of a word",
+     "a": "etymology",
+     "right": [
+      "Julia"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 5,
+     "q": "The people of this Indiana city call themselves Hauteans",
+     "a": "Terre Haute",
+     "right": [
+      "Julia"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 14,
+     "q": "Husband & wife Andrew & Peggy Cherng founded & run the 1,500-plus restaurants in this chain; who ordered orange chicken?",
+     "a": "Panda Express",
+     "right": [
+      "Julia"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 10,
+     "q": "In this company's full name, the \"G\" stands for David Geffen",
+     "a": "DreamWorks SKG",
+     "right": [
+      "Steve"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 19,
+     "q": "This hard-boiled writer took the big sleep for real on March 26, 1959",
+     "a": "Raymond Chandler",
+     "right": [
+      "Julia"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 25,
+     "q": "\"Wachet Auf\", one of Bach's greatest cantatas, is based on a hymn of this Christian denomination",
+     "a": "Lutheran",
+     "right": [
+      "Steve"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 30,
+     "q": "In computer lingo, it's the reduced \"digital\" image of a graphic used so that multiple images can be viewed on a page",
+     "a": "thumbnail",
+     "right": [
+      "Julia"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 6,
+     "q": "Its state song is heard here",
+     "a": "Wisconsin",
+     "right": [
+      "Julia"
+     ],
+     "wrong": [
+      "Steve"
+     ],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 15,
+     "q": "This daughter of Chinese immigrants competed nationally as a figure skater before going into bridal wear design",
+     "a": "Vera Wang",
+     "right": [
+      "Julia"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 9,
+     "q": "In a 2013 spat, this cable company's customers lost CBS for a month",
+     "a": "Time-Warner",
+     "right": [
+      "Steve"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 20,
+     "q": "Published posthumously in 2003, a novel by this Brooklyn guy was titled \"Catch as Catch Can\"",
+     "a": "Joseph Heller",
+     "right": [
+      "Julia"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2000
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 26,
+     "q": "This German was only 1 opera into his career when he wrote a New Year's cantata to welcome 1835",
+     "a": "Richard Wagner",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 27,
+     "q": "From the Latin for \"rise up\", it's one who rebels against an established government; today it's often used to mean \"terrorist\"",
+     "a": "insurgent",
+     "right": [
+      "Julia"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 7,
+     "q": "Tonka Toys got their name from this lake, one of the largest in the Land of 10,000 Lakes",
+     "a": "Minnetonka",
+     "right": [
+      "Steve"
+     ],
+     "wrong": [
+      "Julia"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 16,
+     "q": "In 1989 he became the youngest male winner of tennis' French Open",
+     "a": "Michael Chang",
+     "right": [
+      "Julia"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 8,
+     "q": "Once there was a \"Big Six\" of these; the 2012 breakup of EMI took it down to 3",
+     "a": "record labels",
+     "right": [
+      "Steve"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 21,
+     "q": "In 1991 this Brooklyn guy penned \"Harlot's Ghost\", focusing on the CIA",
+     "a": "Norman Mailer",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "THE 1960s",
+  "q": "In his last speech, he mentioned local newsmakers of the day, including his friend Cesar Chavez & Don Drysdale",
+  "a": "Robert F. Kennedy",
+  "right": [
+   "Julia"
+  ],
+  "wrong": [
+   "Steve"
+  ]
+ },
+ "gameId": "4511",
+ "cat_notes": {
+  "J": [
+   "Clues about The Legislative Branch.",
+   "Each answer contains the letter group “CAN”.",
+   "Clues about European History.",
+   "We want you to give us a simpler term than the clue we give you for each job.",
+   "Clues about Paul Mccartney.",
+   "Clues about Wings."
+  ],
+  "DJ": [
+   "Clues about Bodacious Cantatas.",
+   "Each answer is a 9-letter word.",
+   "Clues about The Midwest.",
+   "Clues about Asian Americans.",
+   "Clues about The Entertainment Biz.",
+   "And notice \"E-R\" in quotation marks; those two letters are coming up in each correct response."
+  ],
+  "F": "Clues about The 1960s."
+ }
+}

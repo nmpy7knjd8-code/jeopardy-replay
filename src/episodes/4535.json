@@ -1,0 +1,993 @@
+{
+ "show": "#6856",
+ "aired": "2014-06-09",
+ "note": "",
+ "contestants": [
+  {
+   "name": "Jack Barry",
+   "bio": "a chief financial officer from Raleigh, North Carolina",
+   "short": "Jack"
+  },
+  {
+   "name": "Heather Heffner",
+   "bio": "an attorney from St. Louis, Missouri",
+   "short": "Heather"
+  },
+  {
+   "name": "Molly Lalonde",
+   "bio": "a pediatric nurse practitioner student from Nashville, Tennessee (whose 2-day cash winnings total $26,600)",
+   "short": "Molly"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Molly": 2000,
+   "Heather": 3600,
+   "Jack": 5200
+  },
+  "DJ": {
+   "Molly": 14200,
+   "Heather": 8200,
+   "Jack": 7600
+  },
+  "Final": {
+   "Molly": 11900,
+   "Heather": 200,
+   "Jack": 2600
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "AMERICAN CITIES",
+    "YOU CAN QUOTE ME",
+    "SPORTS TALK",
+    "STUPID ANSWERS",
+    "STOP! HEY, WHAT'S THAT SOUND?",
+    "EVERYBODY LOOK WHAT'S GOING \"DOWN\""
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "Once part of New Sweden, this Pennsylvania city is found where the Schuylkill River meets the Delaware River",
+     "a": "Philadelphia",
+     "right": [
+      "Molly"
+     ],
+     "wrong": [
+      "Heather"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 4,
+     "q": "FDR declared, \"The only thing we have to fear is\" this",
+     "a": "fear itself",
+     "right": [
+      "Molly"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 20,
+     "q": "In a racquet sport, you whack this object seen here",
+     "a": "a shuttlecock",
+     "right": [
+      "Jack"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 21,
+     "q": "You must be at least 21 to play at Luxor Las Vegas' 38 tables for this game",
+     "a": "21",
+     "right": [
+      "Molly"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 26,
+     "q": "This huge mammal sounds like it's enjoying a bath in an African river",
+     "a": "a hippopotamus",
+     "right": [
+      "Heather"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 12,
+     "q": "...3, 2, 1 is an example of this; so is \"American Top 40\"",
+     "a": "a countdown",
+     "right": [
+      "Heather"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "The Bisons are a Triple-A minor league baseball team from this New York city",
+     "a": "Buffalo",
+     "right": [
+      "Molly"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 8,
+     "q": "About his upcoming opponent Billy Conn, this boxing champ remarked, \"He can run, but he can't hide\"",
+     "a": "Joe Louis",
+     "right": [],
+     "wrong": [
+      "Molly"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 19,
+     "q": "In 1996 MLB expanded this area, moving one boundary from the top to the bottom of the batter's knees",
+     "a": "the strike zone",
+     "right": [
+      "Jack"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 22,
+     "q": "\"Red Carpet\" & \"Just Like Us\" are weekly features of this magazine",
+     "a": "Us (Weekly)",
+     "right": [
+      "Heather"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "Ever wanted to know how to ask, \"Where is the train station?\" in this language?",
+     "a": "(Mandarin) Chinese",
+     "right": [
+      "Jack"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 13,
+     "q": "A division into parts or categories; you don't want a \"nervous\" one",
+     "a": "a breakdown",
+     "right": [
+      "Molly"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 3,
+     "q": "This city of 2 million people--we have no problem",
+     "a": "Houston",
+     "right": [
+      "Heather"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 11,
+     "q": "Martin Luther King reached a peak with \"Free at last! Free at last!\" These 3 words, \"we are free at last\"",
+     "a": "Thank God Almighty",
+     "right": [
+      "Heather"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 6,
+     "q": "(Kelly of the Clue Crew shows a racetrack diagram on a monitor.) At the start of a NASCAR race, the top cars line up according to their qualifying times; best time gets this 2-word spot, a term said to have originated in horse racing",
+     "a": "pole position",
+     "right": [
+      "Molly"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 23,
+     "q": "The Rhine River flows north from Switzerland into Germany & through the Netherlands before emptying into this sea",
+     "a": "the North Sea",
+     "right": [
+      "Molly"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 28,
+     "q": "Buckeyes, cover your ears--here's the fight song of this Big 10 school",
+     "a": "the University of Michigan",
+     "right": [
+      "Molly"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 14,
+     "q": "A \"pickle\" in baseball, or a brief summary of main points",
+     "a": "a rundown",
+     "right": [
+      "Jack"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 5,
+     "q": "Joplin in this state was not named for a musician but for a Methodist missionary",
+     "a": "Missouri",
+     "right": [
+      "Jack"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 9,
+     "q": "On March 4, 1966 John Lennon made the scandalous remark, \"We're more popular than\" him \"now\"",
+     "a": "Jesus",
+     "right": [
+      "Heather"
+     ],
+     "wrong": [
+      "Jack"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 15,
+     "q": "Fouls in the NBA include technical, personal & these, for unnecessary &/or excessive contact against an opponent",
+     "a": "flagrant",
+     "right": [
+      "Jack"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 24,
+     "q": "Tragedy befalls Roberta Alden when she ends up pregnant & dead in this novel, an American classic",
+     "a": "An American Tragedy",
+     "right": [
+      "Molly"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "G'day! This instrument can be 5 feet long",
+     "a": "a didgeridoo",
+     "right": [
+      "Molly"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 17,
+     "q": "A community party featuring square dancing",
+     "a": "a hoedown",
+     "right": [
+      "Jack"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": true,
+     "order": 7,
+     "q": "The southernmost major city on the U.S. mainland, it had a population of only 343 when the railroad arrived in 1896",
+     "a": "Miami",
+     "right": [],
+     "wrong": [
+      "Molly"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1400
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 10,
+     "q": "Lord Acton famously said, this \"tends to corrupt\"",
+     "a": "power",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 16,
+     "q": "This 5-letter rugby play also means \"hubbub\" or \"confusion\"",
+     "a": "scrum",
+     "right": [
+      "Jack"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 25,
+     "q": "This son of Gutzon Borglum put the finishing touches on Washington, Jefferson, Lincoln & Teddy Roosevelt on Mt. Rushmore",
+     "a": "Lincoln Borglum",
+     "right": [],
+     "wrong": [
+      "Molly"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 30,
+     "q": "Oops! Is \"Malpractice Lawsuit\" the sequel to this Hasbro game?",
+     "a": "Operation",
+     "right": [
+      "Heather"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 18,
+     "q": "The confining of prisoners to their cells after a riot",
+     "a": "lockdown",
+     "right": [
+      "Jack"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "NOVELS & NOVELISTS",
+    "THE CENTURY'S FIRST YEAR",
+    "CARIBBEAN CUISINE",
+    "GLANDS & ORGANS",
+    "ACTORS' ROLES",
+    "BEFORE & AFTER"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 6,
+     "q": "Thomas Paine wrote \"The Age of Reason\"; Edith Wharton wrote this 1920 satire of social life in 1870s New York City",
+     "a": "The Age of Innocence",
+     "right": [
+      "Molly"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 21,
+     "q": "In 901 Edward the Elder took the title \"King of the Angles &\" these people",
+     "a": "Saxons",
+     "right": [
+      "Heather"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 26,
+     "q": "Gizzada is a popular Jamaican tart made with a filling of brown sugar, nutmeg, butter & this grated palm fruit",
+     "a": "coconut",
+     "right": [
+      "Jack"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "Claude Bernard found that juices of this insulin-secreting gland help digest fats",
+     "a": "the pancreas",
+     "right": [
+      "Molly"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 9,
+     "q": "Bridget Jones,\nDorothy Boyd",
+     "a": "Renee Zellweger",
+     "right": [
+      "Molly"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 16,
+     "q": "The 3 colors of the U.S. flag that are a sure bet for market investors",
+     "a": "red, white & blue chip",
+     "right": [
+      "Jack"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 7,
+     "q": "Selecting her for 1938, the Nobel committee cited her \"rich and truly epic descriptions of peasant life in China\"",
+     "a": "(Pearl) Buck",
+     "right": [
+      "Molly"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 22,
+     "q": "In 1501 Rodrigo de Bastidas sailed west from Colombia & became the first European to reach this isthmus",
+     "a": "Panama",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 27,
+     "q": "Basically a freshwater lobster, it's not only big in Louisiana but is said to be on every menu in St. Vincent",
+     "a": "a crawfish",
+     "right": [
+      "Heather"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 2,
+     "q": "Apocrine glands are an important type of this gland whose jobs include helping form ear wax as well as cooling the skin",
+     "a": "a sweat gland",
+     "right": [
+      "Molly"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 12,
+     "q": "Captain Billy Tyne,\nMichael Clayton",
+     "a": "George Clooney",
+     "right": [
+      "Heather"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 17,
+     "q": "Contact sport that allows striking, kicking, grappling, pottery & needlework",
+     "a": "martial arts & crafts",
+     "right": [
+      "Heather"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 8,
+     "q": "David Herbert were the given names of this author whose 1915 \"The Rainbow\" was banned as obscene",
+     "a": "(D.H.) Lawrence",
+     "right": [
+      "Heather"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": true,
+     "order": 23,
+     "q": "On July 3, 1801 this U.S. inventor's Nautilus submarine descended to a depth of 25 feet in a test in France",
+     "a": "Robert Fulton",
+     "right": [],
+     "wrong": [
+      "Heather"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1000
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 28,
+     "q": "Puerto Ricans enjoy mofongo, made with this cooking banana, mashed, & crushed pork rinds",
+     "a": "plantains",
+     "right": [
+      "Molly"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 3,
+     "q": "Birds have 2 chambers in this internal organ, including the gizzard",
+     "a": "the stomach",
+     "right": [
+      "Molly"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 13,
+     "q": "The Waco Kid,\nWilly Wonka",
+     "a": "Gene Wilder",
+     "right": [
+      "Molly"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 18,
+     "q": "Pro-free market movement that emerged in 2009 as a hit with the line \"The Jay-Z song was on\"",
+     "a": "Tea Party in the USA",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 10,
+     "q": "Lassiter is the hero of the Zane Grey Western \"Riders of\" this",
+     "a": "the Purple Sage",
+     "right": [
+      "Molly"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 24,
+     "q": "According to tradition, it was founded on Sept. 3, 301; it's still a republic on the Italian peninsula",
+     "a": "San Marino",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 29,
+     "q": "This 4-letter term refers to the process of rubbing spices & hot peppers onto strips of meat to tenderize them",
+     "a": "jerk",
+     "right": [
+      "Molly"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 4,
+     "q": "The ileum is the end portion of this, extending from the jejunum to the cecum",
+     "a": "the small intestine",
+     "right": [
+      "Molly"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 14,
+     "q": "Detective Alonzo Harris,\nRubin \"Hurricane\" Carter",
+     "a": "Denzel Washington",
+     "right": [
+      "Heather"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 19,
+     "q": "Alaska fishing TV show that tries to create popular expressions like \"it's not rocket science\"",
+     "a": "Deadliest Catch Phrase",
+     "right": [
+      "Jack"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": true,
+     "order": 11,
+     "q": "This 1906 novel was partly inspired by an article in the San Francisco Chronicle called \"The Call of the Tame\"",
+     "a": "White Fang",
+     "right": [],
+     "wrong": [
+      "Molly"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 3000
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 25,
+     "q": "Australia's first parliament opened on May 9, 1901 in this city in the state of Victoria",
+     "a": "Melbourne",
+     "right": [],
+     "wrong": [
+      "Heather"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 30,
+     "q": "In Haiti this spiral-shelled marine snail is cut up into small pieces & cooked in a stew called lambi",
+     "a": "conch",
+     "right": [
+      "Molly"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 5,
+     "q": "These 2-inch-long glands sit on top of the kidneys & produce steroids",
+     "a": "the adrenal glands",
+     "right": [
+      "Molly"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 15,
+     "q": "Padme,\nNina Sayers",
+     "a": "Natalie Portman",
+     "right": [
+      "Heather"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 20,
+     "q": "Piscine term for someone not in his element, that being beneath the Verrazano-Narrows",
+     "a": "fish out of water under the bridge",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "THE MEDITERRANEAN",
+  "q": "It's the only U.N. member country in the Mediterranean where English is an official national language",
+  "a": "Malta",
+  "right": [],
+  "wrong": [
+   "Jack",
+   "Heather",
+   "Molly"
+  ]
+ },
+ "gameId": "4535",
+ "cat_notes": {
+  "J": [
+   "Clues about American Cities.",
+   "The category “YOU CAN QUOTE ME” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "Clues about Sports Talk.",
+   "Clues about Stupid Answers.",
+   "The category “STOP! HEY, WHAT'S THAT SOUND?” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "Each answer ends with “DOWN”, and the clues are about Everybody Look What's Going."
+  ],
+  "DJ": [
+   "Clues about Novels and Novelists.",
+   "Clues about The Century's First Year.",
+   "Clues about Caribbean Cuisine.",
+   "Clues about Glands and Organs.",
+   "Clues about Actors Roles.",
+   "Each answer is a “before and after”: two familiar phrases fused by a word or name they share."
+  ],
+  "F": "Clues about The Mediterranean."
+ }
+}

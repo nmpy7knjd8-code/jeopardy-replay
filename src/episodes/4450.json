@@ -1,0 +1,998 @@
+{
+ "show": "#6798",
+ "aired": "2014-03-19",
+ "note": "",
+ "contestants": [
+  {
+   "name": "Susan Shikany",
+   "bio": "a school media specialist from Indian Trail, North Carolina",
+   "short": "Susan"
+  },
+  {
+   "name": "Gabor Revy",
+   "bio": "an aerospace engineer from West Chester, Ohio",
+   "short": "Gabor"
+  },
+  {
+   "name": "Nick Durazo",
+   "bio": "a compliance engineer originally from Visalia, California (whose 1-day cash winnings total $20,401)",
+   "short": "Nick"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Nick": 4800,
+   "Gabor": 6000,
+   "Susan": 3600
+  },
+  "DJ": {
+   "Nick": 11600,
+   "Gabor": 15600,
+   "Susan": 12400
+  },
+  "Final": {
+   "Nick": 15601,
+   "Gabor": 24801,
+   "Susan": 2400
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "MEANINGS OF GEOGRAPHIC NAMES",
+    "TEAM PLAYERS",
+    "KIDDY LIT TITLE ADJECTIVES",
+    "LEGEND",
+    "WAIT FOR IT!",
+    "\"-ARY\""
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 21,
+     "q": "The name of this small country comes from German for \"light stone\"",
+     "a": "Liechtenstein",
+     "right": [
+      "Susan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 4,
+     "q": "Emerson Boozer,\nJoe Klecko,\nMark Sanchez",
+     "a": "the New York Jets",
+     "right": [
+      "Gabor"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 7,
+     "q": "\"____ with a Chance of Meatballs\"",
+     "a": "Cloudy",
+     "right": [
+      "Susan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 6,
+     "q": "This Round Table knight had a kid with the daughter of grail-keeping King Pelles but had eyes for Guinevere",
+     "a": "Lancelot",
+     "right": [
+      "Susan"
+     ],
+     "wrong": [
+      "Nick"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 26,
+     "q": "After we finally see it again around 2061, the next time will be 2137-ish",
+     "a": "Halley's Comet",
+     "right": [
+      "Susan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 16,
+     "q": "Given free as a gift, or describing a remark like, \"You look good!\"",
+     "a": "complimentary",
+     "right": [
+      "Nick"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 22,
+     "q": "The name of this body of water comes from words meaning \"middle\" & \"earth\"",
+     "a": "the Mediterranean",
+     "right": [
+      "Nick"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "Norm Van Lier,\nJoakim Noah,\nScottie Pippen",
+     "a": "the (Chicago) Bulls",
+     "right": [
+      "Nick"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 8,
+     "q": "It describes the character seen here",
+     "a": "curious",
+     "right": [
+      "Nick"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 12,
+     "q": "G.K. Chesterton said, \"Many a man has been hanged on less evidence than there is for\" this Scottish legend",
+     "a": "the Loch Ness monster",
+     "right": [],
+     "wrong": [
+      "Gabor"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "At 18-22 months, it has the longest gestation of any mammal, & birth is no picnic--one comes out around 220 pounds",
+     "a": "an elephant",
+     "right": [
+      "Gabor"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 17,
+     "q": "A minute blood vessel",
+     "a": "a capillary",
+     "right": [
+      "Nick"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 23,
+     "q": "This city's name, \"smoky bay\" in Icelandic, refers to steam from volcanic activity",
+     "a": "Reykjavik",
+     "right": [
+      "Gabor"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 1,
+     "q": "Robin Roberts,\nChase Utley,\nSteve Carlton",
+     "a": "the Philadelphia Phillies",
+     "right": [
+      "Gabor"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 9,
+     "q": "\"The Very ____ Caterpillar\"",
+     "a": "Hungry",
+     "right": [
+      "Susan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 13,
+     "q": "Part of \"The Legend of\" this movie character is his stunning ability on jazz flute & telling San Diego what it can do to itself",
+     "a": "Ron Burgundy",
+     "right": [
+      "Susan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 28,
+     "q": "Copyright law says post-1978 songs will not enter this 2-word realm until 70 years after the death of the last surviving author",
+     "a": "public domain",
+     "right": [
+      "Gabor"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 18,
+     "q": "A pro soldier hired to serve in a foreign army",
+     "a": "a mercenary",
+     "right": [
+      "Nick"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 24,
+     "q": "The name of this Wisconsin city is French for \"bottom of the lake\", its position",
+     "a": "Fond du Lac",
+     "right": [
+      "Nick"
+     ],
+     "wrong": [
+      "Gabor"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 3,
+     "q": "Jacques Plante,\nJean Beliveau,\nGuy Lafleur--all have had their jerseys retired",
+     "a": "the (Montreal) Canadiens",
+     "right": [
+      "Gabor"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 10,
+     "q": "Ezra Jack Keats' celebration of winter:\n\"The ____ Day\"",
+     "a": "Snowy",
+     "right": [
+      "Susan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": true,
+     "order": 14,
+     "q": "Legend has it Captain Vanderdecken still tries to round the Cape of Good Hope on this ship... & tries... & tries...",
+     "a": "the Flying Dutchman",
+     "right": [],
+     "wrong": [
+      "Susan"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1000
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "Some say this title guy who 2 tramps are set to meet in a play represents a distant & unresponsive deity",
+     "a": "Godot",
+     "right": [
+      "Nick"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 19,
+     "q": "A trustee of property has this type of \"responsibility\", the duty of acting in good faith",
+     "a": "fiduciary",
+     "right": [
+      "Susan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 25,
+     "q": "The name of this waterfall on the Argentina-Brazil border is derived from a Guarani word meaning \"great water\"",
+     "a": "the Iguazú (Falls)",
+     "right": [
+      "Gabor"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 5,
+     "q": "MLS stars Robbie Keane,\nLandon Donovan,\nDavid Beckham",
+     "a": "the Los Angeles Galaxy",
+     "right": [
+      "Gabor"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 11,
+     "q": "\"Harry the ____ Dog\"",
+     "a": "Dirty",
+     "right": [
+      "Susan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 15,
+     "q": "Some claimed to see her ghost as described in song: \"with her head tucked underneath her arm, she walks the bloody tower\"",
+     "a": "Anne Boleyn",
+     "right": [
+      "Nick"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 30,
+     "q": "The \"Art of War\" by this man says, \"He will win who, prepared himself, waits to take the enemy unprepared\"",
+     "a": "Sun Tzu",
+     "right": [
+      "Gabor"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 20,
+     "q": "If you wonder what kind of man is up for this insurance job that computes premiums based on probabilities, here's one",
+     "a": "an actuary",
+     "right": [
+      "Gabor"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "ART & ARTISTS",
+    "INVESTING",
+    "MOVIE QUOTES",
+    "STARTS & ENDS WITH \"S\"",
+    "OXIDES",
+    "20th CENTURY AMERICANS"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "This Madrid museum has a Velazquez door & quite a few Velazquez works",
+     "a": "the Prado",
+     "right": [
+      "Gabor"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 24,
+     "q": "A certificate of deposit is insured by this government \"corporation\"",
+     "a": "the FDIC (the Federal Deposit Insurance Corporation)",
+     "right": [
+      "Gabor"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 20,
+     "q": "\"Using stats the way we read them, we'll find value in players that nobody else can see\"",
+     "a": "Moneyball",
+     "right": [
+      "Gabor"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "O beautiful, for this adjective, for it means roomy or extensive",
+     "a": "spacious",
+     "right": [
+      "Nick"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 5,
+     "q": "Early landers discovered Mars' atmosphere was 95% this gas",
+     "a": "carbon dioxide",
+     "right": [
+      "Nick"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 13,
+     "q": "This future Supreme Court justice became chief legal officer for the NAACP in 1938",
+     "a": "(Thurgood) Marshall",
+     "right": [
+      "Gabor"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 8,
+     "q": "Eugene Delacroix made several lithographs depicting this Shakespeare play--here's the graveyard scene",
+     "a": "Hamlet",
+     "right": [
+      "Nick"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 25,
+     "q": "Some mutual funds are \"no-\" this, a sales commission charged to investors",
+     "a": "load",
+     "right": [
+      "Nick"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 3,
+     "q": "\"All my life I've been waiting for someone & when I find her, she's... she's a fish\"",
+     "a": "Splash",
+     "right": [
+      "Susan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 4,
+     "q": "Tut tut! It's a stone coffin",
+     "a": "sarcophagus",
+     "right": [
+      "Gabor"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": true,
+     "order": 14,
+     "q": "In 1800 Humphry Davy reported \"a sense of exhilaration\" as one of the effects of inhaling this",
+     "a": "nitrous oxide",
+     "right": [],
+     "wrong": [
+      "Gabor"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2000
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 16,
+     "q": "During a sentimental visit to the Philippines in 1961, he told a welcoming crowd at the airport, \"I have returned\"",
+     "a": "MacArthur",
+     "right": [
+      "Susan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 9,
+     "q": "The British painter & engraver Gainsborough DuPont was the nephew & assistant of this artist",
+     "a": "Thomas Gainsborough",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 26,
+     "q": "(I'm Kevin O'Leary.) Like a shark stalking prey, you need patience for the kind of investing I practice, this 5-letter type that focuses on established companies with low P/E ratios",
+     "a": "value investing",
+     "right": [
+      "Gabor"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 2,
+     "q": "\"You're 5-feet nothin', 100 & nothin'... & you're... gonna walk outta here with a degree from the U. of Notre Dame\"",
+     "a": "Rudy",
+     "right": [
+      "Gabor"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 10,
+     "q": "This wrestling hold secured by clasping the legs around an opponent's body has the name of an office implement",
+     "a": "scissors",
+     "right": [
+      "Susan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 15,
+     "q": "Sodium hydroxide is also called \"caustic\" this, so don't pop open a can of it",
+     "a": "soda",
+     "right": [
+      "Nick"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": true,
+     "order": 17,
+     "q": "In 1958 this beloved author helped found Beginner Books",
+     "a": "Dr. Seuss",
+     "right": [
+      "Susan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2000
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 21,
+     "q": "His \"Sunday Afternoon on the Island of La Grande Jatte\" was bought by an American & came stateside in 1924",
+     "a": "(Georges) Seurat",
+     "right": [
+      "Nick"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 28,
+     "q": "When bondholders lose a percentage of their holdings in a bankruptcy, they're said to get this grooming procedure",
+     "a": "a haircut",
+     "right": [
+      "Gabor"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 6,
+     "q": "\"Oh, stewardess? I speak jive... just hang loose, blood, she gonna catch up on the rebound on the med side\"",
+     "a": "Airplane!",
+     "right": [
+      "Nick"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 11,
+     "q": "The frequency of amputations gave us this slang for a surgeon, dating back at least to the Civil War",
+     "a": "sawbones",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 23,
+     "q": "H2O2, in solution it's a common household antiseptic",
+     "a": "hydrogen peroxide",
+     "right": [
+      "Gabor"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 18,
+     "q": "This singer known as \"Lady Day\" took her first name from a favorite movie actress, Ms. Dove",
+     "a": "Billie Holiday",
+     "right": [
+      "Gabor"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 22,
+     "q": "(Alex reports from the Norton Simon Museum in Pasadena, CA.) Everything about Fragonard's \"Happy Lovers\", from the pastel colors to the playful subject matter & the abundant use of flowers, exemplifies this frothy art style",
+     "a": "rococo",
+     "right": [
+      "Nick"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 30,
+     "q": "These contracts providing payments from an insurance co. may be fixed or variable, which allow investment in portfolios",
+     "a": "annuities",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 7,
+     "q": "\"Yeah, man, (the rug) really tied the room together\"",
+     "a": "The Big Lebowski",
+     "right": [
+      "Gabor"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 12,
+     "q": "This means making a hypocritical show of religious devotion or righteousness",
+     "a": "sanctimonious",
+     "right": [
+      "Susan"
+     ],
+     "wrong": [
+      "Nick"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 29,
+     "q": "Diazoxide is used to treat low blood sugar, medically called by this single word",
+     "a": "hypoglycemia",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 19,
+     "q": "At the time of his death, Charlie Chaplin was married to this playwright's daughter, Oona",
+     "a": "(Eugene) O'Neill",
+     "right": [
+      "Susan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "THE MUSIC INDUSTRY",
+  "q": "She beat out newcomers like Bieber & Gaga to top Forbes' list of the highest-paid people in music for 2013",
+  "a": "Madonna",
+  "right": [
+   "Nick",
+   "Gabor"
+  ],
+  "wrong": [
+   "Susan"
+  ]
+ },
+ "gameId": "4450",
+ "cat_notes": {
+  "J": [
+   "Clues about Meanings of Geographic Names.",
+   "Clues about Team Players.",
+   "Clues about Kiddy Lit Title Adjectives.",
+   "Clues about Legend.",
+   "The category “WAIT FOR IT!” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "Each answer ends with “-ARY”."
+  ],
+  "DJ": [
+   "Clues about Art and Artists.",
+   "Clues about Investing.",
+   "Clues about Movie Quotes.",
+   "Each answer ends with “S”.",
+   "Clues about Oxides.",
+   "Clues about 20th Century Americans."
+  ],
+  "F": "Clues about The Music Industry."
+ }
+}

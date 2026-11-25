@@ -1,0 +1,998 @@
+{
+ "show": "#6726",
+ "aired": "2013-12-09",
+ "note": "",
+ "contestants": [
+  {
+   "name": "Reem Fattouh",
+   "bio": "a web editor from Sudbury, Ontario, Canada",
+   "short": "Reem"
+  },
+  {
+   "name": "Murray Weiss",
+   "bio": "a literary manager from Woodmere, New York",
+   "short": "Murray"
+  },
+  {
+   "name": "Craig Cornish, Jr.",
+   "bio": "a graduate student of history from Welcome, Maryland (whose 1-day cash winnings total $19,000)",
+   "short": "Craig"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Craig": 9000,
+   "Murray": 200,
+   "Reem": 5400
+  },
+  "DJ": {
+   "Craig": 26400,
+   "Murray": -1800,
+   "Reem": 11400
+  },
+  "Final": {
+   "Craig": 27800,
+   "Murray": -1800,
+   "Reem": 7800
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "THE ____ OF ____",
+    "WHICH DIRECTION?",
+    "WE'RE HAVING A BARBECUE",
+    "PLEASE, NOT CHAPTER 11",
+    "YOU'RE SO VAGUE",
+    "YOU PROBABLY THINK THIS SONG IS ABOUT YOU"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "He was the less than legal lawman trying to keep the peace around Sherwood Forest",
+     "a": "the Sheriff of Nottingham",
+     "right": [
+      "Reem"
+     ],
+     "wrong": [
+      "Murray"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 2,
+     "q": "Pet Shop Boys No. 1 hit:\n\"____ End Girls\"",
+     "a": "West",
+     "right": [
+      "Reem"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 16,
+     "q": "Grilling this barbecue mainstay without its husk will intensify its flavor",
+     "a": "corn",
+     "right": [
+      "Craig"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 5,
+     "q": "Book 4, Chapter 3:\n\"Now, by 1482, Quasimodo was grown up\"",
+     "a": "The Hunchback of Notre Dame",
+     "right": [
+      "Craig"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 17,
+     "q": "Type of soldier in an Arlington tomb completed in 1932",
+     "a": "unknown",
+     "right": [
+      "Craig"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 4,
+     "q": "The Knack's biggest hit was about \"My\" girl named this; she went on to be a successful L.A. realtor",
+     "a": "Sharona",
+     "right": [
+      "Craig"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 14,
+     "q": "Fabled weapon precariously suspended over a leader in Greek literature",
+     "a": "the Sword of Damocles",
+     "right": [
+      "Reem"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 3,
+     "q": "Region in the U.K. where Norwich is:\n____ Anglia",
+     "a": "East",
+     "right": [
+      "Reem"
+     ],
+     "wrong": [
+      "Craig"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 24,
+     "q": "Soak skewers in water to prevent charring, impale meat or veggies, grill & you have these Mideastern-named items",
+     "a": "shish kabobs",
+     "right": [
+      "Murray"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 6,
+     "q": "Chapter 6:\n\"'You have heard then, comrades,' he said, 'that we pigs now sleep in the beds of the farmhouse?'\"",
+     "a": "Animal Farm",
+     "right": [
+      "Reem"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 18,
+     "q": "Golf's Mr. Zoeller",
+     "a": "Fuzzy",
+     "right": [
+      "Reem"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 10,
+     "q": "Eric Clapton's song about this woman who's \"got me on my knees\" was for a Beatle's wife, Pattie Boyd",
+     "a": "Layla",
+     "right": [
+      "Reem"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 15,
+     "q": "In Virginia & Mississippi this state body approves textbooks for classroom use",
+     "a": "the Board of Education (the Department of Education accepted)",
+     "right": [
+      "Murray"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 28,
+     "q": "\"The Story of Shackleton's Last Expedition\":\n\"____\"",
+     "a": "South",
+     "right": [
+      "Craig"
+     ],
+     "wrong": [
+      "Murray"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 25,
+     "q": "It's the 1-word equivalent of a spit roast, which rotates food while it cooks over a fire",
+     "a": "a rotisserie",
+     "right": [
+      "Reem"
+     ],
+     "wrong": [
+      "Craig"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 7,
+     "q": "Spoiler alert! Chapter 3:\n\"'Mistah Kurtz--he dead'\"",
+     "a": "Heart of Darkness",
+     "right": [
+      "Craig"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 19,
+     "q": "Title word describing literature's \"Jude\"",
+     "a": "obscure",
+     "right": [
+      "Craig"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 11,
+     "q": "\"Full House\" star Dave Coulier is said to be the target... uh, inspiration... for \"You Oughta Know\" by this songstress",
+     "a": "Alanis Morrisette",
+     "right": [
+      "Reem"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 22,
+     "q": "It's the \"illuminating\" alternate name for Hanukkah",
+     "a": "the Festival of Lights",
+     "right": [
+      "Craig"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "British P.M. 1770-1782:\nLord ____",
+     "a": "North",
+     "right": [
+      "Craig"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 26,
+     "q": "The name of these alliterative ribs refers to size, not age",
+     "a": "baby back ribs",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": true,
+     "order": 8,
+     "q": "Chapter 4:\n\"Clarence Endive was from East Egg, as I remember. He came only once, in white knickerbockers\"",
+     "a": "The Great Gatsby",
+     "right": [
+      "Craig"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1000
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 20,
+     "q": "A person who's ambivalent has 2 opposite feelings; a statement that's this ambi- word has 2 opposite interpretations",
+     "a": "ambiguous",
+     "right": [
+      "Craig"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 12,
+     "q": "The light, the heat... this singer reportedly wrote \"In Your Eyes\" for girlfriend Rosanna Arquette",
+     "a": "Peter Gabriel",
+     "right": [
+      "Reem"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 23,
+     "q": "(Sarah of the Clue Crew shows a map on the monitor.) Most Americans had never even heard of this body of water in August 1964, but that was all about to change",
+     "a": "the Gulf of Tonkin",
+     "right": [
+      "Craig"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 30,
+     "q": "Set the rules for becoming a state:\nThe ____ Ordinance of 1787",
+     "a": "Northwest",
+     "right": [
+      "Craig"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 27,
+     "q": "Using a charcoal grill? This starter is efficient & reliable",
+     "a": "a chimney starter",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 9,
+     "q": "Chapter 17:\n\"So Humbert the cubus schemed and dreamed--and the red sun of desire and decision... rose higher and higher\"",
+     "a": "Lolita",
+     "right": [
+      "Craig"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 21,
+     "q": "Woo hoo! Damon Albarn's '90s band",
+     "a": "Blur",
+     "right": [
+      "Reem"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 13,
+     "q": "This band wasn't in Kansas anymore in coming up with \"Rosanna\" for Ms. Arquette",
+     "a": "Toto",
+     "right": [
+      "Craig"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "PERIODIC TABLE FOR 5",
+    "MYTHING PERSONS",
+    "NOW THAT'S COMEDY",
+    "A TIP O' THE \"HUN\"",
+    "MILITARY GOVERNORS",
+    "NATIONALITEASE"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 10,
+     "q": "This noble gas lights up the periodic table in between helium & argon",
+     "a": "neon",
+     "right": [
+      "Murray"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "Syrinx & Echo were among the nymphs pursued by this pipe player who possessed the horns & feet of a goat",
+     "a": "Pan",
+     "right": [
+      "Craig"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "Eddie Murphy was box-office gold in this 1984 film about a Detroit police officer out West",
+     "a": "Beverly Hills Cop",
+     "right": [
+      "Craig"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 13,
+     "q": "Call it a premonition; or you can call it this",
+     "a": "a hunch",
+     "right": [
+      "Craig"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 20,
+     "q": "This Allied Supreme Commander became military governor of the U.S. occupied zone in Germany in May 1945",
+     "a": "Eisenhower",
+     "right": [
+      "Reem"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 18,
+     "q": "A batter's swing with no contact in Lucerne?",
+     "a": "a Swiss miss",
+     "right": [],
+     "wrong": [
+      "Murray"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 11,
+     "q": "Group 1B of the periodic table goes copper, silver, then this valuable metal",
+     "a": "gold",
+     "right": [
+      "Craig"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 3,
+     "q": "If he hadn't stolen fire from heaven, he wouldn't have been bound by chains to a rock in the Caucasus",
+     "a": "Prometheus",
+     "right": [
+      "Craig"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 7,
+     "q": "In 2013 2 sitcoms starring TV veterans debuted head-to-head: \"The Michael J. Fox Show\" & \"The Crazy Ones\" starring him",
+     "a": "Robin Williams",
+     "right": [
+      "Reem"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 14,
+     "q": "It's a 2-word outlaw-capturing job for pay, dog",
+     "a": "a bounty hunter",
+     "right": [
+      "Reem"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 21,
+     "q": "In 1821 this future president was appointed military governor of Florida",
+     "a": "(Andrew) Jackson",
+     "right": [
+      "Craig"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 19,
+     "q": "A lot of wall writing right here in the United States?",
+     "a": "American graffiti",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 28,
+     "q": "This nonmetallic element is found in all organic compounds as well as in all known forms of life",
+     "a": "carbon",
+     "right": [
+      "Reem"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 4,
+     "q": "Early sources have only 1 Gorgon, but that became 3: Stheno, Euryale & her",
+     "a": "Medusa",
+     "right": [
+      "Reem"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 8,
+     "q": "When the Miami Dolphins mascot goes missing, this goofy title detective takes up the case in a 1994 film",
+     "a": "Ace Ventura",
+     "right": [
+      "Craig"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 15,
+     "q": "Thick or stout, like a certain line of soups",
+     "a": "chunky",
+     "right": [
+      "Craig"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 22,
+     "q": "As military governor of this \"Crescent City\", Benjamin Franklin Butler allegedly looted its local banks",
+     "a": "New Orleans",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 23,
+     "q": "Paris' young fish?",
+     "a": "a French fry",
+     "right": [
+      "Craig"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 29,
+     "q": "Atomic number 20 belongs to this element found in limestone & eggshells",
+     "a": "calcium",
+     "right": [
+      "Reem"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 5,
+     "q": "Seth, the Egyptian god of chaos, was a jealous adversary of this brother, the god of the underworld",
+     "a": "Osiris",
+     "right": [
+      "Craig"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 9,
+     "q": "Marlo Thomas played aspiring New York actress Ann Marie on this '60s sitcom",
+     "a": "That Girl",
+     "right": [],
+     "wrong": [
+      "Murray"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 16,
+     "q": "Seen here,\nthey've become a favorite of fans at sporting events",
+     "a": "thundersticks",
+     "right": [
+      "Murray"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 24,
+     "q": "In 1904 engineer George Whitefield Davis became the first military governor of this Central American \"Zone\"",
+     "a": "the Panama (Canal) Zone",
+     "right": [
+      "Craig"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 26,
+     "q": "An Ottawa shillelagh?",
+     "a": "a Canadian club",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": true,
+     "order": 30,
+     "q": "This metal's name is derived from a word for a demon or little devil",
+     "a": "nickel",
+     "right": [],
+     "wrong": [
+      "Reem"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2000
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": true,
+     "order": 6,
+     "q": "When presiding over the new year, this Roman god holds the numbers 300 & 65 in his hands",
+     "a": "Janus",
+     "right": [
+      "Craig"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 5000
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 12,
+     "q": "Charlie Chaplin's Tramp character struggles to live in an industrial society in this 1936 film",
+     "a": "Modern Times",
+     "right": [
+      "Craig"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 17,
+     "q": "In 2013 more than half the prisoners at Guantanamo Bay were reportedly part of this type of protest",
+     "a": "a hunger strike",
+     "right": [
+      "Reem"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 25,
+     "q": "This \"Pathfinder\" served as military governor of California for 6 weeks in 1847 before being replaced",
+     "a": "(John C.) Fremont",
+     "right": [
+      "Craig"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 27,
+     "q": "Volleyball player lofting the ball so his Dublin teammates can spike it?",
+     "a": "an Irish setter",
+     "right": [],
+     "wrong": [
+      "Craig",
+      "Murray"
+     ],
+     "stumper": true,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "U.S. PRESIDENTS",
+  "q": "Although born in the United States, he was the only president who spoke English as a second language",
+  "a": "Martin Van Buren",
+  "right": [
+   "Craig"
+  ],
+  "wrong": [
+   "Reem"
+  ]
+ },
+ "gameId": "4368",
+ "cat_notes": {
+  "J": [
+   "Clues about The ____ of ____.",
+   "The category “WHICH DIRECTION?” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "Clues about We're Having a Barbecue.",
+   "You have to name the book.",
+   "Clues about You're So Vague.",
+   "The category “YOU PROBABLY THINK THIS SONG IS ABOUT YOU” sets the theme — the clues follow that idea and any wordplay suggested by the title."
+  ],
+  "DJ": [
+   "Clues about Periodic Table for 5.",
+   "Clues about Mything Persons.",
+   "Clues about Now That's Comedy.",
+   "Each answer contains the letter group “HUN”, and the clues are about A Tip O The.",
+   "Clues about Military Governors.",
+   "Each response will be two words. I'll give you an example. \"What is Spanish moss?\"."
+  ],
+  "F": "Clues about U.S. Presidents."
+ }
+}

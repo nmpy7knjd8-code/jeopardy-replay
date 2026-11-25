@@ -1,0 +1,988 @@
+{
+ "show": "#6865",
+ "aired": "2014-06-20",
+ "note": "",
+ "contestants": [
+  {
+   "name": "Stacy Gardner",
+   "bio": "a school secretary from Long Beach, California",
+   "short": "Stacy"
+  },
+  {
+   "name": "Alison Meermans",
+   "bio": "a fundraising project manager from Lakewood, Ohio",
+   "short": "Alison"
+  },
+  {
+   "name": "Brian Keele",
+   "bio": "an architectural project manager from Atlanta, Georgia (whose 1-day cash winnings total $12,700)",
+   "short": "Brian"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Brian": 6000,
+   "Alison": 5000,
+   "Stacy": 4400
+  },
+  "DJ": {
+   "Brian": 15200,
+   "Alison": 11400,
+   "Stacy": 8600
+  },
+  "Final": {
+   "Brian": 7400,
+   "Alison": 18400,
+   "Stacy": 8600
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "STARTS & ENDS WITH W",
+    "LANDMARKS",
+    "A WORLD OF CRAFTS, NO WAR",
+    "ON THE WHEATIES BOX",
+    "BREAKFAST",
+    "OF CHAMPIONS"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 6,
+     "q": "To roll about in liquid for refreshment",
+     "a": "wallow",
+     "right": [
+      "Brian"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "The tomb of Shah Jahan's wife Mumtaz is part of this complex in Agra, India",
+     "a": "the Taj Mahal",
+     "right": [
+      "Brian"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 16,
+     "q": "Kirigami is cutting & folding paper into objects or designs' this is doing it without cutting, pasting or decorating",
+     "a": "origami",
+     "right": [
+      "Alison"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 17,
+     "q": "1934: the first athlete to grace a Wheaties box, this \"Iron Horse\" of the Yankees",
+     "a": "Lou Gehrig",
+     "right": [
+      "Brian"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 11,
+     "q": "This frozen waffle brand was named for one of its ingredients",
+     "a": "Eggo",
+     "right": [
+      "Stacy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 23,
+     "q": "A champion of Irish rights in the 1880s, Daniel O'Connell was known by this nickname also earned by Simon Bolivar",
+     "a": "The Liberator",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 7,
+     "q": "The black type of this shade tree can reach 60 feet high",
+     "a": "willow",
+     "right": [
+      "Stacy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "Chimney Rock in Nebraska was a major landmark along this overland trail",
+     "a": "the Oregon Trail",
+     "right": [
+      "Brian"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 18,
+     "q": "A simple method of printing & duplicating uses these cutouts; paint is sprayed through the removed areas",
+     "a": "a stencil",
+     "right": [
+      "Brian"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 21,
+     "q": "1977: this decathlete & celebrity dad",
+     "a": "Bruce Jenner",
+     "right": [
+      "Brian"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 12,
+     "q": "Mostly considered a breakfast beverage in Italy, this 10-letter coffee drink has less milk than a latte",
+     "a": "a cappuccino",
+     "right": [
+      "Stacy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 24,
+     "q": "In 2013 this women's rights champion & magazine founder received the Presidential Medal of Freedom",
+     "a": "Gloria Steinem",
+     "right": [
+      "Alison"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 8,
+     "q": "Get a load on this conveyance you lift from the rear",
+     "a": "a wheelbarrow",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 3,
+     "q": "Architect John Graham produced the final saucer design of this Seattle landmark",
+     "a": "the Space Needle",
+     "right": [
+      "Alison"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 19,
+     "q": "Useful in electronics crafts, this process joins circuit components using a low melting point alloy",
+     "a": "soldering",
+     "right": [
+      "Brian"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 25,
+     "q": "1935: this all-around athlete, the first sportswoman on the box",
+     "a": "Babe Didrikson",
+     "right": [
+      "Alison"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 13,
+     "q": "In 2014 these Kellogg's toaster pastries hit the big 5-0",
+     "a": "Pop Tarts",
+     "right": [
+      "Stacy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 28,
+     "q": "This folk singer who died in 2014 was also a champion of the environment, especially on the Hudson River",
+     "a": "Pete Seeger",
+     "right": [
+      "Alison"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 9,
+     "q": "It can follow \"golf\" or \"football\" to describe a lady left alone by her mate for an activity",
+     "a": "a widow",
+     "right": [
+      "Stacy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 4,
+     "q": "Commissioned by Frederick William II, this gate was based on a model of the Propylaea in Athens",
+     "a": "the Brandenburg Gate",
+     "right": [
+      "Brian"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 20,
+     "q": "From the French for \"to cut out\", it's the craft of decorating a surface with paper shapes",
+     "a": "decoupage",
+     "right": [
+      "Alison"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 26,
+     "q": "1984: This golden U.S. gymnast",
+     "a": "Mary-Lou Retton",
+     "right": [
+      "Brian"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 14,
+     "q": "The name of this Mexican breakfast dish means it's cooked in a ranch style",
+     "a": "huevos rancheros",
+     "right": [
+      "Brian"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "Leymah Gbowee won a Nobel Prize for championing peace in this nation & helping pressure President Charles Taylor into exile",
+     "a": "Liberia",
+     "right": [
+      "Alison"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 10,
+     "q": "To sift through material & toss out the junk",
+     "a": "to winnow",
+     "right": [
+      "Stacy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 5,
+     "q": "A series of white sail-shaped shells serve as the roof of this venue",
+     "a": "the Sydney Opera House",
+     "right": [
+      "Stacy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 22,
+     "q": "This craft of stitching fabric with a hook instead of a needle developed in the 19th century",
+     "a": "crochet",
+     "right": [
+      "Brian"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 27,
+     "q": "1959: this swimmer & star of movies like \"Million Dollar Mermaid\"",
+     "a": "Esther Williams",
+     "right": [],
+     "wrong": [
+      "Brian"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": true,
+     "order": 15,
+     "q": "Patrick Towle honored Abraham Lincoln's humble beginnings with the name of this syrup",
+     "a": "Log Cabin",
+     "right": [
+      "Brian"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1200
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 30,
+     "q": "For helping poor people improve their own areas, Saul Alinsky was known as the \"Father of\" this type of organizing",
+     "a": "community",
+     "right": [
+      "Alison"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "STICK IT",
+    "LITERARY SHIPPING",
+    "DETROIT ROCK CITY",
+    "WHAT AN ARTIST DIES IN ME!",
+    "COLORFUL WORDS & PHRASES",
+    "THE ONLY PRESIDENT WHO..."
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 26,
+     "q": "A ribbon of horsehair is stretched between the 2 ends of this stick used to play a violin",
+     "a": "a bow",
+     "right": [
+      "Alison"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "The neurotic Captain Queeg faces a mutiny aboard this ship",
+     "a": "the Caine",
+     "right": [
+      "Brian"
+     ],
+     "wrong": [
+      "Alison"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 3,
+     "q": "An abbreviation of this nickname for Detroit gave the hard-rocking MC5 their name",
+     "a": "the Motor City",
+     "right": [
+      "Brian"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 17,
+     "q": "Truly the ultimate Renaissance man, he died in France on May 2, 1519 after a few artworks, inventions & stuff",
+     "a": "(Leonardo) Da Vinci",
+     "right": [
+      "Alison"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "In an image found in the Book of Proverbs, a persuasive talker is said to have this colorful organ",
+     "a": "a silver tongue",
+     "right": [
+      "Alison"
+     ],
+     "wrong": [
+      "Brian"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 12,
+     "q": "founded a university",
+     "a": "Thomas Jefferson",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 27,
+     "q": "This former NFL facility in San Francisco is nicknamed \"The Stick\"",
+     "a": "Candlestick Park",
+     "right": [
+      "Brian"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 22,
+     "q": "The Nautilus is this mad captain's submarine",
+     "a": "Captain Nemo",
+     "right": [
+      "Alison"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 4,
+     "q": "This husband & wife 2-piece band from Detroit first hit it big in 2002 with \"Fell In Love With A Girl\"",
+     "a": "the White Stripes",
+     "right": [
+      "Alison"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 18,
+     "q": "This artist died near Paris on July 29, 1890, but you could say a part of him would always be in Arles",
+     "a": "Van Gogh",
+     "right": [
+      "Brian"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 8,
+     "q": "Kipling wrote, \"He wrapped himself in quotations--as a beggar would enfold himself in\" this color \"of emperors\"",
+     "a": "purple",
+     "right": [
+      "Stacy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 13,
+     "q": "served on active duty in the Army during World War I & World War II",
+     "a": "Eisenhower",
+     "right": [
+      "Brian"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 28,
+     "q": "Ambulatory 12-letter name of the insect seen here",
+     "a": "a walking stick",
+     "right": [
+      "Brian"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 23,
+     "q": "Wishing to defect in a Tom Clancy thriller, Capt. Ramius leads this \"colorful\" craft into troubled waters",
+     "a": "The Red October",
+     "right": [
+      "Stacy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 5,
+     "q": "Seen in the '80s, he sang of Hollywood Nights & Katmandu, but was born in a Detroit suburb",
+     "a": "Bob Seger",
+     "right": [
+      "Brian"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 19,
+     "q": "This noted chapel painter died in Rome on February 18, 1564",
+     "a": "Michelangelo",
+     "right": [
+      "Alison"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 9,
+     "q": "This No. 1 country hit by Gretchen Wilson begins, \"Well, I ain't never been the Barbie doll type\"",
+     "a": "\"Redneck Woman\"",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 14,
+     "q": "was never elected to nationwide office",
+     "a": "Gerald Ford",
+     "right": [
+      "Alison"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 29,
+     "q": "When your stick is big & magical enough to be carried by someone like Gandalf, it's called one of these rods",
+     "a": "a staff",
+     "right": [
+      "Stacy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 24,
+     "q": "In a C.S. Forester novel, Charlie Allnutt pilots this title craft on the Ulanga River",
+     "a": "The African Queen",
+     "right": [],
+     "wrong": [
+      "Stacy"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1000
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 6,
+     "q": "Doug Fieger was born in Detroit in 1952, years before hitting it big with this band & \"My Sharona\"",
+     "a": "The Knack",
+     "right": [
+      "Stacy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 20,
+     "q": "This painter's journey ended on May 8, 1903 in the South Pacific",
+     "a": "Gauguin",
+     "right": [
+      "Alison"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 10,
+     "q": "In \"She Stoops To Conquer\", Oliver Goldsmith wrote of this color \"Of Perfection\"",
+     "a": "pink",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 15,
+     "q": "is interred in Washington, D.C. (at Washington National Cathedral)",
+     "a": "Woodrow Wilson",
+     "right": [],
+     "wrong": [
+      "Alison"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2000
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 30,
+     "q": "The head of the stick used in this sport is triangular & netted to allow the ball to be caught, carried or thrown",
+     "a": "Lacrosse",
+     "right": [
+      "Brian"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 25,
+     "q": "In \"Treasure Island\", Long John Silver & his crew attempt a mutiny on this island-named ship",
+     "a": "the Hispañola",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 7,
+     "q": "The Detroit Wheels backed him on \"Devil With A Blue Dress On\" & \"Good Golly Miss Molly\"",
+     "a": "Mitch Ryder",
+     "right": [
+      "Brian"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 21,
+     "q": "On Feb. 23, 1792 it was a \"wrap\" for this English portrait painter whose subjects included \"William Robertson\"",
+     "a": "(Joshua) Reynolds",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 11,
+     "q": "This eatery in Central Park was home to the park's sheep & their shepherd until the 1930s",
+     "a": "Tavern on the Green",
+     "right": [
+      "Alison"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 16,
+     "q": "had 2 Vice Presidents (Clinton & Gerry) die in office",
+     "a": "James Madison",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "DOGS & GEOGRAPHY",
+  "q": "In 2001 the names of these 2 breeds came together in the new official name of a Canadian province",
+  "a": "Newfoundland & Labrador",
+  "right": [
+   "Alison"
+  ],
+  "wrong": [
+   "Stacy",
+   "Brian"
+  ]
+ },
+ "gameId": "4542",
+ "cat_notes": {
+  "J": [
+   "Each answer ends with W.",
+   "Clues about Landmarks.",
+   "Clues about A World of Crafts, No War.",
+   "Clues on the Wheaties Box.",
+   "Clues about Breakfast.",
+   "Clues of Champions."
+  ],
+  "DJ": [
+   "Clues about Stick It.",
+   "Clues about Literary Shipping.",
+   "Clues about Detroit Rock City.",
+   "The category “WHAT AN ARTIST DIES IN ME!” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "Clues about Colorful Words and Phrases.",
+   "Clues about The Only President Who."
+  ],
+  "F": "Clues about Dogs and Geography."
+ }
+}

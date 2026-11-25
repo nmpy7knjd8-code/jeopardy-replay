@@ -1,0 +1,993 @@
+{
+ "show": "#6879",
+ "aired": "2014-07-10",
+ "note": "",
+ "contestants": [
+  {
+   "name": "Jen Fiero",
+   "bio": "a librarian from Jackson, Michigan",
+   "short": "Jen"
+  },
+  {
+   "name": "Pete Gittens",
+   "bio": "a stay-at-home dad and bartender from Brownsville, Minnesota",
+   "short": "Pete"
+  },
+  {
+   "name": "Campbell Warner",
+   "bio": "a military attorney originally from Rock Hill, South Carolina (whose 2-day cash winnings total $37,200)",
+   "short": "Campbell"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Campbell": 4200,
+   "Pete": 6800,
+   "Jen": 5800
+  },
+  "DJ": {
+   "Campbell": 15400,
+   "Pete": 13600,
+   "Jen": 10600
+  },
+  "Final": {
+   "Campbell": 3600,
+   "Pete": 3600,
+   "Jen": 17600
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "A THOREAU UNDERSTANDING",
+    "ANIMALS ALL AROUND",
+    "GEOGRAPHICAL HISTORY",
+    "WHISKEY",
+    "ON THE \"ROCK\"S",
+    "NO CHASER"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 26,
+     "q": "From July 4, 1845 to Sept. 6, 1847, Thoreau made his home on the shore of this",
+     "a": "Walden Pond",
+     "right": [
+      "Pete"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 17,
+     "q": "Don't ever forget that a herd of these African & Asian mammals is sometimes called a memory",
+     "a": "elephant",
+     "right": [
+      "Campbell"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 14,
+     "q": "(Kelly of the Clue Crew shows a map on the monitor.) In order to gain military advantage, the ancient Romans were the first to build roads like the Via Claudia Augusta across this mountain system between central Europe & Italy",
+     "a": "the Alps",
+     "right": [
+      "Pete"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "The \"E\" in the word is for whiskey from the U.S. & this island, such as Connemara; otherwise, enjoy \"whisky\"",
+     "a": "Ireland",
+     "right": [
+      "Jen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 6,
+     "q": "Yabba dabba doo! It can mean the bottom layer or fundamental principles",
+     "a": "bedrock",
+     "right": [
+      "Campbell"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 11,
+     "q": "This sprinter lived up to his name in 2013, taking his 7th world title, the 200 meters, in 19.66 seconds",
+     "a": "Usain Bolt",
+     "right": [
+      "Jen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "\"Resistance to Civil Government\" was an early title of this essay printed a year after \"The Communist Manifesto\"",
+     "a": "\"Civil Disobedience\"",
+     "right": [
+      "Pete"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 16,
+     "q": "The western lowland type of this can sometimes be found in the mist",
+     "a": "gorilla",
+     "right": [
+      "Jen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 15,
+     "q": "This persecuted group fled England in 1609 & lived in the Netherlands for 11 years before crossing the Atlantic",
+     "a": "Pilgrims",
+     "right": [],
+     "wrong": [
+      "Pete"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "A seven & seven features Seagram's 7 & this soft drink; add a lemon twist & down it goes",
+     "a": "7Up",
+     "right": [
+      "Jen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 7,
+     "q": "Sure & 'tis this plant in the name of the NBA's Celtics' charitable foundation",
+     "a": "shamrock",
+     "right": [
+      "Campbell"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 12,
+     "q": "In 1973 he won the Preakness by 2 1/2 lengths---he became a \"tremendous machine\" at Belmont",
+     "a": "Secretariat",
+     "right": [
+      "Pete"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 28,
+     "q": "An 1859 plea for this radical abolitionist asks, \"When were the good and the brave ever in a majority?\"",
+     "a": "John Brown",
+     "right": [
+      "Pete"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 18,
+     "q": "California's flag has one",
+     "a": "a bear",
+     "right": [
+      "Pete"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": true,
+     "order": 21,
+     "q": "In the late 1800s Boers in the Dorsland Trek crossed this desert from the Transvaal to Angola",
+     "a": "the Kalahari",
+     "right": [
+      "Pete"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2400
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 3,
+     "q": "A Manhattan is basically whiskey & \"vitamin 'V\"', sweet this",
+     "a": "vermouth",
+     "right": [
+      "Pete"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 8,
+     "q": "Down, down! This spiny crustacean does not have claws, but those tails are goooood",
+     "a": "rock lobster",
+     "right": [],
+     "wrong": [
+      "Pete"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 13,
+     "q": "In 2013 Frederik Van Lierde won this Kailua-Kona event in 8:12:29 (& our own Kelly Miyahara did it in 14:03:33! Way to go, Kelly!)",
+     "a": "the Ironman",
+     "right": [
+      "Pete"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "God knows Thoreau wrote that this \"is under our feet as well as over our heads\"",
+     "a": "heaven",
+     "right": [
+      "Pete"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 19,
+     "q": "This water mammal has long been thought friendly--in mythology Arion rode to safety on its back",
+     "a": "a dolphin",
+     "right": [
+      "Campbell"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 22,
+     "q": "The career of this British soldier culminated in the 1918 capture of Damascus",
+     "a": "Lawrence of Arabia",
+     "right": [
+      "Campbell"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 4,
+     "q": "This whisky with \"regal\" in its name fittingly got a royal warrant from Victoria in 1843",
+     "a": "Chivas Regal",
+     "right": [
+      "Jen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 9,
+     "q": "To deprive a priest of ecclesiastical function",
+     "a": "defrock",
+     "right": [
+      "Jen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 24,
+     "q": "At 15, in the 200 m. fly at 2001's spring nationals, he became the youngest man to break a swimming world record",
+     "a": "Michael Phelps",
+     "right": [
+      "Campbell"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 30,
+     "q": "When \"A Week on\" this \"and the Merrimack Rivers\" sold only 220 copies, publishers dumped the last 700 on H.D.'s door",
+     "a": "Concord",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 20,
+     "q": "This creature is used to drive rabbits out of their burrows, which is why its name also means \"to search out\"",
+     "a": "ferret",
+     "right": [
+      "Pete"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 23,
+     "q": "On all 4 voyages to the New World, Columbus' ships stopped for supplies at this island group off Morocco's coast",
+     "a": "the Canary Islands",
+     "right": [
+      "Jen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 5,
+     "q": "The \"old No. 7\" from this whiskey maker is \"Charcoal mellowed. Drop by drop\"",
+     "a": "Jack Daniels",
+     "right": [
+      "Campbell"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 10,
+     "q": "A toothed wheel engaging with a chain",
+     "a": "sprocket",
+     "right": [
+      "Jen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 25,
+     "q": "This American must have taken his DayQuil before winning giant slalom gold at Sochi in 2014",
+     "a": "Ted Ligety",
+     "right": [
+      "Jen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "STAGE WHISKERS",
+    "MUSICAL MEDICOS",
+    "AN \"S\"-ORTMENT OF THINGS",
+    "PIRATES OF THE CARIBBEAN",
+    "ON THE SQUARE",
+    "THAT'S DIFFICULT!"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 17,
+     "q": "James K. Hackett\ncould use a little shave as this Scottish royal from a 1924 production",
+     "a": "Macbeth",
+     "right": [
+      "Pete"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 26,
+     "q": "In \"I Need A Doctor\" Skylar Grey & Eminem beseech this rap \"physician\", real name Andre Young",
+     "a": "Dr. Dre",
+     "right": [
+      "Pete"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 6,
+     "q": "This word can follow \"measuring\", \"slotted\" or \"runcible\"",
+     "a": "spoon",
+     "right": [
+      "Campbell"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 11,
+     "q": "It's believed pirates used a simple red jack before adopting this flag with the skull & crossbones",
+     "a": "Jolly Roger",
+     "right": [
+      "Campbell"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "St. Basil's Cathedral lies at the southern end of this bricked expanse in the heart of Moscow",
+     "a": "Red Square",
+     "right": [
+      "Pete"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 13,
+     "q": "It precedes \"-boiled\", \"candy\" & \"cider\"",
+     "a": "hard",
+     "right": [
+      "Campbell"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 18,
+     "q": "Ah, the pleasant memories of Old Deuteronomy's whiskers in this Broadway show",
+     "a": "Cats",
+     "right": [
+      "Campbell"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 16,
+     "q": "The title of this song from \"You're a Good Man, Charlie Brown\" is on Lucy's psychiatry booth sign",
+     "a": "\"The Doctor Is In\"",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 7,
+     "q": "What's billed as the \"world's biggest\" this doesn't handle documents but can turn a car to shrapnel in 2 min.",
+     "a": "shredder",
+     "right": [
+      "Campbell"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 12,
+     "q": "Arrested in America, he was hanged in 1701 in London & his body dangled beside the Thames",
+     "a": "Captain Kidd",
+     "right": [],
+     "wrong": [
+      "Jen"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 2,
+     "q": "Copley Square is a highlight of this city's Back Bay",
+     "a": "Boston",
+     "right": [
+      "Campbell"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 14,
+     "q": "Unreasonably obstinate, like the proverbial ox",
+     "a": "stubborn",
+     "right": [
+      "Campbell"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 23,
+     "q": "A mustachioed character depicted on the poster here\nwas first made famous by this author",
+     "a": "(Alexandre) Dumas",
+     "right": [
+      "Campbell"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 25,
+     "q": "Actually a trio, this group made an appointment for \"Doctor! Doctor!\" to alleviate some \"burning, burning\"",
+     "a": "the Thompson Twins",
+     "right": [
+      "Campbell"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 8,
+     "q": "These rod-shaped organisms can wreak havoc in your intestines",
+     "a": "Salmonella",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 21,
+     "q": "For many years, Tortola in this island group was a major base for pirates who terrorized the Spanish Main",
+     "a": "the British Virgin Islands",
+     "right": [],
+     "wrong": [
+      "Pete",
+      "Jen"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 3,
+     "q": "Once a chocolate factory, Ghirardelli Square in this city is now a mix of retail shops near Fisherman's Wharf",
+     "a": "San Francisco",
+     "right": [
+      "Campbell"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 15,
+     "q": "Complex; as a Meryl Streep film title says, \"It's\" this",
+     "a": "complicated",
+     "right": [
+      "Pete"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 29,
+     "q": "Tradition says\nyou need a beard\nto play this lead \"Fiddler on the Roof\" character",
+     "a": "Tevye",
+     "right": [
+      "Jen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 27,
+     "q": "Robert Palmer tells his \"doctor, doctor\" he's got a \"bad case of\" this",
+     "a": "loving you",
+     "right": [
+      "Pete"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 9,
+     "q": "The Star of Africa diamond is set in this staff as part of the British crown jewels",
+     "a": "scepter",
+     "right": [
+      "Jen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 22,
+     "q": "While plundering Portobelo, Panama this knighted pirate created a human shield of women, priests, & the mayor. Nice guy",
+     "a": "Captain Henry Morgan",
+     "right": [],
+     "wrong": [
+      "Pete"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2000
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 4,
+     "q": "Named for a now-defunct newspaper, this New York City square is mentioned in \"Give My Regards To Broadway\"",
+     "a": "Herald Square",
+     "right": [
+      "Jen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 19,
+     "q": "The EU said its 2012 budget was \"in tune with\" these stern \"measures in place in many EU countries\"",
+     "a": "austerity measures",
+     "right": [
+      "Campbell"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1200
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 30,
+     "q": "With Ricky Martin as Che, it must be this play",
+     "a": "Evita",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 28,
+     "q": "This Motley Crue character \"sells the Mexican mob packages of candycaine\"",
+     "a": "Dr. Feelgood",
+     "right": [
+      "Jen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 10,
+     "q": "South Bend, Indiana is home to a museum dedicated to this bygone automobile company",
+     "a": "Studebaker",
+     "right": [
+      "Pete"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 24,
+     "q": "After aiding at the Battle of New Orleans, this privateer continued his pirating ways",
+     "a": "(Jean) Lafitte",
+     "right": [
+      "Pete"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 5,
+     "q": "In November 1963, Rudolph Wilde Platz in this city was renamed John F. Kennedy Platz",
+     "a": "Berlin",
+     "right": [
+      "Campbell"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 20,
+     "q": "Also meaning \"responsibility\", this 4-letter word for a disagreeable obligation is on you",
+     "a": "onus",
+     "right": [
+      "Pete"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "IN THE DICTIONARY",
+  "q": "This adjective can mean \"delicate\", \"heavenly\" or, in chemistry, \"related to C4H10O\"",
+  "a": "ethereal",
+  "right": [
+   "Jen"
+  ],
+  "wrong": [
+   "Pete",
+   "Campbell"
+  ]
+ },
+ "gameId": "4562",
+ "cat_notes": {
+  "J": [
+   "Clues about A Thoreau Understanding.",
+   "Clues about Animals All Around.",
+   "Clues about Geographical History.",
+   "Clues about Whiskey.",
+   "Each answer contains the letter group “ROCK”, and the clues are about On the S.",
+   "Clues about No Chaser."
+  ],
+  "DJ": [
+   "...not \"stage whispers\".",
+   "Clues about Musical Medicos.",
+   "Each answer starts with “S”, and the clues are about An -ortment of Things.",
+   "Clues about Pirates of the Caribbean.",
+   "Clues on the Square.",
+   "The category “THAT'S DIFFICULT!” sets the theme — the clues follow that idea and any wordplay suggested by the title."
+  ],
+  "F": "Clues in the Dictionary."
+ }
+}

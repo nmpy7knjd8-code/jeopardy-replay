@@ -1,0 +1,995 @@
+{
+ "show": "#6699",
+ "aired": "2013-10-31",
+ "note": "",
+ "contestants": [
+  {
+   "name": "Jermaine Jones",
+   "bio": "a program manager from Brooklyn, New York",
+   "short": "Jermaine"
+  },
+  {
+   "name": "Rhea Hantelman",
+   "bio": "an administrative assistant from Marysville, Washington",
+   "short": "Rhea"
+  },
+  {
+   "name": "Jennifer Spirko",
+   "bio": "a public librarian from Maryville, Tennessee (whose 1-day cash winnings total $20,001)",
+   "short": "Jennifer"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Jennifer": 5600,
+   "Rhea": 2400,
+   "Jermaine": 6000
+  },
+  "DJ": {
+   "Jennifer": 5600,
+   "Rhea": 26000,
+   "Jermaine": 7400
+  },
+  "Final": {
+   "Jennifer": 100,
+   "Rhea": 25000,
+   "Jermaine": 4800
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "STATE YOUR BUSINESS",
+    "THE WORLD OF DR. SEUSS",
+    "A TREASURE TROVE",
+    "ABBREVIATED VIDEO GAME TITLES",
+    "WORDPLAY GRAB BAG",
+    "INDEPENDENCE SEAPORT MUSEUM"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 2,
+     "q": "General Motors",
+     "a": "Michigan",
+     "right": [
+      "Jennifer"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "He stole Christmas but then gave it back",
+     "a": "the Grinch",
+     "right": [
+      "Jermaine"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 16,
+     "q": "A solid-gold funeral mask was featured in the 1970s traveling exhibit \"Treasures of\" this king",
+     "a": "Tutankhamun",
+     "right": [
+      "Rhea"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 21,
+     "q": "Oh, wow, \"W.O.W.\" stands for this bestselling multiplayer game",
+     "a": "World of Warcraft",
+     "right": [
+      "Jennifer"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 11,
+     "q": "\"K\" rations: it projects from the bottom of a boat's hull to give stability",
+     "a": "keel",
+     "right": [
+      "Rhea"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 26,
+     "q": "(Jimmy of the Clue Crew delivers the clue from the Independence Seaport Museum in Philadelphia, PA.) Launched in 1892, the Olympia soon sailed to the Pacific, where she fought at Manila Bay, the first battle of this war, of which Olympia is the last surviving ship",
+     "a": "the Spanish-American War",
+     "right": [
+      "Jennifer"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 7,
+     "q": "Apple Inc.",
+     "a": "California",
+     "right": [
+      "Jennifer"
+     ],
+     "wrong": [
+      "Jermaine"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 3,
+     "q": "Can you name him? Yes you can, this main character in \"Green Eggs & Ham\"",
+     "a": "Sam-I-Am",
+     "right": [
+      "Jennifer"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 17,
+     "q": "The wealth of gold & silver in its mountains earned it the nickname \"The Treasure State\"",
+     "a": "Montana",
+     "right": [],
+     "wrong": [
+      "Jennifer",
+      "Rhea"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 22,
+     "q": "We'll need to enlist your knowledge of \"C.O.D.\". this action game series",
+     "a": "Call of Duty",
+     "right": [
+      "Jennifer"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 12,
+     "q": "Crossword clues:\ncomplain,\ncomplain,\ncomplain,\nG _ I _ _",
+     "a": "gripe",
+     "right": [
+      "Jermaine"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "(Kelly of the Clue Crew delivers the clue from the Independence Seaport Museum in Philadelphia, PA.) Celebrated as America's first sculptor, William Rush of Philadelphia was renowned for his ship carvings and figureheads, like this one, which represents this, symbolized by the dove in her hand",
+     "a": "peace",
+     "right": [
+      "Jennifer"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 8,
+     "q": "Wal-Mart",
+     "a": "Arkansas",
+     "right": [
+      "Rhea"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 4,
+     "q": "Mack, who dethrones King Yertle with a burp, is this kind of animal",
+     "a": "turtle",
+     "right": [
+      "Rhea"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 18,
+     "q": "John Huston & Walter Huston both won Oscars for this film",
+     "a": "The Treasure of the Sierra Madre",
+     "right": [
+      "Jermaine"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 23,
+     "q": "\"S.L.\" is this game where you can virtually build a whole other existence",
+     "a": "Second Life",
+     "right": [
+      "Jennifer"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 13,
+     "q": "10-letter words: self-denial of alcohol or sex",
+     "a": "abstinence",
+     "right": [
+      "Jennifer",
+      "Jermaine"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 28,
+     "q": "(Kelly of the Clue Crew delivers the clue from the Independence Seaport Museum in Philadelphia, PA.) Here, in a painting attributed to Richard Paton, is the famous naval duel between Britain's Serapis & the Bonhomme Richard, captained to victory by this father of the American Navy",
+     "a": "John Paul Jones",
+     "right": [
+      "Jermaine"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": true,
+     "order": 9,
+     "q": "Delta Air Lines",
+     "a": "Georgia",
+     "right": [],
+     "wrong": [
+      "Rhea"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 600
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 5,
+     "q": "Title number of hats of Bartholomew Cubbins",
+     "a": "500",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 19,
+     "q": "In legend, Siegfried captured the treasure of the Nibelungen, a race of these beings",
+     "a": "dwarves",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 24,
+     "q": "You can be a troll, an elf, or whatever suits your fantasy when playing this popular game from Sony, abbreviated \"E.Q.\"",
+     "a": "EverQuest",
+     "right": [
+      "Jennifer"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 14,
+     "q": "Add a letter:\ntake a contract renting property to another & add a letter to get this polite word",
+     "a": "please",
+     "right": [
+      "Rhea"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "(Jimmy of the Clue Crew delivers the clue from the Independence Seaport Museum in Philadelphia, PA.) Voyages became safer with the invention of this device that accurately determines longitude; its name is from the Greek for \"time measure\"",
+     "a": "chronometer",
+     "right": [
+      "Jennifer"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 10,
+     "q": "Anheuser-Busch",
+     "a": "Missouri",
+     "right": [
+      "Jermaine"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 6,
+     "q": "Real last name of the good Doctor",
+     "a": "Geisel",
+     "right": [
+      "Jermaine"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 20,
+     "q": "The Louvre is home to some of the world's great art treasures, including this armless statue of Aphrodite",
+     "a": "Venus de Milo",
+     "right": [
+      "Rhea"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 25,
+     "q": "The \"III\" version of \"A.C.\", this game, takes place in part in 1775 Colonial America",
+     "a": "Assassin's Creed",
+     "right": [
+      "Jennifer"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 15,
+     "q": "In the dictionary:\npertaining to creatures without a backbone",
+     "a": "invertebrate",
+     "right": [
+      "Jermaine"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 30,
+     "q": "(Jimmy of the Clue Crew delivers the clue from the Independence Seaport Museum in Philadelphia, PA.) During World War II, the Becuna received four battle stars for her service in the Pacific and as the submarine flagship of this legendary commander",
+     "a": "(Douglas) MacArthur",
+     "right": [
+      "Jermaine"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "GONE WITH THE WIND",
+    "\"RET-\"",
+    "BUTLER",
+    "PARTING WORDS",
+    "FRANKLY, MY DEAR",
+    "WE GIVE A DAM"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "Mark Twain composed on a Remington one of these, rarely seen around the office anymore",
+     "a": "a typewriter",
+     "right": [
+      "Rhea"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "Vengeful repayment",
+     "a": "retribution",
+     "right": [
+      "Jennifer"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 7,
+     "q": "Carson, the butler on this TV show, said, \"Keeping up standards is the only way to show the Germans... they will not beat us\"",
+     "a": "Downton Abbey",
+     "right": [
+      "Jennifer"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 12,
+     "q": "To make trivial distinctions is to do this to \"hairs\"",
+     "a": "split",
+     "right": [
+      "Jennifer"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 17,
+     "q": "Richard Steele once wrote, \"A woman seldom writes her mind but in her\" this, abbreviated P.S.",
+     "a": "postscript",
+     "right": [
+      "Rhea"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 22,
+     "q": "The authorities are so proud of the Krasnoyarsk Dam in this country that it's featured on the 10-ruble bill",
+     "a": "Russia",
+     "right": [
+      "Rhea"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 27,
+     "q": "He's the character in \"Gone with the Wind\" whose world is truly gone with the wind: \"winnowed out\", as Rhett says",
+     "a": "Ashley Wilkes",
+     "right": [
+      "Jennifer"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 3,
+     "q": "This adjective coined in the 20th century means exemplifying an earlier time's styles",
+     "a": "retro",
+     "right": [
+      "Rhea"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 8,
+     "q": "On TV 6'9\" Ted Cassidy played this \"Addams Family\" butler",
+     "a": "Lurch",
+     "right": [
+      "Rhea"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 13,
+     "q": "The discontinuity named for Andrija Mohorovicic, a seismologist, is where Earth's crust ends & this layer below starts",
+     "a": "mantle",
+     "right": [
+      "Rhea"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 18,
+     "q": "P.J. O'Rourke said this -ism was \"the result of... women letting the cat out of the bag about which is the superior sex\"",
+     "a": "feminism",
+     "right": [
+      "Rhea"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 23,
+     "q": "When the reservoir behind Switzerland's Verzasca Dam was filled in 1965, tremors were felt in these mtns.",
+     "a": "the Alps",
+     "right": [
+      "Jermaine"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 28,
+     "q": "In the late 1970s Philips introduced this home video disc that, alas, couldn't record",
+     "a": "LaserDisc",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 4,
+     "q": "Prudential's \"Day One Stories\" are about the first day of this--get out the fishing pole",
+     "a": "retirement",
+     "right": [
+      "Rhea"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 9,
+     "q": "\"Some men just want to watch the world burn\", says this butler in a 2008 film",
+     "a": "Alfred",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 14,
+     "q": "A break in a friendship, or a tear in an organ, often the appendix",
+     "a": "rupture",
+     "right": [
+      "Rhea"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 19,
+     "q": "\"The female of the species is more deadly than the male\", wrote this Bombay-born British poet",
+     "a": "Kipling",
+     "right": [
+      "Rhea"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 24,
+     "q": "Name in common to a \"low\" dam (completed in 1902) & a \"high\" dam (1970) built to control the Nile's annual floods",
+     "a": "Aswan",
+     "right": [
+      "Rhea"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 29,
+     "q": "Akin to a manatee, the Steller's sea this reached 30 feet & 20,000 lbs.; it was extinct within 30 years of its 1741 discovery",
+     "a": "cow",
+     "right": [
+      "Rhea"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 5,
+     "q": "Having a netlike appearance; you may have heard of the python",
+     "a": "reticulated",
+     "right": [
+      "Rhea"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 10,
+     "q": "The name of this butler to Frank-N-Furter in \"Rocky Horror\" sounds like he's one of the lowest class of people",
+     "a": "Riff-Raff",
+     "right": [
+      "Rhea"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 15,
+     "q": "Failed chromosomal disjunction can lead to trisomy 21, aka this syndrome causing cognitive issues",
+     "a": "Down syndrome",
+     "right": [
+      "Rhea"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 20,
+     "q": "In 1888 this German philosopher wrote, \"Woman was God's second mistake\"",
+     "a": "Nietzsche",
+     "right": [
+      "Jermaine"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 25,
+     "q": "Originally named the Karababa, a dam on the Upper Euphrates was renamed this to honor the founder of modern Turkey",
+     "a": "Kemal Atatürk",
+     "right": [
+      "Rhea"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2000
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 30,
+     "q": "This liberal radio network with the name of a Mel Gibson-Robert Downey Jr. film lasted from 2004 to 2010",
+     "a": "Air America",
+     "right": [
+      "Rhea"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 6,
+     "q": "A body of retainers who wait upon someone important",
+     "a": "a retinue",
+     "right": [
+      "Jermaine"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 11,
+     "q": "\"The Third\" incarnation of this \"colorful snake\" finds Rowan Atkinson playing butler to Prince George",
+     "a": "Blackadder",
+     "right": [
+      "Rhea"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 16,
+     "q": "In geometry, it's any line that cuts an angle into 2 equal parts",
+     "a": "bisector",
+     "right": [],
+     "wrong": [
+      "Jennifer"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": true,
+     "order": 21,
+     "q": "This ancient playwright's \"Lysistrata\" contains the line \"can't live with them, or without them!\"",
+     "a": "Aristophanes",
+     "right": [],
+     "wrong": [
+      "Jermaine"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 3000
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 26,
+     "q": "Woody Guthrie wrote the song \"Roll On Columbia\" in praise of this \"Grand\" dam",
+     "a": "the Grand Coulee",
+     "right": [
+      "Rhea"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "THE TUDORS",
+  "q": "\"Alone in prison strong / I wail my destiny\" & \"let pass my weary, guiltless ghost\" are lines from a poem attributed to her",
+  "a": "Anne Boleyn",
+  "right": [],
+  "wrong": [
+   "Jennifer",
+   "Jermaine",
+   "Rhea"
+  ]
+ },
+ "gameId": "4341",
+ "cat_notes": {
+  "J": [
+   "We'll give you the business. You tell us what state it's headquartered in.",
+   "Clues about The World of Dr Seuss.",
+   "Clues about A Treasure Trove.",
+   "Clues about Abbreviated Video Game Titles.",
+   "A mixed bag of clues with no single topic.",
+   "(Kelly: The [*]--a trip through U.S. maritime history in this most important port of the Colonial era.)."
+  ],
+  "DJ": [
+   "Clues about Gone with the Wind.",
+   "Each answer contains the letter group “RET-”.",
+   "Clues about Butler.",
+   "Clues about Parting Words.",
+   "Clues about Frankly, My Dear.",
+   "The category “WE GIVE A DAM” sets the theme — the clues follow that idea and any wordplay suggested by the title."
+  ],
+  "F": "Clues about The Tudors."
+ }
+}

@@ -1,0 +1,997 @@
+{
+ "show": "#6738",
+ "aired": "2013-12-25",
+ "note": "",
+ "contestants": [
+  {
+   "name": "Roxann Smith",
+   "bio": "a professional volunteer from Los Angeles, California",
+   "short": "Roxann"
+  },
+  {
+   "name": "Anthony Niblett",
+   "bio": "a law professor from Toronto, Ontario, Canada",
+   "short": "Anthony"
+  },
+  {
+   "name": "Larry White",
+   "bio": "an actuary from Hatboro, Pennsylvania (whose 2-day cash winnings total $49,624)",
+   "short": "Larry"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Larry": 6400,
+   "Anthony": 3800,
+   "Roxann": 2400
+  },
+  "DJ": {
+   "Larry": 19600,
+   "Anthony": 11000,
+   "Roxann": 5000
+  },
+  "Final": {
+   "Larry": 16600,
+   "Anthony": 19601,
+   "Roxann": 2
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "JUST DESSERTS",
+    "NEW YORKERS",
+    "BEASTLY TITLE CHARACTERS",
+    "A DROP IN WHICH OCEAN?",
+    "CROSSWORD CLUES \"P\"",
+    "HISTORY OF CARS"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 22,
+     "q": "It's the volcanic name for a chocolate cake with a hot, gooey chocolate center",
+     "a": "molten (or lava cake)",
+     "right": [
+      "Roxann"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 4,
+     "q": "Born in Southampton in 1929, this first lady studied at Vassar & at the Sorbonne",
+     "a": "Jackie Kennedy",
+     "right": [
+      "Roxann"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "\"Marley & Me\"",
+     "a": "a dog",
+     "right": [
+      "Anthony"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 2,
+     "q": "Hanauma Bay, east of Waikiki",
+     "a": "Pacific",
+     "right": [
+      "Anthony"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 10,
+     "q": "It beats \"rock\" but not \"scissors\" \n(5)",
+     "a": "paper",
+     "right": [
+      "Larry"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 9,
+     "q": "(Kelly of the Clue Crew reports from Petersen Automotive Museum in Los Angeles, California.) Fred Astaire's elegant 1927 Rolls town car has many luxurious features, like a means of speaking to the chauffeur &, in the rear... a Louis Vuitton one of these, later a term for a car's built-in storage compartment",
+     "a": "a trunk",
+     "right": [
+      "Anthony"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 23,
+     "q": "A classic Greek dessert, yiaourti me meli is this dairy product with honey",
+     "a": "yogurt",
+     "right": [
+      "Larry"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 5,
+     "q": "This NYC native based \"The Legend of Sleepy Hollow\" on a German folk tale",
+     "a": "(Washington) Irving",
+     "right": [
+      "Anthony"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 18,
+     "q": "\"Babe\"",
+     "a": "a pig",
+     "right": [
+      "Larry"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 3,
+     "q": "The Gulf of Honduras",
+     "a": "the Atlantic",
+     "right": [
+      "Larry"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 11,
+     "q": "Shutterbug \n(12)",
+     "a": "a photographer",
+     "right": [
+      "Larry"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "(Jimmy of the Clue Crew reports from Petersen Automotive Museum in Los Angeles, California.) The 1930 Nash 482R had 2 spark plugs per cylinder, a top speed of 75 miles per hour, & one of these features, which was also known as the \"mother-in-law seat\"",
+     "a": "the rumble seat",
+     "right": [],
+     "wrong": [
+      "Larry"
+     ],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 24,
+     "q": "You might say this fruity deep-dish dessert with a biscuit topping is a real shoe-in",
+     "a": "a cobbler",
+     "right": [
+      "Roxann"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 15,
+     "q": "A New York Public Library for the Performing Arts exhibit on this man includes a self-portrait from when he helped write a failed musical",
+     "a": "Al Hirschfeld",
+     "right": [
+      "Roxann"
+     ],
+     "wrong": [
+      "Larry"
+     ],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 19,
+     "q": "\"The Tale of Despereaux\"",
+     "a": "a mouse",
+     "right": [
+      "Larry"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 6,
+     "q": "The Sulu Sea",
+     "a": "the Pacific Ocean",
+     "right": [],
+     "wrong": [
+      "Larry"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 12,
+     "q": "A legal drug dealer \n(10)",
+     "a": "a pharmacist",
+     "right": [
+      "Larry"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 28,
+     "q": "(Jimmy of the Clue Crew reports from Petersen Automotive Museum in Los Angeles, California.) The 1946 Kurtis Ross Page Special that raced in the first Indy 500 after World War II had this clear plastic for its windshield, much lighter than traditional material",
+     "a": "Plexiglas",
+     "right": [
+      "Larry"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 25,
+     "q": "Enjoy a cup of coffee with this coffee-flavored Italian dessert",
+     "a": "tiramisu",
+     "right": [
+      "Roxann"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 16,
+     "q": "The NYC-born son of Jamaican immigrants, he took over the Army's largest command in 1989",
+     "a": "Colin Powell",
+     "right": [
+      "Roxann"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 20,
+     "q": "\"Rikki-Tikki-Tavi\"",
+     "a": "a mongoose",
+     "right": [
+      "Larry"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 7,
+     "q": "The Laptev Sea",
+     "a": "the Arctic",
+     "right": [
+      "Larry"
+     ],
+     "wrong": [
+      "Roxann"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 13,
+     "q": "Movie or musical spoof \n(6)",
+     "a": "a parody",
+     "right": [
+      "Anthony"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "(Kelly of the Clue Crew reports from Petersen Automotive Museum in Los Angeles, California.) During World War II, the use of chrome was curtailed by Washington because it was needed for the war effort. This resulted in cars with little trim work that were referred to as these, also a term for a city's strategy against nighttime air raids",
+     "a": "blackout",
+     "right": [
+      "Larry"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 26,
+     "q": "A favorite at luaus, haupia is this flavor of pudding",
+     "a": "coconut",
+     "right": [],
+     "wrong": [
+      "Larry"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 17,
+     "q": "This \"'S Wonderful\" composer was a Brooklyn boy who died tragically young at age 38",
+     "a": "(George) Gershwin",
+     "right": [
+      "Anthony"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 21,
+     "q": "\"The Complete Calvin and Hobbes\"",
+     "a": "a tiger",
+     "right": [
+      "Larry"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": true,
+     "order": 8,
+     "q": "The Mozambique Channel",
+     "a": "the Indian Ocean",
+     "right": [
+      "Larry"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1000
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 14,
+     "q": "Secret lover \n(8)",
+     "a": "a paramour",
+     "right": [
+      "Anthony"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 30,
+     "q": "(Kelly of the Clue Crew reports from Petersen Automotive Museum in Los Angeles, California.) In 1901, 17-year-old Carl Breer attached a boiler & a crankshaft to a chassis to make an engine powered by this, which briefly challenged the combustion engine for supremacy",
+     "a": "steam",
+     "right": [
+      "Larry"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "ALL THE JINGLE LADIES",
+    "IT'S BEEN A YEAR",
+    "MEDICINE",
+    "13-LETTER WORDS",
+    "FLAG TERMS",
+    "MYTHOLOGICAL CREATURES"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "When she sang \"All I Want For Christmas Is You\", perhaps she meant husband Nick Cannon",
+     "a": "(Mariah) Carey",
+     "right": [
+      "Anthony"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "In February news British diners consumed less beef because results showed it contained some of this animal's DNA",
+     "a": "a horse",
+     "right": [
+      "Anthony"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 18,
+     "q": "In 2012 scientists announced that injection of human embryonic these in the inner ears of deaf gerbils restored hearing",
+     "a": "stem cells",
+     "right": [
+      "Larry"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 13,
+     "q": "The snatch & the clean & jerk are events in this sport",
+     "a": "weightlifting",
+     "right": [
+      "Larry"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 12,
+     "q": "Finials are ornaments that decorate the tops of these; popular ones include star & spread eagle",
+     "a": "flagpoles",
+     "right": [
+      "Roxann"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 7,
+     "q": "In Homer's \"Odyssey\", Odysseus discovers a cave that's home to Polyphemus, one of these 1-eyed giants",
+     "a": "a cyclops",
+     "right": [
+      "Larry"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 30,
+     "q": "She sang, \"The only place you'll wanna be is underneath my Christmas tree\" & may well have dressed up as one",
+     "a": "Lady Gaga",
+     "right": [
+      "Roxann"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 3,
+     "q": "Last name of the Army private convicted of espionage as Bradley but now going by Chelsea",
+     "a": "Manning",
+     "right": [
+      "Anthony"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 19,
+     "q": "Around 3 out of 5 organ transplants in the United States involve this organ",
+     "a": "the kidney",
+     "right": [],
+     "wrong": [
+      "Larry",
+      "Roxann"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 27,
+     "q": "Cymbals, triangles & tambourines are among the instruments played by this musician in an orchestra",
+     "a": "a percussionist",
+     "right": [
+      "Roxann"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": true,
+     "order": 14,
+     "q": "From the Greek for \"sign bearer\", it's the type of flag used to send messages from ship to shore",
+     "a": "semaphore",
+     "right": [
+      "Larry"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 6000
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 8,
+     "q": "In Greece this creature was said to guard the entrance to Thebes; in Egypt, it guards the pyramids",
+     "a": "the Sphinx",
+     "right": [
+      "Anthony"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 26,
+     "q": "The firm of Williams, Rowland & Knowles, aka this trio, asked, \"Do You Hear What I Hear?\"",
+     "a": "Destiny's Child",
+     "right": [
+      "Anthony"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 4,
+     "q": "This world leader denied he stole a Super Bowl ring",
+     "a": "Putin",
+     "right": [
+      "Anthony"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 20,
+     "q": "In 1910 physician James Herrick became the first to identify this blood disease that affects many African Americans",
+     "a": "sickle-cell anemia",
+     "right": [
+      "Roxann"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 28,
+     "q": "He's dead, Jim. --not for long; I'm going to perform this process of restoring breath & heartbeat",
+     "a": "resuscitation",
+     "right": [
+      "Roxann"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 15,
+     "q": "2 types of tapering flags are pennants & these that end in 2 points like the bird part for which they're named",
+     "a": "swallowtail",
+     "right": [
+      "Larry"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 9,
+     "q": "Here's our cuter version of this offspring of Typhon & Echidna--here, puppy",
+     "a": "Cerberus",
+     "right": [
+      "Anthony"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 25,
+     "q": "In 2012, this \"bubbly\" songbird warbled about \"Mistletoe\"",
+     "a": "Colbie Caillat",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 5,
+     "q": "Coming back from scandal, he won election to represent South Carolina's 1st congressional district",
+     "a": "(Mark) Sanford",
+     "right": [
+      "Anthony"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 21,
+     "q": "The name of this anti-inflammatory comes from the longer version, isobutylphenyl propionic acid",
+     "a": "ibuprofen",
+     "right": [],
+     "wrong": [
+      "Roxann"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 3000
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 29,
+     "q": "In 2004 Paraguay protected its trees by passing the Zero this Law",
+     "a": "Deforestation",
+     "right": [
+      "Anthony"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 16,
+     "q": "It's the upper left portion of a flag; the rest of the flag is called the field or ground",
+     "a": "the canton",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 10,
+     "q": "At the end of its life cycle, this mythical bird builds a nest of aromatic twigs that it then ignites",
+     "a": "phoenix",
+     "right": [
+      "Larry"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 24,
+     "q": "This country idol hit the charts in 2008 with \"Hark! The Herald Angels Sing\"",
+     "a": "Carrie Underwood",
+     "right": [
+      "Roxann"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 6,
+     "q": "An American Society of Civil Engineers report gave a D+ grade to U.S. roads, bridges, etc., this 14-letter term",
+     "a": "infrastructure",
+     "right": [
+      "Larry"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 22,
+     "q": "Epidemic parotitis is another name for this common childhood disease",
+     "a": "mumps",
+     "right": [],
+     "wrong": [
+      "Anthony"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 23,
+     "q": "Explained by Einstein in 1905, this \"effect\" of light on subatomic particles is fundamental to modern physics",
+     "a": "photoelectric",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 17,
+     "q": "The name of this rope used to hoist a flag is from the Middle English for \"pull\"",
+     "a": "halyard",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 11,
+     "q": "Kept in the stalls in Olympus, he carries Zeus' thunderbolts",
+     "a": "Pegasus",
+     "right": [
+      "Larry"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "AUTHORS",
+  "q": "\"The American Tolkien\" was what Time magazine called this author with the same 2 middle initials as Tolkien",
+  "a": "George R.R. Martin",
+  "right": [
+   "Anthony"
+  ],
+  "wrong": [
+   "Roxann",
+   "Larry"
+  ]
+ },
+ "gameId": "4379",
+ "cat_notes": {
+  "J": [
+   "Clues about Just Desserts.",
+   "Clues about New Yorkers.",
+   "You have to tell us what kind of animal.",
+   "The category “A DROP IN WHICH OCEAN?” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "Crossword-style clues; each answer contains “P”.",
+   "Clues about History of Cars."
+  ],
+  "DJ": [
+   "Clues about All the Jingle Ladies.",
+   "The category “IT'S BEEN A YEAR” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "Clues about Medicine.",
+   "Each answer is a 13-letter word.",
+   "Clues about Flag Terms.",
+   "Clues about Mythological Creatures."
+  ],
+  "F": "Clues about Authors."
+ }
+}

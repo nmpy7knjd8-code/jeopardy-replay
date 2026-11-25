@@ -1,0 +1,996 @@
+{
+ "show": "#6741",
+ "aired": "2013-12-30",
+ "note": "Jerry Slowik game 3.",
+ "contestants": [
+  {
+   "name": "Alexis Browsh",
+   "bio": "a teacher and tutor from Bryn Mawr, Pennsylvania",
+   "short": "Alexis"
+  },
+  {
+   "name": "Armen Terjimanian",
+   "bio": "a web content producer originally from Troy, Michigan",
+   "short": "Armen"
+  },
+  {
+   "name": "Jerry Slowik",
+   "bio": "a writer from Arlington Heights, Illinois (whose 2-day cash winnings total $49,998)",
+   "short": "Jerry"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Jerry": 8000,
+   "Armen": 3400,
+   "Alexis": 1800
+  },
+  "DJ": {
+   "Jerry": 21600,
+   "Armen": 10600,
+   "Alexis": 2400
+  },
+  "Final": {
+   "Jerry": 21902,
+   "Armen": 5600,
+   "Alexis": 400
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "FLYERS & FLYING",
+    "CALIFORNIA FOOD FESTIVALS",
+    "HIGH-SCORING SCRABBLE WORDS",
+    "THE 1970s",
+    "LOCO FOR LOGOS",
+    "\"HAPPY\" HOUR"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 15,
+     "q": "In 1919 John Alcock & Arthur Brown made the first nonstop one of these flights; Lindbergh's in '27 was the first solo",
+     "a": "trans-Atlantic",
+     "right": [
+      "Alexis"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 26,
+     "q": "Fallbrook's festival devoted to this fruit includes a contest for the best guacamole",
+     "a": "avocado",
+     "right": [
+      "Alexis"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "AKA a pancake or hotcake (26 points)",
+     "a": "a flapjack",
+     "right": [
+      "Armen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 2,
+     "q": "On Jan. 2, 1974 President Nixon signed a bill lowering the maximum speed limit on the highways to this",
+     "a": "55",
+     "right": [
+      "Jerry"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 16,
+     "q": "Can you pick me up a little\npick-me-up from this chain?",
+     "a": "Starbucks",
+     "right": [
+      "Armen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 6,
+     "q": "It made The Fonz a star",
+     "a": "Happy Days",
+     "right": [
+      "Jerry"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 22,
+     "q": "In 1889 they began publishing a weekly Dayton, Ohio newspaper called the West Side News",
+     "a": "the Wright Brothers",
+     "right": [
+      "Alexis"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "Pismo Beach has been honoring this creature for 67 years with digging & chowder cook-offs",
+     "a": "the clam",
+     "right": [
+      "Jerry"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 11,
+     "q": "To make the pressure between 2 forces the same (26 points)",
+     "a": "equalize",
+     "right": [
+      "Alexis"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 3,
+     "q": "This third-largest U.S. automaker needed & got a $1.5 billion federal loan guarantee",
+     "a": "Chrysler",
+     "right": [
+      "Armen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 17,
+     "q": "It's the high-flying company whose logo is seen here",
+     "a": "Qantas",
+     "right": [
+      "Armen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 7,
+     "q": "Adam Sandler comedy about a hockey player turned golf pro",
+     "a": "Happy Gilmore",
+     "right": [
+      "Jerry"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 23,
+     "q": "In the 1920s she wrote an aviation column for Cosmopolitan Magazine",
+     "a": "(Amelia) Earhart",
+     "right": [
+      "Armen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 28,
+     "q": "A visit to Gilroy's celebration of this stinking rose wouldn't be complete without a scoop of ice cream flavored with it",
+     "a": "garlic",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 12,
+     "q": "Like a bold, impulsive quest or a man of La Mancha (26 points)",
+     "a": "quixotic",
+     "right": [
+      "Jerry"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 4,
+     "q": "On June 30, 1971 the Supreme Court upheld the right of the N.Y. Times & the Washington Post to publish these classified papers",
+     "a": "the Pentagon Papers",
+     "right": [
+      "Jerry"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 18,
+     "q": "This company's logo\ncelebrates 60 years in 2013",
+     "a": "Playboy",
+     "right": [
+      "Jerry"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 8,
+     "q": "\"Gray skies are gonna clear up\", so put on one of these",
+     "a": "a happy face",
+     "right": [
+      "Alexis"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 24,
+     "q": "In 1933 this mogul took a job at American Airways as a co-pilot using the pseudonym Charles W. Howard",
+     "a": "Howard Hughes",
+     "right": [
+      "Armen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": true,
+     "order": 29,
+     "q": "An Oxnard festival for this condiment advertises that it celebrates \"the food, the music, the dance\"",
+     "a": "salsa",
+     "right": [
+      "Jerry"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1400
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 13,
+     "q": "Rusted, from a chemical point of view (26 points)",
+     "a": "oxidized",
+     "right": [
+      "Jerry"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 5,
+     "q": "In June 1978 California voters overwhelmingly approved this amendment to slash property taxes",
+     "a": "Proposition 13",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 19,
+     "q": "It went live\nMarch 21, 2006",
+     "a": "Twitter",
+     "right": [
+      "Jerry"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 9,
+     "q": "Will Smith starred in this 2006 film about an aspiring stockbroker & his son",
+     "a": "The Pursuit of Happyness",
+     "right": [
+      "Armen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 25,
+     "q": "After the 1922 crash of the airship Roma, the U.S. Navy switched to this safer but more expensive gas",
+     "a": "helium",
+     "right": [
+      "Jerry"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 30,
+     "q": "At the \"Spitway\" at Sunland-Tujunga's celebration of this food, you can spit 3 seeds for a buck; longest in each age group wins",
+     "a": "watermelon",
+     "right": [
+      "Jerry"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 14,
+     "q": "8-letter adjective describing the science of animals (20 points)",
+     "a": "zoologic",
+     "right": [],
+     "wrong": [
+      "Jerry"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 21,
+     "q": "In 1975 this nation captured the U.S. merchant ship Mayaguez & its crew in the Gulf of Thailand",
+     "a": "Cambodia",
+     "right": [],
+     "wrong": [
+      "Armen"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 20,
+     "q": "Get up to speed\nwith this speedy automaker",
+     "a": "Ferrari",
+     "right": [
+      "Armen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 10,
+     "q": "\"The only one for me is you, and you for me\", the Turtles sang in this 1967 No. 1 hit",
+     "a": "\"Happy Together\"",
+     "right": [
+      "Jerry"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "GENEALOGY",
+    "GREEK ISLANDS",
+    "BIOGRAPHY SUBJECTS",
+    "MOVIE COMEDY",
+    "\"CO\" DEPENDENT",
+    "GRIMM, GRIM"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 21,
+     "q": "One of the best resources for family history is this, the latest released with personal data being the 1940 one",
+     "a": "the Census",
+     "right": [
+      "Jerry"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 16,
+     "q": "Ikaria is named for this mythical aeronaut who plunged to his death",
+     "a": "Icarus",
+     "right": [
+      "Alexis"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 6,
+     "q": "A botanist & chemist: \"Wizard of Tuskegee\"",
+     "a": "George Washington Carver",
+     "right": [
+      "Alexis"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "Director Mel Brooks plays 2 roles in this 1974 comedy: Governor William J. Le Petomane & an Indian chief",
+     "a": "Blazing Saddles",
+     "right": [
+      "Jerry"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 11,
+     "q": "This word is from the Latin for \"to work with\"",
+     "a": "cooperate",
+     "right": [
+      "Alexis"
+     ],
+     "wrong": [
+      "Jerry"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 24,
+     "q": "Her mom dies in paragraph 1, her 2 evil stepsisters arrive in No. 2, but it works out; in the end, pigeons peck out their eyes",
+     "a": "Cinderella",
+     "right": [
+      "Alexis"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 22,
+     "q": "(Kelly of the Clue Crew presnts the clue on a monitor.) Anne and Oscar share\nthe same grandfather, John. Therefore,\nOscar is this relation to Anne",
+     "a": "cousin",
+     "right": [
+      "Alexis"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 17,
+     "q": "In 2010 Giorgio Armani bought Skorpios for $190 million from heirs of this billionaire who married Jackie Kennedy",
+     "a": "Onassis",
+     "right": [
+      "Alexis"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": true,
+     "order": 7,
+     "q": "An explorer: \"The Man Who Presumed\"",
+     "a": "Henry Morton Stanley",
+     "right": [],
+     "wrong": [
+      "Alexis"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2200
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 2,
+     "q": "Though he didn't speak,\nthis man helped deliver laughs in comedy classics like \"Horse Feathers\"",
+     "a": "Harpo Marx",
+     "right": [
+      "Jerry"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 12,
+     "q": "Concealed or sheltered, perhaps like some government \"ops\"",
+     "a": "covert",
+     "right": [
+      "Jerry"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 25,
+     "q": "Unable to spin straw into gold, a woman barters her firstborn kid to this guy, a psycho with name issues",
+     "a": "Rumplestiltskin",
+     "right": [
+      "Jerry"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 23,
+     "q": "Celebrities whose family history has been traced on this TV series include Reba McEntire & Helen Hunt",
+     "a": "Who Do You Think You Are?",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 18,
+     "q": "At 8,058 feet, Mount Ida is the highest point on this island & was once a holy mountain in Minoan culture",
+     "a": "Crete",
+     "right": [
+      "Jerry"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 8,
+     "q": "A British film director: \"The Dark Side of Genius\"",
+     "a": "Alfred Hitchcock",
+     "right": [
+      "Jerry"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 3,
+     "q": "Melissa McCarthy steals Jason Bateman's name to become the title character of this 2013 film",
+     "a": "Identity Thief",
+     "right": [
+      "Jerry"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 13,
+     "q": "From the French, it's a synonym for \"a flirt\"",
+     "a": "coquette",
+     "right": [
+      "Jerry"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 26,
+     "q": "As proof this girl is dead, the huntsman brings a boar's lung to the stepmom, who later dances herself to death",
+     "a": "Snow White",
+     "right": [
+      "Alexis"
+     ],
+     "wrong": [
+      "Jerry"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 29,
+     "q": "This man's \"peerage\", dating back to 1826, is a guide to the noble families of the United Kingdom",
+     "a": "John Burke",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 19,
+     "q": "This island in the Aegean was the birthplace of such poets as Alcaeus, Terpander & Sappho",
+     "a": "Lesbos",
+     "right": [
+      "Jerry"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 9,
+     "q": "An American novelist: \"Just One Catch\"",
+     "a": "(Joseph) Heller",
+     "right": [
+      "Jerry"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 4,
+     "q": "Billy Wilder's first choice for the role of Sugar Kane in this film was Mitzi Gaynor, but Marilyn Monroe got the part",
+     "a": "Some Like it Hot",
+     "right": [
+      "Jerry"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 14,
+     "q": "Congo & Zambia have more than half the world's reserves of ores of this element, atomic number 27",
+     "a": "cobalt",
+     "right": [
+      "Armen"
+     ],
+     "wrong": [
+      "Jerry"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 27,
+     "q": "2 of these animals were harmed big-time in \"Little Red-Cap\"; one by a rough diet of stones, the other by drowning",
+     "a": "wolves",
+     "right": [
+      "Armen"
+     ],
+     "wrong": [
+      "Alexis"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": true,
+     "order": 30,
+     "q": "With over 10 billion genealogical records. this website says it's the \"largest online family history resource\"",
+     "a": "ancestry.com",
+     "right": [
+      "Jerry"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2000
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 20,
+     "q": "Today, the only statues you'll find in its Mandraki harbor are 2 statues of a deer species unique to the island",
+     "a": "Rhodes",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 10,
+     "q": "A religious leader: \"Here I Stand\"",
+     "a": "Martin Luther",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 5,
+     "q": "In this 1994 film Jeff Daniels' tongue gets fused to a frozen metal pole",
+     "a": "Dumb and Dumber",
+     "right": [
+      "Armen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 15,
+     "q": "It's a constant placed before & multiplying another quantity, as 5 in the expression 5x",
+     "a": "coefficient",
+     "right": [
+      "Armen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 28,
+     "q": "A dad steals food for his dying wife, gets caught & must give away his kid, this girl who gets locked in a tower",
+     "a": "Rapunzel",
+     "right": [
+      "Jerry"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "WORD ORIGINS",
+  "q": "When evidence was lacking, juries of yore would reply with this Latin word meaning \"we do not know\"; now it means a dunce",
+  "a": "ignoramus",
+  "right": [
+   "Jerry"
+  ],
+  "wrong": [
+   "Alexis",
+   "Armen"
+  ]
+ },
+ "gameId": "4383",
+ "cat_notes": {
+  "J": [
+   "Clues about Flyers and Flying.",
+   "Clues about California Food Festivals.",
+   "Clues about High-scoring Scrabble Words.",
+   "Clues about The 1970s.",
+   "Clues about Loco for Logos.",
+   "Each answer contains the letter group “HAPPY”, and the clues are about Hour."
+  ],
+  "DJ": [
+   "Clues about Genealogy.",
+   "Clues about Greek Islands.",
+   "Clues about Biography Subjects.",
+   "Clues about Movie Comedy.",
+   "Each answer starts with “CO”, and the clues are about Dependent.",
+   "Clues about Grimm, Grim."
+  ],
+  "F": "Clues about Word Origins."
+ }
+}

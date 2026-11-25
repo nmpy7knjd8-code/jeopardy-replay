@@ -1,0 +1,997 @@
+{
+ "show": "#6881",
+ "aired": "2014-07-14",
+ "note": "",
+ "contestants": [
+  {
+   "name": "Ben-Hur Flores",
+   "bio": "a customer service representative from Tampa, Florida",
+   "short": "Ben-Hur"
+  },
+  {
+   "name": "Virginia Hatfield",
+   "bio": "an opera singer from Toronto, Ontario, Canada",
+   "short": "Virginia"
+  },
+  {
+   "name": "Jen Fiero",
+   "bio": "a librarian from Jackson, Michigan (whose 2-day cash winnings total $36,000)",
+   "short": "Jen"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Jen": 7400,
+   "Virginia": 600,
+   "Ben-Hur": 7400
+  },
+  "DJ": {
+   "Jen": 13400,
+   "Virginia": 4400,
+   "Ben-Hur": 16200
+  },
+  "Final": {
+   "Jen": 8800,
+   "Virginia": 0,
+   "Ben-Hur": 20000
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "THE BIBLE TELLS ME SO",
+    "MOVIE MUSICALS",
+    "ALPHANUMERICS",
+    "THE LANGUAGE OF BEER",
+    "IT'S A BIRD",
+    "THE MONUMENTS WOMEN"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 7,
+     "q": "John 11:35 (the King James Version's shortest verse): he \"wept\"",
+     "a": "Jesus",
+     "right": [
+      "Jen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "Gene Kelly was sick with fever when he did his title number in this 1952 film; mom must not have been there to warn him to stay dry",
+     "a": "Singin' in the Rain",
+     "right": [
+      "Ben-Hur"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 6,
+     "q": "This company makes scotchlite reflective material",
+     "a": "3M",
+     "right": [
+      "Jen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 12,
+     "q": "Cerveza, por favor",
+     "a": "Spanish",
+     "right": [
+      "Virginia"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 23,
+     "q": "Bellicose 19th century southerners like Henry Clay were called war these",
+     "a": "hawks",
+     "right": [
+      "Ben-Hur"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 17,
+     "q": "We love this comedienne who earned her place\nat the hall of fame plaza\nat the television academy",
+     "a": "Lucille Ball",
+     "right": [
+      "Ben-Hur"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": true,
+     "order": 8,
+     "q": "Joshua 6:1: \"now\" this city \"was straitly shut up because of the children of Israel\"",
+     "a": "Jericho",
+     "right": [
+      "Jen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1000
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "She not only played Mary Poppins, she provided the whistling for the animatronic robin",
+     "a": "Julie Andrews",
+     "right": [
+      "Ben-Hur"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 19,
+     "q": "Standard tax form showing the total wages paid to an employee & taxes withheld during the year",
+     "a": "a W-2",
+     "right": [
+      "Ben-Hur"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 13,
+     "q": "Bier, bitte",
+     "a": "German",
+     "right": [
+      "Ben-Hur"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 24,
+     "q": "Aka the pilomotor reflex, it's skin's response to cold or emotional stress",
+     "a": "goosebumps",
+     "right": [
+      "Jen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 18,
+     "q": "O, a beautiful Falmouth, Mass. statue of Katharine Lee Bates shows her imagining the lines of this song",
+     "a": "\"America The Beautiful\"",
+     "right": [],
+     "wrong": [
+      "Jen"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 9,
+     "q": "Deuteronomy 5: \"neither shalt thou bear\" this 2-word phrase \"against thy neighbour\"",
+     "a": "false witness",
+     "right": [
+      "Ben-Hur"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 3,
+     "q": "In \"Burlesque\", this pop diva runs a club & sings \"you haven't seen the last of me\"",
+     "a": "Cher",
+     "right": [
+      "Jen"
+     ],
+     "wrong": [
+      "Virginia"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 20,
+     "q": "This British agency that takes care of international spying is formally the Secret Intelligence Service",
+     "a": "MI-6",
+     "right": [
+      "Jen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 14,
+     "q": "Biru, kudasai",
+     "a": "Japanese",
+     "right": [
+      "Jen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 25,
+     "q": "This term meaning to rigidly categorize comes from small desk compartments",
+     "a": "pigeonhole",
+     "right": [
+      "Ben-Hur"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 28,
+     "q": "For decades, visitors to this girls' house in Amsterdam have gazed at the statue seen here",
+     "a": "Anne Frank",
+     "right": [
+      "Jen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 10,
+     "q": "Judges 15: he \"said, with the jaw-bone of an ass, heaps upon heaps, with the jaw of an ass have I slain a thousand men\"",
+     "a": "Samson",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 4,
+     "q": "5'6\" John Leguizamo would tower over Henri de Toulouse-Lautrec, whom he played in this 2001 musical",
+     "a": "Moulin Rouge!",
+     "right": [
+      "Jen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 21,
+     "q": "Selective Service classification for a person physically unfit for military duty",
+     "a": "4-F",
+     "right": [
+      "Ben-Hur"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 15,
+     "q": "Pijiu, qing",
+     "a": "Mandarin Chinese",
+     "right": [
+      "Jen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 26,
+     "q": "It's a number like 2 or 7, as opposed to 2nd or 7th",
+     "a": "cardinal",
+     "right": [
+      "Ben-Hur"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "Mary Hays, famed under this name for 18th century water-bearing, is immortalized by her grave in Carlisle, Pennsylvania",
+     "a": "Molly Pitcher",
+     "right": [
+      "Ben-Hur"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 11,
+     "q": "1 kings 2: \"then sat\" this man \"upon the throne of David his father; and his kingdom was established\"",
+     "a": "Solomon",
+     "right": [
+      "Jen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 5,
+     "q": "James Cagney won his only Oscar for portraying this composer in 1942's \"Yankee Doodle Dandy\"",
+     "a": "(George M.) Cohan",
+     "right": [
+      "Ben-Hur"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 22,
+     "q": "This military plane that made unwanted headlines in 1960 is still in use, though a phaseout is coming in 2015",
+     "a": "U-2",
+     "right": [
+      "Ben-Hur"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 16,
+     "q": "Bira, parakalo",
+     "a": "Greek",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 27,
+     "q": "Before it was a Marx Brothers film title, it meant something easy to do",
+     "a": "duck soup",
+     "right": [
+      "Jen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 30,
+     "q": "In Hartford, Lincoln meets this novelist & local who set much history in motion",
+     "a": "Harriet Beecher Stowe",
+     "right": [
+      "Virginia"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "\"I\" LOVE SCIENCE",
+    "TIME FOR A REVOLUTION!",
+    "EXPOSÉS",
+    "MICKEYPEDIA",
+    "SHAKESPEARE'S ENDINGS",
+    "ADD A LETTER"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 13,
+     "q": "The bursting inward of something hollow",
+     "a": "implosion",
+     "right": [
+      "Ben-Hur"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 18,
+     "q": "Castro's Cuban revolution happened at the end of this decade",
+     "a": "the '50's",
+     "right": [
+      "Ben-Hur"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "\"Extra Virginity\" is a book about the \"scandalous world\" of this liquid cooking product",
+     "a": "olive oil",
+     "right": [
+      "Virginia"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 3,
+     "q": "At the urging of his wife, Walt Disney changed Mortimer's name to this",
+     "a": "Mickey Mouse",
+     "right": [
+      "Jen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 7,
+     "q": "\"Gratiano, keep the house, and seize upon the fortunes of the Moor, for they succeed on you\"",
+     "a": "Othello",
+     "right": [
+      "Ben-Hur"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 12,
+     "q": "Add a \"c\" to a security device to get this timepiece",
+     "a": "a clock",
+     "right": [
+      "Jen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 14,
+     "q": "Pumice is this type of rock formed by magma that stops being molten",
+     "a": "igneous",
+     "right": [
+      "Jen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 19,
+     "q": "If it's July 14 of this year, it must be time to storm the Bastille & start the French Revolution",
+     "a": "1789",
+     "right": [
+      "Ben-Hur"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 2,
+     "q": "Seymour Hersh's \"The Dark Side of Camelot\" showed this president's reckless side",
+     "a": "John F. Kennedy",
+     "right": [
+      "Jen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 4,
+     "q": "From 1951 to 1968 he hit 536 homers for the New York Yankees",
+     "a": "Mickey Mantle",
+     "right": [
+      "Virginia"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 8,
+     "q": "\"We will unite the white rose and the red, smile heaven upon this fair conjunction\"",
+     "a": "Richard III",
+     "right": [
+      "Virginia"
+     ],
+     "wrong": [
+      "Ben-Hur"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 27,
+     "q": "Add an \"H\" to a feline to get this informal talk (& also the French for feline)",
+     "a": "chat",
+     "right": [
+      "Jen"
+     ],
+     "wrong": [
+      "Virginia"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 15,
+     "q": "(Kelly of the Clue Crew pulls on the end of a string of beads in a beaker, and the whole string comes out.) To create an external force, I'll tug this string, which transfers energy from bead to bead & keeps them moving, illustrating this law of motion",
+     "a": "inertia",
+     "right": [
+      "Jen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 20,
+     "q": "The first uprising called this natl. revolution was in 1905, after a massacre of peasants at the Winter Palace",
+     "a": "Russian",
+     "right": [
+      "Ben-Hur"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 5,
+     "q": "Born Elizabeth Cochran, this journalist wrote an 1887 exposé on conditions in mental asylums",
+     "a": "Nellie Bly",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 24,
+     "q": "Mickey Hart joined Bill Kreutzmann for some long jams as they formed the drumming duo of this band",
+     "a": "The Grateful Dead",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": true,
+     "order": 9,
+     "q": "\"With the help of your good hands, gentle breath of yours my sails must fill, or else my project fails\"",
+     "a": "The Tempest",
+     "right": [],
+     "wrong": [
+      "Virginia"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1000
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 30,
+     "q": "Add an \"R\" to a place where a Smith works to get this counterfeiter",
+     "a": "forger",
+     "right": [
+      "Ben-Hur"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 16,
+     "q": "It's the invisible part of the spectrum from about 800 nanometers to 1 millimeter in wavelength",
+     "a": "infrared",
+     "right": [
+      "Ben-Hur"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 21,
+     "q": "The Redcoats & Minutemen first got it on in the American Revolution on the 19th of this month in 1775",
+     "a": "April",
+     "right": [],
+     "wrong": [
+      "Ben-Hur"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2000
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 6,
+     "q": "Subtitled \"The Dark Side of the All-American Meal\", this expose was made into a 2006 film",
+     "a": "Fast Food Nation",
+     "right": [
+      "Virginia"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 25,
+     "q": "Born Joe Yule Jr. in 1920, he briefly changed his name to Mickey McGuire before settling on this stage name",
+     "a": "Mickey Rooney",
+     "right": [
+      "Ben-Hur"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 10,
+     "q": "\"Take up the bodies. such a sight as this becomes the field, but here shows much amiss\"",
+     "a": "Hamlet",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 29,
+     "q": "Add an \"I\" to a measure of interest on a loan to get this synonym for \"angry\"",
+     "a": "irate",
+     "right": [
+      "Jen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 17,
+     "q": "In humans, the hipbone is 3 fused bones: the pubis, the ischium & this one",
+     "a": "the ilium",
+     "right": [
+      "Ben-Hur"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 22,
+     "q": "The Hungarian Revolution was in October of this Cold War year",
+     "a": "1956",
+     "right": [
+      "Virginia"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 23,
+     "q": "This coin phrase is the punning title of Barbara Ehrenreich's chronicle of making ends meet on $7 an hour",
+     "a": "Nickel and Dimed",
+     "right": [],
+     "wrong": [
+      "Jen",
+      "Virginia"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 26,
+     "q": "A 1996 documentary was titled this man, \"Actor or Boxer?\"",
+     "a": "Mickey Rourke",
+     "right": [
+      "Virginia"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 11,
+     "q": "\"As for that ravenous tiger Tamora... being dead, let birds on her take pity\"",
+     "a": "Titus Andronicus",
+     "right": [
+      "Ben-Hur"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 28,
+     "q": "Add an \"E\" to a word meaning \"reasonable\" to get this underlying reason for doing something",
+     "a": "rationale",
+     "right": [
+      "Jen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "LITERARY TITLE WORDS",
+  "q": "It was Giovanni Boccaccio who added this adjective to another Italian author's work",
+  "a": "divine",
+  "right": [
+   "Ben-Hur"
+  ],
+  "wrong": [
+   "Virginia",
+   "Jen"
+  ]
+ },
+ "gameId": "4565",
+ "cat_notes": {
+  "J": [
+   "Clues about The Bible Tells Me So.",
+   "Clues about Movie Musicals.",
+   "Clues about Alphanumerics.",
+   "You give me the language, please.",
+   "The category “IT'S A BIRD” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "Clues about The Monuments Women."
+  ],
+  "DJ": [
+   "Each answer contains the letter “I”, and the clues are about Love Science.",
+   "Clues about revolutions.",
+   "Clues about Exposés.",
+   "Clues about Mickeypedia.",
+   "Clues about Shakespeare's Endings.",
+   "Clues about Add a Letter."
+  ],
+  "F": "Clues about Literary Title Words."
+ }
+}

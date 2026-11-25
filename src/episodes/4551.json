@@ -1,0 +1,994 @@
+{
+ "show": "#6875",
+ "aired": "2014-07-04",
+ "note": "",
+ "contestants": [
+  {
+   "name": "Sally Sheinberg",
+   "bio": "a substitute teacher from Palmdale, California",
+   "short": "Sally"
+  },
+  {
+   "name": "Kay Thanaporn",
+   "bio": "a health care consultant from Decatur, Georgia",
+   "short": "Kay"
+  },
+  {
+   "name": "Christi Esterle",
+   "bio": "a librarian and stay-at-home mom from Colorado Springs, Colorado (whose 2-day cash winnings total $36,199)",
+   "short": "Christi"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Christi": 3800,
+   "Kay": 9600,
+   "Sally": 800
+  },
+  "DJ": {
+   "Christi": 13600,
+   "Kay": 30200,
+   "Sally": 1600
+  },
+  "Final": {
+   "Christi": 22600,
+   "Kay": 33199,
+   "Sally": 600
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "ON THE \"LEFT\"",
+    "COOL IDEA",
+    "BESTSELLING AUTHORS BY PARTIAL TITLE",
+    "NATIONAL ANIMALS",
+    "OLDIES",
+    "NEWBIES"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 6,
+     "q": "Mmmmmmmm! Dinner from last night, reheated & served today",
+     "a": "leftovers",
+     "right": [
+      "Sally"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 17,
+     "q": "What could go wrong with the 1958 Ford concept car known as the Nucleon, powered by a tiny one of these?",
+     "a": "a reactor",
+     "right": [
+      "Christi"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "\"Pelican\"\n(1992)",
+     "a": "John Grisham",
+     "right": [
+      "Kay"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 22,
+     "q": "The name of this creature is a nickname for a citizen of New Zealand",
+     "a": "a kiwi",
+     "right": [
+      "Christi"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 7,
+     "q": "\"Rock Around The Clock\" by this man & His Comets was No. 1 for 8 weeks in 1955",
+     "a": "Bill Haley",
+     "right": [
+      "Sally"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 10,
+     "q": "Si, since December 2012 Enrique Pena Nieto has been president of this country",
+     "a": "Mexico",
+     "right": [
+      "Christi"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 9,
+     "q": "A clumsy dancer is said to have this anatomical impossibility",
+     "a": "two left feet",
+     "right": [
+      "Sally"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 18,
+     "q": "(Jimmy of the Clue Crew delivers the clue from Mount Rushmore, South Dakota.) In 1937, a bill was introduced in Congress\nto carve a fifth figure on Mount Rushmore, this suffragette, but it never happened",
+     "a": "Susan B. Anthony",
+     "right": [
+      "Christi"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "\"Sematary\"\n(1983)",
+     "a": "Stephen King",
+     "right": [
+      "Kay"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 23,
+     "q": "This national animal of Spain doesn't get much love at the corrida",
+     "a": "a bull",
+     "right": [
+      "Kay"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 8,
+     "q": "\"Whenever I want you\", sang the Everly Brothers, \"all I have to do is\" this",
+     "a": "dream",
+     "right": [
+      "Christi"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "In November 2012 Tony Hall became director-general of this historic U.K. radio & TV company",
+     "a": "the BBC",
+     "right": [
+      "Christi"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 14,
+     "q": "The Rams' Tom Mack made the Hall of Fame at this position next to the center",
+     "a": "left guard",
+     "right": [],
+     "wrong": [
+      "Christi"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 19,
+     "q": "Dr. John Hunter has a simple way to get supplies into space: shoot them up there with a giant one of these",
+     "a": "a cannon",
+     "right": [
+      "Christi"
+     ],
+     "wrong": [
+      "Kay"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 3,
+     "q": "\"Jurassic\"\n(1990)",
+     "a": "Michael Crichton",
+     "right": [
+      "Christi"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 24,
+     "q": "Canada's national animals are a horse & this one whose pelt played an important part in its history",
+     "a": "a beaver",
+     "right": [
+      "Kay"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 11,
+     "q": "\"Is it in his sighs? Oh no, he'll make believe. If you want to know if he loves you so, it's in\" this",
+     "a": "his kiss",
+     "right": [
+      "Christi"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 28,
+     "q": "James Franklin is this U.'s new head football coach, following 2 years of Bill O'Brien & 46 years of another guy",
+     "a": "Penn State",
+     "right": [
+      "Kay"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 15,
+     "q": "The aorta emerges from this chamber of the heart",
+     "a": "the left ventricle",
+     "right": [
+      "Christi"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 20,
+     "q": "In 2012 2 congressmen proposed to move this November day to a weekend to get a better turnout",
+     "a": "Election Day",
+     "right": [
+      "Kay"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 4,
+     "q": "\"Moreau\"\n(1896)",
+     "a": "H.G. Wells",
+     "right": [],
+     "wrong": [
+      "Christi"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 25,
+     "q": "Bolivia uses this animal for wool, to carry loads &, going back to 1827, on coins",
+     "a": "a llama",
+     "right": [
+      "Kay"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 12,
+     "q": "Dion & the Belmonts wanted to know, \"Why must I be\" one of these \"in love?\"",
+     "a": "a teenager",
+     "right": [
+      "Christi"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "Following the sudden \"ill health\" of Ri Yong Ho, this nation made Hyon Yong Chol its new military head in 2012",
+     "a": "North Korea",
+     "right": [
+      "Kay"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 16,
+     "q": "This 4-word phrase meaning to be abandoned to face a problem alone is used in the game of cribbage",
+     "a": "left in a lurch",
+     "right": [
+      "Kay"
+     ],
+     "wrong": [
+      "Christi"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 21,
+     "q": "Like Venkman & Egon, Edison shared an interest in these & tried to build something to talk to them",
+     "a": "ghosts",
+     "right": [
+      "Christi"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 5,
+     "q": "\"Augie\"\n(1953)",
+     "a": "Saul Bellow",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": true,
+     "order": 26,
+     "q": "There are no photographs, only illustrations of this symbol of Mauritius",
+     "a": "a dodo (bird)",
+     "right": [
+      "Kay"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 3600
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 13,
+     "q": "I'm confused--this vocal group told us, \"Let's hang on to what we've got\" & \"Dawn, go away, I'm no good for you\"",
+     "a": "Frankie Valli and the Four Seasons",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 30,
+     "q": "In 2014 Satya Nadella became the third CEO in this tech company's history, succeeding Steve Ballmer",
+     "a": "Microsoft",
+     "right": [
+      "Kay"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "THE 6 WIVES OF HENRY VIII",
+    "WEIRD SPORTS",
+    "\"RH\" FACTOR",
+    "I'M BORED",
+    "ARCHAEOLOGY",
+    "OPERA TUNES"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 12,
+     "q": "She was born in the Citadel city of Alcala de Henares",
+     "a": "Catherine of Aragon",
+     "right": [
+      "Christi"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 11,
+     "q": "Still played today, jeu de paume is an early version of this court & net game but using only the hands",
+     "a": "tennis",
+     "right": [
+      "Sally"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "In titles of pop hits, this aspect of music \"Is A Dancer\" & \"Is Gonna Get You\"",
+     "a": "Rhythm",
+     "right": [
+      "Kay"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "This antonym of \"sharp\" means boring or not bright in color",
+     "a": "dull",
+     "right": [
+      "Christi"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 21,
+     "q": "Discoveries such as yarn & whetstones on this largest Canadian island suggest that Vikings once settled there",
+     "a": "Baffin Island",
+     "right": [
+      "Christi"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 30,
+     "q": "This nuptial tune from \"Lohengrin\" does have words: \"Guided in faith, enter within, where the blessing of love may attend\"",
+     "a": "the \"Wedding March\"",
+     "right": [
+      "Sally"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": true,
+     "order": 17,
+     "q": "She died 12 days after childbirth & is buried next to Henry",
+     "a": "Jane Seymour",
+     "right": [
+      "Kay"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 5000
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 13,
+     "q": "(Mike & Mike of ESPN deliver the clue.) The strangest sport in the world has got to be the wife carrying championships, held every year in Scandinavia... but not as weird as the championships held in Nepal where they play polo matches using these largest land animals",
+     "a": "elephants",
+     "right": [
+      "Kay"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 3,
+     "q": "The coast variety of this \"rose tree\" is Washington's state flower",
+     "a": "the rhododendron",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 7,
+     "q": "Lacking in variety, having very little inflection, repetitive; lacking in variety...",
+     "a": "monotonous",
+     "right": [
+      "Christi"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 22,
+     "q": "In 2012 scientists in Guatemala unearthed the tomb of Lady K'abel, who ruled the Snake Dynasty of this civilization",
+     "a": "the Maya",
+     "right": [
+      "Christi"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "\"O Colombina, the tender, faithful Harlequin is near\" is from this clownish opera",
+     "a": "Pagliacci",
+     "right": [
+      "Kay"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 18,
+     "q": "She secretly married the King on January 25, 1533",
+     "a": "Anne Boleyn",
+     "right": [
+      "Kay"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 14,
+     "q": "The WCBO challenges both brains & brawn in its combined matches of boxing & this board game",
+     "a": "chess",
+     "right": [
+      "Christi"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 4,
+     "q": "A male of this large beetle uses his single front horn to drive other males away from females",
+     "a": "a rhinoceros beetle",
+     "right": [
+      "Kay"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 8,
+     "q": "Often found after \"combat\", it means weariness or exhaustion",
+     "a": "fatigue",
+     "right": [
+      "Christi"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": true,
+     "order": 23,
+     "q": "In 2013 the stone paws of one of these creatures dedicated to Egyptian King Menkaure were found in Israel",
+     "a": "the sphinx",
+     "right": [],
+     "wrong": [
+      "Christi"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 3000
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 28,
+     "q": "The Highlanders sing \"Qual rapido torrente\" in \"La donna del lago\", based on this Walter Scott poem",
+     "a": "The Lady of the Lake",
+     "right": [
+      "Kay"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 19,
+     "q": "The last 2, both Catherines; one was executed, one survived Henry",
+     "a": "Catherine Parr & Catherine Howard",
+     "right": [
+      "Kay"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 15,
+     "q": "Speed snorkeling through these peat moss wetlands of Europe can earn you a spot in the record books",
+     "a": "a bog",
+     "right": [
+      "Kay"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 5,
+     "q": "It's an underground stem that can produce new roots, helping plants reproduce despite nasty weather",
+     "a": "a rhizome",
+     "right": [
+      "Kay"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 9,
+     "q": "It's the 5-letter French word for boredom",
+     "a": "ennui",
+     "right": [
+      "Kay"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 24,
+     "q": "For more than 100 years, archaeologists have explored this ancient city in South America",
+     "a": "Machu Picchu",
+     "right": [
+      "Christi"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 27,
+     "q": "This waltz master wrote a Czardas in \"Die Fledermaus\", where Rosalinde has to pretend she's Hungarian",
+     "a": "(Johann) Strauss",
+     "right": [
+      "Kay"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 20,
+     "q": "This wife known as \"The Flanders Mare\" wasn't around long",
+     "a": "Anne of Cleves",
+     "right": [
+      "Kay"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 16,
+     "q": "OK, it's an Olympic event as of 2014, but this snowboarding event still looks unusual with those rails",
+     "a": "slope style",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 6,
+     "q": "It's not your run-of-the-mill parallelogram, it's classified as a special parallelogram",
+     "a": "a rhombus",
+     "right": [
+      "Christi"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 10,
+     "q": "It's \"T\" time! Prolix, or wordy so as to cause boredom; how...",
+     "a": "tedious",
+     "right": [
+      "Christi"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 25,
+     "q": "This \"man\" named for a German university city was first known from a single bone called the Mauer jaw",
+     "a": "Heidelberg man",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 26,
+     "q": "\"Vissi d'arte\" (I lived for art\") from this composer's \"Tosca\" is a test of a soprano's own artistry",
+     "a": "Puccini",
+     "right": [
+      "Christi"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "FICTIONAL LOCALES",
+  "q": "Featured in a 1933 novel, it may have been inspired by the 1920s Tibetan travel writings of explorer Joseph Rock",
+  "a": "Shangri-La",
+  "right": [
+   "Christi",
+   "Kay"
+  ],
+  "wrong": [
+   "Sally"
+  ]
+ },
+ "gameId": "4551",
+ "cat_notes": {
+  "J": [
+   "Each answer contains the letter group “LEFT”, and the clues are about On The.",
+   "Clues about Cool Idea.",
+   "Clues about Bestselling Authors by Partial Title.",
+   "Clues about National Animals.",
+   "Clues about Oldies.",
+   "Clues about Newbies."
+  ],
+  "DJ": [
+   "Clues about The 6 Wives of Henry Viii.",
+   "Clues about Weird Sports.",
+   "Each answer contains the letter group “RH”, and the clues are about Factor.",
+   "The category “I'M BORED” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "Clues about Archaeology.",
+   "Clues about Opera Tunes."
+  ],
+  "F": "Clues about Fictional Locales."
+ }
+}

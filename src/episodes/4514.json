@@ -1,0 +1,1000 @@
+{
+ "show": "#6846",
+ "aired": "2014-05-26",
+ "note": "Julia Collins game 16.",
+ "contestants": [
+  {
+   "name": "Steve Martinez",
+   "bio": "a U.S. Air Force logistics readiness officer from Fairfax, Virginia",
+   "short": "Steve"
+  },
+  {
+   "name": "Simone Chavoor",
+   "bio": "a media consultant from Oakland, California",
+   "short": "Simone"
+  },
+  {
+   "name": "Julia Collins",
+   "bio": "a supply chain professional from Kenilworth, Illinois (whose 15-day cash winnings total $314,900)",
+   "short": "Julia"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Julia": 9600,
+   "Simone": 800,
+   "Steve": 3200
+  },
+  "DJ": {
+   "Julia": 31400,
+   "Simone": 6600,
+   "Steve": 9200
+  },
+  "Final": {
+   "Julia": 22800,
+   "Simone": 1100,
+   "Steve": 15000
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "WHAT'S COOKING?",
+    "IMPRESSIVE SPORTS RECORDS",
+    "AUTHORS' RHYME TIME",
+    "BIG STUFF",
+    "\"BOARD\" WALK",
+    "EMPIRE"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "This basic tomato-based spaghetti sauce whose name means \"in sailor's style\"",
+     "a": "marinara",
+     "right": [
+      "Julia"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 26,
+     "q": "This longtime Packer QB who truly never knew when to quit started 297 straight games",
+     "a": "Brett Favre",
+     "right": [
+      "Steve"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 6,
+     "q": "Beatrix' water mammals",
+     "a": "Potter's otters",
+     "right": [
+      "Julia"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 19,
+     "q": "This planet is so big that more than 1,000 Earths would fit inside it",
+     "a": "Jupiter",
+     "right": [
+      "Steve"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 16,
+     "q": "Stand up on one of these to shoot the curl at the Banzai pipeline",
+     "a": "a surfboard",
+     "right": [
+      "Simone"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 11,
+     "q": "(Sarah of the Clue Crew presents the clue on a monitor.) The map here shows the growth\nof this empire, from 275 B.C. to 133 B.C.\nto 14 A.D. & to 117 A.D.",
+     "a": "the Roman Empire",
+     "right": [
+      "Julia"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "This comfort food--ground beef, seasonings, bread crumbs & a ketchup glaze baked in a rectangular pan",
+     "a": "meat loaf",
+     "right": [
+      "Steve"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "On March 23, 1952 the Blackhawks' Bill Mosienko performed this 3-goal feat in just 21 seconds",
+     "a": "a hat trick",
+     "right": [
+      "Julia"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 7,
+     "q": "Philip's clear, thin soups",
+     "a": "Roth's broths",
+     "right": [
+      "Simone"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 20,
+     "q": "This country's King Fahd Airport covers 300 square miles, more than all of Bahrain, which has 3 airports of its own",
+     "a": "Saudi Arabia",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 17,
+     "q": "It's divided into 20 equal-sized areas & has double & triple score rings",
+     "a": "a dart board",
+     "right": [
+      "Steve"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 12,
+     "q": "In the 20th century the sun finally set on this empire that at its peak included 1/5 of the world & its peoples",
+     "a": "the British Empire",
+     "right": [
+      "Steve"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 3,
+     "q": "Chicken & this spicy Mexican sauce made with several kinds of chiles &, of course, Mexican chocolate",
+     "a": "mole",
+     "right": [
+      "Julia"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 28,
+     "q": "You know about the 100 points, but in 1968 he also had the NBA's only 20-20-20 game: 22 points, 25 rebounds & 21 assists",
+     "a": "Wilt Chamberlain",
+     "right": [
+      "Steve"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 8,
+     "q": "Umberto's lizards",
+     "a": "Eco's geckos",
+     "right": [
+      "Julia"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 21,
+     "q": "Dedicated in 80 A.D., it covered 5 acres, was 4 stories high & originally sat 50,000 spectators",
+     "a": "the Colosseum",
+     "right": [
+      "Julia"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 18,
+     "q": "On \"Downton Abbey\" one footman's job is to stand by this piece of furniture that's often in a dining room",
+     "a": "a sideboard",
+     "right": [
+      "Julia"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 13,
+     "q": "A superpower during the Middle Ages, it ended in 1806 when its last monarch lost to Napoleon & abdicated",
+     "a": "the Holy Roman Empire",
+     "right": [],
+     "wrong": [
+      "Simone"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 4,
+     "q": "A country ham named for this Virginia town, the \"Ham Capital of the World\"",
+     "a": "Smithfield",
+     "right": [
+      "Julia"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "To match his major league pitching wins, you'd have to win 25 games a year for 20 years... & you'd still be 11 short",
+     "a": "Cy Young",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 9,
+     "q": "Hillerman's sliced luncheon meats",
+     "a": "Tony's bolognas",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 24,
+     "q": "Cawker City, Kansas claims the world's biggest ball of this 5-letter item, with around 8 million feet",
+     "a": "twine",
+     "right": [
+      "Julia"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 22,
+     "q": "Popular nickname for the New York Stock Exchange",
+     "a": "the Big Board",
+     "right": [
+      "Simone"
+     ],
+     "wrong": [
+      "Julia"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 14,
+     "q": "Founded by Cyrus the Great, this empire conquered parts of Asia, Africa & Europe",
+     "a": "the Persian Empire",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 5,
+     "q": "This Spanish dish of saffron-flavored rice with shellfish such as shrimp, lobster & clams as well as chorizo",
+     "a": "paella",
+     "right": [
+      "Julia"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 30,
+     "q": "Before Rulon Gardner beat Aleksandr Karelin in this Olympic sport, Karelin hadn't given up a point in 10 years",
+     "a": "(Greco-Roman) wrestling",
+     "right": [
+      "Steve"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 10,
+     "q": "Koontz's mungs & favas",
+     "a": "Dean's beans",
+     "right": [
+      "Julia"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": true,
+     "order": 25,
+     "q": "The world's largest building by volume is this company's 472 million-cubic-foot factory in Everett, Wash.",
+     "a": "Boeing",
+     "right": [
+      "Julia"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2400
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 23,
+     "q": "Traditional hat for a cap-&-gowned graduate-to-be",
+     "a": "a mortar board",
+     "right": [
+      "Steve"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 15,
+     "q": "From its capital Constantinople, this empire remained a world force for more than 1,000 years",
+     "a": "the Byzantine Empire",
+     "right": [
+      "Julia"
+     ],
+     "wrong": [
+      "Steve"
+     ],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "MAUI? WOWIE!",
+    "ADJECTIVES",
+    "SUPER-HEAR-O",
+    "ALL GONE",
+    "MISTER \"E\" CATEGORY",
+    "THE ATLANTIC"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 26,
+     "q": "The name of the Maui port Lahaina originally meant \"cruel\" or \"relentless\" this; today tourists bask in it",
+     "a": "the sun",
+     "right": [
+      "Simone"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 6,
+     "q": "This adjective meaning \"really great\" precedes \"Sams\" & \"Four\"",
+     "a": "Fantastic",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 11,
+     "q": "A Snoop Dogg song mentions this duo \"deep in Gotham, fighting crime\"",
+     "a": "Batman & Robin",
+     "right": [
+      "Steve"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "We give a hoot that the whekau, or laughing this bird of New Zealand, laughs no more",
+     "a": "an owl",
+     "right": [
+      "Julia"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 16,
+     "q": "He's the wizard seen here using one of his inventions",
+     "a": "Thomas Edison",
+     "right": [
+      "Steve"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 21,
+     "q": "This mayor credited the 1982 Atlantic article \"Broken Windows\" with showing the way to slash crime in New York City",
+     "a": "Giuliani",
+     "right": [
+      "Simone"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 27,
+     "q": "Maui was created by 2 of these, Puu Kukui & Haleakala",
+     "a": "volcanoes",
+     "right": [
+      "Steve"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 7,
+     "q": "This adjective can refer to a lazy person, or maybe to someone who types only in lowercase",
+     "a": "shiftless",
+     "right": [
+      "Simone"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 12,
+     "q": "moe. is known for their song about this guy, aka the Star-Spangled Avenger",
+     "a": "Captain America",
+     "right": [
+      "Steve"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 2,
+     "q": "The giant rice rat of Martinique hasn't been seen since 1897; the introduction of this cobra foe may be responsible",
+     "a": "a mongoose",
+     "right": [
+      "Julia"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 17,
+     "q": "Last name of lawmen Wyatt & Virgil",
+     "a": "Earp",
+     "right": [
+      "Julia"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": true,
+     "order": 22,
+     "q": "In 1933 she wrote about what she'd look at if she had sight for 3 days: Rembrandts, Fifth Avenue, the face of her dog Helga...",
+     "a": "Helen Keller",
+     "right": [
+      "Simone"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2200
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 28,
+     "q": "1 letter off from a mainland folk hero of great size, this type of tree in Lahaina boasts more than a dozen separate trunks",
+     "a": "a banyan",
+     "right": [
+      "Julia"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 8,
+     "q": "This 15-letter adjective ascribes human form or attributes to a non-human thing",
+     "a": "anthropomorphic",
+     "right": [
+      "Julia"
+     ],
+     "wrong": [
+      "Simone"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 13,
+     "q": "The chorus to the Manowar song about this god & superhero includes \"by your hammer let none be saved\"",
+     "a": "Thor",
+     "right": [
+      "Simone"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 3,
+     "q": "The last known thylacine, or \"tiger\" of this Australian island, died in 1936",
+     "a": "Tasmania",
+     "right": [
+      "Julia"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 18,
+     "q": "In 2000, while he was a senator from North Carolina, People magazine named him sexiest politician alive",
+     "a": "John Edwards",
+     "right": [
+      "Julia"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 23,
+     "q": "A controversial 2012 piece was \"Why Women Still Can't...\" this 3-word phrase, meaning excel at work & family",
+     "a": "have it all",
+     "right": [
+      "Julia"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 29,
+     "q": "Europeans first set foot on Maui in 1786; this Englishman sighted it in 1778 but couldn't find a landing spot",
+     "a": "(Captain) Cook",
+     "right": [
+      "Steve"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 9,
+     "q": "Pronounced differently, this adjective meaning \"pertaining to birth\" is a former province of South Africa",
+     "a": "natal",
+     "right": [
+      "Simone"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 14,
+     "q": "The Man of Steel isn't such a fan, but other superheroes think this 3 Doors Down song has real substance\n\n\"If I go crazy, then you can call me Superman\"",
+     "a": "\"Kryptonite\"",
+     "right": [
+      "Julia"
+     ],
+     "wrong": [
+      "Simone"
+     ],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 4,
+     "q": "The wolf named for these islands wasn't around for the 1982 war; it was hunted to extinction a century before",
+     "a": "the Falklands",
+     "right": [
+      "Julia"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 3000
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 19,
+     "q": "He was CEO of Disney from 1984 to 2005",
+     "a": "Michael Eisner",
+     "right": [
+      "Julia"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 24,
+     "q": "Reading the magazine's 1857 first issue was a transcendentalist experience, as this man had 4 poems in it",
+     "a": "(Ralph Waldo) Emerson",
+     "right": [
+      "Julia"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 30,
+     "q": "Maui came under Hawaiian rule when it was conquered in 1795 by this \"great\" king",
+     "a": "Kamehameha",
+     "right": [
+      "Simone"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 10,
+     "q": "The opposite of poetic, this adjective meaning unimaginative or dull comes from the Latin for \"straightforward\"",
+     "a": "prosaic",
+     "right": [
+      "Julia"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 15,
+     "q": "Paul McCartney & Wings sang of Titanium Man & this helmeted foe of the X-Men aka Erik Lehnsherr",
+     "a": "Magneto",
+     "right": [
+      "Simone"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 5,
+     "q": "The dwarf woolly type of this roamed Russia's Wrangel Island a few centuries after the Great Pyramid was built",
+     "a": "a mammoth",
+     "right": [
+      "Steve"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 20,
+     "q": "Slain in Mississippi in 1963, this civil rights leader was buried with full military honors at Arlington National Cemetery",
+     "a": "Medgar Evers",
+     "right": [
+      "Julia"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 25,
+     "q": "In an 1869 Atlantic shocker, Harriet Beecher Stowe exposed this \"noble\" romantic poet's affair with his half-sister",
+     "a": "Byron",
+     "right": [
+      "Julia"
+     ],
+     "wrong": [
+      "Simone"
+     ],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "TITLE MOVIE ROLES",
+  "q": "In 1984, in the first of the films featuring this character, he only has 21 lines, for a total of 133 words",
+  "a": "the Terminator",
+  "right": [
+   "Steve"
+  ],
+  "wrong": [
+   "Simone",
+   "Julia"
+  ]
+ },
+ "gameId": "4514",
+ "cat_notes": {
+  "J": [
+   "The category “WHAT'S COOKING?” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "Clues about Impressive Sports Records.",
+   "Each answer is a rhyming word or phrase.",
+   "Clues about Big Stuff.",
+   "Each answer ends with “BOARD”, and the clues are about Walk.",
+   "Clues about Empire."
+  ],
+  "DJ": [
+   "The category “MAUI? WOWIE!” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "Clues about Adjectives.",
+   "Clues about Super-hear-o.",
+   "Clues about All Gone.",
+   "Each answer is a person or name associated with the letter “E”, and the clues are about Mister Category.",
+   "Not the ocean--the magazine."
+  ],
+  "F": "Clues about Title Movie Roles."
+ }
+}

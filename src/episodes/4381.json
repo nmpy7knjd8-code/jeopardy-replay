@@ -1,0 +1,986 @@
+{
+ "show": "#6740",
+ "aired": "2013-12-27",
+ "note": "Jerry Slowik game 2.",
+ "contestants": [
+  {
+   "name": "Kathy Cacace",
+   "bio": "an online editor from Brooklyn, New York",
+   "short": "Kathy"
+  },
+  {
+   "name": "Avram Polinsky",
+   "bio": "a customer service analyst from Columbia, Maryland",
+   "short": "Avram"
+  },
+  {
+   "name": "Jerry Slowik",
+   "bio": "a writer from Arlington Heights, Illinois (whose 1-day cash winnings total $23,199)",
+   "short": "Jerry"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Jerry": 7600,
+   "Avram": 3600,
+   "Kathy": 2000
+  },
+  "DJ": {
+   "Jerry": 25000,
+   "Avram": 11600,
+   "Kathy": 3600
+  },
+  "Final": {
+   "Jerry": 26799,
+   "Avram": 14600,
+   "Kathy": 600
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "OLYMPIC CITY ATTRACTIONS",
+    "COLORFUL MOVIES",
+    "FUN WITH ACRONYMS",
+    "WHAT'S MY AIRLINE?",
+    "WORLD HISTORY",
+    "YOUR NAME IS PERFECT"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 23,
+     "q": "The Theatre of Dionysus",
+     "a": "Athens",
+     "right": [
+      "Jerry"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "Prince won an Oscar for Best Music, Original Song Score for this movie",
+     "a": "Purple Rain",
+     "right": [
+      "Jerry"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 6,
+     "q": "This insect is also an acronym for a member of the Caucasian upper middle class",
+     "a": "wasp",
+     "right": [
+      "Jerry"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 10,
+     "q": "Talk about free to move about the country! In 1973 this airline offered a $13 Dallas-to-Houston fare",
+     "a": "Southwest",
+     "right": [
+      "Avram"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 17,
+     "q": "The 1360 Treaty of Bretigny in which France agreed to pay a ransom for King John II created a temporary peace in this war",
+     "a": "the Hundred Years War",
+     "right": [
+      "Jerry"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 15,
+     "q": "L.A.'s Dallas Raines & New York's Amy Freeze have this job",
+     "a": "meteorologist",
+     "right": [
+      "Jerry"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 24,
+     "q": "The Margaret Mitchell House & Museum",
+     "a": "Atlanta",
+     "right": [
+      "Kathy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "\"Someday My Prince Will Come\" is a song from this 1937 classic",
+     "a": "Snow White and the Seven Dwarfs",
+     "right": [
+      "Jerry"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 7,
+     "q": "This police task force sounds like something you might do to get rid of a fly",
+     "a": "S.W.A.T.",
+     "right": [
+      "Avram"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 11,
+     "q": "The September 1948 inaugural flight of this airline brought President Chaim Weizmann home from Geneva",
+     "a": "El Al",
+     "right": [
+      "Jerry"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 18,
+     "q": "He's depicted here dealing with a tough knot In one of the storied moments of his career.",
+     "a": "Alexander the Great",
+     "right": [
+      "Jerry"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 22,
+     "q": "He's the Virgin Islands-born center for the San Antonio Spurs",
+     "a": "(Tim) Duncan",
+     "right": [
+      "Avram"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 25,
+     "q": "The Anheuser-Busch Consumer Hospitality Center",
+     "a": "St. Louis",
+     "right": [
+      "Avram"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 3,
+     "q": "Jake & Elwood are forced to abandon \"Gimme Some Lovin\" in favor of \"Rawhide\" in this comedy",
+     "a": "The Blues Brothers",
+     "right": [
+      "Jerry"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 8,
+     "q": "This Canadian city's international film festival becomes an argument when it's in its acronym form",
+     "a": "Toronto",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 12,
+     "q": "On Jan. 30, 1929 this U.S.-based airline was incorporated as Inter-Island Airways Ltd.",
+     "a": "Hawaiian Airlines",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 19,
+     "q": "In 219 B.C. this Carthaginian attacked the Roman ally of Saguntum in Spain, & Rome soon declared war.",
+     "a": "Hannibal",
+     "right": [
+      "Jerry"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 28,
+     "q": "In 2013 Igor Judge stepped down from this high British government post, which unlike in the U.S. has \"Lord\" before it",
+     "a": "Chief Justice",
+     "right": [
+      "Jerry"
+     ],
+     "wrong": [
+      "Avram"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": true,
+     "order": 26,
+     "q": "The Museu Picasso",
+     "a": "Barcelona",
+     "right": [
+      "Avram"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1600
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 4,
+     "q": "Pussy Galore & Oddjob are in this 1964 James Bond flick",
+     "a": "Goldfinger",
+     "right": [
+      "Jerry"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 9,
+     "q": "To program in a venerable computer language, you might wear this type of \"black\"",
+     "a": "BASIC",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 13,
+     "q": "On Sept. 12, 1919 Queen Wilhelmina awarded this \"alphabetic\" carrier its royal designation",
+     "a": "KLM",
+     "right": [
+      "Kathy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 20,
+     "q": "A 1987 wave of violent Palestinian unrest Is known as the first this, from Arabic\nfor \"shaking off.\"",
+     "a": "intifada",
+     "right": [
+      "Jerry"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "This billionaire owner of a casino on the Vegas strip that bears his name can't seem to lose",
+     "a": "(Steve) Wynn",
+     "right": [
+      "Kathy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 27,
+     "q": "The House of Culture, designed by Alvar Aalto",
+     "a": "Helsinki",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 5,
+     "q": "A girl named Andie & a boy named Steff are characters in this 1986 John Hughes film",
+     "a": "Pretty in Pink",
+     "right": [
+      "Kathy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 16,
+     "q": "It was the 5-letter acronym for the committee backing Nixon in 1972",
+     "a": "CREEP",
+     "right": [
+      "Jerry"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 14,
+     "q": "You'll see a 3-leaf clover on the web page of this European carrier",
+     "a": "Aer Lingus",
+     "right": [],
+     "wrong": [
+      "Kathy"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 21,
+     "q": "Before the Aztec, the prior great Mexican civilization was of these other people in -tec support",
+     "a": "Toltecs",
+     "right": [
+      "Jerry"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 30,
+     "q": "Marilyn vos Savant is no idiot: She held a Guinness IQ record & solves conundrums in this Sunday magazine",
+     "a": "Parade",
+     "right": [
+      "Avram"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "LANGUAGES OF AFRICA",
+    "POP CULTURE",
+    "PUPPIES & PETUNIAS",
+    "SHAKESPEAREAN RELATIVES",
+    "\"-UP\"",
+    "& ATOM"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "The Nubian language group is spoken in the valley of this river in Sudan",
+     "a": "the Nile",
+     "right": [
+      "Avram"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "On May 31, 2000 Sonja Christopher became the first person to suffer this cruel reality television fate",
+     "a": "voted off the island",
+     "right": [
+      "Avram"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 22,
+     "q": "A saint who founded Alpine hospitals lent his name to this breed, seen as a puppy\nwith petunias",
+     "a": "St. Bernard",
+     "right": [
+      "Jerry"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 21,
+     "q": "Nephew of King Claudius",
+     "a": "Hamlet",
+     "right": [
+      "Avram"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 6,
+     "q": "A reverse type of this in basketball starts at one side of the rim & finishes on the other",
+     "a": "lay-up",
+     "right": [
+      "Jerry"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 11,
+     "q": "Of the 3 main components of an atom, these are farthest from the nucleus",
+     "a": "electrons",
+     "right": [
+      "Kathy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 3,
+     "q": "This European language is an official language of Chad & Burkina Faso, among other countries",
+     "a": "French",
+     "right": [
+      "Avram"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 12,
+     "q": "As a baby poriferan, this animated TV character's first words were \"May I take your order?\"",
+     "a": "SpongeBob",
+     "right": [],
+     "wrong": [
+      "Avram"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 23,
+     "q": "This small, sturdy breed is known for its snub nose, the better to smell the flowers",
+     "a": "the pug",
+     "right": [
+      "Avram"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 27,
+     "q": "Son of Old Montague",
+     "a": "Romeo",
+     "right": [
+      "Jerry"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 7,
+     "q": "Musically, it involves mixing 2 or more recordings to make a new one",
+     "a": "mash-up",
+     "right": [
+      "Jerry"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 14,
+     "q": "Atoms are often measured using these units, whose symbol looks like a capital A with a small circle on the top",
+     "a": "angstroms",
+     "right": [
+      "Jerry"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 4,
+     "q": "(Sara gives the clue from Pretoria, South Africa)\nIn 1908, in Pretoria, South Africa, the Union Buildings\nwere designed to represent the unity of a once-divided people, with the two identical wings symbolizing these two then-official languages.",
+     "a": "English and Afrikaans",
+     "right": [
+      "Jerry"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 13,
+     "q": "In 1994 this pop singer appeared on David Letterman's show & was bleeped more than 10 times for profanity",
+     "a": "Madonna",
+     "right": [
+      "Avram"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 24,
+     "q": "This breed of terrier is named for the clergyman who first bred it",
+     "a": "Jack Russell",
+     "right": [
+      "Kathy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 28,
+     "q": "Mrs. Othello",
+     "a": "Desdemona",
+     "right": [
+      "Jerry"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 8,
+     "q": "A sweet tradition in Vermont is sugar on snow, which is this liquid, heated & drizzled on the white stuff",
+     "a": "maple syrup",
+     "right": [
+      "Jerry"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 15,
+     "q": "IBM scientists have it down to 12 atoms to store each of this unit of information based on 1s & 0s",
+     "a": "a bit",
+     "right": [
+      "Avram"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 5,
+     "q": "With 50 million speakers, this Bantu language is the most widely spoken native language on the continent",
+     "a": "Swahili",
+     "right": [
+      "Jerry"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1200
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 19,
+     "q": "This ex-cop named for what he can either dish out or endure got his third bloody video game installment in 2012",
+     "a": "Max Payne",
+     "right": [
+      "Jerry"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 25,
+     "q": "The dog called the bull type of this",
+     "a": "mastiff",
+     "right": [
+      "Jerry"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 29,
+     "q": "Bianca's sister",
+     "a": "Katharina",
+     "right": [
+      "Jerry"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2600
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 9,
+     "q": "Despite the name, this model used for testing or teaching involves no ridicule",
+     "a": "a mock-up",
+     "right": [
+      "Jerry"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 16,
+     "q": "The spontaneous type of this sees an atom's unstable nuclei split into nearly equal fragments",
+     "a": "fission",
+     "right": [
+      "Avram"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 18,
+     "q": "The most-spoken Khoe language is Nama in Namibia; the other Khoe languages are mainly heard in this desert in Botswana",
+     "a": "Kalahari",
+     "right": [
+      "Avram"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 20,
+     "q": "In 2009, this legendary singer won a Grammy for Traditional Folk Album for his release \"At 89\"",
+     "a": "Pete Seeger",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 26,
+     "q": "\"Westie\" is the common form of this cute breed's four-word name",
+     "a": "the West Highland White Terrier",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 30,
+     "q": "Brother of King Edward IV",
+     "a": "Richard III",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 10,
+     "q": "An order to report for military service",
+     "a": "a call-up",
+     "right": [
+      "Jerry"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 17,
+     "q": "This \"number\" in an atom refers to the number of atoms with which a single atom will unite chemically",
+     "a": "the valence number",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "18th CENTURY AMERICA",
+  "q": "There were just 13 of these, the title of an historic document; one offered admission to Canada",
+  "a": "the Articles of Confederation",
+  "right": [
+   "Avram",
+   "Jerry"
+  ],
+  "wrong": [
+   "Kathy"
+  ]
+ },
+ "gameId": "4381",
+ "cat_notes": {
+  "J": [
+   "Clues about Olympic City Attractions.",
+   "Clues about Colorful Movies.",
+   "Clues about Fun with Acronyms.",
+   "The category “WHAT'S MY AIRLINE?” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "Clues about World History.",
+   "Clues about Your Name Is Perfect."
+  ],
+  "DJ": [
+   "Clues about Languages of Africa.",
+   "Clues about Pop Culture.",
+   "Clues about Puppies and Petunias.",
+   "Clues about Shakespearean Relatives.",
+   "Each answer ends with “-UP”.",
+   "Clues about And Atom."
+  ],
+  "F": "Clues about 18th Century America."
+ }
+}
