@@ -1,0 +1,997 @@
+{
+ "show": "#9663",
+ "aired": "2026-11-18",
+ "note": "",
+ "contestants": [
+  {
+   "name": "Avery Lembke",
+   "bio": "a food scientist originally from Eden Prairie, Minnesota",
+   "short": "Avery"
+  },
+  {
+   "name": "Solomon Klein",
+   "bio": "an instructional designer from Toronto, Ontario, Canada",
+   "short": "Solomon"
+  },
+  {
+   "name": "Jemaila Duffy",
+   "bio": "a membership analyst from Mount Gilead, Ohio (whose 1-day cash winnings total $20,800)",
+   "short": "Jemaila"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Jemaila": -600,
+   "Solomon": 4800,
+   "Avery": 2800
+  },
+  "DJ": {
+   "Jemaila": 5400,
+   "Solomon": 22400,
+   "Avery": 4800
+  },
+  "Final": {
+   "Jemaila": 10800,
+   "Solomon": 25000,
+   "Avery": 3800
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "NATIVE AMERICAN PLACE NAMES",
+    "THE TV SPINOFF'S SOURCE",
+    "INTERNAL RHYME WORDS",
+    "MEDICAL TREATMENTS",
+    "WOO! WOO!",
+    "THAT'S THE SOUND OF THE POLICE"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 30,
+     "q": "The name of this wonder on the U.S.-Canadian border is often translated as \"thunder of waters\" but may mean \"across the neck\"",
+     "a": "Niagara Falls",
+     "right": [
+      "Avery"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 19,
+     "q": "\"Grown-ish\"",
+     "a": "Black-ish",
+     "right": [
+      "Avery"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 24,
+     "q": "This word for a time wages are delivered is also the name of a candy bar",
+     "a": "payday",
+     "right": [
+      "Solomon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 8,
+     "q": "Anti-nausea meds can help with labyrinthitis, a dizziness-producing infection of this",
+     "a": "the (inner) ear",
+     "right": [
+      "Solomon"
+     ],
+     "wrong": [
+      "Jemaila"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 26,
+     "q": "Buy' ngop! I learned more than 5,000 words in this fictional \"Star Trek\" language",
+     "a": "Klingon",
+     "right": [
+      "Avery"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 28,
+     "q": "This nickname for British police officers refers to the a-peeling first name of the founder of London's Metropolitan Police",
+     "a": "bobbies",
+     "right": [
+      "Solomon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 29,
+     "q": "According to its website, this Pennsylvania borough \"is home to approximately 6,200 residents & one famous groundhog\"",
+     "a": "Punxsutawney",
+     "right": [
+      "Avery"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 18,
+     "q": "\"The Suite Life on Deck\"",
+     "a": "The Suite Life of Zack & Cody",
+     "right": [
+      "Solomon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 23,
+     "q": "A matelassé coverlet is an option for one of these, whether king size or queen",
+     "a": "a bedspread",
+     "right": [
+      "Solomon"
+     ],
+     "wrong": [
+      "Jemaila"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 7,
+     "q": "Medicated wipes, foot powders & in extreme cases surgical removal of glands can help treat hyperhidrosis, aka excessive this",
+     "a": "sweating",
+     "right": [
+      "Jemaila"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 25,
+     "q": "I staked a mining claim on land overseen by the BLM, short for this; tuxedoes & top hats, here I come!",
+     "a": "the Bureau of Land Management",
+     "right": [
+      "Solomon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "IA stands for this unit that investigates allegations of police misconduct",
+     "a": "Internal Affairs",
+     "right": [
+      "Avery"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 5,
+     "q": "It's a fine day to take the boat out on this bay that nearly divides Rhode Island in two",
+     "a": "Narragansett",
+     "right": [
+      "Solomon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 15,
+     "q": "\"The Flash\"",
+     "a": "Arrow",
+     "right": [],
+     "wrong": [
+      "Avery"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 22,
+     "q": "Now referring to more informal outdoor fare, this was once a fashionable social event in which each guest brought food",
+     "a": "picnic",
+     "right": [],
+     "wrong": [
+      "Jemaila"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 1,
+     "q": "Hay fever can be eased with corticosteroids & these drugs named for the way they counteract certain organic molecules",
+     "a": "antihistamines",
+     "right": [
+      "Solomon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 11,
+     "q": "Woo! My neighbors will love that I bought a double one of these instruments, the lowest-pitched woodwind",
+     "a": "a (double) bassoon",
+     "right": [
+      "Solomon"
+     ],
+     "wrong": [
+      "Jemaila"
+     ],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 14,
+     "q": "\"The box\" is a nickname for this place used by detectives to question suspects",
+     "a": "the interrogation room",
+     "right": [
+      "Jemaila"
+     ],
+     "wrong": [
+      "Avery"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": true,
+     "order": 3,
+     "q": "Kissimmee is the largest city in this Florida county that's named for a famous leader of the Seminoles",
+     "a": "Osceola",
+     "right": [],
+     "wrong": [
+      "Solomon"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1000
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 16,
+     "q": "\"Here Comes Honey Boo Boo\"",
+     "a": "Toddlers & Tiaras",
+     "right": [],
+     "wrong": [
+      "Jemaila",
+      "Solomon"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 21,
+     "q": "To retrace a path or course, or reverse a perhaps contentious policy",
+     "a": "backtrack",
+     "right": [
+      "Avery"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 2,
+     "q": "Antibiotics & surgery are the only real treatments for this inflammation of a tube-shaped organ attached to the large intestine",
+     "a": "appendicitis",
+     "right": [],
+     "wrong": [
+      "Jemaila"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 10,
+     "q": "I made one of these burnt-on-top desserts first made in San Sebastián & named for a region in northern Spain",
+     "a": "a Basque cheesecake",
+     "right": [
+      "Avery"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 13,
+     "q": "You may have heard of YOLO, but BOLO in po-po slang is short for this, meaning to watch for a suspect",
+     "a": "be on the lookout",
+     "right": [
+      "Jemaila"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 4,
+     "q": "This town that's home to the FBI Academy is completely surrounded by a Marine Corps base",
+     "a": "Quantico",
+     "right": [
+      "Solomon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 17,
+     "q": "\"Star City\"",
+     "a": "For All Mankind",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 20,
+     "q": "This 6-letter verb means to engage in a friendly way, often with important people",
+     "a": "hobnob",
+     "right": [
+      "Avery"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 6,
+     "q": "The ganglion type of this doesn't usually need treatment, but the fluid can be removed with a needle & syringe",
+     "a": "a cyst",
+     "right": [
+      "Jemaila"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 9,
+     "q": "It cost me $60,000, took me 2 weeks & made my teeth chatter, but I climbed this massif in Antarctica named for a congressman",
+     "a": "Vinson",
+     "right": [
+      "Solomon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 12,
+     "q": "The big red key is U.K. cop slang for this device--Sigma Security sells a 35-pound one \"for inward opening doors\"",
+     "a": "a battering ram",
+     "right": [
+      "Solomon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "IT'S ALL HISTORY",
+    "HOUSED",
+    "HOW \"GRAND\"!",
+    "LITERARY BACHELOR IN PARADISE",
+    "WOMEN IN MUSIC",
+    "KEEP YOUR DISTANCE"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 30,
+     "q": "In 1516 Isabella & Ferdinand's grandson Charles I became ruler of these 2 kingdoms they had united along with their territories",
+     "a": "Castile & Aragon",
+     "right": [
+      "Solomon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 29,
+     "q": "If you've led this type of life, you've been insulated from harshness & danger--maybe even from seeing it",
+     "a": "sheltered",
+     "right": [
+      "Jemaila"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 21,
+     "q": "Unlike the petit type, this group doesn't render a verdict of guilt or innocence",
+     "a": "a grand jury",
+     "right": [
+      "Jemaila"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 16,
+     "q": "In this author's \"Typee\", the sailor Tommo is the \"declared admirer\" of the beautiful island girl Fayaway",
+     "a": "Melville",
+     "right": [],
+     "wrong": [
+      "Solomon"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 28,
+     "q": "\"Straight Up\", we'll tell you she began her career as a Lakers cheerleader, dancer, & choreographer back in the 1980s",
+     "a": "Abdul",
+     "right": [
+      "Solomon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "A popular & challenging running race distance, it converts to around 6.2 miles",
+     "a": "a 10K",
+     "right": [
+      "Avery"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 22,
+     "q": "With parts of it going to Poland & the Soviet Union, this once-powerful \nGermanic kingdom & state was formally abolished in 1947",
+     "a": "Prussia",
+     "right": [
+      "Solomon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": true,
+     "order": 19,
+     "q": "Synonym for room: as a verb, it can mean to house, or to load a live cartridge into a gun to make it ready to fire",
+     "a": "chamber",
+     "right": [
+      "Jemaila"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2000
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 17,
+     "q": "Venice & China have major waterways called this",
+     "a": "Grand Canal",
+     "right": [
+      "Solomon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 15,
+     "q": "Young castaway Dick falls for cousin Emmeline (ick!) near this \"colorful\" body of water in a much-adapted 1908 book",
+     "a": "Blue Lagoon",
+     "right": [
+      "Jemaila"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 25,
+     "q": "This Colombian singer, an \"Unstoppable\" force in music, has the last name Giraldo",
+     "a": "Karol G",
+     "right": [],
+     "wrong": [
+      "Avery"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 26,
+     "q": "Just one of these astronomical units is equal to nearly 5.9 trillion miles",
+     "a": "a light-year",
+     "right": [
+      "Avery"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 20,
+     "q": "The first record of Christmas being celebrated on December 25 was in 336 A.D. during this Roman emperor's reign",
+     "a": "Constantine",
+     "right": [
+      "Solomon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 18,
+     "q": "Lack of this 2-word amenity is common in Country Music Hall of Famers' bios; Charlie Daniels mentions it in his 1985 book",
+     "a": "indoor plumbing",
+     "right": [
+      "Jemaila"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 1,
+     "q": "Bandleader Paul Whiteman introduced \"Rhapsody In Blue\" as well as this iconic suite by Ferde Grofé",
+     "a": "the Grand Canyon Suite",
+     "right": [
+      "Solomon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 14,
+     "q": "This lifelong bachelor went to the woods near Concord, Massachusetts \"to live deliberately\"; who needs chicks?",
+     "a": "Thoreau",
+     "right": [
+      "Jemaila"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 3,
+     "q": "Not surprisingly, she was an executive producer on the film \"The Runaways\", in which Kristen Stewart portrayed her",
+     "a": "(Joan) Jett",
+     "right": [
+      "Solomon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": true,
+     "order": 11,
+     "q": "According to legend, King Henry I fixed this standard unit of measure as the distance from his nose to the end of his thumb",
+     "a": "a yard",
+     "right": [
+      "Solomon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 8800
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 4,
+     "q": "Tragically, 46 people aboard this Italian ocean liner were killed when it collided with the MS Stockholm in 1956",
+     "a": "the Andrea Doria",
+     "right": [
+      "Solomon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 7,
+     "q": "This alliterative pair referring to a place to sleep & food to eat is a term in divorce law",
+     "a": "bed & board",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 2,
+     "q": "North Dakota's third largest city, it's on the banks of the Red River of the North",
+     "a": "Grand Forks",
+     "right": [
+      "Avery"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 12,
+     "q": "Fresh to Shangri-La in this novel, Hugh Conway literally says, \"I'm unmarried\" before falling for a Manchu princess",
+     "a": "Lost Horizon",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 24,
+     "q": "While yet to win a competitive Oscar for her movie songs, she has 17 nominations to her credit--that's a winner in our book",
+     "a": "(Diane) Warren",
+     "right": [
+      "Solomon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 9,
+     "q": "The Kentucky Derby covers 1.25 miles, or 10 of these units",
+     "a": "furlongs",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 5,
+     "q": "Killed on the orders of Pizarro in 1533, he was the last Inca emperor",
+     "a": "Atahualpa",
+     "right": [
+      "Solomon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 8,
+     "q": "Parliament's quartering act of 1765 also used this other word for giving a soldier a place in your home",
+     "a": "billeting",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 6,
+     "q": "Violence & horror were key to this shocking genre of French theater",
+     "a": "the Grand Guignol",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 13,
+     "q": "Singles mingle in \"The Beach\", a novel by this author who'd later go on to direct movies like \"Ex Machina\"",
+     "a": "(Alex) Garland",
+     "right": [
+      "Solomon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 23,
+     "q": "Best known for her lead role in \"Miss Saigon\", she also provided the singing voices of Disney's Princess Jasmine & Mulan",
+     "a": "Lea Salonga",
+     "right": [],
+     "wrong": [
+      "Solomon"
+     ],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 10,
+     "q": "Minute distances like the wavelengths of infrared radiation are given in these units, equal to one millionth of a meter",
+     "a": "micrometer (micron)",
+     "right": [],
+     "wrong": [
+      "Solomon"
+     ],
+     "stumper": true,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "1970s MOVIES",
+  "q": "Set decorator Roger Christian said an old black samurai outfit & helmet he found inspired the look of this film character",
+  "a": "Darth Vader",
+  "right": [
+   "Jemaila",
+   "Solomon"
+  ],
+  "wrong": [
+   "Avery"
+  ]
+ },
+ "gameId": "9580",
+ "cat_notes": {
+  "J": [
+   "Clues about Native American Place Names.",
+   "You name the earlier show.",
+   "Each answer is a rhyming word or phrase.",
+   "Clues about Medical Treatments.",
+   "The category “WOO! WOO!” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "A little KRS-One for you."
+  ],
+  "DJ": [
+   "The category “IT'S ALL HISTORY” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "Clues about Housed.",
+   "Each answer contains the letter group “GRAND”.",
+   "Clues about Literary Bachelor in Paradise.",
+   "Clues about Women in Music.",
+   "Clues about Keep Your Distance."
+  ],
+  "F": "Clues about 1970s Movies."
+ }
+}

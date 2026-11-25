@@ -1,0 +1,1000 @@
+{
+ "show": "#9619",
+ "aired": "2026-09-17",
+ "note": "",
+ "contestants": [
+  {
+   "name": "Mark Ramirez",
+   "bio": "an executive communications lead from Northglenn, Colorado",
+   "short": "Mark"
+  },
+  {
+   "name": "Christie Ritten",
+   "bio": "an actuary originally from La Grange Park, Illinois",
+   "short": "Christie"
+  },
+  {
+   "name": "Jen Spinoglio",
+   "bio": "a financial researcher from San Francisco, California (whose 1-day cash winnings total $10,801)",
+   "short": "Jen"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Jen": 800,
+   "Christie": 400,
+   "Mark": 7000
+  },
+  "DJ": {
+   "Jen": 2800,
+   "Christie": 9600,
+   "Mark": 20800
+  },
+  "Final": {
+   "Jen": 5599,
+   "Christie": 12000,
+   "Mark": 20800
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "GO OFF, QUEEN",
+    "COMPOUND VERBS",
+    "AN UNRULY TODDLER",
+    "\"LOVE\" SONGS",
+    "ALPHANUMERICS",
+    "POPULAR BOOKS OF 1976"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 29,
+     "q": "About the Boer War, she sniffed, \"We are not interested in the possibilities of defeat\"",
+     "a": "Queen Victoria",
+     "right": [
+      "Jen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 28,
+     "q": "There's a wild canine in this verb meaning to get the better of through cleverness",
+     "a": "to outfox",
+     "right": [],
+     "wrong": [
+      "Mark"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 23,
+     "q": "Oh no! it looks like the tyke picked up this red & black beetle of the Coccinellidae family & is about to eat it!",
+     "a": "a ladybug",
+     "right": [
+      "Jen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 20,
+     "q": "In a 2011 hit with Calvin Harris, Rihanna sang, \"We\" did this \"in a hopeless place\"",
+     "a": "found love",
+     "right": [
+      "Jen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 26,
+     "q": "Its races are sanctioned by the Fédération Internationale de l'Automobile",
+     "a": "F1",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 30,
+     "q": "This first book in \"The Vampire Chronicles\" begins with a man telling the story of his life cursed with a craving for blood",
+     "a": "Interview with the Vampire",
+     "right": [
+      "Jen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "Facing a tribunal, she said, \"My blood alone remains: take it, but do not make me suffer long\" (& soon headed to the guillotine)",
+     "a": "Marie Antoinette",
+     "right": [
+      "Christie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 15,
+     "q": "We need some new ideas! let's put our heads together & do this--umbrellas optional",
+     "a": "brainstorm",
+     "right": [
+      "Christie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 17,
+     "q": "I've childproofed the doors & windows & double-padlocked this mythic box or jar that Hesiod wrote about",
+     "a": "Pandora's Box",
+     "right": [
+      "Jen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 22,
+     "q": "People are lining up outside just to get down at this \"little old place\" where the B-52s get together",
+     "a": "the Love Shack",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 24,
+     "q": "In 1960, Francis Gary Powers survived being shot down in one of these recon planes",
+     "a": "U-2",
+     "right": [],
+     "wrong": [
+      "Jen",
+      "Mark"
+     ],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 25,
+     "q": "This pair of journalists followed up \"All the President's Men\" with the bestseller \"The Final Days\"",
+     "a": "Woodward & Bernstein",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 21,
+     "q": "Plutarch reports that when she appeared in public, she often dressed as the goddess Isis & used the name New Isis",
+     "a": "Cleopatra",
+     "right": [
+      "Christie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 12,
+     "q": "To top rock & crab freeze like a b-boy",
+     "a": "breakdance",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 4,
+     "q": "The kid likes to destroy Lego towers in the guise of this creature first brought to life by Toho Studios in 1954",
+     "a": "Godzilla",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 3,
+     "q": "Scottish crooner Lewis Capaldi spent 3 weeks at No. 1 with this ballad inspired by the death of his grandmother",
+     "a": "\"Someone You Loved\"",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 11,
+     "q": "Important to energy production, riboflavin is also called this",
+     "a": "B2",
+     "right": [],
+     "wrong": [
+      "Mark"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 19,
+     "q": "Ron Kovic brought attention to the plight of disabled veterans in this 1976 bestseller, later an Oscar-winning film",
+     "a": "Born on the Fourth of July",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 8,
+     "q": "At 43 she took a new lover, Alexander Vasilchikov, who was in his 20s",
+     "a": "Catherine the Great",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 13,
+     "q": "Meaning to intimidate via arrogant speech, it sounds like it would make the recipient's forehead hurt",
+     "a": "browbeat",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 5,
+     "q": "I'm sorta impressed: the kid climbed my fountain modeled on this Baroque Roman one from 1762--it was to scale at nearly 90 feet!",
+     "a": "the Trevi Fountain",
+     "right": [
+      "Christie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 2,
+     "q": "First released in Sweden as a Christmas single, this Roxette song became a hit when it was used in the film \"Pretty Woman\"",
+     "a": "\"It Must Have Been Love\"",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 6,
+     "q": "It's the lowest pay grade for an Army private; the letter indicates the rank is below commissioned officer",
+     "a": "E-1",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [
+      "Christie"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": true,
+     "order": 16,
+     "q": "\"In our family there was no clear line between religion and fly fishing\", begins this Norman Maclean novella",
+     "a": "A River Runs Through It",
+     "right": [],
+     "wrong": [
+      "Christie"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1000
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 9,
+     "q": "In I Kings she tells Solomon, \"Thy wisdom and prosperity exceedeth the fame which I heard\"",
+     "a": "the Queen of Sheba",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 14,
+     "q": "To overlay one image above another, or to stay on your charitable friend's couch for way, way too long",
+     "a": "superimpose",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [
+      "Jen"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 7,
+     "q": "Oops--crayon marks all over this c. 9th century illuminated manuscript I borrowed from Trinity College in Dublin",
+     "a": "The Book of Kells",
+     "right": [
+      "Christie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 1,
+     "q": "Many have aspired to karaoke glory with this song recorded by Whitney Houston that begins, \"I believe the children are our future\"",
+     "a": "\"The Greatest Love Of All\"",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 10,
+     "q": "The program for granting this visa oddly specifies it's for U.S. companies hiring alien workers in specialty jobs or as fashion models",
+     "a": "H-1B",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [
+      "Christie"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 18,
+     "q": "\"Christopher and His Kind\" by this British-born author tells of his time in 1930s Berlin & trying to protect his lover, Heinz",
+     "a": "(Christopher) Isherwood",
+     "right": [
+      "Jen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "NICKS IN 5",
+    "EARLY FLIGHT",
+    "WILL YOU TAKE CARE OF THAT?",
+    "FRENCH AS AN OFFICIAL LANGUAGE",
+    "DESERT ANIMALS",
+    "THE BIRTHS OF POP CULTURE"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 22,
+     "q": "The abdication of Nicholas II in 1917 ended more than 300 years of rule by this family",
+     "a": "the Romanovs",
+     "right": [
+      "Christie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "In 1919 New York hotelier Raymond Orteig organized a prize for aviators; 8 years later, it was won by this man",
+     "a": "Lindbergh",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 28,
+     "q": "Actually, I believe I'll do this on the assignment, what a bridge player may do if declining to bid",
+     "a": "pass",
+     "right": [
+      "Christie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 30,
+     "q": "French is entrenched! More than 80% of the population of this Canadian province uses French on a daily basis",
+     "a": "Quebec",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 17,
+     "q": "The greater species of these birds can't outrun a coyote or go beep beep, but can get rid of salt through a nasal gland",
+     "a": "a roadrunner",
+     "right": [
+      "Jen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 24,
+     "q": "Vanessa Kirby said making the baby-loss movie \"Pieces of a Woman\" helped her give birth in space as Sue Storm in this group: \"First Steps\"",
+     "a": "The Fantastic Four",
+     "right": [
+      "Christie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 23,
+     "q": "This Marvel hero's given names are Nicholas Joseph, but \"Everybody calls me\" this last name; what does his mom call him? This last name",
+     "a": "(Nick) Fury",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 21,
+     "q": "11th C. monk Eilmer of Malmesbury was inspired by this mythical dad to fly from his abbey with wings (more like the dad's kid, he fell)",
+     "a": "Daedalus",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": true,
+     "order": 29,
+     "q": "OK--as Charlie Brown tells Schroeder about the guy who was asked if he can play the \"Hallelujah Chorus\", \"I guess I can\" do this",
+     "a": "Handel it",
+     "right": [
+      "Christie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 4800
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 26,
+     "q": "Other than France itself, this principality is the only European country with French as its sole official language",
+     "a": "Monaco",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 16,
+     "q": "Aquila chrysaetos, these \"colorful\" creatures of the desert are protected by federal law along with their bald brethren",
+     "a": "golden eagles",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [
+      "Jen"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 25,
+     "q": "This character gives birth in Halloween makeup on the series finale of \"Parks & Recreation\"",
+     "a": "April Ludgate",
+     "right": [
+      "Jen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 9,
+     "q": "This Shakespeare character asks, \"What do you see? You see an ass-head of your own, do you?\"",
+     "a": "Nick Bottom",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 7,
+     "q": "In 1874, this count got a lift of inspiration from a lecture by a German postmaster about global airship delivery",
+     "a": "Count von Zeppelin",
+     "right": [],
+     "wrong": [
+      "Jen"
+     ],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 12,
+     "q": "Nope; I'll say this, a segment on \"Wait Wait... Don't Tell Me\" where guests answer questions outside their expertise",
+     "a": "not my job",
+     "right": [
+      "Jen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 20,
+     "q": "Pierre de Coubertin, head of this committee from 1896 to 1925, would be happy that French is one of its official languages",
+     "a": "the International Olympic Committee",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": true,
+     "order": 4,
+     "q": "The desert subspecies of this, Ovis canadensis, can use ledges only 2 inches wide as hoof-holds",
+     "a": "a bighorn sheep",
+     "right": [],
+     "wrong": [
+      "Mark"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1800
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 2,
+     "q": "\"Doctors are sadists who like to play God and watch lesser people scream\", says Allison Janney as the stepmom of this title teen mom",
+     "a": "Juno",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 10,
+     "q": "World-traveling journalist Nicholas Kristof won a Pulitzer for covering stories from this region of Western Sudan",
+     "a": "Darfur",
+     "right": [
+      "Christie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 8,
+     "q": "This city's airport code \"MSY\" reflects how it was once named for the early aviation daredevil John Bevins Moisant",
+     "a": "New Orleans",
+     "right": [
+      "Christie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 11,
+     "q": "No; I'm going to use this expression of military origin for something too important for me to decide",
+     "a": "above my pay grade",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 18,
+     "q": "The most populous country with French as an official language isn't France--it's this African nation",
+     "a": "the Democratic Republic of Congo",
+     "right": [
+      "Jen"
+     ],
+     "wrong": [
+      "Mark"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 5,
+     "q": "Also known as the scarab, this insect can haul balls of manure 50 times its own weight",
+     "a": "a dung beetle",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 1,
+     "q": "Brooklyn Decker's IG posts attest real birth is different from birth in this movie, thought it's based on a respected advice book",
+     "a": "What to Expect When You're Expecting",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 19,
+     "q": "Britain's Deputy Prime Minister from 2010 to 2015, he ascended to the presidency of global affairs at Meta in 2022",
+     "a": "Nick Clegg",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 15,
+     "q": "In 1783 these French siblings sent a sheep, a duck & a rooster aloft in a balloon as a demonstration of their new invention",
+     "a": "the Montgolfiers",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 14,
+     "q": "Yes--it's in this, a mainly British word for an area of responsibility & also a money-sending verb",
+     "a": "remit",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 13,
+     "q": "Until 1980 this South Pacific nation was the Anglo-French territory New Hebrides; French is still one of its 3 official languages",
+     "a": "Vanuatu",
+     "right": [],
+     "wrong": [
+      "Mark"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 6,
+     "q": "An Arabic word that's applied to a few furry critters give us this name of a large-eared desert fox",
+     "a": "a fennec",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 3,
+     "q": "Every birth is a miracle, but the birth in this dystopian movie, a girl delivered by Clive Owen, definitely so",
+     "a": "Children of Men",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "TV ANNIVERSARIES",
+  "q": "In 2025 this show celebrated its 40th anniversary, sadly without its 4 main stars, the last of whom passed away in 2021 at age 99",
+  "a": "The Golden Girls",
+  "right": [
+   "Jen",
+   "Christie",
+   "Mark"
+  ],
+  "wrong": []
+ },
+ "gameId": "9536",
+ "cat_notes": {
+  "J": [
+   "Clues about Go Off, Queen.",
+   "Clues about Compound Verbs.",
+   "Clues about An Unruly Toddler.",
+   "Each answer contains the letter group “LOVE”, and the clues are about Songs.",
+   "Clues about Alphanumerics.",
+   "Clues about Popular Books of 1976."
+  ],
+  "DJ": [
+   "Clues about Nicks in 5.",
+   "Clues about Early Flight.",
+   "The category “WILL YOU TAKE CARE OF THAT?” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "Clues about French As an Official Language.",
+   "Clues about Desert Animals.",
+   "Clues about The Births of Pop Culture."
+  ],
+  "F": "Clues about TV Anniversaries."
+ }
+}

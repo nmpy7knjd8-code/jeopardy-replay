@@ -1,0 +1,992 @@
+{
+ "show": "#9625",
+ "aired": "2026-09-25",
+ "note": "",
+ "contestants": [
+  {
+   "name": "Sean Carpenter",
+   "bio": "a procurement manager from New Lenox, Illinois",
+   "short": "Sean"
+  },
+  {
+   "name": "Lydia Herndon",
+   "bio": "a Ph.D. student from Chicago, Illinois",
+   "short": "Lydia"
+  },
+  {
+   "name": "Nikolas Polsinelli",
+   "bio": "a student from Winter Park, Florida (whose 1-day cash winnings total $17,601)",
+   "short": "Nikolas"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Nikolas": 5400,
+   "Lydia": 3600,
+   "Sean": 2000
+  },
+  "DJ": {
+   "Nikolas": 26200,
+   "Lydia": 7600,
+   "Sean": 9600
+  },
+  "Final": {
+   "Nikolas": 22400,
+   "Lydia": 11199,
+   "Sean": 3999
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "INSIDE BOSTON",
+    "RESTRICTED READING IN AMERICA",
+    "GOATS, GOATS, GOATS",
+    "FOWL LANGUAGE",
+    "POLLY",
+    "WANNA CRACKER?"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 26,
+     "q": "Bein' green is easy during a tour of Fenway Park when you're atop the 37-foot left field wall in these scary seats installed in 2003",
+     "a": "the Green Monster",
+     "right": [
+      "Sean"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 11,
+     "q": "East Knoxville has a statue of Alex Haley, but in 2026, Knox County School libraries planned to remove this Pulitzer winning book of his",
+     "a": "Roots",
+     "right": [
+      "Nikolas"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 22,
+     "q": "Before accepting her 2024 Olympic all-around gold, this gymnast put on a diamond-encrusted GOAT necklace, & who's arguing?",
+     "a": "Simone Biles",
+     "right": [
+      "Sean"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 24,
+     "q": "Varivax is a vaccine that protects against this disease that often strikes in childhood",
+     "a": "chicken pox",
+     "right": [
+      "Sean"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 27,
+     "q": "Pollywood is the term used for cinema in this language of India, like 2025's \"Raavi de Kande\" starring Pankaj Kapur",
+     "a": "Punjabi",
+     "right": [
+      "Sean"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 30,
+     "q": "The original logo of this cracker brand was inspired by a hat, not a fancy hotel",
+     "a": "Ritz",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 25,
+     "q": "Head to the North End for great Italian food & to see the home of this patriot; he took off from there the night of April 18, 1775",
+     "a": "Paul Revere",
+     "right": [
+      "Sean"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 10,
+     "q": "\"Born a Crime\" by this ex-\"Daily Show\" host was challenged for anti-religious views",
+     "a": "Trevor Noah",
+     "right": [
+      "Lydia"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 21,
+     "q": "\"She's the GOAT\", said Michael Phelps of this U.S. swimmer at the Tokyo Olympics in 2021, & he should know",
+     "a": "Ledecky",
+     "right": [
+      "Nikolas"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 23,
+     "q": "This term can refer to a lively dance of bygone days or a footrace held on Thanksgiving Day",
+     "a": "a turkey trot",
+     "right": [
+      "Nikolas"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 28,
+     "q": "Chris Wiggs created this tiny toy line for his daughter by repurposing a compact as a miniature dollhouse",
+     "a": "Polly Pocket",
+     "right": [
+      "Lydia"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 29,
+     "q": "These crackers made with whole wheat flour are named for a 19th century minister",
+     "a": "graham crackers",
+     "right": [
+      "Nikolas"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 12,
+     "q": "Dating to 1826, this food hall is named for Boston's mayor at that time; locals pronounce it with a \"Z\" sound",
+     "a": "Quincy Market",
+     "right": [],
+     "wrong": [
+      "Lydia",
+      "Sean"
+     ],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": true,
+     "order": 7,
+     "q": "Utah had issues with \"Oryx & Crake\" by this Canadian woman who's unafraid to confront (or create) harsh realities",
+     "a": "(Margaret) Atwood",
+     "right": [
+      "Nikolas"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2000
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 1,
+     "q": "LeBron? Jordan? Wilt? Russell? Or is the NBA GOAT this 7'2\" legend, a 6-time NBA MVP & 4-time \"Celebrity Jeopardy!\" player",
+     "a": "Kareem Abdul-Jabbar",
+     "right": [
+      "Nikolas"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 4,
+     "q": "The first Englishman to sail around the world, this explorer & military leader was born near the port of Plymouth around 1540",
+     "a": "Drake",
+     "right": [
+      "Nikolas"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 13,
+     "q": "Polly is the first name of this British rocker whose hits include \"Sheila-Na-Gig\" & \"Down By The Water\"",
+     "a": "PJ Harvey",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 19,
+     "q": "These small hexagonal crackers are served with (not made with) the shellfish in their name",
+     "a": "oyster crackers",
+     "right": [
+      "Sean"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 16,
+     "q": "Check out the Mapparium, showing the world in 1935, at this religion's Mother Church in Boston",
+     "a": "Christian Science",
+     "right": [
+      "Lydia"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 8,
+     "q": "This author's \"Looking for Alaska\" made the A.L.A.'s \"Most Challenged Books of 2025\"",
+     "a": "John Green",
+     "right": [
+      "Sean"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 2,
+     "q": "In 2021 this 4-time Super Bowl-winning QB said Tom Brady had surpassed him as the NFL's GOAT; Niners fans may still disagree",
+     "a": "Joe Montana",
+     "right": [
+      "Sean"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 5,
+     "q": "Piloerection is a technical name for this skin reaction that may be caused by chills or a strong emotion like fear",
+     "a": "goosebumps",
+     "right": [
+      "Nikolas"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 18,
+     "q": "Polly Cooper was an Oneida woman who helped Continental Army soldiers after the harsh winter of 1777-78 at this site",
+     "a": "Valley Forge",
+     "right": [
+      "Lydia"
+     ],
+     "wrong": [
+      "Sean"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 14,
+     "q": "Dating to 1921, this brand of square orange crackers was originally marketed as baked rarebit in the form of a cracker",
+     "a": "Cheez-It",
+     "right": [
+      "Lydia"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 17,
+     "q": "Boston's Public Garden is home to the famed Swan Boats which were inspired by this Wagner opera",
+     "a": "Lohengrin",
+     "right": [],
+     "wrong": [
+      "Nikolas"
+     ],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 9,
+     "q": "Barnes & Noble's list of books that have been banned & censored includes this Bradbury novel that took things to the next level",
+     "a": "Fahrenheit 451",
+     "right": [
+      "Lydia"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 3,
+     "q": "MLB GOAT debates often involve Shohei Ohtani vs. this legend, the last before Ohtani to star as both a hitter & a pitcher",
+     "a": "Babe Ruth",
+     "right": [
+      "Nikolas"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 6,
+     "q": "The last reported use of this two-word punishment device on a woman considered to be a scold was on Jenny Pipes in 1809",
+     "a": "a ducking stool",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 20,
+     "q": "Secretly married Polly Peachum is a character in this 1728 John Gay work, a satire of Italian opera then popular in England",
+     "a": "The Beggar's Opera",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 15,
+     "q": "This circus name precedes \"Animals\" & \"Crackers\" in a brand of zoo animal-shaped crackers",
+     "a": "Barnum",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "NAME THE U.K. PRIME MINISTER",
+    "THEIR MONA LISA",
+    "SCIENTIFIC ADVENTURERS",
+    "QUESTIONABLE POP CULTURE",
+    "HOUSES WITH NAMES",
+    "\"FRONT\" OR \"BACK\""
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 26,
+     "q": "On her CV: 1947--research chemist; 1954--tax lawyer; 1959--Conservative in the House of Commons",
+     "a": "Thatcher",
+     "right": [
+      "Nikolas"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 24,
+     "q": "Their Mona Lisa is a Mona Lisa; this museum in Spain has a copy of da Vinci's dame that may have been painted by one of his pupils",
+     "a": "the Prado",
+     "right": [
+      "Nikolas"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 29,
+     "q": "While searching for the source of this river, Sir Richard Burton got a Somali javelin thrust through both cheeks",
+     "a": "the Nile",
+     "right": [
+      "Nikolas"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 22,
+     "q": "Bollywood legend Amitabh Bachchan is the longtime host of the Hindi version of this game show",
+     "a": "Who Wants to Be a Millionaire?",
+     "right": [
+      "Lydia"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 30,
+     "q": "Now Utah Historical Sites, the Beehive House & the Lion House were once residences of this former governor & his large family",
+     "a": "Brigham Young",
+     "right": [
+      "Nikolas"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 28,
+     "q": "Davy Crockett & Kit Carson fit the category twice--as backwoodsmen & as this, which Britannica uses of both",
+     "a": "frontiersmen",
+     "right": [
+      "Nikolas"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 25,
+     "q": "A 1940 article called him a \"statesman of a vanished era of appeasement\"",
+     "a": "Chamberlain",
+     "right": [
+      "Nikolas"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 23,
+     "q": "A portrait of dancer Alexander Sakharoff has been called the \"Mona Lisa of the Lenbachhaus\" in this Bavarian city",
+     "a": "Munich",
+     "right": [
+      "Sean"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 27,
+     "q": "Indiana Jones, uh, excuse me, Roy Chapman Andrews led a 1920s expedition across this Mongolian desert",
+     "a": "the Gobi Desert",
+     "right": [
+      "Sean"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 21,
+     "q": "This actress had chemistry with Chris Noth & John Corbett, but many felt none with Hugh Grant in \"Did You Hear About the Morgans?\"",
+     "a": "Sarah Jessica Parker",
+     "right": [
+      "Lydia"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 20,
+     "q": "At Woolsthorpe Manor, home of this 17th c. genius, you can see scientific drawings on the walls--oh, & some old apple tree",
+     "a": "Newton",
+     "right": [
+      "Lydia"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 17,
+     "q": "Pocket Books was one of the first successful publishers of these in the United States",
+     "a": "paperbacks",
+     "right": [
+      "Lydia"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 2,
+     "q": "While he was mayor of Manchester, this new PM waged a DJ battle with the mayor of Liverpool",
+     "a": "(Andy) Burnham",
+     "right": [
+      "Nikolas"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 5,
+     "q": "MoMA has a 1962 silkscreen of this woman The New York Times called the \"Movies' Mona Lisa\"",
+     "a": "Marilyn Monroe",
+     "right": [
+      "Sean"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 12,
+     "q": "Even with scuba gear, he nearly died diving 150 feet to explore a freshwater cave in France in 1946",
+     "a": "Cousteau",
+     "right": [
+      "Sean"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 16,
+     "q": "Trying to manifest a partner, it's the question Raye asks in the title of her 2025 viral hit",
+     "a": "\"Where Is My Husband!\"",
+     "right": [
+      "Lydia"
+     ],
+     "wrong": [
+      "Nikolas",
+      "Sean"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 9,
+     "q": "This future first lady summered at Lasata, the Hamptons estate of John Bouvier Jr. with a name meaning \"place of peace\"",
+     "a": "Jackie Kennedy",
+     "right": [
+      "Sean"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 1,
+     "q": "The running game & the holding game are basic strategies in this board game",
+     "a": "backgammon",
+     "right": [
+      "Nikolas"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 3,
+     "q": "Kim Kardashian's marriage to Kris Humphries lasted longer than the tenure of this woman as prime minister",
+     "a": "Liz Truss",
+     "right": [
+      "Sean"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 6,
+     "q": "Who needs Paris? The Worcester Art Museum in Mass. has \"The Brooding Woman\", a work produced in Tahiti by this man",
+     "a": "Gauguin",
+     "right": [
+      "Nikolas"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 13,
+     "q": "On July 20, 1969, Neil Armstrong photographed this man taking a lunar core sample",
+     "a": "(Buzz) Aldrin",
+     "right": [
+      "Nikolas"
+     ],
+     "wrong": [
+      "Sean"
+     ],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 19,
+     "q": "In \"Can You Ever Forgive Me?\" this actress played forger Lee Israel",
+     "a": "Melissa McCarthy",
+     "right": [
+      "Sean"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 10,
+     "q": "This birthplace & stomping ground of Winston Churchill is the only non-royal palace in England",
+     "a": "Blenheim Palace",
+     "right": [
+      "Nikolas"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 4,
+     "q": "Blood pressure, brain waves & muscle tension are all monitored during this behavioral therapy",
+     "a": "biofeedback",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 7,
+     "q": "After an 1815 battle he wrote, \"Nothing except a battle lost can be half so melancholy as a battle won\"",
+     "a": "Wellington",
+     "right": [
+      "Nikolas"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": true,
+     "order": 8,
+     "q": "A painting by this man at the Mauritshuis that depicts a girl in a turban is sometimes called \"The Mona Lisa of the North\"",
+     "a": "Vermeer",
+     "right": [
+      "Nikolas"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 4000
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": true,
+     "order": 14,
+     "q": "Before he built his thermometer, he took part in a 1736 expedition to N. Sweden that helped prove the flattening of the Earth's poles",
+     "a": "Celsius",
+     "right": [
+      "Nikolas"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 6000
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 18,
+     "q": "The title \"Why\" has been used by Donny Osmond, Jon Bellion with Luke Combs & this Scottish woman, who made the word about 15 syllables",
+     "a": "Annie Lennox",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 11,
+     "q": "This late designer lived in Villa Oasis & turned the Jardin Majorelle, its gardens, into one of the biggest tourist spots in Marrakesh",
+     "a": "Yves Saint Laurent",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 15,
+     "q": "Easy to see due to their prominent spots, these U.K. Parliamentarians are government ministers or opposition shadows",
+     "a": "frontbenchers",
+     "right": [
+      "Sean"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "COINAGES OF THE 1980s",
+  "q": "Marc Kelly Smith had Cubs slugger Ernie Banks in mind when he chose a name for these literary events he had \"invented\"",
+  "a": "poetry slams",
+  "right": [
+   "Lydia"
+  ],
+  "wrong": [
+   "Sean",
+   "Nikolas"
+  ]
+ },
+ "gameId": "9542",
+ "cat_notes": {
+  "J": [
+   "Clues about Inside Boston.",
+   "Clues about Restricted Reading in America.",
+   "Clues about Goats, Goats, Goats.",
+   "Clues about Fowl Language.",
+   "Clues about Polly.",
+   "The category “WANNA CRACKER?” sets the theme — the clues follow that idea and any wordplay suggested by the title."
+  ],
+  "DJ": [
+   "Clues about Name the U.K. Prime Minister.",
+   "Clues about Their Mona Lisa.",
+   "Clues about Scientific Adventurers.",
+   "Clues about Questionable Pop Culture.",
+   "Clues about Houses with Names.",
+   "One of those two in every response."
+  ],
+  "F": "Clues about Coinages of the 1980s."
+ }
+}

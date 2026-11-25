@@ -1,0 +1,991 @@
+{
+ "show": "#9637",
+ "aired": "2026-10-13",
+ "note": "Seventh regular-play game to end in a Tiebreaker Round.",
+ "contestants": [
+  {
+   "name": "Ron Clarke",
+   "bio": "a retired wildlife biologist from Chickaloon, Alaska",
+   "short": "Ron"
+  },
+  {
+   "name": "Evelyn Lamb",
+   "bio": "a math and science writer from Houston, Texas",
+   "short": "Evelyn"
+  },
+  {
+   "name": "Greg Monson",
+   "bio": "a videographer from Portland, Oregon (whose 3-day cash winnings total $60,300)",
+   "short": "Greg"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Greg": 7600,
+   "Evelyn": 4200,
+   "Ron": 1800
+  },
+  "DJ": {
+   "Greg": 18200,
+   "Evelyn": 5000,
+   "Ron": 9100
+  },
+  "Final": {
+   "Greg": 18200,
+   "Evelyn": 5000,
+   "Ron": 18200
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "Y COMBINATOR",
+    "CHILDREN'S BOOKS FIRST LINES",
+    "OOPS!... I DID IT AGAIN",
+    "GOLDEN GIRLS",
+    "3 CONSECUTIVE VOWELS",
+    "OTHER JENNINGSES"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 4,
+     "q": "One Y Combinator co-founder called Brian Chesky of this stay-in-someone's-house service \"The Tasmanian Devil\" for his energy",
+     "a": "Airbnb",
+     "right": [
+      "Greg"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 29,
+     "q": "\"Chug, chug, chug. Puff, puff, puff. Ding-dong, ding-dong\"",
+     "a": "The Little Engine That Could",
+     "right": [
+      "Greg"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 30,
+     "q": "He got married in January 1540, & again in... uh... July 1540 (that one lasted 18 months, so, improvement?)",
+     "a": "Henry VIII",
+     "right": [
+      "Greg"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 25,
+     "q": "At the 1988 Olympics Jackie Joyner-Kersee won the heptathlon while this sister-in-law ran off with 3 golds of her own",
+     "a": "Flo-Jo (Florence Griffith-Joyner)",
+     "right": [
+      "Greg"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 27,
+     "q": "That person whose horrifying behavior is a public scandal? I wouldn't call him a friend, more one of these, just someone I've met",
+     "a": "an acquaintance",
+     "right": [
+      "Greg"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 21,
+     "q": "One of his nicknames was \"The Boy Orator of the Platte\"",
+     "a": "William Jennings Bryan",
+     "right": [
+      "Greg"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 28,
+     "q": "Helion says it'll build the 1st power plant using this process, fission's opposite with no uncontrolled chain reactions",
+     "a": "fusion",
+     "right": [
+      "Greg"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 13,
+     "q": "\"Harriet was trying to explain to Sport how to play Town\" (Sport is another kid; Town is a game)",
+     "a": "Harriet the Spy",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 19,
+     "q": "Hillary Clinton was this state's first lady in the 1970s, took an unwanted break, then was back in the early '80s",
+     "a": "Arkansas",
+     "right": [
+      "Evelyn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 24,
+     "q": "After taking a break from the sport, she made an Olympic comeback in 2026 to win the gold in women's figure skating",
+     "a": "(Alysa) Liu",
+     "right": [
+      "Evelyn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 26,
+     "q": "This 5-letter adjective means earnestly reverent or devout, like nuns or monks",
+     "a": "pious",
+     "right": [
+      "Evelyn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 20,
+     "q": "This anchorman born in Toronto took ABC's \"World News Tonight\" to the top of the ratings in the 1990s",
+     "a": "Peter Jennings",
+     "right": [
+      "Ron"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 23,
+     "q": "ycombinator.com calls it \"the world's leading video platform & community for gamers\"",
+     "a": "Twitch",
+     "right": [
+      "Greg"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": true,
+     "order": 10,
+     "q": "\"First of all, let me get something straight: this is a journal\" (though the title uses another word)",
+     "a": "Diary of a Wimpy Kid",
+     "right": [
+      "Evelyn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1000
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 14,
+     "q": "For middle schoolers, a bestseller about our presidents was titled this 19th century man, \"Again!\"",
+     "a": "Cleveland",
+     "right": [
+      "Greg"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 11,
+     "q": "Fittingly, Rosalind Canter was on a British gold medal team in this discipline at the 2024 Summer Olympics",
+     "a": "equestrian",
+     "right": [
+      "Greg"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 8,
+     "q": "A government unit with a specific mission, like the one of Indian Affairs",
+     "a": "a bureau",
+     "right": [
+      "Greg"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 16,
+     "q": "Waylon Jennings narrated this TV series & wrote its theme song that had the parenthetical title \"Good Ol' Boys\"",
+     "a": "The Dukes of Hazzard",
+     "right": [
+      "Ron"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 22,
+     "q": "Y Combinator wasn't around when Coinstar began, but helped this digital exchange where you can interact with cryptocurrencies",
+     "a": "Coinbase",
+     "right": [
+      "Greg"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 2,
+     "q": "\"The Mole had been working very hard all the morning, spring-cleaning his little home\"",
+     "a": "The Wind in the Willows",
+     "right": [
+      "Ron"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 5,
+     "q": "It, being getting exiled, as Napoleon bid adieu (part deux) & ended up on this island in October 1815",
+     "a": "St. Helena",
+     "right": [
+      "Greg"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 1,
+     "q": "Dubbed the fastest woman alive, Elaine Thompson-Herah is a 5-time Olympic gold medal sprinter from this Caribbean nation",
+     "a": "Jamaica",
+     "right": [
+      "Greg"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 3,
+     "q": "These 2 words can be confused: one means caused by an agent like a virus, one means spread by contact",
+     "a": "infectious & contagious",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 17,
+     "q": "Called \"The Fighting Quaker\", Jacob Jennings Brown was a general in this war, helping the U.S. with victories at Chippewa & Fort Erie",
+     "a": "the War of 1812",
+     "right": [],
+     "wrong": [
+      "Greg"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 15,
+     "q": "Founded in 2016 with YC's help, this sports media company has become a big part of The New York Times, which bought it for half a bil",
+     "a": "The Athletic",
+     "right": [
+      "Evelyn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 12,
+     "q": "\"Mrs. Rachel Lynde lived just where the Avonlea main road dipped down into a little hollow\"",
+     "a": "Anne of Green Gables",
+     "right": [
+      "Evelyn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 7,
+     "q": "Consistently overestimating the size of Confederate forces & not attacking lost this general his Union gig in 1862",
+     "a": "McClellan",
+     "right": [
+      "Greg"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 6,
+     "q": "Romania has declared 2026 the year of this perfect 10, 5-time gold medal gymnast who made history 50 years ago in Montreal",
+     "a": "(Nadia) Comăneci",
+     "right": [
+      "Greg"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 9,
+     "q": "In Greek mythology these nymphs were beautiful, lighthearted & associated with flowing bodies of water",
+     "a": "naiads",
+     "right": [
+      "Evelyn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 18,
+     "q": "The 2018 film \"The Favourite\" dramatized the relationship between Lady Sarah Jennings & this queen",
+     "a": "Queen Anne",
+     "right": [],
+     "wrong": [
+      "Evelyn"
+     ],
+     "stumper": true,
+     "img": true
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "\"-Y\" COMBINATOR",
+    "THIS IS MY LIFE NOW",
+    "CROSSROAD CLUES",
+    "HEAVY MACHINERY",
+    "DOMESTICATED ANIMALS",
+    "A PENNY FOR YOUR MEDIA"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 29,
+     "q": "This -y form \"forbids me\" from talking about my own remarkable accomplishments",
+     "a": "modesty",
+     "right": [
+      "Ron"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 26,
+     "q": "\"This Cursed Beautiful Land\" tells of Wall Street Journal reporter Evan Gershkovich's imprisonment in this country",
+     "a": "Russia",
+     "right": [
+      "Ron"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "A sign in this state says the crossing of highways 40 & 41 in Terre Haute was once known as \"the crossroads of America\"",
+     "a": "Indiana",
+     "right": [
+      "Ron"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 28,
+     "q": "Invented in 1845, this type of big machine was the first to use hydraulic power for heavy lifting on the docks at Newcastle",
+     "a": "a crane",
+     "right": [
+      "Greg"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 25,
+     "q": "In 2026, the AKC's list of the most popular breeds was topped by this dog, aka the Frenchie, for the fourth year in a row",
+     "a": "a French Bulldog",
+     "right": [
+      "Ron"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 30,
+     "q": "In a 1967 song we learn this place is home to a barber showing photographs & a fireman with an hourglass",
+     "a": "Penny Lane",
+     "right": [
+      "Ron"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 21,
+     "q": "Makes sense--this adjective beloved by Brits meant evasive or sneaky before broadening to generally questionable",
+     "a": "dodgy",
+     "right": [
+      "Evelyn"
+     ],
+     "wrong": [
+      "Greg"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 23,
+     "q": "In \"Natural Disaster\" she recounts her life, love & struggles on the path to becoming chief meteorologist for ABC News",
+     "a": "Ginger Zee",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 22,
+     "q": "Called the busiest intersection in the world, Shibuya Crossing stands at a crossroads in this world city",
+     "a": "Tokyo",
+     "right": [
+      "Ron"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 17,
+     "q": "The slow rotation of a large drum attached to this vehicle keeps its contents at the proper consistency",
+     "a": "a concrete mixer (cement mixer)",
+     "right": [
+      "Greg"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 24,
+     "q": "Long-haired Suris make up only a small percentage of these animals; most are Huacayas with fleece that's short & crimped",
+     "a": "alpacas",
+     "right": [
+      "Greg"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 20,
+     "q": "Penny & her dog Brain help keep this high-tech cartoon detective out of trouble",
+     "a": "Inspector Gadget",
+     "right": [
+      "Greg"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 18,
+     "q": "Meaning pale or dry, it was the nickname of Larry, played by Donnell Rawlings on \"Chappelle's Show\"",
+     "a": "Ashy",
+     "right": [
+      "Greg"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 9,
+     "q": "This bestselling author of thrillers tells of her work in a medical examiner's office in her memoir \"True Crime\"",
+     "a": "Patricia Cornwell",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 4,
+     "q": "At the crossroads of highways 61 & 49 this bluesman & member of \"The 27 Club\" supposedly met the devil",
+     "a": "Robert Johnson",
+     "right": [
+      "Ron"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 16,
+     "q": "Here's a crawler type of this machine that's great for shallow digging, pushing earth & even wrecking stuff",
+     "a": "a bulldozer",
+     "right": [
+      "Ron"
+     ],
+     "wrong": [
+      "Greg"
+     ],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 1,
+     "q": "First domesticated to hunt rodents & rabbits, the common species of this critter is a form of the European polecat",
+     "a": "a ferret",
+     "right": [
+      "Ron"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 19,
+     "q": "She directed Tom Hanks in \"Big\" & \"A League of Their Own\"",
+     "a": "Penny Marshall",
+     "right": [
+      "Greg"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 14,
+     "q": "Fruit-based adjective for deep, carefully enunciated speaking tones",
+     "a": "plummy",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 8,
+     "q": "\"Excelsior!\" is this man's Marvel-ous autobiography",
+     "a": "Stan Lee",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 5,
+     "q": "Today home to a railway station, it was originally the site of a religious memorial to the beloved wife of King Edward I",
+     "a": "Charing Cross",
+     "right": [],
+     "wrong": [
+      "Ron"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 10,
+     "q": "Patented in 1836, this machine is named for its integration of 3 harvesting tasks: reaping, threshing & winnowing",
+     "a": "a combine (harvester)",
+     "right": [
+      "Greg"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 5000
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 2,
+     "q": "Elsewhere in the animal kingdom, this 2-word social ranking system for chickens is referred to as a dominance hierarchy",
+     "a": "pecking order",
+     "right": [
+      "Ron"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2500
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 15,
+     "q": "Jack Bannon played the title man in this recent TV series that tells how he came into the employ of the Waynes",
+     "a": "Pennyworth",
+     "right": [],
+     "wrong": [
+      "Greg"
+     ],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 7,
+     "q": "A dance begins this double -y term that's synonymous with other doubled-up terms like hocus-pocus & hanky-panky",
+     "a": "jiggery-pokery",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 13,
+     "q": "In \"A Different Kind of Power\", this former New Zealand leader tells of her inspiring rise",
+     "a": "Jacinda Ardern",
+     "right": [],
+     "wrong": [
+      "Greg"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 6,
+     "q": "In 2001 UNESCO designated this Uzbek city on an ancient trade route as a \"crossroad of cultures\"",
+     "a": "Samarkand",
+     "right": [
+      "Greg"
+     ],
+     "wrong": [
+      "Evelyn"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 12,
+     "q": "Before Elisha Otis was known for elevators, William Otis invented the steam shovel, the direct ancestor of this modern machine",
+     "a": "an excavator",
+     "right": [
+      "Greg"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 3,
+     "q": "Domesticated by the Chinese for ornamental purposes, goldfish are a type of this 4-letter fish",
+     "a": "carp",
+     "right": [
+      "Evelyn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 11,
+     "q": "This Showtime series named for a type of British dime novel featured Dracula as a fallen angel, Lucifer's brother",
+     "a": "Penny Dreadful",
+     "right": [
+      "Greg"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "'80s MUSIC",
+  "q": "A posted sign told the artists to \"check your egos at the door\" before the recording of this 1985 single",
+  "a": "\"We Are The World\"",
+  "right": [
+   "Evelyn",
+   "Ron",
+   "Greg"
+  ],
+  "wrong": []
+ },
+ "gameId": "9554",
+ "cat_notes": {
+  "J": [
+   "The accelerator for startup companies.",
+   "Clues about Children's Books First Lines.",
+   "The category “OOPS!... I DID IT AGAIN” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "Clues about Golden Girls.",
+   "Clues about 3 Consecutive Vowels.",
+   "Clues about Other Jenningses."
+  ],
+  "DJ": [
+   "Each answer ends with “-Y”, and the clues are about Combinator.",
+   "Clues about This Is My Life Now.",
+   "[Ken reads the category as \"CROSSWORD CLUES\".].",
+   "Clues about Heavy Machinery.",
+   "Clues about Domesticated Animals.",
+   "Clues about pennys, riffing on the title “A PENNY FOR YOUR MEDIA”."
+  ],
+  "F": "Clues about 80s Music."
+ }
+}

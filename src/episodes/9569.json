@@ -1,0 +1,987 @@
+{
+ "show": "#9652",
+ "aired": "2026-11-03",
+ "note": "Erica Doornek game 3.",
+ "contestants": [
+  {
+   "name": "Jon Barilone",
+   "bio": "a public relations and marketing consultant from Aliso Viejo, California",
+   "short": "Jon"
+  },
+  {
+   "name": "Tamara O'Flaherty",
+   "bio": "a lawyer from New York, New York",
+   "short": "Tamara"
+  },
+  {
+   "name": "Erica Doornek",
+   "bio": "a federal employee originally from Glasgow, Montana (whose 2-day cash winnings total $39,000)",
+   "short": "Erica"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Erica": 4400,
+   "Tamara": 2600,
+   "Jon": -200
+  },
+  "DJ": {
+   "Erica": 10200,
+   "Tamara": 6600,
+   "Jon": 4200
+  },
+  "Final": {
+   "Erica": 13201,
+   "Tamara": 8406,
+   "Jon": 7201
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "10-LETTER VOCAB",
+    "PLAYING \"R\" SONG",
+    "SECRETARIAL WORK",
+    "WHOSE WHAT?",
+    "CHAMPAGNE",
+    "CASANOVA"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 12,
+     "q": "Echoing the action in its name, inside a traditional grain windmill this object pulverizes grain to produce flour",
+     "a": "grindstone",
+     "right": [],
+     "wrong": [
+      "Erica"
+     ],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 3,
+     "q": "\"What you want, baby, I got\" this 1967 chart-topper by Aretha Franklin; now sockittome sockittome...",
+     "a": "\"Respect\"",
+     "right": [
+      "Erica"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 30,
+     "q": "Donald Rumsfeld did double duty as a secretary of this, from 1975 to 1977 & again from 2001 to 2006",
+     "a": "defense",
+     "right": [
+      "Tamara"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 14,
+     "q": "It's celebrated on the second Sunday in May",
+     "a": "Mother's Day",
+     "right": [
+      "Tamara"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 27,
+     "q": "Briefly revive champagne by dropping in raisins: the last of this gas will stick to them & be released as tiny bubbles",
+     "a": "carbon dioxide",
+     "right": [
+      "Jon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 20,
+     "q": "In the 1675 comedy \"The Country Wife\", Horner seduces away by making husbands think he's one of these men who's been... deprived",
+     "a": "a eunuch",
+     "right": [
+      "Tamara"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 13,
+     "q": "This portable type of radio is named for the semiconductor used to amplify electrical signals",
+     "a": "a transistor",
+     "right": [
+      "Erica"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 10,
+     "q": "Mariachi-style trumpets are heard on this 1963 song, one of Johnny Cash's biggest hits",
+     "a": "\"Ring Of Fire\"",
+     "right": [
+      "Erica"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 8,
+     "q": "Here's a yearbook pic of this future Secretary of State who played a lot of lacrosse & hockey",
+     "a": "Kerry",
+     "right": [
+      "Erica"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 11,
+     "q": "Genesis 8 tells us this came to rest \"upon the mountains of Ararat\"",
+     "a": "Noah's Ark",
+     "right": [
+      "Jon"
+     ],
+     "wrong": [
+      "Erica"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "Always in an empire-building state of mind, this rapper's businesses have included Rocawear clothing & Ace of Spades champagne",
+     "a": "Jay-Z",
+     "right": [
+      "Tamara"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 22,
+     "q": "His sexy writing from the shadows leads to Roxane telling him, \"I am trembling, weeping! I am thine!\", but there's a problem...",
+     "a": "Cyrano de Bergerac",
+     "right": [
+      "Tamara"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 17,
+     "q": "Get your pollo a la brasa from this, a small broiler with a motor-driven spit",
+     "a": "a rotisserie",
+     "right": [
+      "Jon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 9,
+     "q": "Janet Jackson's military-style dance moves in the video for this song scored an MTV VMA for Best Choreography",
+     "a": "\"Rhythm Nation\"",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 7,
+     "q": "In 2026 we learned the White House wanted Linda McMahon, sec. of this, to cut civil rights office staff from 530 to 271",
+     "a": "education",
+     "right": [
+      "Tamara"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 15,
+     "q": "You might remember from the old joke that no one is buried in this New York landmark, but a president & his wife are at rest there",
+     "a": "Grant's Tomb",
+     "right": [
+      "Tamara"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 2,
+     "q": "In 2010 a London bar patron popped for $75,000, including a $15,000 tip, for a 1996 Rose Gold bottle of this champagne à la monk",
+     "a": "Dom Pérignon",
+     "right": [
+      "Jon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 29,
+     "q": "Monogamy was not a priority for this legendary character who traces back to 1630's \"The Seducer of Seville\"",
+     "a": "Don Juan",
+     "right": [
+      "Tamara"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 18,
+     "q": "This word for nonsense is also the name of a board game that's similar to Fictionary",
+     "a": "balderdash",
+     "right": [
+      "Tamara"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 5,
+     "q": "The parenthetical title of this Beyoncé hit is \"Girls\"",
+     "a": "\"Run The World\"",
+     "right": [
+      "Tamara"
+     ],
+     "wrong": [
+      "Jon"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": true,
+     "order": 6,
+     "q": "Part of the \"shuttle diplomacy\" exercised by this Secretary of State led to resuming U.S./Egypt diplomatic relations",
+     "a": "Kissinger",
+     "right": [],
+     "wrong": [
+      "Tamara"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1200
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 26,
+     "q": "The title of this novel refers to a mother's agonizing decision at Auschwitz--which of her 2 children should die?",
+     "a": "Sophie's Choice",
+     "right": [
+      "Erica"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 16,
+     "q": "Drink up--we've got one of these champagne bottles that hold as much as 8 regular ones & bear the name of an aged man in Genesis",
+     "a": "Methuselah",
+     "right": [
+      "Jon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 21,
+     "q": "Anna Karenina says, \"I met\" this man \"at the railway station\", which doesn't foreshadow anything horrible at all",
+     "a": "Vronsky",
+     "right": [
+      "Erica"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 28,
+     "q": "During World War II Marines were issued the \"frog skin\" type of this",
+     "a": "camouflage",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 4,
+     "q": "Warren G used a sample of Michael McDonald's yacht rock classic \"I Keep Forgettin'\" as the basis for this G-funk classic",
+     "a": "\"Regulate\"",
+     "right": [
+      "Erica"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 25,
+     "q": "She served as Secretary of Labor for George W. Bush while her husband was a senator of attention",
+     "a": "Elaine Chao",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 24,
+     "q": "Unjustly convicted of treason, Alfred Dreyfus spent 4 years at this penal colony off South America",
+     "a": "Devil's Island",
+     "right": [],
+     "wrong": [
+      "Jon"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 19,
+     "q": "A kir royale sounds nice, but it's so complicated! This 3-word French liqueur, top with champagne & a lemon twist, oh wait, it's done",
+     "a": "crème de cassis",
+     "right": [
+      "Erica"
+     ],
+     "wrong": [
+      "Tamara"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 23,
+     "q": "Made at the same time as \"Dangerous Liaisons\", another film of the same novel gives Colin Firth the title role as this seducer",
+     "a": "(Viscount de) Valmont",
+     "right": [],
+     "wrong": [
+      "Jon"
+     ],
+     "stumper": true,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "U.S. \"CITY\" CITIES",
+    "DUAL BIOGRAPHIES",
+    "EARTH SCIENCE",
+    "BROADWAY MUSICALS BY CHARACTERS",
+    "TO THE CONTRARY!",
+    "ANTONYMS"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 24,
+     "q": "It's frequently referred to as the \"Las Vegas of the East\"",
+     "a": "Atlantic City",
+     "right": [
+      "Erica"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 30,
+     "q": "This couple who took their onscreen relationship in \"To Have and Have Not\" offscreen are the subject of a 2023 bio",
+     "a": "Bogart & Bacall",
+     "right": [
+      "Erica"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 8,
+     "q": "The focus is directly below this place where rock first breaks in an earthquake",
+     "a": "the epicenter",
+     "right": [
+      "Tamara"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 15,
+     "q": "Miss Hannigan & Daddy Warbucks",
+     "a": "Annie",
+     "right": [
+      "Tamara"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 18,
+     "q": "The official shelf life of this beloved sponge cake treat is 45 days, not decades as you might hear",
+     "a": "a Twinkie",
+     "right": [
+      "Erica"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 14,
+     "q": "Antonym of brighter seen here",
+     "a": "dimmer",
+     "right": [
+      "Jon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 25,
+     "q": "Who wants barbecue? We hear Arthur Bryant's, Q39 & L.C.'s have some of the best this city has to offer",
+     "a": "Kansas City",
+     "right": [
+      "Tamara"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 5,
+     "q": "\"Friends Divided\" is the story of these 2 Founding Fathers who died on the same day",
+     "a": "Adams & Jefferson",
+     "right": [
+      "Tamara"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "Gas-filled lava cools quickly to form this type of stone with many tiny holes--you can then use it to exfoliate your footsies",
+     "a": "pumice",
+     "right": [
+      "Jon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 16,
+     "q": "Elder Cunningham & Elder Price",
+     "a": "The Book of Mormon",
+     "right": [
+      "Tamara"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 19,
+     "q": "The English horn is not English, nor a horn; it is an alto variety of this 4-letter double reed instrument",
+     "a": "an oboe",
+     "right": [
+      "Tamara"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 13,
+     "q": "Of indiscriminate: this word parents know well, the title of a book on \"How American Children Became the Fussiest Eaters in History\"",
+     "a": "picky",
+     "right": [
+      "Erica"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 4,
+     "q": "It's the state capital named for the famous frontier scout seen here",
+     "a": "Carson City",
+     "right": [
+      "Erica"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": true,
+     "order": 7,
+     "q": "Stephen Ambrose titled a dual biography for these 2 warriors whose forces battled it out at the Battle of the Little Bighorn",
+     "a": "Custer & Crazy Horse",
+     "right": [],
+     "wrong": [
+      "Erica"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 200
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 10,
+     "q": "The movement of water from the Earth's surface to the atmosphere & back is this cycle with a name from Greek",
+     "a": "the hydrologic cycle",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 1,
+     "q": "MI5 staffer Hester Leggatt & British officer Ewen Montagu",
+     "a": "Operation Mincemeat",
+     "right": [
+      "Tamara"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 11,
+     "q": "Old Glory didn't always have 13 stripes; in 1795 2 more were added to rep these, the 14th & 15th states, but it went back to 13",
+     "a": "Vermont & Kentucky",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 12,
+     "q": "This opposite of \"infinite\" has followed \"Sunset\" & \"20th Century\" in train names",
+     "a": "limited",
+     "right": [
+      "Erica"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 6,
+     "q": "Noted for its white sand beaches, this popular spring break destination is the largest city between Pensacola & Tallahassee",
+     "a": "Panama City",
+     "right": [
+      "Erica"
+     ],
+     "wrong": [
+      "Tamara"
+     ],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 20,
+     "q": "She & Cesare are the subjects of a bio subtitled \"Brother & Sister of History's Most Vilified Family\"",
+     "a": "Lucrezia Borgia",
+     "right": [],
+     "wrong": [
+      "Tamara"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 26,
+     "q": "Sharing its name with a region of Italy, this type of glacier occurs when valley glaciers step over a mountain",
+     "a": "a piedmont",
+     "right": [],
+     "wrong": [
+      "Tamara"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2000
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 2,
+     "q": "Coalhouse Walker Jr. & Booker T. Washington",
+     "a": "Ragtime",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 17,
+     "q": "The largest pyramid in the world by volume isn't in Egypt--it's in Mexico, & it honored this plumed serpent god",
+     "a": "Quetzalcoatl",
+     "right": [
+      "Jon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 22,
+     "q": "Antonyms of \"to approach\" include this one with 3 E's in its 6 letters",
+     "a": "recede",
+     "right": [
+      "Jon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 9,
+     "q": "If you're traveling across northern Michigan, you might stop in this city for some fun at the National Cherry Festival",
+     "a": "Traverse City",
+     "right": [
+      "Tamara"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 28,
+     "q": "A dual bio tells of this influential first Jewish Supreme Court justice & this other Jewish justice who served from 1939 to 1962",
+     "a": "Louis Brandeis & Felix Frankfurter",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 27,
+     "q": "The Challenger Deep sits on one of these \"zones\" where the Pacific plate is going beneath the Philippine plate",
+     "a": "a subduction zone",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 3,
+     "q": "Opening in 2025: Bobby Darin & Sandra Dee",
+     "a": "Just In Time",
+     "right": [
+      "Tamara"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 21,
+     "q": "The Roman salute with extended arm wasn't used in Rome but was inspired by 1784's \"Oath of the Horatii\" by this French painter",
+     "a": "Jacques-Louis David",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 23,
+     "q": "Moribund, from Latin for \"to die\", can mean approaching death; this word, from Latin for \"to be born\", means new or just starting out",
+     "a": "nascent",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "19th CENTURY NAMES",
+  "q": "Yellow, this man's favorite color, was \"the symbol of the light that he dreamed of as being in people's hearts (&) in works of art\"",
+  "a": "(Vincent) van Gogh",
+  "right": [
+   "Jon",
+   "Tamara",
+   "Erica"
+  ],
+  "wrong": []
+ },
+ "gameId": "9569",
+ "cat_notes": {
+  "J": [
+   "Each answer is a 10-letter word or term related to 10-letter Vocab.",
+   "Each answer starts with “R”, and the clues are about Playing Song.",
+   "Clues about Secretarial Work.",
+   "The category “WHOSE WHAT?” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "Clues about Champagne.",
+   "Clues about Casanova."
+  ],
+  "DJ": [
+   "Each answer ends with “CITY”, and the clues are about U.S. Cities.",
+   "Clues about Dual Biographies.",
+   "Clues about Earth Science.",
+   "Clues about Broadway Musicals by Characters.",
+   "The category “TO THE CONTRARY!” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "Clues about Antonyms."
+  ],
+  "F": "Clues about 19th Century Names."
+ }
+}

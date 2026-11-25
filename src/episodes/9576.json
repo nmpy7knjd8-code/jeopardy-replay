@@ -1,0 +1,993 @@
+{
+ "show": "#9659",
+ "aired": "2026-11-12",
+ "note": "Will Goree game 3.",
+ "contestants": [
+  {
+   "name": "Pete Haskin",
+   "bio": "a graduate student from Montpelier, Vermont",
+   "short": "Pete"
+  },
+  {
+   "name": "Lilah Sturges",
+   "bio": "a writer and software developer from Portland, Oregon",
+   "short": "Lilah"
+  },
+  {
+   "name": "Will Goree",
+   "bio": "a teacher from Austin, Texas (whose 2-day cash winnings total $44,200)",
+   "short": "Will"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Will": 6800,
+   "Lilah": 1000,
+   "Pete": 400
+  },
+  "DJ": {
+   "Will": 19400,
+   "Lilah": 7800,
+   "Pete": 1600
+  },
+  "Final": {
+   "Will": 19400,
+   "Lilah": 10800,
+   "Pete": 1570
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "TRANSIT STATIONS OF THE CROSS",
+    "TEAMWORK IDIOMS",
+    "INSULTS IN SHAKESPEARE",
+    "NO-MANAGRAMMED SUPERHEROES",
+    "ONE OF 6",
+    "GAMES & HOBBIES"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 28,
+     "q": "Pacific Station is a development where the old bus station stood in this \"Holy Cross\" California city",
+     "a": "Santa Cruz",
+     "right": [
+      "Will"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 25,
+     "q": "We all agree about what to do--\"we're all on\" this part of a book",
+     "a": "the same page",
+     "right": [
+      "Pete"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 16,
+     "q": "In \"Henry IV, Part I\", this guy tells Mistress Quickly, \"There's no more faith in thee than a stewed prune\"",
+     "a": "Falstaff",
+     "right": [
+      "Pete"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 30,
+     "q": "A member of an African royal family:\nELK BRANCH TAP",
+     "a": "Black Panther",
+     "right": [
+      "Will"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 29,
+     "q": "It's the largest in area of the 6 New England states",
+     "a": "Maine",
+     "right": [
+      "Pete"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 24,
+     "q": "You can use a Laser Pointer card to defuse the title card in the game called \"Exploding\" these",
+     "a": "Kittens",
+     "right": [
+      "Will"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "A bit north of the British Museum, it opened in the 1850s as England's largest train station",
+     "a": "King's Cross",
+     "right": [
+      "Will"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 10,
+     "q": "This bit of business jargon means to make contact with, something you need to do to be safe on a baseball diamond",
+     "a": "touch base",
+     "right": [
+      "Lilah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 15,
+     "q": "Has she been tamed when she goes off at a banquet saying, \"Come, come, you froward & unable worms!\"",
+     "a": "Katherine",
+     "right": [
+      "Will"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 5,
+     "q": "Saw lots of action during World War II:\nA CERAMIC PIÑATA",
+     "a": "Captain America",
+     "right": [
+      "Lilah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 9,
+     "q": "Of the 6 naturally occurring noble gases, this one, atomic number 10, is used in specialty lasers",
+     "a": "neon",
+     "right": [],
+     "wrong": [
+      "Will",
+      "Lilah"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 23,
+     "q": "In 2026 this company released \"Star Wars\" sets with 2x4 Smart Bricks with lights & sounds",
+     "a": "Lego",
+     "right": [
+      "Will"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 26,
+     "q": "Gas up at the Phillips 66 station in Walnut Shade, Missouri, & go see the giant cross named for this Ozark tourist hub",
+     "a": "Branson",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 11,
+     "q": "It's time to do the hard work, so it's time to do this, a shirt-related idiom",
+     "a": "roll up one's sleeves",
+     "right": [
+      "Will"
+     ],
+     "wrong": [
+      "Pete"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 1,
+     "q": "Helena loves Demetrius in this play, but Demetrius tells her, \"I am sick when I do look on thee\"; more like a nightmare!",
+     "a": "A Midsummer Night's Dream",
+     "right": [
+      "Pete"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 4,
+     "q": "She was trained to be a supervillain:\nCOW WALK BID",
+     "a": "Black Widow",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 8,
+     "q": "Of the 6 pieces in chess, it's first alphabetically",
+     "a": "a bishop",
+     "right": [
+      "Will"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 22,
+     "q": "Leonida, San Andreas & Vice City are places in this game series",
+     "a": "Grand Theft Auto",
+     "right": [
+      "Will"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": true,
+     "order": 13,
+     "q": "From this city's Waverley Station, it's about a 15-minute walk to the Palace of Holyrood (\"Holy Cross\") House",
+     "a": "Edinburgh",
+     "right": [],
+     "wrong": [
+      "Lilah"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1200
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 12,
+     "q": "We're going to need everyone, so it's this phrase originally used during nautical emergencies",
+     "a": "all hands on deck",
+     "right": [
+      "Lilah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 2,
+     "q": "Oh, snap! Orlando in this comedy tells the gloomy Jaques, \"I do desire we may be better strangers\"",
+     "a": "As You Like It",
+     "right": [
+      "Will"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 7,
+     "q": "Certain senses greatly enhanced:\nEVIL DREAD",
+     "a": "Daredevil",
+     "right": [
+      "Will"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 20,
+     "q": "Stretching down to about 44 degrees, it reaches the farthest south of the 6 Australian states",
+     "a": "Tasmania",
+     "right": [
+      "Pete"
+     ],
+     "wrong": [
+      "Will"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 6,
+     "q": "Noodling is doing this with your bare hands, often standing in a river",
+     "a": "catfishing (catching fish)",
+     "right": [
+      "Will"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 21,
+     "q": "From Skopje Train Station in this country, we're guessing you can see the 217-foot Millennium Cross atop 3,500-foot Mount Vodno",
+     "a": "North Macedonia",
+     "right": [
+      "Will"
+     ],
+     "wrong": [
+      "Pete"
+     ],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 17,
+     "q": "We worked together seamlessly & efficiently--we're this type of mechanism that's not going to rust",
+     "a": "a well-oiled machine",
+     "right": [
+      "Lilah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 3,
+     "q": "The insult-spewing Thersites calls this title character \"that same young Trojan ass\" & has worse to say about the woman he woos",
+     "a": "Troilus",
+     "right": [
+      "Will"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 14,
+     "q": "From the deep & a favorite of Alex Trebek:\nRUMBA-SIREN",
+     "a": "Sub-Mariner",
+     "right": [],
+     "wrong": [
+      "Pete"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 19,
+     "q": "Henry VIII's final wife of six, she herself had been widowed twice before",
+     "a": "Catherine Parr",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 18,
+     "q": "Made from petroleum, this type of wax is popular for making candles since it binds well to fragrance oils",
+     "a": "paraffin",
+     "right": [
+      "Pete"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "HELLO, DARKNESS",
+    "DINOSAUR DISCOVERIES",
+    "NAMED FOR WHAT?",
+    "LITERARY MUSIC",
+    "INTERNATIONAL INCIDENTS",
+    "IN YOUR DREAMS"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 30,
+     "q": "The 10 plagues of Egypt, including darkness, are recounted during this Jewish holiday",
+     "a": "Passover",
+     "right": [
+      "Lilah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 8,
+     "q": "Niger's Spinosaurus mirabilis had teeth equipped for trapping & eating these, its main diet, especially slippery ones",
+     "a": "fish",
+     "right": [
+      "Pete"
+     ],
+     "wrong": [
+      "Will"
+     ],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 24,
+     "q": "Paris Hilton named her daughter this, saying \"It's my favorite city\" & sounds cute together with Paris",
+     "a": "London",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 29,
+     "q": "Springsteen had a song & an album called \"The Ghost of\" him, a character from \"The Grapes of Wrath\"",
+     "a": "Tom Joad",
+     "right": [
+      "Will"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 28,
+     "q": "The United States' 1798-1800 quasi-war with France was precipitated by this end-of-the-alphabet \"Affair\"",
+     "a": "the XYZ Affair",
+     "right": [
+      "Will"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "Reinforced, like vehicles used to carry cash",
+     "a": "armored",
+     "right": [
+      "Will"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 9,
+     "q": "1930s astronomers inferred the universe must have this hard-to-spot \"missing mass\"; it was finally detected in the 1970s",
+     "a": "dark matter",
+     "right": [
+      "Lilah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 14,
+     "q": "Dinosaur family life was reimagined after the find of 14 of these homes for Maiasaura--dinos are the ancestors of birds, after all",
+     "a": "nests",
+     "right": [
+      "Lilah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 23,
+     "q": "NBA all-star Pascal Siakam was born on the eve of this Christian holiday in 1994",
+     "a": "Easter",
+     "right": [
+      "Pete"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 25,
+     "q": "The video for this song opens with Taylor Swift emerging as if from the canvas of a painting by Friedrich Heyser",
+     "a": "\"The Fate Of Ophelia\"",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 26,
+     "q": "In 2023 Russian fighters intercepted a U.S. MQ-9 Reaper, this type of craft, & caused it to crash into the Black Sea",
+     "a": "a drone",
+     "right": [
+      "Pete"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 16,
+     "q": "A tool for cleaning a gun barrel, or an adjective meaning rigid",
+     "a": "ramrod",
+     "right": [
+      "Will"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 4,
+     "q": "The Whigs asked, \"Who is\" this guy, the first dark horse nominee for U.S. president; the response came when he won the election",
+     "a": "(James K.) Polk",
+     "right": [
+      "Pete"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 22,
+     "q": "\"Mega\" this, meaning \"thief\", was found & named in the last 30 or so years & was the apex predator of South America",
+     "a": "raptor",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": true,
+     "order": 20,
+     "q": "Robin Williams' love of video games led to this name for his daughter",
+     "a": "Zelda",
+     "right": [],
+     "wrong": [
+      "Pete"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 8000
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 2,
+     "q": "\"Alright\", a track from his album \"To Pimp a Butterfly\", paraphrases the line \"All my life I had to fight\" from \"The Color Purple\"",
+     "a": "Kendrick Lamar",
+     "right": [
+      "Will"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 13,
+     "q": "Wilhelm II sparked a crisis on a 1905 visit to Tangier when he declared that this nation shouldn't be under France's thumb",
+     "a": "Morocco",
+     "right": [
+      "Will"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 3,
+     "q": "A breed of sled dog",
+     "a": "a Samoyed",
+     "right": [
+      "Lilah"
+     ],
+     "wrong": [
+      "Pete"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 5,
+     "q": "This 14th century sonneteer thought the Middle Ages were a comparative bummer & came up with the name the Dark Ages",
+     "a": "Petrarch",
+     "right": [
+      "Pete"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 21,
+     "q": "Allosaurus jimmadseni, found in Dinosaur National Monument, was named for James Madsen, the first man in this state job for Utah",
+     "a": "State Paleontologist",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 10,
+     "q": "She's named after a store whose air rights were part of one of her dad's big deals",
+     "a": "Tiffany Trump",
+     "right": [
+      "Pete"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 1,
+     "q": "\"Don't Stand So Close To Me\" alludes to a novel by this Russian author, with Sting rhyming his last name with \"shake & cough\"",
+     "a": "Nabokov",
+     "right": [
+      "Will"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 12,
+     "q": "After the 1898 Fashoda Incident, the watershed between the Nile & this river divided British Africa from French Africa",
+     "a": "the Congo River",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 15,
+     "q": "Zeal or passion",
+     "a": "ardor",
+     "right": [
+      "Lilah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 6,
+     "q": "In a quote from the King James Version's 1 Corinthians, \"We see\" this 4-word way, meaning imperfectly",
+     "a": "through a glass darkly",
+     "right": [
+      "Will"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 19,
+     "q": "These four letters, a mythic Asian serpent, precede titan in the name of a 90-foot long dino recently found in Thailand",
+     "a": "Naga",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 11,
+     "q": "Richard Burton had a brother born in 1916 & named for this battle in France for most of that year that repulsed a German advance",
+     "a": "Verdun",
+     "right": [
+      "Lilah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": true,
+     "order": 7,
+     "q": "Lana Del Rey's \"Body Electric\" alludes to a poem by this man, called \"My Daddy\" in the lyrics",
+     "a": "Walt Whitman",
+     "right": [
+      "Will"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 5000
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 18,
+     "q": "After the arrest of some American sailors, in 1914 U.S. forces occupied this port on Mexico's east coast",
+     "a": "Veracruz",
+     "right": [
+      "Pete"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 17,
+     "q": "Oh, the times! Oh, the Customs! Oh, this other word referring to the customs!",
+     "a": "mores",
+     "right": [
+      "Pete"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "MOUNTAIN LORE",
+  "q": "In 1923 Pope Pius XI declared this 11th century man the patron of mountaineers & the people of the Alps",
+  "a": "St. Bernard",
+  "right": [
+   "Lilah",
+   "Will"
+  ],
+  "wrong": [
+   "Pete"
+  ]
+ },
+ "gameId": "9576",
+ "cat_notes": {
+  "J": [
+   "Clues about Transit Stations of the Cross.",
+   "Clues about Teamwork Idioms.",
+   "Clues about Insults in Shakespeare.",
+   "Because none of their names will contain \"man\".",
+   "Clues about One of 6.",
+   "Clues about Games and Hobbies."
+  ],
+  "DJ": [
+   "Clues about Hello, Darkness.",
+   "Clues about Dinosaur Discoveries.",
+   "The category “NAMED FOR WHAT?” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "Clues about Literary Music.",
+   "Clues about International Incidents.",
+   "Every response here made up of letters in the words \"your dreams\"."
+  ],
+  "F": "Clues about Mountain Lore."
+ }
+}

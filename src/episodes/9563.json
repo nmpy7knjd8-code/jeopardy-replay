@@ -1,0 +1,978 @@
+{
+ "show": "#9646",
+ "aired": "2026-10-26",
+ "note": "",
+ "contestants": [
+  {
+   "name": "Jamie Calandro",
+   "bio": "a high school music teacher from Ellsworth, Maine",
+   "short": "Jamie"
+  },
+  {
+   "name": "Karen Bradley",
+   "bio": "a regulatory operations director from Long Island City, New York",
+   "short": "Karen"
+  },
+  {
+   "name": "Shannon Leigh Godwin",
+   "bio": "an interior designer from Oakland, California (whose 1-day cash winnings total $16,001)",
+   "short": "Shannon"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Shannon": 4200,
+   "Karen": 2000,
+   "Jamie": 400
+  },
+  "DJ": {
+   "Shannon": 8200,
+   "Karen": 3600,
+   "Jamie": 4800
+  },
+  "Final": {
+   "Shannon": 9601,
+   "Karen": 6900,
+   "Jamie": 1399
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "PARTS OF SPEECH",
+    "IN GOOD COMPANY",
+    "TV-POURRI",
+    "ALL I NEED",
+    "IN THIS LIFE OF SIN",
+    "IS ME & MY SQUIRREL FRIEND"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 29,
+     "q": "Michael was feeling generous & gave everyone raises! Thank you, Michael!:\ngave",
+     "a": "verb",
+     "right": [
+      "Jamie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 16,
+     "q": "This holding company formed in 2015 has the unique web address abc.xyz",
+     "a": "Alphabet",
+     "right": [
+      "Karen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 10,
+     "q": "Naturally, music by this composer is heard throughout the Netflix series \"The Four Seasons\"",
+     "a": "Vivaldi",
+     "right": [
+      "Shannon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 22,
+     "q": "Now that it's sweater weather, I'll get one of these lattes from Starbucks partly made with a purée from a winter squash",
+     "a": "a pumpkin spice latte",
+     "right": [
+      "Shannon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 24,
+     "q": "He was banished to the Land of Nod after committing fratricide in Genesis",
+     "a": "Cain",
+     "right": [
+      "Shannon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 28,
+     "q": "These burrowing \"puppies\" of the squirrel family like to hang out; a Texas colony of black-tailed ones totaled 400 million",
+     "a": "prairie dogs",
+     "right": [
+      "Jamie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 11,
+     "q": "Oh, pish! I do not use words from the 16th century! Or do I?:\npish",
+     "a": "interjection",
+     "right": [
+      "Jamie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 8,
+     "q": "Its original logo was a black & white rendering of a mussel exoskeleton, then a scallop, then the red & yellow scallop of today",
+     "a": "Shell (Oil)",
+     "right": [
+      "Shannon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 4,
+     "q": "She's \"Got Money Troubles\", a book-to-TV adaptation, stars Elle Fanning as the struggling single mom",
+     "a": "Margo",
+     "right": [
+      "Shannon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 3,
+     "q": "My Uber got lost & dropped me off in the woods! I need to build an Adirondack type of this hyphenated, 3-sided sloped shelter",
+     "a": "lean-to",
+     "right": [
+      "Jamie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 17,
+     "q": "The scheming Herodias got this daughter to dance for Herod & then ask for John the Baptist's head on a platter",
+     "a": "Salome",
+     "right": [
+      "Shannon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 21,
+     "q": "The 1870s push to introduce eastern gray squirrels into urban areas led to a few thousand in this NYC locale completed in the same decade",
+     "a": "Central Park",
+     "right": [
+      "Karen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 25,
+     "q": "I asked Gary, \"Do you like my parachute pants?\" But ze just rolled zir eyes:\nze",
+     "a": "a pronoun",
+     "right": [
+      "Shannon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 12,
+     "q": "A red umbrella became the official trademark of this insurance company in 1959",
+     "a": "Travelers",
+     "right": [],
+     "wrong": [
+      "Karen",
+      "Jamie"
+     ],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 2,
+     "q": "You can watch this series with Nicolas Cage as 1930s P.I. Ben Reilly in Authentic Black & White or in True-Hue Full Color",
+     "a": "Spider-Noir",
+     "right": [
+      "Shannon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 5,
+     "q": "My office is a mess! I need one of these vacuums with a name that sounds like a dance--hopefully it doesn't become my supreme overlord",
+     "a": "Roomba",
+     "right": [
+      "Jamie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 9,
+     "q": "This guy from Tarsus persecuted early Christians, but he figured it out on the road to Damascus",
+     "a": "Saul (Paul)",
+     "right": [
+      "Karen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 20,
+     "q": "In his 1894 book \"The Mountains of California\", he calls the Douglas squirrel \"a fiery, sputtering little bolt of life\"",
+     "a": "(John) Muir",
+     "right": [
+      "Karen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 26,
+     "q": "We would never act terribly & go for a certain part of speech in a form that doesn't immediately give it away: never",
+     "a": "an adverb",
+     "right": [
+      "Shannon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 13,
+     "q": "As CEO of Disney, he counted among his achievements the acquisition of Pixar & Marvel Studios",
+     "a": "Bob Iger",
+     "right": [
+      "Shannon"
+     ],
+     "wrong": [
+      "Jamie"
+     ],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 1,
+     "q": "The title of this series refers to a wee stuffed animal that stalker Martha thinks Donny looks like",
+     "a": "Baby Reindeer",
+     "right": [
+      "Shannon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 6,
+     "q": "Some gray hairs make me think I need to find this place--Herodotus & some 16th century Spanish chroniclers wrote of it",
+     "a": "the Fountain of Youth",
+     "right": [
+      "Karen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": true,
+     "order": 14,
+     "q": "Famous Phoenician women include this biblical wife of King Ahab--who was not, shall we say, a paragon of virtue",
+     "a": "Jezebel",
+     "right": [],
+     "wrong": [
+      "Shannon"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 3000
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 18,
+     "q": "With one exception, all 25 species of these small, striped squirrels are North American",
+     "a": "a chipmunk",
+     "right": [
+      "Shannon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 27,
+     "q": "Brunhilde is very tall vis-à-vis that 2-month-old baby:\nvis-à-vis",
+     "a": "a preposition",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 15,
+     "q": "This maker of semiconductors is based in San Diego, where it formerly had its name on the Chargers' home stadium",
+     "a": "Qualcomm",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 7,
+     "q": "Chase Infiniti stars in this series, a sequel to \"The Handmaid's Tale\"",
+     "a": "The Testaments",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 23,
+     "q": "I need to focus on bone health, maybe get some greens high in this letter-perfect vitamin given at birth to newborns",
+     "a": "K",
+     "right": [
+      "Shannon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 30,
+     "q": "John calls this man who gets a reprieve from Pilate a bandit; Matthew calls him \"a notorious prisoner\"",
+     "a": "Barabbas",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 19,
+     "q": "Some sharks will die if they stop swimming; some squirrels will die if they stop gnawing with these teeth that grow 6\" a year",
+     "a": "incisors",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "THE WORLD LEADER'S HAIKU",
+    "GETTING YOUR \"B.A.\"",
+    "AMERICAN BODIES OF WATER",
+    "COMING UP SHORT",
+    "PLEASING POETRY",
+    "CONTROVERSIAL MOVIE VILLAINS"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 24,
+     "q": "Hey, that's Justin's dad! / Big anti-separatist / He dated Streisand?!",
+     "a": "Pierre Trudeau",
+     "right": [],
+     "wrong": [
+      "Karen",
+      "Jamie"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 18,
+     "q": "There's a saying about this type, the one person whose behavior reflects poorly on the rest of the bunch",
+     "a": "a bad apple",
+     "right": [
+      "Shannon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 21,
+     "q": "Don't overthink it--this is the state where Lake Minnetonka feeds Minnehaha Creek",
+     "a": "Minnesota",
+     "right": [
+      "Karen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 26,
+     "q": "Here's an FAQ--FAQ is short for these, especially on a website",
+     "a": "frequently asked questions",
+     "right": [
+      "Jamie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 28,
+     "q": "Shakespeare rhymed, \"Shall I compare thee to a summer's day?\" with \"Rough winds do shake the darling buds of\" this",
+     "a": "May",
+     "right": [
+      "Shannon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 25,
+     "q": "Not only does this character leave Jack to freeze, she also throws a piece of jewelry into the sea that could have gone to charity",
+     "a": "Rose",
+     "right": [
+      "Jamie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 14,
+     "q": "Spain's \"El Caudillo\" / Ostracized by the U.N. / A Civil War vet",
+     "a": "Franco",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 1,
+     "q": "This term for a primate that lives in Gibraltar is technically incorrect--it's actually a macaque",
+     "a": "a Barbary ape",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 6,
+     "q": "In Gore Canyon on the Colorado, you'll find Class V these, if that's what you're seeking",
+     "a": "rapids",
+     "right": [
+      "Shannon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 4,
+     "q": "In 1987 the H was added to A.D.D., making it ADHD, short for this disorder",
+     "a": "attention deficit hyperactive disorder",
+     "right": [
+      "Jamie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 27,
+     "q": "\"I wandered lonely as a cloud... when all at once I saw a crowd, a host, of golden\" these flowers",
+     "a": "daffodils",
+     "right": [
+      "Shannon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 10,
+     "q": "Are we really supposed to root for Joe Fox, a destroyer of indie bookstores in this film, just cuz he's Tom Hanks?",
+     "a": "You've Got Mail",
+     "right": [
+      "Shannon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 15,
+     "q": "Ranking general / Operation Just Cause... ouch / Big cocaine problem",
+     "a": "Manuel Noriega",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 2,
+     "q": "A quote from \"Fight Club\": \"I ran until my muscles burned & my veins pumped\" this corrosive fluid",
+     "a": "battery acid",
+     "right": [
+      "Karen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 3,
+     "q": "Got a statement for you: This Great Lake follows \"Port\" in the name of a city on Michigan's Thumbcoast",
+     "a": "Huron",
+     "right": [
+      "Shannon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 5,
+     "q": "President Garfield's wife went by the nickname \"Crete\", short for this first name",
+     "a": "Lucretia",
+     "right": [
+      "Karen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 7,
+     "q": "Sara Teasdale wrote, \"There will come soft\" these \"& the smell of the ground, & swallows circling with their shimmering sound\"",
+     "a": "rains",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 9,
+     "q": "This man may not be treacherous but he fakes being bedridden for years & only gets out of bed to go to a candy factory with Charlie",
+     "a": "Grandpa Joe",
+     "right": [
+      "Jamie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 22,
+     "q": "One-kid policy / Took 1930s Long March / Mao, then Hua, then him",
+     "a": "Deng Xiaoping",
+     "right": [],
+     "wrong": [
+      "Karen"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2000
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 12,
+     "q": "This plant is the source of tequila & syrup that's used as a natural sweetener",
+     "a": "blue agave",
+     "right": [
+      "Karen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 16,
+     "q": "This stately gulf stretches from Cape Cod to Nova Scotia & has some really pretty sunrises",
+     "a": "the Gulf of Maine",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 19,
+     "q": "Among NASA's goals for this, the JWST, is to search for the first galaxies & other luminous objects formed after the Big Bang",
+     "a": "the James Webb Space Telescope",
+     "right": [
+      "Karen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 29,
+     "q": "\"On a beautiful summer evening\", said his wife, \"the carolling of the skylark\" inspired one of his most beautiful poems",
+     "a": "Shelley",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 8,
+     "q": "Some fans say this actor in \"The Devil Wears Prada\" is the real villain since he is whiny & not supportive of his girlfriend, Anne Hathaway",
+     "a": "(Adrian) Grenier",
+     "right": [
+      "Shannon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 23,
+     "q": "Politburo dude / Would you care for some SALT II? / And then there are those",
+     "a": "Brezhnev",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 13,
+     "q": "Opened in Manhattan in 1907, the Plaza Hotel boasts decor in this French-named style",
+     "a": "Beaux-Arts",
+     "right": [
+      "Karen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 17,
+     "q": "He's responsible for the name of Flaming Gorge Reservoir in Northeast Utah & has another manmade lake in Southeast Utah named for him",
+     "a": "(John Wesley) Powell",
+     "right": [],
+     "wrong": [
+      "Shannon"
+     ],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": true,
+     "order": 20,
+     "q": "The Roman numerals for 1900 can also be used as an abbreviation for this design style that emerged in the 1900s",
+     "a": "Mid-Century Modern",
+     "right": [],
+     "wrong": [
+      "Karen"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 4000
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 30,
+     "q": "Yeats' poem \"The Lake Isle of\" this place says, \"Will I have there, a hive for the honey-bee, & live alone in the bee-loud glade\"",
+     "a": "Innisfree",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 11,
+     "q": "Are dinos the bad guys of \"Jurassic Park\"? Or is it him as owner Hammond, practically dishing his grandkids to a hungry T-Rex",
+     "a": "Richard Attenborough",
+     "right": [
+      "Jamie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "TRIBUTES",
+  "q": "To honor the 126th birthday of this Nobel Prize winner, a Google Doodle featured a cat & a feline ghost",
+  "a": "(Erwin) Schrödinger",
+  "right": [
+   "Karen",
+   "Shannon"
+  ],
+  "wrong": [
+   "Jamie"
+  ]
+ },
+ "gameId": "9563",
+ "cat_notes": {
+  "J": [
+   "You'll have to name the part of speech for the word we flag in each clue.",
+   "Clues in Good Company.",
+   "A mixed potpourri of TV-related clues.",
+   "The category “ALL I NEED” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "Clues in This Life of Sin.",
+   "Clues about Is Me and My Squirrel Friend."
+  ],
+  "DJ": [
+   "Clues about The World Leader's Haiku.",
+   "Each answer is formed from the initials B.A, and the clues are about Getting Your.",
+   "Clues about American Bodies of Water.",
+   "Clues about Coming Up Short.",
+   "Clues about Pleasing Poetry.",
+   "Clues about Controversial Movie Villains."
+  ],
+  "F": "Clues about Tributes."
+ }
+}
