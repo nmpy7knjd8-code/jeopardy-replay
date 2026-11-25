@@ -475,10 +475,26 @@ const DIFF={
     }
     return ELO.rgb(s[s.length-1].color);
   },
+  // Bands, shown as a short uppercase label plus the 1–10 number
+  // in the same muted date-line style: Easy 1–2, Fair 3–4, Medium 5–6,
+  // Hard 7–8, Brutal 9–10.
+  bands:[
+    {max:2,label:'Easy'},
+    {max:4,label:'Fair'},
+    {max:6,label:'Medium'},
+    {max:8,label:'Hard'},
+    {max:10,label:'Brutal'}
+  ],
+  label(n){
+    const v=Math.max(1,Math.min(10,Math.round(+n||1)));
+    const band=this.bands.find(b=>v<=b.max)||this.bands[this.bands.length-1];
+    return band.label;
+  },
   badge(n){
     if(n==null||!isFinite(n))return '';
     const v=Math.max(1,Math.min(10,Math.round(n)));
-    return `<span class="diff" style="color:${this.color(v)}" title="Difficulty ${v} of 10" aria-label="Difficulty ${v} of 10">${v}</span>`;
+    const word=this.label(v);
+    return `<span class="diff" style="color:${this.color(v)}" title="Difficulty ${v} of 10, ${word}" aria-label="Difficulty ${v} of 10, ${word}"><span class="diffl">${esc(word)}</span> ${v}</span>`;
   }
 };
 
