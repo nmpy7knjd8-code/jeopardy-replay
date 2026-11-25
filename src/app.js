@@ -777,8 +777,11 @@ hud.addEventListener('click',e=>{const m=e.target.closest('#mute');if(m){G.sound
     Voice.setMute(!G.voiceMute);refreshVmute();vm.blur();return
   }
   if(e.target.closest('#pause')){togglePause();const b=e.target.closest('#pause');if(b)b.blur();return}
-  if(G.paused)return;
-  if(e.target.closest('#ff'))fastForward();if(e.target.closest('#rskip'))skipRound();if(e.target.closest('#home'))askLeave()});
+  // HUD controls must work while paused (the veil only covers the board).
+  if(e.target.closest('#home')){askLeave();return}
+  if(e.target.closest('#ff')){if(G.paused)setPaused(false);fastForward();return}
+  if(e.target.closest('#rskip')){if(G.paused)setPaused(false);skipRound();return}
+});
 
 /* ---------- timers ---------- */
 const sched=[];
@@ -835,7 +838,8 @@ function pauseOverlay(){
     el.setAttribute('role','button');el.setAttribute('aria-label','Resume');
     el.innerHTML='<div class="pauselabel">Paused</div>';
     el.addEventListener('click',()=>{if(G.paused)setPaused(false)});
-    appEl.appendChild(el);
+    // Sit on the stage so the HUD (home, mute, skip, pause) stays clickable.
+    stage.appendChild(el);
   }
   return el;
 }
@@ -1401,7 +1405,7 @@ function choose(){
   return {clue:pool[pool.length-1],jump};
 }
 function skipRound(){
-  if(G.paused)return;
+  if(G.paused)setPaused(false);
   if(G.round!=='J'&&G.round!=='DJ')return;
   const from=G.round;clearTimers();setLights(null);G.pending=null;G.clue=null;
   if(document.activeElement&&document.activeElement.blur)document.activeElement.blur();
@@ -1409,7 +1413,7 @@ function skipRound(){
   from==='J'?startRound('DJ'):finalIntro();
 }
 function fastForward(){
-  if(G.paused)return;
+  if(G.paused)setPaused(false);
   if(G.state==='board'){clearTimers();pickNext()}
   else if(G.state==='picking'||G.state==='ddsplash'){clearTimers();const f=G.pending;G.pending=null;f&&f()}
 }
