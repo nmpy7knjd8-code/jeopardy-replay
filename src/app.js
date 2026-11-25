@@ -358,18 +358,19 @@ const SPEED={
  *    the next game's expected scores.
  *
  * 3. Display only. ELO is never used to scale SPEED / True Score / tau.
- *    Color is by tier (thresholds below): muted gray-blue, white,
- *    light gold, bright gold-orange.
+ *    Color is a continuous red → yellow → green gradient interpolated
+ *    across the tier thresholds below (soft/light tones so the number
+ *    stays readable on the blue end-screen background).
  */
 const ELO={
   start:1500,
   k:20,
   blend:0.25,
   tiers:[
-    {min:0,    color:'#9aa8c8', name:'low'},
-    {min:1400, color:'#f3f5ff', name:'average'},
-    {min:1600, color:'#e6c56a', name:'strong'},
-    {min:1800, color:'#ff9d3d', name:'elite'}
+    {min:0,    color:'#ff8a7a', name:'low'},
+    {min:1400, color:'#ffe28a', name:'average'},
+    {min:1600, color:'#c8e89a', name:'strong'},
+    {min:1800, color:'#8ee6a8', name:'elite'}
   ],
   data:null,
   load(){
@@ -393,10 +394,27 @@ const ELO={
     if(gameId!=null&&p.b&&p.b[gameId]!=null)return p.b[gameId];
     return p.e!=null?p.e:null;
   },
+  hexRgb(h){
+    const n=String(h).replace('#','');
+    return [parseInt(n.slice(0,2),16),parseInt(n.slice(2,4),16),parseInt(n.slice(4,6),16)];
+  },
+  lerpHex(a,b,t){
+    const A=this.hexRgb(a),B=this.hexRgb(b);
+    const c=A.map((x,i)=>Math.round(x+(B[i]-x)*Math.min(1,Math.max(0,t))));
+    return `rgb(${c[0]}, ${c[1]}, ${c[2]})`;
+  },
+  rgb(c){return this.lerpHex(c,c,0)},
   color(n){
-    let c=this.tiers[0].color;
-    for(const t of this.tiers) if(n>=t.min) c=t.color;
-    return c;
+    const ts=this.tiers;
+    if(!ts.length||n==null||!isFinite(n))return this.rgb((ts[0]&&ts[0].color)||'#ffffff');
+    if(n<=ts[0].min)return this.rgb(ts[0].color);
+    for(let i=1;i<ts.length;i++){
+      if(n<=ts[i].min){
+        const span=ts[i].min-ts[i-1].min;
+        return this.lerpHex(ts[i-1].color,ts[i].color,span?(n-ts[i-1].min)/span:1);
+      }
+    }
+    return this.rgb(ts[ts.length-1].color);
   },
   badge(n){
     if(n==null||!isFinite(n))return '';
@@ -886,7 +904,7 @@ function intro(){
   }
   function cardShell(e,i,extraClass,inner){
     const on=i===pick?' sel':'';
-    return `<div class="ep${on}${extraClass}" data-i="${i}" role="button" tabindex="0">
+    return `<div class="ep${on}${extraClass}" data-i="${i}" data-id="${e.gameId}" role="button" tabindex="0">
         <span class="ed">${esc(e.show)} · ${fmt(e)}</span>
         <span class="en">${e.contestants.map(c=>esc(c.short)).join(' · ')}</span>${inner}</div>`;
   }
@@ -902,7 +920,7 @@ function intro(){
   function progressHtml(){
     const rows=progressRows();
     if(!rows.length)return `<div class="empty">No games in progress.</div>`;
-    return rows.map(({e,i,sv})=>cardShell(e,i,' mid',`<span class="estatus">${esc(progressStatus(sv))}</span>`)).join('');
+    return rows.map(({e,i,sv})=>cardShell(e,i,' mid',`<span class="estatus">${esc(progressStatus(sv))}</span><button type="button" class="delprog" aria-label="Delete saved progress" title="Delete saved progress">×</button>`)).join('');
   }
   function finishedHtml(){
     const rows=finishedRows();
@@ -950,7 +968,7 @@ function intro(){
     const mid=readProgress(CATALOG[pick].gameId);
     const box=$('#goactions');
     if(mid){
-      box.innerHTML=`<button class="btn" id="go">Resume</button><button class="btn ghost" id="restart" type="button">Restart</button>`;
+      box.innerHTML=`<button class="btn" id="go">Resume</button><button class="btn ghost" id="restart" type="button">Restart</button><button type="button" class="delprog" id="delprog" aria-label="Delete saved progress" title="Delete saved progress">×</button>`;
     }else{
       box.innerHTML=`<button class="btn" id="go">Start</button>`;
     }
@@ -968,6 +986,30 @@ function intro(){
     };
     $('#go').onclick=()=>begin(!!mid);
     const rs=$('#restart');if(rs)rs.onclick=()=>{clearProgress(CATALOG[pick].gameId);begin(false)};
+    const dp=$('#delprog');if(dp)dp.onclick=e=>{e.preventDefault();e.stopPropagation();askDeleteProgress(CATALOG[pick].gameId)};
+  }
+  function refreshTabCounts(){
+    const c=tabCounts();
+    document.querySelectorAll('.ptab').forEach(b=>{
+      const span=b.querySelector('.pcnt');
+      if(span&&c[b.dataset.tab]!=null)span.textContent=c[b.dataset.tab];
+    });
+  }
+  function refreshPicker(){
+    refreshTabCounts();
+    const grid=$('#epgrid');
+    if(grid)grid.innerHTML=gridHtml();
+    bindCards();
+    ensurePickVisible();
+  }
+  function askDeleteProgress(id){
+    if($('.leave'))return;
+    const box=document.createElement('div');box.className='leave';
+    box.setAttribute('role','dialog');box.setAttribute('aria-label','Delete saved progress?');
+    box.innerHTML='<div class="leavecard"><div class="leaveq">Delete saved progress?</div><div class="leaverow"><button type="button" class="btn" id="dely">Delete</button><button type="button" class="btn ghost" id="deln">Cancel</button></div></div>';
+    appEl.appendChild(box);
+    $('#deln').onclick=()=>box.remove();
+    $('#dely').onclick=()=>{clearProgress(id);box.remove();refreshPicker()};
   }
   function selectCard(i){
     pick=+i;SHOW=CATALOG[pick];
@@ -977,11 +1019,11 @@ function intro(){
   function bindCards(){
     document.querySelectorAll('.ep').forEach(b=>{
       b.onclick=e=>{
-        if(e.target.closest('.playtog'))return;
+        if(e.target.closest('.playtog,.delprog'))return;
         selectCard(b.dataset.i);
       };
       b.onkeydown=e=>{
-        if(e.target.closest('.playtog'))return;
+        if(e.target.closest('.playtog,.delprog'))return;
         if(e.key==='Enter'||e.key===' '){e.preventDefault();selectCard(b.dataset.i)}
       };
     });
@@ -994,6 +1036,15 @@ function intro(){
         btn.setAttribute('aria-expanded',open?'true':'false');
         const list=card.querySelector('.playlist');
         if(list)list.classList.toggle('hide',!open);
+      };
+    });
+    document.querySelectorAll('.ep .delprog').forEach(btn=>{
+      btn.onclick=e=>{
+        e.preventDefault();e.stopPropagation();
+        const card=btn.closest('.ep');
+        const i=card&&card.dataset.i;
+        if(i==null||!CATALOG[+i])return;
+        askDeleteProgress(CATALOG[+i].gameId);
       };
     });
   }
@@ -1025,7 +1076,7 @@ function intro(){
     ensurePickVisible();
   }
   bindCards();
-  renderGo();
+  ensurePickVisible();
   document.querySelectorAll('.ptab').forEach(b=>b.onclick=()=>showTab(b.dataset.tab));
   if(sel)sel.onclick=e=>{e.stopPropagation();const open=menu.classList.toggle('hide');sel.setAttribute('aria-expanded',open?'false':'true')};
   if(menu)menu.querySelectorAll('.sitem').forEach(b=>b.onclick=e=>{

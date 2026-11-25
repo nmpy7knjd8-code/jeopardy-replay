@@ -364,6 +364,12 @@ body:not([data-st=board]):not([data-st=picking]):not([data-st=ddsplash]) #ff{vis
 @media (max-width:400px){.ptab{font-size:max(11px,2.7vw);letter-spacing:.04em;padding:8px 3px}}
 .panel.intro .empty{width:100%;grid-column:1/-1;text-align:center;padding:max(28px,6vmin) 2vmin;font:500 max(14px,2.2vmin)/1.4 Oswald,sans-serif;letter-spacing:.06em;color:rgba(230,233,255,.7)}
 .panel.intro .ep .estatus{display:block;margin-top:.15em;font:500 max(10px,1.65vmin)/1.2 Oswald,sans-serif;letter-spacing:.04em;color:#9eb6ff;opacity:.95;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.panel.intro .delprog{display:inline-flex;align-items:center;justify-content:center;margin:0;padding:0;background:transparent;border:0;border-radius:50%;color:rgba(230,233,255,.55);font:500 max(18px,2.8vmin)/1 Oswald,sans-serif;letter-spacing:0;text-transform:none;cursor:pointer;opacity:.8;-webkit-appearance:none;appearance:none;-webkit-tap-highlight-color:transparent}
+.panel.intro .delprog:hover,.panel.intro .delprog:focus-visible{opacity:1;color:#fff;background:rgba(255,255,255,.12)}
+.panel.intro .ep:has(.delprog){padding-right:max(30px,4.4vmin)!important}
+.panel.intro .ep .delprog{position:absolute;top:50%;right:max(4px,.6vmin);transform:translateY(-50%);width:max(22px,3.2vmin);height:max(22px,3.2vmin)}
+.panel.intro .actions .delprog{position:static;transform:none;flex:none;width:max(36px,4.8vmin);height:max(36px,4.8vmin);font-size:max(22px,3.4vmin);color:rgba(230,233,255,.62)}
+
 .panel.intro .ep .finline{display:flex;align-items:center;gap:.5em;margin-top:.2em;min-width:0;flex-wrap:wrap}
 .panel.intro .ep .playedline{font:500 max(11px,1.8vmin)/1 Oswald,sans-serif;letter-spacing:.04em;color:var(--gold);opacity:.95}
 .panel.intro .ep .rawbit{font:500 max(10px,1.55vmin)/1 Oswald,sans-serif;letter-spacing:.04em;color:rgba(230,233,255,.55)}
@@ -410,7 +416,7 @@ body[data-paused="1"] #stage{filter:brightness(.62)}
 .h1 .of{font-size:.45em;font-weight:500;letter-spacing:.04em;opacity:.8;text-transform:none}
 
 /* ELO: unlabeled colored number next to a contestant name */
-table.cmp td .elo{display:inline-block;margin-left:.45em;font:600 max(12px,2.1vmin)/1 Oswald,sans-serif;letter-spacing:.06em;vertical-align:0.08em;text-shadow:0 0 .4em rgba(0,0,0,.35)}
+table.cmp td .elo{display:inline-block;margin-left:.45em;font:600 max(12px,2.1vmin)/1 Oswald,sans-serif;letter-spacing:.06em;vertical-align:0.08em;text-shadow:0 0 .55em rgba(0,0,0,.6),0 1px 2px rgba(0,0,0,.5)}
 
 .scorebox small.truescore{letter-spacing:.08em;color:rgba(210,218,255,.48);font-size:max(8px,1.45vmin);margin-top:.15em}
 table.cmp th.subh{color:rgba(170,176,255,.7);font-size:.92em;letter-spacing:.1em}
@@ -801,18 +807,19 @@ const SPEED={
  *    the next game's expected scores.
  *
  * 3. Display only. ELO is never used to scale SPEED / True Score / tau.
- *    Color is by tier (thresholds below): muted gray-blue, white,
- *    light gold, bright gold-orange.
+ *    Color is a continuous red → yellow → green gradient interpolated
+ *    across the tier thresholds below (soft/light tones so the number
+ *    stays readable on the blue end-screen background).
  */
 const ELO={
   start:1500,
   k:20,
   blend:0.25,
   tiers:[
-    {min:0,    color:'#9aa8c8', name:'low'},
-    {min:1400, color:'#f3f5ff', name:'average'},
-    {min:1600, color:'#e6c56a', name:'strong'},
-    {min:1800, color:'#ff9d3d', name:'elite'}
+    {min:0,    color:'#ff8a7a', name:'low'},
+    {min:1400, color:'#ffe28a', name:'average'},
+    {min:1600, color:'#c8e89a', name:'strong'},
+    {min:1800, color:'#8ee6a8', name:'elite'}
   ],
   data:null,
   load(){
@@ -836,10 +843,27 @@ const ELO={
     if(gameId!=null&&p.b&&p.b[gameId]!=null)return p.b[gameId];
     return p.e!=null?p.e:null;
   },
+  hexRgb(h){
+    const n=String(h).replace('#','');
+    return [parseInt(n.slice(0,2),16),parseInt(n.slice(2,4),16),parseInt(n.slice(4,6),16)];
+  },
+  lerpHex(a,b,t){
+    const A=this.hexRgb(a),B=this.hexRgb(b);
+    const c=A.map((x,i)=>Math.round(x+(B[i]-x)*Math.min(1,Math.max(0,t))));
+    return `rgb(${c[0]}, ${c[1]}, ${c[2]})`;
+  },
+  rgb(c){return this.lerpHex(c,c,0)},
   color(n){
-    let c=this.tiers[0].color;
-    for(const t of this.tiers) if(n>=t.min) c=t.color;
-    return c;
+    const ts=this.tiers;
+    if(!ts.length||n==null||!isFinite(n))return this.rgb((ts[0]&&ts[0].color)||'#ffffff');
+    if(n<=ts[0].min)return this.rgb(ts[0].color);
+    for(let i=1;i<ts.length;i++){
+      if(n<=ts[i].min){
+        const span=ts[i].min-ts[i-1].min;
+        return this.lerpHex(ts[i-1].color,ts[i].color,span?(n-ts[i-1].min)/span:1);
+      }
+    }
+    return this.rgb(ts[ts.length-1].color);
   },
   badge(n){
     if(n==null||!isFinite(n))return '';
@@ -1329,7 +1353,7 @@ function intro(){
   }
   function cardShell(e,i,extraClass,inner){
     const on=i===pick?' sel':'';
-    return `<div class="ep${on}${extraClass}" data-i="${i}" role="button" tabindex="0">
+    return `<div class="ep${on}${extraClass}" data-i="${i}" data-id="${e.gameId}" role="button" tabindex="0">
         <span class="ed">${esc(e.show)} · ${fmt(e)}</span>
         <span class="en">${e.contestants.map(c=>esc(c.short)).join(' · ')}</span>${inner}</div>`;
   }
@@ -1345,7 +1369,7 @@ function intro(){
   function progressHtml(){
     const rows=progressRows();
     if(!rows.length)return `<div class="empty">No games in progress.</div>`;
-    return rows.map(({e,i,sv})=>cardShell(e,i,' mid',`<span class="estatus">${esc(progressStatus(sv))}</span>`)).join('');
+    return rows.map(({e,i,sv})=>cardShell(e,i,' mid',`<span class="estatus">${esc(progressStatus(sv))}</span><button type="button" class="delprog" aria-label="Delete saved progress" title="Delete saved progress">×</button>`)).join('');
   }
   function finishedHtml(){
     const rows=finishedRows();
@@ -1393,7 +1417,7 @@ function intro(){
     const mid=readProgress(CATALOG[pick].gameId);
     const box=$('#goactions');
     if(mid){
-      box.innerHTML=`<button class="btn" id="go">Resume</button><button class="btn ghost" id="restart" type="button">Restart</button>`;
+      box.innerHTML=`<button class="btn" id="go">Resume</button><button class="btn ghost" id="restart" type="button">Restart</button><button type="button" class="delprog" id="delprog" aria-label="Delete saved progress" title="Delete saved progress">×</button>`;
     }else{
       box.innerHTML=`<button class="btn" id="go">Start</button>`;
     }
@@ -1411,6 +1435,30 @@ function intro(){
     };
     $('#go').onclick=()=>begin(!!mid);
     const rs=$('#restart');if(rs)rs.onclick=()=>{clearProgress(CATALOG[pick].gameId);begin(false)};
+    const dp=$('#delprog');if(dp)dp.onclick=e=>{e.preventDefault();e.stopPropagation();askDeleteProgress(CATALOG[pick].gameId)};
+  }
+  function refreshTabCounts(){
+    const c=tabCounts();
+    document.querySelectorAll('.ptab').forEach(b=>{
+      const span=b.querySelector('.pcnt');
+      if(span&&c[b.dataset.tab]!=null)span.textContent=c[b.dataset.tab];
+    });
+  }
+  function refreshPicker(){
+    refreshTabCounts();
+    const grid=$('#epgrid');
+    if(grid)grid.innerHTML=gridHtml();
+    bindCards();
+    ensurePickVisible();
+  }
+  function askDeleteProgress(id){
+    if($('.leave'))return;
+    const box=document.createElement('div');box.className='leave';
+    box.setAttribute('role','dialog');box.setAttribute('aria-label','Delete saved progress?');
+    box.innerHTML='<div class="leavecard"><div class="leaveq">Delete saved progress?</div><div class="leaverow"><button type="button" class="btn" id="dely">Delete</button><button type="button" class="btn ghost" id="deln">Cancel</button></div></div>';
+    appEl.appendChild(box);
+    $('#deln').onclick=()=>box.remove();
+    $('#dely').onclick=()=>{clearProgress(id);box.remove();refreshPicker()};
   }
   function selectCard(i){
     pick=+i;SHOW=CATALOG[pick];
@@ -1420,11 +1468,11 @@ function intro(){
   function bindCards(){
     document.querySelectorAll('.ep').forEach(b=>{
       b.onclick=e=>{
-        if(e.target.closest('.playtog'))return;
+        if(e.target.closest('.playtog,.delprog'))return;
         selectCard(b.dataset.i);
       };
       b.onkeydown=e=>{
-        if(e.target.closest('.playtog'))return;
+        if(e.target.closest('.playtog,.delprog'))return;
         if(e.key==='Enter'||e.key===' '){e.preventDefault();selectCard(b.dataset.i)}
       };
     });
@@ -1437,6 +1485,15 @@ function intro(){
         btn.setAttribute('aria-expanded',open?'true':'false');
         const list=card.querySelector('.playlist');
         if(list)list.classList.toggle('hide',!open);
+      };
+    });
+    document.querySelectorAll('.ep .delprog').forEach(btn=>{
+      btn.onclick=e=>{
+        e.preventDefault();e.stopPropagation();
+        const card=btn.closest('.ep');
+        const i=card&&card.dataset.i;
+        if(i==null||!CATALOG[+i])return;
+        askDeleteProgress(CATALOG[+i].gameId);
       };
     });
   }
@@ -1468,7 +1525,7 @@ function intro(){
     ensurePickVisible();
   }
   bindCards();
-  renderGo();
+  ensurePickVisible();
   document.querySelectorAll('.ptab').forEach(b=>b.onclick=()=>showTab(b.dataset.tab));
   if(sel)sel.onclick=e=>{e.stopPropagation();const open=menu.classList.toggle('hide');sel.setAttribute('aria-expanded',open?'false':'true')};
   if(menu)menu.querySelectorAll('.sitem').forEach(b=>b.onclick=e=>{
