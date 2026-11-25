@@ -1,0 +1,986 @@
+{
+ "show": "#9145",
+ "aired": "2024-07-12",
+ "note": "Isaac Hirsch game 8.",
+ "contestants": [
+  {
+   "name": "Ashley Weaver",
+   "bio": "an attorney from Lakewood, Ohio",
+   "short": "Ashley"
+  },
+  {
+   "name": "Mike Ferguson",
+   "bio": "a chemistry professor from Edmond, Oklahoma",
+   "short": "Mike"
+  },
+  {
+   "name": "Isaac Hirsch",
+   "bio": "a customer support team lead from Burbank, California (whose 7-day cash winnings total $161,388)",
+   "short": "Isaac"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Isaac": 6600,
+   "Mike": 5800,
+   "Ashley": -1000
+  },
+  "DJ": {
+   "Isaac": 21500,
+   "Mike": 17000,
+   "Ashley": -2600
+  },
+  "Final": {
+   "Isaac": 34001,
+   "Mike": 21501,
+   "Ashley": -2600
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "WHO'S SPEAKING IN THE HARRY POTTER BOOKS",
+    "SET THE TABLE",
+    "U.S. COINS",
+    "TRANSPORTED TO CHICAGO THROUGH THE MAGIC OF ENTERTAINMENT",
+    "THE ONLY VOWEL IS \"Y\"",
+    "LAKES & RIVERS"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 26,
+     "q": "\"I hope you're pleased with yourselves. We could all have been killed--or worse, expelled\"",
+     "a": "Hermione Granger",
+     "right": [
+      "Mike"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 22,
+     "q": "On your next cruise, you may be lucky enough to get an invitation to dine at the table of this officer, who will be in uniform",
+     "a": "the captain",
+     "right": [
+      "Isaac"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 28,
+     "q": "From 1909 to 1958 the Lincoln penny depicted 2 sheaves of this on the reverse",
+     "a": "ears of wheat",
+     "right": [
+      "Mike"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 20,
+     "q": "As this noted citizen of Chicago in \"The Untouchables\", De Niro says: \"Somebody messes with me, I'm gonna mess with him\"",
+     "a": "Capone",
+     "right": [
+      "Isaac"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 24,
+     "q": "To be \"in\" this condition with someone means to be in exact harmony or accord",
+     "a": "in sync",
+     "right": [
+      "Isaac"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 30,
+     "q": "Minneapolis lies on this river near its confluence with the Minnesota River",
+     "a": "the Mississippi",
+     "right": [
+      "Isaac"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 25,
+     "q": "\"You have permitted your friends to die for you rather than face me yourself. I shall wait for one hour in the Forbidden Forest\"",
+     "a": "Voldemort",
+     "right": [
+      "Mike"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 21,
+     "q": "Lord Byron wrote about this emperor after he died, \"whose stakes were thrones, whose table earth--whose dice were human bones\"",
+     "a": "Napoleon",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "Due to a minting error, this beast appears to have just 3 legs on some 1937 nickels",
+     "a": "the buffalo (bison)",
+     "right": [
+      "Mike"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 19,
+     "q": "Who needs a cooking show when we have Ayo Edebiri as Sydney making a Boursin omelet on this series",
+     "a": "The Bear",
+     "right": [
+      "Isaac"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 23,
+     "q": "It means to practice or perform diligently; a trade, perhaps",
+     "a": "ply",
+     "right": [
+      "Isaac"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 29,
+     "q": "Uganda is bordered by lakes named for Victoria & this consort of Victoria",
+     "a": "Albert",
+     "right": [
+      "Isaac"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 15,
+     "q": "\"Tiny little bloke, my dad was. By the time I was six I could lift him up an' put him on top o' the dresser\"",
+     "a": "Hagrid",
+     "right": [
+      "Mike"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 10,
+     "q": "The 23rd Psalm says, \"Thou preparest a table before me in the presence of\" these people",
+     "a": "my enemies",
+     "right": [
+      "Mike"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 9,
+     "q": "This Latin phrase has appeared on U.S. coinage since 1795 & must do so by law since 1873",
+     "a": "E pluribus unum",
+     "right": [
+      "Isaac"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 1,
+     "q": "It's the occupation of Billy Flynn (Richard Gere on film) in the musical \"Chicago\"",
+     "a": "a lawyer",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 4,
+     "q": "Tough day of classes--first econ, then chem, then this, & I haven't even done the assigned reading from Freud",
+     "a": "psych",
+     "right": [
+      "Mike"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 16,
+     "q": "This lake that forms a boundary between New York & Vermont bears the name of the French explorer who saw it in 1609",
+     "a": "Champlain",
+     "right": [
+      "Isaac"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 12,
+     "q": "\"You are here to learn the subtle science & exact art of potion-making\"",
+     "a": "Snape",
+     "right": [
+      "Isaac"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 13,
+     "q": "Playwright George S. Kaufman was a core member of this witty literary group whose name includes the hotel it met at",
+     "a": "the Algonquin Round Table",
+     "right": [
+      "Isaac"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 6,
+     "q": "In 1979 she replaced Eisenhower on the $1 coin, but just as women earn less on the dollar than men, her coin was slightly smaller",
+     "a": "Anthony",
+     "right": [
+      "Isaac"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 2,
+     "q": "David Eigenberg played Miranda's salt-of-the-earth husband on \"Sex & the City\" & now lugs a hose on this show",
+     "a": "Chicago Fire",
+     "right": [
+      "Isaac"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 7,
+     "q": "An undine is a water-dwelling variety of one of these mythic creatures",
+     "a": "a nymph",
+     "right": [
+      "Isaac"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 17,
+     "q": "Vienna is just one of the national capitals that is on this river",
+     "a": "the Danube",
+     "right": [
+      "Mike"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 11,
+     "q": "\"I want to commit the murder I was imprisoned for\"",
+     "a": "Sirius Black",
+     "right": [
+      "Mike"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": true,
+     "order": 14,
+     "q": "If you head to this country, take a peek at its Table Mountain, which overlooks Table Bay",
+     "a": "South Africa",
+     "right": [],
+     "wrong": [
+      "Isaac"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2600
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 5,
+     "q": "A quarter released in 2023 features this Native American prima ballerina along with her Osage name, which means \"two standards\"",
+     "a": "Maria Tallchief",
+     "right": [],
+     "wrong": [
+      "Ashley"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 3,
+     "q": "The 2020 HBO series called this \"Country\" took place mostly in a racist & creepy 1950s Chicago",
+     "a": "Lovecraft Country",
+     "right": [
+      "Isaac"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 8,
+     "q": "Eva Perón is buried in one of these subterranean chambers in Buenos Aires",
+     "a": "a crypt",
+     "right": [
+      "Mike"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 18,
+     "q": "China's second-longest river, it's been called the cradle of Chinese civilization",
+     "a": "the Yellow River",
+     "right": [
+      "Isaac"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "DOOM SCROLLING",
+    "GARDENING GLOSSARY",
+    "ART AROUND EUROPE",
+    "FIRST LADIES",
+    "PASSIONATE ABOUT NEUTRAL WORDS",
+    "LAKES & RIVERS"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 21,
+     "q": "It's the New Testament book where \"heaven departed as a scroll when it is rolled together\"",
+     "a": "Revelation",
+     "right": [
+      "Mike"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 26,
+     "q": "The prominent veining seen here is due to chlorosis caused by a deficiency of this important metallic element",
+     "a": "iron",
+     "right": [],
+     "wrong": [
+      "Isaac"
+     ],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "In the 19th century, Eugene Boudin did thousands of scenes of the newly touristy beaches of Normandy, like Trouville on this body of water",
+     "a": "the English Channel",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 28,
+     "q": "In a 2019 memoir Carly Simon wrote about her friendship with this first lady, whom she first met on Martha's Vineyard",
+     "a": "Jacqueline Kennedy",
+     "right": [
+      "Mike"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 29,
+     "q": "A 2012 headline asked if this kind of voter would \"tip the election against Obama\", but we haven't made up our minds on that yet",
+     "a": "undecided",
+     "right": [
+      "Isaac"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "This Oscar-winning actor honored his late brother by naming his first son River in 2020",
+     "a": "Joaquin Phoenix",
+     "right": [
+      "Isaac"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 20,
+     "q": "Hesiod wrote that this deity succeeded Cronus & killed all humans for their impiety before re-creating them from ash trees",
+     "a": "Zeus",
+     "right": [],
+     "wrong": [
+      "Isaac"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 25,
+     "q": "It sounds like a Jerry Garcia fan, but it means to prune faded flowers from stems to promote blooming",
+     "a": "deadhead",
+     "right": [
+      "Ashley"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 18,
+     "q": "Barely leaving Bologna, Giorgio Morandi did paintings of bottles & jugs, many simply called natura morta, Italian for this",
+     "a": "still life",
+     "right": [],
+     "wrong": [
+      "Isaac"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 30,
+     "q": "Her first husband John Todd & their youngest son died during a 1793 yellow fever epidemic in Philadelphia",
+     "a": "Dolley Madison",
+     "right": [],
+     "wrong": [
+      "Isaac"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 17,
+     "q": "Separated or isolated, like the garage next to a house",
+     "a": "detached",
+     "right": [
+      "Ashley"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 10,
+     "q": "Pixar's first non-binary movie character was the aqueous Lake Ripple from this 2023 flick",
+     "a": "Elemental",
+     "right": [
+      "Isaac"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 2,
+     "q": "In Egyptian myth the snake god Apophis attacks Ra's boat & tries to prevent this daily event",
+     "a": "the sunrise",
+     "right": [
+      "Isaac"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 24,
+     "q": "When talking about fertilizer, know the N-P-K ratio & that N-P-K refers to these 3 nutrients",
+     "a": "nitrogen, phosphorus & potassium",
+     "right": [
+      "Mike"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 9,
+     "q": "Looking at \"The Syndics\" or cloth quality control board of this city, the guy with no big hat is a servant, not a syndic",
+     "a": "Amsterdam",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": true,
+     "order": 5,
+     "q": "This future first lady made her society debut in 1902 at the Waldorf-Astoria Hotel in New York City",
+     "a": "Eleanor Roosevelt",
+     "right": [
+      "Isaac"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2500
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 16,
+     "q": "Fair-minded, like this word, is a 10-letter adjective, includes a body part & means not favoring one or another",
+     "a": "evenhanded",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 11,
+     "q": "In 2007 this Weezer frontman released \"Alone\", a collection of 18 home demos",
+     "a": "Cuomo",
+     "right": [
+      "Isaac"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 3,
+     "q": "In a Hindu text it's this god who says, \"Now I am become death, the destroyer of worlds\"",
+     "a": "Vishnu (Krishna)",
+     "right": [
+      "Isaac"
+     ],
+     "wrong": [
+      "Ashley"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 23,
+     "q": "From Latin for \"sprouting forth\", it's the process by which seeds begin to grow",
+     "a": "germination",
+     "right": [
+      "Mike"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 6,
+     "q": "\"The Liffey Swim\" in the National Gallery of Ireland is by Jack, the painter brother of this poet",
+     "a": "Yeats",
+     "right": [
+      "Isaac"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 8,
+     "q": "From a prominent & wealthy Ohio family, she was known as the \"Belle of Canton\"",
+     "a": "Ida McKinley",
+     "right": [],
+     "wrong": [
+      "Ashley"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 14,
+     "q": "\"Black's Law Dictionary\" said it's a \"term used for... fair and unprejudiced\"; a good juror should be that way",
+     "a": "impartial",
+     "right": [
+      "Mike"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 12,
+     "q": "This veteran actress wrote, directed & starred in \"In a World\", a 2013 movie about the cutthroat voiceover world",
+     "a": "Lake Bell",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 4,
+     "q": "The \"Prose Edda\" has some grim previews of this event, Norse myth's Götterdämmerung or twilight of the gods",
+     "a": "Ragnarök",
+     "right": [
+      "Isaac"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 22,
+     "q": "The Denver Water Dept. gets credit for coining this late-in-the-alphabet word for gardening that uses little water",
+     "a": "xeriscaping",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 7,
+     "q": "Tired of the French ones? Head to this city to see the work seen here & others by the top Romanian impressionist Nicolae Grigorescu",
+     "a": "Bucharest",
+     "right": [
+      "Isaac"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 19,
+     "q": "Reputed to have had quasi presidential powers for a while, she lived into the 1960s",
+     "a": "Edith Wilson",
+     "right": [
+      "Isaac"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": true,
+     "order": 15,
+     "q": "As an adjective, it means to be clear on facts, with no personal feelings; as a noun, it refers to the goal of a task",
+     "a": "an objective",
+     "right": [
+      "Mike"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 6000
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 13,
+     "q": "Played by Summer Glau, River Tam saved the day in \"Serenity\", the movie sequel to this sci-fi series with a Western feel",
+     "a": "Firefly",
+     "right": [
+      "Isaac"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "NAMES IN MEDICINE",
+  "q": "He got a special presidential citation in 1955, passed away in 1995 & was dubbed \"the man who saved the children\"",
+  "a": "(Dr. Jonas) Salk",
+  "right": [
+   "Mike",
+   "Isaac"
+  ],
+  "wrong": []
+ },
+ "gameId": "8988",
+ "cat_notes": {
+  "J": [
+   "Clues about Who's Speaking in the Harry Potter Books.",
+   "Clues about Set the Table.",
+   "Clues about U.S. Coins.",
+   "Clues about Transported to Chicago Through the Magic of Entertainment.",
+   "Each answer contains the letter “Y”.",
+   "Clues about Lakes and Rivers."
+  ],
+  "DJ": [
+   "Clues about Doom Scrolling.",
+   "Clues about Gardening Glossary.",
+   "Clues about Art Around Europe.",
+   "Clues about First Ladies.",
+   "Clues about Passionate About Neutral Words.",
+   "Clues about Lakes and Rivers."
+  ],
+  "F": "Clues about Names in Medicine."
+ }
+}

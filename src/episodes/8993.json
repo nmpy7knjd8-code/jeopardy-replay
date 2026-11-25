@@ -1,0 +1,982 @@
+{
+ "show": "#9150",
+ "aired": "2024-07-19",
+ "note": "Neilesh Vinjamuri game 1.",
+ "contestants": [
+  {
+   "name": "Neilesh Vinjamuri",
+   "bio": "a software engineer from Lionville, Pennsylvania",
+   "short": "Neilesh"
+  },
+  {
+   "name": "Dave Gutierrez",
+   "bio": "a logistics director from Fox River Grove, Illinois",
+   "short": "Dave"
+  },
+  {
+   "name": "Jay Fisher",
+   "bio": "a government relations manager from Lisle, Illinois (whose 3-day cash winnings total $28,200)",
+   "short": "Jay"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Jay": 2600,
+   "Dave": 3400,
+   "Neilesh": -800
+  },
+  "DJ": {
+   "Jay": 5000,
+   "Dave": 5400,
+   "Neilesh": 13000
+  },
+  "Final": {
+   "Jay": 5401,
+   "Dave": 400,
+   "Neilesh": 12000
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "BRITISH HISTORY",
+    "THE OLYMPICS",
+    "RODENTS",
+    "IT'S SOME KIND OF LAW",
+    "RATED \"PG\"",
+    "40"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 30,
+     "q": "The 1746 Battle of Culloden in this country was the last major one fought on British soil",
+     "a": "Scotland",
+     "right": [
+      "Neilesh"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 29,
+     "q": "Olympic medley swimming events have these 4 strokes in one race",
+     "a": "butterfly, breaststroke, freestyle & backstroke",
+     "right": [
+      "Neilesh"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 28,
+     "q": "Faked scenes in the 1958 Disney film \"White Wilderness\" aided the false narrative that these Arctic rodents commit suicide",
+     "a": "lemmings",
+     "right": [
+      "Jay"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 7,
+     "q": "A 1925 Geneva protocol forbade the use of bacteriological weapons or this stuff in war",
+     "a": "(poison) gas",
+     "right": [
+      "Jay"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 26,
+     "q": "An improvement in a hotel room or airline seat",
+     "a": "upgrade",
+     "right": [
+      "Neilesh"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 24,
+     "q": "In this sport, 40 is the third point reached in a game",
+     "a": "tennis",
+     "right": [
+      "Jay"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 11,
+     "q": "A big 19th c. issue was laws protecting farmers & increasing food prices; even when about wheat or other grains, they were these \"laws\"",
+     "a": "corn laws",
+     "right": [
+      "Jay"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 5,
+     "q": "This 18-year-old from Louisville won the light heavyweight boxing gold medal in 1960",
+     "a": "Muhammad Ali",
+     "right": [
+      "Dave"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "Species of this burrowing rodent in the U.S. include plains pocket & northern pocket",
+     "a": "the gopher",
+     "right": [],
+     "wrong": [
+      "Dave"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 9,
+     "q": "Newton's first law, which says a body at rest will remain at rest unless acted on by an outside force, is also called the law of this",
+     "a": "inertia",
+     "right": [
+      "Dave"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 15,
+     "q": "A good place to pitch a tent",
+     "a": "a campground",
+     "right": [
+      "Neilesh"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 23,
+     "q": "In Venice, plague caused ships to be isolated in harbors for 40 days, leading to this modern word",
+     "a": "quarantine",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 14,
+     "q": "Pope Leo X gave this monarch the title \"Defender of the Faith\" in 1521 for his written work against Martin Luther",
+     "a": "Henry VIII",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 4,
+     "q": "Denmark's Ellen Osiier foiled many of her opponents in 1924 to become the 1st woman to win a gold medal in this sport",
+     "a": "fencing",
+     "right": [
+      "Jay"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 3,
+     "q": "These rodents live in towns in extended family groups called coteries",
+     "a": "prairie dogs",
+     "right": [
+      "Jay"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 10,
+     "q": "The first 5 books of the Old Testament are called simply \"The Law\" or, in Hebrew, this",
+     "a": "the Torah",
+     "right": [
+      "Neilesh"
+     ],
+     "wrong": [
+      "Jay"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 25,
+     "q": "This cork-firing child's toy makes a particular sound",
+     "a": "a pop gun",
+     "right": [
+      "Dave"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 22,
+     "q": "If you make it to 40 years of marriage, know that it's termed this gem anniversary (a variety of corundum)",
+     "a": "ruby",
+     "right": [],
+     "wrong": [
+      "Neilesh"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": true,
+     "order": 16,
+     "q": "The name of this venue built in 1599 fit its circular shape, a \"wooden O\", some would say",
+     "a": "the Globe Theatre",
+     "right": [],
+     "wrong": [
+      "Neilesh"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1000
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 1,
+     "q": "During the opening ceremony's parade of nations, this country traditionally goes first",
+     "a": "Greece",
+     "right": [
+      "Dave"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 6,
+     "q": "Its name may be from the French for \"sleep\" because it hibernates about half the year, missing out on a lot of tea parties",
+     "a": "the dormouse",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 12,
+     "q": "A 1968 U.N. agreement requires states to rescue & assist these people & \"promptly return them to their launching state\"",
+     "a": "astronauts",
+     "right": [],
+     "wrong": [
+      "Neilesh"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 27,
+     "q": "Many a Victorian tale featured one of these young women employed in a retail store",
+     "a": "a shopgirl",
+     "right": [
+      "Dave"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 21,
+     "q": "In the \"Arabian Nights\", this poor woodcutter discovers 40 thieves & their treasure hidden in a cave",
+     "a": "Ali Baba",
+     "right": [
+      "Dave"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 17,
+     "q": "Embalmers messed up the body after his 1658 death; in 1661 folks thought putting his head on a pole was a nice finishing touch",
+     "a": "Oliver Cromwell",
+     "right": [],
+     "wrong": [
+      "Neilesh"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 8,
+     "q": "Reminiscent of witches, it's the bowl-like structure that holds the flame in the host stadium; Torino's was placed 190 feet up",
+     "a": "the Olympic cauldron",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 18,
+     "q": "The giant species of this rodent has been recorded as gliding up to 1,500 feet from tree to tree",
+     "a": "flying squirrel",
+     "right": [
+      "Neilesh"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 13,
+     "q": "The 2018 Genocide & Atrocities Prevention Act is named for this Holocaust survivor & Nobel Peace Prize winner",
+     "a": "Elie Wiesel",
+     "right": [
+      "Jay"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 19,
+     "q": "Ahoy, mateys! Scurry aloft & haul in these sails high, high up on the masts",
+     "a": "the topgallants",
+     "right": [],
+     "wrong": [
+      "Neilesh"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 20,
+     "q": "As told in chapter 16, verse 35 of this book of the Bible, the Israelites wandered for 40 years in the desert after leaving Egypt",
+     "a": "Exodus",
+     "right": [
+      "Neilesh"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "REAL BOOK TITLE LOCALES",
+    "FANNY PACK",
+    "CLASSICAL MUSIC",
+    "OLD HOLLYWOOD POWER COUPLES",
+    "A LITTLE WORD MATH",
+    "FORT-Y"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 19,
+     "q": "Colm Tóibín:\nA Big Apple borough",
+     "a": "Brooklyn",
+     "right": [
+      "Jay"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 21,
+     "q": "Fannie May has been selling premium chocolates since its first store opened in this \"Windy City\" in 1920",
+     "a": "Chicago",
+     "right": [
+      "Neilesh"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 28,
+     "q": "This quartet of concerti by Vivaldi is contained within his \"Il cimento dell'armonia e dell'invenzione\"",
+     "a": "The Four Seasons",
+     "right": [
+      "Neilesh"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 22,
+     "q": "Her 27-year relationship with Spencer Tracy was one of Hollywood's great love stories",
+     "a": "Katharine Hepburn",
+     "right": [
+      "Dave"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 5,
+     "q": "The opposite of out\n+\nto serve drinks at a bar\n= this, to have in mind",
+     "a": "intend (in + tend = intend)",
+     "right": [
+      "Dave"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 10,
+     "q": "Better known for the depository next door, this fort pioneered mechanized cavalry training in the 1930s",
+     "a": "Fort Knox",
+     "right": [
+      "Neilesh"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 8,
+     "q": "James Michener:\nA group of volcanic islands in the Pacific Ocean",
+     "a": "Hawaii",
+     "right": [
+      "Dave"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 18,
+     "q": "She was the original \"Funny Girl\" dressed up here as her character, Baby Snooks",
+     "a": "Fanny Brice",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 3,
+     "q": "Beethoven's Sixth Symphony & his Piano Sonata No. 15 in D, op. 28 both have this bucolic nickname",
+     "a": "Pastoral",
+     "right": [
+      "Neilesh"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 23,
+     "q": "After sparks flew on the set of \"Cleopatra\", they married & divorced not once, but twice",
+     "a": "Burton & Taylor",
+     "right": [
+      "Dave"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 6,
+     "q": "An individual edition of a periodical \n-\na form to be = \nthis litigious verb",
+     "a": "sue (issue - is = sue)",
+     "right": [
+      "Neilesh"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 11,
+     "q": "Lonely & perhaps tippling at Fort Vancouver in 1852, 11 years later, he was the hero of Vicksburg",
+     "a": "Grant",
+     "right": [
+      "Neilesh"
+     ],
+     "wrong": [
+      "Dave"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 13,
+     "q": "Charles Frazier:\nA peak in North Carolina near Asheville",
+     "a": "Cold Mountain",
+     "right": [
+      "Jay"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 20,
+     "q": "He wrote poems like \"Bright Star\" about Fanny Brawne, the love of his short life that ended in 1821",
+     "a": "Keats",
+     "right": [
+      "Neilesh"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": true,
+     "order": 4,
+     "q": "This suite by Handel for strings & various wind instruments was performed for a royal boat trip on the Thames",
+     "a": "Water Music",
+     "right": [
+      "Neilesh"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1000
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 24,
+     "q": "Jamie Lee Curtis called this power couple mom & dad",
+     "a": "Tony Curtis & Janet Leigh",
+     "right": [],
+     "wrong": [
+      "Dave"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 7,
+     "q": "A fixture with a shade + \nSpanish for \"king\"\n=\nthis aquatic sucker",
+     "a": "lamprey (lamp + rey = lamprey)",
+     "right": [
+      "Jay"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 12,
+     "q": "We'd be in euphoria if you knew this fort near El Paso was named for Zachary Taylor's son-in-law, a West Point math teacher",
+     "a": "Fort Bliss",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 16,
+     "q": "Michael Crichton:\nThe second-longest river in Africa",
+     "a": "Congo",
+     "right": [
+      "Jay"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 2,
+     "q": "In the 1980s this Swede wrote & directed the period family drama \"Fanny & Alexander\"",
+     "a": "Ingmar Bergman",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 1,
+     "q": "Bach's \"The Well-Tempered Clavier\" is a set of 48 preludes & these, which Bach also taught us \"The Art of\"",
+     "a": "the Fugue",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 25,
+     "q": "Mrs. Robinson in the movies, she was Mrs. Mel Brooks for more than 40 years",
+     "a": "Bancroft",
+     "right": [
+      "Dave"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 9,
+     "q": "A no-fooling state of mind you might be \"in\" \n-\nan external organ =\nthis animal abode",
+     "a": "nest (earnest - ear = nest)",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 14,
+     "q": "Fort Moultrie held off the Royal Navy in 1776; a 2nd fort constructed at this same harbor years later would gain fame in 1861",
+     "a": "Charleston",
+     "right": [],
+     "wrong": [
+      "Jay"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2000
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 17,
+     "q": "Hilary Mantel:\nA historic manor in Wiltshire",
+     "a": "Wolf Hall",
+     "right": [
+      "Neilesh"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 30,
+     "q": "This scandalous 18th century novel by John Cleland is subtitled \"The Memoirs of a Woman of Pleasure\"",
+     "a": "Fanny Hill",
+     "right": [
+      "Neilesh"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 29,
+     "q": "He & his musicians wanted to leave Hungary & go home, so he wrote the aptly named \"Farewell\" symphony for Prince Nicholas",
+     "a": "Haydn",
+     "right": [
+      "Neilesh"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 26,
+     "q": "A film producer extraordinaire & an eventual 6-time Best Actress Oscar nominee, they could have been called \"Irvma\"",
+     "a": "Irving Thalberg & Norma Shearer",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 27,
+     "q": "A religious residence\n+ \na charged atom =\nthis big assembly",
+     "a": "convention (convent + ion = convention)",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 15,
+     "q": "Ethan Allen & yes, Benedict Arnold, penciled in May 10, 1775 as the date to take this fort from the Brits",
+     "a": "Ticonderoga",
+     "right": [
+      "Neilesh"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "19th CENTURY WOMEN",
+  "q": "The National Park Service says there are more statues of her, often with her infant son, than any other American woman",
+  "a": "Sacagawea",
+  "right": [
+   "Jay"
+  ],
+  "wrong": [
+   "Dave",
+   "Neilesh"
+  ]
+ },
+ "gameId": "8993",
+ "cat_notes": {
+  "J": [
+   "Clues about British History.",
+   "Now just a week away.",
+   "Clues about Rodents.",
+   "The category “IT'S SOME KIND OF LAW” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "Those two letters are side by side in each response.",
+   "Clues about 40."
+  ],
+  "DJ": [
+   "Clues about Real Book Title Locales.",
+   "Clues about Fanny Pack.",
+   "Clues about Classical Music.",
+   "Clues about Old Hollywood Power Couples.",
+   "Clues about A Little Word Math.",
+   "Clues about Fort-y."
+  ],
+  "F": "Clues about 19th Century Women."
+ }
+}

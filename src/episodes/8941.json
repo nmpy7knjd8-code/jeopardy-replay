@@ -1,0 +1,986 @@
+{
+ "show": "#9104",
+ "aired": "2024-05-16",
+ "note": "Grant DeYoung game 2.",
+ "contestants": [
+  {
+   "name": "Elizabeth Brzozowski",
+   "bio": "a social studies teacher from Fishkill, New York",
+   "short": "Elizabeth"
+  },
+  {
+   "name": "Chen Yan",
+   "bio": "a surgeon from Happy Valley, Oregon",
+   "short": "Chen"
+  },
+  {
+   "name": "Grant DeYoung",
+   "bio": "a grocery clerk from Prescott, Arizona (whose 1-day cash winnings total $25,601)",
+   "short": "Grant"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Grant": 3000,
+   "Chen": 2800,
+   "Elizabeth": 3600
+  },
+  "DJ": {
+   "Grant": 20800,
+   "Chen": 9600,
+   "Elizabeth": 2400
+  },
+  "Final": {
+   "Grant": 20800,
+   "Chen": 9600,
+   "Elizabeth": 0
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "YO ABBA ABBA!",
+    "ANAGRAMMED AUTHORS",
+    "MEET ME IN THE MIDDLE",
+    "CLOSE STATES IN THE PRESIDENTIAL ELECTION",
+    "HERE BE MONSTERS",
+    "NOT AN ADVERB, BUT ENDS WITH \"-LY\""
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 27,
+     "q": "The band had to negotiate for the name, as ABBA was the biggest fish-canning company in this country",
+     "a": "Sweden",
+     "right": [
+      "Chen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 29,
+     "q": "British dame who wrote 66 detective novels: TAHITI HAS GRACE",
+     "a": "Agatha Christie",
+     "right": [
+      "Chen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 28,
+     "q": "Lots of kids get otitis media, an inflammation of the lining of the middle this",
+     "a": "the middle ear",
+     "right": [
+      "Chen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 30,
+     "q": "In 1916 Woodrow Wilson could not take this northeastern state for granite, beating Charles Evans Hughes by just 56 votes",
+     "a": "New Hampshire",
+     "right": [
+      "Grant"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 21,
+     "q": "In one of his many big-screen battles for Earth's survival, he fought against Hedorah the Smog Monster",
+     "a": "Godzilla",
+     "right": [
+      "Grant"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 20,
+     "q": "As a noun, it's an account of debits & credits; as a verb, it means to count",
+     "a": "to tally",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 26,
+     "q": "In 1976 this ABBA tune, later a movie title, ended the 9-week run at No. 1 of \"Bohemian Rhapsody\" on the U.K. chart",
+     "a": "\"Mamma Mia\"",
+     "right": [
+      "Chen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 25,
+     "q": "Author born Eric Blair: GORE LOWER LEG",
+     "a": "George Orwell",
+     "right": [
+      "Grant"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 24,
+     "q": "The madhyama-pratipada or Middle Way of this religion promotes a middle path between extremes",
+     "a": "Buddhism",
+     "right": [
+      "Grant"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 15,
+     "q": "Coming up 537 votes short in this state ended up losing the entire ball game for the Democratic candidate in 2000",
+     "a": "Florida",
+     "right": [
+      "Chen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 8,
+     "q": "This legendary multi-armed sea monster probably was imagined from sightings of giant squid & octopi off the coast of Norway",
+     "a": "the Kraken",
+     "right": [
+      "Grant"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 17,
+     "q": "This type of miniature ravine fills up with rain quickly",
+     "a": "a gully",
+     "right": [
+      "Grant"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 7,
+     "q": "\"See that girl, watch that scene, digging\" this title person",
+     "a": "the \"Dancing Queen\"",
+     "right": [
+      "Elizabeth"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 11,
+     "q": "First African-American woman to receive a Pulitzer Prize for Fiction: WEAKER LILAC",
+     "a": "Alice Walker",
+     "right": [
+      "Grant"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 10,
+     "q": "Everything will be just fine for this band that had an early 2000s hit with the upbeat song \"The Middle\"",
+     "a": "Jimmy Eat World",
+     "right": [
+      "Grant"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 14,
+     "q": "John Bell beat John Breckinridge by 156 to win Virginia in 1860; not so surprisingly, this guy got only 1.1% of the state's vote",
+     "a": "Lincoln",
+     "right": [
+      "Elizabeth"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 3,
+     "q": "Makara often has the head of an elephant & the body of this apex predator reptile, perhaps what its name means in Sanskrit",
+     "a": "a crocodile",
+     "right": [
+      "Chen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 16,
+     "q": "New York Times food critic Mimi Sheraton wrote a whole book about this breakfast or anytime delight",
+     "a": "a bialy",
+     "right": [
+      "Elizabeth"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 1,
+     "q": "In a 1980 ABBA top 10 song, this title preceded \"the loser has to fall\"",
+     "a": "\"The Winner Takes It All\"",
+     "right": [
+      "Chen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 12,
+     "q": "Born & died in Concord:\nA VERY HIDDEN AUTHOR",
+     "a": "Henry David Thoreau",
+     "right": [],
+     "wrong": [
+      "Grant"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 4,
+     "q": "Soccer coach Viktor Maslov pioneered the 4-4-2 formation with this position having the further up four on each side",
+     "a": "midfield",
+     "right": [
+      "Grant"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 22,
+     "q": "This Republican took Maryland over Alton Parker by 51 votes (Bully!) & over Eugene Debs by... a lot more (even more bully!)",
+     "a": "Teddy Roosevelt",
+     "right": [
+      "Grant"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 2,
+     "q": "First described in Nepal in 1832, this monster was said to be a \"wild man\" that \"moved erectly\" & was \"covered in long, dark hair\"",
+     "a": "the Yeti",
+     "right": [
+      "Elizabeth"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": true,
+     "order": 18,
+     "q": "The Greek for \"irregular\" gives us this word for a scientific observation that differs from expectations",
+     "a": "anomaly",
+     "right": [],
+     "wrong": [
+      "Grant"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 4000
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 6,
+     "q": "Ironically, this tune with a Napoleonic title was ABBA's first U.S. Top 40 hit, not their last",
+     "a": "\"Waterloo\"",
+     "right": [
+      "Grant"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 13,
+     "q": "He's been called the \"King of Pulp Fiction\": \nMY ALIEN PICKLES",
+     "a": "Mickey Spillane",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 5,
+     "q": "This country sits directly between Yemen & Iraq",
+     "a": "Saudi Arabia",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 23,
+     "q": "Winning a battle in 1832, this \"Great Compromiser\" took Maryland by 4 votes, but Andrew Jackson won the war",
+     "a": "Clay",
+     "right": [
+      "Grant"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 9,
+     "q": "1939's \"Son of Frankenstein\" was the third in the series to feature the Monster, & the last with this actor playing the role",
+     "a": "Karloff",
+     "right": [
+      "Grant"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 19,
+     "q": "You might hear a particularly moralizing one of these sermons on a Sunday",
+     "a": "a homily",
+     "right": [
+      "Elizabeth"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "COUNTRIES WITH ONE THING IN COMMON",
+    "APPROXIMATE WEIGHTS & MEASURES",
+    "TV \"Q\"",
+    "THE WILD WEST",
+    "SCIENCE EXPERIEMENTS",
+    "ADD A LETTER"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 26,
+     "q": "The Aarhus Theatre is an Art Nouveau icon of East Jutland in this country",
+     "a": "Denmark",
+     "right": [
+      "Elizabeth"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 28,
+     "q": "A small field of strawberries or pumpkins",
+     "a": "a patch",
+     "right": [
+      "Grant"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 22,
+     "q": "The title of this limited series starring Anya Taylor-Joy refers to an opening in chess",
+     "a": "The Queen's Gambit",
+     "right": [
+      "Chen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 30,
+     "q": "This man sold his first hat to a bullwhacker for $5 & later based his popular cowboy hats on it",
+     "a": "Stetson",
+     "right": [
+      "Chen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 19,
+     "q": "Karl von Frisch painted these insects to track their movements & show how they twerk their way to pollen",
+     "a": "bees",
+     "right": [
+      "Elizabeth"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 21,
+     "q": "A slice of pie or cake to eat in the Sahara",
+     "a": "dessert & desert",
+     "right": [
+      "Chen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 25,
+     "q": "By 2050 this African nation is projected to be the third-most populous country in the world, ahead of the United States",
+     "a": "Nigeria",
+     "right": [
+      "Grant"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 27,
+     "q": "The total number of eggs laid by a bird per nesting attempt, it can be as little as one in the case of an albatross",
+     "a": "a clutch",
+     "right": [],
+     "wrong": [
+      "Grant"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 15,
+     "q": "This NBC reboot tapped Raymond Lee to play time-traveling physicist Ben Song",
+     "a": "Quantum Leap",
+     "right": [
+      "Grant"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "In Central Wyoming the Bozeman Trail split from this more famous trail & headed north to the gold fields in Montana",
+     "a": "Oregon",
+     "right": [
+      "Chen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 18,
+     "q": "Isaac Netwon's light spectrum experiment used a tiny hole & this object made with polished glass",
+     "a": "a prism",
+     "right": [
+      "Grant"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 20,
+     "q": "A jeering insult about your mom's sister",
+     "a": "an aunt taunt",
+     "right": [],
+     "wrong": [
+      "Grant"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 10,
+     "q": "Between Chile, five letters, & Brazil, six, is this country where at times the Uyuni Salt Flat turns into a giant mirror",
+     "a": "Bolivia",
+     "right": [],
+     "wrong": [
+      "Grant"
+     ],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 7,
+     "q": "In his 1916 poem \"Home\", Edgar Guest wrote that \"It takes\" this much \"o' livin' in a house t' make it home\"",
+     "a": "a heap",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 6,
+     "q": "On \"Star Trek: Deep Space Nine\", this Ferengi bar owner was up, then down as his flavorful crew unionized",
+     "a": "Quark",
+     "right": [
+      "Grant"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 8,
+     "q": "Combination banks, stores & more, these 2-word places were a vital part of Native American life; the Hubbell one is a National Historic Site",
+     "a": "a trading post",
+     "right": [
+      "Grant"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 2,
+     "q": "This Italian scientist's legendary falling bodies experiment showed falling objects accelerate at the same rate",
+     "a": "Galileo",
+     "right": [
+      "Grant"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 14,
+     "q": "Near Arizona State University, a synagogue",
+     "a": "Tempe temple",
+     "right": [
+      "Chen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 11,
+     "q": "Known for coffee cultivation & rising to 7,400 feet, the Blue Mountains are the highest in this country",
+     "a": "Jamaica",
+     "right": [
+      "Grant"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 24,
+     "q": "Clumps of short grass, perhaps on the lawn of a Massachusetts university",
+     "a": "tufts",
+     "right": [
+      "Grant"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 4,
+     "q": "OK, chowderheads, Brian on \"Family Guy\" wanted to be a drug-sniffing dog for this fictional Rhode Island town",
+     "a": "Quahog",
+     "right": [
+      "Chen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 9,
+     "q": "Buffalo Bill & Billy the Kid were among those who used this company's model 1873, the \"gun that won the West\"",
+     "a": "Winchester",
+     "right": [
+      "Grant"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 5000
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 1,
+     "q": "In the 19th century Charles Macintosh mixed a solvent called naphtha with this substance to make a waterproof material",
+     "a": "rubber",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 16,
+     "q": "A tidier scouring agent for the kitchen or bathroom",
+     "a": "a cleaner cleanser",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": true,
+     "order": 12,
+     "q": "It's the country that surrounds the Gambia",
+     "a": "Senegal",
+     "right": [
+      "Grant"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 6000
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 23,
+     "q": "In \"Paradise Lost\", Milton wrote, \"Behold!\" this throng \"of fair women\", not doves, \"richly gay in gems and wanton dress\"",
+     "a": "a bevy of women",
+     "right": [],
+     "wrong": [
+      "Elizabeth"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 5,
+     "q": "Jack Klugman got to the heart of the matter as this title medical examiner from 1976 to 1983",
+     "a": "Quincy",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 13,
+     "q": "Members of this gang included Kid Curry, Will Carver, Ben \"The Tall Texan\" Kilpatrick & Harry \"The Sundance Kid\" Longabaugh",
+     "a": "the Wild Bunch",
+     "right": [],
+     "wrong": [
+      "Chen"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 3,
+     "q": "A 1973 experiment asked, \"Can a spider spin a web in near weightlessness\" on this station whose name suggested it's science-focused",
+     "a": "Skylab",
+     "right": [
+      "Chen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 17,
+     "q": "Down at the intersection of Haight & Ashbury Streets, the public official who certifies the cause of death",
+     "a": "corner & coroner",
+     "right": [
+      "Chen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "THE EARLY 20th CENTURY",
+  "q": "Before entering history, this man visited the grave of Bogdan Zerajic, who had died just a few years earlier",
+  "a": "Princip",
+  "right": [
+   "Grant"
+  ],
+  "wrong": [
+   "Elizabeth",
+   "Chen"
+  ]
+ },
+ "gameId": "8941",
+ "cat_notes": {
+  "J": [
+   "The category “YO ABBA ABBA!” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "Each answer is formed by rearranging letters from a word or name in the clue.",
+   "Clues about Meet Me in the Middle.",
+   "Clues about Close States in the Presidential Election.",
+   "Clues about Here Be Monsters.",
+   "Each answer ends with “-LY”."
+  ],
+  "DJ": [
+   "Which is that their names are all seven letters long.",
+   "Clues about Approximate Weights and Measures.",
+   "Each answer contains the letter “Q”.",
+   "Clues about The Wild West.",
+   "Clues about Science Experiements.",
+   "Each correct response there will be two words."
+  ],
+  "F": "Clues about The Early 20th Century."
+ }
+}

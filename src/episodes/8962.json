@@ -1,0 +1,992 @@
+{
+ "show": "#9119",
+ "aired": "2024-06-06",
+ "note": "Adriana Harmeyer game 7.",
+ "contestants": [
+  {
+   "name": "Shira Gluck",
+   "bio": "a rabbi from Jersey City, New Jersey",
+   "short": "Shira"
+  },
+  {
+   "name": "Benjamin Nelson",
+   "bio": "a theater producer originally from Sturgis, South Dakota",
+   "short": "Benjamin"
+  },
+  {
+   "name": "Adriana Harmeyer",
+   "bio": "an archivist from West Lafayette, Indiana (whose 6-day cash winnings total $136,100)",
+   "short": "Adriana"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Adriana": 4800,
+   "Benjamin": 2400,
+   "Shira": 3000
+  },
+  "DJ": {
+   "Adriana": 18800,
+   "Benjamin": 8000,
+   "Shira": 8900
+  },
+  "Final": {
+   "Adriana": 19600,
+   "Benjamin": 7099,
+   "Shira": 6000
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "HISTORIC TELEGRAMS",
+    "I GOT A BEEF WITH YOU",
+    "PLAYING WITH MOVIE DOLLS",
+    "TRAVEL & TOURISM",
+    "ONE LETTER SAYS IT ALL",
+    "ANIMAL PLANET"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 19,
+     "q": "A telegram to Washington in 1898 announced this \"blown up in Havana Harbor at nine forty tonight and destroyed\"",
+     "a": "the Maine",
+     "right": [
+      "Benjamin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 30,
+     "q": "I want to be a part of it, this steak, this steak, confusingly also called Kansas City",
+     "a": "New York (strip steak)",
+     "right": [
+      "Adriana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "This \"Toy Story\" lawman: \"the word I'm searching for, I can't say because there's preschool toys present\"",
+     "a": "Woody",
+     "right": [
+      "Adriana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 28,
+     "q": "London's transport museum offers a tour of Charing Cross then afternoon this at the Clermont with delicious scones",
+     "a": "tea",
+     "right": [
+      "Adriana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 11,
+     "q": "Monetarily, a Ben Franklin in hand means you have a this-note",
+     "a": "a C-note",
+     "right": [
+      "Benjamin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 26,
+     "q": "Deep in the Mariana Trench, you'll find the octopus named for this film pachyderm that uses its ears to help it fly--I mean swim",
+     "a": "Dumbo",
+     "right": [
+      "Benjamin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 18,
+     "q": "In 1967 Muhammad Ali sent a telegram to him at the Birmingham County Jail: \"Hope that you are comfortable not suffering\"",
+     "a": "Martin Luther King Jr.",
+     "right": [
+      "Adriana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 29,
+     "q": "A porterhouse has a larger amount of the tenderloin than this smaller, letter-perfect steak",
+     "a": "a T-bone",
+     "right": [
+      "Shira"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "This red-haired, blue-eyed killer doll has a wife named Tiffany; unbelievably, they have a child",
+     "a": "Chucky",
+     "right": [
+      "Benjamin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "With some buildings about a century old, Pretoriuskop Rest Camp has hosted many on this kind of trip with a name from Swahili",
+     "a": "safari",
+     "right": [
+      "Adriana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 21,
+     "q": "Europeans get weird toward the end of the alphabet: \nThere's \"zed\" & this letter that's \"I grec\" in French",
+     "a": "Y",
+     "right": [
+      "Shira"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 25,
+     "q": "The antlers of these largest deer can be palmate, meaning shaped like an open hand",
+     "a": "moose",
+     "right": [
+      "Adriana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 5,
+     "q": "Urged to give up a fast, he replied in 1924, \"Am fasting to live not die unless God wills otherwise. Don't worry\"",
+     "a": "Gandhi",
+     "right": [
+      "Shira"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 15,
+     "q": "Some wagyu cattle are fed beer & grain & given regular massages & sold as this type of prized, well-marbled beef",
+     "a": "Kobe",
+     "right": [
+      "Benjamin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 17,
+     "q": "Doll, action figure, whatever... this military guy got title billing & \"Retaliation\" in a 2013 film with Dwayne Johnson",
+     "a": "G.I. Joe",
+     "right": [
+      "Adriana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 4,
+     "q": "Feeling thirsty? After your one-hour canal tour of Amsterdam, stop at this, Europe's No. 1 brewer, for another tour & a beer",
+     "a": "Heineken",
+     "right": [],
+     "wrong": [
+      "Adriana",
+      "Shira"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 14,
+     "q": "Two traditional letter-named football formations are the T & this one that can also have \"power\" before it",
+     "a": "an I formation (the power I)",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 8,
+     "q": "The red variety of butterfly from West Africa seen here has this name, like a light, engineless aircraft",
+     "a": "a glider",
+     "right": [
+      "Adriana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": true,
+     "order": 6,
+     "q": "Him to president Truman in 1950: \"The State Department harbors a nest of Communists and Communist sympathizers\"",
+     "a": "Joseph McCarthy",
+     "right": [],
+     "wrong": [
+      "Shira"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 600
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 20,
+     "q": "Amarillo's Big Texan restaurant is famed for a 72-ounce steak--that's 4 1/2 pounds of \"top\" this, y'all!",
+     "a": "sirloin",
+     "right": [
+      "Adriana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 16,
+     "q": "Before he was Ken, Ryan Gosling got into the world of dolls, making a new friend as this title guy paired with \"the Real Girl\"",
+     "a": "Lars",
+     "right": [
+      "Adriana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 3,
+     "q": "In Spain, rent a car & follow the path of scenes in this novel, including the Cave of Montesinos & the windmills of Consuegra",
+     "a": "Don Quixote",
+     "right": [
+      "Shira"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 12,
+     "q": "50 degrees F. equals 283.15 degrees this",
+     "a": "K",
+     "right": [
+      "Adriana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 24,
+     "q": "These hoofed animals can be \"odd-toed\" like the rhino, or \"even-toed\" like the antelope",
+     "a": "ungulates",
+     "right": [
+      "Benjamin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 7,
+     "q": "In 1909 he sent the message \"Stars and stripes nailed to North Pole\"",
+     "a": "Robert Peary",
+     "right": [],
+     "wrong": [
+      "Adriana",
+      "Benjamin"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 22,
+     "q": "I say, do be a love & prepare my flank steak this \"British\" way; tenderize the meat by marinating, then thinly slice across the grain",
+     "a": "a London broil",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 9,
+     "q": "Horrors! We're \"Conjuring\" up this doll who was introduced in a 2013 film & \"comes home\" 6 years later",
+     "a": "Annabelle",
+     "right": [
+      "Benjamin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 10,
+     "q": "If you're vacationing in Rimini, Italy, it's a 50-minute ride on a shuttle bus into this country",
+     "a": "San Marino",
+     "right": [
+      "Adriana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 13,
+     "q": "To a guy like Julius Caesar, it was 500",
+     "a": "D",
+     "right": [
+      "Shira"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 23,
+     "q": "These birds fly well enough but excel in the water where they can dive 200 feet down",
+     "a": "puffins",
+     "right": [
+      "Shira"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "4-LETTER WORLD CITIES",
+    "HARD STUFF",
+    "WOMEN IN THE BIBLE",
+    "MUSIC OF THE '60s",
+    "LITERARY TERMS",
+    "DOUBLE \"R\" WORDS"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 18,
+     "q": "The Great Sphinx of this city stands near the Great Pyramid",
+     "a": "Giza",
+     "right": [
+      "Adriana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 30,
+     "q": "The \"hard\" type of this beverage is typically made from apple juice, but you can also use peach or pear juice",
+     "a": "cider",
+     "right": [
+      "Adriana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 13,
+     "q": "This widow with a Bible book named after her remarries but remains devoted to her first mother-in-law Naomi",
+     "a": "Ruth",
+     "right": [
+      "Shira"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 11,
+     "q": "Marvin Gaye's first No. 1 hit, it got new life when it was used in a commercial for California raisins in the 1980s",
+     "a": "\"I Heard It Through The Grapevine\"",
+     "right": [
+      "Adriana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 20,
+     "q": "From Latin for \"play on words\", it's an indirect or implied reference",
+     "a": "an allusion",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 21,
+     "q": "A pen for livestock",
+     "a": "corral",
+     "right": [
+      "Adriana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 16,
+     "q": "Give peace a chance at the Nobel Peace Center in this world capital",
+     "a": "Oslo",
+     "right": [
+      "Shira"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "You could say this Hollywood, Florida Hotel & Casino is really lit, especially at night",
+     "a": "the Hard Rock",
+     "right": [
+      "Benjamin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 12,
+     "q": "In Acts 17 a woman named Damaris was receptive to a sermon in Athens by this apostle of Tarsus",
+     "a": "Paul",
+     "right": [
+      "Shira"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 6,
+     "q": "This Aretha Franklin song says, \"For five long years I thought you were my man but I found out I'm just a link in your chain\"",
+     "a": "\"Chain Of Fools\"",
+     "right": [
+      "Shira"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 19,
+     "q": "It can be exhausting rooting for this type of protagonist who lacks conventional merits, like Ignatius Reilly",
+     "a": "an antihero",
+     "right": [
+      "Adriana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 22,
+     "q": "In some places, a couple can get a divorce based on these differences when they can't agree upon much",
+     "a": "irreconcilable",
+     "right": [
+      "Adriana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 15,
+     "q": "Here's a lovely view of this capital on the Aare River",
+     "a": "Bern",
+     "right": [
+      "Benjamin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 17,
+     "q": "Dentists warn against chewing ice, as it can crack the teeth & damage this hard outer layer that covers them",
+     "a": "enamel",
+     "right": [
+      "Benjamin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 3,
+     "q": "The daughter of Herodias requested this gruesome gift from King Herod",
+     "a": "the head of John the Baptist",
+     "right": [
+      "Adriana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 10,
+     "q": "The Sherman brothers of Disney fame wrote this song of young love that mentions \"peaches & cream\" & \"lips like strawberry wine\"",
+     "a": "\"You're Sixteen\"",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 9,
+     "q": "It's a poem lamenting a death; Toi Derricotte wrote a moving one \"For My Husband\"",
+     "a": "an elegy",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 23,
+     "q": "This bird of Australia is sometimes called the \"bushman's clock\", since it's heard early in the morning & at sunset",
+     "a": "a kookaburra",
+     "right": [
+      "Adriana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 1,
+     "q": "Golda Meir & the dancer Nijinsky were both born in this city when it was still part of Russia",
+     "a": "Kyiv (Kiev)",
+     "right": [
+      "Benjamin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2400
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 28,
+     "q": "Hardening of the arteries is also known by this 7-syllable medical word",
+     "a": "arteriosclerosis",
+     "right": [
+      "Adriana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 4,
+     "q": "This queen states, \"If I perish, I perish\" after agreeing to find a way to derail a murderous decree instigated by Haman",
+     "a": "Esther",
+     "right": [
+      "Shira"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 7,
+     "q": "This top 5 hit by The Mamas & The Papas was written on a cold winter night in Manhattan",
+     "a": "\"California Dreamin'\"",
+     "right": [
+      "Adriana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 14,
+     "q": "Penumbral term for hinting at things to come in a work of fiction",
+     "a": "foreshadowing",
+     "right": [
+      "Adriana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 24,
+     "q": "From the Latin for \"talkative\", it can mean given to excessive talk about trivial matters",
+     "a": "garrulous",
+     "right": [
+      "Adriana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 2,
+     "q": "In ancient times this city in Yemen was a trading port for incense & spices",
+     "a": "Aden",
+     "right": [
+      "Shira"
+     ],
+     "wrong": [
+      "Adriana"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 27,
+     "q": "Rubies & sapphires are varieties of this mineral, the hardest known after diamond",
+     "a": "corundum",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 5,
+     "q": "Jacob marries Leah after 7 years of hard labor for her dad; after 7 more years of work, he marries this sister of Leah",
+     "a": "Rachel",
+     "right": [
+      "Adriana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 8,
+     "q": "This folk trio had a 1969 Top 10 hit with \"Leaving On A Jet Plane\"",
+     "a": "Peter, Paul and Mary",
+     "right": [
+      "Adriana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": true,
+     "order": 26,
+     "q": "Not always marked by 3 dots, it's the omission of words that are understood in context",
+     "a": "ellipsis",
+     "right": [],
+     "wrong": [
+      "Shira"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2500
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 25,
+     "q": "The world's leading seaweed extract, it's used in chocolate milk to keep the chocolate in suspension",
+     "a": "carrageenan",
+     "right": [
+      "Shira"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "U.S. HISTORY",
+  "q": "Challenged in a courtroom that same year, 1925's Butler Act in Tennessee outlawed this activity & wasn't repealed until 1967",
+  "a": "teaching evolution",
+  "right": [
+   "Adriana"
+  ],
+  "wrong": [
+   "Benjamin",
+   "Shira"
+  ]
+ },
+ "gameId": "8962",
+ "cat_notes": {
+  "J": [
+   "Clues about Historic Telegrams.",
+   "The category “I GOT A BEEF WITH YOU” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "Clues about Playing with Movie Dolls.",
+   "Clues about Travel and Tourism.",
+   "Clues about One Letter Says It All.",
+   "Clues about Animal Planet."
+  ],
+  "DJ": [
+   "Each answer is a 4-letter word or term related to 4-letter World Cities.",
+   "Clues about Hard Stuff.",
+   "Clues about Women in the Bible.",
+   "Clues about Music of the 60s.",
+   "Clues about Literary Terms.",
+   "Each answer contains the letter “R”, and the clues are about Double Words."
+  ],
+  "F": "Clues about U.S. History."
+ }
+}

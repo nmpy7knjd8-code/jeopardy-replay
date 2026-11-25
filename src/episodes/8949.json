@@ -1,0 +1,995 @@
+{
+ "show": "#9108",
+ "aired": "2024-05-22",
+ "note": "Amar Kakirde game 1.",
+ "contestants": [
+  {
+   "name": "Amar Kakirde",
+   "bio": "a graduate student from Lake Hiawatha, New Jersey",
+   "short": "Amar"
+  },
+  {
+   "name": "Ellen Klages",
+   "bio": "a writer from San Francisco, California",
+   "short": "Ellen"
+  },
+  {
+   "name": "Chris D'Amico",
+   "bio": "a verifications specialist from Lakewood, Ohio (whose 1-day cash winnings total $25,100)",
+   "short": "Chris"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Chris": 6800,
+   "Ellen": -400,
+   "Amar": 4800
+  },
+  "DJ": {
+   "Chris": 6800,
+   "Ellen": 2000,
+   "Amar": 15600
+  },
+  "Final": {
+   "Chris": 4800,
+   "Ellen": 1930,
+   "Amar": 16600
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "PUERTO RICANS",
+    "THE DRAMA OF TELEVISION",
+    "IN THE WEEDS",
+    "ENDS IN \"ITE\"",
+    "ROCK ME",
+    "AMADEUS"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 6,
+     "q": "Famous people born in this capital of Puerto Rico include Raul Julia & Bernie Williams",
+     "a": "San Juan",
+     "right": [
+      "Ellen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 28,
+     "q": "Dr. Melfi asked this patient, \"What line of work are you in?\"; \"Waste management consultant\"; well...",
+     "a": "Tony Soprano",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 27,
+     "q": "The flowers of this yard weed, also known as wild endive & puffball, can be used to produce a pale yellow dye",
+     "a": "a dandelion",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 29,
+     "q": "Watch your head! The largest one of these space rocks discovered on Earth was 9 feet long & weighed an estimated 60 tons",
+     "a": "a meteorite",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 30,
+     "q": "Though steeped in history, it's really a bit underwhelming when you see it",
+     "a": "Plymouth Rock",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 25,
+     "q": "Of Mozart's several middle names, Theophilus got Latinized to Amadeus, both meaning \"love of\" or \"loved by\" him",
+     "a": "God",
+     "right": [
+      "Amar"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 5,
+     "q": "The Borinqueneers, the U.S. Army's only all-Hispanic unit, served with distinction at the Chosin Reservoir during this war",
+     "a": "the Korean War",
+     "right": [
+      "Amar"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 8,
+     "q": "When naming the actor who played Saul Goodman, a seriously criminal lawyer, better call him",
+     "a": "Odenkirk",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 11,
+     "q": "The world record for number of leaves on a stem of this, Trifolium repens, is 56 found in Japan in 2009; that's 14 times the luck!",
+     "a": "a shamrock (clover)",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 26,
+     "q": "In math this type of set has a countable number of elements",
+     "a": "finite",
+     "right": [
+      "Amar"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 17,
+     "q": "Because of the angle, you literally have to bend over backwards to kiss this, set in an Irish castle near Cork",
+     "a": "the Blarney Stone",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 24,
+     "q": "Long before the Sondheim show, Mozart composed his lively serenade called this",
+     "a": "Eine kleine Nachtmusik (A Little Night Music)",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 2,
+     "q": "The stage name of this Latin trap rapper was inspired by an Easter costume he hated wearing as a kid",
+     "a": "Bad Bunny",
+     "right": [
+      "Amar"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 7,
+     "q": "Here's the truth--life is murder for Madeline Martha MacKenzie & Bonnie Carlson on this drama adapted from a bestseller",
+     "a": "Big Little Lies",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 15,
+     "q": "A brown Crayola color is named for this plant that blows down the streets of Western towns",
+     "a": "a tumbleweed",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 12,
+     "q": "Plumbago is another name for this form of carbon",
+     "a": "graphite",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [
+      "Ellen"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 1,
+     "q": "Seen as a symbol of strength, this limestone formation has long been seen in the logo of Prudential",
+     "a": "the Rock of Gibraltar",
+     "right": [
+      "Amar"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 20,
+     "q": "Mozart created the role of the Queen of the Night in this opera for his sister-in-law Josepha Hofer",
+     "a": "The Magic Flute",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 3,
+     "q": "On \"Diners, Drive-Ins and Dives\" chef Benny Ojeda used a baseball bat to mash plantains & pork to create this Puerto Rican dish",
+     "a": "mofongo",
+     "right": [
+      "Amar"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 9,
+     "q": "Taraji P. Henson came in like a Lyon & faced the music as Terrence Howard's ex-wife Cookie on this drama",
+     "a": "Empire",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 18,
+     "q": "The common type of this weed, genus ambrosia, can set off hay fever symptoms",
+     "a": "ragweed",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 13,
+     "q": "A famous slogan found in the \"Communist Manifesto\" & on Karl Marx' gravestone ends with this word",
+     "a": "unite",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 16,
+     "q": "A huge boot-shaped rock is one of the formations on the promontory of Northern Ireland called \"The Giant's\" this",
+     "a": "Causeway",
+     "right": [
+      "Amar"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 21,
+     "q": "In Vienna Mozart struck up a friendship with this composer whom like others, he affectionately called \"Papa\"",
+     "a": "Haydn",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 4,
+     "q": "Taking over from C. Everett Koop in 1990, Dr. Antonia Novello was both the 1st woman & 1st Hispanic Amer. to hold this govt. job",
+     "a": "surgeon general",
+     "right": [
+      "Amar"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 10,
+     "q": "David Boreanaz led this elite title Navy unit wherever they had to go... CBS, then Paramount+, CBS & back to Paramount+",
+     "a": "SEAL Team",
+     "right": [
+      "Ellen"
+     ],
+     "wrong": [
+      "Amar"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 19,
+     "q": "Milk, Russian & bull are types of this prickly stemmed weed",
+     "a": "thistles",
+     "right": [],
+     "wrong": [
+      "Ellen"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 14,
+     "q": "It's a follower of Islam's second-largest branch",
+     "a": "a Shiite",
+     "right": [
+      "Amar"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": true,
+     "order": 23,
+     "q": "This sacred shrine in Jerusalem covers the spot from which Muhammad is said to have ascended to heaven",
+     "a": "the Dome of the Rock",
+     "right": [],
+     "wrong": [
+      "Chris"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 200
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 22,
+     "q": "Ironically, Mozart was working on one of these masses for the dead during his final illness & died with it unfinished",
+     "a": "a requiem",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "IT'S ALREADY IN THE FORM OF A QUESTION!",
+    "TREATIES",
+    "MEDICAL CROSSWORD CLUES",
+    "BEGINS WITH A SILENT LETTER",
+    "BOOKS FROM THE LAST FEW YEARS",
+    "FICTIONAL MOVIE SPORTS TEAMS"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 30,
+     "q": "This 1985 educational computer game features the title globetrotting female antagonist",
+     "a": "Where in the World Is Carmen Sandiego?",
+     "right": [
+      "Amar"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 17,
+     "q": "In the 1929 Lateran Treaty signed by Cardinal Pietro Gasparri & this man, Italy recognized the sovereignty of Vatican City",
+     "a": "\"Il Duce\" (Mussolini)",
+     "right": [
+      "Ellen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "Adjective meaning delivered to the blood in vein \n(11 letters)",
+     "a": "intravenous",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 12,
+     "q": "Boxers' records list wins, losses & how many of the former were by this",
+     "a": "knockout",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 14,
+     "q": "Jesmyn Ward's \"Salvage the Bones\" finds a poor Gulf coast family riding out this 2005 disaster & its aftermath",
+     "a": "Katrina",
+     "right": [
+      "Amar"
+     ],
+     "wrong": [
+      "Ellen"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 26,
+     "q": "To become a Rockford Peach in this film, Geena Davis had to audition by throwing a baseball to Penny Marshall",
+     "a": "A League of Their Own",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 21,
+     "q": "Edward Albee won his first Tony for this 1962 drama in which marital arguments are blood sport",
+     "a": "Who's Afraid of Virginia Woolf?",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 7,
+     "q": "In 1192 Saladin & this English king far from home signed the Treaty of Jaffa, ending the Third Crusade",
+     "a": "Richard Lionheart",
+     "right": [
+      "Amar"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 28,
+     "q": "Avian name for varicella (10 letters)",
+     "a": "chickenpox",
+     "right": [
+      "Amar"
+     ],
+     "wrong": [
+      "Ellen"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 27,
+     "q": "Gina McCarthy, Biden's first climate advisor, was also called his climate this, meaning one who has great authority",
+     "a": "czar",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 18,
+     "q": "Author Curtis Sittenfeld wonders what would've happened if Hillary never married Bill in the novel titled this maiden name",
+     "a": "Rodham",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 25,
+     "q": "A lead character in \"Whip It\" is Babe Ruthless, a jammer on the Hurl Scouts team in this sport",
+     "a": "roller derby",
+     "right": [],
+     "wrong": [
+      "Chris"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 13,
+     "q": "The website for the Texas Ranger Hall of Fame included this oft-asked query when discussing the Lone Ranger",
+     "a": "Who was that masked man?",
+     "right": [
+      "Ellen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": true,
+     "order": 3,
+     "q": "France restored this tiny principality's independence in an 1861 treaty & a customs union was established 4 years later",
+     "a": "Monaco",
+     "right": [
+      "Amar"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 4000
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 2,
+     "q": "Nether region tubes named for an Italian \n(9 letters)",
+     "a": "Fallopian",
+     "right": [
+      "Amar"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 4,
+     "q": "Johann Zoffany must have felt his time running out when he painted a circa 1776 \"Self-Portrait with\" this timekeeping item \"& Skull\"",
+     "a": "Hourglass",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 15,
+     "q": "There are an infinite number of books in \"The Midnight\" this, a 2020 bestseller by Matt Haig",
+     "a": "Library",
+     "right": [
+      "Amar"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 22,
+     "q": "The Charlestown Chiefs hockey team in this 1977 Paul Newman film was based on the Johnstown Jets & some of its players",
+     "a": "Slap Shot",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 19,
+     "q": "In a relatively famous play, this 4-word question precedes \"Deny thy father & refuse thy name\"",
+     "a": "Wherefore art thou Romeo",
+     "right": [],
+     "wrong": [
+      "Chris"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 6000
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 8,
+     "q": "In 1846 the U.S. & Great Britain signed the Treaty of Oregon establishing this parallel as the main intl. boundary in the Pacific NW",
+     "a": "the 49th",
+     "right": [],
+     "wrong": [
+      "Chris",
+      "Amar"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 10,
+     "q": "To find the issue the doc samples some tissue\n(6 letters)",
+     "a": "biopsy",
+     "right": [
+      "Amar"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 5,
+     "q": "The white-tailed type of this animal was nearly hunted to extinction in the 1800s, but has slowly recovered",
+     "a": "a gnu",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 16,
+     "q": "This 2021 Andy Weir book about a plucky astronaut sounds like it may be a long shot",
+     "a": "Project Hail Mary",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 23,
+     "q": "Adam Sandler played him, \"The Waterboy\" for the Mud Dogs of South Central Louisiana State",
+     "a": "Bobby Boucher",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 20,
+     "q": "In Matthew 27 in the King James Version, Jesus cries out, \"My God, my God\", then this anguished question",
+     "a": "why hast thou forsaken me",
+     "right": [],
+     "wrong": [
+      "Chris"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 9,
+     "q": "In the 1742 Treaty of Breslau, this Austrian archduchess gave most of the Silesian duchies to Prussia",
+     "a": "Maria Theresa",
+     "right": [
+      "Amar"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 11,
+     "q": "Type of shock from a severe allergic reaction (12 letters)",
+     "a": "anaphylactic",
+     "right": [
+      "Ellen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 6,
+     "q": "Poet Emma Lazarus used this adjective in describing the \"refuse of your teeming shore\"",
+     "a": "wretched",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 29,
+     "q": "Good times for this author: his Emmett-Till-haunted \"The Trees\" won praise & \"Erasure\" became the film \"American Fiction\"",
+     "a": "Percival Everett",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 24,
+     "q": "Not Gene Hackman but this man as his alcoholic assistant coach with the Hickory High Huskers was Oscar-nominated for \"Hoosiers\"",
+     "a": "Dennis Hopper",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "COUNTRIES' LANGUAGES",
+  "q": "About 70% of its people can speak Portuguese; about 20% can speak Umbundu, 8% Kikongo & 8% Kimbundu",
+  "a": "Angola",
+  "right": [
+   "Amar"
+  ],
+  "wrong": [
+   "Ellen",
+   "Chris"
+  ]
+ },
+ "gameId": "8949",
+ "cat_notes": {
+  "J": [
+   "Clues about Puerto Ricans.",
+   "Clues about The Drama of Television.",
+   "Clues in the Weeds.",
+   "Each answer ends with “ITE”.",
+   "Clues about Rock Me.",
+   "Clues about Amadeus."
+  ],
+  "DJ": [
+   "The category “IT'S ALREADY IN THE FORM OF A QUESTION!” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "Clues about Treaties.",
+   "Crossword-style clues: a short definition plus a letter pattern for the answer.",
+   "Each answer starts with a silent letter.",
+   "Clues about Books from the Last Few Years.",
+   "Clues about Fictional Movie Sports Teams."
+  ],
+  "F": "Clues about Countries Languages."
+ }
+}

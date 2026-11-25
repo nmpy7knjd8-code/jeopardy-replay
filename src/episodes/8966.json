@@ -1,0 +1,996 @@
+{
+ "show": "#9123",
+ "aired": "2024-06-12",
+ "note": "Adriana Harmeyer game 11.",
+ "contestants": [
+  {
+   "name": "Enzo Cunanan",
+   "bio": "a student from Orlando, Florida",
+   "short": "Enzo"
+  },
+  {
+   "name": "Connor Townsend",
+   "bio": "an attorney from Chelsea, Michigan",
+   "short": "Connor"
+  },
+  {
+   "name": "Adriana Harmeyer",
+   "bio": "an archivist from West Lafayette, Indiana (whose 10-day cash winnings total $225,700)",
+   "short": "Adriana"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Adriana": 7600,
+   "Connor": 2000,
+   "Enzo": 4000
+  },
+  "DJ": {
+   "Adriana": 20600,
+   "Connor": 9600,
+   "Enzo": 16400
+  },
+  "Final": {
+   "Adriana": 33000,
+   "Connor": 7000,
+   "Enzo": 31400
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "THE PHOTOGRAPHS OF MATHEW BRADY",
+    "NATURE",
+    "REGIONAL FOOD",
+    "YOU'LL NEED SOME PROTECTION",
+    "NAME THE DISNEY PRINCESS",
+    "\"D\" FACTO"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "A week after his surrender, he allowed Mathew Brady to photograph him at home",
+     "a": "Robert E. Lee",
+     "right": [
+      "Adriana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 30,
+     "q": "The echidna is also called a spiny one of these, which despite its name, also consumes termites",
+     "a": "anteater",
+     "right": [
+      "Adriana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 24,
+     "q": "For some authentic hot chicken in this city of its origin, try 400 Degrees or Hattie B's",
+     "a": "Nashville",
+     "right": [
+      "Connor"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 26,
+     "q": "This government program that relocates testifiers & keeps them safe is run by the U.S. Marshals Service",
+     "a": "Witness Protection",
+     "right": [
+      "Adriana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 15,
+     "q": "She has magical 70-foot locks",
+     "a": "Rapunzel",
+     "right": [
+      "Adriana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 19,
+     "q": "Daffy Duck has been known to use this adjective meaning worthy of scorn or contempt to describe Bugs Bunny",
+     "a": "despicable",
+     "right": [
+      "Connor"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "She cared for the wounded during the Civil War & sat for a photo circa 1865 while in Washington",
+     "a": "Clara Barton",
+     "right": [
+      "Adriana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 25,
+     "q": "It's the type of lemur here, named for obvious reasons",
+     "a": "ring-tailed",
+     "right": [
+      "Adriana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 23,
+     "q": "The dog seen here is a specialty of, & named for, this city",
+     "a": "Chicago",
+     "right": [
+      "Connor"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "In 1990 international soccer rules made the wearing of these lower limb protectors mandatory in games",
+     "a": "shin guards",
+     "right": [
+      "Enzo"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 11,
+     "q": "She's the only princess based on a real person",
+     "a": "Pocahontas",
+     "right": [
+      "Enzo"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 16,
+     "q": "Ineffectual French King Louis XV reputedly said this type of epic flood would come after him (thanks, Louis!)",
+     "a": "a déluge",
+     "right": [
+      "Adriana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 3,
+     "q": "In 1864, Brady sent one of his operators to Mexico, where he was able to photograph this emperor",
+     "a": "Maximilian",
+     "right": [
+      "Adriana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": true,
+     "order": 6,
+     "q": "You heard this 8-letter word a lot in relation to the April 8, 2024 solar eclipse; Mazatlán, Mexico was in the path of it",
+     "a": "totality",
+     "right": [],
+     "wrong": [
+      "Enzo"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1200
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 20,
+     "q": "A 1950s Charleston, South Carolina, cookbook had an early written recipe for this pairing",
+     "a": "shrimp & grits",
+     "right": [
+      "Connor"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 28,
+     "q": "This animated movie character says he is a Space Ranger in the Universe Protection Unit",
+     "a": "Buzz Lightyear",
+     "right": [
+      "Connor"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 7,
+     "q": "Her name is from Polynesian for \"ocean\" & the ocean chooses her for a special task",
+     "a": "Moana",
+     "right": [
+      "Adriana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 9,
+     "q": "This type of structure, like the one seen here, can be drained so that repairs or renovations may be made to a vessel",
+     "a": "dry dock",
+     "right": [
+      "Adriana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 4,
+     "q": "Brady photographed this commodore following his stint in Japan",
+     "a": "Matthew Perry",
+     "right": [
+      "Enzo"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 13,
+     "q": "This Sicilian volcano blows out perfect smoke rings that are technically called volcanic vortex rings",
+     "a": "Mount Etna",
+     "right": [
+      "Enzo"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 21,
+     "q": "Sort of the Pennsylvania Dutch version of Spam, it's made with pork trimmings & cornmeal, then molded & sliced",
+     "a": "scrapple",
+     "right": [
+      "Connor"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 12,
+     "q": "According to the National Fire Protection Assoc., new signs displaying this important word must have letters at least 6 inches high",
+     "a": "exit",
+     "right": [],
+     "wrong": [
+      "Connor"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 8,
+     "q": "She's friends with a trumpet-playing alligator named Louise",
+     "a": "Tiana",
+     "right": [
+      "Enzo"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 17,
+     "q": "This verb means to undertake something superficially or without serious intent, like my fire-breathing hobby",
+     "a": "dabble",
+     "right": [
+      "Adriana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 5,
+     "q": "Here's this publisher reading the paper, perhaps his own \"New York Tribune\"",
+     "a": "Horace Greeley",
+     "right": [
+      "Enzo"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 14,
+     "q": "The scientific order Rosales includes apples & the sweet & bitter types of this nut grown in Mediterranean climates",
+     "a": "almonds",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 22,
+     "q": "They may sound undesirable but these charred tougher pieces cut from a brisket point are a staple of Kansas City BBQ",
+     "a": "burnt ends",
+     "right": [
+      "Adriana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 29,
+     "q": "After the death of this man in June 1968, the Secret Service began protecting major presidential candidates",
+     "a": "RFK",
+     "right": [
+      "Enzo"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 10,
+     "q": "She's sister to brothers Hamish, Harris & Hubert",
+     "a": "Merida",
+     "right": [
+      "Adriana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 18,
+     "q": "From the Latin for \"make clear\", it's a basic type of sentence such as \"I went home\"",
+     "a": "declarative",
+     "right": [
+      "Adriana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "RIVERS OF EUROPE",
+    "DREAMY SHAKESPEARE QUOTES",
+    "DON'T WANT TO FIGHT",
+    "GEMSTONES",
+    "NUMERICALLY NAMED MUSICIANS & BANDS",
+    "VOWEL SWITCHEROO"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 20,
+     "q": "A famous brewery was founded in 1870 on the banks of this Dutch river",
+     "a": "Amstel",
+     "right": [
+      "Adriana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 14,
+     "q": "Banquo tells Macbeth that he \"dreamt last night of\" this macabre trio",
+     "a": "the Weird Sisters",
+     "right": [
+      "Enzo"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 19,
+     "q": "In the early U.S., John Randolph refused this from James Wilkinson; Wilkinson posted Randolph, publicly calling him coward",
+     "a": "a duel",
+     "right": [
+      "Connor"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 12,
+     "q": "One of these gems known as the De Beers was the centerpiece of the Patiala necklace created by Cartier in the 1920s",
+     "a": "a diamond",
+     "right": [
+      "Adriana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 5,
+     "q": "Still going strong, they released their debut album \"Songs About Jane\" in 2002",
+     "a": "Maroon 5",
+     "right": [
+      "Enzo"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 10,
+     "q": "A body of jurors\n& \nadjective relating to crime or punishment",
+     "a": "panel & penal",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 21,
+     "q": "After flowing through this big city, the River Liffey empties into the bay named for that city",
+     "a": "Dublin",
+     "right": [
+      "Adriana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 9,
+     "q": "\"This accident is not unlike my dream\", cries Brabantio on hearing of his daughter Desdemona's romance with this man",
+     "a": "Othello",
+     "right": [
+      "Adriana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 30,
+     "q": "In the Book of Numbers, most of the Israelites are unwilling to fight for Canaan because this type of people live there",
+     "a": "giants",
+     "right": [
+      "Enzo"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 13,
+     "q": "In Colombia, the color of this gem varies depending on the mine: yellowish green from the Muzo mine, bluish green from the Chivor mine",
+     "a": "an emerald",
+     "right": [
+      "Enzo"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 1,
+     "q": "Some jewelry is in the name of this rapper whose hits include \"I'm Different\" & \"Birthday Song\"",
+     "a": "2 Chainz",
+     "right": [
+      "Connor"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 11,
+     "q": "Jim O'Connor of \"Glass Menagerie\" fame was a \"gentleman\" one\n& \na room for Merlots",
+     "a": "caller & cellar",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 15,
+     "q": "Visit the valley of this French river that runs from the Massif Central to the Atlantic near Nantes",
+     "a": "the Loire",
+     "right": [
+      "Adriana"
+     ],
+     "wrong": [
+      "Enzo"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": true,
+     "order": 8,
+     "q": "The ghost of the Duke of Buckingham, one of this man's many victims, tells him to \"Dream on, of bloody deeds and death\"",
+     "a": "Richard III",
+     "right": [
+      "Enzo"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 4000
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 29,
+     "q": "A 2017 animated film was based on \"The Story of\" this big-hearted bull who'd rather smell the flowers than fight",
+     "a": "Ferdinand",
+     "right": [
+      "Adriana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 24,
+     "q": "The most prized of these gems, such as the magnificent Ratnaraj, have come from Myanmar in a color known as pigeon's blood red",
+     "a": "a ruby",
+     "right": [
+      "Enzo"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 2,
+     "q": "In \"Barbie\" Ryan Gosling & other Kens give a soulful performance of \"Push\" by this group",
+     "a": "Matchbox Twenty",
+     "right": [
+      "Connor"
+     ],
+     "wrong": [
+      "Enzo"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 16,
+     "q": "Puzzle represented by syllables \n& pictures\n& \na group of unsophisticated chaps",
+     "a": "rebus & rubes",
+     "right": [
+      "Adriana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 22,
+     "q": "This river of central Germany follows Frankfurt in the city's full name",
+     "a": "the Main",
+     "right": [
+      "Adriana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1000
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 7,
+     "q": "In \"The Tempest\", he tells Ferdinand, \"We are such stuff as dreams are made on\"",
+     "a": "Prospero",
+     "right": [
+      "Enzo"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 25,
+     "q": "This future oil baron paid a substitute to fight in the Civil War; his brother Frank was wounded at Chancellorsville",
+     "a": "John D. Rockefeller",
+     "right": [
+      "Enzo"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 27,
+     "q": "Michigan's state gem is Isle Royale greenstone, found on Isle Royale in this lake",
+     "a": "Lake Superior",
+     "right": [
+      "Connor"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 3,
+     "q": "\"For real\" & \"On God\" are 2 of the ad-libs heard on \"Bank Account\" & other tracks by this rapper",
+     "a": "21 Savage",
+     "right": [
+      "Connor"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 17,
+     "q": "Hitchcock film starring Jimmy Stewart\n& \nwhat happens when someone defaults on a car payment",
+     "a": "Rope & repo",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 23,
+     "q": "There's a silent \"D\" at the beginning of this fourth-longest European river",
+     "a": "the Dnieper",
+     "right": [
+      "Adriana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 6,
+     "q": "In \"A Midsummer Night's Dream\" (of course), this addled weaver \"had a dream, past the wit of man to say what dream it was\"",
+     "a": "Bottom",
+     "right": [
+      "Enzo"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 26,
+     "q": "\"A\" is for this purely defensive martial art developed by Morihei Ueshiba, who hated fighting",
+     "a": "aikido",
+     "right": [
+      "Adriana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 28,
+     "q": "At 10,363 carats or 4.6 pounds, the world's largest cut aquamarine is the Dom Pedro, found in this country in the 1980s",
+     "a": "Brazil",
+     "right": [
+      "Enzo"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 4,
+     "q": "This band's cover of \"One\" by Harry Nilsson was the loveliest number on the Billboard Top 10 in 1969",
+     "a": "Three Dog Night",
+     "right": [
+      "Connor"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 18,
+     "q": "Handled jai alai basket\n& \nHindu social division",
+     "a": "cesta & caste",
+     "right": [
+      "Adriana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "FAMOUS NAMES",
+  "q": "Vying with Eiffel, this engineer wanted to create big; an admiring account said the obelisk of Luxor is too short to be a spoke",
+  "a": "(George) Ferris",
+  "right": [
+   "Enzo",
+   "Adriana"
+  ],
+  "wrong": [
+   "Connor"
+  ]
+ },
+ "gameId": "8966",
+ "cat_notes": {
+  "J": [
+   "Clues about The Photographs of Mathew Brady.",
+   "Clues about Nature.",
+   "Clues about Regional Food.",
+   "Clues about You'll Need Some Protection.",
+   "Clues about Name the Disney Princess.",
+   "Each answer contains the letter “D”, and the clues are about Facto."
+  ],
+  "DJ": [
+   "Clues about Rivers of Europe.",
+   "Clues about Dreamy Shakespeare Quotes.",
+   "Clues about Don't Want to Fight.",
+   "Clues about Gemstones.",
+   "Clues about Numerically Named Musicians and Bands.",
+   "You'll need to give me two words in which vowels switch places."
+  ],
+  "F": "Clues about Famous Names."
+ }
+}

@@ -1,0 +1,999 @@
+{
+ "show": "#9116",
+ "aired": "2024-06-03",
+ "note": "Adriana Harmeyer game 4.",
+ "contestants": [
+  {
+   "name": "Carol Ritchey",
+   "bio": "a retired letter carrier from Eastpointe, Michigan",
+   "short": "Carol"
+  },
+  {
+   "name": "Matthew Kahn",
+   "bio": "an IP docketing assistant from San Diego, California",
+   "short": "Matthew"
+  },
+  {
+   "name": "Adriana Harmeyer",
+   "bio": "an archivist from West Lafayette, Indiana (whose 3-day cash winnings total $71,600)",
+   "short": "Adriana"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Adriana": 6600,
+   "Matthew": 5200,
+   "Carol": 7900
+  },
+  "DJ": {
+   "Adriana": 22600,
+   "Matthew": 6000,
+   "Carol": 5900
+  },
+  "Final": {
+   "Adriana": 20200,
+   "Matthew": 4000,
+   "Carol": 100
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "HISTORICAL DOCUMENTS",
+    "YOU HAD ONE JOB!",
+    "BESTSELLING BOOKS BY DECADES",
+    "AROUND NEW YORK",
+    "2+2=1",
+    "CLASSIC SONG NUMBERS"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 16,
+     "q": "This document said George III \"has made judges dependent on his will alone\" & imposed taxes \"without our consent\"",
+     "a": "the Declaration of Independence",
+     "right": [
+      "Adriana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 20,
+     "q": "In medieval times a fletcher made these items used in conjunction with the objects made by a bowyer",
+     "a": "arrows",
+     "right": [
+      "Matthew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 2,
+     "q": "\"1984\", \n\"The Diary of a Young Girl\"",
+     "a": "the 1940s",
+     "right": [
+      "Matthew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 25,
+     "q": "Seneca Village was a 19th century settlement of Black landowners that was torn down to build this urban park",
+     "a": "Central Park",
+     "right": [
+      "Matthew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "To exist (or not to exist, that is the question) + a commercial, for short = a small, round stone threaded on a wire",
+     "a": "bead (be + ad)",
+     "right": [
+      "Matthew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 5,
+     "q": "A Beatles song was born when Paul McCartney's driver said he'd been very, very busy working this calendrical impossibility",
+     "a": "eight days a week",
+     "right": [
+      "Carol"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 17,
+     "q": "The 1928 act creating this project said it was for the \"protection and development of the Colorado River basin\"",
+     "a": "Hoover Dam",
+     "right": [
+      "Matthew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 21,
+     "q": "Originally, these people were employed to drive a bunch of horses; now, it's a union with serious drive & not one to be messed with",
+     "a": "the Teamsters",
+     "right": [
+      "Matthew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 3,
+     "q": "\"The Cat in the Hat\", \n\"On the Road\"",
+     "a": "the 1950s",
+     "right": [
+      "Matthew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 26,
+     "q": "Stay on the Downtown 6 to catch glimpses of the old station named for this building where Eric Adams works",
+     "a": "City Hall",
+     "right": [
+      "Adriana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 9,
+     "q": "A singular Santa laugh \n+\na chopping tool with a long handle = \na trick",
+     "a": "a hoax (ho + ax)",
+     "right": [
+      "Adriana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 6,
+     "q": "Weird Al wanted to parody this Prince song by turning the year into an infomercial sales price, as in \"For Only...!\"",
+     "a": "\"1999\"",
+     "right": [
+      "Matthew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 18,
+     "q": "On June 5, 1944 he issued a printed order to Allied troops to \"bring about the destruction of the German war machine\"",
+     "a": "Eisenhower",
+     "right": [
+      "Carol"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 22,
+     "q": "It's the job of one who reads the lessons during a church service & very much not \"I ate his liver with some fava beans\"",
+     "a": "a lector",
+     "right": [
+      "Adriana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 4,
+     "q": "\"Valley of the Dolls\", \n\"The Andromeda Strain\"",
+     "a": "the '60s",
+     "right": [
+      "Carol"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 28,
+     "q": "Established in 1837 & famed for a cut of steak, this N.Y. restaurant is credited as the 1st to serve eggs Benny & lobster Newburg",
+     "a": "Delmonico's",
+     "right": [
+      "Carol"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 10,
+     "q": "\"A long, long way to run\" in a \"Sound of Music\" song \n+\nSpanish for \"of\" \n= \nto dim",
+     "a": "fade (fa + de)",
+     "right": [
+      "Adriana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 13,
+     "q": "In a 1978 No. 1 hit, the Commodores sang, \"You're once... twice...\" this title",
+     "a": "\"Three Times A Lady\"",
+     "right": [
+      "Carol"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": true,
+     "order": 19,
+     "q": "The signers of this document pledged to \"covenant and combine ourselves together into a civil body politick\"",
+     "a": "the Mayflower Compact",
+     "right": [
+      "Carol"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2500
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 23,
+     "q": "A psephologist studies these events; general ones generally happen every 2 years",
+     "a": "elections",
+     "right": [
+      "Adriana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 7,
+     "q": "\"The World According to Garp\", \n\"Fear & Loathing in Las Vegas\"",
+     "a": "the '70s",
+     "right": [
+      "Matthew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "The Grand Concourse, a wide thoroughfare with tree-lined medians, is known as this Parisian street of the Bronx",
+     "a": "the Champs-Élysées",
+     "right": [
+      "Adriana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 11,
+     "q": "A word that can follow \"make\" + \nI, in objective case\n=\na type of sports venue",
+     "a": "dome (do + me)",
+     "right": [
+      "Adriana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 14,
+     "q": "The Proclaimers proclaimed quite Scottishly their intention to walk this many miles; guess 804.672 km didn't scan",
+     "a": "500 miles",
+     "right": [
+      "Carol"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 27,
+     "q": "This 1890 legislation called itself \"an act to protect trade and commerce against unlawful restraints and monopolies\"",
+     "a": "the Sherman Antitrust Act",
+     "right": [
+      "Matthew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 24,
+     "q": "\"A\" is for this female owner of a tavern who, you might say, is married to her job",
+     "a": "an alewife",
+     "right": [
+      "Carol"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 8,
+     "q": "\"Mrs. Dalloway\", \n\"Lady Chatterley's Lover\"",
+     "a": "the 1920s",
+     "right": [
+      "Matthew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 30,
+     "q": "A plaque at 65th & 3rd honors this spy who was hanged by the British on September 22, 1776",
+     "a": "Nathan Hale",
+     "right": [
+      "Adriana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 12,
+     "q": "A math term &/or a Greek letter \n+\na Britishism for \"thanks!\"\n=\n a form of bread",
+     "a": "pita (pi + ta)",
+     "right": [
+      "Adriana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 15,
+     "q": "Regarding this Meat Loaf song, it's a yes on wanting you & needing you, but loving you... Oo, sorry! Now don't be sad, 'cause...",
+     "a": "\"Two Out Of Three Ain't Bad\"",
+     "right": [
+      "Carol"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "BODIES OF WATER",
+    "HUMANITARIANS",
+    "ANIMAL, VEGETABLE OR MINERAL",
+    "CELEBRITY LIFESTYLE & BEAUTY BRANDS",
+    "AVIATION HISTORY",
+    "STARTS WITH \"J\""
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "With an area of more than 300,000 square miles, this North American bay covers more than 3 times the area of the Great Lakes combined",
+     "a": "Hudson Bay",
+     "right": [
+      "Adriana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 11,
+     "q": "Pediatrician Jane Aronson has encouraged people to do this; she got her own 2 young'uns from Vietnam & Ethiopia",
+     "a": "adopt",
+     "right": [
+      "Matthew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 13,
+     "q": "The European this bird, also known as the redbreast, sings all year; its spring song is more powerful & upbeat",
+     "a": "a robin",
+     "right": [
+      "Adriana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 10,
+     "q": "Gwyneth Paltrow launched this brand \"from her kitchen as a homespun weekly newsletter\"",
+     "a": "Goop",
+     "right": [
+      "Adriana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 7,
+     "q": "Cleared by the FAA in 2021, the Terrafugia Transition is this, wished for by so many in bumper-to-bumper traffic",
+     "a": "a flying car",
+     "right": [
+      "Matthew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "An A.P. article about this habit says, \"for many New Yorkers, crossing the street... against the light is a way of life\"",
+     "a": "jaywalking",
+     "right": [
+      "Carol"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 15,
+     "q": "Zambia's lowest point is this river that separates the country from Zimbabwe & also begins with \"Z\"",
+     "a": "Zambezi",
+     "right": [
+      "Adriana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 20,
+     "q": "In 1999 this mogul & then-wife Melinda founded the Millennium Scholars Program for minority students",
+     "a": "Bill Gates",
+     "right": [
+      "Carol"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 16,
+     "q": "A variant of the idiom \"you can't get blood from a stone\" is \"you can't get blood from\" this root vegetable",
+     "a": "a turnip",
+     "right": [
+      "Carol"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 27,
+     "q": "Jessica Alba co-founded this authentically named company that sells household products with natural ingredients",
+     "a": "Honest",
+     "right": [
+      "Adriana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 8,
+     "q": "In 1926 Charles Lindbergh was an airmail pilot flying the route between Chicago & this city whose name he'd later take aloft",
+     "a": "St. Louis",
+     "right": [
+      "Matthew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 3,
+     "q": "A plan or team that comes together does this--with a J, more properly than a G",
+     "a": "jell",
+     "right": [
+      "Adriana"
+     ],
+     "wrong": [
+      "Matthew"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 21,
+     "q": "The French call it Pas de Calais; the English call it this",
+     "a": "the Strait of Dover",
+     "right": [],
+     "wrong": [
+      "Adriana"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 24,
+     "q": "This actor whose food company provides for kids' charities joked that \"The salad dressing is outgrossing my films\"",
+     "a": "Paul Newman",
+     "right": [
+      "Matthew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 17,
+     "q": "Its colorful iridescence, like in certain feathers, give the mineral bornite the nickname this bird ore",
+     "a": "peacock",
+     "right": [
+      "Adriana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 28,
+     "q": "In 2022, Rhode skincare brand was launched by this model & daughter of Stephen Baldwin",
+     "a": "Hailey Bieber",
+     "right": [
+      "Adriana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 9,
+     "q": "In 1914 Tiny Broadwick (she was 3 lbs. at birth) cut a tangled parachute line & made the 1st of these alliterative jumps",
+     "a": "a free fall",
+     "right": [
+      "Carol"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 4,
+     "q": "An X-Men comic book character bears this name that comes from a title of Krishna",
+     "a": "Juggernaut",
+     "right": [],
+     "wrong": [
+      "Matthew"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 22,
+     "q": "An active volcano lies within this country's Taal Lake, which itself occupies a caldera",
+     "a": "the Philippines",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 25,
+     "q": "In 1905 he published a book on Johann Sebastian Bach & then headed to French Equatorial Africa to build his hospital",
+     "a": "Dr. (Albert) Schweitzer",
+     "right": [],
+     "wrong": [
+      "Carol"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 18,
+     "q": "This common sulfide mineral derives its name from the Greek word for \"fire\", so straighten up &...",
+     "a": "pyrite",
+     "right": [
+      "Adriana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 29,
+     "q": "Kim Kardashian started this brand to create shapewear to match different skin tones",
+     "a": "Skims",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 12,
+     "q": "After many transatlantic crossings, the Hindenburg crashed & burned while landing at Lakehurst in this U.S. state",
+     "a": "New Jersey",
+     "right": [
+      "Adriana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 5,
+     "q": "This word for a lamentation full of complaints references an Old Testament prophet",
+     "a": "a jeremiad",
+     "right": [
+      "Adriana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 4000
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": true,
+     "order": 23,
+     "q": "The Sinai Peninsula lies between 2 gulfs, the Gulf of Suez on the west & this one on the east",
+     "a": "the Gulf of Aqaba",
+     "right": [],
+     "wrong": [
+      "Carol"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 7600
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 26,
+     "q": "In 1968 this sister of JFK founded the Special Olympics; her son Timothy Shriver now chairs the organization",
+     "a": "Eunice (Kennedy Shriver)",
+     "right": [
+      "Adriana"
+     ],
+     "wrong": [
+      "Matthew"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 19,
+     "q": "Rock salt is also known by this 6-letter name",
+     "a": "halite",
+     "right": [
+      "Carol"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 30,
+     "q": "UN/DN LAQR is a nail polish brand by Colson Baker, aka this rapper who shares his name with a gangster",
+     "a": "Machine Gun Kelly",
+     "right": [
+      "Adriana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 14,
+     "q": "It's the avian nickname for the SR-71 reconnaissance aircraft that could hit 2,200 miles per hour & an altitude above 85,000 feet",
+     "a": "a Blackbird",
+     "right": [
+      "Carol"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 6,
+     "q": "With a name meaning \"new soldier\", this elite Ottoman corps ceased to be in 1826 after they rebelled against military changes",
+     "a": "Janissaries",
+     "right": [
+      "Matthew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "COLLEGES",
+  "q": "Of the Seven Sisters colleges, this one located in a place of the same name is the farthest south",
+  "a": "Bryn Mawr",
+  "right": [],
+  "wrong": [
+   "Carol",
+   "Matthew",
+   "Adriana"
+  ]
+ },
+ "gameId": "8959",
+ "cat_notes": {
+  "J": [
+   "Clues about Historical Documents.",
+   "The category “YOU HAD ONE JOB!” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "Clues about Bestselling Books by Decades.",
+   "Clues about Around New York.",
+   "Two 2-letter words combined to make the word you'll give.",
+   "Clues about Classic Song Numbers."
+  ],
+  "DJ": [
+   "Clues about Bodies of Water.",
+   "Clues about Humanitarians.",
+   "Clues about Animal, Vegetable or Mineral.",
+   "Clues about Celebrity Lifestyle and Beauty Brands.",
+   "Clues about Aviation History.",
+   "Each answer starts with “J”."
+  ],
+  "F": "Clues about Colleges."
+ }
+}

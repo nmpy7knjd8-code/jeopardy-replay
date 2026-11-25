@@ -1,0 +1,1006 @@
+{
+ "show": "#9121",
+ "aired": "2024-06-10",
+ "note": "Adriana Harmeyer game 9.",
+ "contestants": [
+  {
+   "name": "Josh Fry",
+   "bio": "a software developer originally from Peachtree Corners, Georgia",
+   "short": "Josh"
+  },
+  {
+   "name": "Aaron Lemos",
+   "bio": "a high school video production teacher from Northridge, California",
+   "short": "Aaron"
+  },
+  {
+   "name": "Adriana Harmeyer",
+   "bio": "an archivist from West Lafayette, Indiana (whose 8-day cash winnings total $183,100)",
+   "short": "Adriana"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Adriana": 3000,
+   "Aaron": 1600,
+   "Josh": 1600
+  },
+  "DJ": {
+   "Adriana": 12100,
+   "Aaron": 1600,
+   "Josh": 10700
+  },
+  "Final": {
+   "Adriana": 21600,
+   "Aaron": 0,
+   "Josh": 9299
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "CAPITALS & THEIR AIRPORTS",
+    "BUNNY LIT",
+    "WELL, THAT HAPPENED",
+    "TIME FOR SOME DRUGS",
+    "DUETS WITH DADS",
+    "FIND \"OUT\""
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 11,
+     "q": "It's about 25 miles from Sphinx International",
+     "a": "Cairo",
+     "right": [
+      "Adriana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 5,
+     "q": "In \"Alice's Adventures in Wonderland\", this bunny's first words were \"Oh dear! Oh dear! I shall be late!\"",
+     "a": "the White Rabbit",
+     "right": [
+      "Adriana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 12,
+     "q": "Hey, dummy! Brea, Cal. PD had 2 words for the man who used the carpool lane with one of these in the passenger seat--\"nice try\"",
+     "a": "a mannequin",
+     "right": [
+      "Josh"
+     ],
+     "wrong": [
+      "Adriana"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 21,
+     "q": "Carbonate of this element is the active ingredient in Tums, which can be used to treat a deficiency of it",
+     "a": "calcium",
+     "right": [],
+     "wrong": [
+      "Adriana",
+      "Aaron"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 28,
+     "q": "For a compilation album in 2018, Lisa Marie recorded an emotional reimagined duet, \"Where No One Stands Alone\", with him",
+     "a": "Elvis Presley",
+     "right": [
+      "Adriana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 6,
+     "q": "A lopsided sports loss, or a flat tire",
+     "a": "a blowout",
+     "right": [
+      "Aaron"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 19,
+     "q": "It's served by Incheon International",
+     "a": "Seoul",
+     "right": [
+      "Aaron"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "When this character gets stuck in a rabbit hole, Rabbit says, \"I shall go and fetch Christopher Robin\"",
+     "a": "Winnie-the-Pooh",
+     "right": [
+      "Adriana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 24,
+     "q": "A fossil of a 4-legged whale that fed like a raptor--a walking whale raptor?! Yipes--was dug up in this North African desert",
+     "a": "the Sahara",
+     "right": [
+      "Josh"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 22,
+     "q": "Drugs like Claritin work by reducing the effects of this natural chemical in the body",
+     "a": "histamine",
+     "right": [
+      "Aaron"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 20,
+     "q": "He's not only duetted with wife Faith Hill, but with daughter Gracie as well",
+     "a": "Tim McGraw",
+     "right": [
+      "Aaron"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 7,
+     "q": "This military command means to turn clockwise 180 degrees",
+     "a": "about face",
+     "right": [
+      "Josh"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 18,
+     "q": "Ninoy Aquino International is nearby",
+     "a": "Manila",
+     "right": [
+      "Josh"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 2,
+     "q": "In a 1917 story by Thornton Burgess, Peter Rabbit decides to change his name to this, also the name of the bunny in an Easter song",
+     "a": "Peter Cottontail",
+     "right": [
+      "Adriana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 26,
+     "q": "\"Groove Is In The Heart\" sampled Eva Gabor singing \"I\" (before \"get allergic smelling hay\") from the theme of this '60s sitcom",
+     "a": "Green Acres",
+     "right": [
+      "Josh"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 23,
+     "q": "Before penicillin, bacterial infections were treated with these 5-letter drugs that are still used for eye infections & acne",
+     "a": "sulfa drugs",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 15,
+     "q": "In the \"Hannah Montana\" movie, they sang \"Butterfly Fly Away\"",
+     "a": "Billy Ray Cyrus & Miley Cyrus",
+     "right": [
+      "Josh"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 8,
+     "q": "The unpleasant effects after something bad has happened, hopefully not after a nuclear explosion",
+     "a": "fallout",
+     "right": [
+      "Josh"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": true,
+     "order": 16,
+     "q": "King Khalid International is its gateway",
+     "a": "Riyadh, Saudi Arabia",
+     "right": [],
+     "wrong": [
+      "Josh"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2800
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 3,
+     "q": "While writing this 1972 novel, Richard Adams consulted R.M. Lockley's natural history study \"The Private Life of the Rabbit\"",
+     "a": "Watership Down",
+     "right": [
+      "Adriana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 25,
+     "q": "France was furieuse as Australia killed a $66 bil. deal for conventional these & turned to the U.S. & U.K. for nuclear ones",
+     "a": "a submarine",
+     "right": [
+      "Aaron"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 30,
+     "q": "The tranquilizer Diazepam began being sold under this name in 1963; a few years later, it was \"mother's little helper\"",
+     "a": "Valium",
+     "right": [
+      "Aaron"
+     ],
+     "wrong": [
+      "Adriana"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 13,
+     "q": "Here's this Italian tenor & his son Matteo with whom he recorded the duet called \"Fall On Me\"",
+     "a": "Bocelli",
+     "right": [
+      "Adriana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 9,
+     "q": "Adjective for someone very enthusiastic in support, or very religious",
+     "a": "devout",
+     "right": [
+      "Aaron"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 17,
+     "q": "Its main airport is fittingly called El Alto & breathing may be hard upon landing",
+     "a": "La Paz, Bolivia",
+     "right": [],
+     "wrong": [
+      "Adriana",
+      "Aaron",
+      "Josh"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 4,
+     "q": "This vampire rabbit created by James Howe & his wife Deborah has fangs & sucks the juice out of vegetables",
+     "a": "Bunnicula",
+     "right": [
+      "Adriana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 27,
+     "q": "Prince Harry & Meghan named their daughter this, Harry's granny's family nickname",
+     "a": "Lilibet",
+     "right": [
+      "Adriana"
+     ],
+     "wrong": [
+      "Aaron"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 29,
+     "q": "It's the active ingredient in the \"pens\" used to treat anaphylaxis",
+     "a": "epinephrine",
+     "right": [
+      "Josh"
+     ],
+     "wrong": [
+      "Aaron"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 14,
+     "q": "25 years after his death, Nat King Cole duetted with daughter Natalie on this Grammy-winning hit, remember?",
+     "a": "\"Unforgettable\"",
+     "right": [
+      "Josh"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 10,
+     "q": "Type of vessel seen here with a distinctive feature for extra stability",
+     "a": "outrigger",
+     "right": [
+      "Aaron"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "SENATE HISTORY",
+    "THE ANIMAL KINGDOM",
+    "MONUMENTS & MEMORIALS",
+    "THERE'S GOLD IN YOUR FUTURE",
+    "THEY DIRECTED THEMSELVES",
+    "EMOTIONS"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 29,
+     "q": "The only one of these to have been chosen by the Senate under the 12th Amendment was Richard M. Johnson, in 1837",
+     "a": "a vice president",
+     "right": [
+      "Josh"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 30,
+     "q": "Named for an Aztec god, the axolotl is found in the wild only in this world capital",
+     "a": "Mexico City",
+     "right": [
+      "Josh"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 16,
+     "q": "Known simply as the Monument, a 200-foot London landmark was built in the 1670s, the decade after this event it commemorates",
+     "a": "the Great Fire of London",
+     "right": [
+      "Josh"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 26,
+     "q": "From Canada to your supermarket, the Yukon Gold is a variety of this with smooth skin & yellow flesh",
+     "a": "a potato",
+     "right": [
+      "Josh"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "In \"Maestro\"",
+     "a": "Bradley Cooper",
+     "right": [
+      "Josh"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 6,
+     "q": "(Tony Hale presents the clue.) You know something good is coming from that \"E-U\" prefix as in the sweet sound of the euphonium or this blissed-out feeling",
+     "a": "euphoria",
+     "right": [
+      "Aaron"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 28,
+     "q": "In 1935 Charles Watkins became the first official one of these experts who advise the Senate on its rules & procedures",
+     "a": "parliamentarian",
+     "right": [
+      "Adriana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 27,
+     "q": "The name of the wallaroo sounds like it's a mash-up of these two marsupials, but it's not",
+     "a": "a wallaby & a kangaroo",
+     "right": [
+      "Josh"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 12,
+     "q": "Begun in 1885 & inaugurated in 1911, the Victor Emmanuel II monument commemorates the unification of this country",
+     "a": "Italy",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 20,
+     "q": "On January 7, 2024 Emma Stone won one of these awards for her performance in \"Poor Things\"",
+     "a": "a Golden Globe",
+     "right": [
+      "Josh"
+     ],
+     "wrong": [
+      "Adriana"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 4,
+     "q": "In \"Yentl\"",
+     "a": "Barbra Streisand",
+     "right": [
+      "Aaron"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 7,
+     "q": "(Tony Hale presents the clue.) Some of the meanings of this word are a hit song by New Order, the horse that won the Kentucky Derby in 1915 & the agonizing misery of bad decisions in your past",
+     "a": "regret",
+     "right": [
+      "Adriana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 25,
+     "q": "In 1834 the Senate censured President Jackson for pulling all federal money out of this",
+     "a": "the Bank of the United States",
+     "right": [],
+     "wrong": [
+      "Adriana"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 11,
+     "q": "The Santa Cruz Mountains are home to this yellow mollusk, the mascot for UC Santa Cruz",
+     "a": "the banana slug",
+     "right": [
+      "Adriana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": true,
+     "order": 13,
+     "q": "The Washington, D.C. area memorial to this service branch depicts a flag-raising on Mount Suribachi",
+     "a": "the Marines (the Marine Corps)",
+     "right": [
+      "Adriana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1500
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 19,
+     "q": "The 2024 Gold Wing motorcycle from this Japanese manufacturer features an 1833cc liquid-cooled engine",
+     "a": "a Honda",
+     "right": [],
+     "wrong": [
+      "Aaron",
+      "Josh"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 3,
+     "q": "In \"Fences\", for which he received a Best Actor Oscar nomination",
+     "a": "Denzel Washington",
+     "right": [
+      "Adriana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 8,
+     "q": "(Tony Hale presents the clue.) It's not exactly fear; it's kind of pre-fear--it covers a group of psychological disorders & in the '40s, W.H. Auden wrote his longest poem called \"The Age of\" it",
+     "a": "Anxiety",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 21,
+     "q": "On Nov.15, 1919, after 2 months debating the Treaty of Versailles, a fed-up Senate applied this rule for the first time",
+     "a": "cloture",
+     "right": [],
+     "wrong": [
+      "Aaron"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 22,
+     "q": "Rats must gnaw constantly because these teeth whose name means \"cutter\" grow their whole lives, around 4-5 inches per year",
+     "a": "incisors",
+     "right": [
+      "Josh"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1500
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 15,
+     "q": "A field of 168 empty chairs represents each of the victims in the bombing of a federal building in this city, April 19, 1995",
+     "a": "Oklahoma City",
+     "right": [
+      "Aaron"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 17,
+     "q": "A poem by Carol Ann Duffy about \"the woman who married the fool who wished for gold\" is titled \"Mrs.\" this mythic king",
+     "a": "Midas",
+     "right": [
+      "Josh"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 2,
+     "q": "In \"Tropic Thunder\"",
+     "a": "Ben Stiller",
+     "right": [
+      "Josh"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 9,
+     "q": "(Tony Hale presents the clue.) The personified ancient Greek spirits of fear & dread share their names with these two moons of Mars",
+     "a": "Phobos & Deimos",
+     "right": [
+      "Adriana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 24,
+     "q": "On October 25, 2001 the Senate approved this act by a vote of 98-1, with Wisconsin's Russ Feingold as the lone dissenter",
+     "a": "the Patriot Act",
+     "right": [
+      "Adriana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 23,
+     "q": "The black-tailed deer is the type of deer named for this other 4-legged animal--no relation, just that it has long ears",
+     "a": "a mule deer",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 14,
+     "q": "A memorial to the Triangle Shirtwaist Factory fire was dedicated in 2023 on Washington Place in the heart of this New York City area",
+     "a": "Greenwich Village",
+     "right": [],
+     "wrong": [
+      "Aaron"
+     ],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 18,
+     "q": "Today in a temple of this capital city on the Chao Praya River, the Golden Buddha contains 5 1/2 tons of pure gold",
+     "a": "Bangkok",
+     "right": [
+      "Aaron"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 5,
+     "q": "In \"The Monuments Men\"",
+     "a": "George Clooney",
+     "right": [
+      "Adriana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 10,
+     "q": "(Tony Hale presents the clue.) At the start of Act III, Ophelia despairs over Hamlet acting crazy & uses this 3-word phrase that starts with a 3-letter emotion to describe her pain",
+     "a": "Woe is me",
+     "right": [
+      "Josh"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "NEW YORK TIMES BOOK REVIEWS",
+  "q": "In 1958 a review of this book now considered a classic called it repulsive, disgusting & \"highbrow pornography\"",
+  "a": "Lolita",
+  "right": [
+   "Adriana"
+  ],
+  "wrong": [
+   "Aaron",
+   "Josh"
+  ]
+ },
+ "gameId": "8964",
+ "cat_notes": {
+  "J": [
+   "Clues about Capitals and Their Airports.",
+   "Clues about Bunny Lit.",
+   "Clues about Well, That Happened.",
+   "Clues about some Drugs.",
+   "Father's Day coming up this weekend.",
+   "Each answer contains the letter group “OUT”, and the clues are about Find."
+  ],
+  "DJ": [
+   "Clues about Senate History.",
+   "Clues about The Animal Kingdom.",
+   "Clues about Monuments and Memorials.",
+   "Clues about There's Gold in Your Future.",
+   "The category “THEY DIRECTED THEMSELVES” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "(Tony: I'm Tony Hale; I'm the voice of Fear in Disney and Pixar's new film Inside Out 2 and I'll test your knowledge of some other emotions in a category today.)."
+  ],
+  "F": "Clues about New York Times Book Reviews."
+ }
+}

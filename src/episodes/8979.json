@@ -1,0 +1,999 @@
+{
+ "show": "#9136",
+ "aired": "2024-07-01",
+ "note": "",
+ "contestants": [
+  {
+   "name": "Zoe Strassfield",
+   "bio": "a park ranger and writer from Water Mill, New York",
+   "short": "Zoe"
+  },
+  {
+   "name": "Matt Brooks",
+   "bio": "a healthcare IT analyst from Fredericksburg, Virginia",
+   "short": "Matt"
+  },
+  {
+   "name": "Cat Pisacano",
+   "bio": "a nurse from New York, New York (whose 1-day cash winnings total $11,500)",
+   "short": "Cat"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Cat": 5200,
+   "Matt": 6600,
+   "Zoe": -1000
+  },
+  "DJ": {
+   "Cat": 12300,
+   "Matt": 10600,
+   "Zoe": 1600
+  },
+  "Final": {
+   "Cat": 3399,
+   "Matt": 10600,
+   "Zoe": 3100
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "STRANGE CURRENCIES",
+    "RHYME TIME",
+    "NOVELLAS",
+    "TAKING YOU TO SCHOOL",
+    "LAST CENTURY",
+    "BASED ON A TRUE STORY"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 30,
+     "q": "Per The Wall Street Journal, Sam Bankman-Fried uses this fish as clink currency; they call 'em \"macks\" in the joint",
+     "a": "mackerel",
+     "right": [
+      "Cat"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "A fat-free monarch",
+     "a": "a lean queen",
+     "right": [
+      "Cat"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 29,
+     "q": "Richard Wright wrote a series of novellas titled this Harriet Beecher Stowe character's \"Children\"",
+     "a": "Uncle Tom",
+     "right": [
+      "Cat"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 28,
+     "q": "English: \nAmidst & into are amidst & into this part of speech",
+     "a": "prepositions",
+     "right": [
+      "Cat"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 13,
+     "q": "In 1989 Winfried Freudenberg was the last person who died while trying to escape over this, in a balloon",
+     "a": "the Berlin Wall",
+     "right": [
+      "Zoe"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 6,
+     "q": "Caitlin Carver played Nancy Kerrigan when Margot Robbie starred as this rival in a 2017 film",
+     "a": "Tonya Harding",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [
+      "Zoe"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 17,
+     "q": "Using cheese as \"cheese\", a dairy cooperative near Bologna backed loans with wheels of this hard cheese",
+     "a": "Parmesan",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "A merciless academy",
+     "a": "a cruel school",
+     "right": [
+      "Cat"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 21,
+     "q": "This 1902 novella tells the story of a man assigned by an ivory company to take command of a damaged boat",
+     "a": "Heart of Darkness",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "Anatomy: \nThere are both false & true vocal cords in this hollow, tubular structure, also called the voice box",
+     "a": "the larynx",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 12,
+     "q": "A 1906 N.Y. Times headline announced President Teddy Roosevelt was \"off for the ditch\" to visit this country",
+     "a": "Panama",
+     "right": [
+      "Zoe"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 11,
+     "q": "In \"Gunfight at the O.K. Corral\", Kirk Douglas played Doc Holliday & Burt Lancaster played this lawman",
+     "a": "Wyatt Earp",
+     "right": [
+      "Zoe"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 16,
+     "q": "It's the silver type of currency in the \"Harry Potter\" series that shares its name with a farming tool",
+     "a": "silver Sickles",
+     "right": [
+      "Cat"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 3,
+     "q": "A violin conundrum",
+     "a": "a fiddle riddle",
+     "right": [
+      "Cat"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 20,
+     "q": "Truman Capote said Holly Golightly in this novella of his was not a call girl but an \"American geisha\"",
+     "a": "Breakfast at Tiffany's",
+     "right": [
+      "Cat"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 26,
+     "q": "Phys Ed: \nHit the field of track & field & see if you can throw this a little over 323 feet, like Jan Zelezný",
+     "a": "a javelin",
+     "right": [
+      "Cat"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 14,
+     "q": "Here's a 1975 photo of a CIA worker helping evacuees onto an Air America helicopter during the fall of the city then known as this",
+     "a": "Saigon",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [
+      "Cat"
+     ],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 8,
+     "q": "An excerpt from \"The Master of Disguise\" & the article \"Escape from Tehran\" were the basis for the screenplay of this 2012 film",
+     "a": "Argo",
+     "right": [
+      "Cat"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 7,
+     "q": "In the 1940s this country's Magyar Nemzeti Bank printed the million billion pengő note to fight inflation",
+     "a": "Hungary",
+     "right": [
+      "Cat"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 4,
+     "q": "A kayak inspection",
+     "a": "a canoe review",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 19,
+     "q": "At the end of this Hemingway tale, the title character's former helper Manolin agrees to go fishing with him again",
+     "a": "The Old Man and the Sea",
+     "right": [
+      "Cat"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 23,
+     "q": "French:\nSay \"that's life\" en Français, s'il vous plaît; it's also a B*Witched song",
+     "a": "c'est la vie",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 15,
+     "q": "What's now this fossil fuels giant began in 1909 as the Anglo-Persian Oil Company",
+     "a": "BP",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 9,
+     "q": "Jack O'Connell played Olympic runner & World War II P.O.W. Louis Zamperini in this film based on a nonfiction bestseller",
+     "a": "Unbroken",
+     "right": [],
+     "wrong": [
+      "Zoe"
+     ],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 18,
+     "q": "Named for a signature sandwich, it was a cryptocurrency launched by the Russian branch of Burger King in 2017",
+     "a": "WhopperCoin",
+     "right": [],
+     "wrong": [
+      "Cat",
+      "Zoe"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 5,
+     "q": "Someone more rapid of movement when he begins fly fishing",
+     "a": "a faster caster",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 22,
+     "q": "In \"Berlin Stories\" Christopher Isherwood wrote a novella about her, a nightclub singer in the Weimar Republic",
+     "a": "Sally Bowles",
+     "right": [
+      "Cat"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": true,
+     "order": 24,
+     "q": "History: \nThis congressional committee created in 1938 became the Internal Security Committee in 1969 & was dissolved in '75",
+     "a": "House Un-American Activities (HUAC)",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1000
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 25,
+     "q": "In 1966 a stuck thruster & an uncontrollable spin nearly killed Neil Armstrong on Mission 8 in this Apollo precursor program",
+     "a": "Gemini",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 10,
+     "q": "Mark Rylance won an Oscar for playing spy Rudolf Abel in this Spielberg film",
+     "a": "Bridge of Spies",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "IT'S ALIVE",
+    "GUESTS ON HOT ONES",
+    "SAME FIRST & LAST CONSONANT",
+    "O CANADA",
+    "WE STAND ON GUARD",
+    "FOR THEE"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 6,
+     "q": "Scientists think some dolphins use these creatures to protect their snouts while foraging along the ocean floor, not for cleaning it",
+     "a": "a sponge",
+     "right": [
+      "Zoe"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 22,
+     "q": "Look at him! Who would have thought he'd go on \"Hot Ones\" & talk about \"Living with Yourself\"? Not me",
+     "a": "Paul Rudd",
+     "right": [
+      "Cat"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 20,
+     "q": "Hopefully, you don't have to use your winnings to buy back the family jewels at this kind of store",
+     "a": "a pawn shop",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 10,
+     "q": "Rising sea levels threaten the isthmus that connects Nova Scotia, \"New Scotland\", & this province with \"New\" in its name",
+     "a": "New Brunswick",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [
+      "Zoe"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 26,
+     "q": "Guard Jerry Kramer's book \"Instant Replay\" chronicled this NFL team's 1967 season, including the \"Ice Bowl\" & Super Bowl II",
+     "a": "Green Bay",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 14,
+     "q": "President Obama wrote \"A Letter to My Daughters\" titled this phrase that follows \"sweet land of liberty\"",
+     "a": "Of Thee I Sing",
+     "right": [
+      "Cat"
+     ],
+     "wrong": [
+      "Zoe"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 4,
+     "q": "It's the 4-letter word for some 30 genera of brown algae that grow big in cold sea water",
+     "a": "kelp",
+     "right": [
+      "Zoe"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 21,
+     "q": "This boy band told host Sean Evans how Swedish songwriters insisted the line \"it's gonna be me\" sound like \"it's gonna be may\"",
+     "a": "*NSYNC",
+     "right": [
+      "Cat"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 13,
+     "q": "It's a lack of harmony, or a gamer-friendly online gab zone",
+     "a": "discord",
+     "right": [
+      "Cat"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 9,
+     "q": "Once a part of the Northwest Territories, it became its own territory in 1898",
+     "a": "the Yukon Territory",
+     "right": [],
+     "wrong": [
+      "Matt"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 27,
+     "q": "The motto of this service branch is Semper Paratus, \"Always Ready\"",
+     "a": "the Coast Guard",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 15,
+     "q": "Centuries ago, \"you\" was used to a social superior, but this religious group founded by George Fox thou-ed & thee-ed everyone",
+     "a": "Quakers",
+     "right": [
+      "Zoe"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 5,
+     "q": "That's not moss, but a species of usnea, the beard type of this",
+     "a": "lichen",
+     "right": [
+      "Zoe"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 3,
+     "q": "In her episode she spoke on the ageless staying power of her film \"13 Going on 30\"",
+     "a": "Jennifer Garner",
+     "right": [
+      "Cat"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 12,
+     "q": "It's a portmanteau word for a fiend for Lindt or Ghirardelli",
+     "a": "chocoholic",
+     "right": [
+      "Cat"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 1,
+     "q": "The Ottawa River is a tributary of this one that becomes a seaway",
+     "a": "St. Lawrence",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 28,
+     "q": "In 1789 this hero of America's Revolution became colonel-general of the National Guard of Paris",
+     "a": "Lafayette",
+     "right": [
+      "Cat"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 16,
+     "q": "Melville's Ahab says, \"From hell's heart I stab at thee\" & this other 4-letter character in a classic sci-fi movie repeats it",
+     "a": "Khan",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 7,
+     "q": "The \"B\" in B. cereus, which causes food poisoning, stands for this nasty type of bacteria",
+     "a": "Bacillus",
+     "right": [],
+     "wrong": [
+      "Zoe"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1400
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 2,
+     "q": "JLaw teared up from the wings--or the memory of meeting this director at 18; he'd later direct her in \"Don't Look Up\"",
+     "a": "Adam McKay",
+     "right": [],
+     "wrong": [
+      "Matt"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 11,
+     "q": "army.mil says this battle cry can mean \"anything & everything except 'no'\"",
+     "a": "hooah",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 18,
+     "q": "Canada recognizes more than 600 groups of indigenous people known by this ordinal term",
+     "a": "First Nations",
+     "right": [
+      "Zoe"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 17,
+     "q": "This 1888 Gilbert & Sullivan opera set in the Tower of London is subtitled \"The Merryman and his Maid\"",
+     "a": "The Yeomen of the Guard",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 24,
+     "q": "She loved the hymn \"I Vow To Thee My Country\" by British composer Gustav Holst & it was heard 16 years apart at her wedding & funeral",
+     "a": "Diana",
+     "right": [
+      "Cat"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 8,
+     "q": "Many protozoans get around using these, aka false feet",
+     "a": "pseudopods",
+     "right": [
+      "Zoe"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 23,
+     "q": "On his Adult Swim show, this host destroys his set every episode, but says he is sedated in real life--\"I meditate, jog, I eat salad\"",
+     "a": "Eric André",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": true,
+     "order": 29,
+     "q": "Weltanschauung in German, it can be optimistic or pessimistic",
+     "a": "a worldview",
+     "right": [],
+     "wrong": [
+      "Cat"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2500
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 19,
+     "q": "More \"O Canada\" lyrics! In 2018 this kind of love \"in all thy sons command\" became \"in all of us command\"",
+     "a": "true patriot love",
+     "right": [],
+     "wrong": [
+      "Zoe"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 30,
+     "q": "Rome breathed a sigh of relief in January of 41 A.D. after Caligula was assassinated by a member of this guard",
+     "a": "Praetorian",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 25,
+     "q": "Polonius' rather windy advice to this son of his in \"Hamlet\" ends, \"Farewell: My blessing season this in thee!\"",
+     "a": "Laertes",
+     "right": [
+      "Cat"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "GERMAN BOOKS",
+  "q": "First published in 1812, this anthology included \"The Water Nymph\" & \"The Booted Tom Cat\"",
+  "a": "Grimms' Fairy Tales",
+  "right": [
+   "Zoe",
+   "Matt"
+  ],
+  "wrong": [
+   "Cat"
+  ]
+ },
+ "gameId": "8979",
+ "cat_notes": {
+  "J": [
+   "Clues about Strange Currencies.",
+   "Each answer is a rhyming word or phrase.",
+   "Clues about Novellas.",
+   "The category “TAKING YOU TO SCHOOL” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "Clues about Last Century.",
+   "Clues about Based on a True Story."
+  ],
+  "DJ": [
+   "The category “IT'S ALIVE” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "As you may know, that's the talk show where guests answer questions while eating ever-spicier wings.",
+   "The category “SAME FIRST & LAST CONSONANT” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "Happy Canada Day to all who celebrate.",
+   "The category “WE STAND ON GUARD” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "Clues for Thee."
+  ],
+  "F": "Clues about German Books."
+ }
+}
