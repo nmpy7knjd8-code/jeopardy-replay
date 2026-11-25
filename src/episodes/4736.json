@@ -1,0 +1,988 @@
+{
+ "show": "#6949",
+ "aired": "2014-11-27",
+ "note": "",
+ "contestants": [
+  {
+   "name": "David Greisman",
+   "bio": "a communications manager and boxing writer from Columbia, Maryland",
+   "short": "David"
+  },
+  {
+   "name": "Michelle Chick",
+   "bio": "an administrative assistant from Livonia, Michigan",
+   "short": "Michelle"
+  },
+  {
+   "name": "Aggie Lee",
+   "bio": "an attorney from Los Angeles, California (whose 1-day cash winnings total $15,800)",
+   "short": "Aggie"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Aggie": 3400,
+   "Michelle": 4400,
+   "David": 6000
+  },
+  "DJ": {
+   "Aggie": 12600,
+   "Michelle": 11000,
+   "David": 7600
+  },
+  "Final": {
+   "Aggie": 3199,
+   "Michelle": 7000,
+   "David": 11600
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "ANAGRAMMED NEW YORK CITIES",
+    "KITCHEN CONFIDENTIAL",
+    "NBA LAST NAME'S THE SAME",
+    "YOU, PRONOUNS & ME",
+    "WHICH CABINET DEPARTMENT?",
+    "THE DAWN OF THE ATOMIC AGE"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 6,
+     "q": "Home to the Orange:\nRACY USES",
+     "a": "Syracuse",
+     "right": [
+      "David"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 11,
+     "q": "Pomodoro, the Italian word for tomato, can be translated as \"golden\" this fruit",
+     "a": "apple",
+     "right": [
+      "David"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "Jermaine & Shaquille",
+     "a": "O'Neal",
+     "right": [
+      "Aggie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 16,
+     "q": "4-letter word following \"watch\" or \"now hear\"; it's just about the most important word we use in \"Jeopardy!\" clues",
+     "a": "this",
+     "right": [
+      "Aggie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 21,
+     "q": "The Bureau of Western Hemisphere Affairs",
+     "a": "State",
+     "right": [
+      "David"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 26,
+     "q": "(Kelly of the Clue Crew presents the clue from Los Alamos, NM.) The project that produced the first atomic bombs got this name after a New York City district of the Army Corps of Engineers, but it came to completion across the country here in Los Alamos",
+     "a": "The Manhattan Project",
+     "right": [
+      "David"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 7,
+     "q": "On the Hudson River:\nANY LAB",
+     "a": "Albany",
+     "right": [
+      "David"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 12,
+     "q": "Chanterelles are wild these, trumpet-shaped with a ruffled edge",
+     "a": "mushrooms",
+     "right": [
+      "Michelle"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "Reggie & Andre",
+     "a": "Miller",
+     "right": [
+      "David"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 17,
+     "q": "Boze-dee boze-dee bop! In 1985 David Lee Roth double-negatived, \"I ain't got\" this",
+     "a": "nobody",
+     "right": [
+      "Michelle"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 22,
+     "q": "The National Institute of Corrections",
+     "a": "Justice",
+     "right": [
+      "David"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "(Jimmy of the Clue Crew presents the clue from Los Alamos, NM.) In 1945, the Quonset hut here was used to assemble the implosion type atomic device called \"Fat Man\" that would explode over this city days after Hiroshima was bombed",
+     "a": "Nagasaki",
+     "right": [
+      "Michelle"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 8,
+     "q": "Great Lakes port:\nFLUB OAF",
+     "a": "Buffalo",
+     "right": [
+      "Michelle"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 13,
+     "q": "Chicken of the Sea offers this solid white tuna canned in water",
+     "a": "albacore",
+     "right": [
+      "Aggie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 3,
+     "q": "Karl & Moses",
+     "a": "Malone",
+     "right": [
+      "David"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 18,
+     "q": "As a pronoun, it's a form of the possessive case of \"I\"; as a noun, it's where you extract ore",
+     "a": "mine",
+     "right": [
+      "David"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 23,
+     "q": "The Pension Benefit Guaranty Corporation",
+     "a": "Labor",
+     "right": [],
+     "wrong": [
+      "David"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 28,
+     "q": "(Kelly of the Clue Crew presents the clue from Los Alamos NM.) The area called V-Site was where the device known as the \"Gadget\" was assembled. The first nuclear device in the world, it had a core of the 239 isotope of this element",
+     "a": "plutonium",
+     "right": [
+      "David"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 9,
+     "q": "Very near Canada:\nALL AFAR GAINS",
+     "a": "Niagara Falls",
+     "right": [
+      "Michelle"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 14,
+     "q": "Types of this ingredient include cake, all-purpose & self-rising",
+     "a": "flour",
+     "right": [
+      "Michelle"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 4,
+     "q": "DeAndre & Michael",
+     "a": "Jordan",
+     "right": [
+      "Michelle"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 19,
+     "q": "Pronoun in a 1940 Hemingway novel title; ring in now!",
+     "a": "whom",
+     "right": [
+      "David"
+     ],
+     "wrong": [
+      "Michelle"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 24,
+     "q": "The Office of English Language Acquisition",
+     "a": "Education",
+     "right": [
+      "Aggie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "(Jimmy of the Clue Crew presents the clue from Los Alamos, NM.) The stress of running the administrative & scientific size of the project of producing the bomb wore this Los Alamos lab director down to 116 pounds by July 1945",
+     "a": "Robert Oppenheimer",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 10,
+     "q": "\"Colorful\" town possibly named for its abundant heavy fogs:\nWHISTLE PAIN",
+     "a": "White Plains",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 15,
+     "q": "This Japanese dish, slices of fresh raw fish served with soy sauce & wasabi, is absolutely riceless",
+     "a": "sashimi",
+     "right": [
+      "Michelle"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 5,
+     "q": "Dwight & Juwan",
+     "a": "Howard",
+     "right": [
+      "David"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 20,
+     "q": "Pronoun in the title of the longest poem in \"Leaves of Grass\"; sing in now!",
+     "a": "myself",
+     "right": [
+      "David"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": true,
+     "order": 25,
+     "q": "The Office of Natural Resources Revenue",
+     "a": "the Department of the Interior",
+     "right": [
+      "Aggie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1600
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 30,
+     "q": "Surely you're joking! Not yet 28, he was a group leader in the theoretical division of the A-bomb push",
+     "a": "Richard Feynman",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "SOUNDS LIKE MAD LIBS, BUT REAL!",
+    "YO, JOHANN!",
+    "POTPOURRI",
+    "FEMALE BOOK CHARACTERS",
+    "WORLD HISTORY",
+    "JUST BEYOND THE \"H\"ORIZON"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 22,
+     "q": "Maximilian Schell was the godfather of this actress who toted Billy Bob Thornton's blood",
+     "a": "Angelina Jolie",
+     "right": [
+      "David"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 21,
+     "q": "In 1450 Johann Fust loaned this printer money; 5 years later, he sued for the money owed & set up his own printing firm",
+     "a": "Gutenberg",
+     "right": [
+      "David"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 15,
+     "q": "This word meaning to raise anchor has nothing to do with how heavy it is; it's from Old Saxon for to lift or carry",
+     "a": "weigh",
+     "right": [],
+     "wrong": [
+      "Aggie"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 5,
+     "q": "In \"The Hunger Games\" books, Primrose is her younger sister",
+     "a": "Katniss Everdeen",
+     "right": [
+      "David"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "In 1825 this revolutionary controlled an area from the Caribbean to Argentina",
+     "a": "Simón Bolívar",
+     "right": [],
+     "wrong": [
+      "Aggie"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 10,
+     "q": "Insulin is one",
+     "a": "hormone",
+     "right": [
+      "Aggie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 23,
+     "q": "Before playing Brody on this Showtime drama, Damian Lewis was a telemarketer selling car alarms in London",
+     "a": "Homeland",
+     "right": [
+      "David"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 30,
+     "q": "Among his more than 150 waltzes are \"Tales from the Vienna Woods\" & \"Emperor Waltz\"",
+     "a": "(Johann) Strauss",
+     "right": [
+      "Aggie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 17,
+     "q": "It's the Hebrew name for the prayer shawl seen here",
+     "a": "a tallit",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 6,
+     "q": "Adele Varens is the pupil to whom this title Bronte character is a governess",
+     "a": "Jane Eyre",
+     "right": [
+      "David"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 2,
+     "q": "In 1240 Batu Khan, leader of these people, sacked & burned Kiev",
+     "a": "the Mongols",
+     "right": [
+      "David"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 11,
+     "q": "Suite! It's the friendly reception of guests",
+     "a": "hospitality",
+     "right": [],
+     "wrong": [
+      "David"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 24,
+     "q": "In 2014 this \"Sussudio\" singer donated the vast collection of Alamo artifacts in his Swiss basement to the Texas site",
+     "a": "Phil Collins",
+     "right": [
+      "Aggie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 29,
+     "q": "Johann Fuhlrott identified a piece of skull from a cave near Dusseldorf in 1856 as an early human, this one",
+     "a": "Neanderthal",
+     "right": [
+      "Aggie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 18,
+     "q": "This doozy of a car won the 1924, '25 & '27 Indy 500s",
+     "a": "a Duesenberg",
+     "right": [
+      "Michelle"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 7,
+     "q": "If a Judy Blume title were one word longer, it might include Simon, the last name of this 12-year-old girl",
+     "a": "Are You There God? It's Me, Margaret.",
+     "right": [
+      "Michelle"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 3,
+     "q": "In 622 Muhammad fled from Mecca to this city, from which Islam spread across the region",
+     "a": "Medina",
+     "right": [
+      "Michelle"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 12,
+     "q": "Hyphenated term referring to the last few generations preceding the automobile",
+     "a": "horse-and-buggy",
+     "right": [
+      "Aggie"
+     ],
+     "wrong": [
+      "David"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 25,
+     "q": "Before \"Inside the Actors Studio\", he wrote a book about animal group names & says he was a pimp in France",
+     "a": "James Lipton",
+     "right": [
+      "Aggie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 28,
+     "q": "19th century pastor Johann David Wyss & his son wrote this children's book about a shipwrecked clan",
+     "a": "Swiss Family Robinson",
+     "right": [
+      "Aggie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 19,
+     "q": "Travel guides dub the area seen here this color coast; the name of the color comes from the country it's in",
+     "a": "turquoise",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 8,
+     "q": "The first part of \"Les Miserables\" is called \"Fantine\"; the second part is named for her",
+     "a": "Cosette",
+     "right": [
+      "Michelle"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2000
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 4,
+     "q": "On Jan. 26, 1808 George Johnston of Australia's New South Wales Corps led a mutiny vs. this governor & arrested him",
+     "a": "William Bligh",
+     "right": [],
+     "wrong": [
+      "Michelle"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1000
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 13,
+     "q": "The science of measuring time",
+     "a": "horology",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 26,
+     "q": "Born in Goose Creek, he was Oscar-nominated as Buddy Holly &, on a later film, had an on-set fight on how heaven looked",
+     "a": "Gary Busey",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 27,
+     "q": "From 1791 to 1817 this poet & playwright served as director of the Weimar court theater",
+     "a": "Johann Goethe",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 20,
+     "q": "Item 1 in the Mayo Clinic's online instructions for dealing with a victim of this is \"Look first. Don't touch\"",
+     "a": "electrocution",
+     "right": [
+      "Michelle"
+     ],
+     "wrong": [
+      "Aggie"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 9,
+     "q": "This woman mentioned in the title of a controversial novel is the former Constance Reid",
+     "a": "Lady Chatterley",
+     "right": [
+      "Aggie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 16,
+     "q": "This early Germanic people in Gaul were split into 2 major branches, the Salians & the Ripuarians",
+     "a": "the Franks",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 14,
+     "q": "Crostini are a popular choice for these",
+     "a": "hors d'oeuvres",
+     "right": [
+      "Aggie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "BODIES OF WATER",
+  "q": "First encountered in 1648 by a man born in Russia, it was eventually named after a man born in Denmark",
+  "a": "the Bering Strait",
+  "right": [
+   "David"
+  ],
+  "wrong": [
+   "Michelle",
+   "Aggie"
+  ]
+ },
+ "gameId": "4736",
+ "cat_notes": {
+  "J": [
+   "Each answer is formed by rearranging letters from a word or name in the clue.",
+   "Clues about Kitchen Confidential.",
+   "Clues about NBA Last Name's the Same.",
+   "Clues about You, Pronouns and Me.",
+   "The category “WHICH CABINET DEPARTMENT?” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "(Jimmy: [*] from Los Alamos, New Mexico, where the first nuclear weapons were born in 1945.)."
+  ],
+  "DJ": [
+   "The answers involve homophones — words that sound alike but differ in meaning or spelling.",
+   "The category “YO, JOHANN!” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "A little bit of everything.",
+   "Clues about Female Book Characters.",
+   "Clues about World History.",
+   "Notice the \"H\" in quotation marks. Each correct response will begin with that letter, and each correct response will be a word that comes after \"horizon\" in the dictionary."
+  ],
+  "F": "Clues about Bodies of Water."
+ }
+}

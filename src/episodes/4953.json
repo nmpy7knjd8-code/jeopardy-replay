@@ -1,0 +1,991 @@
+{
+ "show": "#7106",
+ "aired": "2015-07-06",
+ "note": "",
+ "contestants": [
+  {
+   "name": "Jess Lindoerfer",
+   "bio": "a study-abroad program manager from Putney, Vermont",
+   "short": "Jess"
+  },
+  {
+   "name": "Shu-Ping Shen",
+   "bio": "an attorney from New York, New York",
+   "short": "Shu-Ping"
+  },
+  {
+   "name": "Hilary Carney",
+   "bio": "a rehabilitation specialist from Bonita Springs, Florida (whose 1-day cash winnings total $6,400)",
+   "short": "Hilary"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Hilary": 4600,
+   "Shu-Ping": 2600,
+   "Jess": 5800
+  },
+  "DJ": {
+   "Hilary": 17800,
+   "Shu-Ping": 11400,
+   "Jess": 15400
+  },
+  "Final": {
+   "Hilary": 5400,
+   "Shu-Ping": 13001,
+   "Jess": 17801
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "TASTY LITERATURE",
+    "KNOWLEDGE",
+    "SUPERATHLETES",
+    "ALSO A KEYBOARD KEY",
+    "LET'S VISIT SCOTLAND",
+    "SELF-RHYMING \"H\" WORDS"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "This author's Ishmael spends a whole chapter pondering chowder",
+     "a": "(Herman) Melville",
+     "right": [
+      "Jess"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 10,
+     "q": "This curve is a representation of progress in gaining knowledge measured vs. the time required to achieve mastery",
+     "a": "the learning curve",
+     "right": [
+      "Shu-Ping"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 25,
+     "q": "We bet Hitler didn't know this winner of 4 gold medals in Berlin was \"the Buckeye Bullet\"",
+     "a": "(Jesse) Owens",
+     "right": [
+      "Shu-Ping"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 11,
+     "q": "Some experiments divide subjects into the treatment group & this group",
+     "a": "control",
+     "right": [
+      "Hilary"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 6,
+     "q": "The staid Encyclopedia Britannica says this lake \"is said to be inhabited by an aquatic monster\"",
+     "a": "Loch Ness",
+     "right": [
+      "Shu-Ping"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 8,
+     "q": "Balancing on one's palms vertically is doing one of these",
+     "a": "a handstand",
+     "right": [
+      "Hilary"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "In this 19th c. work, young Amy likes snacking on \"pickled limes\" & borrows money from her sister to buy some",
+     "a": "Little Women",
+     "right": [
+      "Jess"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 19,
+     "q": "The King James Bible says, \"of the tree of the knowledge of\" these two opposites, \"thou shalt not eat\"",
+     "a": "good & evil",
+     "right": [
+      "Hilary"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 30,
+     "q": "In 2014 this Dodger became the first pitcher since 1968 to be MVP of the National League",
+     "a": "Clayton Kershaw",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 12,
+     "q": "Your bill at the bar",
+     "a": "tab",
+     "right": [
+      "Jess"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 7,
+     "q": "This town 7 miles west of Glasgow gave its name to a curved textile pattern created there",
+     "a": "Paisley",
+     "right": [
+      "Shu-Ping"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 14,
+     "q": "To associate with the wealthier folks",
+     "a": "hobnob",
+     "right": [
+      "Hilary"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 3,
+     "q": "In a Fannie Flag novel, this cafe serves fried green tomatoes & other Southern favorites",
+     "a": "The Whistle Stop Cafe",
+     "right": [
+      "Jess"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 20,
+     "q": "Donald Rumsfeld said \"There are\" this contradictory pair, \"that is... we know there are things we do not know\"",
+     "a": "the known unknown",
+     "right": [
+      "Jess"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 29,
+     "q": "In a sport where 1-0 finals are not rare, this man scored his 1000th goal in Rio in 1969",
+     "a": "Pelé",
+     "right": [
+      "Shu-Ping"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": true,
+     "order": 13,
+     "q": "This part of the large intestine extends from the cecum",
+     "a": "colon",
+     "right": [
+      "Jess"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1600
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 9,
+     "q": "Edinburgh lies on the southern shore of this arm of the North Sea",
+     "a": "the Firth of Forth",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 16,
+     "q": "This hyphenated term for sound reproduced over the full range of frequencies came to mean a music-playing apparatus",
+     "a": "a hi-fi",
+     "right": [
+      "Hilary"
+     ],
+     "wrong": [
+      "Jess"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 4,
+     "q": "Nostalgia overcomes \"Invisible Man\" after he eats this 3-letter tuber in Harlem",
+     "a": "a yam",
+     "right": [
+      "Hilary"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 21,
+     "q": "The name of this basic branch of learning is from the Latin for \"to know\"",
+     "a": "science",
+     "right": [],
+     "wrong": [
+      "Shu-Ping"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 27,
+     "q": "(Kelly of the Clue Crew shows a map and a photo on the monitor.) Here is the 52-hour, 54-minute swim journey of nearly 111 miles taken by this 64-year-old woman in September 2013",
+     "a": "(Diana) Nyad",
+     "right": [
+      "Shu-Ping"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 15,
+     "q": "The Old 97's are part of the musical genre called this‑country",
+     "a": "alt",
+     "right": [
+      "Jess"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 24,
+     "q": "Tossing the caber is an event at these games; the British royal family traditionally attends in Braemar",
+     "a": "the Highland Games",
+     "right": [
+      "Jess"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 17,
+     "q": "There's a musical instrument in the name of this word meaning \"boring\"",
+     "a": "humdrum",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 5,
+     "q": "Madame Bovary gets all tingly at her first taste of this tropical fruit: \"Elle n'avait jamais... mangé d'ananas\"",
+     "a": "a pineapple",
+     "right": [
+      "Hilary"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 22,
+     "q": "Don't gnash your teeth; just gname this early Christian sect whose name means \"pertaining to knowledge\"",
+     "a": "Gnostic",
+     "right": [
+      "Jess"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 28,
+     "q": "In 2014 Odell Beckham Jr. of this NFC team wowed football fans with his spectacular catches",
+     "a": "the New York Giants",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 23,
+     "q": "A loose-fitting dress or chemise",
+     "a": "shift",
+     "right": [
+      "Hilary"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 26,
+     "q": "Prince Albert bought this estate in Aberdeenshire for Queen Victoria & helped design the castle himself",
+     "a": "Balmoral",
+     "right": [
+      "Shu-Ping"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 18,
+     "q": "Mutton & potatoes cooked in a covered receptacle is this dish",
+     "a": "hot pot",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "FRIENDS",
+    "ROMANS",
+    "COUNTRY MEN",
+    "LEND ME YOUR EARS",
+    "THAT'S IN ROMEO AND JULIET",
+    "OUR MISTAKE!"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 4,
+     "q": "She's Oprah's longtime best friend & an editor at O, the Oprah magazine",
+     "a": "(Gayle) King",
+     "right": [
+      "Shu-Ping"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 12,
+     "q": "This post-Julius Caesar established the Praetorian Guard & brought all of Spain under Roman control",
+     "a": "Augustus",
+     "right": [
+      "Hilary"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 19,
+     "q": "The ancient sage Kambu Svayambhuva lent his name to this country",
+     "a": "Cambodia",
+     "right": [
+      "Jess"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 3,
+     "q": "Two very different types of this bird are heard here",
+     "a": "a woodpecker",
+     "right": [
+      "Shu-Ping"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "Juliet's father is known as \"Old\" this, though how ancient is he likely to be with a 13-year-old daughter?",
+     "a": "Capulet",
+     "right": [
+      "Shu-Ping"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 9,
+     "q": "In retrospect, we at Excite probably should have given Brin & Page the $750k they wanted for this search engine in 1999",
+     "a": "Google",
+     "right": [
+      "Hilary"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 5,
+     "q": "This creator & star of the TV show \"Girls\" called pal Taylor Swift her \"feminist role model\"",
+     "a": "(Lena) Dunham",
+     "right": [
+      "Jess"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 13,
+     "q": "This man died just two years after his one-time friend Julius Caesar",
+     "a": "Brutus",
+     "right": [
+      "Hilary"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 20,
+     "q": "North & South America were named for a man with this last name",
+     "a": "Vespucci",
+     "right": [
+      "Hilary"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 15,
+     "q": "Written by Eric Van Lusterbader but titled this man's \"The Bourne Ascendency\", the audiobook runs nearly 15 hours",
+     "a": "(Robert) Ludlum",
+     "right": [
+      "Shu-Ping"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 2,
+     "q": "Juliet tells Romeo, \"O, swear not by\" this \"that monthly changes in her circled orb\"",
+     "a": "the moon",
+     "right": [
+      "Jess"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 27,
+     "q": "At this U.S. gov't agency, there's no getting away from our 1961 prediction that Castro's forces would disintegrate",
+     "a": "the CIA",
+     "right": [
+      "Hilary"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 6,
+     "q": "Busy Philips & Michelle Williams have been BFFs since co-starring on this teen drama in the early 2000s",
+     "a": "Dawson's Creek",
+     "right": [
+      "Shu-Ping"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 14,
+     "q": "Wall, I'll be! This emperor completed the Temple of Zeus in Athens, begun more than 600 years before",
+     "a": "Hadrian",
+     "right": [
+      "Jess"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 24,
+     "q": "The country seen here was named after this man",
+     "a": "Simón Bolívar",
+     "right": [
+      "Hilary"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 16,
+     "q": "It's the title town in the song heard here",
+     "a": "Bethlehem",
+     "right": [
+      "Jess"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 8,
+     "q": "At the end of the balcony scene, these 5 words precede & rhyme with \"that I shall say goodnight till it be morrow\"",
+     "a": "Parting is such sweet sorrow",
+     "right": [
+      "Jess"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 28,
+     "q": "If we'd only gotten into streaming earlier, we wouldn't have had to close 9,000 of these video rental stores",
+     "a": "Blockbuster",
+     "right": [
+      "Hilary"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 7,
+     "q": "Jimmy Fallon has a true bromance with this singer, his partner in crime in \"The History of Rap\" videos",
+     "a": "Justin Timberlake",
+     "right": [
+      "Hilary"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 21,
+     "q": "Unattractive, sickly & clumsy with a rather coarse sense of taste? No problem for him, emperor from 41 to 53 A.D.",
+     "a": "Claudius",
+     "right": [
+      "Hilary"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 25,
+     "q": "The sons of a man who died in 1953 still rule this Mideast country he founded",
+     "a": "Saudi Arabia",
+     "right": [
+      "Shu-Ping"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 17,
+     "q": "2010 testimony to the U.S. Senate Committee on Rules noted \"The first real-life one of these speeches was in 1837",
+     "a": "filibuster",
+     "right": [],
+     "wrong": [
+      "Hilary",
+      "Shu-Ping"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 10,
+     "q": "This cousin of Juliet kills Mercutio, who called him a \"rat-catcher\"",
+     "a": "Tybalt",
+     "right": [
+      "Shu-Ping"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 29,
+     "q": "Yeah, maybe our campaign staff shouldn't have advised this man to do a 1988 photo op atop an M1 tank",
+     "a": "Michael Dukakis",
+     "right": [
+      "Hilary"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2000
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 23,
+     "q": "Since sharing the screen in the 1991 film \"Flirting\", Naomi Watts & this woman have made up the \"Aussie Posse\"",
+     "a": "Nicole Kidman",
+     "right": [
+      "Jess"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 22,
+     "q": "The head & hands of this man said to be ancient Rome's finest orator ended up on the speaker's platform at the Forum",
+     "a": "Cicero",
+     "right": [
+      "Hilary"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": true,
+     "order": 26,
+     "q": "First name of the man for whom Zimbabwe was formerly named",
+     "a": "Cecil",
+     "right": [
+      "Shu-Ping"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 4000
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 18,
+     "q": "Some communities have banned these items used by gardeners as too noisy",
+     "a": "leaf blowers",
+     "right": [
+      "Jess"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 11,
+     "q": "In this Franciscan's first speech, he discusses the good & bad uses of herbs",
+     "a": "Friar Laurence",
+     "right": [
+      "Hilary"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 30,
+     "q": "Mein Frau turned 50 on June 6, 1944, but I could have stayed in my job defending the French coast instead of visiting her in Germany",
+     "a": "Erwin Rommel (the Desert Fox)",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "THE OSCARS",
+  "q": "\"Gladiator\" is close, but this film has the earliest historical setting of any Best Picture Oscar winner",
+  "a": "Ben-Hur",
+  "right": [
+   "Shu-Ping",
+   "Jess"
+  ],
+  "wrong": [
+   "Hilary"
+  ]
+ },
+ "gameId": "4953",
+ "cat_notes": {
+  "J": [
+   "Clues about Tasty Literature.",
+   "Clues about Knowledge.",
+   "Clues about Superathletes.",
+   "Clues about Also a Keyboard Key.",
+   "The category “LET'S VISIT SCOTLAND” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "Each answer contains the letter “H”, and the clues are about Self-rhyming Words."
+  ],
+  "DJ": [
+   "Clues about Friends.",
+   "Clues about Romans.",
+   "Clues about Country Men.",
+   "Clues about Lend Me Your Ears.",
+   "Clues about That's in Romeo and Juliet.",
+   "The category “OUR MISTAKE!” sets the theme — the clues follow that idea and any wordplay suggested by the title."
+  ],
+  "F": "Clues about The Oscars."
+ }
+}

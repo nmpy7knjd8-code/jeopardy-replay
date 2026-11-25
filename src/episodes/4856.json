@@ -1,0 +1,992 @@
+{
+ "show": "#7033",
+ "aired": "2015-03-25",
+ "note": "",
+ "contestants": [
+  {
+   "name": "Tim Hague",
+   "bio": "a tech support retiree from Flower Mound, Texas",
+   "short": "Tim"
+  },
+  {
+   "name": "Jacqueline Hawkins",
+   "bio": "an English professor from Louisville, Kentucky",
+   "short": "Jacqueline"
+  },
+  {
+   "name": "Gautam Mukunda",
+   "bio": "a professor from Boston, Massachusetts (whose 1-day cash winnings total $24,401)",
+   "short": "Gautam"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Gautam": 3600,
+   "Jacqueline": 3000,
+   "Tim": 2400
+  },
+  "DJ": {
+   "Gautam": 11600,
+   "Jacqueline": 17000,
+   "Tim": 10000
+  },
+  "Final": {
+   "Gautam": 17001,
+   "Jacqueline": 23300,
+   "Tim": 19999
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "THERE'S NO STOPPING THEM",
+    "WHO'S THE MAMA?",
+    "MOON WALKING",
+    "YOU ARE HERE",
+    "WEIGHT, WEIGHT",
+    "DON'T L ME"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 11,
+     "q": "On Nov. 15, 1864 this general's unstoppable March to the Sea began as he left Atlanta for Savannah with 62,000 troops",
+     "a": "(William) Sherman",
+     "right": [
+      "Jacqueline"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 6,
+     "q": "Chaz (formerly Chastity) Bono",
+     "a": "Cher",
+     "right": [
+      "Tim"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 5,
+     "q": "In 1972 Eugene Cernan needed to tape the fender back onto his lunar rover; of course, he used this type of tape",
+     "a": "duct tape",
+     "right": [
+      "Jacqueline"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 16,
+     "q": "Getting to know the locals, all 96 million, in this country's Shandong province",
+     "a": "China",
+     "right": [
+      "Gautam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 26,
+     "q": "Tritium is the heaviest naturally occurring isotope of this element",
+     "a": "hydrogen",
+     "right": [
+      "Jacqueline"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 21,
+     "q": "It's a possible response in a T or F quiz",
+     "a": "true",
+     "right": [
+      "Gautam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 12,
+     "q": "These 2 words precede \"machine\" in a hypothetical device that can continuously produce work with no energy input",
+     "a": "perpetual motion",
+     "right": [
+      "Tim"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 7,
+     "q": "Alexa Ray Joel",
+     "a": "Christie Brinkley",
+     "right": [
+      "Tim"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 4,
+     "q": "This \"giant leap\" taker had previously performed the first docking of 2 vehicles in space",
+     "a": "Neil Armstrong",
+     "right": [
+      "Tim"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 17,
+     "q": "In this city whose metro area has half the population of British Columbia",
+     "a": "Vancouver",
+     "right": [
+      "Jacqueline"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "Guinness says the heaviest commercial one of these (including propellant) was TerreStar-1",
+     "a": "a satellite",
+     "right": [
+      "Gautam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 22,
+     "q": "This party has more than 50 seats in the U.K.'s House of Commons",
+     "a": "the Tories",
+     "right": [
+      "Jacqueline"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 13,
+     "q": "In 1977 this band hit No. 3 singing, \"Don't stop thinking about tomorrow\"",
+     "a": "Fleetwood Mac",
+     "right": [
+      "Tim"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 8,
+     "q": "Ben Stiller",
+     "a": "Anne Meara",
+     "right": [
+      "Tim"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 3,
+     "q": "If I had one of these, I'd drop it on the Moon with a feather like Dave Scott did in August 1971 to test a Galileo theory",
+     "a": "a hammer",
+     "right": [],
+     "wrong": [
+      "Gautam",
+      "Tim"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 18,
+     "q": "In this Olympic city, in the Gothic Quarter known as Barri Gotic in the region's Catalan language",
+     "a": "Barcelona",
+     "right": [
+      "Tim"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 28,
+     "q": "One of the heaviest reptiles is the saltwater species of this creature; it can drown water buffalo",
+     "a": "a crocodile",
+     "right": [
+      "Jacqueline"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 23,
+     "q": "It's a call an umpire can make regarding a ball hit down the line",
+     "a": "fair",
+     "right": [
+      "Gautam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 14,
+     "q": "This poet who could not stop for death also noted, \"We passed the fields of gazing grain--we passed the setting sun\"",
+     "a": "(Emily) Dickinson",
+     "right": [
+      "Jacqueline"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 9,
+     "q": "Melanie Griffith",
+     "a": "Tippi Hedren",
+     "right": [
+      "Tim"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": true,
+     "order": 1,
+     "q": "The second Moon-landing mission, this Apollo flight got hit by lightning about 36 seconds after launching",
+     "a": "Apollo 12",
+     "right": [
+      "Gautam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1000
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 19,
+     "q": "Thank goodness, leaving Africa's Namib Desert--oh bleep, it merges right into this larger one",
+     "a": "the Kalahari",
+     "right": [
+      "Gautam"
+     ],
+     "wrong": [
+      "Jacqueline"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "Weight of the heaviest standard bowling ball",
+     "a": "16 lbs.",
+     "right": [],
+     "wrong": [
+      "Jacqueline"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 24,
+     "q": "It's a color on Israel's flag",
+     "a": "white",
+     "right": [
+      "Jacqueline"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 15,
+     "q": "This Archbishop of Canterbury didn't stop taking on Henry II about royal domination of the Church; that ended badly",
+     "a": "Thomas à Becket",
+     "right": [
+      "Jacqueline"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 10,
+     "q": "Jason Schwartzman (Yo! This actress)",
+     "a": "Talia Shire",
+     "right": [],
+     "wrong": [
+      "Tim"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 2,
+     "q": "This first American in space was also the first man to use a 6-iron on the Moon; he said \"The ball went miles & miles\"",
+     "a": "(Alan) Shepard",
+     "right": [
+      "Gautam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 20,
+     "q": "In this \"holy\" city on New Zealand's South Island, home to 350,000 & built largely on flat land that was once a swamp",
+     "a": "Christchurch",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 30,
+     "q": "This 80-ton plant-eating \"arm lizard\" was a heavyweight even among dinosaurs",
+     "a": "the Brachiosaurus",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 25,
+     "q": "A basic 4-letter category of food mentioned in 1 Corinthians 3:2",
+     "a": "meat",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "BEGINS WITH A SILENT LETTER",
+    "READING RAINBOW",
+    "ANTS",
+    "MORTAL MATTERS",
+    "UPRISINGS",
+    "THE GRAMMYS"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 3,
+     "q": "Granny or half hitch",
+     "a": "a knot",
+     "right": [
+      "Gautam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 13,
+     "q": "In the Bible we read that God told him, I will show you a rainbow \"for a token of a covenant\"",
+     "a": "Noah",
+     "right": [
+      "Jacqueline"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 9,
+     "q": "The ant's chief sense organs, they can touch, smell & taste",
+     "a": "antennae",
+     "right": [
+      "Gautam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 18,
+     "q": "On July 14, 1881 he entered a dark room & asked in Spanish, \"Who is it?\"; Pat Garrett responded with 2 fatal shots",
+     "a": "William Bonney (Billy the Kid)",
+     "right": [
+      "Tim"
+     ],
+     "wrong": [
+      "Jacqueline"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "This uprising started with the Great Fear of July 1789",
+     "a": "the French Revolution",
+     "right": [
+      "Gautam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 26,
+     "q": "This performer of \"Billie Jean\" also won a Grammy as a composer of the song",
+     "a": "Michael Jackson",
+     "right": [
+      "Jacqueline"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 6,
+     "q": "Bite or chew, as a dog does to a bone",
+     "a": "gnaw",
+     "right": [
+      "Jacqueline"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 14,
+     "q": "This author's \"Rainbow Six\" refers to the leader of an anti-terrorist strike force",
+     "a": "Tom Clancy",
+     "right": [
+      "Tim"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 23,
+     "q": "When you buy one of these, it will most likely be filled with western harvester ants because they are great tunnelers",
+     "a": "an ant farm",
+     "right": [
+      "Jacqueline"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 20,
+     "q": "(Kelly of the Clue Crew delivers the clue from the Ho Chi Minh Mausoleum in Hanoi, Vietnam.) Ho Chi Minh wanted cremation, but when he died in '69, the war was raging & Communist Party chiefs felt morale would be helped by preserving his body via this process & encasing it in a mausoleum",
+     "a": "embalming",
+     "right": [
+      "Tim"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 11,
+     "q": "It happened in Ireland in April 1916",
+     "a": "the Easter Uprising",
+     "right": [
+      "Jacqueline"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 27,
+     "q": "In 2013 this American Idol won Best Pop Vocal Album for her CD including the song \"Mr. Know It All\"",
+     "a": "Kelly Clarkson",
+     "right": [
+      "Jacqueline"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 7,
+     "q": "To subject someone to a severe trial or ordeal is to \"put him through\" this laundry device",
+     "a": "the wringer",
+     "right": [
+      "Jacqueline"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 15,
+     "q": "The Rainbow Guard is Renly Baratheon's variant of the Kingsguard in these books",
+     "a": "A Song of Ice and Fire",
+     "right": [
+      "Jacqueline"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 22,
+     "q": "After the mating flight, the male wanders off & dies; the queen removes these because they are no longer needed",
+     "a": "her wings",
+     "right": [
+      "Jacqueline"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 19,
+     "q": "Funeral songs or hymns; \"we sang\" them \"in the dark, the day the music died\"",
+     "a": "dirges",
+     "right": [
+      "Jacqueline"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 12,
+     "q": "June 1846 was a banner time for this California revolt against Mexican rule",
+     "a": "the Bear Flag Revolt",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 28,
+     "q": "Completes the title of the 2014 Best Country Album, Kacey Musgraves' \"Same Trailer...\"",
+     "a": "Different Park",
+     "right": [],
+     "wrong": [
+      "Jacqueline"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 5,
+     "q": "A czarina is the wife of a czar; this is the eldest son",
+     "a": "a czarevich",
+     "right": [
+      "Jacqueline"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 16,
+     "q": "Tyrone Slothrop is the G.I. main character of this vast novel by Thomas Pynchon",
+     "a": "Gravity's Rainbow",
+     "right": [
+      "Jacqueline"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 2,
+     "q": "These ants with a burning sting arrived in the U.S. from South America via Mobile, Ala. early in the 20th century",
+     "a": "fire ants",
+     "right": [
+      "Jacqueline"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 4,
+     "q": "This explorer left his heart buried under a tree in Chitambo, Zambia; the rest of him is buried in Westminster Abbey",
+     "a": "Livingstone",
+     "right": [
+      "Gautam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1000
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 10,
+     "q": "This country's 2010 Jasmine Revolution kicked off the Arab Spring",
+     "a": "Tunisia",
+     "right": [
+      "Gautam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 3800
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 29,
+     "q": "His 2009 Grammy at age 83 for Best Traditional Blues Album was this guitarist's 15th",
+     "a": "B.B. King",
+     "right": [
+      "Tim"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 8,
+     "q": "For fiber, a Dr. Oz smoothie recipe includes these powdered husks",
+     "a": "psyllium",
+     "right": [
+      "Tim"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 17,
+     "q": "It completes the title of a Ntozake Shange work, \"for colored girls who have considered suicide/when...\"",
+     "a": "the rainbow is enuf",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 24,
+     "q": "This type of ant usually nests in rotting tree stumps & logs but may invade the wooden framework of a house",
+     "a": "a carpenter ant",
+     "right": [
+      "Jacqueline"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 21,
+     "q": "Since 1584 the Dutch royal family has been buried at the Nieuwe Kerk, or New Church, in this city better known for its pottery",
+     "a": "Delft",
+     "right": [
+      "Tim"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 25,
+     "q": "Alternate name of the 1857 Indian Mutiny",
+     "a": "the Sepoy Rebellion",
+     "right": [
+      "Gautam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 30,
+     "q": "In 1978 there was a tie for Song of the Year: \"You Light Up My Life\" & this Streisand love theme from \"A Star is Born\"",
+     "a": "\"Evergreen\"",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "ACTRESSES",
+  "q": "For playing a legal assistant in a 2000 film, she became the first actress to crash the $20 million salary barrier",
+  "a": "Julia Roberts",
+  "right": [
+   "Tim",
+   "Gautam",
+   "Jacqueline"
+  ],
+  "wrong": []
+ },
+ "gameId": "4856",
+ "cat_notes": {
+  "J": [
+   "Clues about There's No Stopping Them.",
+   "The category “WHO'S THE MAMA?” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "Clues about Moon Walking.",
+   "The category “YOU ARE HERE” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "Clues about Weight, Weight.",
+   "Each correct response will not have the letter L in it."
+  ],
+  "DJ": [
+   "Each correct response...",
+   "Clues about Reading Rainbow.",
+   "Clues about Ants.",
+   "Clues about Mortal Matters.",
+   "Clues about Uprisings.",
+   "Clues about The Grammys."
+  ],
+  "F": "Clues about Actresses."
+ }
+}

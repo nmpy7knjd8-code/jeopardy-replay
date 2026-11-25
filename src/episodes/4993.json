@@ -1,0 +1,1002 @@
+{
+ "show": "#7121",
+ "aired": "2015-07-27",
+ "note": "Scott Lord game 6. \r Alex Trebek's audio was re-recorded when his voice recovered.",
+ "contestants": [
+  {
+   "name": "Luke McQuage",
+   "bio": "an engineer originally from Austin, Texas",
+   "short": "Luke"
+  },
+  {
+   "name": "Suzanne Vito",
+   "bio": "a writer from Albany, California",
+   "short": "Suzanne"
+  },
+  {
+   "name": "Scott Lord",
+   "bio": "a construction attorney from Santa Monica, California (whose 5-day cash winnings total $108,002)",
+   "short": "Scott"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Scott": 4400,
+   "Suzanne": 10000,
+   "Luke": 2000
+  },
+  "DJ": {
+   "Scott": 8000,
+   "Suzanne": 12800,
+   "Luke": 4000
+  },
+  "Final": {
+   "Scott": 0,
+   "Suzanne": 9500,
+   "Luke": 7900
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "STATE OF THE ESTATE",
+    "MY LITTLE PONY NAMES",
+    "FOOD & DRINK",
+    "TECH SAVVY",
+    "BIOGRAPHIES",
+    "IN B__W"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 16,
+     "q": "Hearst Castle",
+     "a": "California",
+     "right": [
+      "Suzanne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 21,
+     "q": "Nickname of Charles Luciano",
+     "a": "Lucky",
+     "right": [
+      "Suzanne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 6,
+     "q": "Served as appetizers, usually with a dip, crudites are raw these",
+     "a": "vegetables",
+     "right": [
+      "Scott"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 26,
+     "q": "If this happens to your cell phone, try leaving the frame & battery in uncooked rice",
+     "a": "it getting wet",
+     "right": [
+      "Luke"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "He was the subject of a 2013 biography called \"A Curious Man\"; believe it or not",
+     "a": "(Robert) Ripley",
+     "right": [
+      "Luke"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 15,
+     "q": "It's the sweet treat seen here",
+     "a": "a bear claw",
+     "right": [
+      "Scott"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 11,
+     "q": "George Washington's Mount Vernon",
+     "a": "Virginia",
+     "right": [
+      "Suzanne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 22,
+     "q": "A player who hits the ball very hard, or the Louisville bat he uses",
+     "a": "Slugger",
+     "right": [
+      "Scott"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 8,
+     "q": "One story of how this fruit drink got its pink version involves a circus vendor & a pair of red tights soaking in water",
+     "a": "lemonade",
+     "right": [
+      "Scott"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "If you'd prefer your buddy's Facebook photos not I.D. you as his wingman, turn off this feature",
+     "a": "tagging (or auto-tagging)",
+     "right": [
+      "Suzanne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "This artist \"and the Pope's Ceiling\" tells the drama behind the making of a masterpiece",
+     "a": "Michelangelo",
+     "right": [
+      "Luke"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 17,
+     "q": "Familial relationship of Stanley Kowalski to Blanche DuBois",
+     "a": "brother-in-law",
+     "right": [
+      "Scott"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 7,
+     "q": "Theodore Roosevelt's Sagamore Hill",
+     "a": "New York",
+     "right": [
+      "Suzanne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 23,
+     "q": "In a fairy tale, she breaks into a house & sleeps on some beds",
+     "a": "Goldilocks",
+     "right": [
+      "Scott"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 12,
+     "q": "In this 2004 film Miles & Jack sip Pinot noir & wander the California wine country",
+     "a": "Sideways",
+     "right": [
+      "Suzanne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 28,
+     "q": "This word also meaning \"an equal\" is the P in P2P file sharing",
+     "a": "peer",
+     "right": [
+      "Suzanne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 3,
+     "q": "Chris Matthews chronicled the relationship between a Speaker of the House & Pres. Reagan in him \"and the Gipper\"",
+     "a": "Tip O'Neill",
+     "right": [
+      "Luke"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 18,
+     "q": "It's the architectural feature of the room seen here",
+     "a": "bay window",
+     "right": [
+      "Luke"
+     ],
+     "wrong": [
+      "Scott"
+     ],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 9,
+     "q": "Built by Alfred I. DuPont, Nemours Mansion",
+     "a": "Delaware",
+     "right": [
+      "Scott"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 24,
+     "q": "Sea creature that adheres firmly to rocks & to the bottom of ships",
+     "a": "Barnacle",
+     "right": [
+      "Suzanne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 13,
+     "q": "By definition, in Italy it's what is served in a gelateria",
+     "a": "ice cream (gelato accepted)",
+     "right": [
+      "Suzanne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "National Park fans will know that Apple's 2015 operating system is known as \"OS X\" this",
+     "a": "Yosemite",
+     "right": [
+      "Suzanne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 4,
+     "q": "\"The Secret History of\" this comics heroine is a bio of her creator William Marston, inventor of the lie detector",
+     "a": "Wonder Woman",
+     "right": [
+      "Suzanne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 19,
+     "q": "To confer upon, as a gift",
+     "a": "bestow",
+     "right": [
+      "Suzanne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 10,
+     "q": "The Vanderbilts' summer \"cottage\", The Breakers",
+     "a": "Rhode Island",
+     "right": [
+      "Scott"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 25,
+     "q": "Spinal Tap had several of these; one spontaneously combusted",
+     "a": "Drummer",
+     "right": [
+      "Scott"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 14,
+     "q": "During Hoover's 1928 presidential campaign, the Republicans promised one of these offerings",
+     "a": "a chicken in every pot",
+     "right": [
+      "Suzanne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 30,
+     "q": "It can mean to parody in a goofy way, or to deceptively send an email from someone else's address",
+     "a": "spoof",
+     "right": [
+      "Suzanne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": true,
+     "order": 5,
+     "q": "A biography of this nobleman goes beyond the boxing rules he devised & his accusations against Oscar Wilde",
+     "a": "the Marquess of Queensberry",
+     "right": [
+      "Suzanne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1000
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 20,
+     "q": "As a noun, it's a surge of the sea; as a verb it means to puff out",
+     "a": "billow",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "THE KNIGHTS TEMPLAR",
+    "COMPOUND WORDS",
+    "GERMAN LIT",
+    "GEOGRAPHER'S \"D\"ICTIONARY",
+    "POP MUSIC",
+    "IN COLOR"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "The Templars were formed in this city around 1120 to protect pilgrims left defenseless after crusaders went home",
+     "a": "Jerusalem",
+     "right": [
+      "Suzanne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 11,
+     "q": "On social media the abbreviation TBT means it's this kind of Thursday",
+     "a": "throwback Thursday",
+     "right": [
+      "Scott"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 16,
+     "q": "A 13th century Gottfried von Strassburg story retells a Celtic tale of the doomed lovers Tristan & her",
+     "a": "Isolde",
+     "right": [
+      "Suzanne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 26,
+     "q": "To find this figure for Trebekistan, divide the population by the area",
+     "a": "density",
+     "right": [],
+     "wrong": [
+      "Suzanne",
+      "Luke"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "This first No. 1 hit by ABBA says \"Young and sweet, only 17\"",
+     "a": "\"Dancing Queen\"",
+     "right": [
+      "Scott"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 21,
+     "q": "Ignored for almost 150 years, this U.S. military award was reintroduced on February 22, 1932",
+     "a": "the Purple Heart",
+     "right": [
+      "Luke"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 3,
+     "q": "In the 1140s this was added to the Knights' white mantle as a symbol of Christian martyrdom",
+     "a": "a (red) cross",
+     "right": [
+      "Luke"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 12,
+     "q": "Chris Christie gave this kind of address at the 2012 Republican National Convention",
+     "a": "keynote",
+     "right": [
+      "Scott"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 17,
+     "q": "He was original in extolling \"The Sorrows of Young Werther\", a novel in the form of letters, in 1774",
+     "a": "Goethe",
+     "right": [
+      "Scott"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 30,
+     "q": "Down, down into this type of area in an ocean, like the 5,900-fathom Emden one near the Philippines",
+     "a": "the deep",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 6,
+     "q": "\"Everything Has Changed\" is by Taylor Swift & this redheaded Brit",
+     "a": "Ed Sheeran",
+     "right": [
+      "Luke"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 22,
+     "q": "The Bible's \"Whatsoever ye would that men should do to you, do ye even so to them\" is known as this",
+     "a": "the Golden Rule",
+     "right": [
+      "Luke"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 4,
+     "q": "Like an expert in chess, the highest authority in the Templars was called this; Jacques de Molay was the last",
+     "a": "a Grand Master",
+     "right": [
+      "Scott"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 13,
+     "q": "Dale Evans' horse was named this, like a dairy drink",
+     "a": "Buttermilk",
+     "right": [],
+     "wrong": [
+      "Suzanne",
+      "Luke"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 18,
+     "q": "Oskar Matzerath is the musician who never grew up in this 1959 Gunter Grass book",
+     "a": "The Tin Drum",
+     "right": [
+      "Suzanne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 29,
+     "q": "Yes, Chip, this term is used is used mainly in Northern England for a broad open valley",
+     "a": "a dale",
+     "right": [
+      "Suzanne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 8,
+     "q": "Cat on \"Sam & Cat\", she had a Top 5 hit in 2014 with \"Break Free\"",
+     "a": "Ariana Grande",
+     "right": [],
+     "wrong": [
+      "Suzanne"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 23,
+     "q": "This animal was once thought to bear the Devil's mark in its wool, which is perhaps why it came to symbolize disgrace",
+     "a": "the black sheep",
+     "right": [
+      "Suzanne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 5,
+     "q": "The Templars helped out 12th c. King Alfonso I against these invaders & he bequeathed them Aragon",
+     "a": "the Moors",
+     "right": [
+      "Suzanne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 14,
+     "q": "Eisenhower said, \"The search for\" this animal of blame \"is the easiest of all hunting expeditions\"",
+     "a": "a scapegoat",
+     "right": [
+      "Luke"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 19,
+     "q": "We bring in 'da noise, we bring in 'da Cornelia Funke, whose novels include this\"heart\" & this\"spell\"",
+     "a": "inkheart & inkspell",
+     "right": [
+      "Suzanne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 28,
+     "q": "1/360th of the Earth's circumference",
+     "a": "a degree",
+     "right": [],
+     "wrong": [
+      "Luke"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 3000
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 9,
+     "q": "In 1994 this trio had its second No. 1 album, \"Ill Communication\"",
+     "a": "the Beastie Boys",
+     "right": [
+      "Luke"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 24,
+     "q": "Notorious name of a herbicide mixture of 2,4-D & 2,4,5-T, used in Vietnam",
+     "a": "Agent Orange",
+     "right": [
+      "Luke"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 7,
+     "q": "After the fall of Acre in 1291, the Knights Templar moved their headquarters to this large island west of Syria",
+     "a": "Cyprus",
+     "right": [
+      "Luke"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 15,
+     "q": "Poet William Carlos Williams wrote that \"so much depends on a red\" one of these conveyances",
+     "a": "a wheelbarrow",
+     "right": [
+      "Suzanne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 20,
+     "q": "1815 is the estimated time of arrival of \"The Devil's Elixer\" by this author",
+     "a": "E.T.A. Hoffmann",
+     "right": [],
+     "wrong": [
+      "Luke"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 27,
+     "q": "Natural process by which arid lands become even less fertile; it happens a lot in Africa",
+     "a": "desertification",
+     "right": [
+      "Luke"
+     ],
+     "wrong": [
+      "Suzanne"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 10,
+     "q": "Will you remember this Canadian woman who sang \"I Will Remember You\"",
+     "a": "Sarah McLachlan",
+     "right": [],
+     "wrong": [
+      "Suzanne"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": true,
+     "order": 25,
+     "q": "These, now meaning \"Credit for deeds done\", may have come from a measure of young Girl Scouts' achievements",
+     "a": "brownie points",
+     "right": [],
+     "wrong": [
+      "Luke"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 3000
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "CLASSICAL MUSIC",
+  "q": "The first movement of the 1888 suite named for her is titled \"The Sea and Sindbad's Ship\"",
+  "a": "Scheherazade",
+  "right": [
+   "Luke"
+  ],
+  "wrong": [
+   "Scott",
+   "Suzanne"
+  ]
+ },
+ "gameId": "4993",
+ "cat_notes": {
+  "J": [
+   "We'll give you the estate.",
+   "Clues about My Little Pony Names.",
+   "Clues about Food and Drink.",
+   "Clues about Tech Savvy.",
+   "Clues about Biographies.",
+   "Clues in B__w."
+  ],
+  "DJ": [
+   "Clues about The Knights Templar.",
+   "Clues about Compound Words.",
+   "Clues about German Lit.",
+   "Each answer contains the letter “D”, and the clues are about Geographer's Ictionary.",
+   "Clues about Pop Music.",
+   "Clues in Color."
+  ],
+  "F": "Clues about Classical Music."
+ }
+}

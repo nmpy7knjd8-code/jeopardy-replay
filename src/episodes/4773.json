@@ -1,0 +1,990 @@
+{
+ "show": "#6975",
+ "aired": "2015-01-02",
+ "note": "Vaughn Winchell game 6. \r Elliot Yates game 1.",
+ "contestants": [
+  {
+   "name": "Elliot Yates",
+   "bio": "an opera producer from New York, New York",
+   "short": "Elliot"
+  },
+  {
+   "name": "Mike Blaha",
+   "bio": "an attorney originally from Homestead, Florida",
+   "short": "Mike"
+  },
+  {
+   "name": "Vaughn Winchell",
+   "bio": "a stay-at-home dad and graduate student from Columbia, Maryland (whose 5-day cash winnings total $103,103)",
+   "short": "Vaughn"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Vaughn": 7200,
+   "Mike": 3200,
+   "Elliot": 5000
+  },
+  "DJ": {
+   "Vaughn": 18200,
+   "Mike": 2400,
+   "Elliot": 16000
+  },
+  "Final": {
+   "Vaughn": 4399,
+   "Mike": 4799,
+   "Elliot": 18201
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "IN MY CABINET",
+    "5-LETTER WORDS",
+    "PLACES THAT END IN \"IA\"",
+    "POLICE LINGO",
+    "LATIN IN PLANT NAMES",
+    "& THE HORSE YOU RODE IN ON!"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 11,
+     "q": "Hilda Solis,\nTom Vilsack,\nChuck Hagel",
+     "a": "(Barack) Obama",
+     "right": [
+      "Vaughn"
+     ],
+     "wrong": [
+      "Elliot"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 13,
+     "q": "The name of this yellowish white color is from a word for \"elephant\"",
+     "a": "ivory",
+     "right": [
+      "Elliot"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 6,
+     "q": "This country is bordered by Turkey to the north & Iraq to the east",
+     "a": "Syria",
+     "right": [
+      "Elliot"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 20,
+     "q": "I need this, assistance from other cops that sounds like an additional vocalist",
+     "a": "backup",
+     "right": [
+      "Elliot"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "Australis is from this general direction",
+     "a": "south",
+     "right": [
+      "Vaughn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 26,
+     "q": "This talking title horse had his own CBS sitcom from 1961 to 1966, but work slowed down for him after that",
+     "a": "Mr. Ed",
+     "right": [
+      "Vaughn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 12,
+     "q": "Al Haig,\nEd Meese,\nJames Watt",
+     "a": "Reagan",
+     "right": [
+      "Elliot"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 14,
+     "q": "In the song \"American Pie\", it was dry",
+     "a": "the levee",
+     "right": [
+      "Vaughn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 7,
+     "q": "This capital of British Columbia has a regal name",
+     "a": "Victoria",
+     "right": [
+      "Vaughn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 22,
+     "q": "The LAPD defines this type of \"force\" as causing a risk of serious bodily injury or, of course, worse",
+     "a": "deadly",
+     "right": [
+      "Mike"
+     ],
+     "wrong": [
+      "Elliot"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "Somnifera means inducing this",
+     "a": "sleep",
+     "right": [
+      "Vaughn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "In 1994 Alan Cumming was the voice of this \"colorful\" Anna Sewell horse",
+     "a": "Black Beauty",
+     "right": [
+      "Mike"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 15,
+     "q": "Gale Norton,\nJohn Snow,\nAlberto Gonzales",
+     "a": "George W. Bush",
+     "right": [
+      "Elliot"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 16,
+     "q": "This steel rod is used to strengthen concrete pourings",
+     "a": "rebar",
+     "right": [
+      "Mike"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 8,
+     "q": "One of the 2 U.S. state capitals that fit the category",
+     "a": "Olympia (or Columbia)",
+     "right": [
+      "Vaughn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 23,
+     "q": "When trying to locate a suspect, cops will often check this, his \"L.K.A.\"",
+     "a": "last known address",
+     "right": [
+      "Vaughn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 3,
+     "q": "Muralis means growing on this part of a building",
+     "a": "the wall",
+     "right": [
+      "Vaughn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 28,
+     "q": "This 2011 Spielberg film is about a man named Albert & a loyal equine named Joey",
+     "a": "War Horse",
+     "right": [
+      "Elliot"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": true,
+     "order": 18,
+     "q": "George Romney,\nJohn Connally,\nJohn Mitchell",
+     "a": "Richard Nixon",
+     "right": [
+      "Vaughn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1800
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 17,
+     "q": "In the Catholic Church, it's a small vessel for holy water; in the kitchen, it holds a condiment such as vinegar or oil",
+     "a": "a cruet",
+     "right": [
+      "Vaughn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 9,
+     "q": "Hungary regained about 2/5 of this region in WWII, but the entirety was ceded to Romania in 1947",
+     "a": "Transylvania",
+     "right": [
+      "Elliot"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 24,
+     "q": "This word can also refer to high-ranking monks, but in cop-speak they're previous convictions",
+     "a": "priors",
+     "right": [
+      "Elliot"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 4,
+     "q": "Fetidus means it offends this",
+     "a": "the nose (your sense of smell)",
+     "right": [
+      "Elliot"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "Roy Rogers' original horse named this was foaled in 1934 on a ranch co-owned by Bing Crosby",
+     "a": "Trigger",
+     "right": [
+      "Mike"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 19,
+     "q": "William Jennings Bryan,\nThomas R. Marshall",
+     "a": "Woodrow Wilson",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 21,
+     "q": "Collect bit by bit, such as grain left by reapers",
+     "a": "glean",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 10,
+     "q": "This Virginia city is politically not part of a county but is within the boundaries of Arlington & Fairfax",
+     "a": "Alexandria",
+     "right": [
+      "Vaughn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 25,
+     "q": "4-letter word for crimes like prostitution & gambling without any obvious complaining parties",
+     "a": "vice",
+     "right": [
+      "Mike"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 5,
+     "q": "\"Pumila\" means this 5-letter term in the name of the 4-inch iris seen here",
+     "a": "dwarf (small)",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 30,
+     "q": "When it comes to 1943 Roddy McDowall films about a boy & his horse, let me introduce you to \"My Friend\" this",
+     "a": "Flicka",
+     "right": [
+      "Elliot"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "IN MY CABINET",
+    "A NOVEL CATEGORY",
+    "PENN. PALS",
+    "PARENTHETICAL SONG TITLES",
+    "SORRY THE PLACE IS A MESS",
+    "CROSSWORD CLUES \"D\""
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 21,
+     "q": "I have an owie, & I hear this adhesive brand \"Heals the wound fast, heals the hurt faster\"",
+     "a": "Band-Aid",
+     "right": [
+      "Vaughn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 7,
+     "q": "He spent a lot more time in Kansas than he would have otherwise to prepare \"In Cold Blood\"",
+     "a": "Truman Capote",
+     "right": [
+      "Vaughn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 8,
+     "q": "This country singer from Wyomissing sang the national anthem at a 76ers game at 11 & had her 1st single, \"Tim McGraw\", at age 16",
+     "a": "Taylor Swift",
+     "right": [],
+     "wrong": [
+      "Mike",
+      "Elliot"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 6,
+     "q": "The Rolling Stones:\n\"(But I Like It)\"",
+     "a": "\"It's Only Rock 'N' Roll\"",
+     "right": [
+      "Vaughn"
+     ],
+     "wrong": [
+      "Elliot"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 19,
+     "q": "I'm King Minos--welcome to my palace on this Greek island; haven't picked up much in the last 3,500 years",
+     "a": "Crete",
+     "right": [
+      "Elliot"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "A song for 2\n(4)",
+     "a": "a duet",
+     "right": [
+      "Elliot"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 25,
+     "q": "Oral-B's Complete Deep Clean Ultra this hits those hard-to-reach spots",
+     "a": "dental floss",
+     "right": [],
+     "wrong": [
+      "Mike"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 9,
+     "q": "At last count there were 16 books in this apocalyptic series that began with \"A Novel of the Earth's Last Days\"",
+     "a": "Left Behind",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": true,
+     "order": 11,
+     "q": "This general from Uniontown won the 1953 Nobel Peace Prize for his plan helping European recovery",
+     "a": "(George) Marshall",
+     "right": [
+      "Vaughn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 3400
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 13,
+     "q": "Blue Oyster Cult:\n\"(Don't Fear)\"",
+     "a": "\"The Reaper\"",
+     "right": [
+      "Mike"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 20,
+     "q": "The temple at Tollan, Mexico was once the religious center of thousands of these \"Tol\" people",
+     "a": "Toltec",
+     "right": [
+      "Mike"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 2,
+     "q": "Surplus opposite\n(7)",
+     "a": "a deficit",
+     "right": [
+      "Elliot"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 26,
+     "q": "This indigestion relief product from Novartis gets an \"AA\" for effort",
+     "a": "Maalox",
+     "right": [
+      "Vaughn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 10,
+     "q": "Nicholas Sparks has set many novels, including \"Safe Haven\" & \"Nights in Rodanthe\", in this, his home state",
+     "a": "North Carolina",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 12,
+     "q": "NFL quarterbacks from Pennsylvania include Dan Marino & this man, \"Broadway Joe\"",
+     "a": "Joe Namath",
+     "right": [
+      "Elliot"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 16,
+     "q": "Rihanna:\n\"(In The World)\"",
+     "a": "\"Only Girl\"",
+     "right": [],
+     "wrong": [
+      "Elliot"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 22,
+     "q": "(Sarah of the Clue Crew shows ruins and a map on the monitor.) 13th-century Whitby Abbey has been left a ruin by storms, neglect, the suppression of the monasteries &, of course, the German navy's shelling of this historic British county in 1914",
+     "a": "Yorkshire",
+     "right": [],
+     "wrong": [
+      "Mike",
+      "Elliot"
+     ],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 3,
+     "q": "A backless sofa\n(5)",
+     "a": "a divan",
+     "right": [
+      "Elliot"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 27,
+     "q": "It's the ultra strength pain relieving cream by this brand, not the Browns running back of the same name",
+     "a": "Bengay",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 14,
+     "q": "Tom Wolfe wrote about the fall of Wall Street master of the universe Sherman McCoy in this, his first novel",
+     "a": "Bonfire of the Vanities",
+     "right": [
+      "Vaughn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 28,
+     "q": "This author's early novels, including one about Harry Angstrom, were set in his native Pennsylvania",
+     "a": "John Updike",
+     "right": [
+      "Elliot"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 17,
+     "q": "Sheena Easton:\n\"(Nine To Five)\"",
+     "a": "\"Morning Train\"",
+     "right": [
+      "Elliot"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 23,
+     "q": "Add two letters to a Roman title to get the name of this Israeli city of Roman ruins",
+     "a": "Caesarea",
+     "right": [
+      "Vaughn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 4,
+     "q": "The usually wealthy widow of a king\n(7)",
+     "a": "a dowager",
+     "right": [
+      "Elliot"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 3000
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 30,
+     "q": "Swabpoules of this 7-letter brand stop bleeding of minor abrasions within 10 to 20 seconds",
+     "a": "StipTik",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 15,
+     "q": "A little birdie told us Donna Tartt won a 2014 Pulitzer prize for this novel that deals with a small, mysterious painting",
+     "a": "Goldfinch",
+     "right": [
+      "Elliot"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 29,
+     "q": "This 19th century educator known for his \"Readers\" began teaching at age 14 with little formal education",
+     "a": "(William) McGuffey",
+     "right": [
+      "Vaughn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 18,
+     "q": "Tina Turner:\n\"(Thunderdome)\"",
+     "a": "\"We Don't Need Another Hero\"",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 24,
+     "q": "Pueblo Bonito is one of the ruins of the ancestral Pueblo culture also known by this Navajo word",
+     "a": "Anasazi",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 5,
+     "q": "Checkers, in Cheshire\n(8)",
+     "a": "draughts",
+     "right": [
+      "Elliot"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "20th CENTURY AMERICA",
+  "q": "In 1923 Fanny Brice made news by having this procedure, later rejected by a woman portraying her",
+  "a": "a nose job",
+  "right": [
+   "Mike",
+   "Elliot"
+  ],
+  "wrong": [
+   "Vaughn"
+  ]
+ },
+ "gameId": "4773",
+ "cat_notes": {
+  "J": [
+   "You have to identify the president for us.",
+   "Each answer is a 5-letter word.",
+   "Each answer ends with “IA”, and the clues are about Places That End In.",
+   "Clues about Police Lingo.",
+   "Clues about Latin in Plant Names.",
+   "The category “& THE HORSE YOU RODE IN ON!” sets the theme — the clues follow that idea and any wordplay suggested by the title."
+  ],
+  "DJ": [
+   "Clues in My Cabinet.",
+   "Clues about A Novel Category.",
+   "Clues about Penn Pals.",
+   "Clues about Parenthetical Song Titles.",
+   "Clues about Sorry the Place Is a Mess.",
+   "We'll tell you how many letters. Keep in mind, each correct response begins with a \"D\"."
+  ],
+  "F": "Clues about 20th Century America."
+ }
+}

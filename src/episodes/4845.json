@@ -1,0 +1,994 @@
+{
+ "show": "#7019",
+ "aired": "2015-03-05",
+ "note": "",
+ "contestants": [
+  {
+   "name": "Rebecca Press Schwartz",
+   "bio": "a high school administrator from New York, New York",
+   "short": "Rebecca"
+  },
+  {
+   "name": "Austin Roberts",
+   "bio": "a program analyst originally from Spring, Texas",
+   "short": "Austin"
+  },
+  {
+   "name": "Laura Lorson",
+   "bio": "a newscaster and editor from Perry, Kansas (whose 1-day cash winnings total $11,400)",
+   "short": "Laura"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Laura": 4000,
+   "Austin": 9000,
+   "Rebecca": 2600
+  },
+  "DJ": {
+   "Laura": 18000,
+   "Austin": 11200,
+   "Rebecca": 6600
+  },
+  "Final": {
+   "Laura": 22000,
+   "Austin": 200,
+   "Rebecca": 3200
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "THE BLACK LIST",
+    "OPERA COUNTRY SETTINGS",
+    "THROWING SHADE",
+    "UNITS",
+    "1920s SLANG",
+    "DISNEY MOVIES"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 26,
+     "q": "Diceros bicornis, the black species of this, can charge with up to 3,000 pounds",
+     "a": "a rhinoceros",
+     "right": [
+      "Austin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 12,
+     "q": "Carl Heinrich Graun's \"Montezuma\"",
+     "a": "Mexico",
+     "right": [
+      "Austin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 11,
+     "q": "This tree with lobed leaves can live for 400 years, with or without the yellow ribbons of song",
+     "a": "an oak tree",
+     "right": [
+      "Laura"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 16,
+     "q": "On a calendar it's 10 years; on a rosary it's 10 beads",
+     "a": "a decade",
+     "right": [
+      "Laura"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 3,
+     "q": "\"Bangtails\" were these critters--got a hot tip on one?",
+     "a": "racehorses",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "Ruling the box office in 2011 was the re-release of this film with Simba & Mufasa in 3D",
+     "a": "The Lion King",
+     "right": [
+      "Laura"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "AKA \"hard coal\", it's steel gray to black in color",
+     "a": "anthracite",
+     "right": [
+      "Laura"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 13,
+     "q": "Verdi's \"Aida\"",
+     "a": "Egypt",
+     "right": [
+      "Austin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": true,
+     "order": 15,
+     "q": "The 300-foot-tall tree called the coast this lives up to its name: it's rarely found more than 50 miles inland",
+     "a": "the coast redwood",
+     "right": [
+      "Rebecca"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1000
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 17,
+     "q": "(Kelly of the Clue Crew presents an image on the monitor.) It's time for some quick math as we see a comparison--here's 11 pounds, roughly the equivalent of 5 of these metric units",
+     "a": "a kilogram",
+     "right": [
+      "Rebecca"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 4,
+     "q": "A \"wooden kimono\" was to be avoided, considering it was this object",
+     "a": "a coffin",
+     "right": [
+      "Laura"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "Dane Cook is the voice of Dusty Crophopper in this 2013 release",
+     "a": "Planes",
+     "right": [
+      "Austin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 28,
+     "q": "This region of fertile dark soil in Alabama & Mississippi sounds like it can break a 2x4 with its bare hands",
+     "a": "the Black Belt",
+     "right": [
+      "Rebecca"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 14,
+     "q": "Giacomo Meyerbeer's \"The Huguenots\"",
+     "a": "France",
+     "right": [
+      "Rebecca"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 21,
+     "q": "The cause of this disease with a tree in its name was identified in the Netherlands in 1921",
+     "a": "Dutch elm disease",
+     "right": [
+      "Laura"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 18,
+     "q": "A $25,000 a head fundraising dinner may also be described as $25,000 a this; make sure yours gets filled up",
+     "a": "a plate",
+     "right": [
+      "Austin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 6,
+     "q": "If you couldn't find your bootlegger, he might have been \"under glass\", in this place",
+     "a": "prison (jail)",
+     "right": [
+      "Austin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 5,
+     "q": "This live-action favorite with versions in 1961 & 1998 was based on a German novel, \"Das doppelte Lottchen\"",
+     "a": "The Parent Trap",
+     "right": [
+      "Austin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "It gets its name from the black inside its mouth",
+     "a": "the black mamba",
+     "right": [
+      "Austin"
+     ],
+     "wrong": [
+      "Rebecca"
+     ],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 24,
+     "q": "Jacques Offenbach's \"Die Rheinnixen\"",
+     "a": "Germany",
+     "right": [
+      "Austin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 22,
+     "q": "I do so enjoy the view of this tree from my Mississippi veranda",
+     "a": "the magnolia",
+     "right": [
+      "Rebecca"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 19,
+     "q": "It's a Chicago district represented by an alderman",
+     "a": "a ward",
+     "right": [
+      "Austin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 7,
+     "q": "Something that was the best could be the ant's pants or this other insect rhyme",
+     "a": "the bee's knees",
+     "right": [
+      "Austin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 9,
+     "q": "\"Colors of the Wind\" from this 1995 film won a Golden Globe for Best Song as well as an Oscar",
+     "a": "Pocahontas",
+     "right": [
+      "Austin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 30,
+     "q": "The so-called \"black box\" is the cockpit voice recorder plus this, FDR for short",
+     "a": "the flight data recorder",
+     "right": [
+      "Laura"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 25,
+     "q": "Puccini's \"Turandot\"",
+     "a": "China",
+     "right": [
+      "Austin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 23,
+     "q": "Soft, or white, types of this tree produce needles in bunches of 5; hard, or yellow, in bundles of 2 or 3",
+     "a": "a pine",
+     "right": [
+      "Austin"
+     ],
+     "wrong": [
+      "Rebecca"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 20,
+     "q": "The \"409\" in a Beach Boys song referred to the engine displacement in a Chevy, given in these units",
+     "a": "cubic inches",
+     "right": [
+      "Rebecca"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 8,
+     "q": "This phrase for a guy checking out girls at a soda fountain later became a Matt Dillon movie title",
+     "a": "drugstore cowboy",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 10,
+     "q": "Back in the day he starred as Dexter Riley in \"The Computer Wore Tennis Shoes\" & \"The Strongest Man in the World\"",
+     "a": "Kurt Russell",
+     "right": [
+      "Laura"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "THE BLACKLIST",
+    "LORD BYRON",
+    "STRONG AS AN \"UX\"",
+    "NATIONAL HISTORIC SITES",
+    "MONSTER MANUAL",
+    "THE CELEBRITY SPOUSE IN COMMON"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 14,
+     "q": "The \"Hollywood Ten\" were blacklisted in 1947 for refusing to testify before HUAC, this committee",
+     "a": "the House Un-American Activities Committee",
+     "right": [
+      "Laura"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 12,
+     "q": "In her introduction to this classic, Mary Shelley said it was Byron who suggested, \"We will each write a ghost story\"",
+     "a": "Frankenstein",
+     "right": [
+      "Austin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 9,
+     "q": "Enjoying extravagant living? You're in the lap of this",
+     "a": "luxury",
+     "right": [
+      "Austin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "Men, after visiting the Pro Football H.O.F. in this Ohio city, take your own first lady to the nearby First Ladies Historic Site",
+     "a": "Canton (Ohio)",
+     "right": [
+      "Laura"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 30,
+     "q": "A wyvern is a smaller, 2-legged, 2-winged, usually non-fire-breathing type of this",
+     "a": "a dragon",
+     "right": [
+      "Austin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "Tom Cruise,\nKeith Urban",
+     "a": "Nicole Kidman",
+     "right": [
+      "Rebecca"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 15,
+     "q": "Kirk Douglas helped end the blacklist when he acknowledged Dalton Trumbo as the writer of this 1960 film",
+     "a": "Spartacus",
+     "right": [
+      "Rebecca"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 13,
+     "q": "In his poem about this famous lover, Byron wrote, \"Truth is always strange, stranger than fiction\"",
+     "a": "Don Juan",
+     "right": [
+      "Rebecca"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 10,
+     "q": "Let me put it in black & white for you: an Armani Classic one goes for $1,995 at Neiman Marcus",
+     "a": "a tux",
+     "right": [
+      "Laura"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 3,
+     "q": "The Greeneville, Tennessee site honoring this president preserves 2 homes & his tailor shop",
+     "a": "Andrew Johnson",
+     "right": [
+      "Laura"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "Monsterologists are in debate on how this ugly demon differs from the version with \"hob\" in front",
+     "a": "a goblin",
+     "right": [
+      "Rebecca"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 7,
+     "q": "Patricia Arquette,\nPriscilla Marie Presley",
+     "a": "Nicolas Cage",
+     "right": [
+      "Laura"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 16,
+     "q": "Urged on by his priest, Billy Wilkerson of this Variety rival published \"Billy's Blacklist\" in 1946",
+     "a": "The Hollywood Reporter",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 19,
+     "q": "Byron's poem \"She Walks in\" this was inspired by a lovely lady in a mourning dress",
+     "a": "\"Beauty\"",
+     "right": [
+      "Laura"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 11,
+     "q": "In the mid-'80s more than a million of these talking bears were sold, many with his buddy Grubby",
+     "a": "Teddy Ruxpin",
+     "right": [
+      "Laura"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 4,
+     "q": "In 1998 the Alabama airfield where these black pilots received their training in WWII became a National Historic Site",
+     "a": "Tuskegee (Airmen)",
+     "right": [
+      "Laura"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 24,
+     "q": "The Orkney & Shetland Islands are where Selkies, creatures that appear as these \"s\"ea mammals, call home",
+     "a": "seals",
+     "right": [
+      "Rebecca"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 8,
+     "q": "Scarlett Johansson,\nBlake Lively",
+     "a": "Ryan Reynolds",
+     "right": [
+      "Austin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 20,
+     "q": "\"On the Waterfront\", in which Brando turns informer, was this director's justification for naming names",
+     "a": "Elia Kazan",
+     "right": [
+      "Laura"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 22,
+     "q": "In 1823 Byron gave 4,000 pounds of his own money to activate this country's fleet in its war against the Turks",
+     "a": "Greece",
+     "right": [
+      "Austin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 17,
+     "q": "The national motto of this European country is \"We want to remain what we are\"",
+     "a": "Luxembourg",
+     "right": [
+      "Austin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 5,
+     "q": "The Old Danish Customs House is part of the National Historic Site in Christiansted, in this U.S. territory",
+     "a": "the Virgin Islands",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 25,
+     "q": "It had a woman's head & a bird's body & met up with the Argonauts; c'mon, get...",
+     "a": "a harpy",
+     "right": [
+      "Austin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 28,
+     "q": "Cynda Williams,\nAngelina Jolie",
+     "a": "Billy Bob Thornton",
+     "right": [
+      "Laura"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 21,
+     "q": "This alliterative \"Threepenny Opera\" man dodged the blacklist by fleeing to his native Europe",
+     "a": "Bertolt Brecht",
+     "right": [
+      "Austin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 23,
+     "q": "Lord Byron got a bit childish & replaced the \"W\" at the beginning of this \"Prelude\" poet's name with a \"T\"",
+     "a": "William Wordsworth",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": true,
+     "order": 18,
+     "q": "This word comes from the Latin for \"side by side\"",
+     "a": "juxtaposition",
+     "right": [],
+     "wrong": [
+      "Austin"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 4000
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 6,
+     "q": "With the Oregon Trail & the Pony Express passing through the post, this Wyoming fort was the center of a nation moving west",
+     "a": "Fort Laramie",
+     "right": [
+      "Laura"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": true,
+     "order": 26,
+     "q": "In \"The Once and Future King\" this beast is described as \"Falco Leonis Serpentis\"",
+     "a": "the griffin",
+     "right": [],
+     "wrong": [
+      "Austin"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 3000
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 27,
+     "q": "Jack Cassidy,\nMarty Ingels",
+     "a": "Shirley Jones",
+     "right": [
+      "Laura"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "PRESIDENTIAL MEDAL OF FREEDOM WINNERS",
+  "q": "She was called a \"trailblazer for America's daughters\" when she won in 2012, a century after founding an organization",
+  "a": "Juliette Gordon Low",
+  "right": [
+   "Laura"
+  ],
+  "wrong": [
+   "Rebecca",
+   "Austin"
+  ]
+ },
+ "gameId": "4845",
+ "cat_notes": {
+  "J": [
+   "Clues about The Black List.",
+   "Name the current country in which the opera is set.",
+   "Clues about Throwing Shade.",
+   "Clues about Units.",
+   "Clues about 1920s Slang.",
+   "Clues about Disney Movies."
+  ],
+  "DJ": [
+   "Once again, we deal with [*], but this time, blacklist is one word, not two.",
+   "Clues about Lord Byron.",
+   "Each answer contains the letter group “UX”, and the clues are about Strong As An.",
+   "Clues about National Historic Sites.",
+   "Clues about Monster Manual.",
+   "Clues about The Celebrity Spouse in Common."
+  ],
+  "F": "Clues about Presidential Medal of Freedom Winners."
+ }
+}

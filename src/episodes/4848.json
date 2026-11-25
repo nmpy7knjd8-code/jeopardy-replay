@@ -1,0 +1,1000 @@
+{
+ "show": "#7025",
+ "aired": "2015-03-13",
+ "note": "Kristin Sausville game 3.",
+ "contestants": [
+  {
+   "name": "Shawn Paul",
+   "bio": "a restaurant manager originally from Waterville, Maine",
+   "short": "Shawn"
+  },
+  {
+   "name": "Kynan Dias",
+   "bio": "a film student originally from Las Vegas, Nevada",
+   "short": "Kynan"
+  },
+  {
+   "name": "Kristin Sausville",
+   "bio": "a stay-at-home mom from Newark, Delaware (whose 2-day cash winnings total $31,601)",
+   "short": "Kristin"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Kristin": 7000,
+   "Kynan": 3000,
+   "Shawn": 1600
+  },
+  "DJ": {
+   "Kristin": 15400,
+   "Kynan": 10600,
+   "Shawn": 4000
+  },
+  "Final": {
+   "Kristin": 21201,
+   "Kynan": 600,
+   "Shawn": 7000
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "LAST NAMES OF FICTIONAL CHARACTERS",
+    "ADVERTISING & MARKETING",
+    "\"SO\" IT GOES",
+    "2-TIMING STATES",
+    "THEY FOUGHT IN THE BIG ONE",
+    "PLAY ME..."
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 6,
+     "q": "Van Pelt is the last name of these siblings in the Peanuts comic strip",
+     "a": "Linus & Lucy",
+     "right": [
+      "Kristin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 26,
+     "q": "A long strip of cloth, or an Internet ad in the form of a bar hyperlinked to the advertiser's website",
+     "a": "banner",
+     "right": [
+      "Kynan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 21,
+     "q": "This 2-word term for an entertainment serial first appeared in Newsweek in 1939",
+     "a": "soap opera",
+     "right": [
+      "Shawn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "In this state when it's noon in Poseyville, it's 1 p.m. in Muncie, which is on Eastern Time",
+     "a": "Indiana",
+     "right": [
+      "Kynan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 16,
+     "q": "(Jimmy of the Clue Crew delivers the clue from the Pima Air & Space Museum in Tucson, AZ.) Flying a TBM Avenger in 1944, this 20-year-old naval aviator bailed out after his plane was hit by anti-aircraft fire over the island of Chichijima, making him the only U.S. president to have literally been shot down in combat",
+     "a": "George H.W. Bush",
+     "right": [
+      "Kynan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 11,
+     "q": "A Gretsch White Falcon with Filtertron pickups, one of these",
+     "a": "an electric guitar",
+     "right": [
+      "Kynan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 7,
+     "q": "Krueger & Voorhies are the last names of these 2 horror villains who faced off in a 2003 flick",
+     "a": "Freddy & Jason",
+     "right": [
+      "Kristin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "It's the 2-word alliterative term for the prominent display of commercial goods in films or TV shows",
+     "a": "product placement",
+     "right": [
+      "Kristin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 22,
+     "q": "This French-derived word means \"nickname\"",
+     "a": "sobriquet",
+     "right": [
+      "Kristin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "It's 10:00 in most of Arizona, which doesn't use daylight saving time, but 11 in this \"nation\", which does",
+     "a": "Navajo",
+     "right": [
+      "Kristin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 17,
+     "q": "Though he opposed U.S. entry into the war, as a civilian adviser this \"Lone Eagle\" flew combat missions in the Pacific",
+     "a": "Charles Lindbergh",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 12,
+     "q": "This song that says, \"It winds from Chicago to L.A., more than 2,000 miles all the way\"",
+     "a": "\"Route 66\"",
+     "right": [
+      "Shawn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 8,
+     "q": "This best friend of Big Bird goes by his last name; Aloysius is his first name",
+     "a": "Snuffleupagus",
+     "right": [
+      "Kristin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 28,
+     "q": "\"Watery\" term for the point at which a market is no longer generating new demand for a company's products",
+     "a": "saturation point",
+     "right": [
+      "Kynan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 23,
+     "q": "This Italian speciality comes in many varieties such as pumpkin",
+     "a": "risotto",
+     "right": [
+      "Kristin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 3,
+     "q": "If it's happy hour in Corvallis, it's dinner time in Ontario in this state",
+     "a": "Oregon",
+     "right": [
+      "Kristin"
+     ],
+     "wrong": [
+      "Shawn"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 18,
+     "q": "For this Navy man & future Yankee catcher, D-Day wasn't over 'til his boat shelled Omaha Beach",
+     "a": "Yogi Berra",
+     "right": [
+      "Kynan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 13,
+     "q": "Crash & Splash, types of these, parts of a drummer's kit",
+     "a": "cymbals",
+     "right": [
+      "Kristin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 9,
+     "q": "Here's an \"Omen\": Thorn is the last name of this devilish movie child, the spawn of Satan",
+     "a": "Damien",
+     "right": [
+      "Shawn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "At Heinz Field in 2009, this ex-NFL star received the Clio Advertising Award for a TV ad that first aired 30 years before",
+     "a": "\"Mean Joe\" Greene",
+     "right": [],
+     "wrong": [
+      "Kristin"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 24,
+     "q": "The fact is this term is Latin for \"because of the fact just mentioned\"",
+     "a": "ipso facto",
+     "right": [
+      "Kristin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 4,
+     "q": "If it's midnight in Scottsbluff in this state, it's 1 a.m. in Kearney",
+     "a": "Nebraska",
+     "right": [
+      "Kynan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 19,
+     "q": "There was just one springtime left for Hitler after this decisive December 1944 battle in which Mel Brooks fought",
+     "a": "the Battle of the Bulge",
+     "right": [
+      "Kristin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 14,
+     "q": "An anvil, like in this Italian composer's \"Anvil Chorus\"",
+     "a": "(Giuseppe) Verdi",
+     "right": [
+      "Shawn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 10,
+     "q": "Fawley is the last name of the title character of this Hardy novel",
+     "a": "Jude the Obscure",
+     "right": [
+      "Kynan"
+     ],
+     "wrong": [
+      "Kristin"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": true,
+     "order": 30,
+     "q": "Ernest Dichter coined this term for a small unit of people culled from society at large to get views & reactions",
+     "a": "a focus group",
+     "right": [],
+     "wrong": [
+      "Kynan"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1800
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 25,
+     "q": "To stay somewhere as a traveler or guest",
+     "a": "sojourn",
+     "right": [
+      "Kristin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 5,
+     "q": "In Michigan they're still asleep in Ironwood but getting up in this rock-hard seat of Genesee County",
+     "a": "Flint",
+     "right": [
+      "Kristin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 20,
+     "q": "Hitler reportedly offered a reward for the capture of this actor who'd joined the Army Air Force after Carole Lombard's death",
+     "a": "Clark Gable",
+     "right": [
+      "Kristin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 15,
+     "q": "This composer's 4'33\"; you won't need an instrument",
+     "a": "John Cage",
+     "right": [
+      "Kynan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "THE REST OF THE WORLD IN 1865",
+    "WHO CARES ABOUT APATHY?",
+    "HYBRIDS & BLENDS",
+    "ROLE IN COMMON",
+    "FOOD & DRINK",
+    "PLAY \"M-E\""
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 18,
+     "q": "The Christian Mission, later renamed this, is founded by William Booth in London's East End",
+     "a": "The Salvation Army",
+     "right": [
+      "Shawn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 7,
+     "q": "Aloof, or describing a garage that's separate from a house",
+     "a": "detached",
+     "right": [
+      "Shawn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 26,
+     "q": "If Disney's Ariel had been male, she'd be this creature",
+     "a": "a merman",
+     "right": [
+      "Kristin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 4,
+     "q": "Bette Davis,\nJudi Dench,\nCate Blanchett",
+     "a": "Elizabeth I",
+     "right": [
+      "Kynan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "Halvah consists mainly of honey & tahini, a paste of these seeds",
+     "a": "sesame seeds",
+     "right": [
+      "Shawn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 15,
+     "q": "Success came gentlemanly calling for Tennessee Williams after this play, his first big hit",
+     "a": "The Glass Menagerie",
+     "right": [
+      "Kynan"
+     ],
+     "wrong": [
+      "Kristin"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 19,
+     "q": "HSBC, today a giant banking firm, is founded in this place on China's coast, the \"H\" in its name",
+     "a": "Hong Kong",
+     "right": [
+      "Kristin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 10,
+     "q": "American Safety & Health Institute pairs this \"un-\" word meaning non-reactive with \"& not breathing\" in a scenario",
+     "a": "unresponsive (responsive accepted)",
+     "right": [
+      "Kristin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 27,
+     "q": "Balzac called this author's Leatherstocking \"a magnificent... hermaphrodite born between savage and civilized\"",
+     "a": "Fenimore Cooper",
+     "right": [
+      "Shawn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 5,
+     "q": "Hugh Jackman,\nFrederic March,\nLiam Neeson",
+     "a": "Jean Valjean",
+     "right": [
+      "Kynan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 2,
+     "q": "If you order Htapothi Krasato in a Greek restaurant, you'll get this cephalopod cooked in red wine",
+     "a": "an octopus",
+     "right": [
+      "Shawn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 16,
+     "q": "In 2010 Billie Joe Armstrong joined the cast of this show to sing his own songs",
+     "a": "American Idiot",
+     "right": [
+      "Kristin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 20,
+     "q": "The II king of this name is founded in Belgium & will reign until 1909",
+     "a": "Leopold",
+     "right": [
+      "Kynan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 11,
+     "q": "Sometimes a runner does not get credit for a stolen base due to \"defensive\" this, a lack of concern",
+     "a": "indifference",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": true,
+     "order": 28,
+     "q": "This Ford midsize sedan has a fitting name for a car that comes in a hybrid version",
+     "a": "Fusion",
+     "right": [],
+     "wrong": [
+      "Shawn"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 4000
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 6,
+     "q": "Ingrid Bergman,\nJean Seberg,\nMilla Jovovich",
+     "a": "Joan of Arc",
+     "right": [
+      "Kristin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 3,
+     "q": "Mango Melody & Wicked Apple are flavors of this semi-frozen drink sold at 7-Eleven",
+     "a": "a Slurpee",
+     "right": [
+      "Kristin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": true,
+     "order": 23,
+     "q": "I can tell you're fated to look for the \"ME\" inside this Baghdad-set musical",
+     "a": "Kismet",
+     "right": [],
+     "wrong": [
+      "Kynan"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 4000
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 21,
+     "q": "The Triple Alliance of Brazil, Argentina & Uruguay wages war on this small neighbor",
+     "a": "Paraguay",
+     "right": [
+      "Kynan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 12,
+     "q": "I don't wish to be blase about this, but it's French... it's a feeling of utter weariness... from lack of interest",
+     "a": "ennui",
+     "right": [
+      "Kynan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 29,
+     "q": "The alloy electrum is mostly gold with at least 20% of this metal",
+     "a": "silver",
+     "right": [
+      "Shawn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 13,
+     "q": "Jim Caviezel,\nJeffrey Hunter,\nMax von Sydow",
+     "a": "Jesus Christ",
+     "right": [
+      "Kristin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 8,
+     "q": "This flaming dessert is said to have been created in 1887 to honor Queen Victoria's 50th anniversary as monarch",
+     "a": "cherries jubilee",
+     "right": [
+      "Shawn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 24,
+     "q": "On Broadway in 1982, Cher & Kathy Bates asked, do this, Jimmy Dean, Jimmy Dean",
+     "a": "\"Come Back to the 5 & Dime\"",
+     "right": [
+      "Kynan"
+     ],
+     "wrong": [
+      "Shawn"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 22,
+     "q": "The Monroe Doctrine is invoked as the U.S. supports this Mexican president against Maximilian",
+     "a": "Benito Juárez",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 17,
+     "q": "Meaning tranquil or unruffled, this word isn't impressive\", but it is \"im\" this",
+     "a": "impassive",
+     "right": [
+      "Kristin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 30,
+     "q": "Born in San Juan, but raised in the Bronx? You're this, also the name of Jennifer Lopez' production company",
+     "a": "Nuyorican",
+     "right": [
+      "Kynan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 14,
+     "q": "Kirk Douglas,\nVictor Mature,\nVal Kilmer",
+     "a": "Doc Holliday",
+     "right": [
+      "Kynan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 9,
+     "q": "About 80% of this expensive Jamaican coffee is exported to Japan",
+     "a": "Blue Mountain Coffee",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 25,
+     "q": "Simple title of the Clare Boothe Luce play about females fighting, first staged in 1936, later filmed 3 times",
+     "a": "The Women",
+     "right": [
+      "Shawn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "HISTORICAL U.S. GEOGRAPHY",
+  "q": "It became a border territory in 1864 after being part of the Washington, Oregon, Idaho, Nebraska & Dakota Territories",
+  "a": "Montana",
+  "right": [
+   "Shawn",
+   "Kristin"
+  ],
+  "wrong": [
+   "Kynan"
+  ]
+ },
+ "gameId": "4848",
+ "cat_notes": {
+  "J": [
+   "Clues about Last Names of Fictional Characters.",
+   "Clues about Advertising and Marketing.",
+   "Those two letters coming up in each correct response.",
+   "Clues about 2-timing States.",
+   "The category “THEY FOUGHT IN THE BIG ONE” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "Clues about Play Me."
+  ],
+  "DJ": [
+   "Clues about The Rest of the World in 1865.",
+   "The category “WHO CARES ABOUT APATHY?” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "Clues about Hybrids and Blends.",
+   "Clues about Role in Common.",
+   "Clues about Food and Drink.",
+   "Plays with \"M-E\", those two letters in their titles."
+  ],
+  "F": "Clues about Historical U.S. Geography."
+ }
+}

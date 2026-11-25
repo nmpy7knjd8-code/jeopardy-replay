@@ -1,0 +1,1007 @@
+{
+ "show": "#7035",
+ "aired": "2015-03-27",
+ "note": "Michael Bilow game 1.",
+ "contestants": [
+  {
+   "name": "Eric Swanson",
+   "bio": "a Ph.D. student in experimental pathology from Charlottesville, Virginia",
+   "short": "Eric"
+  },
+  {
+   "name": "Michael Bilow",
+   "bio": "a Ph.D. student in computer science originally from Chicago, Illinois",
+   "short": "Michael"
+  },
+  {
+   "name": "Jacqueline Hawkins",
+   "bio": "an English professor from Louisville, Kentucky (whose 2-day cash winnings total $34,101)",
+   "short": "Jacqueline"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Jacqueline": 1800,
+   "Michael": 9200,
+   "Eric": 6200
+  },
+  "DJ": {
+   "Jacqueline": 6200,
+   "Michael": 28600,
+   "Eric": 20800
+  },
+  "Final": {
+   "Jacqueline": 0,
+   "Michael": 12401,
+   "Eric": 6201
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "ROUGH WORDS IN NATIONAL ANTHEMS",
+    "THE FILM-TO-TV ROLE",
+    "REMEMBER 2014?",
+    "\"-EY\" MAN",
+    "FONTS",
+    "OF INFORMATION"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 26,
+     "q": "Tough times in Budapest? This country's anthem includes \"the tears of slavery burn, which the eyes of orphans shed\"",
+     "a": "Hungary",
+     "right": [
+      "Eric"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "Matthew Broderick had every day off once Charlie Schlatter became this teen (& Jennifer Aniston, his sister Jeannie)",
+     "a": "Ferris Bueller",
+     "right": [
+      "Jacqueline"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 7,
+     "q": "Gerrie Nel was the combative prosecutor in this man's trial in Pretoria",
+     "a": "(Oscar) Pistorius",
+     "right": [
+      "Michael"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 3,
+     "q": "This type of man can follow \"shock\" or \"disc\"",
+     "a": "jockey",
+     "right": [
+      "Eric"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 12,
+     "q": "Updated from inscriptions in this empire, Trajan became common on movie posters",
+     "a": "the Roman Empire",
+     "right": [
+      "Michael"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 14,
+     "q": "At 71 deg., 8 min. north latitude, this country's Cape Nordkinn is the northernmost point on the European mainland",
+     "a": "Norway",
+     "right": [
+      "Michael"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "\"They come right to our arms to slit the throats of our sons, our friends!\" is from this anthem of France",
+     "a": "\"La Marseillaise\"",
+     "right": [
+      "Michael"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "Chris Vance sat in Jason Statham's seat behind the Audi's steering wheel when this movie series hit the small screen",
+     "a": "the Transporter",
+     "right": [
+      "Michael"
+     ],
+     "wrong": [
+      "Eric"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": true,
+     "order": 8,
+     "q": "The Supreme Court ruled that police need a warrant to search these, now \"a pervasive and insistent part of daily life\"",
+     "a": "cell phones",
+     "right": [
+      "Michael"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1000
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 16,
+     "q": "A servile follower, or major league pitcher John",
+     "a": "a lackey",
+     "right": [
+      "Jacqueline"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 13,
+     "q": "Business News Daily named Calibri one of the best fonts for this document--now go update yours",
+     "a": "a résumé",
+     "right": [
+      "Eric"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 15,
+     "q": "Grizabella & Macavity are characters in this musical",
+     "a": "Cats",
+     "right": [
+      "Eric"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 28,
+     "q": "Romanians would get along with New Hampshirites, as they sing of being \"either\" this \"or dead\"",
+     "a": "free",
+     "right": [
+      "Michael"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 4,
+     "q": "Ellen Burstyn turned over this Oscar-winning waitress role to Linda Lavin",
+     "a": "Alice",
+     "right": [
+      "Eric"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 9,
+     "q": "Ashraf Ghani, who has his nationality in his name, became this country's president",
+     "a": "Afghanistan",
+     "right": [
+      "Jacqueline"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 17,
+     "q": "Term for a native of London's East End",
+     "a": "Cockney",
+     "right": [
+      "Eric"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 23,
+     "q": "OCR-A was designed in 1968 so machines could read it: OCR is short for this \"character recognition\"",
+     "a": "optical",
+     "right": [
+      "Michael"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 20,
+     "q": "Button & cremini are common types of these",
+     "a": "mushrooms",
+     "right": [
+      "Eric"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "\"May your fields be watered with blood, may they leave their foot-prints in blood\", sing Oaxacans in this country",
+     "a": "Mexico",
+     "right": [
+      "Michael"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 5,
+     "q": "Goldie Hawn, having bemoaned the lack of drapes in her barracks in this role, gave way to Lorna Patterson",
+     "a": "Private Benjamin",
+     "right": [
+      "Jacqueline"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 10,
+     "q": "8 sweet rides at Kentucky's National Corvette Museum were almost lost to this",
+     "a": "a sinkhole",
+     "right": [
+      "Jacqueline"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 18,
+     "q": "An \"old\" one of these men is conservative & dull by nature",
+     "a": "a fogey",
+     "right": [
+      "Michael"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 24,
+     "q": "The recently trendy font this \"Sans\" was inspired by this type of \"book\"",
+     "a": "Comic",
+     "right": [
+      "Eric"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 21,
+     "q": "In 1876, this Impressionist painted \"A Girl with a Watering Can\"",
+     "a": "Renoir",
+     "right": [
+      "Eric"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 30,
+     "q": "The anthem of this North African land that battled to get rid of the French mentions \"streams of generous blood\"",
+     "a": "Algeria",
+     "right": [
+      "Michael"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 6,
+     "q": "After Linda Hamilton got done trying to save the world from the future, Lena Headey took over as her",
+     "a": "Sarah Connor",
+     "right": [
+      "Eric"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 11,
+     "q": "1 of the 3 countries from which the midyear surge of kids arriving at the Mexico-U.S. border mainly came",
+     "a": "Guatemala (or El Salvador or Honduras)",
+     "right": [
+      "Eric"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 19,
+     "q": "2-word \"primate\" nickname for a mechanic",
+     "a": "a grease monkey",
+     "right": [
+      "Michael"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 25,
+     "q": "It was designed by a member of this German movement for \"art & technology, a new unity\"",
+     "a": "Bauhaus",
+     "right": [
+      "Michael"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 22,
+     "q": "Until 1971 a British pound equaled 20 of these",
+     "a": "a shilling",
+     "right": [
+      "Michael"
+     ],
+     "wrong": [
+      "Jacqueline"
+     ],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "PLACES IN SONG",
+    "TALK ABOUT THE CLIMATE",
+    "BIG WORDS",
+    "AUTHORS & THEIR WORKS",
+    "ASIAN AMERICANS",
+    "WHAT?!... WHEN?!"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "The Clash: \n\"____ Calling\"",
+     "a": "London",
+     "right": [
+      "Eric"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 26,
+     "q": "An important climate component is the amount of water vapor in the air, or atmospheric this",
+     "a": "humidity",
+     "right": [
+      "Jacqueline"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 13,
+     "q": "Yale University Library classifies books in excess of 27 cm in height or 19 cm in width as this big \"O\"",
+     "a": "oversized",
+     "right": [
+      "Michael"
+     ],
+     "wrong": [
+      "Jacqueline"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 6,
+     "q": "The year he turned 32, William Blake published \"Songs of\" this; by 37 he \"lost\" his & made \"Songs of Experience\"",
+     "a": "Innocence",
+     "right": [
+      "Eric"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 21,
+     "q": "Thai on his mom's side, he shot a 48 for 9 holes... at age 3! 12 years later, he was the U.S. Jr. Amateur champ",
+     "a": "Tiger Woods",
+     "right": [
+      "Jacqueline"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 16,
+     "q": "In 1291 Acre, the last major Holy Land castle held by this group, fell to the Mamelukes",
+     "a": "the Crusaders",
+     "right": [
+      "Michael"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 2,
+     "q": "Simon & Garfunkel:\n\"Are you going to ____ Fair? Parsley, sage, rosemary & thyme\"",
+     "a": "Scarborough",
+     "right": [
+      "Jacqueline"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 27,
+     "q": "The length of the day affects a region's climate; at this latitude, days are always a nice even 12 hours",
+     "a": "0 (latitude)",
+     "right": [
+      "Eric"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 15,
+     "q": "When it comes before \"esque\", this outdoorsman's name means fantastically large",
+     "a": "Paul Bunyan",
+     "right": [
+      "Eric"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 7,
+     "q": "While writing \"Tropic of Cancer\" in Paris, he served as a proofreader for the French edition of the Chicago Tribune",
+     "a": "(Henry) Miller",
+     "right": [
+      "Michael"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 22,
+     "q": "Jerry Yang put an exclamation point on co-founding this web directory in 1994; these days, Jerry's worth about $2.2 billion",
+     "a": "Yahoo!",
+     "right": [
+      "Michael"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 17,
+     "q": "The last czar of Russia abdicated in this year",
+     "a": "1917",
+     "right": [
+      "Jacqueline"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 3,
+     "q": "George Strait:\n\"All My Ex's Live In ____\"",
+     "a": "Texas",
+     "right": [
+      "Michael"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 28,
+     "q": "(Former Vice President Al Gore delivers the clue.) In 2007 the European Space Agency reported that polar ice had melted to such an extent that this fabled shortcut from the Atlantic to the Pacific was fully navigable for the first time",
+     "a": "the Northwest Passage",
+     "right": [
+      "Eric"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 11,
+     "q": "Webster says this word may be an \"alteration of huge + monstrous\"",
+     "a": "humongous",
+     "right": [
+      "Michael"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 8,
+     "q": "Of the reaction to this novel, Upton Sinclair said, \"I aimed at the public's heart, and by accident I hit it in the stomach\"",
+     "a": "The Jungle",
+     "right": [
+      "Eric"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 23,
+     "q": "The son of immigrants from India, this state governor got an Ivy League education at Brown University",
+     "a": "Bobby Jindal",
+     "right": [
+      "Michael"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 18,
+     "q": "In this year, FDR started his third term",
+     "a": "1941",
+     "right": [
+      "Michael"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 4,
+     "q": "Ian Hunter:\n\"____ Rocks\"",
+     "a": "Cleveland",
+     "right": [
+      "Eric"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 29,
+     "q": "(Sarah of the Clue Crew shows an animation of a stormcloud moving over a mountain on the monitor.) Stormclouds tend to drop more precipitation on the windward side of a mountain range; when that happens, the dryer side is in what's called a \"rain\" one of these dark areas",
+     "a": "a shadow",
+     "right": [
+      "Michael"
+     ],
+     "wrong": [
+      "Jacqueline"
+     ],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 12,
+     "q": "From the Greek, it's a much larger than life-size statue, such as an ancient wonder",
+     "a": "a colossus",
+     "right": [
+      "Eric"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 9,
+     "q": "O, by the way, Willa Cather took the title of this 1913 novel from a Walt Whitman poem",
+     "a": "O Pioneers!",
+     "right": [
+      "Eric"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 5000
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 24,
+     "q": "This son of Chinese parents made his Carnegie Hall debut before his 17th birthday",
+     "a": "Yo-Yo Ma",
+     "right": [
+      "Eric"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 19,
+     "q": "In 1828 he declared himself dictator of Gran Colombia, a region he had freed from Spanish rule",
+     "a": "Simón Bolívar",
+     "right": [
+      "Michael"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 5,
+     "q": "Bob Dylan:\n\"Stuck Inside Of ____ With The ____ Blues Again\"\n(2 different cities, please)",
+     "a": "Mobile & Memphis",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 30,
+     "q": "(Sarah of the Clue Crew uses the monitor to wrap up the category and round.) By exchanging heat between colder & warmer latitudes, ocean currents such as this one off the coast of South America have important effects on local climates",
+     "a": "the Humboldt current (Chilean current accepted)",
+     "right": [
+      "Jacqueline"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": true,
+     "order": 14,
+     "q": "This synonym for \"gigantic\" was in use more than 200 years before a 1912 event put a new spin on it",
+     "a": "titanic",
+     "right": [
+      "Michael"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 7000
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 10,
+     "q": "Perhaps it was \"An American Tragedy\" that there was a ban on this author's semi-autobiographical \"The 'Genius'\"",
+     "a": "(Theodore) Dreiser",
+     "right": [
+      "Michael"
+     ],
+     "wrong": [
+      "Eric"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 25,
+     "q": "His resume includes first Asian-American 4-star general, Army Chief of Staff & Veterans Affairs Secretary",
+     "a": "(Eric) Shinseki",
+     "right": [
+      "Eric"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 20,
+     "q": "On Oct. 14, 1066 this son of Godwine lost the Battle of Hastings",
+     "a": "Harold II",
+     "right": [
+      "Jacqueline"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "TRANSPORTATION",
+  "q": "Incorporated in 1948, this company chose its name from the book of the Hebrew prophet Hosea",
+  "a": "El Al Airlines",
+  "right": [],
+  "wrong": [
+   "Jacqueline",
+   "Eric",
+   "Michael"
+  ]
+ },
+ "gameId": "4859",
+ "cat_notes": {
+  "J": [
+   "Clues about Rough Words in National Anthems.",
+   "Clues about The Film-to-tv Role.",
+   "The category “REMEMBER 2014?” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "Each answer ends with “-EY”.",
+   "Clues about Fonts.",
+   "Clues of Information."
+  ],
+  "DJ": [
+   "Clues about Places in Song.",
+   "Clues about Talk About the Climate.",
+   "Clues about Big Words.",
+   "Clues about Authors and Their Works.",
+   "Clues about Asian Americans.",
+   "The category “WHAT?!... WHEN?!” sets the theme — the clues follow that idea and any wordplay suggested by the title."
+  ],
+  "F": "Clues about Transportation."
+ }
+}

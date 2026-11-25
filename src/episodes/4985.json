@@ -1,0 +1,1002 @@
+{
+ "show": "#7117",
+ "aired": "2015-07-21",
+ "note": "Scott Lord game 2.",
+ "contestants": [
+  {
+   "name": "Jake Smith",
+   "bio": "a wine salesman from Memphis, Tennessee",
+   "short": "Jake"
+  },
+  {
+   "name": "Eliza Thompson",
+   "bio": "an entertainment editor from Brooklyn, New York",
+   "short": "Eliza"
+  },
+  {
+   "name": "Scott Lord",
+   "bio": "a construction attorney from Santa Monica, California (whose 1-day cash winnings total $29,001)",
+   "short": "Scott"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Scott": 1600,
+   "Eliza": 5800,
+   "Jake": 8000
+  },
+  "DJ": {
+   "Scott": 13200,
+   "Eliza": 6200,
+   "Jake": 22800
+  },
+  "Final": {
+   "Scott": 26400,
+   "Eliza": 0,
+   "Jake": 19300
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "THE NON‑DEPRESSING 1930s",
+    "FILMS INSPIRED BY MAGAZINE ARTICLES",
+    "AMERICANA",
+    "LIGHTHOUSES",
+    "\"PAT\"",
+    "I'D LIKE TO SOLVE THE PUZZLE"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 11,
+     "q": "At the 1932 Olympics, she set or tied records in the high jump, javelin & 80-meter hurdles",
+     "a": "Babe Didrikson Zaharias",
+     "right": [
+      "Scott"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 4,
+     "q": "Nik Cohn admitted that his \"Tribal Rites of the New Saturday Night\", which inspired this disco film, was a fabrication",
+     "a": "Saturday Night Fever",
+     "right": [
+      "Jake"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "In 1948 this brand held its first home party to sell its plastic containers with airtight seals",
+     "a": "Tupperware",
+     "right": [
+      "Jake"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 13,
+     "q": "For centuries, wood was the main fuel used in lighthouses; in the 1700s, this animal product became the primary source",
+     "a": "whale oil",
+     "right": [
+      "Scott"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 30,
+     "q": "Let's take our drinks outside onto this paved lounge area",
+     "a": "patio",
+     "right": [
+      "Eliza"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 15,
+     "q": "This puzzle is so-named for the tool used to create the intricate lines & curves of its pieces",
+     "a": "jigsaw",
+     "right": [
+      "Scott"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 16,
+     "q": "This comic strip about the Bumsteads made its debut",
+     "a": "Blondie",
+     "right": [
+      "Eliza"
+     ],
+     "wrong": [
+      "Scott"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 5,
+     "q": "A 1983 article about a naval flight school was the genesis of this Tom Cruise hit",
+     "a": "Top Gun",
+     "right": [
+      "Eliza"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "Its hand holding the torch was on display at the Centennial Exposition in Philly before it was completed",
+     "a": "the Statue of Liberty",
+     "right": [
+      "Jake"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 22,
+     "q": "When her husband died in 1776, Hannah Thomas became the first U.S. woman keeper, taking his job at this state's Plymouth Light",
+     "a": "Massachusetts",
+     "right": [
+      "Jake"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 25,
+     "q": "Adjective meaning characteristic of being a father",
+     "a": "paternal",
+     "right": [
+      "Jake"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 17,
+     "q": "Solving one of these in London's Daily Telegraph in 1942 could've made you a Bletchley codebreaker in WWII",
+     "a": "a crossword",
+     "right": [
+      "Scott"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 20,
+     "q": "Hard work paid off for Frances Perkins--in 1933 she became Secretary of this, the first woman in the cabinet",
+     "a": "Labor",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 6,
+     "q": "The fourth film in this Bruce Willis series was inspired by an article about cyberhacking",
+     "a": "Die Hard",
+     "right": [
+      "Eliza"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 3,
+     "q": "Nudie Cohn, the custom tailor for Roy Rogers & Dale Evans, also made this singer's $10,000 gold lame suit",
+     "a": "Elvis Presley",
+     "right": [
+      "Eliza"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": true,
+     "order": 29,
+     "q": "All U.S. lighthouses come under the jurisdiction of this branch of the Armed Services",
+     "a": "the Coast Guard",
+     "right": [
+      "Jake"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 3000
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 14,
+     "q": "Want a good pastry? Go to this French type of store that specializes in them",
+     "a": "a patisserie",
+     "right": [
+      "Eliza"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 12,
+     "q": "A confused mess, or a syndicated newspaper puzzle with letters in circles & squares",
+     "a": "jumble",
+     "right": [
+      "Eliza"
+     ],
+     "wrong": [
+      "Jake"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 21,
+     "q": "His 1935 performance\nat the Palomar ballroom\nin Los Angeles\nkicked off the swing era",
+     "a": "Benny Goodman",
+     "right": [
+      "Eliza"
+     ],
+     "wrong": [
+      "Scott"
+     ],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 7,
+     "q": "\"The Boys in the Bank\", a Life magazine account of a Brooklyn bank robbery, inspired this 1975 Al Pacino film",
+     "a": "Dog Day Afternoon",
+     "right": [
+      "Scott"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 8,
+     "q": "A roller coaster called the Cyclone is a part of this amusement area in the southern part of Brooklyn",
+     "a": "Coney Island",
+     "right": [
+      "Eliza"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 26,
+     "q": "In 1937 a lighthouse was constructed & named for her on tiny Howland Island, an island she never reached",
+     "a": "(Amelia) Earhart",
+     "right": [
+      "Scott"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 23,
+     "q": "A regional form of a language, not necessarily French",
+     "a": "patois",
+     "right": [
+      "Eliza"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 18,
+     "q": "A classic logic puzzle from 1962 deals with the surnames of 3 train employees: the brakeman, the fireman & him",
+     "a": "the engineer",
+     "right": [],
+     "wrong": [
+      "Scott"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 27,
+     "q": "Following this 1938 radio broadcast, people were relieved to find out that America wasn't really attacked by aliens",
+     "a": "The War of the Worlds",
+     "right": [
+      "Jake"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 9,
+     "q": "Starring Kate Bosworth, it was based on Susan Orlean's \"Life's Swell\", the story of a Maui surfing contest",
+     "a": "Blue Crush",
+     "right": [
+      "Jake"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 10,
+     "q": "The view from the summit of this mountain inspired the song \"America The Beautiful\"",
+     "a": "Pikes Peak",
+     "right": [
+      "Jake"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 28,
+     "q": "Built by Romans before 100 A.D., the Tower of Hercules in the Galicia area of this country is the world's oldest active lighthouse",
+     "a": "Spain",
+     "right": [
+      "Jake"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 24,
+     "q": "Tropical Asian plant made into an oil used in perfumes",
+     "a": "patchouli oil",
+     "right": [
+      "Scott"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 19,
+     "q": "\"The Da Vinci Code\" saw Robert Langdon decode one of these puzzle containers",
+     "a": "a cryptex",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "THE ART OF THE KISS",
+    "PRINCELY NICKNAMES",
+    "SOPHOCLES, EURIPIDES & AESCHYLUS",
+    "\"BORN\" TO BE A SONG",
+    "PENINSULAS",
+    "WORDS IN TRANSITION"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 7,
+     "q": "In the painting seen here, Ford Madox Brown depicted this literary pair on a balcony",
+     "a": "Romeo & Juliet",
+     "right": [
+      "Scott"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 30,
+     "q": "A 1994 biography of this 19th century showman was titled \"Prince of Humbugs\"",
+     "a": "(P.T.) Barnum",
+     "right": [
+      "Jake"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "Aeschylus fought against these people who invaded Greece around 490 B.C., & also wrote a play about them",
+     "a": "the Persians",
+     "right": [
+      "Jake"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "\"The highway's jammed with broken heroes on a last-chance power drive\" in this Springsteen classic",
+     "a": "\"Born To Run\"",
+     "right": [
+      "Jake"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 14,
+     "q": "Monsoons bring frigid arctic air in the winter & moisture from the East China Sea in the summer on this peninsula",
+     "a": "the Korean Peninsula",
+     "right": [
+      "Jake"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 25,
+     "q": "A daily fixed allowance of food for civilians during a shortage",
+     "a": "a ration",
+     "right": [
+      "Eliza"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 8,
+     "q": "Rodin's sculpture of \"The Kiss\" depicts a pair of adulterous lovers from this poet's \"Inferno\"",
+     "a": "Dante",
+     "right": [
+      "Scott"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "Youthful thievery earned this \"White Fang\" author the nickname \"Prince of the Oyster Pirates\"",
+     "a": "(Jack) London",
+     "right": [
+      "Scott"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 3,
+     "q": "Euripides' play about this odd title creature tells of how Odysseus tricked him",
+     "a": "the Cyclops",
+     "right": [
+      "Jake"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 12,
+     "q": "Lady Gaga sang, \"I'm beautiful in my way, 'cause God makes no mistakes, I'm on the right track baby, I was\" this",
+     "a": "\"Born This Way\"",
+     "right": [
+      "Eliza"
+     ],
+     "wrong": [
+      "Jake"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 15,
+     "q": "Hyannis is one of the towns on this Massachusetts peninsula",
+     "a": "Cape Cod",
+     "right": [
+      "Eliza"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 21,
+     "q": "To really exert yourself while pouring liquid containing solid matter through a filter",
+     "a": "strain",
+     "right": [
+      "Jake"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 9,
+     "q": "Painted in his characteristic comic strip style, this pop artist's \"Kiss II\" is on our list",
+     "a": "Lichtenstein",
+     "right": [
+      "Jake"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 28,
+     "q": "\"Cowboy Philosopher\" & \"Prince of Wit & Wisdom\" were nicknames of this 1930s humorist",
+     "a": "(Will) Rogers",
+     "right": [
+      "Scott"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 4,
+     "q": "Aeschylus' tragedy \"Seven Against\" this city recounts a doomed battle by twin brothers for its throne",
+     "a": "Thebes",
+     "right": [
+      "Jake"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 13,
+     "q": "You were destined to respond with this No. 2 hit for Steppenwolf in 1968",
+     "a": "\"Born To Be Wild\"",
+     "right": [
+      "Scott"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": true,
+     "order": 24,
+     "q": "The southeastern Mexican state of Quintana Roo is on this peninsula",
+     "a": "the Yucatán Peninsula",
+     "right": [
+      "Jake"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1000
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 17,
+     "q": "To consecrate in a ceremony that includes applying oil to the head",
+     "a": "anoint",
+     "right": [
+      "Jake"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 10,
+     "q": "It's hard to tell, but that's him & wife Jacqueline Roque entwined in \"The Kiss\", painted in 1969 when he was 88",
+     "a": "Pablo Picasso",
+     "right": [
+      "Jake"
+     ],
+     "wrong": [
+      "Eliza"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 27,
+     "q": "This 19th c. actor known as the \"Prince of Players\" was the brother of a presidential assassin",
+     "a": "Edwin Booth",
+     "right": [
+      "Scott"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 5,
+     "q": "Euripides' play \"Rhesus\" isn't about a monkey; it's about a king who sides with the losers in this conflict",
+     "a": "the Trojan War",
+     "right": [
+      "Jake"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 16,
+     "q": "The film about a lioness returning to the wild was heartwarming; this title song was Oscar-winning",
+     "a": "\"Born Free\"",
+     "right": [
+      "Scott"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 23,
+     "q": "Take a deep breath & remember that Quebec's Mont Jacques Cartier is on the north side of this peninsula",
+     "a": "the Gaspé Peninsula",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 19,
+     "q": "Remember Hyperion & Thea, part of this mythological group?",
+     "a": "the Titans",
+     "right": [
+      "Jake"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 11,
+     "q": "\"The (Kissing) Lovers\" in his 1928 painting are wearing shrouds over their faces & heads, but no bowler hats",
+     "a": "(René) Magritte",
+     "right": [
+      "Jake"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 26,
+     "q": "This 16th century Dutch scholar & author of \"Praise of Folly\" was known as the \"Prince of Humanists\"",
+     "a": "Erasmus",
+     "right": [
+      "Scott"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": true,
+     "order": 6,
+     "q": "In Sophocles' play about her, revenge is on the mind of this daughter of Agamemnon",
+     "a": "Electra",
+     "right": [],
+     "wrong": [
+      "Jake"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1000
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 18,
+     "q": "It's the rather morbid & paradoxical title track from Lana Del Rey's 2012 album",
+     "a": "\"Born To Die\"",
+     "right": [
+      "Jake"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 22,
+     "q": "This peninsula constitutes the mainland portion of Hong Kong",
+     "a": "the Kowloon Peninsula",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 20,
+     "q": "It's a lute of India with a small, pear-shaped body",
+     "a": "a sitar",
+     "right": [
+      "Scott"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "HISTORIC NAMES",
+  "q": "In 1909 this Oxford student surveyed Crusader castles in the Mideast; a few years later he returned for less peaceful activities",
+  "a": "T.E. Lawrence",
+  "right": [
+   "Scott"
+  ],
+  "wrong": [
+   "Eliza",
+   "Jake"
+  ]
+ },
+ "gameId": "4985",
+ "cat_notes": {
+  "J": [
+   "Clues about The Non‑depressing 1930s.",
+   "Clues about Films Inspired by Magazine Articles.",
+   "Clues about Americana.",
+   "Clues about Lighthouses.",
+   "Each answer contains the letter group “PAT”.",
+   "Clues about I'd Like to Solve the Puzzle."
+  ],
+  "DJ": [
+   "Clues about The Art of the Kiss.",
+   "Clues about Princely Nicknames.",
+   "Clues about Sophocles, Euripides and Aeschylus.",
+   "Each answer starts with “BORN”, and the clues are about To Be a Song.",
+   "Clues about Peninsulas.",
+   "Words that can be made up of the letters in the word \"transition\" itself."
+  ],
+  "F": "Clues about Historic Names."
+ }
+}
