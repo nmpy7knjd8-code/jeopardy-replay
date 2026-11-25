@@ -1,0 +1,983 @@
+{
+ "show": "#7278",
+ "aired": "2016-04-13",
+ "note": "",
+ "contestants": [
+  {
+   "name": "Christian Maher",
+   "bio": "a fishmonger from Sea Isle City, New Jersey",
+   "short": "Christian"
+  },
+  {
+   "name": "Pamela Stewart",
+   "bio": "an art historian and college professor from Ann Arbor, Michigan",
+   "short": "Pamela"
+  },
+  {
+   "name": "Carter Spires",
+   "bio": "a law student originally from Birmingham, Alabama (whose 1-day cash winnings total $26,001)",
+   "short": "Carter"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Carter": 3800,
+   "Pamela": 5800,
+   "Christian": 3000
+  },
+  "DJ": {
+   "Carter": 10200,
+   "Pamela": 12000,
+   "Christian": 7600
+  },
+  "Final": {
+   "Carter": 5199,
+   "Pamela": 3599,
+   "Christian": 1
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "POTPOURRI",
+    "A MIXED BAG",
+    "RANDOMNESS IN SCIENCE",
+    "LITERARY MISCELLANIES",
+    "HODGE-POD",
+    "\"E-T-C\""
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 11,
+     "q": "Lift your spirits with potpourri that contains these leaves, a mainstay of koalas",
+     "a": "eucalyptus",
+     "right": [
+      "Pamela"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 16,
+     "q": "A sporran is the bag attached to a belt worn over this part of a Highland costume",
+     "a": "a kilt",
+     "right": [
+      "Pamela"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "This 5-letter theory explores ideas like a butterfly's random wingbeat influencing events miles away",
+     "a": "chaos",
+     "right": [
+      "Carter"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 6,
+     "q": "Bentley's Miscellany presented \"Oliver Twist\" in installments as part of this, just like a soap opera",
+     "a": "a serial",
+     "right": [
+      "Pamela"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 26,
+     "q": "In the movie \"2001\" Dr. Dave Bowman asks this character to \"Open the pod bay doors\"",
+     "a": "HAL",
+     "right": [
+      "Christian"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 21,
+     "q": "A flower arrangement or other display placed at the middle of a table",
+     "a": "a centerpiece",
+     "right": [
+      "Christian"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 12,
+     "q": "These berries that flavor gin are also a nice addition to potpourri",
+     "a": "juniper berries",
+     "right": [
+      "Carter"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 17,
+     "q": "Mary Poppins, as well as Northerners who went to the South after the Civil War, carried this type of satchel",
+     "a": "a carpet bag",
+     "right": [
+      "Christian"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "From the Latin for \"change\", these random variations are retained in a species gene pool",
+     "a": "mutations",
+     "right": [
+      "Carter"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 7,
+     "q": "Anne Sexton & Karl Shapiro wrote for the Carleton Miscellany, symbolized by its imp who held this sooty job",
+     "a": "a chimney sweep",
+     "right": [
+      "Carter"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "This 1993 movie features an orca who is traumatized after being taken from its pod",
+     "a": "Free Willy",
+     "right": [
+      "Pamela"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 22,
+     "q": "The process of making a wild animal tame",
+     "a": "domestication",
+     "right": [
+      "Carter"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 13,
+     "q": "There's something soothing about the scent of these flowers that are popularly used in sachets",
+     "a": "lavender",
+     "right": [
+      "Pamela"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 18,
+     "q": "In a movie title, 8 heads were in this large canvas bag",
+     "a": "a duffel",
+     "right": [
+      "Christian"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 3,
+     "q": "We predict you'll know this Werner Heisenberg principle about randomness in quantum mechanics",
+     "a": "the uncertainty principle",
+     "right": [
+      "Christian"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 8,
+     "q": "Richard Tottel's Miscellany of 1557 featured Sir Thomas Wyatt, a major poet of this king's court",
+     "a": "Henry VIII",
+     "right": [
+      "Carter"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 28,
+     "q": "\"Pod People\" is savaged by the robotic critics on \"MST3K\", aka this show",
+     "a": "Mystery Science Theater 3000",
+     "right": [
+      "Carter"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 23,
+     "q": "Perceived path of the planets around the sun according to Kepler",
+     "a": "elliptical",
+     "right": [
+      "Pamela"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 14,
+     "q": "Lemon & this herb of remembrance create a wonderful fragrance when simmered on the stove",
+     "a": "rosemary",
+     "right": [
+      "Pamela"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 19,
+     "q": "Here's the logo of this brand of bags, also the name of a style of roomy unstructured purse",
+     "a": "Hobo",
+     "right": [
+      "Pamela"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 4,
+     "q": "Also used to describe the scattering of reflected light, it's the random movement of molecules in a fluid",
+     "a": "diffusion",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 9,
+     "q": "John Aubrey's 17th c. Miscellany of the Occult tells of Richard Napier, who spoke with Raphael, one of these beings",
+     "a": "an angel",
+     "right": [
+      "Carter"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "As Kane, John Hurt has to get something off his chest after discovering a pod field in this 1979 movie",
+     "a": "Alien",
+     "right": [],
+     "wrong": [
+      "Christian"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 24,
+     "q": "(Kelly of the Clue Crew shows an anatomical animation on the monitor.) This adjective refers to the five bones of the hand between the wrist & the fingers",
+     "a": "metacarpal",
+     "right": [
+      "Christian"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 15,
+     "q": "These dried flowers are often used to add color to the mix",
+     "a": "pansies",
+     "right": [
+      "Pamela"
+     ],
+     "wrong": [
+      "Christian"
+     ],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 20,
+     "q": "In 1956 this princess hid her baby bump behind a bag from Hermes, & now the bag is named for her",
+     "a": "Grace Kelly (Princess Grace of Monaco)",
+     "right": [
+      "Pamela"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": true,
+     "order": 5,
+     "q": "These \"liberated\" molecules are unstable & their random reactions can damage proteins in tissues",
+     "a": "free radicals",
+     "right": [
+      "Christian"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1000
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 10,
+     "q": "Yet to \"make peace\" with his name, this \"Barry Lyndon\" author used pen names in his \"Miscellanies\"",
+     "a": "William Makepeace Thackeray",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 30,
+     "q": "1993's \"Lifepod\" was a sci-fi movie based on this director's \"Lifeboat\" nearly 50 years prior",
+     "a": "Hitchcock",
+     "right": [
+      "Christian"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 25,
+     "q": "A type of drywall or plasterboard made of gypsum layered between heavy paper",
+     "a": "Sheetrock",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "CENTRAL AMERICAN CAPITALS",
+    "THE HOLY \"C\"",
+    "CAT & DOG BREEDS",
+    "RADIO & TV GAME SHOWS",
+    "8-LETTER WORDS",
+    "THE HILL, HULL & HALL OF FAME"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "This Costa Rican capital's Gold Museum has hundreds of pre-Columbian gold artifacts",
+     "a": "San José",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 3,
+     "q": "The largest church in an archdiocese is usually one of these",
+     "a": "a cathedral",
+     "right": [
+      "Carter"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 8,
+     "q": "Before 1830 all of these Alpine rescue dogs were shorthaired; the longhaired variety came from crossbreeding",
+     "a": "a Saint Bernard",
+     "right": [
+      "Carter"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 30,
+     "q": "The goal of this show was to get 3 celebrities in a row across, up & down or diagonally",
+     "a": "Hollywood Squares",
+     "right": [
+      "Christian"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 14,
+     "q": "General term for any line on the globe that runs parallel to the equator",
+     "a": "latitude",
+     "right": [
+      "Carter"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 13,
+     "q": "At the battle of Chancellorsville, A.P. Hill replaced this mortally wounded Confederate gen. in command",
+     "a": "Stonewall Jackson",
+     "right": [
+      "Carter"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 2,
+     "q": "Ruins from the Mayan city Kaminaljuyu can be found in this capital but much has been covered by urban expansion",
+     "a": "Guatemala City",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 4,
+     "q": "Distinguished from the laity, it's the collective term for priests",
+     "a": "clergy",
+     "right": [
+      "Pamela"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 9,
+     "q": "This pup doesn't look as pugilistically minded as his name would suggest",
+     "a": "a boxer",
+     "right": [
+      "Pamela"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "Whoopee! Bob Eubanks hosted this show in which recently married spouses answered questions about each other",
+     "a": "The Newlywed Game",
+     "right": [
+      "Christian"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 15,
+     "q": "Based on its diet, an aardvark is sometimes called this other animal",
+     "a": "an anteater",
+     "right": [
+      "Carter"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 22,
+     "q": "It's not a secret that in the 1770s Prince Hall founded the first African-American one of these lodges",
+     "a": "a Masonic lodge",
+     "right": [
+      "Christian"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 26,
+     "q": "This Belize capital was named for a Mayan tribe that never surrendered to the Spanish",
+     "a": "Belmopan",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 5,
+     "q": "This code of law that sounds like a weapon governs the administration of the church",
+     "a": "the canon",
+     "right": [
+      "Carter"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 10,
+     "q": "This cat from an isle in the Irish Sea has longer hind legs than front, giving it a rabbit-like gait",
+     "a": "a Manx",
+     "right": [
+      "Carter"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 19,
+     "q": "(Hi. I'm Mo Rocca.) I'm a frequent panelist on this weekly NPR news quiz show that includes the games Bluff the Listener & Not My Job",
+     "a": "Wait Wait... Don't Tell Me!",
+     "right": [
+      "Carter"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 16,
+     "q": "It's the game seen here",
+     "a": "cribbage",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 23,
+     "q": "In the NHL this \"Golden Jet\" scored 610 goals; in the WHA he added 303 more",
+     "a": "Bobby Hull",
+     "right": [],
+     "wrong": [
+      "Christian"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 27,
+     "q": "It shares its name with the lake on whose shores it is located",
+     "a": "Managua",
+     "right": [],
+     "wrong": [
+      "Christian"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1000
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 6,
+     "q": "During communion the paten or ciborium holds the bread; this holds the wine",
+     "a": "the chalice",
+     "right": [
+      "Pamela"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 11,
+     "q": "The Lollipop Guild knows this short-legged breed is fast, takes corners well, & is generally Oz-some",
+     "a": "a Munchkin",
+     "right": [
+      "Christian"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 20,
+     "q": "College teams including Columbia & Notre Dame faced off on this show that moved from radio to television",
+     "a": "College Quiz Bowl",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 17,
+     "q": "This symbol of the medical profession is modeled on a staff that Mercury carried",
+     "a": "a Caduceus",
+     "right": [
+      "Christian"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 24,
+     "q": "In the 1830s Sir Rowland Hill invented the stamp, allowing a 1/2-oz. letter to go anywere in England for this sum",
+     "a": "a penny",
+     "right": [
+      "Christian"
+     ],
+     "wrong": [
+      "Carter"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 28,
+     "q": "Port facilities serving this capital lie in the adjacent city of Balboa",
+     "a": "Panama City",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": true,
+     "order": 7,
+     "q": "A convent or other place of religious seclusion, or, as a verb, to confine oneself to such a place",
+     "a": "cloister",
+     "right": [
+      "Pamela"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 3000
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 12,
+     "q": "Named for an island near Sicily, it's thought to be the most ancient of the European toy breeds",
+     "a": "Maltese",
+     "right": [
+      "Pamela"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 21,
+     "q": "Say the not-so-secret title of this quiz show, hosted by Groucho Marx on both radio & television",
+     "a": "You Bet Your Life",
+     "right": [],
+     "wrong": [
+      "Pamela"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 18,
+     "q": "God compared the power of Job to this huge animal, kind of the land version of Leviathan",
+     "a": "a behemoth",
+     "right": [
+      "Carter"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 25,
+     "q": "Secretary of State Cordell Hull helped improve U.S. relations with Latin America using this 2-word \"Policy\"",
+     "a": "the Good Neighbor Policy",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "FAMOUS HOTELS",
+  "q": "The painting seen here, \"A Vicious Circle\", hangs in this hotel in the room that's portrayed in the painting",
+  "a": "the Algonquin Hotel",
+  "right": [],
+  "wrong": [
+   "Christian",
+   "Carter",
+   "Pamela"
+  ]
+ },
+ "gameId": "5247",
+ "cat_notes": {
+  "J": [
+   "Little bit of everything.",
+   "A little bit of everything.",
+   "A little bit of everything, I guess.",
+   "I won't repeat myself.",
+   "Clues about Hodge-pod.",
+   "Those three letters will come up in that order, but not necessarily together, in each correct response."
+  ],
+  "DJ": [
+   "Clues about Central American Capitals.",
+   "Each answer contains the letter “C”.",
+   "Clues about Cat and Dog Breeds.",
+   "Clues about Radio and TV Game Shows.",
+   "Each answer is a 8-letter word.",
+   "Clues about The Hill, Hull and Hall of Fame."
+  ],
+  "F": "Clues about Famous Hotels."
+ }
+}

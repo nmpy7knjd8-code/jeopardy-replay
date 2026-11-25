@@ -1,0 +1,995 @@
+{
+ "show": "#7346",
+ "aired": "2016-07-18",
+ "note": "",
+ "contestants": [
+  {
+   "name": "Emily DeArdo",
+   "bio": "a writer from Reynoldsburg, Ohio",
+   "short": "Emily"
+  },
+  {
+   "name": "Hans Huizing",
+   "bio": "a principal from Red Deer, Alberta, Canada",
+   "short": "Hans"
+  },
+  {
+   "name": "Ellen Corrigan",
+   "bio": "a law clerk from Philadelphia, Pennsylvania (whose 2-day cash winnings total $23,200)",
+   "short": "Ellen"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Ellen": 6400,
+   "Hans": 5600,
+   "Emily": 1000
+  },
+  "DJ": {
+   "Ellen": 16800,
+   "Hans": 13000,
+   "Emily": 1800
+  },
+  "Final": {
+   "Ellen": 16800,
+   "Hans": 4063,
+   "Emily": 1800
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "SCIENCE",
+    "MUSIC FROM THE 2000s",
+    "DOUBLE U, DOUBLE V OR DOUBLE W",
+    "FASHION",
+    "LANGUAGES",
+    "MAN-AGRAMS"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 24,
+     "q": "A measure of distance, not brightness, one is equal to about 6 trillion miles",
+     "a": "a light year",
+     "right": [
+      "Emily"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "Quite the voice before judging \"The Voice\", he had a No. 1 country hit in 2001 with \"Austin\"",
+     "a": "Blake Shelton",
+     "right": [
+      "Ellen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 6,
+     "q": "It precedes -packed, pump & cleaner",
+     "a": "vacuum",
+     "right": [
+      "Emily"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 7,
+     "q": "In 2015 this line of lingerie held its 20th annual fashion show, televised from New York City",
+     "a": "Victoria's Secret",
+     "right": [
+      "Ellen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 16,
+     "q": "This language is the second most-spoken in the U.S. with about 35 million speakers",
+     "a": "Spanish",
+     "right": [
+      "Hans"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 17,
+     "q": "A great playwright, but: \nI AM A WEAKISH SPELLER",
+     "a": "William Shakespeare",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 25,
+     "q": "A long pole helps a tightrope walker by increasing this tendency of a body to stay at rest",
+     "a": "inertia",
+     "right": [],
+     "wrong": [
+      "Ellen"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "Quite the voice before judging \"The Voice\", she had a No. 1 pop hit in 2000 with \"What A Girl Wants\"",
+     "a": "Christina Aguilera",
+     "right": [
+      "Ellen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 22,
+     "q": "This wingless larva of a European beetle emits a sustained greenish light; shine, little this! Glimmer, glimmer",
+     "a": "glowworm",
+     "right": [
+      "Hans"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 8,
+     "q": "Known for her wedding gowns, this former figure skater has clothed such celebs as Chelsea Clinton & Mariah Carey",
+     "a": "Vera Wang",
+     "right": [
+      "Ellen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 15,
+     "q": "The region of Flanders is known as Vlaanderen in Flemish, which is a form of this language",
+     "a": "Dutch",
+     "right": [
+      "Ellen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 18,
+     "q": "A physicist: \nELITE BRAIN NEST",
+     "a": "Albert Einstein",
+     "right": [
+      "Ellen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 26,
+     "q": "Humans have 2 of these long bones, the longest in the body",
+     "a": "a femur",
+     "right": [
+      "Hans"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 3,
+     "q": "Providing both hip & hop in 2005, this group that included Fergie had a request--\"Don't Lie\"",
+     "a": "The Black Eyed Peas",
+     "right": [
+      "Ellen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 23,
+     "q": "Strip down to your this, underwear consisting of a cotton T-shirt & shorts... Stop! No! We were kidding!",
+     "a": "skivvies",
+     "right": [
+      "Emily"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 9,
+     "q": "This 1980s TV cop show started a men's fashion trend for pastel colors & suit jackets over T-shirts",
+     "a": "Miami Vice",
+     "right": [
+      "Emily"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 12,
+     "q": "On the dance floor I'm a klutz, from a word meaning \"wooden block\" in this Germanic language",
+     "a": "Yiddish",
+     "right": [
+      "Hans"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 19,
+     "q": "A Hungarian composer: \nSNAZZ FLIRT",
+     "a": "Franz Liszt",
+     "right": [
+      "Ellen"
+     ],
+     "wrong": [
+      "Emily"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 27,
+     "q": "Kids on a seesaw instinctively calculate this, the tendency of a force to produce rotation around an axis",
+     "a": "torque",
+     "right": [],
+     "wrong": [
+      "Emily"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 4,
+     "q": "\"Wake Me Up When September Ends\", requested this \"colorful\" trio in 2005",
+     "a": "Green Day",
+     "right": [
+      "Ellen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": true,
+     "order": 29,
+     "q": "In September 2014 there was a United Tribes International one of these held in Bismarck, North Dakota",
+     "a": "a powwow",
+     "right": [
+      "Hans"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1800
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 10,
+     "q": "From 1962 to 1971 Diana Vreeland was this magazine's influential editor-in-chief",
+     "a": "Vogue",
+     "right": [
+      "Hans"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 13,
+     "q": "Dialects of English include this London one with distinctive rhyming slang",
+     "a": "Cockney",
+     "right": [
+      "Emily"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 20,
+     "q": "A 19th century president: \nRUN VIBRANT AMEN",
+     "a": "Martin Van Buren",
+     "right": [
+      "Ellen"
+     ],
+     "wrong": [
+      "Hans"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 28,
+     "q": "Self-healing like the T-1000, the \"terminator\" type of this macromolecule compound was discovered in 2013",
+     "a": "a polymer",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 5,
+     "q": "\"Stand Up\" in 2005 was the 4th No. 1 studio album in a row by the band named for this S. Afr.-born man; they're big live too",
+     "a": "The Dave Matthews Band",
+     "right": [
+      "Ellen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 30,
+     "q": "Often followed by \"up\", it means to distribute (especially among thieves)",
+     "a": "divvy",
+     "right": [
+      "Ellen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 11,
+     "q": "A 1980s trend was the backpack-style handbag that this designer made in a type of nylon she called Pocone",
+     "a": "Prada",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 14,
+     "q": "The name of this language of the Philippines comes from words meaning \"of the river\"",
+     "a": "Tagalog",
+     "right": [
+      "Hans"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 21,
+     "q": "He was full of ego:\nFEUDING DRUMS",
+     "a": "Sigmund Freud",
+     "right": [
+      "Hans"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "4-LETTER ENTERTAINMENT",
+    "PUT IT THERE",
+    "QUICK AS THE DICKENS",
+    "PRES-POURRI",
+    "A MOUSE IN THE HOUSE",
+    "SOME MEAN RHYMES"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 7,
+     "q": "In this 2006 animated film, a rookie named Lightning takes a detour on Route 66 & learns some lessons about life",
+     "a": "Cars",
+     "right": [
+      "Emily"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 26,
+     "q": "Ayers Rock:\nthis country",
+     "a": "Australia",
+     "right": [
+      "Emily"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 6,
+     "q": "In this novel the title orphan falls in with Fagin's den of thieves",
+     "a": "Oliver Twist",
+     "right": [
+      "Ellen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "The first specific duty of the president in the Constitution's Article 2, Section 2 is this big responsibility",
+     "a": "Commander-in-Chief",
+     "right": [
+      "Ellen"
+     ],
+     "wrong": [
+      "Hans"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 21,
+     "q": "In medical research a \"knockout mouse\" has had 1 or more of these units of heredity inactivated to model disease",
+     "a": "a gene",
+     "right": [
+      "Emily"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 16,
+     "q": "It's where you get to after the tee & the fairway",
+     "a": "the green",
+     "right": [
+      "Ellen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 12,
+     "q": "Cable network where you'll find \"Listed Sisters\" & \"Property Brothers\"",
+     "a": "HGTV",
+     "right": [
+      "Ellen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 30,
+     "q": "Crater Lake:\nthis state",
+     "a": "Oregon",
+     "right": [
+      "Hans"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 8,
+     "q": "Pip is to be brought up as \"a young fellow of\" these, the novel's title",
+     "a": "Great Expectations",
+     "right": [
+      "Ellen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 2,
+     "q": "Since 1869 Thomas Jefferson has appeared on several versions of this dollar denomination",
+     "a": "the $2 bill",
+     "right": [
+      "Hans"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 22,
+     "q": "In this Shakespeare play, the title character refers to a play-within-the-play as \"The Mousetrap\" to catch the guilty",
+     "a": "Hamlet",
+     "right": [
+      "Hans"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 17,
+     "q": "It pairs with betwixt in a phrase meaning not one thing or another",
+     "a": "between",
+     "right": [
+      "Emily"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 13,
+     "q": "\"Control yourself, take only what you need from it\", says this band in \"Kids\"",
+     "a": "MGMT",
+     "right": [
+      "Ellen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": true,
+     "order": 29,
+     "q": "The Sargasso Sea:\nthis ocean",
+     "a": "the Atlantic Ocean",
+     "right": [
+      "Hans"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 3000
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 9,
+     "q": "It's set during the French Revolution",
+     "a": "A Tale of Two Cities",
+     "right": [
+      "Ellen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 3,
+     "q": "Starting in 1809 she set the standard for First Ladies as managers of the White House",
+     "a": "Dolley Madison",
+     "right": [
+      "Emily"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 23,
+     "q": "The film \"An American Tail\" tells of this immigrant mouse's adventures after he gets separated from his family",
+     "a": "Fievel",
+     "right": [
+      "Hans"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 18,
+     "q": "This type of luxurious transport is named for a French region",
+     "a": "a limousine",
+     "right": [
+      "Emily"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 14,
+     "q": "You're gonna live forever after naming this 1980s TV show about performing arts students in New York City",
+     "a": "Fame",
+     "right": [
+      "Hans"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 28,
+     "q": "El Capitan:\nthis national park",
+     "a": "Yosemite National Park",
+     "right": [
+      "Hans"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 10,
+     "q": "This title character lodges with Mr. Micawber",
+     "a": "David Copperfield",
+     "right": [
+      "Emily"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 4,
+     "q": "During the 1844 election, he said if he were elected pres., it would be only for one term; he won & kept his promise",
+     "a": "James K. Polk",
+     "right": [],
+     "wrong": [
+      "Emily"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1200
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 24,
+     "q": "\"Uh-uh. Jus' a dead mouse, George... Honest! I found it. I found it dead\" is in this novel",
+     "a": "Of Mice and Men",
+     "right": [
+      "Ellen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 19,
+     "q": "To arrange for or to gather for a formal meeting",
+     "a": "convene",
+     "right": [
+      "Ellen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 15,
+     "q": "The part was written for a man, but Angelina Jolie was cast as the title CIA agent on the run in this 2010 film",
+     "a": "Salt",
+     "right": [
+      "Ellen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 27,
+     "q": "St. Stephen's Green at the end of Grafton Street:\nthis capital",
+     "a": "Dublin",
+     "right": [],
+     "wrong": [
+      "Emily"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 11,
+     "q": "This work was subtitled \"For These Times\"",
+     "a": "Hard Times",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 5,
+     "q": "19 presidents had previously served in the U.S. House of Representatives; he's the most recent one",
+     "a": "George H.W. Bush",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 25,
+     "q": "In 1992 he won a special Pulitzer for \"Maus\", his graphic novel about the Holocaust",
+     "a": "Art Spiegelman",
+     "right": [],
+     "wrong": [
+      "Hans",
+      "Emily"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 20,
+     "q": "This seaport of 200,000 is the commercial center of northeast Scotland",
+     "a": "Aberdeen",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "INTERNATIONAL SPORTS",
+  "q": "Established in 1903, this European event was originally touted in a newspaper printed on yellow paper",
+  "a": "the Tour de France",
+  "right": [
+   "Emily",
+   "Ellen"
+  ],
+  "wrong": [
+   "Hans"
+  ]
+ },
+ "gameId": "5365",
+ "cat_notes": {
+  "J": [
+   "Clues about Science.",
+   "Clues about Music from the 2000s.",
+   "Clues about Double U, Double V or Double W.",
+   "Clues about Fashion.",
+   "Clues about Languages.",
+   "Clues about Man-agrams."
+  ],
+  "DJ": [
+   "Each answer is a 4-letter word or term related to 4-letter Entertainment.",
+   "Clues about Put It There.",
+   "Clues about Quick As the Dickens.",
+   "About presidents.",
+   "Clues about A Mouse in the House.",
+   "Each correct response will rhyme with the word \"mean\"."
+  ],
+  "F": "Clues about International Sports."
+ }
+}

@@ -1,0 +1,988 @@
+{
+ "show": "#7193",
+ "aired": "2015-12-16",
+ "note": "",
+ "contestants": [
+  {
+   "name": "Lynsey McMullen",
+   "bio": "a bartender from Parker, Colorado",
+   "short": "Lynsey"
+  },
+  {
+   "name": "Ben Parker",
+   "bio": "a student from Northbrook, Illinois",
+   "short": "Ben"
+  },
+  {
+   "name": "Tiombi Prince",
+   "bio": "an advocation support specialist from East Point, Georgia (whose 1-day cash winnings total $14,200)",
+   "short": "Tiombi"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Tiombi": 1400,
+   "Ben": 2200,
+   "Lynsey": 5400
+  },
+  "DJ": {
+   "Tiombi": 11800,
+   "Ben": 7000,
+   "Lynsey": 9400
+  },
+  "Final": {
+   "Tiombi": 18900,
+   "Ben": 9200,
+   "Lynsey": 0
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "A LOT OF BUZZ",
+    "ALLITERATION STATION",
+    "RECENT CINEMA",
+    "WHAT'S IN YOUR SUPERMARKET CART?",
+    "THE COMMUNIST MANIFESTO",
+    "MARKS & ANGLES"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "One reason the military gives buzz cuts to its inductees is to prevent the spread of these parasites",
+     "a": "lice",
+     "right": [
+      "Tiombi"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 19,
+     "q": "Penne or rigatoni topped with a whole mess of cooked vegetables",
+     "a": "pasta primavera",
+     "right": [
+      "Tiombi"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 27,
+     "q": "The jacket worn by Tom Hardy to play this title role is a replica of the one worn by Mel Gibson in 3 earlier films",
+     "a": "Mad Max",
+     "right": [
+      "Lynsey"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 22,
+     "q": "Red Baron Brick Oven",
+     "a": "frozen pizza",
+     "right": [
+      "Tiombi"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 30,
+     "q": "The pamphlet ends, \"Workers of the world,\" do this!",
+     "a": "unite",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 9,
+     "q": "It's the term for the side opposite the right angle in a right-angled triangle",
+     "a": "a hypotenuse",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "Do-it-yourselfers know a buzz one is also known as a circular one",
+     "a": "a saw",
+     "right": [
+      "Tiombi"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 20,
+     "q": "\"Rubber baby buggy bumpers\" is a classic example of one of these",
+     "a": "a tongue twister",
+     "right": [
+      "Lynsey"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 18,
+     "q": "As a tiny superhero, Paul Rudd enlists the aid of his insect allies to defeat Yellow Jacket in this film",
+     "a": "Ant-Man",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 23,
+     "q": "Wish-Bone Deluxe French",
+     "a": "salad dressing",
+     "right": [
+      "Tiombi"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 29,
+     "q": "Marx & Engels used this French word to refer to the capitalists who owned the means of production",
+     "a": "bourgeoisie",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 10,
+     "q": "It's the 5-letter word for an angle that is less than 90 degrees",
+     "a": "acute",
+     "right": [
+      "Lynsey"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 3,
+     "q": "On this website, you can vote on articles with yellow buttons such as \"LOL\", \"cute\" & \"OMG\"",
+     "a": "BuzzFeed",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 21,
+     "q": "It's a massive upload of information & documents, sometimes to swamp the recipient",
+     "a": "a data dump",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 17,
+     "q": "This actress of some repute had the title role in \"Ricki and the Flash\" (she was not the Flash)",
+     "a": "Meryl Streep",
+     "right": [
+      "Lynsey"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 24,
+     "q": "An 8-pack of Brawny",
+     "a": "paper towels",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": true,
+     "order": 6,
+     "q": "\"The theory of the Communists may be summed up in the single sentence: abolition of\" this, an alliterative phrase",
+     "a": "private property",
+     "right": [],
+     "wrong": [
+      "Ben"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 800
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 12,
+     "q": "A mark called a vinculum is a horizontal line placed over a decimal to show that the decimal does this",
+     "a": "repeat",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 4,
+     "q": "In this movie Corey Allen plays Buzz, who fatally races James Dean at the edge of a cliff",
+     "a": "Rebel Without a Cause",
+     "right": [
+      "Lynsey"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 16,
+     "q": "Not flashy but often effective, it's the part of a football coach's strategy that features the running back",
+     "a": "the ground game",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 11,
+     "q": "This film opens with its 2 heroes, Napoleon Solo & Illya Kuryakin, on opposite sides in the Cold War",
+     "a": "The Man from U.N.C.L.E.",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 25,
+     "q": "Rayovac Fusion",
+     "a": "batteries",
+     "right": [
+      "Tiombi"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 7,
+     "q": "Marx & Engels wrote the manifesto for a society of German emigrants that met in this capital",
+     "a": "London",
+     "right": [],
+     "wrong": [
+      "Tiombi",
+      "Ben",
+      "Lynsey"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 13,
+     "q": "Omega is the symbol of this unit of electrical resistance",
+     "a": "an ohm",
+     "right": [
+      "Lynsey"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 5,
+     "q": "A 1980s court proceeding legally changed his first name from Edwin to Buzz",
+     "a": "(Buzz) Aldrin",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 15,
+     "q": "This phrase was popularized by RAND methodology for identifying the bad guys who make a life of it",
+     "a": "career criminal",
+     "right": [
+      "Lynsey"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 14,
+     "q": "Seismologist Lucy Jones found fault with this film, saying you can't predict quakes as Paul Giamatti's character does",
+     "a": "San Andreas",
+     "right": [
+      "Lynsey"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 26,
+     "q": "Beech-Nut Stage 2",
+     "a": "baby food",
+     "right": [
+      "Lynsey"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 8,
+     "q": "\"The history of all hitherto existing society is the history of\" these",
+     "a": "class struggles",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 28,
+     "q": "It's the name of the mark seen here indicating a square root",
+     "a": "a radical sign",
+     "right": [],
+     "wrong": [
+      "Ben"
+     ],
+     "stumper": true,
+     "img": true
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "MEL ON EARTH",
+    "PARROT CULTURE",
+    "SO VERY BRITISH",
+    "FABRICS & TEXTILES",
+    "ON THE GLOBE",
+    "NO VOWELS BUT Y"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 11,
+     "q": "1908-1989:\nVoice artist",
+     "a": "Mel Blanc",
+     "right": [
+      "Lynsey"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "This wisecracking title parrot of a 1998 movie has a traditional parrot name, but spelled with an \"AU\" & an \"IE\"",
+     "a": "Paulie",
+     "right": [
+      "Tiombi"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "On \"Downton Abbey\", after Lady Mary tells Matthew his WWI wounds will paralyze him, she next offers him this beverage",
+     "a": "tea",
+     "right": [
+      "Tiombi"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 30,
+     "q": "The British board of trade defines the Harris type of this as a handwoven woolen fabric from the Hebrides",
+     "a": "tweed",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 14,
+     "q": "These 2 countries basically divide the bottom quarter of South America",
+     "a": "Argentina & Chile",
+     "right": [
+      "Lynsey"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 28,
+     "q": "To force open with a lever or bar",
+     "a": "pry",
+     "right": [
+      "Lynsey"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 10,
+     "q": "1975-present:\nScary Spice",
+     "a": "Mel B.",
+     "right": [
+      "Lynsey"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 25,
+     "q": "Arr! In this novel Long John Silver has a parrot called Cap'n Flint, named for a famous pirate",
+     "a": "Treasure Island",
+     "right": [
+      "Tiombi"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 2,
+     "q": "(I'm Andy Murray.) I was honored to be part of the first investiture conducted by Prince William; I received an OBE, which stands for this",
+     "a": "the Order of the British Empire",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "200 pounds of mulberry leaves fed to worms can be used to produce one pound of this fabric",
+     "a": "silk",
+     "right": [
+      "Tiombi"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 15,
+     "q": "Of Dublin, Paris or Madrid, the capital city farthest west",
+     "a": "Dublin",
+     "right": [
+      "Lynsey"
+     ],
+     "wrong": [
+      "Ben"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 19,
+     "q": "Before \"up\", it's what a coach does to his team; before \"out\", to the other team",
+     "a": "psych",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 6,
+     "q": "1925-1999:\nSinger who also co-wrote the Christmas tune heard here",
+     "a": "Mel Tormé",
+     "right": [
+      "Lynsey"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 9,
+     "q": "Fred was the cockatoo of this Robert Blake TV detective",
+     "a": "Baretta",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 3,
+     "q": "This London neighborhood lent its name to a group that included Virginia Woolf & friends",
+     "a": "Bloomsbury",
+     "right": [
+      "Lynsey"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 23,
+     "q": "Cotton is a traditional fabric for this activity of making blankets into colorful art",
+     "a": "quilting",
+     "right": [
+      "Lynsey"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 16,
+     "q": "(Jimmy of the Clue Crew shows a map on the monitor.) From Nunavut to North Dakota, the 100th meridian runs through this Canadian province on its way to Texas",
+     "a": "Manitoba",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 20,
+     "q": "In this maneuver, a spacecraft comes close enough to an object to make a detailed observation",
+     "a": "flyby",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 4,
+     "q": "Born 1926:\n\"The Producers\" producer",
+     "a": "Mel Brooks",
+     "right": [
+      "Lynsey"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 7,
+     "q": "In a 1920 children's book, a parrot teaches this man how to talk to the furry & 4-footed",
+     "a": "Dr. Dolittle",
+     "right": [
+      "Lynsey"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 8,
+     "q": "He commanded the British army during the Napoleonic Wars & was prime minister of England from 1828 to 1830",
+     "a": "the Duke of Wellington",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 24,
+     "q": "This tall reed-like plant has long fibers, making it easy to spin into linen yarn",
+     "a": "flax",
+     "right": [],
+     "wrong": [
+      "Lynsey"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2000
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 17,
+     "q": "Golfe de Gascogne is what the French call this large bay of the Atlantic bordered by France & Spain",
+     "a": "the Bay of Biscay",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [
+      "Lynsey"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 21,
+     "q": "A clear, yellowish fluid containing white blood cells",
+     "a": "lymph",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2000
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 5,
+     "q": "1960-present:\n\"Junior\" NFL draft guru",
+     "a": "Mel Kiper",
+     "right": [
+      "Tiombi"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 12,
+     "q": "Benedick calls Beatrice a \"rare parrot\" for the way she teases & mocks him in this Shakespeare play",
+     "a": "Much Ado About Nothing",
+     "right": [
+      "Tiombi"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 13,
+     "q": "Ozzy Osbourne has a Brummie accent because he was born in this second-largest English city",
+     "a": "Birmingham",
+     "right": [
+      "Tiombi"
+     ],
+     "wrong": [
+      "Lynsey"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 26,
+     "q": "This sheer net fabric with hexagonal holes is named for a French city that began producing it in the early 1800s",
+     "a": "tulle",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 18,
+     "q": "An old song rhymes this capital city on the Mediterranean with \"souvenirs\"",
+     "a": "Algiers",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 22,
+     "q": "Among imaginary creatures, a nymph lives in trees, while this, also a word for a slender woman, inhabits the air",
+     "a": "sylph",
+     "right": [
+      "Tiombi"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "19th CENTURY AMERICAN LITERATURE",
+  "q": "The theft alluded to in the title of this 1844 Poe story is committed by a government minister",
+  "a": "\"The Purloined Letter\"",
+  "right": [
+   "Ben",
+   "Tiombi"
+  ],
+  "wrong": [
+   "Lynsey"
+  ]
+ },
+ "gameId": "5131",
+ "cat_notes": {
+  "J": [
+   "Clues about A Lot of Buzz.",
+   "Each answer is alliterative — its main words start with the same sound.",
+   "Clues about Recent Cinema.",
+   "The category “WHAT'S IN YOUR SUPERMARKET CART?” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "Clues about The Communist Manifesto.",
+   "Clues about Marks and Angles."
+  ],
+  "DJ": [
+   "Clues about mels, riffing on the title “MEL ON EARTH”.",
+   "Clues about Parrot Culture.",
+   "Clues about So Very British.",
+   "Clues about Fabrics and Textiles.",
+   "Clues on the Globe.",
+   "Clues about No Vowels But Y."
+  ],
+  "F": "Clues about 19th Century American Literature."
+ }
+}

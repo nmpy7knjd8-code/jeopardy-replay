@@ -1,0 +1,988 @@
+{
+ "show": "#7147",
+ "aired": "2015-10-13",
+ "note": "Matt Jackson game 13.",
+ "contestants": [
+  {
+   "name": "Christine Gengaro",
+   "bio": "a college professor and writer from Los Angeles, California",
+   "short": "Christine"
+  },
+  {
+   "name": "Corbett Hancey",
+   "bio": "a journalist from Halifax, Nova Scotia, Canada",
+   "short": "Corbett"
+  },
+  {
+   "name": "Matt Jackson",
+   "bio": "a paralegal from Washington, D.C. (whose 12-day cash winnings total $390,411)",
+   "short": "Matt"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Matt": 7200,
+   "Corbett": 3400,
+   "Christine": 2000
+  },
+  "DJ": {
+   "Matt": 30800,
+   "Corbett": 10600,
+   "Christine": 5200
+  },
+  "Final": {
+   "Matt": 21201,
+   "Corbett": 10750,
+   "Christine": 0
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "IT'S TACO TUESDAY",
+    "NEW ENGLAND",
+    "TRUE BLOOD",
+    "SURE \"SHOT\"",
+    "SEUSSICAL TITLES",
+    "OLD SCHOOL HIP-HOP"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 27,
+     "q": "I'd like my taco topped with this, basically mashed avocado with a little lime juice & some seasonings",
+     "a": "guacamole",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 18,
+     "q": "In 2015 this socially conscious New England ice cream brand introduced a flavor called Save Our Swirled",
+     "a": "Ben & Jerry's",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 30,
+     "q": "The pigment that transports oxygen in the blood, it is in the red blood cells & gives blood its red color",
+     "a": "hemoglobin",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 29,
+     "q": "The object in this women's sporting event weighs 8.8 pounds",
+     "a": "shot put",
+     "right": [
+      "Corbett"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 8,
+     "q": "This title character speaks for the trees",
+     "a": "the Lorax",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 13,
+     "q": "In 2015 rapper Young Thug said this man, born Shawn Carter in 1969, is too old to be a relevant hip-hop artist",
+     "a": "Jay-Z",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 3,
+     "q": "For one of my side dishes, refried beans, please, made with these \"painted\" beans",
+     "a": "pinto beans",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 19,
+     "q": "(I'm Kevin O'Leary of Shark Tank.) In the '90s I made millions from selling software in my headquarters in this university city, part of the East Coast version of Silicon Valley",
+     "a": "Cambridge, Massachusetts",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 26,
+     "q": "The solid parts of blood--the red & white blood cells & platelets--are suspended in this, the liquid portion",
+     "a": "plasma",
+     "right": [
+      "Corbett"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 28,
+     "q": "Hey, jailbird! Face the camera! Now turn to the side! Okay, we got one of these",
+     "a": "a mug shot",
+     "right": [
+      "Christine"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 9,
+     "q": "This eventful avenue is also a real street that anchors Manhattan's \"Five Points\"",
+     "a": "Mulberry Street",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 14,
+     "q": "In 2015 AARP magazine tweeted a cover showing this rapper & mogul who helped launch Snoop Dogg",
+     "a": "Dr. Dre",
+     "right": [
+      "Corbett"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 1,
+     "q": "In the salsa, make sure to use plenty of this, the leaves & stems of the coriander plant",
+     "a": "cilantro",
+     "right": [
+      "Christine"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 20,
+     "q": "Nickname of the Pawtucket triple-A baseball team & of the MLB team it's affiliated with",
+     "a": "the Red Sox",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 25,
+     "q": "An old test for this infection \"kissing disease\" used a sample of the patient's blood, mixed with that of a sheep",
+     "a": "mononucleosis",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 6,
+     "q": "A pregnant bride can help initiate this type of \"wedding\"",
+     "a": "a shotgun wedding",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 10,
+     "q": "Total number of tops on the Cubbins kid",
+     "a": "500",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 15,
+     "q": "2015 is the 25th anniversary of this group's \"Fear of a Black Planet\"",
+     "a": "Public Enemy",
+     "right": [
+      "Corbett"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 4,
+     "q": "I'm trying to eat a little lighter, so I'm going for the fish tacos made with this fish with a double-talk Hawaiian name",
+     "a": "mahi mahi",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 21,
+     "q": "This 19th-century Connecticut village, seen here, was recreated from actual shops transported there from all over New England",
+     "a": "Mystic Seaport",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": true,
+     "order": 24,
+     "q": "Some kinds of white blood cells produce these, proteins that destroy bacteria, viruses & other invaders",
+     "a": "antibodies",
+     "right": [],
+     "wrong": [
+      "Christine"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2000
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 7,
+     "q": "The result, or the gist as of an argument",
+     "a": "the upshot",
+     "right": [
+      "Corbett"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 11,
+     "q": "Young Gerald McGrew speculates on \"If I Ran\" this place",
+     "a": "the zoo",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 16,
+     "q": "Ad-Rock of this group acts in the movie \"While We're Young\" & says in it, \"We're old men\"",
+     "a": "The Beastie Boys",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 5,
+     "q": "I like to add plenty of this 3-word chopped condiment whose Spanish name means \"rooster's beak\"",
+     "a": "pico de gallo",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 22,
+     "q": "The roads of this Maine national park on the Atlantic coast travel over 17 unique stone-faced bridges",
+     "a": "Acadia National Park",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 23,
+     "q": "Large numbers of abnormal white blood cells multiply out of control & do not fight infection in this disease",
+     "a": "leukemia",
+     "right": [
+      "Christine"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 2,
+     "q": "Let's take one of these, a random criticism",
+     "a": "a potshot",
+     "right": [
+      "Corbett"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 12,
+     "q": "A rhyming title: \"Mr. Brown Can\" do this! \"Can You?\"",
+     "a": "moo",
+     "right": [
+      "Christine"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 17,
+     "q": "In an ode to the past, 40-something Nas says, this rotund trio \"broke up, rap hasn't been the same since\"",
+     "a": "The Fat Boys",
+     "right": [
+      "Christine"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "HISTORY OF THE WORLD PART II",
+    "FLOWERS",
+    "POP CULTURE TRANSPORTS",
+    "MY KIND OF \"TOWN\"",
+    "PAINTING & SCULPTURE",
+    "AN ANTONYM OF..."
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 7,
+     "q": "Francis II, who became emperor of Austria in 1804, was also the last emperor of this",
+     "a": "the Holy Roman Empire",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 23,
+     "q": "The hybrid tea is the most popular class of this flower",
+     "a": "the rose",
+     "right": [
+      "Christine"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "In a 1997 movie this big boat went bye-bye",
+     "a": "the Titanic",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 30,
+     "q": "You can sample dim sum in this area of San Francisco east of Nob Hill, with restaurants & shops on Grant Avenue",
+     "a": "Chinatown",
+     "right": [
+      "Christine"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 16,
+     "q": "After this portrait was stolen from the Louvre in 1911, mourners lined up to see the blank space on the wall",
+     "a": "the Mona Lisa",
+     "right": [
+      "Corbett"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 12,
+     "q": "antonym,\nin 7 letters",
+     "a": "synonym",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 8,
+     "q": "In 1962 Peter Fechter's pleas for aid went unanswered after he was shot while trying to climb over this",
+     "a": "the Berlin Wall",
+     "right": [
+      "Corbett"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 2,
+     "q": "Dorothy & her friends encountered a field of these flowers that made them fall asleep",
+     "a": "poppies",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 15,
+     "q": "This 2015 \"Mad Max\" reboot featured creations like a Chrysler Valiant Charger on a tank chassis",
+     "a": "Fury Road",
+     "right": [
+      "Corbett"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "It's not \"inside baseball\" to say this New York village on Otsego Lake was incorporated in 1807",
+     "a": "Cooperstown",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 17,
+     "q": "In 2013 his \"Scream\" appeared on a Norwegian postage stamp celebrating the 150th anniversary of his birth",
+     "a": "Edvard Munch",
+     "right": [
+      "Corbett"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 28,
+     "q": "virtue;\nit's a squeezing tool, too",
+     "a": "vice",
+     "right": [
+      "Christine"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 9,
+     "q": "In the 16th century Sir Walter Raleigh sailed up the Orinoco in search of this lost city of gold",
+     "a": "El Dorado",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 3,
+     "q": "The name of this autumn bloomer is from the Greek for \"gold\" & \"flower\"",
+     "a": "a chrysanthemum",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 6,
+     "q": "Songs about these, like Richard Thompson's \"1952 Vincent Black Lightning\", often seem to end with fatalities",
+     "a": "motorcycles",
+     "right": [
+      "Corbett"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": true,
+     "order": 22,
+     "q": "About 2.5 miles northwest of the Capitol, it's at the confluence of the Potomac & Rock Creek",
+     "a": "Georgetown",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 4000
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 18,
+     "q": "Found on an Aegean island in 1820, at 6'8\" she'd make a great basketball player if she had arms",
+     "a": "the Venus de Milo",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": true,
+     "order": 21,
+     "q": "order;\nHarvard's Curtis McMullen studies its theory",
+     "a": "chaos",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 4000
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 10,
+     "q": "In 1919 it was not \"Viva\" but \"Muera\" this Mexican reformer, killed by an agent of Venustiano Carranza",
+     "a": "(Emiliano) Zapata",
+     "right": [
+      "Corbett"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 4,
+     "q": "(Sarah of the Clue Crew shows a flower in Tahiti.) Traditionally, Tahitian men and women wear the Tiare Tahiti, a type of this shrub flower, behind the left ear if they're happily in love, the right ear if they're still looking for that someone special",
+     "a": "the gardenia",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 13,
+     "q": "As of 2015 there's one remaining intact example of this super Trans Am from \"Knight Rider\"",
+     "a": "KITT",
+     "right": [
+      "Christine"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 24,
+     "q": "In a Cameron Crowe movie, Orlando Bloom returns to this Kentucky place",
+     "a": "Elizabethtown",
+     "right": [
+      "Corbett"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 19,
+     "q": "Houdon sculpted this French writer & thinker with & without his wig",
+     "a": "Voltaire",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 27,
+     "q": "pleasant or easygoing;\nMrs. Parker had such a \"Circle\"",
+     "a": "vicious",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 11,
+     "q": "This WWII battle was named for the area of water between Australia & New Caledonia",
+     "a": "the Battle of the Coral Sea",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 5,
+     "q": "In the 1550s the Viennese ambassador to the Ottoman empire introduced these bulb flowers to the Western world",
+     "a": "tulips",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 14,
+     "q": "A father & son search the streets of Rome for a stolen transport in this classic 1940s Italian neorealist film",
+     "a": "Bicycle Thief",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 25,
+     "q": "On the Connecticut River, it was named for its position smack in between the upstream towns & the river mouth",
+     "a": "Middletown",
+     "right": [
+      "Christine"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 20,
+     "q": "In the 1730s this British artist painted \"A Harlot's Progress\" as well as \"A Rake's Progress\"",
+     "a": "(William) Hogarth",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 26,
+     "q": "untouchable;\nit starts with a \"T\" but don't say \"touchable\"",
+     "a": "tangible",
+     "right": [],
+     "wrong": [
+      "Christine"
+     ],
+     "stumper": true,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "MODERN AMERICAN POETRY",
+  "q": "A critic said this 1956 poem was \"a tirade... against those who do not share the poet's... sexual orientation\"",
+  "a": "\"Howl\" (by Allen Ginsberg)",
+  "right": [
+   "Corbett"
+  ],
+  "wrong": [
+   "Christine",
+   "Matt"
+  ]
+ },
+ "gameId": "5065",
+ "cat_notes": {
+  "J": [
+   "Yes!",
+   "Clues about New England.",
+   "Clues about True Blood.",
+   "Each answer contains the letter group “SHOT”, and the clues are about Sure.",
+   "Clues about Seussical Titles.",
+   "Clues about Old School Hip-hop."
+  ],
+  "DJ": [
+   "Clues about History of the World Part Ii.",
+   "Clues about Flowers.",
+   "Clues about Pop Culture Transports.",
+   "Each answer ends with “TOWN”, and the clues are about My Kind Of.",
+   "Clues about Painting and Sculpture.",
+   "Clues about An Antonym Of."
+  ],
+  "F": "Clues about Modern American Poetry."
+ }
+}

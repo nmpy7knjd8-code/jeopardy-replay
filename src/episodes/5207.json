@@ -1,0 +1,995 @@
+{
+ "show": "#7248",
+ "aired": "2016-03-02",
+ "note": "",
+ "contestants": [
+  {
+   "name": "John Bozek",
+   "bio": "an economic development professional from New York, New York",
+   "short": "John"
+  },
+  {
+   "name": "Peter Diedrich",
+   "bio": "an attorney from Sierra Madre, California",
+   "short": "Peter"
+  },
+  {
+   "name": "Rachel Zoch",
+   "bio": "a writer and editor from Deer Park, Texas (whose 1-day cash winnings total $4,700)",
+   "short": "Rachel"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Rachel": 6400,
+   "Peter": 7200,
+   "John": 3600
+  },
+  "DJ": {
+   "Rachel": 16800,
+   "Peter": 20600,
+   "John": 8200
+  },
+  "Final": {
+   "Rachel": 12800,
+   "Peter": 7599,
+   "John": 8700
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "EXIT THROUGH THE GIFT SHOP",
+    "BIBLE BOOKS IN POP MUSIC",
+    "FASHION",
+    "WHAT'S YOUR MOVIE PROFESSION?",
+    "MISSING LINKS",
+    "THIS IS \"D\" PLACE"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 2,
+     "q": "(Jimmy of the Clue Crew reports from Valley Forge Nat'l Historical Park in Pennsylvania.) At the Valley Forge Encampment Store, treat yourself to a pencil sharpener version of this man's headquarters",
+     "a": "George Washington",
+     "right": [
+      "John"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 13,
+     "q": "Title of a Bob Marley album",
+     "a": "Exodus",
+     "right": [
+      "John"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 30,
+     "q": "These above-the-knee shorts are named for an island in the Atlantic",
+     "a": "Bermuda",
+     "right": [
+      "Rachel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 10,
+     "q": "Indiana Jones, not afraid to live in the past",
+     "a": "an archaeologist",
+     "right": [
+      "Rachel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 21,
+     "q": "Fall from ____ period",
+     "a": "grace",
+     "right": [
+      "Peter"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 4,
+     "q": "This island off the northeastern coast of South America is known as Ile du Diable to the French",
+     "a": "Devil's Island",
+     "right": [
+      "Rachel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 3,
+     "q": "(Sarah of the Clue Crew reports from the Ronald Reagan Library in Simi Valley, CA.) Naturally, the Reagan Library Museum Store sells a glass jar full of this brand of gourmet candies, Reagan's favorite",
+     "a": "Jelly Bellys",
+     "right": [
+      "Peter"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 5,
+     "q": "This Elton John title guy \"is traveling tonight on a plane\", heading for Spain",
+     "a": "Daniel",
+     "right": [
+      "Peter"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 29,
+     "q": "To create this silhouette, like that of a certain timepiece, wear a belt at the waist with a flowing dress",
+     "a": "hourglass",
+     "right": [
+      "Rachel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 17,
+     "q": "Sweeney Todd, of Fleet Street",
+     "a": "a barber",
+     "right": [
+      "Peter"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 22,
+     "q": "Grease ____ wrench",
+     "a": "monkey",
+     "right": [
+      "Rachel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 6,
+     "q": "In 2015 Lars Rasmussen became prime minister of this small European kingdom for the second time",
+     "a": "Denmark",
+     "right": [
+      "Peter"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 14,
+     "q": "(Kelly of the Clue Crew reports from NASA Glenn Research Center in Cleveland, OH.) At the NASA gift shop, you can get a T-shirt of a phrase associated with this harrowing mission",
+     "a": "Apollo 13",
+     "right": [
+      "Peter"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 1,
+     "q": "In a band name it follows \"Better Than\"",
+     "a": "Ezra",
+     "right": [
+      "John"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 28,
+     "q": "A skinny, low heel that broadens at the base has this feline name",
+     "a": "a kitten heel",
+     "right": [
+      "Peter"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 18,
+     "q": "Barton Fink, who had that Barton Fink feeling",
+     "a": "a screenwriter",
+     "right": [
+      "John"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 23,
+     "q": "Cry ____ Blitzer",
+     "a": "Wolf",
+     "right": [
+      "Rachel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 9,
+     "q": "Sailors named this crater on an Oahu cape believing that the glimmering calcite crystals were precious gems",
+     "a": "Diamond Head",
+     "right": [
+      "Peter"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 15,
+     "q": "(Kelly of the Clue Crew reports from the Titan Missile Museum in Arizona.) I got a replica launch key at Arizona's Titan Missile Museum, where you can see one of these fearsome 4-letter nuclear weapon systems",
+     "a": "an ICBM",
+     "right": [
+      "Peter"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 11,
+     "q": "First word of Three Dog Night's \"Joy To The World\"",
+     "a": "Jeremiah",
+     "right": [
+      "Rachel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 27,
+     "q": "It's the term for colors like gray & black that go with everything; green is a faux one",
+     "a": "neutral",
+     "right": [
+      "Peter"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 19,
+     "q": "The non-brunette, non-redheaded Elle Woods",
+     "a": "a lawyer",
+     "right": [
+      "Rachel",
+      "Peter"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 24,
+     "q": "Baptism of ____ fighter",
+     "a": "fire",
+     "right": [
+      "Rachel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": true,
+     "order": 7,
+     "q": "This Mideastern place is home to the world's richest horse race & the Desert Classic, a stop on the PGA Tour",
+     "a": "Dubai",
+     "right": [
+      "Peter"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1200
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 16,
+     "q": "(Jimmy of the Clue Crew reports from the Monastery of the Holy Spirit in Georgia.) Making this liquor has long been a specialty of monks; the peach type goes into the fruitcake, sold here at Georgia's Monastery of the Holy Spirit",
+     "a": "brandy",
+     "right": [
+      "Rachel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 12,
+     "q": "This band had a hit with \"Tonight, Tonight, Tonight\"",
+     "a": "Genesis",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 26,
+     "q": "This iconic British brand has checked rain boots that coordinate with its check-lined Sandringham trench coat",
+     "a": "Burberry",
+     "right": [
+      "John"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 20,
+     "q": "It's how Randy \"The Ram\" Robinson gained fame",
+     "a": "wrestler",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 25,
+     "q": "Preach to the ____ practice",
+     "a": "choir",
+     "right": [
+      "Rachel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 8,
+     "q": "The Nieuwe Kerk in this Dutch city contains the tombs of William I & other rulers from the House of Orange",
+     "a": "Delft",
+     "right": [
+      "John"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "REMEMBERING THE ALAMO",
+    "AT \"BAT\"",
+    "DOGGONE GOOD WRITING",
+    "TED",
+    "THE LAST MAN",
+    "ON EARTH"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 5,
+     "q": "Before fighting at the Alamo, he served 3 terms as a House representative from Tennessee",
+     "a": "Davy Crockett",
+     "right": [
+      "Peter"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 6,
+     "q": "It goes from hand to hand in a relay race",
+     "a": "a baton",
+     "right": [
+      "Rachel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 30,
+     "q": "This 1902 Sir Arthur Conan Doyle tale about a ghostly canine was based on local legend",
+     "a": "The Hound of the Baskervilles",
+     "right": [],
+     "wrong": [
+      "John"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 21,
+     "q": "At an audition for the role of Lurch on this TV show, 6'9\" actor Ted Cassidy ad-libbed \"You rang?\"",
+     "a": "The Addams Family",
+     "right": [
+      "Peter"
+     ],
+     "wrong": [
+      "Rachel"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "In an amateur boxing match, Serafim Todorov was the last to defeat this man who won his first 49 pro fights",
+     "a": "Floyd Mayweather",
+     "right": [],
+     "wrong": [
+      "Peter"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 11,
+     "q": "Och aye! At about 400 million years old, the Highlands of this country are among the world's oldest mountains",
+     "a": "Scotland",
+     "right": [
+      "Rachel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 7,
+     "q": "Like the city where it's located, the mission was originally named in part for this man of Padua",
+     "a": "San Antonio",
+     "right": [
+      "John"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 16,
+     "q": "Several make up a regiment",
+     "a": "a battalion",
+     "right": [
+      "Peter"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "In Greek poetry a faithful dog named Argos was this wanderer's pet",
+     "a": "Odysseus",
+     "right": [
+      "Rachel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 22,
+     "q": "U.S. skier Ted Ligety won gold in the combined event at the 2006 winter games in this Italian city",
+     "a": "Turin",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 2,
+     "q": "This George Orwell novel was originally titled \"The Last Man in Europe\"",
+     "a": "1984",
+     "right": [
+      "John"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 12,
+     "q": "These structures have star, parabolic & nebkha types, determined by the behavior of wind, sand & vegetation",
+     "a": "sand dunes",
+     "right": [
+      "Rachel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 8,
+     "q": "Accounts differ but it's believed this knifesman died on his cot where he had been confined due to illness",
+     "a": "(Jim) Bowie",
+     "right": [
+      "John"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 17,
+     "q": "\"Energetic\" Manhattan park",
+     "a": "Battery Park",
+     "right": [
+      "Rachel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 28,
+     "q": "In 1838 he began publishing \"Zoology of the Voyage of H.M.S. Beagle\"",
+     "a": "Darwin",
+     "right": [
+      "Peter"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 23,
+     "q": "As supervisor D.B. Russell, this actor has moved over from \"CSI\" to \"CSI: Cyber\" to help fight a new breed of criminal",
+     "a": "Ted Danson",
+     "right": [
+      "Peter"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": true,
+     "order": 3,
+     "q": "In 1996 Delaware's Billy Bailey became the last condemned murderer to be put to death in the U.S. this way",
+     "a": "hanging",
+     "right": [],
+     "wrong": [
+      "John"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 3000
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 13,
+     "q": "Phytoplankton blooms in the Gulf of California, like at the bottom of the screen, herald her, El Niño's counterpart",
+     "a": "La Niña",
+     "right": [
+      "Peter"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 9,
+     "q": "A month after the siege, this commander of the Mexican army was captured at San Jacinto",
+     "a": "Santa Anna",
+     "right": [
+      "Peter"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 18,
+     "q": "To prepare for trouble, do this to \"the hatches\"",
+     "a": "batten down",
+     "right": [
+      "John"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 27,
+     "q": "Good things happen \"Because of\" this store-found dog in a novel by Kate DiCamillo",
+     "a": "Winn-Dixie",
+     "right": [
+      "Rachel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 24,
+     "q": "On this 1970s TV series, Ted Lange was Isaac Washington, chief bartender on the Pacific Princess",
+     "a": "The Love Boat",
+     "right": [
+      "John"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 4,
+     "q": "In \"Thus Spake Zarathustra\", this author described the \"last man\" as the antithesis of the \"superman\"",
+     "a": "Nietzsche",
+     "right": [
+      "Rachel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 14,
+     "q": "This visible phenomenon results from the solar wind buffeting Earth's magnetic field",
+     "a": "the aurora (the northern lights)",
+     "right": [
+      "Peter"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 3000
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 10,
+     "q": "A plea for help, this commander's \"victory or death\" letter was returned to the Alamo in 2013 for the 177th anniv.",
+     "a": "William Barret Travis",
+     "right": [
+      "Rachel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 19,
+     "q": "Indonesian fabric dyeing practice using wax",
+     "a": "batik",
+     "right": [
+      "Peter"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 26,
+     "q": "Described as \"a lion-like creature\", pilot is this man's dog in \"Jane Eyre\"",
+     "a": "Rochester",
+     "right": [
+      "John"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 25,
+     "q": "He's the man of fleet fingers & uncompromising views seen here",
+     "a": "Ted Nugent",
+     "right": [
+      "Rachel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 20,
+     "q": "The last Italian-born pope was this short-timer",
+     "a": "Pope John Paul I",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 15,
+     "q": "The movement of the Earth's crust during quakes is due to convection currents in this lower layer that's 2/3 of Earth's mass",
+     "a": "the mantle",
+     "right": [
+      "Peter"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "STATE CAPITALS",
+  "q": "Settled in the 1780s, it's the only state capital without a McDonald's",
+  "a": "Montpelier, Vermont",
+  "right": [
+   "John"
+  ],
+  "wrong": [
+   "Rachel",
+   "Peter"
+  ]
+ },
+ "gameId": "5207",
+ "cat_notes": {
+  "J": [
+   "Now if you visit museums, you will probably always...",
+   "Clues about Bible Books in Pop Music.",
+   "Clues about Fashion.",
+   "The category “WHAT'S YOUR MOVIE PROFESSION?” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "Clues about Missing Links.",
+   "Each answer starts with “D”, and the clues are about This Is Place."
+  ],
+  "DJ": [
+   "Clues about Remembering the Alamo.",
+   "Each answer contains the letter group “BAT”.",
+   "Clues about Doggone Good Writing.",
+   "Clues about Ted.",
+   "Clues about The Last Man.",
+   "Clues on Earth."
+  ],
+  "F": "Clues about State Capitals."
+ }
+}

@@ -1,0 +1,998 @@
+{
+ "show": "#7238",
+ "aired": "2016-02-17",
+ "note": "",
+ "contestants": [
+  {
+   "name": "Tim Kutz",
+   "bio": "a data conversion manager from Ogden, Utah",
+   "short": "Tim"
+  },
+  {
+   "name": "Katie Oliver",
+   "bio": "an administrative professional from Fredericksburg, Virginia",
+   "short": "Katie"
+  },
+  {
+   "name": "Chris Becker",
+   "bio": "a bus driver and trainer from Orlando, Florida (whose 3-day cash winnings total $52,999)",
+   "short": "Chris"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Chris": 9600,
+   "Katie": 3400,
+   "Tim": 5000
+  },
+  "DJ": {
+   "Chris": 34000,
+   "Katie": 11800,
+   "Tim": 23800
+  },
+  "Final": {
+   "Chris": 20399,
+   "Katie": 0,
+   "Tim": 46599
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "BOSTON'S FREEDOM TRAIL",
+    "SYFY MOVIES",
+    "MIRROR WORDS",
+    "NURSERY RHYME FOLKS",
+    "YOUR 5-COURSE MEAL",
+    "THEY SHARE A BIRTHDAY"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 3,
+     "q": "A starting point for the trail is this oldest U.S. public park, once a grazing ground for sheep & cattle",
+     "a": "the Boston Common",
+     "right": [
+      "Katie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 8,
+     "q": "Title-wise, it preceded \"‑topus\" as well as \"‑nado\"",
+     "a": "Shark",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 22,
+     "q": "The kind of chatter some have \"the gift of\" &\na sack that might hold a gift",
+     "a": "gab & bag",
+     "right": [
+      "Katie"
+     ],
+     "wrong": [
+      "Tim"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 27,
+     "q": "The sheep's in the meadow because this colorful kid is fast asleep under a haystack",
+     "a": "Little Boy Blue",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "Let's start you out with a salad--this one classically made with romaine lettuce, croutons & anchovies",
+     "a": "a Caesar salad",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 13,
+     "q": "Jan. 1, 1919:\nJ.D. Salinger;\n10 years earlier:\nthis Arizona senator & 1964 presidential hopeful",
+     "a": "Barry Goldwater",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 4,
+     "q": "Officially known as the USS Constitution, today it's berthed in Charlestown Navy Yard",
+     "a": "\"Old Ironsides\"",
+     "right": [
+      "Tim"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 9,
+     "q": "Syfy's take on medieval times is \"Dark Relic\", set in the Mideast in 1099, at the end of the first of these",
+     "a": "the Crusades",
+     "right": [
+      "Katie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 23,
+     "q": "A navigator's charts &\nunwanted inbox messages",
+     "a": "maps & spam",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 16,
+     "q": "When Simple Simon meets the pieman, he's headed to this event",
+     "a": "the fair",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "Soup of the day? This Andalusian one with veggies in a pureed tomato base, served cold",
+     "a": "gazpacho",
+     "right": [
+      "Tim"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 14,
+     "q": "June 3, 1808:\nJefferson Davis;\n118 years later:\nthis \"Howl\" poet",
+     "a": "(Allen) Ginsberg",
+     "right": [
+      "Katie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 5,
+     "q": "One if by land & two if by sea--it's the most visited historic site in Boston",
+     "a": "the Old North Church",
+     "right": [
+      "Tim"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 10,
+     "q": "Let the \"CHiPS\" fall where they may--he starred in \"Chupacabra vs. the Alamo\"",
+     "a": "Erik Estrada",
+     "right": [
+      "Katie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 28,
+     "q": "Your best buddies &\nan open hand smack to the face",
+     "a": "pals & slap",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 24,
+     "q": "He's so fast & acrobatic, this character has no problem clearing a lit taper",
+     "a": "Jack",
+     "right": [],
+     "wrong": [
+      "Katie"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 17,
+     "q": "Could it be... \"oeufs farcis\"? This \"demonic\" preparation served as an appetizer or side dish",
+     "a": "deviled eggs",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 15,
+     "q": "Feb. 5, 1914:\n\"Naked Lunch\" writer William S. Burroughs;\n1985:\nthis Portuguese soccer star",
+     "a": "Cristiano Ronaldo",
+     "right": [
+      "Katie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 6,
+     "q": "5 men listed on a headstone at Granary Burying Ground were victims of this tragic March 5, 1770 event",
+     "a": "the Boston Massacre",
+     "right": [
+      "Katie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 11,
+     "q": "Stuck in the middle of \"Piranhaconda\" was this \"Reservoir Dogs\" star, Virginia's brother",
+     "a": "Michael Madsen",
+     "right": [
+      "Katie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "Ceramic vessels &\na save made by a goalie",
+     "a": "pots & a stop",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": true,
+     "order": 25,
+     "q": "Maybe he's a thief because his wind instrument musician father can't make enough to feed the family",
+     "a": "Tom, Tom, the Piper's Son",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 3000
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 18,
+     "q": "Main course! The item at the end of the French name of this chicken dish is usually a red",
+     "a": "coq au vin",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 20,
+     "q": "March 7, 1974:\nactress Jenna Fischer;\n99 years earlier:\nthis composer of \"Bolero\"",
+     "a": "Ravel",
+     "right": [
+      "Tim"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 7,
+     "q": "\"The Home of Free Speech\" & \"the Cradle of Liberty\", this historic building is now part of a bustling marketplace",
+     "a": "Faneuil Hall",
+     "right": [
+      "Tim"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 12,
+     "q": "\"Mega Python vs. Gatoroid\"? Sure, but really, it was Tiffany vs. this '80s pop rival known for \"Only In My Dreams\"",
+     "a": "Debbie Gibson",
+     "right": [
+      "Tim"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 30,
+     "q": "Money for the return of something lost & a compartment in a cabinet to keep it in",
+     "a": "reward & drawer",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 26,
+     "q": "That merry old soul Old King Cole called for these 2 things & his fiddlers 3",
+     "a": "his pipe & his bowl",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 19,
+     "q": "& now this, ladyfingers dipped in a coffee-marsala mix & with mascarpone & chocolate--nice way to end a meal!",
+     "a": "tiramisu",
+     "right": [
+      "Tim"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 21,
+     "q": "October 31, 1705:\nPope Clement XIV;\n1860:\nthis founder of the Girl Scouts",
+     "a": "Juliette Low",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "EAGLE POTPOURRI",
+    "4-LETTER SCIENCE",
+    "CELEBRITIES",
+    "COUNTRIES OF THE WORLD",
+    "SPEARS",
+    "\"AE\" I OWE YOU"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 21,
+     "q": "Position of outstretched arms & legs",
+     "a": "spread eagle",
+     "right": [
+      "Tim"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 12,
+     "q": "Here's the symbol for this inhabitant of the Solar System\n\n♂",
+     "a": "Mars",
+     "right": [
+      "Tim"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 3,
+     "q": "In 2015 this star of \"Identity Thief\" & \"Spy\" launched her own clothing line, which runs from size 4 to size 28",
+     "a": "Melissa McCarthy",
+     "right": [
+      "Tim"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 8,
+     "q": "In 1961 this country's Tutsi monarchy was overthrown in a Hutu revolution",
+     "a": "Rwanda",
+     "right": [
+      "Katie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 11,
+     "q": "The Hindu god Shiva is often shown bearing one of these 3-pointed spears",
+     "a": "a trident",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 26,
+     "q": "Ithaca, N.Y. claims to be the home of the first one of these ice cream treats; it included cherry syrup with a cherry on top",
+     "a": "a sundae",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 20,
+     "q": "This patriotic character has taken it upon himself to be the moral compass & censor for his Muppet troop",
+     "a": "Sam the Eagle",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 13,
+     "q": "As with yeast, a single one can be a complete organism",
+     "a": "a cell",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 4,
+     "q": "Her 21 singles Grand Slam titles include six wins at Wimbledon",
+     "a": "Serena Williams",
+     "right": [
+      "Tim"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 6,
+     "q": "Its nearest neighbor is Greenland, about 200 miles to the northwest",
+     "a": "Iceland",
+     "right": [
+      "Katie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 22,
+     "q": "Roman soldiers relied on the pilum, a 7-foot-long one of these, now used in the Olympics",
+     "a": "a javelin",
+     "right": [
+      "Katie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 28,
+     "q": "This person is skilled in giving facials, manicures, pedicures & other beauty treatments",
+     "a": "an aesthetician",
+     "right": [
+      "Tim"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 17,
+     "q": "This city's Eagle has the largest circulation of any newspaper in Kansas",
+     "a": "Wichita",
+     "right": [
+      "Tim"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": true,
+     "order": 14,
+     "q": "It's the only 4-letter noble gas",
+     "a": "neon",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 10000
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 1,
+     "q": "The single name of this \"Titanium\" singer is somewhat ironic as we actually only see her wigs",
+     "a": "Sia",
+     "right": [
+      "Katie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 7,
+     "q": "Schellenberg & Vaduz were united to form this tiny country",
+     "a": "Liechtenstein",
+     "right": [
+      "Tim"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 23,
+     "q": "The halberd was a weapon used in the late Middle Ages that combined a spear with this for cleaving helmets",
+     "a": "an ax",
+     "right": [
+      "Tim"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 29,
+     "q": "This word for a Scottish Highlander is spelled like actor Garcia Bernal's first name",
+     "a": "Gael",
+     "right": [
+      "Tim"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 18,
+     "q": "For 2 years Barack Obama attended this Eagle Rock, California college called \"Oxy\" for short",
+     "a": "Occidental",
+     "right": [
+      "Tim"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 15,
+     "q": "This force is responsible for the nuclear fusion reaction that powers the Sun",
+     "a": "the weak force",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 5,
+     "q": "Jessica Simpson still owns the red cowboy boots she wore bringing this TV character to the big screen",
+     "a": "Daisy Duke",
+     "right": [
+      "Katie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 9,
+     "q": "The wildebeest migration is a thrilling sight in this country's Maasai Mara National Reserve",
+     "a": "Kenya",
+     "right": [
+      "Katie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 24,
+     "q": "British lancers were killed charging up the \"Valley of Death\" in this battle of the Crimean War",
+     "a": "the Battle of Balaclava",
+     "right": [
+      "Tim"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 27,
+     "q": "The name of this mythological labyrinth builder means \"skillfully wrought\"",
+     "a": "Daedalus",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 10000
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 19,
+     "q": "Altair is the brightest star in this constellation known as \"the Eagle\"",
+     "a": "Aquila",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 16,
+     "q": "This mineral rates a 1 (softest & easiest to scratch) on the Mohs scale",
+     "a": "talc",
+     "right": [
+      "Tim"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 2,
+     "q": "In 2014, he got an honorary degree from Northeastern as his daughter graduated",
+     "a": "LL Cool J",
+     "right": [
+      "Tim"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 10,
+     "q": "The main island of this Persian Gulf archipelago nation has many fresh springs for drinking & irrigation",
+     "a": "Bahrain",
+     "right": [
+      "Katie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 25,
+     "q": "Around 350 B.C. this father of Alexander the Great introduced the sarissa, a spear up to 21 feet long",
+     "a": "Philip (of Macedon)",
+     "right": [
+      "Tim"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 30,
+     "q": "According to the theory of plate tectonics, this supercontinent later broke into Gondwana & Laurasia",
+     "a": "Pangaea",
+     "right": [
+      "Tim"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "THE AFI's 100 YEARS... 100 MOVIES",
+  "q": "This man who was in \"The Godfather\" & \"Apocalypse Now\" is the only living actor in 6 or more films on the list",
+  "a": "Robert Duvall",
+  "right": [
+   "Tim"
+  ],
+  "wrong": [
+   "Katie",
+   "Chris"
+  ]
+ },
+ "gameId": "5197",
+ "cat_notes": {
+  "J": [
+   "Clues about Boston's Freedom Trail.",
+   "Clues about Syfy Movies.",
+   "Each correct response will be two words that are basically the reverse of each other in terms of lettering.",
+   "Each answer is a rhyming word or phrase.",
+   "Clues about Your 5-course Meal.",
+   "The category “THEY SHARE A BIRTHDAY” sets the theme — the clues follow that idea and any wordplay suggested by the title."
+  ],
+  "DJ": [
+   "A mixed potpourri of Eagle Pot-related clues.",
+   "Each answer is a 4-letter word or term related to 4-letter Science.",
+   "Clues about Celebrities.",
+   "Clues about Countries of the World.",
+   "Clues about Spears.",
+   "\"A-E\" is going to come up in each correct response."
+  ],
+  "F": "Clues about The Afi's 100 Years 100 Movies."
+ }
+}

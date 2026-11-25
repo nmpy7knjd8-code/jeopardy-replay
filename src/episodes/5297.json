@@ -1,0 +1,993 @@
+{
+ "show": "#7311",
+ "aired": "2016-05-30",
+ "note": "Casey Desantis of Guinness World Records presents Harry Friedman with a framed certificate recognizing his producing record: \"The most game shows produced is 11,128 episodes, and was achieved by Harry Friedman (USA), Executive Producer for the TV shows Wheel of Fortune and Jeopardy! as of 31 March 2016\".",
+ "contestants": [
+  {
+   "name": "Wilcley Lima",
+   "bio": "an I.T. manager originally from Orlando, Florida",
+   "short": "Wilcley"
+  },
+  {
+   "name": "Bryna Fischer",
+   "bio": "an editor from Westlake Village, California",
+   "short": "Bryna"
+  },
+  {
+   "name": "Erin Delaney",
+   "bio": "an English professor from North Hills, California (whose 1-day cash winnings total $24,401)",
+   "short": "Erin"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Erin": 4200,
+   "Bryna": 5200,
+   "Wilcley": 5800
+  },
+  "DJ": {
+   "Erin": 14800,
+   "Bryna": 17600,
+   "Wilcley": 3800
+  },
+  "Final": {
+   "Erin": 29598,
+   "Bryna": 5599,
+   "Wilcley": 3800
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "NFL TEAM NAMES",
+    "THE CONSTITUTION",
+    "FEMALE BOOK CHARACTERS",
+    "THE EAGLES",
+    "HOTEL CALIFORNIA",
+    "TAKE IT \"EZ\""
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 6,
+     "q": "Their name was chosen to be a complement to the Cubs baseball team",
+     "a": "the Bears",
+     "right": [
+      "Bryna"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 21,
+     "q": "Ratification of the 26th Amendment to the Constitution in July 1971 set this as the voting age",
+     "a": "18",
+     "right": [
+      "Bryna"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "After her affair with Count Vronsky, she commits suicide by throwing herself in front of a train",
+     "a": "Anna Karenina",
+     "right": [
+      "Erin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 11,
+     "q": "The Boy Scouts logo features an eagle on this French-named item, a stylized lily",
+     "a": "a fleur-de-lis",
+     "right": [
+      "Erin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 26,
+     "q": "The nearly 800-room Palace Hotel in this city was one of the largest in the world when it was destroyed by a fire in 1906",
+     "a": "San Francisco",
+     "right": [
+      "Bryna"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 16,
+     "q": "It was adopted as the official headgear of the Shriners back in 1872",
+     "a": "the fez",
+     "right": [
+      "Erin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 7,
+     "q": "They weren't named for a beautiful bird but for used reddish jerseys purchased from a college",
+     "a": "the Cardinals",
+     "right": [
+      "Bryna"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 22,
+     "q": "The name of this state hosting the Constitutional Convention is misspelled on the document: one \"N\" was left out",
+     "a": "Pennsylvania",
+     "right": [
+      "Wilcley"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "As this book begins, Anastasia Steele is getting ready for an interview that will change her (sex) life",
+     "a": "Fifty Shades of Grey",
+     "right": [
+      "Erin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 12,
+     "q": "Teens like to stock up on clothes & accessories from this retailer whose stock symbol is AEO",
+     "a": "American Eagle Outfitters",
+     "right": [
+      "Erin",
+      "Wilcley"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "In 1970 he hosted a state dinner at the Hotel del Coronado rather than the White House",
+     "a": "Nixon",
+     "right": [
+      "Erin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 17,
+     "q": "Richie, Chela, Tito & Armando, the Flying Gaonas, were one of the most prominent of these circus acts",
+     "a": "trapeze",
+     "right": [
+      "Wilcley"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 8,
+     "q": "The Cleveland team's name was decided by a 1945 fan contest; the winning submission honored this first coach",
+     "a": "the Browns",
+     "right": [
+      "Wilcley"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": true,
+     "order": 23,
+     "q": "The 5th Amendment says you can't be jailed \"without\" this phrase \"of law\", a protection rooted in Magna Carta",
+     "a": "due process",
+     "right": [
+      "Wilcley"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2400
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 3,
+     "q": "This object of the Great Gatsby's affection is Nick Carraway's second cousin once removed",
+     "a": "Daisy (Buchanan)",
+     "right": [
+      "Erin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 13,
+     "q": "Before winging it on their own, Glen Frey, Don Henley & other Eagles bandmates were often her backup group",
+     "a": "Linda Ronstadt",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 28,
+     "q": "The actors who played these little folks had quite a wild time at the Culver Hotel during the making of a 1939 film",
+     "a": "Munchkins",
+     "right": [
+      "Bryna"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 18,
+     "q": "Not to be confused with the Spanish word for beer, it's the Spanish word for head",
+     "a": "cabeza",
+     "right": [
+      "Wilcley"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 9,
+     "q": "General Manager Bert Rose decided on this team name because of the Scandinavian heritage of those living in the area",
+     "a": "the Vikings",
+     "right": [
+      "Bryna"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 24,
+     "q": "This future pres. missed only a \"fraction of an hour\" here or there as he took copious notes of the discussions",
+     "a": "James Madison",
+     "right": [],
+     "wrong": [
+      "Erin",
+      "Bryna"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 4,
+     "q": "\"Sleeping Murder\" is billed as the last case of this Agatha Christie character",
+     "a": "Miss Marple",
+     "right": [
+      "Bryna"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 14,
+     "q": "Eagle River, Wisc. is home to the annual world championships of these vehicles once called motor toboggans",
+     "a": "snowmobiles",
+     "right": [
+      "Erin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "\"The Happiest Hotel on Earth\"--book a room or themed suite in its Adventure, Fantasy or Frontier towers",
+     "a": "the Disneyland Hotel",
+     "right": [
+      "Erin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 19,
+     "q": "In 2 Kings 9 she's thrown out of the window by eunuchs, trampled & then eaten by dogs",
+     "a": "Jezebel",
+     "right": [
+      "Bryna"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 10,
+     "q": "This team that entered the AFL in 1960 gets its name from a frontiersman",
+     "a": "the Buffalo Bills",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 25,
+     "q": "Congress has power to \"fix the standard of\" these 2 items, which make up a classic \"Jeopardy!\" category",
+     "a": "weights & measures",
+     "right": [
+      "Wilcley"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 5,
+     "q": "Part of Defoe's extended title about this woman: \"Twelve Year a Thief, Eight Year a Transported Felon in Virginia\"",
+     "a": "Moll Flanders",
+     "right": [
+      "Bryna"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 15,
+     "q": "The eagle of this 12th century sultan adorns the coats of arms of Egypt & Iraq",
+     "a": "Sallah ad-Din (Saladin)",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 30,
+     "q": "A victory celebration turned to grief in 1968 when Sirhan Sirhan shot Robert Kennedy at this Los Angeles hotel",
+     "a": "the Ambassador",
+     "right": [
+      "Bryna"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 20,
+     "q": "This African river plunges over Victoria Falls",
+     "a": "the Zambezi",
+     "right": [
+      "Erin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "I'M SAXON & I KNOW IT",
+    "PHYSICS TEST",
+    "5-SYLLABLE WORDS",
+    "RELIGIOUS TITLES",
+    "AFRICAN COUNTRIES",
+    "RIGHT INITIALS, WRONG VOICE"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 15,
+     "q": "When mentioned by Ptolemy in the 2nd century, the Saxons occupied Jutland Peninsula, today mostly part of this country",
+     "a": "Denmark",
+     "right": [
+      "Erin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 20,
+     "q": "On the once widely used Reaumur scale, 0 degrees & 80 degrees represented these 2 points",
+     "a": "the freezing & boiling points of water",
+     "right": [
+      "Wilcley"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "Proverbially it \"seldom knocks twice\"",
+     "a": "opportunity",
+     "right": [
+      "Erin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 6,
+     "q": "Titles in this religion include swami, maharishi & guru",
+     "a": "Hinduism",
+     "right": [
+      "Bryna"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 12,
+     "q": "The Ganda are one of its major ethnic groups",
+     "a": "Uganda",
+     "right": [
+      "Erin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 11,
+     "q": "Sideshow Bob from \"The Simpsons\":\nK.G., Kevin Garnett",
+     "a": "Kelsey Grammer",
+     "right": [
+      "Erin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 16,
+     "q": "In the 400s the Saxons began migrating to Great Britain & soon got mixed up with these people who had a geometric name",
+     "a": "the Angles",
+     "right": [
+      "Erin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 21,
+     "q": "I'll find it strangely charming if you can identify these particles with a word taken from \"Finnegans Wake\"",
+     "a": "quark",
+     "right": [
+      "Bryna"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 2,
+     "q": "Meaning repugnant, it also describes a certain snowman",
+     "a": "abominable",
+     "right": [
+      "Erin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 7,
+     "q": "In John 6:25 Jesus' disciples refer to him by this Jewish title",
+     "a": "rabbi",
+     "right": [
+      "Bryna"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 13,
+     "q": "It gets its \"N\"ame from its large coastal desert",
+     "a": "Namibia",
+     "right": [
+      "Bryna"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 25,
+     "q": "Puss in Boots in \"Shrek\":\nAngela Bassett",
+     "a": "Antonio Banderas",
+     "right": [
+      "Erin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 17,
+     "q": "In the Saxon tongue, Dec. & Jan. were together known by this 4-letter name, today a synonym for Christmas",
+     "a": "Yule",
+     "right": [
+      "Erin"
+     ],
+     "wrong": [
+      "Bryna",
+      "Wilcley"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 22,
+     "q": "Hey, farmer! It's the physics term for a region in which every point is affected by a force",
+     "a": "a field",
+     "right": [
+      "Bryna"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": true,
+     "order": 3,
+     "q": "This dinosaur whose name means \"swift thief\" roamed the Earth during the Cretaceous period, not the Jurassic",
+     "a": "velociraptor",
+     "right": [
+      "Erin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 3000
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 8,
+     "q": "In Catholicism this bishop with a title that also applies to apes has authority over other bishops in his province",
+     "a": "the primate",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 14,
+     "q": "There was once a place called Italian East Africa; now most of it is this",
+     "a": "Ethiopia",
+     "right": [],
+     "wrong": [
+      "Wilcley"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 26,
+     "q": "Chef from \"South Park\":\nIsabelle Huppert",
+     "a": "Isaac Hayes",
+     "right": [
+      "Erin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 18,
+     "q": "The continental Saxons warred with the Franks but were conquered by this king around 804 A.D.",
+     "a": "Charlemagne",
+     "right": [
+      "Erin"
+     ],
+     "wrong": [
+      "Wilcley"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 23,
+     "q": "Newton's third law: when 2 bodies meet, they exert forces on each other that are equal in magnitude & opposite in this",
+     "a": "direction",
+     "right": [
+      "Wilcley"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 4,
+     "q": "John Brown, Levi Coffin or Sojourner Truth",
+     "a": "an abolitionist",
+     "right": [
+      "Bryna"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 9,
+     "q": "In the 16th century, Suleiman constructed a semahane, or whirling hall, for these people",
+     "a": "dervishes",
+     "right": [
+      "Bryna"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2000
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 29,
+     "q": "In 1462 an explorer gave this country its name, possibly because a nearby mountain resembled a lion",
+     "a": "Sierra Leone",
+     "right": [
+      "Erin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 27,
+     "q": "1966's \"How the Grinch Stole Christmas\":\nBen Kingsley",
+     "a": "Boris Karloff",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 19,
+     "q": "\"Sassenach\", derived from \"Saxon\", is still what Irishmen call Englishmen in this language",
+     "a": "Gaelic",
+     "right": [
+      "Bryna"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 24,
+     "q": "We'll test you to the max & ask for this German who introduced the fundamental constant of quantum theory",
+     "a": "(Max) Planck",
+     "right": [
+      "Bryna"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 5,
+     "q": "As punishment for the Boston Tea Party in 1773, Britain passed these Acts",
+     "a": "the Intolerable Acts",
+     "right": [
+      "Bryna"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 10,
+     "q": "The city of Shigatse is the traditional seat of this lama who's not quite dalai",
+     "a": "the panchen lama",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 30,
+     "q": "Gambia or the Gambia was once part of a union with this country that surrounds it",
+     "a": "Senegal",
+     "right": [],
+     "wrong": [
+      "Erin"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 28,
+     "q": "Hiccup in \"How to Train Your Dragon\":\nJoe Biden",
+     "a": "Jay Baruchel",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "PLAYWRIGHTS",
+  "q": "An 1892 Punch cartoon depicts him lounging with a cigarette & holding a fan with a name written on it",
+  "a": "Oscar Wilde",
+  "right": [
+   "Erin"
+  ],
+  "wrong": [
+   "Wilcley",
+   "Bryna"
+  ]
+ },
+ "gameId": "5297",
+ "cat_notes": {
+  "J": [
+   "Clues about NFL Team Names.",
+   "Clues about The Constitution.",
+   "Clues about Female Book Characters.",
+   "Clues about The Eagles.",
+   "Clues about Hotel California.",
+   "Each answer contains the letter group “EZ”, and the clues are about Take It."
+  ],
+  "DJ": [
+   "The category “I'M SAXON & I KNOW IT” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "Clues about Physics Test.",
+   "The category “5-SYLLABLE WORDS” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "Clues about Religious Titles.",
+   "Clues about African Countries.",
+   "You have to identify the right performer for us."
+  ],
+  "F": "Clues about Playwrights."
+ }
+}

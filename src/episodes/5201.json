@@ -1,0 +1,1006 @@
+{
+ "show": "#7241",
+ "aired": "2016-02-22",
+ "note": "",
+ "contestants": [
+  {
+   "name": "Joshua Parr",
+   "bio": "a high school teacher from Montreal, Quebec, Canada",
+   "short": "Joshua"
+  },
+  {
+   "name": "Maria Santonato",
+   "bio": "a marketing project manager from Chicago, Illinois",
+   "short": "Maria"
+  },
+  {
+   "name": "Tim Kutz",
+   "bio": "a data conversion manager from Ogden, Utah (whose 3-day cash winnings total $82,599)",
+   "short": "Tim"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Tim": 5200,
+   "Maria": 1800,
+   "Joshua": 3800
+  },
+  "DJ": {
+   "Tim": 23400,
+   "Maria": 6400,
+   "Joshua": 12200
+  },
+  "Final": {
+   "Tim": 24401,
+   "Maria": 12201,
+   "Joshua": 24400
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "THE IMAGE AWARDS",
+    "REAL ESTATE",
+    "PIN THE STAR ON THE CONSTELLATION",
+    "SAME FIRST & LAST LETTER",
+    "THIRD",
+    "FERGUSON"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 24,
+     "q": "Honoring African Americans in the arts, the Image Awards were established in 1967 by this organization",
+     "a": "the NAACP",
+     "right": [
+      "Maria"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 20,
+     "q": "Also known as a handyman's special, it's the hyphenated term for a rundown property bought at a bargain but needing work",
+     "a": "a fixer-upper",
+     "right": [
+      "Maria"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "Procyon:\nThis little dog",
+     "a": "Canis Minor",
+     "right": [],
+     "wrong": [
+      "Tim"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 15,
+     "q": "A huge collection of crashed cars on the interstate",
+     "a": "a pile-up",
+     "right": [
+      "Joshua"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 10,
+     "q": "(Sarah of the Clue Crew shows a map on the monitor.) His third voyage went around the Cape of Good Hope, past Australia & New Zealand, up to Vancouver island, then the Bering Sea, & the final stop for this captain was in Hawaii in 1779",
+     "a": "Cook",
+     "right": [
+      "Tim"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 8,
+     "q": "Winning 13 league titles, for 27 years Sir Alex Ferguson was manager of this premier British soccer team aka the Red Devils",
+     "a": "Manchester United",
+     "right": [
+      "Tim"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 26,
+     "q": "She won for Outstanding News, Talk or Information Show in 1993--& '94, '96, '98...",
+     "a": "Oprah Winfrey",
+     "right": [
+      "Tim"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 7,
+     "q": "Way back in 2007, forbes.com ran a feature titled \"Million-dollar\" these \"homes\" for first-time buyers",
+     "a": "starter homes",
+     "right": [
+      "Tim"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "Sadalmelik:\nThis water bearer",
+     "a": "Aquarius",
+     "right": [
+      "Maria"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 3,
+     "q": "Discussion process through which treaties are made",
+     "a": "negotiation",
+     "right": [
+      "Maria"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": true,
+     "order": 14,
+     "q": "It's the third-holiest city for Muslims",
+     "a": "Jerusalem",
+     "right": [],
+     "wrong": [
+      "Joshua"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1800
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 9,
+     "q": "In this Supreme Court case from 1896, the court advanced the controversial \"separate but equal\" doctrine",
+     "a": "Plessy v. Ferguson",
+     "right": [
+      "Joshua"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 27,
+     "q": "It took John Ridley 4 years to write the screenplay for this 2014 Outstanding Motion Picture winner",
+     "a": "12 Years a Slave",
+     "right": [
+      "Joshua"
+     ],
+     "wrong": [
+      "Tim"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 21,
+     "q": "In 2011 85% of Las Vegas mortgage holders owed more than the house was worth--hold your breath, because your this",
+     "a": "under water",
+     "right": [
+      "Maria",
+      "Joshua"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 19,
+     "q": "Vernalis:\nAmong these fishes",
+     "a": "Pisces",
+     "right": [
+      "Joshua"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 4,
+     "q": "A loyal family servant of old, or money you give to a lawyer, initially",
+     "a": "a retainer",
+     "right": [
+      "Joshua"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 16,
+     "q": "Led by this tank general, the U.S. Third Army liberated the key city of Bastogne, Belgium during the Battle of the Bulge",
+     "a": "Patton",
+     "right": [
+      "Tim"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 11,
+     "q": "Comedian & former late late night TV host Craig Ferguson became the host of this lively game show",
+     "a": "Celebrity Name Game",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "Denzel Washington blew through the competition to win an \nOutstanding Actor award for this boxing biopic",
+     "a": "The Hurricane",
+     "right": [
+      "Joshua"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 25,
+     "q": "\"ABC\" is shorthand for this aggressive real estate mantra about forever sealing the deal",
+     "a": "always be closing",
+     "right": [
+      "Tim"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 22,
+     "q": "Eltanin:\nThis dragon",
+     "a": "Draco",
+     "right": [
+      "Tim"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 5,
+     "q": "The chorus heard here is from this type of work by Handel",
+     "a": "an oratorio",
+     "right": [
+      "Joshua"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 17,
+     "q": "The third man to go into space as part of the Mercury program, he followed Shepard & Grissom",
+     "a": "John Glenn",
+     "right": [
+      "Tim"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 12,
+     "q": "Seen here is Massey Ferguson's 9505 series one of these multifunction farm machines",
+     "a": "a combine",
+     "right": [
+      "Tim"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 30,
+     "q": "This singer was such a \"genius\", he won the Hall of Fame Award twice, in 1983 & 2004",
+     "a": "Ray Charles",
+     "right": [
+      "Tim"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 28,
+     "q": "In England you don't contact a realtor to buy or sell property, but an \"estate\" one of these instead",
+     "a": "an agent",
+     "right": [
+      "Maria"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 23,
+     "q": "Mintaka:\nHunt for it in the belt",
+     "a": "Orion",
+     "right": [
+      "Joshua"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 6,
+     "q": "A heavy volume of rain",
+     "a": "a torrent",
+     "right": [
+      "Maria"
+     ],
+     "wrong": [
+      "Joshua"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 18,
+     "q": "Italian for \"joke\", it's frequently the third movement of a sonata or symphony & is played in 3/4 time",
+     "a": "scherzo",
+     "right": [],
+     "wrong": [
+      "Maria"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 13,
+     "q": "Books by historian Niall Ferguson include \"The World's Banker\" The History of the House of\" this",
+     "a": "Rothschild",
+     "right": [
+      "Joshua"
+     ],
+     "wrong": [
+      "Maria"
+     ],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "LET'S HAVE DESERT",
+    "TV PETS",
+    "LABOR",
+    "BRITISH FICTION",
+    "THE AMERICAN REVOLUTION ERA",
+    "WHAT'S THE \"PASS\" WORD?"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 30,
+     "q": "The 1986 completion of the Indira Gandhi Canal brought irrigation & farmers to the Thar Desert in this country",
+     "a": "India",
+     "right": [
+      "Joshua"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 26,
+     "q": "Don Johnson's TV pet seen here used to serve as the mascot of this university",
+     "a": "the University of Florida",
+     "right": [
+      "Tim"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 17,
+     "q": "The baristas who prepare & serve your cup of joe at this place are now organized, having formed a union in 2004",
+     "a": "Starbuck's",
+     "right": [
+      "Maria"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 11,
+     "q": "A mad scientist named Griffin is the title character in this H.G. Wells work",
+     "a": "The Invisible Man",
+     "right": [],
+     "wrong": [
+      "Tim"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "In 1775 he issued a proclamation stating that the colonies are in \"open and avowed rebellion\"",
+     "a": "George III",
+     "right": [
+      "Maria"
+     ],
+     "wrong": [
+      "Tim"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "A corridor, or a portion of a written work",
+     "a": "a passage",
+     "right": [
+      "Tim"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 4,
+     "q": "This 2-word area in the Mojave gets 2 inches of rain a year & has balmy 125-degree summer temps",
+     "a": "Death Valley",
+     "right": [
+      "Maria"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 27,
+     "q": "Lord Nibber--as well as Leela's pet, he's a Peace Ambassador on this show",
+     "a": "Futurama",
+     "right": [
+      "Tim"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 18,
+     "q": "In 1962 Delores Huetra joined with him to create a farm worker's labor union",
+     "a": "Cesar Chavez",
+     "right": [
+      "Tim"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 12,
+     "q": "The adjective in the title of this \nHardy novel can mean gloomy, difficult to understand or not famous",
+     "a": "Jude the Obscure",
+     "right": [
+      "Tim"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 6,
+     "q": "It wasn't just in Boston--on Dec. 22, 1774, patriots in Greenwich, N.J. burned this cargo in a field",
+     "a": "tea",
+     "right": [
+      "Joshua"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 3,
+     "q": "Term for a pitch a catcher should have caught but did not, allowing a runner to advance",
+     "a": "a passed ball",
+     "right": [
+      "Joshua"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 5,
+     "q": "Located in China & Mongolia, this desert isn't primarily sandy but more bare rock in a 1,000-mile-long arc of land",
+     "a": "the Gobi Desert",
+     "right": [
+      "Tim"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 28,
+     "q": "A pet robotic dog on \"Doctor Who\" was , of course given this alphanumeric name",
+     "a": "K-9",
+     "right": [
+      "Maria"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 21,
+     "q": "In 2015 the NCAA sighed with relief as the NLRB rejected unionization of these people at Northwestern",
+     "a": "the college football players",
+     "right": [
+      "Maria"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 13,
+     "q": "\"Of all my books\", Charles Dickens wrote, \"I like\" this veiled autobiography \"the best\"",
+     "a": "David Copperfield",
+     "right": [
+      "Joshua"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 8,
+     "q": "Attempting to escape \nYorktown via ferry, this British general turned back because of a storm & surrendered",
+     "a": "Cornwallis",
+     "right": [
+      "Joshua"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 14,
+     "q": "This word comes from the Biblical story of the tenth plague",
+     "a": "Passover",
+     "right": [
+      "Tim"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 7,
+     "q": "This surface for speed demons is about 70 square miles on the western edge of the Great Salt Lake Desert",
+     "a": "Bonneville Salt Flats",
+     "right": [
+      "Tim"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 29,
+     "q": "A newspaper obit about this animated dog noted his work with the Quahog P.D. as a bomb sniffer",
+     "a": "Brian Griffin",
+     "right": [
+      "Tim"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 22,
+     "q": "Among the other things made by members of this Michigan-based union are boats & jet engines",
+     "a": "the United Auto Workers",
+     "right": [
+      "Maria"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2600
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 19,
+     "q": "This 1886 work says, \"With every day...I thus drew...nearer to that truth...that man is not truly one, but truly two\"",
+     "a": "Dr. Jekyll and Mr. Hyde",
+     "right": [
+      "Tim"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1000
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 9,
+     "q": "His letter of introduction to Washington said he was a \"lieutenant general in the King of Prussia's service\"",
+     "a": "Baron von Steuben",
+     "right": [
+      "Tim"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 15,
+     "q": "Limiting bumping & tarmac time are both part of what's called their \"Bill of \nRights\"",
+     "a": "passengers",
+     "right": [
+      "Tim"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 24,
+     "q": "It's the 360,000 square mile desert seen here",
+     "a": "the Kalahari",
+     "right": [
+      "Joshua"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 25,
+     "q": "Grandpa on The Munsters had a pet one of these named Igor",
+     "a": "a bat",
+     "right": [
+      "Tim"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 23,
+     "q": "In 1980 he led an interfactory strike committee in \nPoland won the right to form labor unions",
+     "a": "Walesa",
+     "right": [
+      "Joshua"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 20,
+     "q": "In a Jane Austen novel, Fanny Price is adopted into the family of her rich uncle, who lives at this title estate",
+     "a": "Mansfield Park",
+     "right": [],
+     "wrong": [
+      "Maria"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 10,
+     "q": "A 1765 British law named for this act of housing soldiers also ordered colonists to supply fuel & alcohol",
+     "a": "the Quartering Act",
+     "right": [
+      "Tim"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 16,
+     "q": "Dr. Alex \nBlanco is mayor of this city in New Jersey, not far from Teterboro airport",
+     "a": "Passaic",
+     "right": [
+      "Tim"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "PHRASE ORIGINS",
+  "q": "Widely parodied today, this 5-word phrase originally appeared on motivational posters in England during WWII",
+  "a": "Keep calm and carry on",
+  "right": [
+   "Maria",
+   "Joshua",
+   "Tim"
+  ],
+  "wrong": []
+ },
+ "gameId": "5201",
+ "cat_notes": {
+  "J": [
+   "Clues about The Image Awards.",
+   "Clues about Real Estate.",
+   "Clues about Pin the Star on the Constellation.",
+   "Clues about Same First and Last Letter.",
+   "Clues about Third.",
+   "Clues about Ferguson."
+  ],
+  "DJ": [
+   "The category “LET'S HAVE DESERT” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "Clues about TV Pets.",
+   "Clues about Labor.",
+   "Clues about British Fiction.",
+   "Clues about The American Revolution Era.",
+   "Each answer contains the letter group “PASS”."
+  ],
+  "F": "Clues about Phrase Origins."
+ }
+}

@@ -1,0 +1,995 @@
+{
+ "show": "#7200",
+ "aired": "2015-12-25",
+ "note": "Alex uses a cane during the closing credits chat.",
+ "contestants": [
+  {
+   "name": "Dee Daigle",
+   "bio": "a substitute teacher from Hebron, Connecticut",
+   "short": "Dee"
+  },
+  {
+   "name": "Emily Poole",
+   "bio": "a musician from Hendersonville, North Carolina",
+   "short": "Emily"
+  },
+  {
+   "name": "Markus Kolic",
+   "bio": "a database developer and stay-at-home dad from Dighton, Massachusetts (whose 1-day cash winnings total $15,300)",
+   "short": "Markus"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Markus": 2400,
+   "Emily": 4000,
+   "Dee": 3600
+  },
+  "DJ": {
+   "Markus": 19000,
+   "Emily": 8800,
+   "Dee": 10000
+  },
+  "Final": {
+   "Markus": 17999,
+   "Emily": 1,
+   "Dee": 19001
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "THE SIMPSONS EPISODE TITLES",
+    "THE SQUIRREL FAMILY",
+    "SUV SHOPPING",
+    "KIDDY LIT",
+    "\"BAM\"! \"POW!\"",
+    "BREWING BEER"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "This character's \"Odyssey\"",
+     "a": "Homer",
+     "right": [
+      "Emily"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 26,
+     "q": "Squirrels are part of this order characterized by rootless, ever-growing incisors",
+     "a": "rodent",
+     "right": [
+      "Emily"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 21,
+     "q": "Suburban",
+     "a": "Chevrolet",
+     "right": [
+      "Markus"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 3,
+     "q": "\"Peter and the Starcatchers\" is Dave Barry & Ridley Pearson's 2004 backstory to this character",
+     "a": "Peter Pan",
+     "right": [
+      "Markus"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 16,
+     "q": "Light, dry snow",
+     "a": "powder",
+     "right": [
+      "Dee"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 10,
+     "q": "(Sarah of the Clue Crew delivers the clue from the UC Davis Malting & Brewing Science program.) This term for the grain, usually barley, that's about to go on a journey to become beer can also refer to the finished product",
+     "a": "malt",
+     "right": [
+      "Markus"
+     ],
+     "wrong": [
+      "Emily"
+     ],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "\"Kamp\" this klown",
+     "a": "Krusty",
+     "right": [
+      "Dee"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "The supersized squirrel family members called marmots include this creature",
+     "a": "groundhog (or woodchuck)",
+     "right": [
+      "Emily"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 22,
+     "q": "Escape",
+     "a": "Ford",
+     "right": [
+      "Emily"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 4,
+     "q": "The first thing this Dr. Seuss character says to Sally & her brother is \"Why do you sit there like that?\"",
+     "a": "The Cat in the Hat",
+     "right": [
+      "Emily"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 17,
+     "q": "To hoodwink or deceive",
+     "a": "bamboozle",
+     "right": [
+      "Markus"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 12,
+     "q": "(Sarah of the Clue Crew delivers the clue from the UC Davis Malting & Brewing Science program.) These dried flowers that give beer much of its flavor come in different types; the aromatic ones are volatile & quickly steamed off, so they're added at the end of the boil",
+     "a": "hops",
+     "right": [
+      "Markus"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 8,
+     "q": "\"Last Exit to\" this city",
+     "a": "Springfield",
+     "right": [
+      "Markus"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 28,
+     "q": "Chipmunks are in the genus Tamias, Greek for this 9-letter word meaning a person in charge of money",
+     "a": "treasurer",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 23,
+     "q": "Pathfinder",
+     "a": "Nissan",
+     "right": [
+      "Emily"
+     ],
+     "wrong": [
+      "Dee"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 6,
+     "q": "This TV \"Fonz\" has co-written over 20 books about Hank Zipzer, \"The World's Greatest Underachiever\"",
+     "a": "Henry Winkler",
+     "right": [
+      "Emily"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 18,
+     "q": "2-word phrase for the elation of bossing others around",
+     "a": "power trip",
+     "right": [
+      "Emily"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 13,
+     "q": "(Sarah of the Clue Crew delivers the clue from the UC Davis Malting & Brewing Science program.) The liquid extracted from the grain mash will become beer after fermentation & other steps; it's called this four-letter word, also found after \"St. John's\"",
+     "a": "wort",
+     "right": [
+      "Markus"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 9,
+     "q": "\"Much\" him \"About Nothing\"",
+     "a": "Apu",
+     "right": [
+      "Dee"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "On the Carolina northern this creature, skin between the wrist & ankle forms an aerodynamic surface for gliding",
+     "a": "flying squirrel",
+     "right": [
+      "Emily"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 24,
+     "q": "Outlander",
+     "a": "Mitsubishi",
+     "right": [
+      "Markus"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 5,
+     "q": "In this 1959 book whose title means a journey through the bush, 2 white children are saved by an Aboriginal boy",
+     "a": "Walkabout",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 19,
+     "q": "Another nickname of George Herman Ruth",
+     "a": "the Bambino",
+     "right": [
+      "Dee"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 14,
+     "q": "(Sarah of the Clue Crew delivers the clue from the UC Davis Malting & Brewing Science program.) Boiling to sterilize the liquid & get rid of some of the grainy taste happens in a brew kettle, also called by the name of this metal from which it was traditionally made",
+     "a": "copper",
+     "right": [
+      "Markus"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 11,
+     "q": "The \"Bonfire of\" these aquatic mammals",
+     "a": "manatees",
+     "right": [
+      "Dee"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 30,
+     "q": "This creature mentioned in one of North Dakota's nicknames is a ground squirrel, not a bird",
+     "a": "flickertail",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 25,
+     "q": "Cayenne",
+     "a": "Porsche",
+     "right": [
+      "Emily"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 7,
+     "q": "In \"Winnie-the-Pooh\", Piglet tries to capture one of these imaginary elephant-like creatures",
+     "a": "a Heffalump",
+     "right": [
+      "Dee"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 20,
+     "q": "Capital of Mali",
+     "a": "Bamako",
+     "right": [
+      "Markus"
+     ],
+     "wrong": [
+      "Emily"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": true,
+     "order": 15,
+     "q": "(Sarah of the Clue Crew delivers the clue from the UC Davis Malting & Brewing Science program.) The two basic types of brewing yeast are top-fermenting & bottom-fermenting, corresponding to these two basic kinds of beer, one including stouts & one including pilsners",
+     "a": "lagers & ales",
+     "right": [],
+     "wrong": [
+      "Markus"
+     ],
+     "stumper": false,
+     "img": true,
+     "ddWager": 2800
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "THE LARGEST COUNTRY...",
+    "MOVING PICTURES",
+    "LIBRARIES",
+    "WHAT HAPPENED WHEN?",
+    "ART & ARTISTS",
+    "STARTS WITH A FRUIT"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 30,
+     "q": "Entirely outside Asia, by area",
+     "a": "Canada",
+     "right": [
+      "Dee"
+     ],
+     "wrong": [
+      "Markus",
+      "Emily"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 17,
+     "q": "She, \"Queen of the Desert\", is an old bus that takes 3 entertainers into the outback",
+     "a": "Priscilla",
+     "right": [
+      "Markus"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 26,
+     "q": "The Gerald R. Ford Presidential Library is on this school's campus",
+     "a": "(University of) Michigan",
+     "right": [
+      "Markus"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 24,
+     "q": "Frederick Banting & Charles Best first isolated this glucose-regulating hormone on July 30, 1921",
+     "a": "insulin",
+     "right": [
+      "Dee"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 8,
+     "q": "Bill Magrath's \"Returning Fire\", seen here, depicts the 1862 battle between these 2 vessels",
+     "a": "the Monitor & the Merrimack",
+     "right": [
+      "Markus"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 3,
+     "q": "Not literally, but this way",
+     "a": "figuratively",
+     "right": [
+      "Dee"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": true,
+     "order": 29,
+     "q": "Entirely south of the Equator, by area",
+     "a": "Australia",
+     "right": [
+      "Markus"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 5000
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 16,
+     "q": "It's the type of vehicle used by Travolta & friends in \"Wild Hogs\"",
+     "a": "motorcycles",
+     "right": [
+      "Dee"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 28,
+     "q": "Dominico Fontant designed this library of the pontiffs in the late 1500s",
+     "a": "Vatican Library",
+     "right": [
+      "Markus"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 25,
+     "q": "Mexico was victorious over French forces at the Battle of Puebla on this date in 1862",
+     "a": "May 5",
+     "right": [
+      "Dee"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 23,
+     "q": "This Brit's sister Frances Reynolds, who lived with him as a housekeeper, called him a \"gloomy tyrant\"",
+     "a": "Sir Joshua Reynolds",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 4,
+     "q": "A small computer program that you can use to work in another program",
+     "a": "applet",
+     "right": [
+      "Emily"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 18,
+     "q": "Entirely in Europe, by population",
+     "a": "Germany",
+     "right": [
+      "Markus"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 13,
+     "q": "In 2015 Ed Skrein replaced Jason Statham as the man on the move in this franchise: \"Refueled\"",
+     "a": "The Transporter",
+     "right": [
+      "Emily"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 10,
+     "q": "Named for its architect, this 17th century library at Cambrige U. has many books from Isaac Newton's own library",
+     "a": "Wren Library",
+     "right": [
+      "Markus"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 1,
+     "q": "This 28-year-old naval officer led U.S. forces to victory on September 10, 1813 at the Battle of Lake Erie",
+     "a": "Oliver Hazard Perry",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 21,
+     "q": "When he died in 1989, he was buried on the floor of the main room of his museum in Figueras, Spain",
+     "a": "Salvador Dali",
+     "right": [
+      "Markus"
+     ],
+     "wrong": [
+      "Dee"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 5,
+     "q": "Don't shrivel when I tell you it means rearing a child",
+     "a": "raising",
+     "right": [
+      "Emily"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 19,
+     "q": "In Africa, by population",
+     "a": "Nigeria",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 14,
+     "q": "River Phoenix & his fugitive parents have spent years on the move in this film",
+     "a": "Running on Empty",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 11,
+     "q": "Fulton, Missouri has a memorial & library devoted to this British statesman",
+     "a": "Winston Churchill",
+     "right": [
+      "Markus"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 2,
+     "q": "This cowboy humorist & Wiley Post were killed on August 15, 1935 when Post's plane crashed in Alaska",
+     "a": "Will Rogers",
+     "right": [
+      "Dee"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 22,
+     "q": "His masterpieces painted in Delft included \"View of Delft\" & \"Woman with a Water Jug\"",
+     "a": "(Jan) Vermeer",
+     "right": [
+      "Dee"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 6,
+     "q": "This material forms the caves of Wind Cave National Park",
+     "a": "limestone",
+     "right": [
+      "Dee"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 20,
+     "q": "In Central America, by population",
+     "a": "Guatemala",
+     "right": [],
+     "wrong": [
+      "Emily"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 15,
+     "q": "She played Sissy, hitchhiker supreme, in \"Even Cowgirls Get The Blues\"",
+     "a": "Uma Thurman",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 12,
+     "q": "This Harvard University library named for a man who died on the Titanic has 57 miles of shelves",
+     "a": "Widener Library",
+     "right": [
+      "Markus"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": true,
+     "order": 9,
+     "q": "On March 6, 1857 Chief Justice Roger Taney announced the Supreme Court's decision in this slave's case",
+     "a": "Dred Scott",
+     "right": [
+      "Markus"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2800
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 27,
+     "q": "This Frenchman experimented with light in series paintings, as in his \"Haystacks\" under different weather & times of day",
+     "a": "Monet",
+     "right": [
+      "Emily"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 7,
+     "q": "As a verb it can mean to make a pillow full & round",
+     "a": "plump",
+     "right": [
+      "Emily"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "PLAYWRIGHTS",
+  "q": "He wrote the line \"Our home has been nothing but a playroom\"",
+  "a": "Henrik Ibsen",
+  "right": [
+   "Dee"
+  ],
+  "wrong": [
+   "Emily",
+   "Markus"
+  ]
+ },
+ "gameId": "5139",
+ "cat_notes": {
+  "J": [
+   "Clues about The Simpsons Episode Titles.",
+   "Clues about The Squirrel Family.",
+   "We'll give you the model, you give us the make.",
+   "Clues about Kiddy Lit.",
+   "The category “\"BAM\"! \"POW!\"” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "(Sarah: From the Malting & Brewing Science Program at UC Davis, the craft and science that go into a cold one.)."
+  ],
+  "DJ": [
+   "We'll give you some information about that.",
+   "Clues about Moving Pictures.",
+   "Clues about Libraries.",
+   "Hey...",
+   "Clues about Art and Artists.",
+   "And each correct response..."
+  ],
+  "F": "Clues about Playwrights."
+ }
+}

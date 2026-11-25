@@ -1,0 +1,1000 @@
+{
+ "show": "#7208",
+ "aired": "2016-01-06",
+ "note": "",
+ "contestants": [
+  {
+   "name": "Matt Orlovick",
+   "bio": "a program analyst from Washington, D.C.",
+   "short": "Matt"
+  },
+  {
+   "name": "Sheila Churchill",
+   "bio": "a retired registered nurse from Braselton, Georgia",
+   "short": "Sheila"
+  },
+  {
+   "name": "Steve Belding",
+   "bio": "an engineer from Knoxville, Tennessee (whose 1-day cash winnings total $24,401)",
+   "short": "Steve"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Steve": 4800,
+   "Sheila": 6800,
+   "Matt": 2400
+  },
+  "DJ": {
+   "Steve": 16200,
+   "Sheila": 6200,
+   "Matt": 12000
+  },
+  "Final": {
+   "Steve": 24001,
+   "Sheila": 0,
+   "Matt": 17000
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "WHEEL OF FORTUNE",
+    "FAMILY FEUD",
+    "NEWLYWED GAMES",
+    "THE AMERICAN BIBLE CHALLENGE",
+    "NAME THAT TUNE",
+    "LET'S MAKE A \"DE-\""
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 21,
+     "q": "This British automaker famous for its luxury vehicles was nationalized in 1971 after going bankrupt",
+     "a": "Rolls-Royce",
+     "right": [
+      "Steve"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 10,
+     "q": "Perth, Scotland's Battle of the North Inch was a clash of 2 familial groups, called these",
+     "a": "clans",
+     "right": [
+      "Steve"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 26,
+     "q": "One game is to guess the wedding guest who picked the cheapest item off this list of stuff we need from Macy's",
+     "a": "bridal registry",
+     "right": [
+      "Steve"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 8,
+     "q": "\"And the Lord set a mark upon\" this man, \"lest any finding him should kill him\"",
+     "a": "Cain",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "\"Jojo was a man who thought he was a loner, but he knew it couldn't last\" in this chart-topping tune",
+     "a": "\"Get Back\"",
+     "right": [
+      "Steve"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 6,
+     "q": "Old Spice is one",
+     "a": "deodorant",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 22,
+     "q": "It's easy to cruise in one of this car brand's $650,000 Enzo models, but difficult to keep it under 200 mph",
+     "a": "Ferrari",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [
+      "Steve"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 16,
+     "q": "This \"Splendid Splinter\" of Red Sox fame saw his family splinter over what to do with his body after his death in 2002",
+     "a": "Ted Williams",
+     "right": [
+      "Steve"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "You win Best Cook-- I've had to let out my pants & do this equivalent with my ring",
+     "a": "resize",
+     "right": [
+      "Steve"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 9,
+     "q": "In Genesis this prized item of Joseph's wardrobe gets taken and dipped in blood",
+     "a": "the coat of many colors",
+     "right": [
+      "Sheila"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "These Katy Perry women are \"undeniable, fine, fresh, fierce, we got it on lock, West Coast represent!\"",
+     "a": "\"California Gurls\"",
+     "right": [
+      "Steve"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 7,
+     "q": "To behead",
+     "a": "decapitate",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 23,
+     "q": "Affixed to models like its Continental GT, the logo of this luxury car manufacturer is seen here",
+     "a": "Bentley",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 17,
+     "q": "From the Latin for \"Vengeance\" comes this feud that Italian crime families sometimes engage in",
+     "a": "vendetta",
+     "right": [
+      "Sheila"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 28,
+     "q": "On our honeymoon in Aruba, who can learn the most words in Papiamento & this other official language",
+     "a": "Dutch",
+     "right": [
+      "Sheila"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 14,
+     "q": "Revelation says that this alliterative object was opened, there was a half-hour hush in heaven",
+     "a": "the seventh seal",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 3,
+     "q": "Andy Grammer wasn't messing around with this 2015 hit\n\n\"I could have another but I probably should not /\nI got somebody at home\"",
+     "a": "\"Honey, I'm Good.\"",
+     "right": [
+      "Steve"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 11,
+     "q": "This TV host is descended from a French planter who left Hispaniola for Louisiana",
+     "a": "Ellen DeGeneres",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 24,
+     "q": "In 2015 this GM luxury brand moved its headquarters from Detroit to Manhattan",
+     "a": "Cadillac",
+     "right": [
+      "Sheila"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 18,
+     "q": "She thought sis Olivia de Havilland would \"spring across the table and grab me by the hair\" after she won a 1941 Oscar",
+     "a": "Joan Fontaine",
+     "right": [
+      "Sheila"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "One hand of poker to decide if we get a chow or this kind of dog named for an area of Northern Honshu",
+     "a": "Akita",
+     "right": [
+      "Sheila"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 15,
+     "q": "Not just trumpets but \"a great shout\" brought down the walls of this city",
+     "a": "Jericho",
+     "right": [
+      "Steve"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 4,
+     "q": "\"Honey, I know, I know, I know times are changin'\" but U know this song by Prince; I only want to see you laughing there",
+     "a": "\"Purple Rain\"",
+     "right": [
+      "Steve"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 12,
+     "q": "Indifference, or a small unit of soldiers on a mission",
+     "a": "detachment",
+     "right": [
+      "Sheila"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 25,
+     "q": "The youngest division head in GM's history, he made his own namesake sports car in the 1980s",
+     "a": "(John) DeLorean",
+     "right": [
+      "Sheila"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 19,
+     "q": "The book \"Nemesis\" details Robert Kennedy's feud with this European, who ended up marrying RFK's former in-law",
+     "a": "(Aristotle) Onassis",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 30,
+     "q": "I win best first anniversary gift with stationary from this company started by a man named Stephen, like the author",
+     "a": "Crane",
+     "right": [
+      "Sheila"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": true,
+     "order": 20,
+     "q": "In 1 Kings 3 God tells him, \"I have given thee a wise and an understanding heart\"",
+     "a": "Solomon",
+     "right": [],
+     "wrong": [
+      "Matt"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2000
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 5,
+     "q": "\"Now Paul is a real estate novelist, who never had time for a wife\" in this signature Billy Joel song",
+     "a": "\"Piano Man\"",
+     "right": [
+      "Steve"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 13,
+     "q": "A mark of misconduct in your record",
+     "a": "a demerit",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "REVOLUTIONARY QUOTATIONS",
+    "WHAT'S THE \"‑OLOGY\"?",
+    "OPEC NATIONS",
+    "ON THE STAGE",
+    "THE SUPER BOWL HEAD COACH'S TEAM",
+    "____ IN THE ____"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "A draft of this read \"We hold these truths to be sacred & undeniable\"",
+     "a": "the Declaration of Independence",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "Professor Gerald Cohen, an expert on word origins, edits a learned journal called \"Comments On\" this",
+     "a": "etymology",
+     "right": [
+      "Sheila"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 26,
+     "q": "After the 1979 revolution, this country got a new flag inscribed 22 times with \"Allahu akbar\", \"God is great\"",
+     "a": "Iran",
+     "right": [
+      "Steve"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 6,
+     "q": "When it debuted, \"The Odd Couple\" starred Art Carney & Walter Matthau in these 2 roles",
+     "a": "Felix & Oscar",
+     "right": [
+      "Steve"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 9,
+     "q": "1986:\nMike Ditka\n(da dem)",
+     "a": "the (Chicago) Bears",
+     "right": [
+      "Sheila"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 18,
+     "q": "The guy seen here must be exhausted from anger, because he's literally this",
+     "a": "blue in the face",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 15,
+     "q": "In 1777 Washington complained of soldiers \"bare foot & otherwise naked\"--not great in December at this location",
+     "a": "Valley Forge",
+     "right": [
+      "Steve"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 3,
+     "q": "Your beautician is an expert (we hope) in this, the art & practice of beauty treatment",
+     "a": "cosmetology",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 27,
+     "q": "This small country invaded by a fellow OPEC member in 1990 has no rivers, lakes, or income tax",
+     "a": "Kuwait",
+     "right": [
+      "Sheila"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 7,
+     "q": "This Jack Black film went to Broadway in 2015, with Alex Brightman as Dewey Finn, who poses as a substitute teacher",
+     "a": "School of Rock",
+     "right": [
+      "Steve"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 12,
+     "q": "1977:\nJohn Madden\n(he just won, baby)",
+     "a": "the Oakland Raiders",
+     "right": [
+      "Steve"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 22,
+     "q": "An empty promise is like this dessert up where the clouds are",
+     "a": "pie in the sky",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 19,
+     "q": "On Jan. 2, 1776 this body passed the Tory Act, saying lock up \"unworthy Americans as... have taken part with our oppressors\"",
+     "a": "the Continental Congress",
+     "right": [
+      "Sheila"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 4,
+     "q": "If your specialty is Lepidoptera, you're an expert in this field",
+     "a": "entomology",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 28,
+     "q": "Some of South America's largest petroleum deposits lie in the Maracaibo Basin in this country",
+     "a": "Venezuela",
+     "right": [
+      "Steve"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 8,
+     "q": "This American classic shows everyday life in Grover's Corners, New Hampshire",
+     "a": "Our Town",
+     "right": [
+      "Steve"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 13,
+     "q": "1973:\nDon Shula\n(perfect)",
+     "a": "the Dolphins",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 23,
+     "q": "This 1952 movie musical starring Gene Kelly is about a silent film's transition to sound",
+     "a": "Singin' In The Rain",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 20,
+     "q": "Hearing gunfire at Lexington, this leader of the Sons of Liberty said, \"What a glorious morning for America\"",
+     "a": "Samuel Adams",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 5,
+     "q": "It's the medical branch devoted to the stomach & intestines & their ailments",
+     "a": "gastroenterology",
+     "right": [
+      "Steve"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 29,
+     "q": "This country that had violent regime change in 2011 has the largest oil reserves in Africa",
+     "a": "Libya",
+     "right": [],
+     "wrong": [
+      "Steve"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 3000
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 10,
+     "q": "This Tony-winning musical is based on Alison Bechdel's graphic memoir of growing up in a mortuary",
+     "a": "Fun Home",
+     "right": [
+      "Steve"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 16,
+     "q": "1993:\nJimmy Johnson\n(how 'bout them...)",
+     "a": "the Cowboys",
+     "right": [
+      "Steve"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 24,
+     "q": "A person with potential but who lacks social graces is often described by this gem of an expression",
+     "a": "a diamond in the rough",
+     "right": [
+      "Sheila"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 21,
+     "q": "Asked what kind of government we got, Benjamin Franklin replied, \"A republic...\" these 5 words",
+     "a": "if you can keep it",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 14,
+     "q": "It's the theological study of \"last things\"",
+     "a": "eschatology",
+     "right": [],
+     "wrong": [
+      "Matt"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 30,
+     "q": "Oil & Al Jazeera are major products of this land ruled by the Al Thani family",
+     "a": "Qatar",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 11,
+     "q": "The title character of this Shaw play has joined the Salvation Army, hence her rank",
+     "a": "Major Barbara",
+     "right": [
+      "Steve"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 17,
+     "q": "1992:\nJoe Gibbs\n(hog-tied the Bills that year)",
+     "a": "the (Washington) Redskins",
+     "right": [
+      "Steve"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": true,
+     "order": 25,
+     "q": "This T.S. Eliot verse drama deals with the assassination of Thomas Becket",
+     "a": "Murder in the Cathedral",
+     "right": [],
+     "wrong": [
+      "Sheila"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 5000
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "SITCOMS",
+  "q": "When it premiered in 1974, this TV show used a 1955 No. 1 hit as its opening song",
+  "a": "Happy Days",
+  "right": [
+   "Matt",
+   "Steve"
+  ],
+  "wrong": [
+   "Sheila"
+  ]
+ },
+ "gameId": "5154",
+ "cat_notes": {
+  "J": [
+   "Clues about Wheel of Fortune.",
+   "Clues about Family Feud.",
+   "Clues about Newlywed Games.",
+   "Clues about The American Bible Challenge.",
+   "Clues about Name That Tune.",
+   "Each answer contains the letter group “DE-”."
+  ],
+  "DJ": [
+   "Clues about Revolutionary Quotations.",
+   "Each answer ends with “‑OLOGY”.",
+   "Clues about Opec Nations.",
+   "Clues on the Stage.",
+   "Clues about The Super Bowl Head Coach's Team.",
+   "Clues about ____ in the ____."
+  ],
+  "F": "Clues about Sitcoms."
+ }
+}

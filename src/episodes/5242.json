@@ -1,0 +1,979 @@
+{
+ "show": "#7276",
+ "aired": "2016-04-11",
+ "note": "",
+ "contestants": [
+  {
+   "name": "Catherine Kruchten",
+   "bio": "an informal educator from Baltimore, Maryland",
+   "short": "Catherine"
+  },
+  {
+   "name": "Thaddeus Lisowski",
+   "bio": "a Latin teacher from Alameda, California",
+   "short": "Thaddeus"
+  },
+  {
+   "name": "Ricky Young",
+   "bio": "a tax accountant originally from Canyonville, Oregon (whose 1-day cash winnings total $25,599)",
+   "short": "Ricky"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Ricky": 6800,
+   "Thaddeus": 2600,
+   "Catherine": 3800
+  },
+  "DJ": {
+   "Ricky": 16000,
+   "Thaddeus": 3200,
+   "Catherine": 7200
+  },
+  "Final": {
+   "Ricky": 14401,
+   "Thaddeus": 6150,
+   "Catherine": 7999
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "WHO WANTS A BEER?",
+    "AUTOBIOGRAPHIES",
+    "FRENCH OCCUPATION",
+    "ENTOMOLOGIST'S DICTIONARY",
+    "BIG BATS OF BASEBALL",
+    "\"D.H.\""
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "Clydesdales are true draft horses, appearing with this beer since 1933",
+     "a": "Budweiser",
+     "right": [
+      "Thaddeus"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 18,
+     "q": "Central to his autobiography \"Timebends\" was his 4-year marriage to Marylin Monroe",
+     "a": "Arthur Miller",
+     "right": [
+      "Ricky"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 26,
+     "q": "Chanteuse",
+     "a": "a singer",
+     "right": [
+      "Ricky"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 2,
+     "q": "6-letter word for a community of insects that live & work together",
+     "a": "colony",
+     "right": [
+      "Ricky"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 4,
+     "q": "In 2015 this \"Big Papi\" with 500+ homers & a .455 World Series batting average said 2016 would be his final season",
+     "a": "(David) Ortiz",
+     "right": [
+      "Thaddeus"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 12,
+     "q": "In the '50s, cake mixes were first sold under his name; they're \"So moist. So delicious. And so much more\"",
+     "a": "Duncan Hines",
+     "right": [
+      "Ricky"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 3,
+     "q": "This Dutch beer was honored with a Diplome de Grand Prix at the 1889 World's Fair in Paris",
+     "a": "Heineken",
+     "right": [
+      "Thaddeus"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 19,
+     "q": "It's the Greta Garbo-esque title of Vanna White's 1987 autobiography",
+     "a": "Vanna Speaks!",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "Bibliothecaire",
+     "a": "librarian",
+     "right": [
+      "Catherine"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 15,
+     "q": "Clavate, meaning \"club-shaped\" is one type of these paired sensory appendages",
+     "a": "Antenna",
+     "right": [
+      "Catherine"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 5,
+     "q": "A San Diego Padre from 1982 to 2001, this outfielder won 8 batting titles",
+     "a": "Tony Gwynn",
+     "right": [
+      "Ricky"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 13,
+     "q": "This singer from Philadelphia says of his rich career that he was in the right place at the right time",
+     "a": "Daryl Hall",
+     "right": [],
+     "wrong": [
+      "Thaddeus"
+     ],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 9,
+     "q": "This \"cerveza mas fina\" has been brewed & bottled in Mexico since 1925",
+     "a": "Corona",
+     "right": [
+      "Catherine"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 20,
+     "q": "1-word title of Cheryl Strayed's memoir subtitled \"From Lost to Found on the Pacific Crest Trail\"",
+     "a": "Wild",
+     "right": [
+      "Ricky"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 28,
+     "q": "Boulanger",
+     "a": "a baker (a breadmaker accepted)",
+     "right": [
+      "Thaddeus"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 16,
+     "q": "Chitin is the main component of this tough, outer supporting structure of an insect",
+     "a": "the exoskeleton",
+     "right": [
+      "Ricky"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 6,
+     "q": "This Yankee outfielder hit 52 home runs in 1956 & 54 in 1961",
+     "a": "Mickey Mantle",
+     "right": [
+      "Ricky"
+     ],
+     "wrong": [
+      "Catherine"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 14,
+     "q": "This Swede was the second Secretary-General of the United Nations",
+     "a": "Dag Hammarskjöld",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 10,
+     "q": "Appropriately, this beer brand makes a Rebel IPA",
+     "a": "Sam Adams",
+     "right": [
+      "Thaddeus"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 21,
+     "q": "This first memoir of Maya Angelou became a bestseller",
+     "a": "I Know Why the Caged Bird Sings",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "Avocat",
+     "a": "a lawyer",
+     "right": [
+      "Thaddeus"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": true,
+     "order": 23,
+     "q": "Helpful in identification & classification, venation is the arrangement of veins in this part",
+     "a": "the wings",
+     "right": [
+      "Ricky"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2000
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 7,
+     "q": "In 1980 this Kansas City Royal batted .390",
+     "a": "George Brett",
+     "right": [
+      "Ricky"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 17,
+     "q": "In \"The Best and the Brightest\", this historian chronicled the failings of the U.S. military in Vietnam",
+     "a": "David Halberstam",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 11,
+     "q": "Here's the logo of this beer that also comes in dark & non-alcoholic versions",
+     "a": "St. Pauli Girl",
+     "right": [
+      "Catherine"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 22,
+     "q": "In this 1956 autobiography, Billie Holiday wrote of her career & the hardships of her childhood",
+     "a": "Lady Sings the Blues",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 30,
+     "q": "Pompier",
+     "a": "firefighter",
+     "right": [
+      "Catherine"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 24,
+     "q": "7-letter term for the imitation by harmless insect species of poisonous ones to fool predators",
+     "a": "mimicry",
+     "right": [
+      "Catherine"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 8,
+     "q": "In the '50s and '60s, he was a true giant, becoming one of the greatest players of all time",
+     "a": "Willie Mays",
+     "right": [
+      "Ricky"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 25,
+     "q": "His 1961 N.Y. Times obituary called him \"The dean of the so-called 'hard-boiled' school of detective fiction\"",
+     "a": "Dashiell Hammett",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "A LITTLE TV",
+    "JUDEAN HISTORY",
+    "STATE SONG LYRICS",
+    "1940s LIT",
+    "GARDENING",
+    "THE WAY WE \"WOR\""
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 26,
+     "q": "There was baby news upstairs with Lady Mary & downstairs with Anna as this series ended its 6-year run on PBS in 2016",
+     "a": "Downton Abbey",
+     "right": [
+      "Catherine"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 21,
+     "q": "Around 1000 B.C. this king from Judea united all Israel into one kingdom with Jerusalem as its capital",
+     "a": "David",
+     "right": [
+      "Catherine"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 16,
+     "q": "This state is \"Birthplace of a mighty nation, keystone of the land\"",
+     "a": "Pennsylvania",
+     "right": [
+      "Catherine"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 11,
+     "q": "To research this bestseller, Ayn Rand worked in the office of architect Ely Kahn",
+     "a": "The Fountainhead",
+     "right": [
+      "Catherine"
+     ],
+     "wrong": [
+      "Ricky"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "Several varieties of a fruit can be grown on the same tree using this practice that unites parts of different plants",
+     "a": "grafting",
+     "right": [
+      "Catherine"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 6,
+     "q": "Admirable, or NBA Hall of Famer James",
+     "a": "worthy",
+     "right": [
+      "Ricky"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 30,
+     "q": "Angus is the first name of this resourceful Phoenix Foundation member",
+     "a": "MacGyver",
+     "right": [
+      "Ricky"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": true,
+     "order": 22,
+     "q": "Around 587 B.C. this empire conquered Judea & exiled most of the Jews",
+     "a": "the Babylonian Empire",
+     "right": [],
+     "wrong": [
+      "Catherine"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2600
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 17,
+     "q": "\"All hail to grand old Bay State, the home of the bean and \" this fish",
+     "a": "cod",
+     "right": [
+      "Thaddeus"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 12,
+     "q": "When asked if this NYC-set novel was true, Betty Smith replied, \"Not as it was but as it should have been\"",
+     "a": "A Tree Grows in Brooklyn",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 2,
+     "q": "Burpee offers the supersauce hybrid of one of these plants yielding Romas weighing 2 pounds",
+     "a": "tomatoes",
+     "right": [
+      "Catherine"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 7,
+     "q": "In the name of the folks that bring you Elmo, \"Sesame\" has replaced \"Children's Television\" before this word",
+     "a": "Workshop",
+     "right": [
+      "Ricky"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 29,
+     "q": "Kappa Kappa Tau sees a lot of violence on this Fox show",
+     "a": "Scream Queens",
+     "right": [],
+     "wrong": [
+      "Ricky"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 23,
+     "q": "He was the Roman prefect or governor of Judea from 26 to 36 A.D.",
+     "a": "Pilate",
+     "right": [
+      "Ricky"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": true,
+     "order": 18,
+     "q": "Out west \"Blessed from Heaven above, it's the land that we love, this is the place\"",
+     "a": "Utah",
+     "right": [],
+     "wrong": [
+      "Thaddeus"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 3400
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 13,
+     "q": "Clergyman Lloyd Douglas was asked what became of Christ's garment at the crucifixion; he wrote this novel as a reply",
+     "a": "The Robe",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 3,
+     "q": "For best flavor, herbs should be harvested in the morning, when these oils are at their highest concentration",
+     "a": "essential oils",
+     "right": [
+      "Thaddeus",
+      "Catherine"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 8,
+     "q": "Repartee",
+     "a": "wordplay",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 28,
+     "q": "Ricky Ricardo's signature song on \"I Love Lucy\"",
+     "a": "\"Babalú\"",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 24,
+     "q": "Immediately before the Israelite conquest under Joshua, these people dominated Judea",
+     "a": "the Canaanites",
+     "right": [
+      "Ricky"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 19,
+     "q": "Arkansans sing, \"October morning in\" these mountains, \"hills ablazing like that sun in the sky\"",
+     "a": "the Ozarks",
+     "right": [
+      "Ricky"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 14,
+     "q": "John Hersey won a Pulitzer for his novel about a U.S. soldier helping find \"A Bell for\" this Sicilian town",
+     "a": "Adano",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 4,
+     "q": "The name of this flower bed plant of the balsam family comes from the speed with which its seeds are dispersed",
+     "a": "impatiens",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 9,
+     "q": "In the Bible, this herb is a symbol of bitterness",
+     "a": "wormwood",
+     "right": [],
+     "wrong": [
+      "Ricky"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 27,
+     "q": "\"Looking\" & \"Full House\" were both set in this city",
+     "a": "San Francisco",
+     "right": [
+      "Ricky"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 25,
+     "q": "(Sarah of the Clue Crew shows a map on the monitor.) Biblical Palestine was divided into two kingdoms--Israel in the north & Judea in the south, with this city that's still the main community of the Negev region as its southernmost town",
+     "a": "Beersheba",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 20,
+     "q": "\"From New Castle's rolling meadows, through the fair rich fields of Kent, to the Sussex shores\" is sung in this state",
+     "a": "Delaware",
+     "right": [
+      "Ricky"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 15,
+     "q": "A young apprentice silversmith in 1770s \nBoston is the title character of this 1943 historical fiction by Esther Forbes",
+     "a": "Johnny Tremain",
+     "right": [
+      "Ricky"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 5,
+     "q": "The grass in your lawn might be Bermuda, rye or this variety that sounds like a city in Florida",
+     "a": "St. Augustine",
+     "right": [
+      "Thaddeus"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 10,
+     "q": "This compactly twisted woolen yarn is named for a village in eastern England",
+     "a": "worsted",
+     "right": [
+      "Catherine"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "2015 MOVIES",
+  "q": "Jazz musician Trombone Shorty performed the \"voices\" of just the adults in the movie about this title group",
+  "a": "the Peanuts",
+  "right": [
+   "Thaddeus",
+   "Catherine"
+  ],
+  "wrong": [
+   "Ricky"
+  ]
+ },
+ "gameId": "5242",
+ "cat_notes": {
+  "J": [
+   "The category “WHO WANTS A BEER?” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "Clues about Autobiographies.",
+   "Clues about French Occupation.",
+   "Clues about Entomologist's Dictionary.",
+   "Clues about Big Bats of Baseball.",
+   "Each answer is formed from the initials D.H."
+  ],
+  "DJ": [
+   "Clues about A Little TV.",
+   "Clues about Judean History.",
+   "Clues about State Song Lyrics.",
+   "Clues about 1940s Lit.",
+   "Clues about Gardening.",
+   "Each answer starts with “WOR”, and the clues are about The Way We."
+  ],
+  "F": "Clues about 2015 Movies."
+ }
+}
