@@ -1,0 +1,996 @@
+{
+ "show": "#6335",
+ "aired": "2012-03-16",
+ "note": "",
+ "contestants": [
+  {
+   "name": "Hannah Spector",
+   "bio": "a stay-at-home mom from Van Nuys, California",
+   "short": "Hannah"
+  },
+  {
+   "name": "Sharla Zwirek",
+   "bio": "an editorial manager from Medway, Massachusetts",
+   "short": "Sharla"
+  },
+  {
+   "name": "John Erler",
+   "bio": "a movie mocker from Austin, Texas (whose 1-day cash winnings total $29,000)",
+   "short": "John"
+  }
+ ],
+ "scores": {
+  "J": {
+   "John": 6600,
+   "Sharla": 2000,
+   "Hannah": 4800
+  },
+  "DJ": {
+   "John": 14600,
+   "Sharla": 1200,
+   "Hannah": 16000
+  },
+  "Final": {
+   "John": 26799,
+   "Sharla": 1000,
+   "Hannah": 29201
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "HORSETORY",
+    "FROM JOCK TO POLITICIAN",
+    "E BEFORE I",
+    "WE ALL MAKE CHOICES IN LIFE",
+    "SHAPE UP!",
+    "SHIP OUT"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 25,
+     "q": "The horse panel is a set of 30,000-year-old drawings in the Chauvet cave, dating to this age",
+     "a": "Stone Age",
+     "right": [
+      "Sharla"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 11,
+     "q": "In 2008 ex-NBA point guard Kevin Johnson was elected mayor of this capital of California",
+     "a": "Sacramento",
+     "right": [
+      "John"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "A temperature scale scorned by foreigners but good enough for us here in the U.S. of A.",
+     "a": "Fahrenheit",
+     "right": [
+      "John"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 6,
+     "q": "The math section of the S.A.T. a) is 70 minutes long; b) covers algebra; c) is mainly multiple choice; d) all of the above",
+     "a": "d) all of the above",
+     "right": [
+      "John"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 17,
+     "q": "A fitness saying goes, these 8 midriff muscles \"are made in the kitchen\"",
+     "a": "abs",
+     "right": [
+      "John"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 13,
+     "q": "On February 15, 1898 the USS Maine mysteriously sank in this city's harbor",
+     "a": "Havana",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 26,
+     "q": "To flee predators, horses evolved the ability to do this standing up, using a leg-locking system called the stay apparatus",
+     "a": "sleep",
+     "right": [
+      "John"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 12,
+     "q": "He's seen here in his first career & then in his years quarterbacking HUD as its secretary",
+     "a": "Jack Kemp",
+     "right": [
+      "Sharla"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "You \"take\" it to become a nun",
+     "a": "the veil",
+     "right": [],
+     "wrong": [
+      "Sharla"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 7,
+     "q": "In poker, this guy's \"choice\" includes the game to be played & any special rules; you could say he holds all the cards",
+     "a": "the dealer",
+     "right": [
+      "John"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 18,
+     "q": "As well as a program to clear drugs from the body, this word now refers to an extreme but short-term diet",
+     "a": "detox",
+     "right": [
+      "Hannah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 14,
+     "q": "On April 10, 1963 the Thresher, an atomic-powered one of these, sank in the North Atlantic with all hands lost",
+     "a": "a submarine",
+     "right": [
+      "John"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 27,
+     "q": "Having never seen horses until the Conquistadors arrived in 1519, these people described them as big sweaty deer",
+     "a": "Aztecs",
+     "right": [
+      "Sharla"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 22,
+     "q": "His resume-- Rhodes scholar, N.Y. Knick for 10 years, U.S. senator for 18",
+     "a": "Bill Bradley",
+     "right": [
+      "John"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 3,
+     "q": "Arab tribal leader rank (often paired with rattle & roll?)",
+     "a": "sheik",
+     "right": [
+      "Sharla"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 8,
+     "q": "In 2011, \"Keeping Up With The Kardashians\" won this award for \"Favorite Guilty Pleasure\"",
+     "a": "the People's Choice",
+     "right": [
+      "Hannah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 19,
+     "q": "Well, he said he'd be back...in 1999 he wrote \"The New Encyclopedia of Modern Bodybuilding\", updated from 1985",
+     "a": "Schwarzenegger",
+     "right": [
+      "Sharla"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 15,
+     "q": "It was sunk by the Germans off the Irish coast on May 7, 1915",
+     "a": "the Lusitania",
+     "right": [
+      "John"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": true,
+     "order": 28,
+     "q": "All breeds of domestic horse are a single species, scientifically this genus caballus",
+     "a": "Equus",
+     "right": [
+      "Sharla"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 800
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 23,
+     "q": "Future congressman Steve Largent was for the birds as a member of this NFL team from 1976 to 1989",
+     "a": "the Seattle Seahawks",
+     "right": [
+      "John"
+     ],
+     "wrong": [
+      "Sharla",
+      "Hannah"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 4,
+     "q": "Not this, nor that",
+     "a": "neither",
+     "right": [
+      "John"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 9,
+     "q": "This Nescafe coffee brand is \"made with a fine blend of robusta and arabica beans picked at the peak of freshness\"",
+     "a": "Taster's Choice",
+     "right": [
+      "John"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 20,
+     "q": "Time to take your talents to this Arthur Agatston \"diet\"; one book is \"Quick and Easy\"' another, \"Supercharged\"",
+     "a": "South Beach",
+     "right": [
+      "Hannah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 16,
+     "q": "The classy ocean liner called \"Ile de\" this was partially sunk for the filming of the 1960 movie \"The Last Voyage\"",
+     "a": "France",
+     "right": [
+      "Hannah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 29,
+     "q": "The horse has long been used in war; the Bible says it \"saith among\" the sound of these instruments, \"ha, ha\"",
+     "a": "trumpets",
+     "right": [
+      "Hannah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 24,
+     "q": "Ken Dryden won 6 championships in his 8 seasons with this team & then won election to Canada's Parliament",
+     "a": "the Montreal Canadiens",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 5,
+     "q": "A complicated bank or museum robbery",
+     "a": "a heist",
+     "right": [
+      "John"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 10,
+     "q": "First name of Polish refugee Zawistowska, who made a gut-wrenching title \"choice\" in a 1979 novel",
+     "a": "Sophie",
+     "right": [
+      "Hannah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 21,
+     "q": "Regular exercise boosts HDL, high-density this (\"good\" cholesterol), while decreasing triglycerides",
+     "a": "lipoprotein",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 30,
+     "q": "On July 25, 1956 this Italian liner collided with a Swedish ship & sank off Massachusetts",
+     "a": "Andrea Doria",
+     "right": [
+      "Hannah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "MARCH-ING",
+    "CELEBRITIES' FAVORITE BOOKS",
+    "IT'S A NOUN! IT'S A VERB!",
+    "IN THE STATE CAPITAL",
+    "GADGETS GALORE",
+    "GROUP \"E\"s"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 8,
+     "q": "It was time to hide your pic-a-nic baskets in March 1872 when this first U.S. national park was established",
+     "a": "Yellowstone",
+     "right": [
+      "Sharla"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 16,
+     "q": "(I'm Wolf Blitzer of CNN.) My favorite book is \"The Adventures Of Huckleberry Finn\" a tale of escape & much more that's set on this river",
+     "a": "the Mississippi",
+     "right": [
+      "John"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 3,
+     "q": "It can be the back part of something, or can mean to bring up a child",
+     "a": "rear",
+     "right": [
+      "John"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "The Mendenhall Glacier Visitor Center",
+     "a": "Juneau (Alaska)",
+     "right": [
+      "John"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 26,
+     "q": "In ancient Rome it was for incising a wax tablet; today, it's for poking at the screen on a handheld device",
+     "a": "a stylus",
+     "right": [
+      "John"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 21,
+     "q": "In October 2010 this group's Glenn Frey, Don Henley, Joe Walsh & Timothy B. Schmit hit the road for a fall tour",
+     "a": "the Eagles",
+     "right": [
+      "John"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 9,
+     "q": "On March 12, 1912 Juliette Gordon Low founded this group in Savannah, Georgia",
+     "a": "the Girl Scouts",
+     "right": [
+      "Hannah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 17,
+     "q": "(Hi, I'm Charles Shaughnessy.) I love Yossarian in this Joseph Heller novel, especially when he shows up naked at his own medal ceremony",
+     "a": "Catch-22",
+     "right": [
+      "Sharla"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 4,
+     "q": "A doe's darling, or to seek favor by obsequious flattery",
+     "a": "fawn",
+     "right": [
+      "John"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 2,
+     "q": "The Ethan Allen Statue at the State House",
+     "a": "Montpelier (Vermont)",
+     "right": [
+      "Hannah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 27,
+     "q": "This system helps recover your stolen car & now, with absolute software, can help recover a stolen laptop",
+     "a": "Lojack",
+     "right": [],
+     "wrong": [
+      "John"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 22,
+     "q": "In 1978 they put an R&B spin on \"Got To Get You Into My Life\"",
+     "a": "Earth Wind & Fire",
+     "right": [
+      "John"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 10,
+     "q": "March 1, 1815 saw this man return to France from exile",
+     "a": "Napoleon",
+     "right": [
+      "John"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 18,
+     "q": "(Hi, I'm Neil Patrick Harris.) One of my favorite books is this kids' classic in which 5th graders Jess & Leslie create a secret kingdom in the woods",
+     "a": "Bridge to Terabithia",
+     "right": [
+      "Hannah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": true,
+     "order": 5,
+     "q": "A medieval rank just below knight, or a verb meaning \"to escort\"",
+     "a": "squire",
+     "right": [],
+     "wrong": [
+      "John"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2200
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 13,
+     "q": "The Lady Bird Johnson Wildflower Center",
+     "a": "Austin",
+     "right": [
+      "John"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 28,
+     "q": "The Magic Bullet featured in many infomercials, is this device",
+     "a": "a blender",
+     "right": [
+      "Hannah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 23,
+     "q": "In the '90s this girl group had a string of hits including \"Hold On\" & \"My Lovin' (You're Never Gonna Get It)\"",
+     "a": "En Vogue",
+     "right": [
+      "Hannah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 11,
+     "q": "It was March 23, 2010 that President Obama signed the far-reaching & controversial law reforming this",
+     "a": "healthcare",
+     "right": [
+      "John"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 19,
+     "q": "(Hi, I'm Isaac Mizrahi.) I loved Colm Toibin's \"The Master\", a fictionalized study of the interior life of this \"Daisy Miller\" author",
+     "a": "Henry James",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 6,
+     "q": "To make something invalid, or the vast abysmal vacant empty waste of nothing",
+     "a": "void",
+     "right": [
+      "John"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 14,
+     "q": "The monument to the Battle of Midway",
+     "a": "Annapolis, Maryland",
+     "right": [],
+     "wrong": [
+      "John",
+      "Sharla"
+     ],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 29,
+     "q": "Instant tents from this \"Outdoor Company\" can be set up or taken down in one minute",
+     "a": "Coleman",
+     "right": [
+      "John",
+      "Sharla"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 24,
+     "q": "\"I Can't Get It Out Of My Head\" that this Jeff Lynne group joined Olivia Newton-John on the \"Xanadu\" soundtrack",
+     "a": "ELO (Electric Light Orchestra)",
+     "right": [
+      "John"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": true,
+     "order": 12,
+     "q": "On March 2, 1836 it declared its independence from Mexico",
+     "a": "Texas",
+     "right": [
+      "John"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2200
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 20,
+     "q": "(Hi, I'm Cheech Marin.) Hackers & Coolhunters are 2 of the amazing types in \"Pattern Recognition\" by this author of \"Neuromancer\"",
+     "a": "(William) Gibson",
+     "right": [
+      "Hannah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 7,
+     "q": "Dry plant material that encloses grain; as a verb, it means to tease",
+     "a": "chaff",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 15,
+     "q": "This is the place Heritage Park",
+     "a": "Salt Lake City",
+     "right": [
+      "Hannah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 30,
+     "q": "This company that makes the original Swiss Army Knife now makes them with flash drives, laser pointers & LED flashlights",
+     "a": "Victorinox",
+     "right": [],
+     "wrong": [
+      "John",
+      "Sharla"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 25,
+     "q": "In 1991 this 3-letter group got techno-funky with \"Unbelievable\"",
+     "a": "EMF",
+     "right": [
+      "Hannah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "'70s BLOCKBUSTERS",
+  "q": "A direction in this film: \"Start with the tone... up a full tone. Down a major third. Now drop an octave. Up a perfect fifth\"",
+  "a": "Close Encounters of the Third Kind",
+  "right": [
+   "John",
+   "Hannah"
+  ],
+  "wrong": [
+   "Sharla"
+  ]
+ },
+ "gameId": "3851",
+ "cat_notes": {
+  "J": [
+   "Clues about Horsetory.",
+   "Clues from Jock to Politician.",
+   "The category “E BEFORE I” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "The category “WE ALL MAKE CHOICES IN LIFE” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "The category “SHAPE UP!” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "Clues about Ship Out."
+  ],
+  "DJ": [
+   "Clues about March-ing.",
+   "Clues about Celebrities Favorite Books.",
+   "It's both, maybe.",
+   "Clues in the State Capital.",
+   "Clues about Gadgets Galore.",
+   "Each answer contains the letter “E”, and the clues are about Group S."
+  ],
+  "F": "Clues about 70s Blockbusters."
+ }
+}

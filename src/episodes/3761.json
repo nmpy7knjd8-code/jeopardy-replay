@@ -1,0 +1,1006 @@
+{
+ "show": "#6248",
+ "aired": "2011-11-16",
+ "note": "",
+ "contestants": [
+  {
+   "name": "Will Valverde",
+   "bio": "a fund-raising consultant from San Francisco, California",
+   "short": "Will"
+  },
+  {
+   "name": "Ellen Lewis",
+   "bio": "a retired high school math teacher from Mount Vernon, New York",
+   "short": "Ellen"
+  },
+  {
+   "name": "Emily Gifford",
+   "bio": "a historical researcher and writer from Middletown, Connecticut (whose 1-day cash winnings total $33,800)",
+   "short": "Emily"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Emily": 7000,
+   "Ellen": 800,
+   "Will": 7600
+  },
+  "DJ": {
+   "Emily": 13200,
+   "Ellen": 10600,
+   "Will": 17200
+  },
+  "Final": {
+   "Emily": 1,
+   "Ellen": 10000,
+   "Will": 7999
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "LET'S TAKE A BATH",
+    "VEGAS CASINO RESTAURANTS",
+    "IN THE \"HOUSE\"",
+    "GILLIGAN'S ISLAND",
+    "FRIEZES",
+    "THAWS"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 10,
+     "q": "The waiting room of NYC's old Penn Station was inspired by the Baths of Caracalla built in the 3rd century in this city",
+     "a": "Rome",
+     "right": [
+      "Will"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 20,
+     "q": "Neros,\nEmpress Court",
+     "a": "Caesars Palace",
+     "right": [
+      "Emily"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "The name of this enclosure for growing things out of season tells you it's kept warm",
+     "a": "a hothouse",
+     "right": [
+      "Emily"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 11,
+     "q": "The island seen in the credits of \"Gilligan's Island\" is in Kaneohe Bay near this most populous Hawaiian island",
+     "a": "Oahu",
+     "right": [
+      "Ellen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 6,
+     "q": "A frieze that once adorned the Mausoleum of Halicarnassus shows Greeks battling these warrior women",
+     "a": "the Amazons",
+     "right": [
+      "Emily"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 18,
+     "q": "In 2009 the President spoke of \"a new beginning\" with this nearby island nation",
+     "a": "Cuba",
+     "right": [
+      "Will"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 12,
+     "q": "In the late 1700s this American statesman brought the shoe-shaped slipper bathtub back from France",
+     "a": "Benjamin Franklin",
+     "right": [
+      "Will"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 24,
+     "q": "Eiffel Tower Restaurant,\nLe Provencal",
+     "a": "Paris",
+     "right": [
+      "Will"
+     ],
+     "wrong": [
+      "Ellen"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "John Zenor was a longtime keeper of one of these towers at Yaquina Head on the Oregon Coast",
+     "a": "a lighthouse",
+     "right": [
+      "Will"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 17,
+     "q": "This tour boat was named for the chairman of the FCC who called television \"a vast wasteland\"",
+     "a": "the Minnow",
+     "right": [
+      "Emily"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 7,
+     "q": "Asked why his frieze showed 14 of these followers of Jesus, sculptor Jorge Oteiza said, \"There was no room for more\"",
+     "a": "the disciples (or apostles)",
+     "right": [
+      "Will"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 19,
+     "q": "On July 11, 1995 President Clinton announced normalization of relations with this Southeast Asian country",
+     "a": "Vietnam",
+     "right": [
+      "Will"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 13,
+     "q": "In Istanbul you can visit a hammam, this kind of place, where Franz Liszt & Tony Curtis also got clean",
+     "a": "a Turkish bath",
+     "right": [
+      "Will"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 25,
+     "q": "Canaletto,\nValentino",
+     "a": "the Venetian",
+     "right": [
+      "Ellen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 3,
+     "q": "In \"Sing a Song of Sixpence\", it's where \"the king was\"",
+     "a": "the counting house",
+     "right": [
+      "Ellen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 28,
+     "q": "For the second season, the theme song was changed to include \"The Professor and\" this Kansas girl",
+     "a": "Mary Ann",
+     "right": [
+      "Emily"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 8,
+     "q": "A temple frieze at Kailasanatha depicts a battle from \"The Mahabharata\", an ancient epic from this country",
+     "a": "India",
+     "right": [
+      "Emily"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": true,
+     "order": 21,
+     "q": "A brief thaw in the icy chill of Soviet repression is named for this Russian leader who took power in 1953",
+     "a": "Nikita Khrushchev",
+     "right": [
+      "Emily"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2000
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 14,
+     "q": "Sodium sesquicarbonate is one chemical sold as the soothing additions called \"bath\" these compounds",
+     "a": "salts",
+     "right": [
+      "Emily"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 26,
+     "q": "The Steakhouse at Camelot,\nRound Table Buffet",
+     "a": "Excalibur",
+     "right": [],
+     "wrong": [
+      "Emily"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 4,
+     "q": "Cha-mise is a Japanese word for this type of place, seen here",
+     "a": "a teahouse",
+     "right": [
+      "Will"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "In the episode \"Gilligan Meets Jungle Boy\", the Jungle Boy was this future \"Escape from New York\" star",
+     "a": "(Kurt) Russell",
+     "right": [
+      "Emily"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 9,
+     "q": "Because it depicts the official counting of Roman citizens, an ancient relief is known as this frieze",
+     "a": "a census",
+     "right": [
+      "Ellen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 22,
+     "q": "In 2006 Iraq agreed to restore ties with this northwestern neighbor, an ally of Iran",
+     "a": "Syria",
+     "right": [
+      "Will"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 15,
+     "q": "The earliest known surviving bathtub dates back to 1700 B.C. & was used in the Palace of Knossos on this island",
+     "a": "Crete",
+     "right": [
+      "Will"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 27,
+     "q": "Roxy's Diner,\nTop of the World",
+     "a": "the Stratosphere",
+     "right": [
+      "Emily"
+     ],
+     "wrong": [
+      "Ellen"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 5,
+     "q": "The New York Times said about Peter Luger, \"No other steakhouse serves\" one of these \"so breathtaking\"",
+     "a": "a porterhouse (steak)",
+     "right": [
+      "Emily"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 30,
+     "q": "This socialite's maiden name was Wentworth",
+     "a": "Mrs. Howell",
+     "right": [
+      "Will"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 16,
+     "q": "An RAF veteran poses with a life-size frieze at the London memorial to this pivotal 1940 battle",
+     "a": "the Battle of Britain",
+     "right": [
+      "Will"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 23,
+     "q": "This 13-letter word for the reestablishment of good relations is apt when France makes up, as with Rwanda in 2009",
+     "a": "rapprochement",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "SWEET TALK",
+    "BROADWAY MUSICAL STARS",
+    "I'M GONNA MOON YOU!",
+    "HERBAL MEDICINE",
+    "ON THE COAST",
+    "THAT'S SO CLICHE!"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "This hymn says, \"How sweet the sound that saved a wretch like me!\"",
+     "a": "\"Amazing Grace\"",
+     "right": [
+      "Will"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 6,
+     "q": "She starred in \"Victor/Victoria\" on film & on Broadway",
+     "a": "Julie Andrews",
+     "right": [
+      "Emily"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 7,
+     "q": "As the Moon changes from new to full & more & more of it becomes visible, it's said to be doing this 6-letter action",
+     "a": "waxing",
+     "right": [
+      "Ellen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 26,
+     "q": "This bog fruit is traditionally used to prevent urinary tract infections",
+     "a": "cranberries",
+     "right": [
+      "Ellen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 16,
+     "q": "Mathias Day of Ohio went to the Florida coast & got this \"Beach\" named for him",
+     "a": "Daytona",
+     "right": [
+      "Emily"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 19,
+     "q": "If you're out of touch with reality, you're said to be \"out in\" this part of a ballpark past third base",
+     "a": "left field",
+     "right": [
+      "Will"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 2,
+     "q": "In \"Hamlet\", he says, \"Good night, sweet prince, and flights of angels sing thee to thy rest\"",
+     "a": "Horatio",
+     "right": [
+      "Emily"
+     ],
+     "wrong": [
+      "Ellen",
+      "Will"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 8,
+     "q": "He portrayed Peter Allen in \"The Boy from Oz\" between stints as Wolverine in \"X-Men\"",
+     "a": "Hugh Jackman",
+     "right": [
+      "Ellen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 12,
+     "q": "On July 20, 1969 Neil Armstrong radioed from the Moon, \"Houston\", this \"base here. The Eagle has landed\"",
+     "a": "Tranquility",
+     "right": [
+      "Emily"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 27,
+     "q": "Raw cloves of this may slow the development of heart disease (& ward off vampires)",
+     "a": "garlic",
+     "right": [
+      "Will"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 17,
+     "q": "New Zealand's West Coast region features the little blue type of this bird, the smallest of our flippered friends",
+     "a": "a penguin",
+     "right": [
+      "Will"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 22,
+     "q": "As animated here, it means to go out & celebrate boisterously",
+     "a": "paint the town red",
+     "right": [
+      "Emily"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 3,
+     "q": "Ernest Lehman wrote, \"The muted sounds of the city and the rich, sweet smell of\" this... lulled \"my senses\"",
+     "a": "success",
+     "right": [
+      "Ellen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 9,
+     "q": "She split with Dr. Crane on \"Cheers\" to star in \"Chicago\" & \"Damn Yankees\"",
+     "a": "Bebe Neuwirth",
+     "right": [
+      "Ellen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": true,
+     "order": 13,
+     "q": "On Feb. 1, 1958 the Detroit Free Press said, \"U.S. Fires Moon!\"; they meant the USA's first of these, Explorer 1",
+     "a": "a satellite",
+     "right": [],
+     "wrong": [
+      "Emily"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1800
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 28,
+     "q": "A 1982 study showed that this spice, Zingiber officinale, controlled nausea better than Dramamine",
+     "a": "ginger",
+     "right": [
+      "Will"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 18,
+     "q": "Niigata is a leading coastal port on this sea",
+     "a": "the Sea of Japan",
+     "right": [
+      "Will"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 23,
+     "q": "To suffer a major defeat or setback is to \"meet your\" this, like Napoleon",
+     "a": "Waterloo",
+     "right": [
+      "Emily"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 4,
+     "q": "Milton called this lover of Narcissus \"sweetest nymph, that liv'st unseen within thy airy shell\"",
+     "a": "Echo",
+     "right": [
+      "Ellen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 10,
+     "q": "Megan Mullally played Victor's high-strung fiancee in this Mel Brooks musical",
+     "a": "Young Frankenstein",
+     "right": [
+      "Emily"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 14,
+     "q": "When the Moon hits your eye like a big pizza pie, it has 3 interior zones--core, mantle & this (just like Earth)",
+     "a": "crust",
+     "right": [
+      "Emily"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 29,
+     "q": "Hoodia, sold as an appetite suppressant, is used to reduce hunger by the native San of this S. Africa desert",
+     "a": "the Kalahari",
+     "right": [
+      "Ellen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 20,
+     "q": "If you're on the southern coast of Yemen, you're dipping a toe in this gulf",
+     "a": "the Gulf of Aden",
+     "right": [
+      "Ellen"
+     ],
+     "wrong": [
+      "Emily"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 24,
+     "q": "As seen here, it's another way of saying old or aging",
+     "a": "long in the tooth",
+     "right": [
+      "Will"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": true,
+     "order": 5,
+     "q": "Keats' \"Ode on\" this says, \"Sylvan historian, who canst thus express a flowery tale more sweetly than our rhyme\"",
+     "a": "a Grecian Urn",
+     "right": [
+      "Ellen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1800
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 11,
+     "q": "A longtime talk show host & short-time \"The View\" co-host, she once played Golde in \"Fiddler on the Roof\"",
+     "a": "Rosie O'Donnell",
+     "right": [],
+     "wrong": [
+      "Emily"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 15,
+     "q": "\"I'll be back\" to say it's the dividing line between the illuminated & unilluminated parts of the Moon",
+     "a": "a terminator",
+     "right": [
+      "Will"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 30,
+     "q": "For centuries, herbalists have used this wort to treat depression",
+     "a": "St. John's wort",
+     "right": [
+      "Will"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 21,
+     "q": "A 19th c. \"Committee of Vigilance\" fought the crime that gave part of San Francisco this North Africa-inspired nickname",
+     "a": "the Barbary Coast",
+     "right": [
+      "Emily"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 25,
+     "q": "To try to ease a difficult situation is \"to pour\" this \"on troubled waters\"",
+     "a": "oil",
+     "right": [
+      "Emily"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "INTERNATIONAL BUSINESS",
+  "q": "Still in existence, it began in 1688 in a British coffee shop popular with maritime folk; it soon got involved in their business",
+  "a": "Lloyd's of London",
+  "right": [],
+  "wrong": [
+   "Ellen",
+   "Emily",
+   "Will"
+  ]
+ },
+ "gameId": "3761",
+ "cat_notes": {
+  "J": [
+   "The category “LET'S TAKE A BATH” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "Clues about Vegas Casino Restaurants.",
+   "Each answer ends with “HOUSE”, and the clues are about In The.",
+   "Clues about Gilligan's Island.",
+   "Clues about Friezes.",
+   "Clues about Thaws."
+  ],
+  "DJ": [
+   "Clues about Sweet Talk.",
+   "Clues about Broadway Musical Stars.",
+   "The category “I'M GONNA MOON YOU!” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "Clues about Herbal Medicine.",
+   "Clues on the Coast.",
+   "The category “THAT'S SO CLICHE!” sets the theme — the clues follow that idea and any wordplay suggested by the title."
+  ],
+  "F": "Clues about International Business."
+ }
+}

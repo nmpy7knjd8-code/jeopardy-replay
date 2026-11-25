@@ -1,0 +1,993 @@
+{
+ "show": "#6399",
+ "aired": "2012-06-14",
+ "note": "David Menchaca game 1.",
+ "contestants": [
+  {
+   "name": "David Menchaca",
+   "bio": "a law student originally from Long Beach, California",
+   "short": "David"
+  },
+  {
+   "name": "Stu Weaver",
+   "bio": "a singer/songwriter from St. Augustine, Florida",
+   "short": "Stu"
+  },
+  {
+   "name": "Kathy Wright",
+   "bio": "a bookseller from Seattle, Washington (whose 2-day cash winnings total $59,198)",
+   "short": "Kathy"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Kathy": 6400,
+   "Stu": 3600,
+   "David": 6000
+  },
+  "DJ": {
+   "Kathy": 20000,
+   "Stu": 10800,
+   "David": 18400
+  },
+  "Final": {
+   "Kathy": 3200,
+   "Stu": 1,
+   "David": 15900
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "HOLLYWOOD'S MIDDLE INITIALS",
+    "CRADLES",
+    "BRIT SPEAK",
+    "WEBSITES FROM A TO Z",
+    "WAR POETRY",
+    "ALMOST HEAVEN: WEST VIRGINIA"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "Michael Fox",
+     "a": "J.",
+     "right": [
+      "David"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 21,
+     "q": "This mission chapel has been called the \"Cradle of Texas Liberty\"",
+     "a": "the Alamo",
+     "right": [
+      "David"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 16,
+     "q": "This British name of a letter means kids there have to learn the alphabet without the song ending in a rhyme",
+     "a": "zed",
+     "right": [
+      "David"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 3,
+     "q": "A: It started as an online bookstore run from Jeff Bezos' garage",
+     "a": "Amazon.com",
+     "right": [
+      "Kathy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 8,
+     "q": "Herman Melville's \"Shiloh: a Requiem\"",
+     "a": "the Civil War",
+     "right": [
+      "Stu"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 26,
+     "q": "West Virginia's major mineral product, it can be found under 2/3 of the state",
+     "a": "coal",
+     "right": [
+      "Kathy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "William Macy",
+     "a": "H.",
+     "right": [
+      "David"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 22,
+     "q": "Long Island, with the east coast's only prairie, was a hub of early flying & is home to the Cradle of this museum",
+     "a": "Aviation",
+     "right": [
+      "Kathy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 17,
+     "q": "We fill our cars with gasoline; Brits fill theirs with this",
+     "a": "petrol",
+     "right": [
+      "David"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 4,
+     "q": "B: Microsoft's search engine",
+     "a": "Bing",
+     "right": [
+      "David"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 9,
+     "q": "William Cullen Bryant's \"The Green Mountain Boys\"",
+     "a": "the Revolutionary War",
+     "right": [
+      "Kathy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "West Virginia's state animal is ursus americanus, the black species of this",
+     "a": "a bear",
+     "right": [
+      "David"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 10,
+     "q": "Craig Nelson",
+     "a": "T.",
+     "right": [
+      "Stu"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 23,
+     "q": "In mythology this baby strangled 2 serpents placed in his cradle",
+     "a": "Hercules",
+     "right": [
+      "Kathy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 18,
+     "q": "A Londoner goes to a cash point; a New Yorker would hit this 3-letter place",
+     "a": "an ATM",
+     "right": [
+      "Kathy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 5,
+     "q": "F: Tag your pics on this photo-sharing site owned by Yahoo!",
+     "a": "Flickr",
+     "right": [
+      "Stu"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": true,
+     "order": 11,
+     "q": "Robert Bly's \"At a March Against\" this war",
+     "a": "Vietnam",
+     "right": [
+      "Kathy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 600
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 28,
+     "q": "The city of Weirton in the narrow northern panhandle borders Ohio on the west & this state on the east",
+     "a": "Pennsylvania",
+     "right": [
+      "Stu"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 14,
+     "q": "David Kelley",
+     "a": "E.",
+     "right": [
+      "Kathy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 24,
+     "q": "In the 19th century William Ross Wallace wrote, \"the hand that\" does this \"is the hand that rules the world\"",
+     "a": "\"rocks the cradle\"",
+     "right": [
+      "Kathy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 19,
+     "q": "Pedestrian crossings like one on Abbey Road are named for this animal",
+     "a": "a zebra",
+     "right": [
+      "David"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 6,
+     "q": "M: It says it has pioneered online dating since its launch in April 1995",
+     "a": "Match.com",
+     "right": [
+      "Stu"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 12,
+     "q": "Dylan Thomas' \"A Refusal to Mourn the Death, by Fire, of a Child in London\"",
+     "a": "World War II",
+     "right": [
+      "Kathy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "On October 1, 1896 West Virginia became the first state to use RFD service, which stands for this",
+     "a": "Rural Free Delivery",
+     "right": [
+      "Stu"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 15,
+     "q": "David Selznick",
+     "a": "O.",
+     "right": [
+      "David"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 25,
+     "q": "This Boston Hall got its nickname \"Cradle of Liberty\" from a 1763 dedication speech delivered by James Otis Jr.",
+     "a": "Faneuil Hall",
+     "right": [
+      "David"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 20,
+     "q": "If you need one of these tools to work on your car, ask a Brit for a spanner",
+     "a": "a wrench",
+     "right": [
+      "Kathy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 7,
+     "q": "Z: Let there be shoes from this website whose logo is seen here",
+     "a": "Zappos",
+     "right": [
+      "David"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 13,
+     "q": "Quintus Smyrnaeus' \"Posthomerica\"",
+     "a": "the Trojan War",
+     "right": [
+      "David"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 30,
+     "q": "West Virginia University was founded in this city in 1867",
+     "a": "Morgantown",
+     "right": [],
+     "wrong": [
+      "David"
+     ],
+     "stumper": true,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "WORLD OF FOOD",
+    "RECENT NONFICTION",
+    "WHERE YA OF?",
+    "GOLDEN BOYS & GIRLS",
+    "-ESQUE",
+    "A POP QUIZ"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 12,
+     "q": "Polish off the dish seen here & you can boast that you ate the whole one of these, a Mexican specialty",
+     "a": "an enchilada",
+     "right": [
+      "Kathy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 7,
+     "q": "\"The Yankee Years\", by this ex-manager & co-writer Tom Verducci",
+     "a": "Joe Torre",
+     "right": [
+      "Kathy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 16,
+     "q": "Henry VIII's fourth wife was Anne of this city, today with about 50,000 people",
+     "a": "Cleves",
+     "right": [
+      "Kathy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 18,
+     "q": "In August 2008 he appeared on a Sports Illustrated cover with his 8 gold medals hanging from his neck",
+     "a": "Michael Phelps",
+     "right": [
+      "David"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "The Pussycat Dolls were conceived as this type of troupe",
+     "a": "burlesque",
+     "right": [
+      "David"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "In August 1974 his younger daughter Julie left him a note: \"Dear daddy, I love you. Whatever you do I will support\"",
+     "a": "Richard Nixon",
+     "right": [
+      "Stu"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 13,
+     "q": "In the mood for Chinese? Start off your meal with won ton, wor won ton or hot & sour this",
+     "a": "soup",
+     "right": [
+      "Kathy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 8,
+     "q": "\"True Compass: A Memoir\", by this late Democratic senator & scion",
+     "a": "Ted Kennedy",
+     "right": [
+      "David"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 27,
+     "q": "Saint Francis didn't live to see the basilica in this Italian city of his birth",
+     "a": "Assisi",
+     "right": [
+      "Kathy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 19,
+     "q": "In a 1972 issue of Sports Illustrated, he posed with his 7 gold medals hanging from his neck",
+     "a": "Mark Spitz",
+     "right": [
+      "David"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 23,
+     "q": "It's the fundamental position seen here",
+     "a": "arabesque",
+     "right": [
+      "Stu"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 3,
+     "q": "In Genesis he built an altar, laid the wood & then laid his son upon the wood",
+     "a": "Abraham",
+     "right": [],
+     "wrong": [
+      "David"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 14,
+     "q": "Aubergine is the French name for this",
+     "a": "an eggplant",
+     "right": [
+      "David"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 9,
+     "q": "\"Act Like a Lady, Think Like a Man\", by this \"Family Feud\" host",
+     "a": "(Steve) Harvey",
+     "right": [
+      "David"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 28,
+     "q": "14th century philosophy was enriched by William of this village in Surrey",
+     "a": "Ockham",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 20,
+     "q": "(Hannah Storm of ESPN gives the clue) She won 3 track & field gold medals at the 1960 Olympics; I bet Fred Flintstone was a fan",
+     "a": "Wilma Rudolph",
+     "right": [
+      "Stu"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 24,
+     "q": "Visually charming or quaint, like a pretty little village",
+     "a": "picturesque",
+     "right": [
+      "Kathy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 4,
+     "q": "Carrying on the family name, his sons Damian, Stephen & Ziggy have all won Grammys for Best Reggae Album",
+     "a": "Bob Marley",
+     "right": [
+      "David"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 15,
+     "q": "Feijoada, a hearty stew of smoked meats & beans, is a national dish of this South American country",
+     "a": "Brazil",
+     "right": [
+      "Stu"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 10,
+     "q": "The \"super\" version of this pop culture/ business analysis hybrid from Steven Levitt & Stephen Dubner",
+     "a": "Freakonomics",
+     "right": [
+      "Kathy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 29,
+     "q": "A power in Richard II's court, John of this was so-called for his birthplace of Ghent, not because he was skinny",
+     "a": "John of Gaunt",
+     "right": [
+      "Kathy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 4000
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 21,
+     "q": "In 1995 he published a candid memoir called \"Breaking the Surface\"",
+     "a": "Greg Louganis",
+     "right": [
+      "Stu"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 3200
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 25,
+     "q": "In the shaping & combination of forms, like gargoyles, this adjective means fantastic",
+     "a": "grotesque",
+     "right": [
+      "David"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 5,
+     "q": "Harper Lee reportedly based this much-admired fictional dad on her own lawyer father",
+     "a": "Atticus Finch",
+     "right": [
+      "David"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 17,
+     "q": "Traditionally, in the British dish bubble & squeak, the 2 key ingredients are mashed potatoes & this vegetable",
+     "a": "cabbage",
+     "right": [
+      "David"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 11,
+     "q": "\"Stones into Schools\", by this man whose tales of Afghan adventure have been called into question",
+     "a": "Greg Mortenson",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 30,
+     "q": "Monk & chronicler Gervase of here might have wished his first name was \"archbishop\"",
+     "a": "Canterbury",
+     "right": [
+      "Kathy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 22,
+     "q": "In 2011 she & Kerri Walsh said they'll go for a third straight beach volleyball gold in 2012",
+     "a": "Misty May",
+     "right": [
+      "David"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 26,
+     "q": "Adjective for a tale in which the adventures of a roguish hero are described in humorous episodes",
+     "a": "picaresque",
+     "right": [
+      "Kathy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 6,
+     "q": "His son crown Prince Naruhito is heir to the Japanese throne",
+     "a": "Akihito",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "U.S. TOP-SELLING ALBUMS",
+  "q": "The bestselling album of all time by a female is a 20 million seller by this woman who started singing at age 8 in Ontario",
+  "a": "Shania Twain",
+  "right": [],
+  "wrong": [
+   "Stu",
+   "David",
+   "Kathy"
+  ]
+ },
+ "gameId": "3920",
+ "cat_notes": {
+  "J": [
+   "Clues about Hollywood's Middle Initials.",
+   "Clues about Cradles.",
+   "Clues about Brit Speak.",
+   "Clues about Websites from a to Z.",
+   "Clues about wars, riffing on the title “WAR POETRY”.",
+   "Clues about Almost Heaven: West Virginia."
+  ],
+  "DJ": [
+   "Clues about World of Food.",
+   "Clues about Recent Nonfiction.",
+   "The category “WHERE YA OF?” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "Clues about Golden Boys and Girls.",
+   "Clues about -esque.",
+   "Clues about A Pop Quiz."
+  ],
+  "F": "Clues about U.S. Top-selling Albums."
+ }
+}

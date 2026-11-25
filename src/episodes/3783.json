@@ -1,0 +1,998 @@
+{
+ "show": "#6269",
+ "aired": "2011-12-15",
+ "note": "Alex's wife Jean, 91-year-old mother Lucille, and cousin Dolores from Florida featured in the audience.",
+ "contestants": [
+  {
+   "name": "Beth Watkins",
+   "bio": "a graduate student of medieval studies from Savannah, Georgia",
+   "short": "Beth"
+  },
+  {
+   "name": "Silas Crawford",
+   "bio": "an attorney from Jacksonville, Florida",
+   "short": "Silas"
+  },
+  {
+   "name": "Boomie Aglietti",
+   "bio": "a writer for TV and stage from Los Angeles, California (whose 2-day cash winnings total $58,799)",
+   "short": "Boomie"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Boomie": 7000,
+   "Silas": 3400,
+   "Beth": 4800
+  },
+  "DJ": {
+   "Boomie": 18600,
+   "Silas": 8600,
+   "Beth": 18600
+  },
+  "Final": {
+   "Boomie": 0,
+   "Silas": 16600,
+   "Beth": 37200
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "PASTIMES",
+    "THE ENTERTAINER'S TWITTER BIO",
+    "DIALECTS",
+    "COMPANY LOGOS",
+    "BURNS, BABY, BURNS",
+    "\"S\" AS IN SIMILE"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 21,
+     "q": "Wendy the Snapple Lady is among those who collect these candy dispensers",
+     "a": "Pez",
+     "right": [
+      "Beth"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 16,
+     "q": "This actor's bio reads: \"born small...now huge... winning... bring it..! (unemployed winner...)\"",
+     "a": "Charlie Sheen",
+     "right": [
+      "Silas"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "Several dialects of this spoken in the Kagoshima area are unintelligible to speakers of the standard language",
+     "a": "Japanese",
+     "right": [
+      "Beth"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 25,
+     "q": "An insurance company: 2 cupped hands",
+     "a": "All State",
+     "right": [
+      "Silas"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 11,
+     "q": "The poet Robert Burns was born on Jan, 25, 1759 in Alloway, a village on the river Doon in this country",
+     "a": "Scotland",
+     "right": [
+      "Beth"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 6,
+     "q": "\"___ as a bug in a rug\"",
+     "a": "snug",
+     "right": [
+      "Beth"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 22,
+     "q": "Take a page from this pastime seen here",
+     "a": "scrapbooking",
+     "right": [
+      "Beth"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 17,
+     "q": "For this NBC \"Late Night\" guy, you'll find \"astrophysicist\"",
+     "a": "Jimmy Fallon",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "When in the cities of Jeddah & Medina, you'll most likely encounter the Hijazi dialect of this language",
+     "a": "Arabic",
+     "right": [
+      "Boomie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 26,
+     "q": "Fresh fruit: a blue sticker with the yellow outline of a woman in a Carmen Miranda hat",
+     "a": "Chiquita",
+     "right": [
+      "Boomie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 12,
+     "q": "Robbie is generally given credit for the words of this song about \"auld acquaintance\"",
+     "a": "\"Auld Lang Syne\"",
+     "right": [
+      "Beth"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 7,
+     "q": "\"___ as an eel\"",
+     "a": "slippery",
+     "right": [
+      "Silas"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 23,
+     "q": "The first modern one of these was published Dec. 21, 1913 in the New York World's Sunday Supplement",
+     "a": "crossword puzzle",
+     "right": [
+      "Boomie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 18,
+     "q": "For this ex-NBC \"Late Night\" guy you'll find \"the voice of the people. sorry, people\"",
+     "a": "(Conan) O'Brien",
+     "right": [
+      "Boomie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 3,
+     "q": "Alemannic, a dialect of this language, has 2 main forms in Switzerland centering on Bern & Zurich",
+     "a": "German",
+     "right": [
+      "Beth"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 27,
+     "q": "A retailer: a red & white bull's-eye",
+     "a": "Target",
+     "right": [
+      "Beth"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 13,
+     "q": "Burns called this food item, sheep's heart & liver minced with suet, \"great chieftain O' the pudding-race!\"",
+     "a": "haggis",
+     "right": [
+      "Boomie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 8,
+     "q": "\"___ as a tack\"",
+     "a": "sharp",
+     "right": [
+      "Boomie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 24,
+     "q": "The FCC assigns call signs, like N8DNR, to use in this hobby",
+     "a": "ham radio",
+     "right": [
+      "Boomie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 19,
+     "q": "This woman is a \"2-time Emmy award winning comedian & star of Bravo's my life on the d-list\"",
+     "a": "Kathy Griffin",
+     "right": [
+      "Silas"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 4,
+     "q": "Dialects of this European language include Anpaluz, Madrileño & Canario (from the Canary Islands)",
+     "a": "Spanish",
+     "right": [
+      "Boomie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 28,
+     "q": "Gas stations: a red Pegasus",
+     "a": "Mobil",
+     "right": [
+      "Silas"
+     ],
+     "wrong": [
+      "Boomie"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 14,
+     "q": "Finish the burns line: \"Give me a spark O' nature's fire! / that's a' the learning I...\"",
+     "a": "\"desire\"",
+     "right": [
+      "Boomie"
+     ],
+     "wrong": [
+      "Silas"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 9,
+     "q": "\"___ as a mule\"",
+     "a": "stubborn",
+     "right": [
+      "Silas"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 30,
+     "q": "This basic knitting stitch is drawn through the back of the preceding loop",
+     "a": "purl",
+     "right": [
+      "Beth"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 20,
+     "q": "\"Keep up\" with this \"business woman, exec producer, fashion designer, perfumista\"",
+     "a": "Kim Kardashian",
+     "right": [
+      "Silas"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 5,
+     "q": "Cebuano is widely spoken in Cebu, Western Leyte & parts of Mindanao in this country",
+     "a": "The Philippines",
+     "right": [
+      "Boomie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 29,
+     "q": "A fast-food chain: the name of the chain in red on a bun",
+     "a": "Burger King",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": true,
+     "order": 15,
+     "q": "Steinbeck took note when Burns wrote \"the best laid schemes o\" these two things \"gang aft agley\"",
+     "a": "\"mice and men\"",
+     "right": [
+      "Boomie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1200
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 10,
+     "q": "\"___ as a statue\"",
+     "a": "still",
+     "right": [
+      "Beth"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "TIMES PAST",
+    "THE BIRDS & THE \"B\"s",
+    "CHURCHES & CATHEDRALS",
+    "TV SHOW SUPPORTING CHARACTERS",
+    "FABRICS",
+    "MIDDLE T"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 25,
+     "q": "On Oct. 1, 1949 he said, \"Today, our China enters into the family of nations who love peace and freedom\"",
+     "a": "Mao",
+     "right": [
+      "Boomie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 4,
+     "q": "Take these broken wings & learn to fly, you Turdus merula, aka this colorful bird",
+     "a": "blackbird",
+     "right": [
+      "Boomie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 16,
+     "q": "Czech out the cathedral of St. Vitus in this world capital",
+     "a": "Prague",
+     "right": [
+      "Beth"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "Bumblebee Man, \nKent Brockman, \nDr. Nick Riviera",
+     "a": "The Simpsons",
+     "right": [
+      "Silas"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 30,
+     "q": "South Pacific islanders make tapa cloth from this part of the paper mulberry or breadfruit tree",
+     "a": "the bark",
+     "right": [
+      "Boomie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 11,
+     "q": "An elevated place where you get married (or sacrificed--it really does depend on the situation)",
+     "a": "altar",
+     "right": [
+      "Boomie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 24,
+     "q": "The 1987 Meech Lake Accord was a failed attempt to recognize this Canadian province as a \"distinct society\"",
+     "a": "Quebec",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 5,
+     "q": "This kingfisher that shares its name with an \"iron chancellor\" lives in New Guinea, not Germany",
+     "a": "Bismarck (kingfisher)",
+     "right": [
+      "Beth"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 17,
+     "q": "A statue of Leif Eriksson is out front of the Hallgrmskirkja Church--one of this country's tallest buildings",
+     "a": "Iceland",
+     "right": [
+      "Beth"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 2,
+     "q": "Mr. Eko, \nRichard Alpert, \nCharles Widmore",
+     "a": "Lost",
+     "right": [
+      "Boomie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 26,
+     "q": "This strong, coarsely woven fabric often used to make sacks is also known as jute hessian",
+     "a": "burlap",
+     "right": [
+      "Silas"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 12,
+     "q": "To refrain from casting one's vote or from boozing it up",
+     "a": "abstain",
+     "right": [
+      "Silas"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 21,
+     "q": "Diocles, kind of the Jimmie Johnson of ancient Rome, earned over 30 million sesterces with his daring racing of these",
+     "a": "chariots",
+     "right": [
+      "Beth"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 6,
+     "q": "It's britspeak for a type of parakeet",
+     "a": "a budgie",
+     "right": [
+      "Silas"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": true,
+     "order": 18,
+     "q": "Teddy Roosevelt spoke to a crowd of 10,000 at the laying of the foundation stone for this cathedral in 1907",
+     "a": "the National Cathedral",
+     "right": [
+      "Beth"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 3000
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 3,
+     "q": "Parker Scavo, \nAna Solis, \nDanielle Van de Kamp",
+     "a": "Desperate Housewives",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 27,
+     "q": "This soft, thin fabric has a wrinkled surface, as does a type of paper with which it shares its name",
+     "a": "crepe",
+     "right": [
+      "Boomie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 13,
+     "q": "I have $1,200 for knowing this term, also a type of bridge card game...$1,200 once! twice! sold!",
+     "a": "auction",
+     "right": [
+      "Boomie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 22,
+     "q": "In the congress system of 1815-25, nations tried to solve conflict diplomatically, starting with the Congress of here",
+     "a": "Vienna",
+     "right": [],
+     "wrong": [
+      "Beth"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2000
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 7,
+     "q": "This tropical seabird was named for its supposed lack of intelligence; not afraid of humans, it was easily killed",
+     "a": "the boobie",
+     "right": [
+      "Boomie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 19,
+     "q": "(Sarah of the Clue Crew presents the clue from Jerusalem.) Sites corresponding to the tenth through final stations of the cross are within the Church of the Holy this--another word for a tomb; it's been called Christianity's most hallowed ground",
+     "a": "Sepulcher",
+     "right": [
+      "Beth"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 9,
+     "q": "E, \nTurtle, \nAri",
+     "a": "Entourage",
+     "right": [
+      "Silas"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 29,
+     "q": "In 1891 Hilaire Chardonnet began producing this first manmade fiber, sometimes called chardonnet silk",
+     "a": "rayon",
+     "right": [
+      "Boomie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 14,
+     "q": "It's the 7th letter of the Greek alphabet",
+     "a": "eta",
+     "right": [
+      "Boomie"
+     ],
+     "wrong": [
+      "Silas"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 23,
+     "q": "By 878 the Vikings had conquered all of England except for this southern kingdom controlled by Alfred the Great",
+     "a": "Wessex",
+     "right": [
+      "Beth"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 8,
+     "q": "Buteo buteo is the common species of this large, slow-moving bird of prey",
+     "a": "the buzzard",
+     "right": [
+      "Beth"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 20,
+     "q": "In 1453 Ottoman Turks converted this cathedral, whose Greek name means \"holy wisdom\", into a mosque",
+     "a": "the Hagia Sophia",
+     "right": [
+      "Boomie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 10,
+     "q": "Drs. Taub, \nChase & \nThirteen",
+     "a": "House (, M.D.)",
+     "right": [
+      "Silas"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 28,
+     "q": "To purchase Harris tweed at its source, you'll have to travel to these \"outer\" Scottish islands",
+     "a": "Hebrides",
+     "right": [
+      "Beth"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 15,
+     "q": "It's another term for a werewolf",
+     "a": "a lycanthrope",
+     "right": [
+      "Beth"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "AMERICAN AUTHORS",
+  "q": "He was born in NYC on April 3, 1783, toward the end of the Revolutionary War, & named for one of the war's heroes",
+  "a": "Washington Irving",
+  "right": [
+   "Silas",
+   "Beth"
+  ],
+  "wrong": [
+   "Boomie"
+  ]
+ },
+ "gameId": "3783",
+ "cat_notes": {
+  "J": [
+   "Clues about Pastimes.",
+   "Clues about The Entertainer's Twitter Bio.",
+   "Clues about Dialects.",
+   "Clues about Company Logos.",
+   "Clues about Burns, Baby, Burns.",
+   "Each answer starts with “S”, and the clues are about As in Simile."
+  ],
+  "DJ": [
+   "Clues about Times Past.",
+   "Each answer contains the letter “B”, and the clues are about The Birds and the S.",
+   "Clues about Churches and Cathedrals.",
+   "Clues about TV Show Supporting Characters.",
+   "Clues about Fabrics.",
+   "The letter \"T\" will be exactly in the middle of each correct response."
+  ],
+  "F": "Clues about American Authors."
+ }
+}

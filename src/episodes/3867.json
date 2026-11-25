@@ -1,0 +1,1003 @@
+{
+ "show": "#6351",
+ "aired": "2012-04-09",
+ "note": "",
+ "contestants": [
+  {
+   "name": "Anne Raybon",
+   "bio": "a teacher's assistant and school bus driver from Asheville, North Carolina",
+   "short": "Anne"
+  },
+  {
+   "name": "Doug Lloyd",
+   "bio": "a law student from Charlton, Massachusetts",
+   "short": "Doug"
+  },
+  {
+   "name": "Bing Huo",
+   "bio": "a mechanical engineer from Sunnyvale, California (whose 1-day cash winnings total $15,801)",
+   "short": "Bing"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Bing": 6000,
+   "Doug": 5000,
+   "Anne": 4800
+  },
+  "DJ": {
+   "Bing": 18000,
+   "Doug": 16200,
+   "Anne": 17200
+  },
+  "Final": {
+   "Bing": 1599,
+   "Doug": 12400,
+   "Anne": 999
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "ANAGRAMMED EUROPE",
+    "HOBBITS' OTHER ROLES",
+    "TRANSPORTATION",
+    "THE 20th FIRST ANNUAL IG NOBEL PRIZE",
+    "PAUL REVERE",
+    "THE \"BRITISH\" ARE COMING"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 5,
+     "q": "I'd like to visit this national capital, solo",
+     "a": "Oslo",
+     "right": [
+      "Bing"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "Sean Astin (Sam) played this title guy, the last player carried off the field by his Notre Dame teammates",
+     "a": "Rudy",
+     "right": [
+      "Bing"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 16,
+     "q": "By passenger traffic, this London airport is Europe's busiest",
+     "a": "Heathrow",
+     "right": [
+      "Anne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 21,
+     "q": "In public health: \"for determining by experiment that microbes cling to\" scientists who grow these, like ZZ Top",
+     "a": "beards",
+     "right": [
+      "Anne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 26,
+     "q": "In 1773 Paul Revere donned native garb & participated in this protest",
+     "a": "the Boston Tea Party",
+     "right": [
+      "Bing"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 9,
+     "q": "It's the oldest continuously run championship in golf",
+     "a": "the British Open",
+     "right": [
+      "Anne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 7,
+     "q": "I've visited this capital more than once",
+     "a": "Rome",
+     "right": [],
+     "wrong": [
+      "Bing"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "Dominic Monaghan (Merry) found the part of Charlie on this ABC drama",
+     "a": "Lost",
+     "right": [
+      "Anne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 17,
+     "q": "This mode of transportation can be traced back to a motorized toboggan built by Carl Eliason in 1924",
+     "a": "a snowmobile",
+     "right": [
+      "Doug"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 22,
+     "q": "Peace: \"for confirming the widely held belief that\" this audible outburst relieves pain",
+     "a": "cursing",
+     "right": [
+      "Anne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": true,
+     "order": 27,
+     "q": "Revere also made glasses & surgical instruments, but his artistry in this material was the focus of his professional life",
+     "a": "silver",
+     "right": [
+      "Bing"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 3000
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 10,
+     "q": "2-word term for the rapid U.S. popularity of bands like the Rolling Stones in the 1960s",
+     "a": "the British Invasion",
+     "right": [
+      "Bing"
+     ],
+     "wrong": [
+      "Doug"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 8,
+     "q": "I saw a heron wading in this river",
+     "a": "the Rhone",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 3,
+     "q": "Billy Boyd (Pippin) served as Russell Crowe's coxswain in this period piece",
+     "a": "Master and Commander",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 18,
+     "q": "The Ion, L300 & Vue were popular models of this now-retired GM automobile",
+     "a": "Saturn",
+     "right": [
+      "Doug"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 23,
+     "q": "Medicine: finding that this breathing disorder \"can be treated with a roller-coaster ride\"; Advair is more traditional",
+     "a": "asthma",
+     "right": [
+      "Bing"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 28,
+     "q": "Paul Revere's ride to warn the colonists of coming British troops took place in April of this year",
+     "a": "1775",
+     "right": [
+      "Anne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 13,
+     "q": "It borders Montana & Idaho",
+     "a": "British Columbia",
+     "right": [
+      "Anne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 11,
+     "q": "Do cooks broil meat or braise it in this country?",
+     "a": "Serbia",
+     "right": [
+      "Doug"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 4,
+     "q": "You may remember that Ian Holm (Bilbo) portrayed the complicated android Ash in this Ridley Scott film",
+     "a": "Alien",
+     "right": [],
+     "wrong": [
+      "Bing",
+      "Anne"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 19,
+     "q": "This vehicle is seen in 19th-century Japan, the time & place it was invented",
+     "a": "a rickshaw",
+     "right": [
+      "Bing"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 24,
+     "q": "Engineering: \"for perfecting a method to collect whale snot, using a remote-control\" this (probably not a Black Hawk)",
+     "a": "a helicopter",
+     "right": [
+      "Bing"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "At his own request Revere was court-martialed & acquitted over the 1779 Penobscot expedition into this present state",
+     "a": "Maine",
+     "right": [
+      "Doug"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 14,
+     "q": "Is it hot in here? Measure these, BTUs",
+     "a": "British thermal units",
+     "right": [
+      "Doug"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 12,
+     "q": "I wish someone would erect a statue of me on this island",
+     "a": "Crete",
+     "right": [
+      "Doug"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 6,
+     "q": "Mickey Rourke finds a dastardly way to kill Elijah Wood (Frodo) in this \"urban\" movie",
+     "a": "Sin City",
+     "right": [
+      "Doug"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 20,
+     "q": "This doorless 4-wheeled buggy had a variety of tops including parasol, extension &, of course, fringed",
+     "a": "a surrey",
+     "right": [
+      "Anne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 25,
+     "q": "Physics: showing that on icy paths, \"people slip and fall less often if they wear\" these over their shoes (under's OK, too)",
+     "a": "socks",
+     "right": [
+      "Anne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 30,
+     "q": "Revere's father, who came to America as a child, was one of these French Protestants",
+     "a": "a Huguenot",
+     "right": [
+      "Anne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 15,
+     "q": "Tortola is one of the 4 main islands of this U.K. territory in the eastern Caribbean",
+     "a": "the British Virgin Islands",
+     "right": [
+      "Bing"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "AROUND THE LITERARY WORLD",
+    "BEGINS & ENDS WITH A VOWEL",
+    "MATH FORMULAS",
+    "SAN FRANCISCO ATTRACTIONS",
+    "BUSINESS LETTERS",
+    "I'M GONNA HURL"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 22,
+     "q": "Johann Wyss edited & completed his father's book about this \"Swiss Family\"",
+     "a": "the Robinson family",
+     "right": [
+      "Anne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 6,
+     "q": "Aloha! It's the instrument heard here",
+     "a": "ukulele",
+     "right": [
+      "Bing"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 11,
+     "q": "A formula used for cubes is V = e3, in which \"V\" is this",
+     "a": "volume",
+     "right": [
+      "Doug"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "This attraction is home to Pier 39 & some 900 California sea lions",
+     "a": "Fisherman's Wharf",
+     "right": [
+      "Bing"
+     ],
+     "wrong": [
+      "Doug"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 17,
+     "q": "When incorporated in 1885, AT&T stood for this",
+     "a": "American Telephone & Telegraph",
+     "right": [
+      "Doug"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 16,
+     "q": "In 2010 Roy Halladay of this team threw 2 no-hitters--one in the regular season & one in the postseason",
+     "a": "the Philadelphia Phillies",
+     "right": [],
+     "wrong": [
+      "Bing"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 23,
+     "q": "A woman learns of family secrets back in China in this author's 2001 novel \"The Bonesetter's Daughter\"",
+     "a": "Amy Tan",
+     "right": [
+      "Anne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 7,
+     "q": "In pop culture this hot word follows \"Disco\" & \"The Towering\"",
+     "a": "Inferno",
+     "right": [
+      "Anne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 12,
+     "q": "In degrees, the sum of the interior these in a polygon equals 180(n-2)",
+     "a": "angles",
+     "right": [
+      "Bing"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 2,
+     "q": "Take a scenic 1.75-mile walk across this landmark completed in 1937",
+     "a": "the Golden Gate Bridge",
+     "right": [
+      "Bing"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 18,
+     "q": "The \"F\" in FTD stands for these retailers who formed the delivery service in 1910",
+     "a": "Florists",
+     "right": [
+      "Bing"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 27,
+     "q": "This Stanford quarterback was out of this as the Heisman Trophy runner-up in 2010 & 2011",
+     "a": "(Andrew) Luck",
+     "right": [
+      "Bing"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 24,
+     "q": "The \"Mabinogion\" is a collection of Celtic tales & lore from this United Kingdom country",
+     "a": "Wales",
+     "right": [
+      "Doug"
+     ],
+     "wrong": [
+      "Bing",
+      "Anne"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 8,
+     "q": "This Australian bird can run (not fly) nearly 30 mph",
+     "a": "an emu",
+     "right": [
+      "Doug"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 13,
+     "q": "For a parallelogram, use A = bh --\"A\" for this",
+     "a": "area",
+     "right": [
+      "Bing"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 3,
+     "q": "This home of the 49ers was built for $24.6 million in '59",
+     "a": "Candlestick Park",
+     "right": [
+      "Bing"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 19,
+     "q": "MSN, which went online in 1995, stands for this",
+     "a": "Microsoft Network",
+     "right": [
+      "Bing"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 28,
+     "q": "Forms of this field event, in which a 16-pound object is hurled, were once practiced at festivals honoring Thor",
+     "a": "a hammer (throw)",
+     "right": [
+      "Doug"
+     ],
+     "wrong": [
+      "Anne"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 25,
+     "q": "One of the first epics in Spanish literature was \"The Poem of\" this hero, from around 1140",
+     "a": "El Cid",
+     "right": [
+      "Anne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 9,
+     "q": "Quick! Give me this 8-letter remedy for the effects of a poison",
+     "a": "an antidote",
+     "right": [
+      "Anne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 14,
+     "q": "In D = rt, \"r\" is rate, \"t\" is time & \"D\" is this",
+     "a": "distance",
+     "right": [
+      "Doug"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 4,
+     "q": "Frommer's says this intersection \"retains much of the hippie-Bohemian culture of its heyday\"",
+     "a": "Haight-Ashbury",
+     "right": [
+      "Bing"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 4000
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 20,
+     "q": "Since its inception in 1986, QVC has offered customers quality, value & this, right from their homes",
+     "a": "convenience",
+     "right": [
+      "Doug"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 29,
+     "q": "Jan Zelezny holds the world record in this field event with a throw of almost 325 feet",
+     "a": "javelin",
+     "right": [
+      "Anne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 26,
+     "q": "This Frenchman dedicated his book of poems \"Les Fleurs du mal\" to his friend & fellow poet Theophile Gautier",
+     "a": "Charles Baudelaire",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 10,
+     "q": "A large group or chain of islands, like the Malay",
+     "a": "an archipelago",
+     "right": [
+      "Bing"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 15,
+     "q": "For a rectangle P = 2l+2w, \"P\" being short for this",
+     "a": "the perimeter",
+     "right": [
+      "Doug"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 5,
+     "q": "A stretch of this street featuring 8 hairpin turns was created in 1922 by engineers with a fiendish streak",
+     "a": "Lombard Street",
+     "right": [
+      "Doug"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 21,
+     "q": "For all your weight loss & bodybuilding supplements there's GNC, the \"GN\" being this",
+     "a": "General Nutrition",
+     "right": [
+      "Anne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": true,
+     "order": 30,
+     "q": "Wearing a kilt, is mandatory in the Highland Games event called \"tossing\" this, often a 17-foot-long fir pole",
+     "a": "a caber",
+     "right": [
+      "Anne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 6000
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "THE HOLLYWOOD WALK OF FAME",
+  "q": "His widow Maria Elena & actor Gary Busey were on hand when his star was dedicated outside Capitol Records in 2011",
+  "a": "Buddy Holly",
+  "right": [],
+  "wrong": [
+   "Doug",
+   "Anne",
+   "Bing"
+  ]
+ },
+ "gameId": "3867",
+ "cat_notes": {
+  "J": [
+   "Each answer is formed by rearranging letters from a word or name in the clue.",
+   "Clues about Hobbits Other Roles.",
+   "Clues about Transportation.",
+   "Clues about The 20th First Annual Ig Nobel Prize.",
+   "Clues about Paul Revere.",
+   "Each answer contains the letter group “BRITISH”, and the clues are about The Are Coming."
+  ],
+  "DJ": [
+   "Clues about Around the Literary World.",
+   "Each answer ends with Vowel.",
+   "Clues about Math Formulas.",
+   "Clues about San Francisco Attractions.",
+   "Clues about Business Letters.",
+   "The category “I'M GONNA HURL” sets the theme — the clues follow that idea and any wordplay suggested by the title."
+  ],
+  "F": "Clues about The Hollywood Walk of Fame."
+ }
+}

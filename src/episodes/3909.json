@@ -1,0 +1,1008 @@
+{
+ "show": "#6390",
+ "aired": "2012-06-01",
+ "note": "Clip of this game shown in the eleventh Season 1 episode of House of Cards.",
+ "contestants": [
+  {
+   "name": "D.J. Perry",
+   "bio": "a burrito architect from Houston, Texas",
+   "short": "D.J."
+  },
+  {
+   "name": "Claudia Gray",
+   "bio": "a substitute teacher from Monrovia, California",
+   "short": "Claudia"
+  },
+  {
+   "name": "John Baker",
+   "bio": "a home inspector from Dixon, Illinois (whose 1-day cash winnings total $11,300)",
+   "short": "John"
+  }
+ ],
+ "scores": {
+  "J": {
+   "John": 3800,
+   "Claudia": 3400,
+   "D.J.": 3600
+  },
+  "DJ": {
+   "John": 13400,
+   "Claudia": 9000,
+   "D.J.": 13600
+  },
+  "Final": {
+   "John": 7700,
+   "Claudia": 8000,
+   "D.J.": 399
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "PRESIDENTIAL CAMPAIGN SLOGANS",
+    "DAY SONGS",
+    "ALSO A BIRD",
+    "PENINSULAS",
+    "CUTS LIKE A KNIFE",
+    "AN \"R_____T\" CATEGORY"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 6,
+     "q": "1864:\n\"Don't swap horses in the middle of the stream\"",
+     "a": "(Abraham) Lincoln",
+     "right": [
+      "D.J."
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 12,
+     "q": "\"Wednesday Morning, 3 A.M.\" is the title track of their album that also had the acoustic \"Sound Of Silence\"",
+     "a": "Simon & Garfunkel",
+     "right": [
+      "Claudia"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "To take liquid down the throat",
+     "a": "swallow",
+     "right": [
+      "D.J."
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 7,
+     "q": "This island's westernmost point lies on the Dingle Peninsula in County Kerry",
+     "a": "Ireland",
+     "right": [
+      "Claudia"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 26,
+     "q": "The official instrument of execution in France in 1792, it was still an option for the job until 1981",
+     "a": "the guillotine",
+     "right": [
+      "D.J."
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 17,
+     "q": "It's a type of jet-propulsion device, but powered by fuel it carries rather than taking in gases from around it",
+     "a": "a rocket",
+     "right": [
+      "John"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 22,
+     "q": "1976:\n\"He's making us proud again\"",
+     "a": "Ford",
+     "right": [
+      "John"
+     ],
+     "wrong": [
+      "D.J."
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 13,
+     "q": "Prince wrote this song that was the Bangles' first Top 10 hit",
+     "a": "\"Manic Monday\"",
+     "right": [
+      "D.J."
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "An antiwar politician",
+     "a": "a dove",
+     "right": [
+      "Claudia"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 8,
+     "q": "Cities on this Mexican peninsula include Ensenada & La Paz",
+     "a": "Baja California",
+     "right": [],
+     "wrong": [
+      "John",
+      "D.J."
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "You need a lighter to illuminate the writing of a pen reminding you to buy a Flex 3 razor? Don't worry, this co. makes all 3",
+     "a": "Bic",
+     "right": [
+      "Claudia"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 18,
+     "q": "The last name of Secretary of War Elihu Root is found within this last name of the president he served",
+     "a": "Roosevelt",
+     "right": [
+      "D.J."
+     ],
+     "wrong": [
+      "John"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 23,
+     "q": "1888:\n\"Grandfather's hat fits Ben\"",
+     "a": "Benjamin Harrison",
+     "right": [
+      "Claudia"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 14,
+     "q": "Katy Perry topped the charts with this song subtitled \"(T.G.I.F.)\"",
+     "a": "\"Last Friday Night\"",
+     "right": [
+      "D.J."
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 3,
+     "q": "Stretch your neck out to get a better view",
+     "a": "crane",
+     "right": [
+      "John"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 9,
+     "q": "Once an island formed by 2 volcanoes, Banks Peninsula is now part of this country's South Island",
+     "a": "New Zealand",
+     "right": [
+      "Claudia"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 28,
+     "q": "If Death took a holiday, he'd leave behind this implement with a curved cutting blade & a shaft called a snath",
+     "a": "a scythe",
+     "right": [
+      "John"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 19,
+     "q": "The Moral Majority & the Christian Coalition are groups identified as part of this alliterative movement",
+     "a": "the Religious Right",
+     "right": [
+      "D.J."
+     ],
+     "wrong": [
+      "Claudia"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 24,
+     "q": "1900:\n\"The full dinner pail\"",
+     "a": "McKinley",
+     "right": [
+      "D.J."
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 15,
+     "q": "\"Thursday\" is one of the tunes on this late singer's classic album \"I Got A Name\"",
+     "a": "Jim Croce",
+     "right": [
+      "Claudia"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 4,
+     "q": "Moving briskly",
+     "a": "a swift",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": true,
+     "order": 10,
+     "q": "This triangular peninsula juts into the northern end of the Red Sea",
+     "a": "the Sinai Peninsula",
+     "right": [],
+     "wrong": [
+      "Claudia"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1200
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "It can be used as a weapon, a tool, or a 2010 movie title",
+     "a": "a machete",
+     "right": [
+      "John"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 20,
+     "q": "William the Conquerer's father was this Duke of Normandy",
+     "a": "Robert",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 25,
+     "q": "1964:\n\"In your heart, you know he's right\"",
+     "a": "(Barry) Goldwater",
+     "right": [
+      "Claudia"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 16,
+     "q": "The Monkees mention \"status symbol land\" & \"creature comfort goals\" in this hit",
+     "a": "\"Pleasant Valley Sunday\"",
+     "right": [
+      "Claudia"
+     ],
+     "wrong": [
+      "John"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 5,
+     "q": "In bowling, 3 strikes in a row",
+     "a": "a turkey",
+     "right": [
+      "John"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 11,
+     "q": "Yalta & Balaklava are located on this peninsula",
+     "a": "the Crimean",
+     "right": [
+      "D.J."
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 30,
+     "q": "Likely a French invention, this knife that fits on the barrel of a gun first appeared around 1640",
+     "a": "a bayonet",
+     "right": [
+      "John"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 21,
+     "q": "(Kelly of the Clue Crew demonstrates a science experiment.) It's a substance used to test for another substance. When mixed with orange juice, the type that tests for vitamin C turns clear",
+     "a": "reagent",
+     "right": [
+      "John"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "THE WRIGHT STUFF",
+    "THE \"RONG\" STUFF",
+    "PLAY CHARACTERS",
+    "WHAT'S YOUR PLEASURE?",
+    "FRENCH FILMS",
+    "PHYSICS"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 3,
+     "q": "The Kill Devil Hill Monument National Memorial in this state became the Wright Brothers National Memorial in 1953",
+     "a": "North Carolina",
+     "right": [
+      "D.J."
+     ],
+     "wrong": [
+      "John"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "Louis or Lance",
+     "a": "Armstrong",
+     "right": [
+      "John"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "Hoke Colburn is the black chauffeur who drives her around",
+     "a": "Miss Daisy",
+     "right": [
+      "D.J."
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 17,
+     "q": "A gourmand",
+     "a": "eating (or food)",
+     "right": [
+      "Claudia"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 26,
+     "q": "To portray Edith Piaf in 2007's \"La Vie en Rose\", she shaved back her hairline & removed her eyebrows",
+     "a": "(Marion) Cotillard",
+     "right": [
+      "John"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 8,
+     "q": "In 1935 he argued in the \"EPR Paper\" (he was the \"E\") that quantum mechanics wasn't a complete theory",
+     "a": "Einstein",
+     "right": [
+      "D.J."
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 4,
+     "q": "In 2000 Will Wright gave us this computer game that lets the user control the daily life of families of virtual people",
+     "a": "The Sims",
+     "right": [
+      "D.J."
+     ],
+     "wrong": [
+      "John"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 22,
+     "q": "It's another word for a crowd",
+     "a": "throng",
+     "right": [
+      "John"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 13,
+     "q": "In \"The Tempest\" he isn't a little mermaid but a sprite who serves Prospero",
+     "a": "Ariel",
+     "right": [
+      "D.J."
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 18,
+     "q": "A bibliophile",
+     "a": "books",
+     "right": [
+      "Claudia"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 27,
+     "q": "Jean Dujardin stars in this 2011 black & white film set in silent-era Hollywood",
+     "a": "The Artist",
+     "right": [
+      "Claudia"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 9,
+     "q": "From the Greek for \"icy cold\", it's the science of extremely cold temperatures",
+     "a": "cryogenics",
+     "right": [
+      "Claudia"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 5,
+     "q": "The title of this book by Barack Obama was taken from a Jeremiah Wright sermon",
+     "a": "The Audacity of Hope",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 23,
+     "q": "Both men & women wear this Pacific islands garment seen here",
+     "a": "a sarong",
+     "right": [
+      "D.J."
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 14,
+     "q": "Olga, Masha & Irina are the title characters in this Chekhov play",
+     "a": "Three Sisters",
+     "right": [
+      "D.J."
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 19,
+     "q": "An oenophile",
+     "a": "wine",
+     "right": [
+      "Claudia"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 28,
+     "q": "This 2001 film starring Audrey Tautou as a shy waitress working in a Paris cafe received 5 Oscar nominations",
+     "a": "Amelie",
+     "right": [
+      "John"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 10,
+     "q": "(Jimmy demonstrates a science principle with a Slinky.) The bottom of a dropped Slinky remains stationary & then falls; in slow motion, you can see the bottom is in equilibrium between the downward pull of gravity & the upward pull of this force that tends to stretch, stress or elongate",
+     "a": "tension",
+     "right": [
+      "John"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 6,
+     "q": "This author's \"12 Million Black Voices\" is a pictorial history of African Americans",
+     "a": "Richard Wright",
+     "right": [
+      "John"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 24,
+     "q": "10-letter \"anatomical\" term meaning stubborn or obstinate",
+     "a": "headstrong",
+     "right": [
+      "D.J."
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 15,
+     "q": "At the end of this play, Vladimir asks, \"Well? Shall we go?\" Estragon: \"Yes, let's go.\" (\"They do not move\")",
+     "a": "Waiting for Godot",
+     "right": [
+      "John"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 20,
+     "q": "A dendrophil",
+     "a": "trees",
+     "right": [
+      "D.J."
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 29,
+     "q": "1959's \"Black Orpheus\" retold the tale of Orpheus & Eurydice set during this South American city's Carnival",
+     "a": "Rio de Janeiro",
+     "right": [
+      "Claudia"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 11,
+     "q": "In 1865 physicist Rudolf Clausius coined this term for the measure of disorder or randomness in a system",
+     "a": "entropy",
+     "right": [
+      "D.J."
+     ],
+     "wrong": [
+      "John"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 7,
+     "q": "This follows Wright in the name of an Ohio Air Force base",
+     "a": "Patterson",
+     "right": [
+      "John"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 25,
+     "q": "This hoofed mammal can really hoof it, hitting 60 MPH",
+     "a": "pronghorn",
+     "right": [
+      "John"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": true,
+     "order": 16,
+     "q": "Patrons at Harry Hope's saloon eagerly awaiteth Theodore \"Hickey\" Hickman's arrival in this O'Neill play",
+     "a": "The Iceman Cometh",
+     "right": [],
+     "wrong": [
+      "John"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 800
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 21,
+     "q": "A logophile",
+     "a": "words",
+     "right": [
+      "John"
+     ],
+     "wrong": [
+      "D.J."
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 30,
+     "q": "This French New Waver directed the autobiographical film \"The 400 Blows\"",
+     "a": "Francois Truffaut",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": true,
+     "order": 12,
+     "q": "2 light waves whose phases have a fixed relationship, as in a laser, are said to be this, like a clear sentence",
+     "a": "coherent",
+     "right": [
+      "D.J."
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2000
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "WORD ORIGINS",
+  "q": "From the French for \"to set in the woods\", this word refers to a type of attack",
+  "a": "ambush",
+  "right": [],
+  "wrong": [
+   "Claudia",
+   "John",
+   "D.J."
+  ]
+ },
+ "gameId": "3909",
+ "cat_notes": {
+  "J": [
+   "Clues about Presidential Campaign Slogans.",
+   "Clues about Day Songs.",
+   "Clues about Also a Bird.",
+   "Clues about Peninsulas.",
+   "Clues about Cuts Like a Knife.",
+   "Responses will begin with the letter R and end with the letter T."
+  ],
+  "DJ": [
+   "Clues about The Wright Stuff.",
+   "Each answer contains the letter group “RONG”.",
+   "Clues about Play Characters.",
+   "The category “WHAT'S YOUR PLEASURE?” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "Clues about French Films.",
+   "Clues about Physics."
+  ],
+  "F": "Clues about Word Origins."
+ }
+}

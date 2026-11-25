@@ -1,0 +1,991 @@
+{
+ "show": "#6411",
+ "aired": "2012-07-02",
+ "note": "",
+ "contestants": [
+  {
+   "name": "Taylor Norwood",
+   "bio": "a high school speech and debate teacher from Dallas, Texas",
+   "short": "Taylor"
+  },
+  {
+   "name": "Misha Bushyager",
+   "bio": "a culinary student and mom from Baltimore, Maryland",
+   "short": "Misha"
+  },
+  {
+   "name": "Matt Samberg",
+   "bio": "an attorney from Pittsburgh, Pennsylvania (whose 1-day cash winnings total $21,400)",
+   "short": "Matt"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Matt": 3600,
+   "Misha": -1000,
+   "Taylor": 4000
+  },
+  "DJ": {
+   "Matt": 12300,
+   "Misha": 9000,
+   "Taylor": 11600
+  },
+  "Final": {
+   "Matt": 23201,
+   "Misha": 18000,
+   "Taylor": 23190
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "ROLLING STONE'S GREATEST GUITARISTS",
+    "LITERARY ADJECTIVES",
+    "STATE THE NATIONAL PARK",
+    "ABBRE-V-ATIONS",
+    "NOTABLE HUNGARIANS",
+    "MEDICAL TALK"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 7,
+     "q": "The winner, & still No. 1: this Purple Hazer",
+     "a": "(Jimi) Hendrix",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 13,
+     "q": "8 letters: if a psychoanalyst's \"slip\" is showing, it's probably this kind",
+     "a": "Freudian",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 14,
+     "q": "Petrified Forest National Park",
+     "a": "Arizona",
+     "right": [
+      "Taylor"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 20,
+     "q": "In naval ranks: VA",
+     "a": "Vice Admiral",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 6,
+     "q": "Born Erik Weisz in Budapest, he took his stage name from a French magician",
+     "a": "Harry Houdini",
+     "right": [
+      "Taylor"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "Bleeding from here, sometimes caused by dry air, is called epistaxis",
+     "a": "the nose",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 9,
+     "q": "I saw this top-ranked Beatle standing there at No. 11, & that's saying \"Something\"",
+     "a": "George Harrison",
+     "right": [
+      "Taylor"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 15,
+     "q": "8 letters: a type of \"bargain\" with the devil, named for a man who made such a deal",
+     "a": "Faustian",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 16,
+     "q": "North Cascades National Park",
+     "a": "Washington",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 21,
+     "q": "Named for a Tudor: VA",
+     "a": "Virginia",
+     "right": [
+      "Misha"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 8,
+     "q": "A music academy in Budapest is named for this pianist & composer who founded it in 1875",
+     "a": "(Franz) Liszt",
+     "right": [
+      "Taylor"
+     ],
+     "wrong": [
+      "Matt"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "An ectopic pregnancy occurs when the fertilized egg implants outside of this hollow organ",
+     "a": "the uterus",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 10,
+     "q": "Though \"Dazed and Confused\", this Zep axeman climbed a stairway to the No. 3 spot",
+     "a": "Jimmy Page",
+     "right": [
+      "Taylor"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 18,
+     "q": "7 letters: isn't it pertaining to poet George Gordon... don't you think?",
+     "a": "Byronic",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 17,
+     "q": "Zion National Park",
+     "a": "Utah",
+     "right": [
+      "Taylor"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 22,
+     "q": "A British order of knighthood: VA",
+     "a": "Victoria & Albert",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 28,
+     "q": "He's been called \"the real Dr. Strangelove\" as well as \"the father of the h-bomb\"",
+     "a": "(Edward) Teller",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 3,
+     "q": "Otitis externa is the medical term for this \"sporty\" condition, an infection often caused by polluted water",
+     "a": "swimmer's ear",
+     "right": [
+      "Misha"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 11,
+     "q": "This rock pioneer was Goode enough to finish at sweet little 7",
+     "a": "Chuck Berry",
+     "right": [
+      "Taylor"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 19,
+     "q": "10 letters: after the author of \"A Hunger Artist\", it means marked by surreal distortion",
+     "a": "Kafkaesque",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 26,
+     "q": "Hot Springs National Park",
+     "a": "Arkansas",
+     "right": [
+      "Taylor"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 23,
+     "q": "In an international Internet domain name: .va",
+     "a": "the Vatican",
+     "right": [],
+     "wrong": [
+      "Matt"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "Beginning with his first guidebook, \"1936--On the Continent\", he revolutionized the travel publishing industry",
+     "a": "(Eugene) Fodor",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 4,
+     "q": "Hordeolum is another name for this, a 3-letter term for an abscess occurring on the edge of the eyelid",
+     "a": "a sty",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": true,
+     "order": 12,
+     "q": "The Cream didn't quite rise to the top; this guitar!st floated up to No. 2",
+     "a": "Eric Clapton",
+     "right": [
+      "Taylor"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1000
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 25,
+     "q": "7 letters: adjective for works like \"Arms and the Man\"",
+     "a": "Shavian",
+     "right": [],
+     "wrong": [
+      "Misha"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 27,
+     "q": "Lassen Volcanic National Park",
+     "a": "California",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 24,
+     "q": "In optometry: V/A",
+     "a": "visual acuity",
+     "right": [],
+     "wrong": [
+      "Misha"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 30,
+     "q": "After moving to America, he directed such film classics as \"Casablanca\" & \"Mildred Pierce\"",
+     "a": "Michael Curtiz",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 5,
+     "q": "Synonyms for it are pollex & digitus primus",
+     "a": "the thumb",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [
+      "Taylor"
+     ],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "HARD TIMES",
+    "BLEAK HOUSE",
+    "OLIVER TWIST",
+    "OUR MUTUAL FIEND",
+    "THE QUICK PICK PAPERS",
+    "THE CHARLES DICKENS BICENTENNIAL"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 16,
+     "q": "A U.S. recession was caused in part by the 1802 treaty of Amiens, bringing peace between France & this signing nation",
+     "a": "Great Britain",
+     "right": [
+      "Taylor"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 10,
+     "q": "Your house won't be bleak for long if it has a Rialto luxury lift power recliner from this hyphenated company",
+     "a": "La-Z-Boy",
+     "right": [
+      "Taylor"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "The eggs of fish or crustaceans",
+     "a": "roe",
+     "right": [
+      "Taylor"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 21,
+     "q": "In 1961 Betty Lou Gerson voiced this villainess in the original \"101 Dalmatians\"; in 1996 Glenn Close got the role",
+     "a": "Cruella de Vil",
+     "right": [
+      "Taylor"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 6,
+     "q": "Put \"back\" in front of this type of instant lottery ticket & you get an item that helps you get to hard-to-reach spots",
+     "a": "a scratcher",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 26,
+     "q": "The \"Dickens on Screen\" festival showed the 1951 \"Christmas Carol\" adaptation with Alastair Sim as this character",
+     "a": "Ebenezer Scrooge",
+     "right": [
+      "Taylor"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 17,
+     "q": "One cause of the panic of 1873 was overinvestment in this form of transportation, as with the Northern Pacific line",
+     "a": "railroads",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 11,
+     "q": "If you have \"everything but\" this 2-word item, why not try an apron-front or tile-in style",
+     "a": "kitchen sink",
+     "right": [
+      "Taylor"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 2,
+     "q": "In 1 syllable, disgusting",
+     "a": "vile",
+     "right": [
+      "Misha"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 22,
+     "q": "On film this brutal captain was played by Charles Laughton & Trevor Howard--oh yeah, & Anthony Hopkins",
+     "a": "(Capt.) Bligh",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 7,
+     "q": "Vegas' Silverton is one of the casinos with a \"lounge\" for this lottery-type game; pick the right numbers & you can win big!",
+     "a": "keno",
+     "right": [
+      "Taylor"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 27,
+     "q": "The Brits even celebrated the April 2 Bicentennial of John Forster, who had this role repping Dickens to publishers",
+     "a": "literary agent",
+     "right": [
+      "Misha"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": true,
+     "order": 18,
+     "q": "The economic contraction known as the Panic of 1907 led Congress to create this system in 1913",
+     "a": "the Federal Reserve",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2400
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 12,
+     "q": "A svelvik, malm or nyvoll bed frame from this company will make sure you don't dread your bed",
+     "a": "IKEA",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 3,
+     "q": "The only astrological sign that fits",
+     "a": "Leo",
+     "right": [
+      "Taylor"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 23,
+     "q": "Arnold Schwarzenegger first met this fiend in 1987; Danny Glover & Adrien Brody came later",
+     "a": "Predator",
+     "right": [
+      "Taylor"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 8,
+     "q": "The Irish Sweepstakes combined lottery drawings with this other sport",
+     "a": "horse racing",
+     "right": [
+      "Misha"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 28,
+     "q": "On the big day, February 7, Prince Charles & Ralph Fiennes paid tribute at this London burial site",
+     "a": "Westminster Abbey",
+     "right": [
+      "Taylor"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 19,
+     "q": "When land & farm prices collapsed in 1887, farmers demanded the unlimited, or \"Free\", coinage of this metal",
+     "a": "silver",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 13,
+     "q": "Perk up a drab bathroom with this type of tub, named for a distinctive feature",
+     "a": "clawfoot",
+     "right": [
+      "Misha"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 4,
+     "q": "For the contestants to quiz me would be this type of reversal",
+     "a": "role",
+     "right": [
+      "Misha"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 24,
+     "q": "Hayden Christensen & Jake Lloyd both played the character who would grow up to be this fiend",
+     "a": "Darth Vader",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 9,
+     "q": "Lotteries helped establish several U.S. schools, including NYC's King's College, now called this",
+     "a": "Columbia",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 29,
+     "q": "This title boy & Mr. Micawber are appearing onstage at the theater where the \"Pinball Wizard\" scene in \"Tommy\" was filmed",
+     "a": "David Copperfield",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [
+      "Taylor"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 20,
+     "q": "The crisis of 2008 brought forth the TARP program to buy up MBS, short for these not so secure \" securities \"",
+     "a": "mortgage-backed",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 14,
+     "q": "Your doors need zing...how 'bout these side-by-side doors aka casement doors, with glass panes down their length",
+     "a": "French doors",
+     "right": [
+      "Misha"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 5,
+     "q": "To disturb & make cloudy by stirring up sediment",
+     "a": "rile (or roil)",
+     "right": [
+      "Misha"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 25,
+     "q": "Donald Pleasence, Max von Sydow & Telly Savalas played this nemesis of MI6",
+     "a": "Ernst Stavro Blofeld",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 15,
+     "q": "As a legislator in Massachusetts from 1827 to 1837, this educator acted to get lottery ticket sales banned",
+     "a": "(Horace) Mann",
+     "right": [
+      "Taylor"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": true,
+     "order": 30,
+     "q": "This city named for its \"harbor entrance\" location re-created the dance at which Elizabeth Dickens' water broke",
+     "a": "Portsmouth",
+     "right": [],
+     "wrong": [
+      "Matt"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 5300
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "FAMOUS RELATIVES",
+  "q": "In 2011 his daughter Svetlana, living in the U.S. under the name Lana Peters, died in Wisconsin at age 85",
+  "a": "Joseph Stalin",
+  "right": [
+   "Misha",
+   "Taylor",
+   "Matt"
+  ],
+  "wrong": []
+ },
+ "gameId": "3932",
+ "cat_notes": {
+  "J": [
+   "Clues about Rolling Stone's Greatest Guitarists.",
+   "Clues about Literary Adjectives.",
+   "Clues about State the National Park.",
+   "Clues about Abbre-v-ations.",
+   "Clues about Notable Hungarians.",
+   "Clues about Medical Talk."
+  ],
+  "DJ": [
+   "Clues about Hard Times.",
+   "Clues about Bleak House.",
+   "Each correct response will be a short word from the letters in \"Oliver\".",
+   "Clues about Our Mutual Fiend.",
+   "Clues about The Quick Pick Papers.",
+   "Clues about The Charles Dickens Bicentennial."
+  ],
+  "F": "Clues about Famous Relatives."
+ }
+}
