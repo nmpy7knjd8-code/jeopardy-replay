@@ -771,8 +771,38 @@ const sfx={
 };
 
 /* ---------- clue read-aloud (speechSynthesis) ---------- */
+/* Host-pace timing: the lights / buzzers / answer prompt arm when a
+ * real host would finish the clue, not when our TTS happens to end.
+ * 2.7 words/sec (162 wpm) is a touch quicker than typical conversational
+ * American English (~150 wpm / 2.5 wps) and matches a measured-style
+ * Jeopardy! host cadence. TTS is sped up just enough to finish slightly
+ * early (early=0.12, ~12% of host time) so the last word is out before
+ * the lights. The utterance is NEVER cancelled for timing — if a voice
+ * runs long, it keeps playing after the buzzers open. Skip, home, round-
+ * skip, and the mute button still cancel, as a leave of the clue.
+ */
 const Voice={
   tok:0, text:null, onDone:null, active:false, voice:null,
+  read:{
+    hostWps:2.7,
+    early:0.12,
+    minMs:700,
+    minRate:0.85,
+    maxRate:1.5
+  },
+  wordCount(text){
+    return String(text||'').trim().split(/\s+/).filter(Boolean).length;
+  },
+  hostMs(text){
+    const w=this.wordCount(text);
+    if(!w)return 0;
+    return Math.max(this.read.minMs, Math.round(1000*w/this.read.hostWps));
+  },
+  rateFor(text){
+    const early=this.read.early;
+    const r=early>=1?this.read.maxRate:1/(1-early);
+    return Math.max(this.read.minRate, Math.min(this.read.maxRate, r));
+  },
   enabled(){return !AUTO&&!FAST&&!G.voiceMute&&!!window.speechSynthesis},
   pick(){
     if(!window.speechSynthesis)return null;
@@ -806,26 +836,31 @@ const Voice={
     try{if(window.speechSynthesis)speechSynthesis.cancel()}catch(e){}
   },
   speak(text,onDone){
-    const words=String(text||'').trim().split(/\s+/).filter(Boolean).length;
-    const silentMs=R(1300+words*230);
-    if(!this.enabled()||!String(text||'').trim()){later(onDone,silentMs);return}
-    this.pick();
+    const hostMs=this.hostMs(text);
     const tok=++this.tok;
-    this.text=text;this.onDone=onDone;this.active=true;
-    const done=()=>{if(tok!==this.tok)return;this.tok++;this.active=false;this.text=null;this.onDone=null;onDone&&onDone()};
-    const fallback=Math.min(25000,Math.max(8000,1500+words*400));
-    const start=()=>{
-      if(tok!==this.tok)return;
-      try{
-        speechSynthesis.cancel();
-        const u=new SpeechSynthesisUtterance(text);
-        if(this.voice){u.voice=this.voice;u.lang=this.voice.lang||'en-US'}else u.lang='en-US';
-        u.rate=1;u.onend=done;u.onerror=done;
-        speechSynthesis.speak(u);
-      }catch(e){done()}
+    this.text=text||'';this.onDone=onDone;this.active=false;
+    const arm=()=>{
+      later(()=>{if(tok!==this.tok)return;this.onDone=null;onDone&&onDone()},R(hostMs||0));
     };
-    start();
-    later(()=>{if(tok===this.tok){try{speechSynthesis.cancel()}catch(e){}done()}},fallback);
+    if(!String(text||'').trim()||AUTO||FAST||!this.enabled()){
+      arm();
+      return;
+    }
+    this.pick();
+    this.active=true;
+    const rate=this.rateFor(text);
+    try{
+      // Drop a leftover utterance from a previous clue only — never
+      // cancel this clue's speech to open the buzzers.
+      speechSynthesis.cancel();
+      const u=new SpeechSynthesisUtterance(text);
+      if(this.voice){u.voice=this.voice;u.lang=this.voice.lang||'en-US'}else u.lang='en-US';
+      u.rate=rate;
+      u.onend=()=>{if(tok!==this.tok)return;this.active=false;if(this.text===text)this.text=null};
+      u.onerror=()=>{if(tok!==this.tok)return;this.active=false};
+      speechSynthesis.speak(u);
+    }catch(e){this.active=false}
+    arm();
   },
   pause(){
     if(!this.active||!window.speechSynthesis)return;
@@ -843,15 +878,17 @@ const Voice={
     try{
       if(speechSynthesis.paused){speechSynthesis.resume();return}
     }catch(e){}
-    // pause unsupported or cancel happened: restart the clue
+    // pause unsupported or cancel happened: restart the clue, keep the
+    // already-running host timer (same tok).
     if(this.text&&this.onDone){
-      const text=this.text,onDone=this.onDone,tok=this.tok;
+      const text=this.text,tok=this.tok;
       try{
         speechSynthesis.cancel();
         const u=new SpeechSynthesisUtterance(text);
         if(this.voice){u.voice=this.voice;u.lang=this.voice.lang||'en-US'}else u.lang='en-US';
-        u.rate=1;u.onend=()=>{if(tok!==this.tok)return;this.active=false;this.text=null;this.onDone=null;onDone&&onDone()};
-        u.onerror=u.onend;
+        u.rate=this.rateFor(text);
+        u.onend=()=>{if(tok!==this.tok)return;this.active=false;if(this.text===text)this.text=null};
+        u.onerror=()=>{if(tok!==this.tok)return;this.active=false};
         speechSynthesis.speak(u);
       }catch(e){}
     }
@@ -860,7 +897,10 @@ const Voice={
     G.voiceMute=!!on;
     try{localStorage.setItem('jr-voice-mute',G.voiceMute?'1':'0')}catch(e){}
     if(G.voiceMute&&this.active){
-      const cb=this.onDone;this.cancel();cb&&cb();
+      // Stop talking, but do not skip the remaining host-pace wait and
+      // do not cut the utterance off the timer — tok stays so arm() still fires.
+      this.active=false;this.text=null;
+      try{if(window.speechSynthesis)speechSynthesis.cancel()}catch(e){}
     }
   }
 };
