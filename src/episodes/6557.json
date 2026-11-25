@@ -1,0 +1,994 @@
+{
+ "show": "#8166",
+ "aired": "2020-02-24",
+ "note": "MacKenzie Jones game 6.",
+ "contestants": [
+  {
+   "name": "Steve Goodreau",
+   "bio": "a professor from Seattle, Washington",
+   "short": "Steve"
+  },
+  {
+   "name": "Jennifer Aziz",
+   "bio": "a lawyer from Toronto, Ontario, Canada",
+   "short": "Jennifer"
+  },
+  {
+   "name": "MacKenzie Jones",
+   "bio": "a program development director from Tulsa, Oklahoma (whose 5-day cash winnings total $130,803)",
+   "short": "MacKenzie"
+  }
+ ],
+ "scores": {
+  "J": {
+   "MacKenzie": 2800,
+   "Jennifer": 2400,
+   "Steve": 7000
+  },
+  "DJ": {
+   "MacKenzie": 15800,
+   "Jennifer": 6800,
+   "Steve": 16400
+  },
+  "Final": {
+   "MacKenzie": 31600,
+   "Jennifer": 13500,
+   "Steve": 1199
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "FAIRY TALE POLICE REPORT",
+    "AROUND THE WORLD",
+    "GAME TIME!",
+    "LIFETIME MOVIE TITLES",
+    "4-LETTER WORDS WITH 1 VOWEL",
+    "AMERICAN WOMEN & POLITICS"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 21,
+     "q": "\"Kidnapping of untold numbers of kids in Hamelin, musical nuisance...\"",
+     "a": "the Pied Piper",
+     "right": [
+      "Jennifer"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 4,
+     "q": "This chain of North American lakes covers an area larger than the United Kingdom",
+     "a": "the Great Lakes",
+     "right": [
+      "MacKenzie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 9,
+     "q": "This \"apologetic\" board game is similar to parcheesi",
+     "a": "Sorry!",
+     "right": [
+      "Jennifer"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "Harvey Keitel turns up in \"Fatal\" this post-wedding trip",
+     "a": "Honeymoon",
+     "right": [
+      "MacKenzie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 16,
+     "q": "Proverbially, it \"is more\"",
+     "a": "less",
+     "right": [
+      "Jennifer"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 15,
+     "q": "In 2008 she became the first Republican woman nominee for vice president",
+     "a": "(Sarah) Palin",
+     "right": [
+      "Steve"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 22,
+     "q": "\"Open & shut. He admitted to killing Cock Robin, in cold blood with bow & arrow\"",
+     "a": "the Sparrow",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 5,
+     "q": "This African cape was thought to be a sign of a sea route to India from Europe, hence its name",
+     "a": "the Cape of Good Hope",
+     "right": [
+      "Steve"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 10,
+     "q": "Albert Lamorisse made the short film \"The Red Balloon\" & created this 4-letter board game of conquest",
+     "a": "Risk",
+     "right": [
+      "Steve"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "Shake your pom-poms for 2019's \"The Secret Lives of\" these, starring Denise Richards as mom to Ava, who makes the team",
+     "a": "Cheerleaders",
+     "right": [
+      "MacKenzie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 17,
+     "q": "You do it as a verb to your eyebrow & have one as a noun as part of your foot",
+     "a": "arch",
+     "right": [
+      "Jennifer"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 24,
+     "q": "Her resume includes 32nd attorney general of California, U.S. senator & recent presidential hopeful",
+     "a": "(Kamala) Harris",
+     "right": [
+      "Jennifer"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 23,
+     "q": "\"Breaking & entering, porridge theft; charge of cruelty to animals probably won't stick\"",
+     "a": "Goldilocks",
+     "right": [
+      "MacKenzie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": true,
+     "order": 6,
+     "q": "The co-princes of this tiny country in the Pyrenees are the French president & the Bishop of Urgell",
+     "a": "Andorra",
+     "right": [
+      "Steve"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1000
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 11,
+     "q": "When creating this 3-letter twist on crazy eights, inventor Merle Robbins just started writing instructions on playing cards",
+     "a": "Uno",
+     "right": [
+      "Jennifer"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 3,
+     "q": "Hayden Panettiere had the title role in this American woman: \"Murder on Trial in Italy\"",
+     "a": "Amanda Knox",
+     "right": [
+      "Steve"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 18,
+     "q": "Below the correct pitch, choirboy",
+     "a": "flat",
+     "right": [
+      "Steve"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 26,
+     "q": "In 1996 & again in 2000, Winona LaDuke was the vice presidential running mate of this Green Party candidate",
+     "a": "Ralph Nader",
+     "right": [],
+     "wrong": [
+      "Jennifer",
+      "Steve"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 25,
+     "q": "\"Traded the family's cow for some beans; charged with ogricide\"",
+     "a": "Jack",
+     "right": [
+      "Steve"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 7,
+     "q": "It was the capital of Poland for several hundred years until 1596",
+     "a": "Krakow",
+     "right": [
+      "Steve"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 12,
+     "q": "This naughty party game based on \"Apples to Apples\" was earlier called \"Cardenfreude\"",
+     "a": "Cards Against Humanity",
+     "right": [
+      "MacKenzie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 13,
+     "q": "Ripped from the headlines in 2011, \"The\" this online classified community \"Killer\"",
+     "a": "Craigslist",
+     "right": [
+      "MacKenzie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 19,
+     "q": "Any minor legally placed in the care of a guardian",
+     "a": "a ward",
+     "right": [
+      "Steve"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 28,
+     "q": "As secretary of state, she was fourth in line to the presidency, but born in Prague, she was ineligible for the the office",
+     "a": "(Madeleine) Albright",
+     "right": [
+      "MacKenzie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 30,
+     "q": "\"Plotted to take queen's firstborn child by offering to spin straw into gold for her\"",
+     "a": "Rumpelstiltskin",
+     "right": [],
+     "wrong": [
+      "MacKenzie",
+      "Jennifer"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 8,
+     "q": "One of Asia's most vulnerable rainforests is in the mountains of Cambodia named for this spice that also starts with the letter C",
+     "a": "cardamom",
+     "right": [
+      "Jennifer"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 27,
+     "q": "The spy is the only piece that can nab a marshal in this game that's basically tabletop capture the flag",
+     "a": "Stratego",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 14,
+     "q": "Ripped from the headlines in 2012, doing this icky kind of messaging \"in Suburbia\"",
+     "a": "Sexting",
+     "right": [
+      "Steve"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 20,
+     "q": "Anything deceitfully false, or a type of cover for a pillow",
+     "a": "a sham",
+     "right": [
+      "Jennifer"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 29,
+     "q": "So far, Christine Todd Whitman, in office from 1994 to 2001, has been this state's only female governor",
+     "a": "New Jersey",
+     "right": [
+      "Steve"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "ELECTRICITY",
+    "CITY FILMS",
+    "ONLY THE GOOD CHARACTERS DIE YOUNG",
+    "19th CENTURY HISTORY",
+    "3 Os FOR YOU",
+    "MACHO CHEESE"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 24,
+     "q": "All aboard! It's the term for a material that allows electricity to flow through it easily",
+     "a": "a conductor",
+     "right": [
+      "Jennifer"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 3,
+     "q": "1993: Tom Hanks struggles with insomnia",
+     "a": "Sleepless in Seattle",
+     "right": [
+      "MacKenzie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 19,
+     "q": "Elizabeth, the real-life sister of this novelist, died at age 22 & was the basis for the doomed Beth March",
+     "a": "Alcott",
+     "right": [
+      "MacKenzie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 8,
+     "q": "April 9, 1878 was a normal night in Dodge City; Jack Wagner killed marshal Ed Masterson & this brother of Ed's killed Jack",
+     "a": "Bat Masterson",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "Someone perched at a vantage point to keep watch for danger or trouble",
+     "a": "a lookout",
+     "right": [
+      "MacKenzie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "You're likely used to the mild kind of this creamy French cheese on crackers, but the \"de Melun\" type is more pungent",
+     "a": "brie",
+     "right": [
+      "Steve"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 25,
+     "q": "It's any device that converts mechanical energy into electrical energy, not just when the power is out",
+     "a": "a generator",
+     "right": [
+      "MacKenzie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 4,
+     "q": "2002: Catherine Zeta-Jones as Velma sings on death row",
+     "a": "Chicago",
+     "right": [
+      "MacKenzie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 20,
+     "q": "You know whose fault it really is that Augustus Waters dies of cancer in this novel? John Green!",
+     "a": "The Fault in Our Stars",
+     "right": [
+      "Jennifer"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 9,
+     "q": "Until 1875 the Suez Canal was owned by Egypt & France, then financial problems forced Egypt to sell its shares to this country",
+     "a": "the United Kingdom",
+     "right": [
+      "Steve"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 12,
+     "q": "Pupa protector",
+     "a": "a cocoon",
+     "right": [
+      "Steve"
+     ],
+     "wrong": [
+      "MacKenzie"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 17,
+     "q": "The history of the fragrant cheese known as stinking bishop dates back to the Cistercian order of these men",
+     "a": "monks",
+     "right": [
+      "Jennifer"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 26,
+     "q": "A wet cell is a battery containing ions in one of these that's a liquid; in a dry cell, it's a paste",
+     "a": "electrolyte",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 5,
+     "q": "2011: Voiced by Jesse Eisenberg, Blu the macaw overcomes long distance travel & birdnappers",
+     "a": "Rio",
+     "right": [
+      "MacKenzie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 21,
+     "q": "Spoiler alert! Lennie Small doesn't live to see the end of this novel (& no rabbits were harmed in the making of the clue)",
+     "a": "Of Mice and Men",
+     "right": [
+      "MacKenzie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 10,
+     "q": "With a capacity of 7,000 barrels, the Charles of Antwerp shipped out in 1869 as the first this to sail",
+     "a": "an oil tanker",
+     "right": [
+      "Steve"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 14,
+     "q": "As an adjective it means creating movement; as a noun, it's the powered train car",
+     "a": "a locomotive",
+     "right": [
+      "Jennifer"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 18,
+     "q": "The smelly rind on this cheese made from the milk of Vosgienne cows sounds perfect for Herman, Lily & Grandpa",
+     "a": "Muenster",
+     "right": [
+      "Jennifer"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 27,
+     "q": "Magid makes its A.R.C. insulating gloves from this natural material & they'll protect you up to 1,000 volts",
+     "a": "rubber",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 6,
+     "q": "2013: Matthew McConaughey looks to score some life-saving meds",
+     "a": "Dallas Buyers Club",
+     "right": [
+      "MacKenzie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 22,
+     "q": "Schoolboys Gene & Finny are the best of friends; one doesn't make it out of this John Knowles novel alive",
+     "a": "A Separate Peace",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 11,
+     "q": "Once known as Upper Peru, it changed its name upon independence in 1825 to honor the man who helped liberate it",
+     "a": "Bolivia",
+     "right": [
+      "Jennifer"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 15,
+     "q": "This \"via\" or road is said to follow the path along which Jesus carried the cross",
+     "a": "Dolorosa",
+     "right": [
+      "Steve"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 29,
+     "q": "This large Italian island due south of Corsica is famous for casu marzu, a pungent cheese",
+     "a": "Sardinia",
+     "right": [
+      "Steve"
+     ],
+     "wrong": [
+      "Jennifer"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 28,
+     "q": "This German physicist's law governs the relationship between voltage & resistance",
+     "a": "(Georg) Ohm",
+     "right": [
+      "Jennifer"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 7,
+     "q": "1940: Cary Grant, Jimmy Stewart & Katharine Hepburn tell a tale of non-brotherly love",
+     "a": "The Philadelphia Story",
+     "right": [
+      "Steve"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": true,
+     "order": 23,
+     "q": "After saving some kids' lives in \"The Outsiders\", Johnny tells this main character to stay gold, then joins our category",
+     "a": "Ponyboy",
+     "right": [
+      "MacKenzie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 7000
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": true,
+     "order": 13,
+     "q": "After success at Second Bull Run, Confederate armies began an invasion of Maryland; this Sept. 17, 1862 battle stopped them",
+     "a": "Antietam",
+     "right": [
+      "Steve"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 3000
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 16,
+     "q": "In this kind of artwork, sometimes the idea is to have texture come to the forefront",
+     "a": "monochrome (monochromatic)",
+     "right": [],
+     "wrong": [
+      "Jennifer"
+     ],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 30,
+     "q": "It's said that this Belgian product is \"undoubtedly one of the stinkiest of the strong-smelling cheeses\"",
+     "a": "Limburger",
+     "right": [],
+     "wrong": [
+      "Steve"
+     ],
+     "stumper": true,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "MUSIC STARS",
+  "q": "On July 26, 1972 he testified before a Senate subcommittee on national penitentiaries",
+  "a": "Johnny Cash",
+  "right": [
+   "Jennifer",
+   "MacKenzie"
+  ],
+  "wrong": [
+   "Steve"
+  ]
+ },
+ "gameId": "6557",
+ "cat_notes": {
+  "J": [
+   "Clues about Fairy Tale Police Report.",
+   "Clues about Around the World.",
+   "The category “GAME TIME!” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "Clues about Lifetime Movie Titles.",
+   "Each answer is a 4-letter word or term related to With 1 Vowel.",
+   "Clues about American Women and Politics."
+  ],
+  "DJ": [
+   "Clues about Electricity.",
+   "Clues about City Films.",
+   "Clues about Only the Good Characters Die Young.",
+   "Clues about 19th Century History.",
+   "Clues about 3 Os for You.",
+   "Clues about Macho Cheese."
+  ],
+  "F": "Clues about Music Stars."
+ }
+}

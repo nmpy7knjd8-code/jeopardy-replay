@@ -1,0 +1,998 @@
+{
+ "show": "#8116",
+ "aired": "2019-12-16",
+ "note": "Jennifer Quail game 9.",
+ "contestants": [
+  {
+   "name": "Kirby Copelin",
+   "bio": "a data analyst from Cincinnati, Ohio",
+   "short": "Kirby"
+  },
+  {
+   "name": "Patrick Yurky",
+   "bio": "a software engineer from Pittsburgh, Pennsylvania",
+   "short": "Patrick"
+  },
+  {
+   "name": "Jennifer Quail",
+   "bio": "a wine tasting consultant from Dowagiac, Michigan (whose 8-day cash winnings total $228,800)",
+   "short": "Jennifer"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Jennifer": 5600,
+   "Patrick": 5800,
+   "Kirby": 3200
+  },
+  "DJ": {
+   "Jennifer": 17200,
+   "Patrick": 14600,
+   "Kirby": 19000
+  },
+  "Final": {
+   "Jennifer": 34200,
+   "Patrick": 10033,
+   "Kirby": 34401
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "A EUROPEAN RIVER TOUR",
+    "THE AUTHOR'S CHARACTERS",
+    "CHRISTMAS RAPPING",
+    "GIVE ME A \"V\"",
+    "SPARK JOY",
+    "MARIE'S CONDO"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 29,
+     "q": "(Sarah of the Clue Crew reports from the Széchenyi Chain Bridge in Budapest, Hungary.) The Széchenyi Chain Bridge was the first to permanently span this river & connect the two old cities that form Hungary's capital; at the time, there was debate over \"Budapest\" versus \"Pestbuda\"",
+     "a": "the Danube",
+     "right": [
+      "Jennifer"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "Fanny, who visits Mansfield Park, & hunky Edmund, whom she meets there",
+     "a": "Jane Austen",
+     "right": [
+      "Jennifer"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 30,
+     "q": "Kanye rapped about \"Christmas in\" this Manhattan neighborhood north of 110th Street",
+     "a": "Harlem",
+     "right": [
+      "Jennifer"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 6,
+     "q": "In UV rays",
+     "a": "violet",
+     "right": [
+      "Patrick"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 26,
+     "q": "Schiller's \"Ode to Joy\" sparked joy for this composer who used it for the choral movement of his \"Ninth Symphony\"",
+     "a": "Beethoven",
+     "right": [
+      "Kirby"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 27,
+     "q": "Marie's monthly nut for her condo naturally includes HOA dues, HOA short for this",
+     "a": "homeowners association",
+     "right": [
+      "Kirby"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 24,
+     "q": "(Jimmy of the Clue Crew reports from Nuremberg, Germany.) With some 50 million cookies produced each year in all sizes & shapes, Nuremberg, Germany is this Christmas treat capital of the world",
+     "a": "gingerbread cookie",
+     "right": [
+      "Patrick"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "Unlikely allies Jack Ryan & Captain Marko Ramius",
+     "a": "Tom Clancy",
+     "right": [
+      "Jennifer"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 28,
+     "q": "Tyler, the Creator raps, \"I am\" this character, \"Tell your homeboy in a red suit to chill, before I ban him from Who-ville\"",
+     "a": "the Grinch",
+     "right": [
+      "Patrick"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 12,
+     "q": "In VR, which allows you to experience anything, anywhere, at any time",
+     "a": "virtual",
+     "right": [
+      "Patrick"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 25,
+     "q": "Here's a \"View\" of this TV personality",
+     "a": "Joy Behar",
+     "right": [
+      "Jennifer"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 23,
+     "q": "Around the condo the grounds open to all are called these \"areas\", just like Marie's favorite rapper",
+     "a": "common",
+     "right": [
+      "Patrick"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 11,
+     "q": "(Sarah of the Clue Crew reports from the State Opera House in Vienna, Austria.) The Vienna State Opera House was built in Neo- this style to reflect that 16th century period of artistic rediscovery when the art form of opera was born",
+     "a": "Renaissance",
+     "right": [
+      "Jennifer"
+     ],
+     "wrong": [
+      "Patrick"
+     ],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 3,
+     "q": "\"Fourth Grade Nothing\" Peter Hatcher & Sally J. Freedman as herself",
+     "a": "Judy Blume",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 15,
+     "q": "This rapper, real name Christopher Bridges, mixes his name with \"Crismas\" saying, \"All I want for Christmas is 2 gold front teeth\"",
+     "a": "Ludacris",
+     "right": [],
+     "wrong": [
+      "Jennifer"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 16,
+     "q": "In a DVM degree--this 10-letter adjective",
+     "a": "Veterinary",
+     "right": [
+      "Jennifer"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 22,
+     "q": "A foreword to this book says Irma Rombauer wrote it in 1931, when \"women all over the country were... again heading to the kitchen\"",
+     "a": "Joy of Cooking",
+     "right": [
+      "Patrick"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 19,
+     "q": "Marie is stoked that her condo has one of these French-named helpers who gets her tickets to all the best stuff",
+     "a": "concierge",
+     "right": [
+      "Patrick"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 8,
+     "q": "(Jimmy of the Clue Crew reports from the Great Synagogue in Budapest, Hungary.) The largest synagogue in Europe is found in Budapest & in 1865 this Hungarian composer & keyboard master stopped by to play the organ",
+     "a": "(Franz) Liszt",
+     "right": [
+      "Jennifer"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 4,
+     "q": "French folk Queen Margot & Athos",
+     "a": "(Alexander) Dumas",
+     "right": [
+      "Patrick"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 20,
+     "q": "In this group's \"Player's Ball\", André 3000 raps, \"You thought I'd break my neck to help y'all deck the halls?\"",
+     "a": "OutKast",
+     "right": [
+      "Patrick"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 14,
+     "q": "In the organization known as the VFW for short",
+     "a": "Veterans",
+     "right": [
+      "Patrick"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 21,
+     "q": "\"Jeremiah was a bullfrog, was a good friend of mine\", begins the 1971 No. 1 hit \"Joy To The World\" by this numerical group",
+     "a": "Three Dog Night",
+     "right": [
+      "Kirby"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 18,
+     "q": "Marie got her condo's mortgage through this government agency, \"sister\" to Freddie Mac",
+     "a": "Fannie Mae",
+     "right": [
+      "Jennifer"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 10,
+     "q": "(Jimmy of the Clue Crew reports from Mirabell Gardens in Salzburg, Austria.) With beautiful landscaping, fountains & statues, Mirabell Gardens in Salzburg was created in the 1600s but first opened to the public in 1854 by this longtime emperor of Austria",
+     "a": "Franz Joseph",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 9,
+     "q": "Mississippians Caddy Compson & Thomas Sutpen",
+     "a": "Faulkner",
+     "right": [
+      "Kirby"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 5,
+     "q": "This 1980s trio rapped, \"It's Christmas time in Hollis, Queens, mom's cooking chicken and collard greens\"",
+     "a": "Run-DMC",
+     "right": [
+      "Jennifer"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 13,
+     "q": "In VC, a British military decoration",
+     "a": "Victoria",
+     "right": [
+      "Jennifer"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": true,
+     "order": 7,
+     "q": "One a Buddhist, one a South African Anglican, these 2 religious leaders co-wrote \"The Book of Joy\"",
+     "a": "the Dalai Lama & Desmond Tutu",
+     "right": [
+      "Patrick"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1000
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 17,
+     "q": "The pool & tennis courts are just a few of these attractive conveniences, from the Latin for \"pleasant\"",
+     "a": "amenities",
+     "right": [
+      "Kirby"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "C'MON, THAT'S ANCIENT HISTORY!",
+    "EARLY ROLES",
+    "GREAT DANES",
+    "AMERICAN HOMES",
+    "USING WORLDLY ADJECTIVES",
+    "AN \"A\" IN MEDICINE"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 24,
+     "q": "Protected on 3 sides by mountains, this Greek city-state not big on luxury was on the bank of the Eurotas River",
+     "a": "Sparta",
+     "right": [
+      "Jennifer"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 28,
+     "q": "In 1987 Brad Pitt was on this CBS nighttime drama in an episode directed by the show's star Larry Hagman",
+     "a": "Dallas",
+     "right": [
+      "Jennifer"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 19,
+     "q": "In 1909 Wilhelm Johannsen coined this 4-letter word to describe a unit of heredity",
+     "a": "a gene",
+     "right": [
+      "Jennifer"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 20,
+     "q": "The Wrigley Mansion in this L.A.-area city is today the headquarters of the Tournament of Roses Association",
+     "a": "Pasadena",
+     "right": [
+      "Kirby"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 29,
+     "q": "This instrument heard here is a mainstay of the brass section",
+     "a": "a French horn",
+     "right": [
+      "Jennifer"
+     ],
+     "wrong": [
+      "Patrick"
+     ],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 30,
+     "q": "Peritonitis, an inflammation of the lining of the abdominal cavity, is one possible complication if this organ bursts",
+     "a": "the appendix",
+     "right": [
+      "Kirby"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 7,
+     "q": "I'm walkin' in this capital of Ancient Egypt, founded around 3000 B.C., but do I really feel the way I feel?",
+     "a": "Memphis",
+     "right": [
+      "Jennifer"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 27,
+     "q": "In 2003 Seth Rogen didn't wanna wait to play Bob in the \"Rock Bottom\" episode of this Katie Holmes TV drama",
+     "a": "Dawson's Creek",
+     "right": [
+      "Kirby"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 17,
+     "q": "Let's get something strait; in 1724 Peter the Great appointed this Dane to find out if Asia & North America were connected by land",
+     "a": "(Vitus) Bering",
+     "right": [
+      "Jennifer"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 18,
+     "q": "Hildene, a Georgian Revival mansion in Vermont, was built at the turn of the 20th century by this son of Abraham Lincoln",
+     "a": "Robert Todd Lincoln",
+     "right": [],
+     "wrong": [
+      "Jennifer"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 21,
+     "q": "Star-shaped board game in which each player tries to move a set of marbles from one side to the other",
+     "a": "Chinese checkers",
+     "right": [
+      "Patrick"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 25,
+     "q": "Giving oxygen by mask during sleep is one treatment for this sleep disorder",
+     "a": "apnea",
+     "right": [
+      "Kirby"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 6,
+     "q": "Noted for his wisdom, this B.C. ruler organized Ancient Israel into 12 districts, appointing his own gov. for each one",
+     "a": "Solomon",
+     "right": [
+      "Kirby"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 26,
+     "q": "In 1984 he played Ace on \"E/R\" 10 years before getting even more devilishly handsome on a very different \"ER\"",
+     "a": "George Clooney",
+     "right": [
+      "Jennifer"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 12,
+     "q": "Playing a shell game, Jørn Utzon won a 1957 design competition for what would become this Australian landmark",
+     "a": "the Sydney Opera House",
+     "right": [
+      "Kirby"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 11,
+     "q": "The Mount, not the House of Mirth, is the name of her estate in Lenox, Massachusetts",
+     "a": "(Edith) Wharton",
+     "right": [
+      "Jennifer"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 14,
+     "q": "A list of the best ones might include Partagas & Cohiba Siglos",
+     "a": "Cuban cigars",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 22,
+     "q": "British physician William Withey Gull gave this 2-word name to an eating disorder",
+     "a": "anorexia nervosa",
+     "right": [
+      "Patrick"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 1,
+     "q": "Newsflash, 338 B.C.! I'm hearing Philip II, ruler of this land, has taken Greece & I, for one, welcome our new overlord",
+     "a": "Macedonia",
+     "right": [
+      "Patrick"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 23,
+     "q": "In 1988 young Julia Roberts got mixed up with a drug dealer on an episode of this Don Johnson cop show",
+     "a": "Miami Vice",
+     "right": [
+      "Jennifer"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 8,
+     "q": "Niels Bohr said an atom's electro-magnetic radiation occurred only when one of these elem. particles jumped to a lower-energy orbit",
+     "a": "an electron",
+     "right": [
+      "Patrick"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 10,
+     "q": "The unfinished Longwood in Natchez in this state is best known for its Byzantium dome",
+     "a": "Mississippi",
+     "right": [
+      "Jennifer"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 13,
+     "q": "Superstitious theater folks use this term to refer to Shakespeare's \"Macbeth\"",
+     "a": "the Scottish play",
+     "right": [
+      "Kirby"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 3000
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 16,
+     "q": "Insufficient blood flow is the cause of this type of chest pain with a Latin name",
+     "a": "angina",
+     "right": [
+      "Jennifer"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": true,
+     "order": 5,
+     "q": "Gaius Julius Vindex rebelled against this emperor after seeing him \"playing pregnant women & slaves\" on stage",
+     "a": "Nero",
+     "right": [
+      "Kirby"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 4000
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 4,
+     "q": "That's Megan Fox dancing in a club in this Will Smith/ Martin Lawrence sequel",
+     "a": "Bad Boys II",
+     "right": [
+      "Kirby"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 2,
+     "q": "Morten Andersen played this position for the Saints, Falcons, Giants, Chiefs & Vikings, retiring at age 47",
+     "a": "kicker",
+     "right": [
+      "Patrick"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 9,
+     "q": "Frank Lloyd Wright built this Wisconsin home for himself & an ex-client's wife; its name means \"shining brow\" in Welsh",
+     "a": "Taliesin",
+     "right": [
+      "Jennifer"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 3,
+     "q": "A precursor to napalm, this combustible weapon was used by besieged defenders at Constantinople in the 7th century",
+     "a": "Greek fire",
+     "right": [
+      "Patrick"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 15,
+     "q": "Swelling of the throat can be part of this severe & potentially life-threatening allergic reaction",
+     "a": "anaphylactic shock",
+     "right": [
+      "Kirby"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "TV THEME MUSIC",
+  "q": "A short piece for 2 guitars called \"Strange No. 3\" was the first part of the theme music for this drama series that debuted in 1959",
+  "a": "The Twilight Zone",
+  "right": [
+   "Jennifer",
+   "Kirby"
+  ],
+  "wrong": [
+   "Patrick"
+  ]
+ },
+ "gameId": "6498",
+ "cat_notes": {
+  "J": [
+   "Clues about A European River Tour.",
+   "Clues about The Author's Characters.",
+   "Clues about Christmas Rapping.",
+   "Each correct response beginning with that letter.",
+   "Clues about Spark Joy.",
+   "Clues about Marie's Condo."
+  ],
+  "DJ": [
+   "The category “C'MON, THAT'S ANCIENT HISTORY!” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "Clues about Early Roles.",
+   "Clues about Great Danes.",
+   "Clues about American Homes.",
+   "Clues about Using Worldly Adjectives.",
+   "Each answer contains the letter “A”, and the clues are about An in Medicine."
+  ],
+  "F": "Clues about TV Theme Music."
+ }
+}

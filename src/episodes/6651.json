@@ -1,0 +1,992 @@
+{
+ "show": "#8216",
+ "aired": "2020-05-18",
+ "note": "This and the remainder of the regular-play games of Season 36 were recorded without an audience due to the COVID-19 pandemic.",
+ "contestants": [
+  {
+   "name": "Megan Elliott",
+   "bio": "a writer and editor from Redlands, California",
+   "short": "Megan"
+  },
+  {
+   "name": "Ben Scripps",
+   "bio": "a television director from Cadillac, Michigan",
+   "short": "Ben"
+  },
+  {
+   "name": "Jesse Laymon",
+   "bio": "a public policy director from Long Island City, New York (whose 2-day cash winnings total $43,400)",
+   "short": "Jesse"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Jesse": 5000,
+   "Ben": 4000,
+   "Megan": 8000
+  },
+  "DJ": {
+   "Jesse": 5400,
+   "Ben": 9400,
+   "Megan": 18800
+  },
+  "Final": {
+   "Jesse": 10600,
+   "Ben": 18800,
+   "Megan": 16600
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "FIRST NAME'S THE SAME",
+    "AFRICAN-AMERICAN HISTORY",
+    "THEY DIDN'T SURVIVE THE FILM",
+    "\"W\"ORDS WITH DOUBLE LETTERS",
+    "NONFICTION",
+    "PLANT (ON) THE FLAG"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 30,
+     "q": "Artists Klee & Gauguin",
+     "a": "Paul",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 5,
+     "q": "The National Museum of African American History & Culture opened in 2016 as part of this museum complex",
+     "a": "the Smithsonian",
+     "right": [
+      "Jesse"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 16,
+     "q": "\"Bubba was gonna be a shrimpin' boat captain, but instead he died right there by that river in Vietnam\" in this film",
+     "a": "Forrest Gump",
+     "right": [
+      "Jesse"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 23,
+     "q": "It's a gentle, high-pitched neigh",
+     "a": "a whinny",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 13,
+     "q": "\"The Power Broker\" by Robert Caro is a biography of Robert Moses, an official who guided the growth of this city for 4 decades",
+     "a": "New York",
+     "right": [
+      "Jesse"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 2,
+     "q": "One of the world's most recognizable, this nation's flag features a solitary maple leaf",
+     "a": "Canada",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 14,
+     "q": "British P.M. Eden & \"black-ish\" star Anderson",
+     "a": "Anthony",
+     "right": [
+      "Jesse"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 6,
+     "q": "These 2 Atlanta colleges were both founded soon after the Civil War & \"Spelhouse\" marriages between alums are not rare",
+     "a": "Morehouse & Spelman",
+     "right": [
+      "Jesse"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 17,
+     "q": "Having learned his lesson, Thor goes for the head of this guy in \"Endgame\", & gets it, big time, but somehow, that's not his last scene",
+     "a": "Thanos",
+     "right": [
+      "Megan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 24,
+     "q": "It's what the astronaut is experiencing here",
+     "a": "weightlessness",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 12,
+     "q": "The remarkable story of these vote-seekers from 100 years ago in Great Britain is told in \"Rise Up, Women!\"",
+     "a": "the suffragettes",
+     "right": [
+      "Megan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 3,
+     "q": "This conifer known for its durable timber is represented on the flag of Lebanon",
+     "a": "the cedar",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 15,
+     "q": "Writer Swift & preacher Edwards",
+     "a": "Jonathan",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 7,
+     "q": "In 1960 at a segregated lunch counter in N.C., 4 African-American students staged one of these immobile protests",
+     "a": "a sit-in",
+     "right": [
+      "Megan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 18,
+     "q": "The love story & eventual passing of Ellie Fredricksen is detailed beautifully in this 2009 animated film",
+     "a": "Up",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 25,
+     "q": "Marconi shared a Nobel Prize in Physics for his \"contributions to the development of\" this type of \"telegraphy\"",
+     "a": "wireless",
+     "right": [
+      "Jesse"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 1,
+     "q": "\"The Fatal Shore\" by Robert Hughes chronicles this nation's founding as a product of the British penal system",
+     "a": "Australia",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 4,
+     "q": "This tropical tree wears the cap of liberty on Haiti's flag",
+     "a": "a (royal) palm tree",
+     "right": [
+      "Megan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 21,
+     "q": "First Lady Harding & singer Welch",
+     "a": "Florence",
+     "right": [
+      "Megan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 8,
+     "q": "Now 115 years old, the Chicago Defender isn't a Bears safety but one of the oldest of these for African Americans",
+     "a": "a newspaper",
+     "right": [
+      "Megan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 19,
+     "q": "In this 1987 film Sean Connery as lawman Jimmy Malone dies operatically; Eliot Ness avenges him on a rooftop",
+     "a": "The Untouchables",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 27,
+     "q": "Here's the current lineup of this group that's been entertaining kids the world over nearly 30 years",
+     "a": "The Wiggles",
+     "right": [
+      "Megan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 10,
+     "q": "Richard Preston's \"The Hot Zone\" examines \"the terrifying true story of the origins of\" this deadly African virus",
+     "a": "Ebola",
+     "right": [
+      "Megan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 26,
+     "q": "The flag of Cyprus features branches of these leaves, a symbol of peace",
+     "a": "olive leaves",
+     "right": [
+      "Megan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 22,
+     "q": "Philosophers Buber & Heidegger",
+     "a": "Martin",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 9,
+     "q": "M is for Methodist in this U.S. church that in 1820 launched a mission into West Africa",
+     "a": "the A.M.E. Church (African Methodist Episcopal)",
+     "right": [
+      "Jesse"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 20,
+     "q": "Han gets blown up in this Japan-set 2006 installment of \"The Fast & the Furious\"--or does he?",
+     "a": "Tokyo Drift",
+     "right": [
+      "Jesse"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 28,
+     "q": "Followers of this modern-day religious movement often practice in groups called covens",
+     "a": "Wiccan",
+     "right": [
+      "Jesse"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": true,
+     "order": 11,
+     "q": "In a 2016 work Nigel Cawthorne recounts \"The Life-Long Feud\" between these 2 inventors \"that Electrified the World\"",
+     "a": "Tesla and Edison",
+     "right": [
+      "Megan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2000
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 29,
+     "q": "Spain's flag depicts one of these tropical fruits that gave Persephone so much trouble",
+     "a": "the pomegranate",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "LET'S HAVE A PLANET",
+    "DA, YOU SPEAK RUSSIAN",
+    "ROCK BANNED",
+    "THE ANDES MOUNTAINS",
+    "PLAYWRIGHTS",
+    "CORPORATE SCANDALS WITH DAVID FABER"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "The Soviet Venera probes mapped much of it",
+     "a": "Venus",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 6,
+     "q": "A Russian monarch, or an American policy expert appointed by the government to tackle a particular problem",
+     "a": "a czar",
+     "right": [
+      "Jesse"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 12,
+     "q": "1962: Buffalo, N.Y.'s archdiocese bans Catholic school students from dancing to this Chubby Checker hit",
+     "a": "\"The Twist\"",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 30,
+     "q": "At their southern end, the Andes begin in this \"fiery\" archipelago at the tip of South America",
+     "a": "Tierra del Fuego",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 5,
+     "q": "J.M. Barrie followed the play about this \"boy who wouldn't grow up\" with a novel about him \"and Wendy\"",
+     "a": "Peter Pan",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 17,
+     "q": "(David Faber of CNBC presents the clue.) Companies held legally responsible for the gigantic spill at the Macondo Oil Prospect in the Gulf of Mexico included Transocean, Halliburton, Anadarko & this multinational oil company",
+     "a": "BP",
+     "right": [
+      "Megan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 2,
+     "q": "It orbits at 36 million miles from the Sun",
+     "a": "Mercury",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": true,
+     "order": 11,
+     "q": "Also called the great sturgeon, this species lends its name to a type of caviar",
+     "a": "beluga",
+     "right": [],
+     "wrong": [
+      "Ben"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2000
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 13,
+     "q": "1969: New Jersey police seize 30,000 copies of this couple's \"Two Virgins\" album, which shows them nude on the cover",
+     "a": "John Lennon & Yoko Ono",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "Over its some 5,000-mile range, the Andes are home to major cities like La Paz, Quito, and this other capital city",
+     "a": "Bogota",
+     "right": [],
+     "wrong": [
+      "Ben"
+     ],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 23,
+     "q": "Frederick August Kittel was the given name of this \"Fences\" playwright",
+     "a": "August Wilson",
+     "right": [
+      "Megan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 18,
+     "q": "(David Faber of CNBC presents the clue.) Dennis Muilenburg lost first his job as chairman, then as CEO, of Boeing over the growing scandal from the tragic crashes of this airplane model",
+     "a": "the 737 MAX",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": true,
+     "order": 3,
+     "q": "It has an equatorial radius of 3,963 miles",
+     "a": "Earth",
+     "right": [],
+     "wrong": [
+      "Ben"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 3000
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 7,
+     "q": "These thin pancakes are similar to crepes & traditionally made with buckwheat flour & served with sour cream",
+     "a": "blinis",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [
+      "Jesse"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 14,
+     "q": "1965: Concerned it might offend stutterers, the BBC initially refuses to play this Who song",
+     "a": "\"My Generation\"",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 22,
+     "q": "One awe-inspiring hike in the Andes is on the Inca trail, traveling from Cuzco through the Sacred Valley to this royal retreat",
+     "a": "Machu Picchu",
+     "right": [
+      "Megan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 24,
+     "q": "100 years after he was born, his \"Pygmalion\" was turned into the musical \"My Fair Lady\"",
+     "a": "George Bernard Shaw",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 19,
+     "q": "(David Faber of CNBC presents the clue.) TDI Clean Diesel turned out to be an oxymoron in 2015 when the EPA revealed that emissions tests were tampered with by this company & millions of cars were recalled",
+     "a": "Volkswagen",
+     "right": [
+      "Jesse"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 4,
+     "q": "Voyager 2 flew by this giant in 1989, then headed on out into interstellar space",
+     "a": "Neptune",
+     "right": [
+      "Megan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 8,
+     "q": "Meaning \"set of three\", it's also a wagon or sleigh pulled by 3 horses",
+     "a": "a troika",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 15,
+     "q": "1977: The BBC bans this Sex Pistols song, which still hits No. 2 on the British charts",
+     "a": "\"God Save The Queen\"",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 27,
+     "q": "The Andes are dotted with forests of cinchona trees whose bark produces this drug used in the treatment of Malaria",
+     "a": "quinine",
+     "right": [
+      "Megan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 25,
+     "q": "Before his death in 2017, he wrote dozens of plays and was one of the most produced playwrights in America",
+     "a": "Sam Shepard",
+     "right": [
+      "Megan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 20,
+     "q": "(David Faber of CNBC presents the clue.) Elizabeth Holmes' claim that she could perform dozens of medical tests from a few drops of blood was the lie that created this company that the SEC said took more than $700 million from investors",
+     "a": "Theranos",
+     "right": [
+      "Megan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 10,
+     "q": "Its year is 687 terrestrial days long",
+     "a": "Mars",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 9,
+     "q": "This word borrowed from Russian refers to the influential educated social & political classes",
+     "a": "intelligentsia",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 16,
+     "q": "1968: \"There's just no place for\" this Rolling Stones song in many cities in a year of political demonstrations",
+     "a": "\"Street Fighting Man\"",
+     "right": [],
+     "wrong": [
+      "Jesse"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 28,
+     "q": "22,800 feet high, this Argentine peak is the Andes' highest",
+     "a": "Mount Aconcagua",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 26,
+     "q": "This playwright who penned \"Angels in America\" also wrote the screenplays for Steven Spielberg's \"Lincoln\" & \"Munich\"",
+     "a": "(Tony) Kushner",
+     "right": [
+      "Megan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 21,
+     "q": "(David Faber of CNBC presents the clue.) Not long before he went to jail for securities fraud of around $11 billion, I interviewed Bernie Ebbers, CEO of this \"global\" telecom company that bought MCI",
+     "a": "WorldCom",
+     "right": [
+      "Jesse"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "AMERICA IN THE 1700s",
+  "q": "\"Every state shall always keep up a well regulated and disciplined militia, sufficiently armed and accoutred\" is in No. 6 of these",
+  "a": "the Articles of Confederation",
+  "right": [
+   "Jesse",
+   "Ben"
+  ],
+  "wrong": [
+   "Megan"
+  ]
+ },
+ "gameId": "6651",
+ "cat_notes": {
+  "J": [
+   "Clues about First Name's the Same.",
+   "Clues about African-american History.",
+   "The category “THEY DIDN'T SURVIVE THE FILM” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "Each correct response will begin with a \"W\".",
+   "Clues about Nonfiction.",
+   "Clues about Plant (on) the Flag."
+  ],
+  "DJ": [
+   "The category “LET'S HAVE A PLANET” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "The category “DA, YOU SPEAK RUSSIAN” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "Clues about Rock Banned.",
+   "Clues about The Andes Mountains.",
+   "Clues about Playwrights.",
+   "(David Faber: I'm David Faber of CNBC with some corporate scandals that went from the business section to the front pages.)."
+  ],
+  "F": "Clues about America in the 1700s."
+ }
+}

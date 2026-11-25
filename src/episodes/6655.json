@@ -1,0 +1,997 @@
+{
+ "show": "#8218",
+ "aired": "2020-05-20",
+ "note": "",
+ "contestants": [
+  {
+   "name": "Rachel Keen",
+   "bio": "a compliance specialist from Washington, D.C.",
+   "short": "Rachel"
+  },
+  {
+   "name": "Nathan Berger",
+   "bio": "a restaurateur and sommelier from South Portland, Maine",
+   "short": "Nathan"
+  },
+  {
+   "name": "Ben Scripps",
+   "bio": "a television director from Cadillac, Michigan (whose 2-day cash winnings total $38,158)",
+   "short": "Ben"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Ben": 7400,
+   "Nathan": 2600,
+   "Rachel": 1400
+  },
+  "DJ": {
+   "Ben": 5200,
+   "Nathan": 11800,
+   "Rachel": 5800
+  },
+  "Final": {
+   "Ben": 5801,
+   "Nathan": 11999,
+   "Rachel": 4800
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "IT WAS ALL YELLOW",
+    "GERMAN ANIMAL NAMES",
+    "HATS ALL, FOLKS",
+    "THE \"END\" IS JUST THE BEGINNING",
+    "PORT LAND",
+    "OUT OF THEIR LEAGUE"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "Elton John sang that his \"future lies beyond\" this",
+     "a": "the yellow brick road",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 6,
+     "q": "Tintenfisch, or \"ink fish\", is this creature",
+     "a": "the squid (octopus)",
+     "right": [
+      "Nathan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 26,
+     "q": "At the Alamo gift shop, you can purchase a replica of this man's coonskin cap",
+     "a": "Davy Crockett",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 16,
+     "q": "The ability to continue doing something for a long time, despite how difficult or unpleasant it may be",
+     "a": "endurance",
+     "right": [
+      "Nathan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 8,
+     "q": "Haiphong",
+     "a": "Vietnam",
+     "right": [
+      "Rachel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 21,
+     "q": "This team moved from the National League to the American League in 2013 & won a now-controversial title in 2017",
+     "a": "the Houston Astros",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "The Norris-LaGuardia Act said yellow-dog contracts can't stop workers from forming these",
+     "a": "unions",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 7,
+     "q": "Words for \"shield\" & \"toad\" combine to make the German name for this reptile",
+     "a": "a turtle",
+     "right": [
+      "Rachel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "A zucchetto is a religious skullcap & if it's red, it's worn by someone of this high Catholic rank",
+     "a": "cardinal",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 17,
+     "q": "It's the act of giving official & public support to someone or something",
+     "a": "endorse",
+     "right": [
+      "Rachel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 9,
+     "q": "Piraeus",
+     "a": "Greece",
+     "right": [
+      "Rachel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 22,
+     "q": "The Boston Patriots were among the teams that moved out of this defunct league in a 1970 merger",
+     "a": "the AFL (American Football League)",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 3,
+     "q": "Colorful, anatomical, hyphenated word for a coward",
+     "a": "a yellow-belly",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": true,
+     "order": 13,
+     "q": "This bug's German name, stechmucke, translates to \"stabbing gnat\"",
+     "a": "a mosquito",
+     "right": [],
+     "wrong": [
+      "Nathan"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 800
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 28,
+     "q": "In \"The Roman Hat Mystery\", which introduced Ellery Queen, a missing one of these tall formal men's hats holds the key to a murder",
+     "a": "a top hat",
+     "right": [
+      "Nathan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 18,
+     "q": "To strive; the U.S. went British-style spelling this Space Shuttle's name",
+     "a": "endeavour",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 10,
+     "q": "Incheon, also home to this country's busiest airport",
+     "a": "South Korea",
+     "right": [
+      "Nathan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 23,
+     "q": "When this team moved from the ABA to the NBA in 1976, Doug Moe, not Gregg Popovich, was its head coach",
+     "a": "the San Antonio Spurs",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 4,
+     "q": "Yellow fever destroys liver cells, causing this yellowing of the skin & eyes",
+     "a": "jaundice",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 14,
+     "q": "Nacktschnecke, the German word for this gastropod, translates as \"naked snail\"",
+     "a": "a slug",
+     "right": [
+      "Nathan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "In \"A Clockwork Orange\", teenage criminal Alex & his droogs wear this kind of hat AKA a derby",
+     "a": "a bowler",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 19,
+     "q": "This type of medical examination uses a very small camera on a long thin tube to look at the body's interior",
+     "a": "an endoscopy",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 11,
+     "q": "Port Said East",
+     "a": "Egypt",
+     "right": [],
+     "wrong": [
+      "Rachel"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 24,
+     "q": "This team moved from the NBL to the BAA in 1948, to the NBA in 1949 & to L.A. in 1960",
+     "a": "the Lakers",
+     "right": [
+      "Rachel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 5,
+     "q": "In \"Ant-Man\", Corey Stoll plays Darren Cross, who assumes the identity of this nemesis",
+     "a": "the Yellowjacket",
+     "right": [
+      "Nathan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 15,
+     "q": "From the way they stand up, these African mongoose relatives are called \"little earth men\" in German",
+     "a": "a meerkat",
+     "right": [
+      "Rachel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 30,
+     "q": "This 3-sided hat was a hallmark of Revolutionary War-era fashion",
+     "a": "a tri-corner hat",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 20,
+     "q": "A variety of chicory, this plant with curled leaves is cultivated as a salad green",
+     "a": "endive",
+     "right": [
+      "Nathan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 12,
+     "q": "Colón, founded in 1850",
+     "a": "Panama",
+     "right": [],
+     "wrong": [
+      "Nathan",
+      "Rachel"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 25,
+     "q": "The NHL got a \"great\" deal when this team & 18-year-old Wayne Gretzky moved over from the WHA in 1979",
+     "a": "the Edmonton Oilers",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "CHARACTERS FROM AMERICAN FOLKLORE",
+    "CONSECUTIVE OSCAR NOMINATIONS",
+    "PEACE TALK",
+    "LITERARY LANDMARKS",
+    "ALEXANDER THE GREAT",
+    "HIGH-SCORING 4-LETTER SCRABBLE WORDS"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 26,
+     "q": "Febold Feboldson sells sand from this sweltering California location to freezing gold prospectors",
+     "a": "Death Valley",
+     "right": [
+      "Rachel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 8,
+     "q": "Best Actress: \"The Client\" (1994) & \"Dead Man Walking\" (1995)",
+     "a": "Susan Sarandon",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 21,
+     "q": "In Jerusalem, the \"City of Peace\", you might hear these 2 related Hebrew & Arabic words for peace used as a greeting",
+     "a": "shalom & salaam",
+     "right": [
+      "Rachel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "A 2006 landmark at the gate of Chicago's Union Stockyards honors the 100th anniversary of this Upton Sinclair novel",
+     "a": "The Jungle",
+     "right": [
+      "Rachel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 13,
+     "q": "When Alexander set out to conquer Asia, he left Antipater as regent in charge of this home kingdom",
+     "a": "Macedonia",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 6,
+     "q": "A synonym for slothful or idle (16 points)",
+     "a": "lazy",
+     "right": [
+      "Nathan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 27,
+     "q": "Babe the Blue Ox roams the American timberlands accompanied by this giant companion",
+     "a": "Paul Bunyan",
+     "right": [
+      "Rachel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 9,
+     "q": "Best Director: \"Mystic River\" (2004) & Best Actor: \"Million Dollar Baby\" (2005)",
+     "a": "Clint Eastwood",
+     "right": [
+      "Nathan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 22,
+     "q": "Deriving its name from the settling of a dispute, the Peace River flows 1,200 miles across British Columbia & this province just east",
+     "a": "Alberta",
+     "right": [
+      "Rachel"
+     ],
+     "wrong": [
+      "Ben"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 2,
+     "q": "Landmarks in this city at the very bottom of Florida include homes of Robert Frost, John Hersey & Wallace Stevens",
+     "a": "Key West",
+     "right": [
+      "Rachel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": true,
+     "order": 14,
+     "q": "Alexander tried to look to the future by consulting the this \"of Zeus-Ammon\" in the Sahara but never revealed what he had learned",
+     "a": "the Oracle",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2000
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 7,
+     "q": "Similar to a vixen, or attractive (17 points)",
+     "a": "foxy",
+     "right": [],
+     "wrong": [
+      "Ben"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 28,
+     "q": "Old Stormalong is an American sailor whose ship is so big, it scraped through the English Channel, creating this pale landmark",
+     "a": "the White Cliffs of Dover",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 10,
+     "q": "Best Supporting Actress: \"The Help\" (2011) & Best Actress: \"Zero Dark Thirty\" (2012)",
+     "a": "Jessica Chastain",
+     "right": [
+      "Nathan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 23,
+     "q": "The 1648 treaty called the Peace of Westphalia ended this decades-long European conflict",
+     "a": "the Thirty Years' War",
+     "right": [
+      "Rachel"
+     ],
+     "wrong": [
+      "Ben"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 3,
+     "q": "Visit the art deco building in NYC where Erich Maria Remarque, author of this antiwar novel about WWI, lived until his death",
+     "a": "All Quiet on the Western Front",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 15,
+     "q": "Inspiring in him an interest in philosophy & science, this Greek philosopher taught Alexander as a teenager",
+     "a": "Aristotle",
+     "right": [
+      "Nathan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 18,
+     "q": "It's a joke, especially a witty or timely one (15 points)",
+     "a": "a quip",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 29,
+     "q": "This Texan cowboy hero tamed a mountain lion & rode it like a horse, using a rattlesnake as a lasso",
+     "a": "Pecos Bill",
+     "right": [],
+     "wrong": [
+      "Ben"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 4600
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 11,
+     "q": "Best Original Song: \"You've Got A Friend In Me\" from \"Toy Story\" (1995) & Best Original Musical Score: \"James & the Giant Peach\" (1996)",
+     "a": "Randy Newman",
+     "right": [
+      "Nathan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 24,
+     "q": "When Ronald Reagan renamed the MX missile this, some wondered if it would be armed with \"peaceheads\"",
+     "a": "the Peacekeeper",
+     "right": [],
+     "wrong": [
+      "Ben"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 4,
+     "q": "The birthplace of F. Scott Fitzgerald is a landmark at 481 Laurel Avenue in this midwestern state capital",
+     "a": "St. Paul",
+     "right": [
+      "Rachel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 16,
+     "q": "According to legend & fulfilling a prophecy, at Phrygia Alexander boldly undid this object by cutting through it",
+     "a": "the Gordian Knot",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 19,
+     "q": "An act of deception (14 points)",
+     "a": "a hoax",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 30,
+     "q": "Tommyknockers are these underground guys who help miners; ex-mining engineer Herbert Hoover said so & had a statue of one",
+     "a": "gnomes",
+     "right": [],
+     "wrong": [
+      "Nathan"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 12,
+     "q": "Best Actor: \"Silver Linings Playbook\" (2012) & Best Supporting Actor: \"American Hustle\" (2013)",
+     "a": "Bradley Cooper",
+     "right": [
+      "Nathan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 25,
+     "q": "The Greek goddess of peace was Eirene & this goddess with a 3-letter name was her Roman equivalent",
+     "a": "Pax",
+     "right": [
+      "Nathan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 5,
+     "q": "Nineteen of this man's monologues, including \"Morning, Noon, and Night\", were written at his home in Sag Harbor, New York",
+     "a": "Spalding Gray",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 17,
+     "q": "After defeating him in battle, Alexander placed his own cloak over the corpse of his Persian foe, the III king of this name",
+     "a": "Darius",
+     "right": [
+      "Nathan"
+     ],
+     "wrong": [
+      "Rachel"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 20,
+     "q": "This humped variety of ox originated in South Asia (15 points)",
+     "a": "a zebu",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "CLASSIC TV SITCOMS",
+  "q": "\"I Love Lucy\" used the French word \"enceinte\" in a 1952 episode title because CBS didn't want this word used",
+  "a": "pregnant",
+  "right": [
+   "Ben",
+   "Nathan"
+  ],
+  "wrong": [
+   "Rachel"
+  ]
+ },
+ "gameId": "6655",
+ "cat_notes": {
+  "J": [
+   "Clues about It Was All Yellow.",
+   "Clues about German Animal Names.",
+   "Clues about Hats All, Folks.",
+   "\"E-N-D\" coming up at the beginning of each correct response.",
+   "We want you to name the country.",
+   "Clues about Out of Their League."
+  ],
+  "DJ": [
+   "Clues about Characters from American Folklore.",
+   "Clues about Consecutive OSCAR Nominations.",
+   "Clues about Peace Talk.",
+   "As designated by the American Library Association.",
+   "Clues about Alexander the Great.",
+   "Each answer is a 4-letter word or term related to High-scoring 4-letter Scrabble Words."
+  ],
+  "F": "Clues about Classic TV Sitcoms."
+ }
+}

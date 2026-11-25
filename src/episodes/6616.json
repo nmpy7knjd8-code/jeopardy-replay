@@ -1,0 +1,1001 @@
+{
+ "show": "#8211",
+ "aired": "2020-04-27",
+ "note": "Sarah Jett Rayburn game 2.",
+ "contestants": [
+  {
+   "name": "Matt Ribel",
+   "bio": "a speechwriter from Washington, D.C.",
+   "short": "Matt"
+  },
+  {
+   "name": "Lauren D'Souza",
+   "bio": "a sustainability analyst from Los Angeles, California",
+   "short": "Lauren"
+  },
+  {
+   "name": "Sarah Jett Rayburn",
+   "bio": "a writer and stay-at-home mom from Hutto, Texas (whose 1-day cash winnings total $31,000)",
+   "short": "Sarah"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Sarah": 4800,
+   "Lauren": 3400,
+   "Matt": 1000
+  },
+  "DJ": {
+   "Sarah": 14400,
+   "Lauren": 8700,
+   "Matt": 9800
+  },
+  "Final": {
+   "Sarah": 8400,
+   "Lauren": 2999,
+   "Matt": 2
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "WHO MADE THAT?",
+    "CITY HOMOPHONES",
+    "ONE-WORD TV TITLES",
+    "AROUND THE USA",
+    "POTPOURRI",
+    "STARTS WITH \"Z\""
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 11,
+     "q": "We write of its 4-color original pen",
+     "a": "Bic",
+     "right": [
+      "Lauren"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 16,
+     "q": "Beaten in battle, or a town paired with Lexington",
+     "a": "conquered/Concord",
+     "right": [
+      "Lauren"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "This drama was about the survivors of the crash of Oceanic flight 815",
+     "a": "Lost",
+     "right": [
+      "Lauren"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 30,
+     "q": "Head to this state to visit the Mendenhall Glacier & the Mendenhall Ice Caves (but hurry--the ice is melting)",
+     "a": "Alaska",
+     "right": [
+      "Sarah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 25,
+     "q": "Named for the way it rolls around lonely streets in western movies, this plant was imported to the U.S. from Russia",
+     "a": "a tumbleweed",
+     "right": [
+      "Lauren"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 2,
+     "q": "It's the type of garden, seen here, where you might do some meditating",
+     "a": "a Zen garden",
+     "right": [
+      "Lauren"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 12,
+     "q": "Here's a switch... the game called \"Mario & Sonic at the Olympic Games Tokyo 2020\"",
+     "a": "Nintendo (*Sega)",
+     "right": [
+      "Sarah",
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 17,
+     "q": "Your brother's daughter, or a town on the French Riviera",
+     "a": "niece/Nice",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 7,
+     "q": "Sherlock Holmes & Dr. Watson solved crimes in modern-day New York City on this CBS procedural",
+     "a": "Elementary",
+     "right": [
+      "Lauren"
+     ],
+     "wrong": [
+      "Matt"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 29,
+     "q": "This granite boulder is in Pilgrim Memorial State Park in Massachusetts",
+     "a": "Plymouth Rock",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 24,
+     "q": "This type of whale here has a point; and it's ivory",
+     "a": "a narwhal",
+     "right": [
+      "Sarah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 6,
+     "q": "In England this summer squash is popularly called a courgette",
+     "a": "a zucchini",
+     "right": [
+      "Lauren"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 13,
+     "q": "Twinkies, which it calls \"The Snack Cake Golden Child\"",
+     "a": "Hostess",
+     "right": [
+      "Lauren"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 18,
+     "q": "Spooky, or a Pennsylvania Great Lake city",
+     "a": "eerie/Erie",
+     "right": [
+      "Sarah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 8,
+     "q": "A San Francisco detective solved crimes on this show despite his obsessive-compulsive disorder sometimes getting in the way",
+     "a": "Monk",
+     "right": [
+      "Lauren"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 28,
+     "q": "Visit the CNN Center or the Center for Civil & Human Rights in this city",
+     "a": "Atlanta",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 23,
+     "q": "Businessman Charles Schwab, novelist John Irving & lawyer David Boies all have this reading disorder",
+     "a": "dyslexia",
+     "right": [
+      "Lauren"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 4,
+     "q": "It's what the woman here is doing to her lemon",
+     "a": "zesting",
+     "right": [
+      "Sarah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 14,
+     "q": "The stately Colorado pickup truck",
+     "a": "Chevy (Chevrolet)",
+     "right": [
+      "Sarah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 19,
+     "q": "A person's animating spirit, or city that's headquarters to Hyundai",
+     "a": "soul/Seoul",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 9,
+     "q": "Hayden Panettiere starred on this show about rising & fading country music stars",
+     "a": "Nashville",
+     "right": [
+      "Sarah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 27,
+     "q": "A 50-foot stainless steel South Dakota statue called \"Dignity\" honors the culture of the Dakota and this group whose name rhymes with \"Dakota\"",
+     "a": "the Lakota",
+     "right": [
+      "Lauren"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 21,
+     "q": "15% of a U.S. ton is this many pounds",
+     "a": "300",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 3,
+     "q": "Literally meaning \"golden\", it's the basic monetary unit of Poland",
+     "a": "a zloty",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 15,
+     "q": "Get your kicks, hoop it up & play your \"A\" game with Harden Stepback shoes",
+     "a": "Adidas",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": true,
+     "order": 20,
+     "q": "4-letter low-carb diet, or Andean capital",
+     "a": "keto/Quito",
+     "right": [],
+     "wrong": [
+      "Matt"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1200
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 10,
+     "q": "After their mom's death, 3 young women discover they have magic powers on this CW drama",
+     "a": "Charmed",
+     "right": [
+      "Sarah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 26,
+     "q": "Miner & cowhand Jim White claimed to have discovered these New Mexico caverns as a 16-year-old in 1898",
+     "a": "Carlsbad Caverns",
+     "right": [
+      "Sarah"
+     ],
+     "wrong": [
+      "Lauren"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 22,
+     "q": "Check out this two-word boat item as it goes soaring through the air; I like the cut of yours",
+     "a": "a flying jib",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 5,
+     "q": "Native to Austria & Germany, it's the instrument being played here",
+     "a": "the zither",
+     "right": [],
+     "wrong": [
+      "Sarah"
+     ],
+     "stumper": true,
+     "img": true
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "THE ZULUS",
+    "GENERAL HOSPITAL",
+    "HOLY SMOKE",
+    "HER MAJOR MOVIE DEBUT",
+    "ARCHER",
+    "UH, PHRASING..."
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 13,
+     "q": "Zulu is a subgroup of this 5-letter language group of South & Central Africa",
+     "a": "Bantu",
+     "right": [
+      "Lauren"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 12,
+     "q": "A code of this color is widely used to call out a medical emergency all over the facility",
+     "a": "code blue",
+     "right": [],
+     "wrong": [
+      "Lauren",
+      "Matt"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 7,
+     "q": "If you see the \"fumata bianca\" come through the chimney & hear the bells of St. Peter's Basilica ring, this selection was just made",
+     "a": "a new pope",
+     "right": [
+      "Lauren"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "Mia Thermopolis in \"The Princess Diaries\"",
+     "a": "Anne Hathaway",
+     "right": [
+      "Lauren"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 26,
+     "q": "In one legend this mythological hunter is killed by an arrow from Artemis & later placed in the heavens",
+     "a": "Orion",
+     "right": [
+      "Lauren"
+     ],
+     "wrong": [
+      "Matt"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 17,
+     "q": "Meaning to \"achieve a goal\", \"there's more than one way\" to do this, but why bring the feline into it?",
+     "a": "to skin a cat",
+     "right": [
+      "Sarah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 14,
+     "q": "Andries Pretorius, a leader of this Dutch settler group, defeated an army of some 10,000 Zulus at the Battle of Blood River in 1838",
+     "a": "the Boers",
+     "right": [
+      "Lauren"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 30,
+     "q": "A sling type of this, a stretcher with an elevated headrest, can have 6 wheels & has 6 letters",
+     "a": "a gurney",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 8,
+     "q": "This alliterative shrubbery from Exodus was not consumed by the fire that engulfed it",
+     "a": "the burning bush",
+     "right": [
+      "Sarah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 3,
+     "q": "You get a role & you get a role & she got the role of Sofia in \"The Color Purple\"",
+     "a": "Oprah",
+     "right": [
+      "Lauren"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 27,
+     "q": "Schiller's play about this Swiss man features a bow, an arrow & an apple",
+     "a": "William Tell",
+     "right": [
+      "Lauren"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 18,
+     "q": "An idiom suggests not doing this \"to spite your face\"; why would you even consider it?!",
+     "a": "to cut off your nose",
+     "right": [
+      "Sarah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 15,
+     "q": "This host of \"The Daily Show\" speaks several languages, including Zulu & Xhosa",
+     "a": "Trevor Noah",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": true,
+     "order": 29,
+     "q": "This machine can restore a regular heartbeat by using electric currents... are we clear?",
+     "a": "a defibrillator",
+     "right": [],
+     "wrong": [
+      "Lauren"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2000
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 9,
+     "q": "Native Americans were fond of burning this plant in ceremonies, and the practice is now used to remove bad energy from home",
+     "a": "sage",
+     "right": [
+      "Lauren"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 4,
+     "q": "Abby in \"Blood Simple\", written by who else but the Coen brothers & directed by Joel",
+     "a": "Frances McDormand",
+     "right": [
+      "Sarah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": true,
+     "order": 28,
+     "q": "In a 2008 novel she gets angry at the Gamemakers & shoots an arrow into a pig they are about to eat",
+     "a": "Katniss Everdeen",
+     "right": [
+      "Lauren"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2500
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 19,
+     "q": "I've heard it said, \"Don't throw the baby out with\" this liquid; what is the matter with you people?",
+     "a": "the bathwater",
+     "right": [
+      "Sarah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 16,
+     "q": "Zulu King Goodwill Zwelithini has revived customs like the harvest festival of \"first\" these that also inspired Kwanzaa",
+     "a": "first fruits",
+     "right": [
+      "Sarah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 1,
+     "q": "One factor for a newborn entering the NICU, short for this, is a birth weight of less than 5.5 pounds",
+     "a": "neonatal intensive care unit",
+     "right": [
+      "Sarah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 10,
+     "q": "Some religious ceremonies feature one of these smoky incense carriers",
+     "a": "a censer",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 5,
+     "q": "1993's \"The Piano\", for which she won an Oscar at age 11",
+     "a": "Anna Paquin",
+     "right": [
+      "Sarah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 25,
+     "q": "In this Edith Wharton novel, the aptly named May Welland Archer wins an archery contest at the Beaufort House",
+     "a": "The Age of Innocence",
+     "right": [],
+     "wrong": [
+      "Sarah"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 20,
+     "q": "Actors don't like \"Good luck\" before shows, but this 3-word alternative seems awfully painful",
+     "a": "Break a leg",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 23,
+     "q": "Here as on each September 24th, Zulus celebrate a holiday that was named in honor of of this warrior leader of the early 1800s",
+     "a": "Shaka Zulu (Shaka)",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [
+      "Sarah"
+     ],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 22,
+     "q": "Have issues with your blood? Head over to this department, the study of blood diseases & of blood-forming organs",
+     "a": "hematology",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [
+      "Lauren"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 11,
+     "q": "The smoky cityscape of Delhi is beautifully lit up during this Hindu festival of lights",
+     "a": "Diwali",
+     "right": [
+      "Lauren"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 6,
+     "q": "The female lead in the 1976 remake of \"King Kong\"",
+     "a": "Jessica Lange",
+     "right": [
+      "Sarah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 24,
+     "q": "She gave Legolas a bow of the Galadhrim, \"strung with a string of elf-hair\"",
+     "a": "Galadriel",
+     "right": [
+      "Sarah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 21,
+     "q": "This 2-word term for someone deemed attractive yet chaotic has origins in warm foods served in the 19th century",
+     "a": "a hot mess",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "CIVIL WAR PEOPLE",
+  "q": "Before they were photographed together in 1862, Lincoln wryly noted this general \"should have no problem\" sitting still for it",
+  "a": "George McClellan",
+  "right": [],
+  "wrong": [
+   "Lauren",
+   "Matt",
+   "Sarah"
+  ]
+ },
+ "gameId": "6616",
+ "cat_notes": {
+  "J": [
+   "The category “WHO MADE THAT?” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "The answers involve homophones — words that sound alike but differ in meaning or spelling.",
+   "Clues about One-word TV Titles.",
+   "Clues about Around the USA.",
+   "A mixed potpourri of Pot-related clues.",
+   "Each answer starts with “Z”."
+  ],
+  "DJ": [
+   "Clues about The Zulus.",
+   "Clues about General Hospital.",
+   "Clues about Holy Smoke.",
+   "Clues about Her Major Movie Debut.",
+   "Clues about Archer.",
+   "Clues about Uh, Phrasing."
+  ],
+  "F": "Clues about Civil War People."
+ }
+}

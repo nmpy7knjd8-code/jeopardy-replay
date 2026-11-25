@@ -1,0 +1,1007 @@
+{
+ "show": "#8097",
+ "aired": "2019-11-19",
+ "note": "",
+ "contestants": [
+  {
+   "name": "Sathvik Namburar",
+   "bio": "a medical student from Lebanon, New Hampshire",
+   "short": "Sathvik"
+  },
+  {
+   "name": "Shannon Jamison",
+   "bio": "a technical product owner from Henrico, Virginia",
+   "short": "Shannon"
+  },
+  {
+   "name": "Kevin Jones",
+   "bio": "a retired IT project manager from Galloway, Ohio (whose 1-day cash winnings total $15,600)",
+   "short": "Kevin"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Kevin": 3600,
+   "Shannon": 4000,
+   "Sathvik": 2400
+  },
+  "DJ": {
+   "Kevin": 9600,
+   "Shannon": 13600,
+   "Sathvik": 15400
+  },
+  "Final": {
+   "Kevin": 18600,
+   "Shannon": 7999,
+   "Sathvik": 27201
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "FIREBOATS OF BOSTON",
+    "AUTHORS' FICTIONAL PLACES",
+    "SO YUMMY THEY NAMED IT TWICE",
+    "\"VO\"CABULARY TEST",
+    "HISTORICAL HODGEPODGE",
+    "BASKETBALL: PIC & ROLE"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 30,
+     "q": "(Sarah of the Clue Crew presents while aboard a fireboat.) A fireboat carries a minimum of four crew members, two deckhands, a fire officer, and a pilot, certified by this branch of the military",
+     "a": "the Coast Guard",
+     "right": [
+      "Kevin"
+     ],
+     "wrong": [
+      "Sathvik"
+     ],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 9,
+     "q": "Narnia",
+     "a": "(C.S.) Lewis",
+     "right": [
+      "Sathvik"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 6,
+     "q": "Chopped pickles go into this mayo-based sauce that's often served with fried fish",
+     "a": "tartar sauce",
+     "right": [
+      "Shannon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 22,
+     "q": "Current multiplied by resistance",
+     "a": "voltage",
+     "right": [
+      "Kevin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 17,
+     "q": "Britannica notes that this Russian ruler \"had young lovers up to the time of her unexpected death...at...67\"",
+     "a": "Catherine the Great",
+     "right": [
+      "Kevin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "Yosemite Sam ropes hoop-erstar Michael Jordan into a meeting with Bugs Bunny & friends in this movie",
+     "a": "Space Jam",
+     "right": [
+      "Kevin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 10,
+     "q": "(Sarah of the Clue Crew presents from Boston, MA.) At full power, using all five of its deck guns, the Marine One fireboat can throw 12,000 GPM, 450 feet at a fire, \"GPM\" standing for this",
+     "a": "gallons per minute",
+     "right": [
+      "Sathvik"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 14,
+     "q": "The Hundred Acre Wood",
+     "a": "(A.A.) Milne",
+     "right": [
+      "Shannon"
+     ],
+     "wrong": [
+      "Sathvik"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 7,
+     "q": "For starters, you might enjoy this appetizer platter featuring shrimp toast, wontons & spare ribs",
+     "a": "pu pu platter",
+     "right": [
+      "Kevin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 23,
+     "q": "It's your calling, truly",
+     "a": "vocation",
+     "right": [
+      "Shannon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 18,
+     "q": "The battle of this city that helped make Andrew Jackson a hero was actually fought after the War of 1812 ended",
+     "a": "New Orleans",
+     "right": [
+      "Kevin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "Wesley Snipes & Woody Harrelson leapt into starring roles hustling some basketball in this film",
+     "a": "White Men Can't Jump",
+     "right": [
+      "Shannon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 11,
+     "q": "(Sarah of the Clue Crew presents from inside a fireboat.) Marine One can achieve a top speed of 35 knots powered by four 825 horsepower engines of this type, named for a German inventor",
+     "a": "Diesel",
+     "right": [
+      "Kevin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 15,
+     "q": "Loompaland",
+     "a": "(Roald) Dahl",
+     "right": [
+      "Shannon"
+     ],
+     "wrong": [
+      "Sathvik"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 8,
+     "q": "A popular Tunisian staple, this semolina dish is served with a fiery hot sauce called harissa",
+     "a": "couscous",
+     "right": [
+      "Shannon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 24,
+     "q": "A period of popularity, like the 24 weeks the Madonna song spent on the charts in 1990",
+     "a": "vogue",
+     "right": [
+      "Shannon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 19,
+     "q": "Lasting 40 minutes, an 1896 battle between Britain & this island, now part of Tanzania, is considered to be the shortest war",
+     "a": "Zanzibar",
+     "right": [],
+     "wrong": [
+      "Kevin"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 3,
+     "q": "As Monica, Sanaa Lathan gives a movie its title when she tells Omar Epps, \"All's fair in\" this \"& basketball, baby\"",
+     "a": "love",
+     "right": [
+      "Sathvik"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 28,
+     "q": "(Sarah of the Clue Crew shoots water from a fireboat.) The foam thrown by the fireboats blankets the surface, cutting the fire off from the oxygen that feeds this chemical reaction",
+     "a": "combustion",
+     "right": [
+      "Sathvik"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 16,
+     "q": "Panem",
+     "a": "(Suzanne) Collins",
+     "right": [
+      "Sathvik"
+     ],
+     "wrong": [
+      "Shannon"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 12,
+     "q": "A warm water fish, the dorado is also known by this Hawaiian name",
+     "a": "mahi-mahi",
+     "right": [
+      "Shannon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 25,
+     "q": "2-word parliamentary procedure in which the outcome is determined by relative volume",
+     "a": "a voice vote",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 20,
+     "q": "On March 30, 1981 this Secretary of State & retired general told the press, \"As of now, I am in control here, in the White House\"",
+     "a": "(Alexander) Haig",
+     "right": [
+      "Shannon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 4,
+     "q": "Before moving on to Golden State, this NBA star was \"thunderstruck\" , losing his hoops talent in a \"Freaky Friday\" way to a kid",
+     "a": "(Kevin) Durant",
+     "right": [
+      "Sathvik"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 29,
+     "q": "(Sarah of the Clue Crew rides on Marine Two.) Powered by two outboard motors, Marine Two is used for rescues where this twin-hulled design provides better stability for the crew",
+     "a": "catamaran",
+     "right": [
+      "Kevin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 26,
+     "q": "Lake Wobegon",
+     "a": "(Garrison) Keillor",
+     "right": [
+      "Shannon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 13,
+     "q": "This Japanese dish is raw meat & raw veggies cooked in a pot of hot broth by the diner at the table",
+     "a": "shabu shabu",
+     "right": [],
+     "wrong": [
+      "Sathvik"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 27,
+     "q": "A whirlwind or a whirlpool in the form of a spiral",
+     "a": "a vortex",
+     "right": [
+      "Sathvik"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": true,
+     "order": 21,
+     "q": "A 1945 telegram from Churchill to Truman mentioned Soviet power & \"the descent of\" this \"between us and everything to the eastward\"",
+     "a": "the Iron Curtain",
+     "right": [],
+     "wrong": [
+      "Shannon"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1000
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 5,
+     "q": "In a 1996 comedy basketball fans Mike O'Hara (Daniel Stern) & Jimmy Flaherty (Dan Aykroyd) have lots of this \"Pride\"",
+     "a": "Celtic",
+     "right": [
+      "Kevin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "CHARACTERS IN THE AENEID",
+    "MISLEADING NAMES",
+    "11-LETTER WORDS",
+    "HUSBANDS & WIVES",
+    "HIT TUNES",
+    "ISLANDS IN THE \"C\""
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 25,
+     "q": "The main character, Aeneas survives the fall of Troy & is destined to be the ancestor of this great civilization",
+     "a": "Rome",
+     "right": [
+      "Shannon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 18,
+     "q": "Howdy, cowboy. This name of the hat seen here exaggerates its capacity",
+     "a": "10-gallon",
+     "right": [
+      "Kevin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 13,
+     "q": "Describing a whole order of mammals, this adjective is from the Latin for \"flesh eating\"",
+     "a": "carnivorous",
+     "right": [
+      "Shannon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "In 1479 this husband & wife (& cousin) team became king & queen of Aragon",
+     "a": "Ferdinand and Isabelle",
+     "right": [
+      "Sathvik"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 24,
+     "q": "Bradley Cooper teamed with Lady Gaga to climb the Billboard charts with this song from \"A Star is Born\"",
+     "a": "\"Shallow\"",
+     "right": [
+      "Shannon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "Barbados & Bonaire: this big \"C\"",
+     "a": "the Caribbean",
+     "right": [],
+     "wrong": [
+      "Shannon",
+      "Sathvik"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 26,
+     "q": "The sister of Pygmalion, Dido is the queen of this North African city & becomes Aeneas' lover",
+     "a": "Carthage",
+     "right": [
+      "Sathvik"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 19,
+     "q": "When you wish upon a shooting star, it's not actually a star but one of these streaking across the sky",
+     "a": "a meteor",
+     "right": [
+      "Kevin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 14,
+     "q": "In 2018 a $10 million Houston mansion made news as the USA's most expensive property in this unfortunate status",
+     "a": "foreclosure",
+     "right": [
+      "Shannon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 3,
+     "q": "Diego Rivera totally wanted to leave his wife, this artist, in 1939 & soon totally wanted her back, remarrying in '40",
+     "a": "(Frida) Kahlo",
+     "right": [
+      "Sathvik"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 10,
+     "q": "Let's go country with Luke Bryan, who completed his hitmaking day with \"Sunrise, Sunburn\", this",
+     "a": "Sunset",
+     "right": [
+      "Shannon"
+     ],
+     "wrong": [
+      "Sathvik"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 5,
+     "q": "Tiburon Island: this sea named for a conquistador, AKA the Gulf of California",
+     "a": "the Sea of Cortez",
+     "right": [
+      "Kevin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": true,
+     "order": 27,
+     "q": "Sinon is a Greek who persuades the Trojans to take this object into their city as an offering to the goddess Minerva",
+     "a": "a wooden horse (the Trojan Horse)",
+     "right": [
+      "Sathvik"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1000
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 20,
+     "q": "As a rodent from South America, this critter hardly lives up to its porcine name",
+     "a": "a guinea pig",
+     "right": [
+      "Sathvik"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 17,
+     "q": "An artificial mannerism, like extending the pinky while drinking tea",
+     "a": "an affectation",
+     "right": [
+      "Kevin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 4,
+     "q": "Director Roman Polanski married this actress in 1968 but tragedy ended their romance the following year",
+     "a": "Sharon Tate",
+     "right": [
+      "Kevin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 11,
+     "q": "He first hit the Top 40 in 1964 with 3 pals & was still going strong in 2018 on the adult contemporary chart with \"Come On To Me\"",
+     "a": "(Paul) McCartney",
+     "right": [
+      "Sathvik"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 6,
+     "q": "Puget Island: this river",
+     "a": "the Columbia",
+     "right": [
+      "Sathvik"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 28,
+     "q": "This god calms the storm at sea that begins the epic, letting Aeneas get to dry land",
+     "a": "Neptune",
+     "right": [
+      "Shannon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 21,
+     "q": "It sounds like a bakery treat rather than the thymus or pancreas of a young animal eaten as a delicacy",
+     "a": "sweetbreads",
+     "right": [
+      "Kevin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 23,
+     "q": "Someone who dislikes people in general, or the title subject of a 1666 play by Molière",
+     "a": "misanthrope",
+     "right": [
+      "Sathvik"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2000
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 7,
+     "q": "This leader & his first wife Evelyn were married from 1944 until she told him, it's the ANC or me!",
+     "a": "Mandela",
+     "right": [
+      "Sathvik"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 15,
+     "q": "Streaming hits of Oct. 2018 included songs by Lil Baby, Lil Pump, Lil Uzi Vert & \"Uproar\" & \"Dedicate\" by him",
+     "a": "Lil Wayne",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 9,
+     "q": "Ile Sumba: this river in a \"Democratic Republic\"",
+     "a": "the Congo",
+     "right": [
+      "Shannon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 30,
+     "q": "Allecto is one of these goddesses of vengeance; her machinations get the Trojans into yet another war",
+     "a": "the Furies",
+     "right": [
+      "Kevin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 22,
+     "q": "The funny bone isn't funny & it's not a bone; that weird sensation you feel is this nerve pressing against the end of the humerus",
+     "a": "the ulnar nerve",
+     "right": [
+      "Sathvik"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 29,
+     "q": "This type of makeup is a symbol of acting in the theater",
+     "a": "greasepaint",
+     "right": [],
+     "wrong": [
+      "Kevin"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 8,
+     "q": "Perhaps the birth of their baby c. 1118 was enough of a hint for Abelard to wed this woman, but in secret; that did not end well",
+     "a": "Heloise",
+     "right": [
+      "Shannon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 16,
+     "q": "Bryce Vine cracked the Mainstream Top 40 with this tune named for an ex-child star-turned-\"Charlie's Angel\"",
+     "a": "Drew Barrymore",
+     "right": [
+      "Shannon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 12,
+     "q": "Bird Islet & Cato Island, near the Great Barrier Reef: this sea",
+     "a": "the Coral Sea",
+     "right": [
+      "Sathvik"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "BUSINESS & INDUSTRY",
+  "q": "Peaking at 9,000 locations in 2004, this chain of stores was down to one in 2019, located in Bend, Oregon",
+  "a": "Blockbuster",
+  "right": [
+   "Kevin",
+   "Sathvik"
+  ],
+  "wrong": [
+   "Shannon"
+  ]
+ },
+ "gameId": "6470",
+ "cat_notes": {
+  "J": [
+   "Clues about Fireboats of Boston.",
+   "Clues about Authors Fictional Places.",
+   "The category “SO YUMMY THEY NAMED IT TWICE” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "Each answer contains the letter group “VO”, and the clues are about Cabulary Test.",
+   "A mixed bag of clues with no single topic.",
+   "Clues about Basketball: Pic and Role."
+  ],
+  "DJ": [
+   "Clues about Characters in the Aeneid.",
+   "Clues about Misleading Names.",
+   "Each answer is a 11-letter word.",
+   "Clues about Husbands and Wives.",
+   "Clues about Hit Tunes.",
+   "Each answer contains the letter “C”, and the clues are about Islands in The."
+  ],
+  "F": "Clues about Business and Industry."
+ }
+}

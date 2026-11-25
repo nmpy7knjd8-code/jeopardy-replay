@@ -1,0 +1,1003 @@
+{
+ "show": "#8214",
+ "aired": "2020-04-30",
+ "note": "Sarah Jett Rayburn game 5.",
+ "contestants": [
+  {
+   "name": "Jesse Laymon",
+   "bio": "a public policy director from Long Island City, New York",
+   "short": "Jesse"
+  },
+  {
+   "name": "Kevin Curran",
+   "bio": "an attorney from Chicago, Illinois",
+   "short": "Kevin"
+  },
+  {
+   "name": "Sarah Jett Rayburn",
+   "bio": "a writer and stay-at-home mom from Hutto, Texas (whose 4-day cash winnings total $89,300)",
+   "short": "Sarah"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Sarah": 6800,
+   "Kevin": 3400,
+   "Jesse": 6000
+  },
+  "DJ": {
+   "Sarah": 12500,
+   "Kevin": 13000,
+   "Jesse": 11200
+  },
+  "Final": {
+   "Sarah": 1,
+   "Kevin": 499,
+   "Jesse": 13000
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "CHILDREN'S LIT",
+    "COLLEGE & UNIVERSITY ORIGINS",
+    "FIGHTING FOR AN OSCAR",
+    "NICKNAMES",
+    "PAY RESPECTS",
+    "\"F\""
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 6,
+     "q": "I think I can, I think I can, get you to give me this 5-word title of a Watty Piper kids' book with a never-give-up message",
+     "a": "The Little Engine That Could",
+     "right": [
+      "Jesse"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 25,
+     "q": "BU for short, it had a different name when it was founded, as it was then in Vermont",
+     "a": "Boston University",
+     "right": [
+      "Jesse"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "John Avildsen may have been an underdog, but he won a directing Oscar for this 1976 Sylvester Stallone movie",
+     "a": "Rocky",
+     "right": [
+      "Jesse"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 26,
+     "q": "Born in Austria, the Governator",
+     "a": "Schwarzenegger",
+     "right": [
+      "Kevin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 30,
+     "q": "At his 2018 funeral his son said he was \"The brightest of a thousand points of light\"",
+     "a": "George Herbert Walker Bush",
+     "right": [
+      "Jesse"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 11,
+     "q": "The front of a building, or any type of deceptive display",
+     "a": "a facade",
+     "right": [
+      "Kevin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 18,
+     "q": "In the classic Collodi tale, he's the woodcarver who creates Pinocchio",
+     "a": "Geppetto",
+     "right": [
+      "Kevin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 13,
+     "q": "In 1860 William T. Sherman was the 1st leader of this then seminary of learning & military academy, 9 years before it moved to Baton Rouge",
+     "a": "LSU (Louisiana State)",
+     "right": [],
+     "wrong": [
+      "Kevin",
+      "Jesse"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "To win a 2000 Oscar in this movie, Russell Crowe played a real blood sport",
+     "a": "Gladiator",
+     "right": [
+      "Sarah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 23,
+     "q": "AKA Mr. Tepes, the Impaler",
+     "a": "Vlad (Count Dracula)",
+     "right": [
+      "Jesse"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 29,
+     "q": "Many funeral homes suggest keeping this to 5 minutes or less",
+     "a": "a eulogy",
+     "right": [
+      "Sarah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 12,
+     "q": "This type of imprecise \"logic\" used by certain computers would net you a fine Scrabble score",
+     "a": "fuzzy",
+     "right": [
+      "Jesse"
+     ],
+     "wrong": [
+      "Kevin"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 7,
+     "q": "Created by Hans Christian Andersen, this tiny girl fends off marriage-minded toads before meeting her one true love",
+     "a": "Thumbelina",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": true,
+     "order": 14,
+     "q": "In 1855 2 faculty members & 10 students began hitting the books at this now-Big Ten school less than 15 miles from Chicago",
+     "a": "Northwestern",
+     "right": [
+      "Jesse"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1000
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 3,
+     "q": "He won a Best Actor Oscar for his role as real-life champ Jake LaMotta in 1980's \"Raging Bull\"",
+     "a": "De Niro",
+     "right": [
+      "Jesse"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 8,
+     "q": "A Keystone Star, The Little Tramp",
+     "a": "Charlie Chaplin",
+     "right": [
+      "Sarah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 20,
+     "q": "Her 1997 funeral included a song with the revised lyrics \"Goodbye England's rose, may you ever grow in our hearts\"",
+     "a": "Princess Diana",
+     "right": [
+      "Kevin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 19,
+     "q": "This 9-letter word referring to an exact copy became the namesake for a machine involving copies",
+     "a": "facsimile",
+     "right": [
+      "Jesse"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 9,
+     "q": "In this novel by Scott O'Dell, a girl named Karana is alone on the title isle",
+     "a": "Island of the Blue Dolphins",
+     "right": [
+      "Sarah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 15,
+     "q": "One of the Seven Sisters, this Poughkeepsie college was founded in 1861 but didn't open until 1865",
+     "a": "Vassar",
+     "right": [
+      "Jesse"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 4,
+     "q": "This Swank-y 2004 film fought its way to Oscars for Best Picture, Director, Actress & Supporting Actor",
+     "a": "Million Dollar Baby",
+     "right": [
+      "Jesse"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 16,
+     "q": "A frequent presidential candidate, the Great Compromiser",
+     "a": "Henry Clay",
+     "right": [
+      "Sarah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 28,
+     "q": "Pollen found in burial caves used by these ancient humans named for a German valley suggests flowers were laid with their dead",
+     "a": "Neanderthals",
+     "right": [
+      "Sarah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 21,
+     "q": "It's commonly used for outdoor paving and was also the original last name of the animated Fred and Wilma",
+     "a": "flagstone",
+     "right": [
+      "Kevin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 10,
+     "q": "One of the first novels for children was the 1765 book seen here about this girl whose name now means someone annoyingly virtuous",
+     "a": "Goody Two-Shoes",
+     "right": [
+      "Kevin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 24,
+     "q": "This NYC school of design was founded in 1896 & became a division of The New School for Social Research in 1970",
+     "a": "Parsons",
+     "right": [
+      "Jesse"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 5,
+     "q": "Punchy pug Marlon Brando brawled his way to a Best Actor Oscar in this 1954 classic",
+     "a": "On the Waterfront",
+     "right": [
+      "Sarah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 17,
+     "q": "Died in 1400, the Father of English Poetry",
+     "a": "Geoffrey Chaucer",
+     "right": [
+      "Sarah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 27,
+     "q": "Venerating the underworld goddess Mictecacihuatl, this celebration was moved to coincide with All Saints' Day & All Souls' Day",
+     "a": "Dia de los Muertos (Day of the Dead)",
+     "right": [
+      "Kevin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 22,
+     "q": "When something's done & cannot be altered, it's this 2-word French term",
+     "a": "a fait accompli",
+     "right": [
+      "Sarah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "NAMES IN AMERICAN HISTORY",
+    "TOOT SUITE",
+    "WORLD CAPITAL RIVERS",
+    "WHAT DOES IT STAND FOR?",
+    "TOTALLY AWESOME '80s TV",
+    "BROKEN ENGLISH"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 10,
+     "q": "The 2012 film \"Red Tails\" tells the story of the WWII African-American flyers known as these airmen",
+     "a": "the Tuskegee Airmen",
+     "right": [
+      "Jesse"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 26,
+     "q": "Ferde Grofé's suite named for this Arizona landmark has trumpets mimicking crickets",
+     "a": "the Grand Canyon",
+     "right": [
+      "Sarah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 15,
+     "q": "The Tigris River flows through this capital",
+     "a": "Baghdad",
+     "right": [
+      "Jesse"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 25,
+     "q": "The first \"W\" in WWE, where Kofi Kingston & No Way Jose wrestle with issues",
+     "a": "World (World Wrestling Entertainment)",
+     "right": [
+      "Kevin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 5,
+     "q": "In 1980-81 the eyes of Texas--& apparently, everyone else--were on this CBS nighttime soap, No. 1 for the season",
+     "a": "Dallas",
+     "right": [
+      "Jesse"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 17,
+     "q": "At the blackjack table, don't hit on hard 17 or you'll probably do this synonym for \"break\"",
+     "a": "bust",
+     "right": [
+      "Kevin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 6,
+     "q": "William Penn created Pennsylvania as a refuge for religious minorities, like this faith of his",
+     "a": "Quakers",
+     "right": [
+      "Sarah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 27,
+     "q": "When the L.A. Phil did Prokofiev's \"Scythian Suite\", it used several flutes but only one of these highest-pitched woodwinds",
+     "a": "a piccolo",
+     "right": [
+      "Kevin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 11,
+     "q": "In troubled Venezuela, many have scoured the polluted waters of the Guaire River in this capital in search of anything of value",
+     "a": "Caracas",
+     "right": [
+      "Jesse"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 16,
+     "q": "The \"A\" in the disease AIDS",
+     "a": "Acquired",
+     "right": [
+      "Sarah"
+     ],
+     "wrong": [
+      "Jesse"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 4,
+     "q": "Ken Levine & David Isaacs penned \"The Boys in the Bar\" & \"The Last Angry Mailman\" episodes of this sitcom",
+     "a": "Cheers",
+     "right": [
+      "Sarah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 18,
+     "q": "Numbers that have been summed & cars that have been wrecked beyond repair have been this",
+     "a": "totaled",
+     "right": [
+      "Kevin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 7,
+     "q": "This Wild West frontiersman got his name on a state capital in 1864",
+     "a": "Kit Carson",
+     "right": [],
+     "wrong": [
+      "Kevin"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 28,
+     "q": "In the 1950s Chico O'Farrill's \"Afro-Cuban Jazz Suite\" featured this \"avian\" saxophonist tootin'",
+     "a": "Charlie \"Birdman\" Parker",
+     "right": [
+      "Sarah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": true,
+     "order": 12,
+     "q": "Of the 4 capitals that stand on the Danube, 3 start with a \"B\": Bratislava, Budapest & this one further south",
+     "a": "Belgrade",
+     "right": [
+      "Jesse"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 5600
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 20,
+     "q": "The \"F\" in FISA, authorized in 1978",
+     "a": "Foreign",
+     "right": [
+      "Jesse"
+     ],
+     "wrong": [
+      "Sarah"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 3,
+     "q": "The song \"Kiss\" says, \"You don't have to watch\" this ABC drama \"to have an attitude\" but many did watch those Carringtons",
+     "a": "Dynasty",
+     "right": [
+      "Kevin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 19,
+     "q": "An appliance that's not working is \"on the\" this German first name",
+     "a": "Fritz",
+     "right": [
+      "Jesse"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 8,
+     "q": "The public was intrigued when this man's November 1963 8mm film footage was shown on TV in 1975",
+     "a": "Zapruder",
+     "right": [
+      "Kevin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 29,
+     "q": "\"Mercury, The Winged Messenger\" in this Holst suite brings some high-pitched frivolity",
+     "a": "The Planets",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 13,
+     "q": "A tributary of the Rhine, the Aare River wraps around this city on three sides in a canton of the same name",
+     "a": "Bern",
+     "right": [
+      "Jesse"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 21,
+     "q": "In AT&T it's what the \"T&T\" originally was short for",
+     "a": "Telephone & Telegraph",
+     "right": [
+      "Sarah"
+     ],
+     "wrong": [
+      "Jesse"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 2,
+     "q": "Not Hawkeye but this \"M*A*S*H\" tentmate became the title character of an '80s drama",
+     "a": "Trapper John",
+     "right": [
+      "Sarah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 23,
+     "q": "A fissure between friends, or a valley formed between 2 faults",
+     "a": "a rift",
+     "right": [
+      "Kevin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 9,
+     "q": "\"Message from Mrs. Madison. She sends her love to Mrs. Wethered\" was Dolley's follow-up to this inventor's 1844 message",
+     "a": "Morse",
+     "right": [],
+     "wrong": [
+      "Jesse"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": true,
+     "order": 30,
+     "q": "There's a bassoon solo in the Rimsky-Korsakov suite named for this woman who told great stories",
+     "a": "Scheherazade",
+     "right": [],
+     "wrong": [
+      "Sarah"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 300
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 14,
+     "q": "This capital of Laos lies on the Mekong",
+     "a": "Vientiane",
+     "right": [],
+     "wrong": [
+      "Jesse"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 22,
+     "q": "The \"L\" in the drug LSD",
+     "a": "Lysergic",
+     "right": [
+      "Kevin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 1,
+     "q": "She played a dazzling array of characters on her show that earned the FOX network its first Emmy nomination",
+     "a": "Tracey Ullman",
+     "right": [
+      "Kevin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 24,
+     "q": "This synonym for \"hernia\" can also refer to a break in a pipeline",
+     "a": "rupture",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "ADVERTISING",
+  "q": "Copywriter Keith Goldberg wrote this question in 1999 for a financial services company; they're still using it",
+  "a": "What's in your wallet?",
+  "right": [
+   "Jesse"
+  ],
+  "wrong": [
+   "Sarah",
+   "Kevin"
+  ]
+ },
+ "gameId": "6622",
+ "cat_notes": {
+  "J": [
+   "Clues about Children's Lit.",
+   "Clues about College and University Origins.",
+   "Clues about Fighting for an OSCAR.",
+   "Clues about Nicknames.",
+   "Clues about Pay Respects.",
+   "Each answer contains the letter “F”."
+  ],
+  "DJ": [
+   "Clues about Names in American History.",
+   "Clues about Toot Suite.",
+   "Clues about World Capital Rivers.",
+   "The category “WHAT DOES IT STAND FOR?” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "Clues about Totally Awesome 80s TV.",
+   "Clues about Broken English."
+  ],
+  "F": "Clues about Advertising."
+ }
+}

@@ -1,0 +1,984 @@
+{
+ "show": "#8105",
+ "aired": "2019-11-29",
+ "note": "",
+ "contestants": [
+  {
+   "name": "Gabrielle Merken",
+   "bio": "a student assessment specialist from Washington, D.C.",
+   "short": "Gabrielle"
+  },
+  {
+   "name": "Emma Wall",
+   "bio": "a graduate student from La Jolla, California",
+   "short": "Emma"
+  },
+  {
+   "name": "Alex Damisch",
+   "bio": "a data scientist from Chicago, Illinois (whose 1-day cash winnings total $12,801)",
+   "short": "Alex"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Alex": 5300,
+   "Emma": 2800,
+   "Gabrielle": 5000
+  },
+  "DJ": {
+   "Alex": 14300,
+   "Emma": 6800,
+   "Gabrielle": 7600
+  },
+  "Final": {
+   "Alex": 13399,
+   "Emma": 100,
+   "Gabrielle": 1599
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "THE OLD WEST",
+    "THIS CATEGORY IS FULL OF VINEGAR",
+    "BEFORE & AFTER",
+    "ENTREPRENHEIRS",
+    "WHO WROTE IT?",
+    "THE WWE SLAMMY AWARDS"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 16,
+     "q": "If you were being serenaded by a \"prairie tenor\" around the campfire, you were hearing this cut-rate wolf",
+     "a": "a coyote",
+     "right": [
+      "Gabrielle"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 12,
+     "q": "Made from Trebbiano grapes, this Italian vinegar is aged in barrels to get its dark color & sweetness",
+     "a": "balsamic",
+     "right": [
+      "Alex"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 2,
+     "q": "Giant bell in the London clock tower that published \"Poor Richard's Almanack\"",
+     "a": "Big Ben Franklin",
+     "right": [
+      "Alex"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 11,
+     "q": "Dylan Lauren, daughter of this fashion designer, founded Dylan's Candy Bar in 2001 & now offers \"7,000 edible treats\"",
+     "a": "Ralph Lauren",
+     "right": [
+      "Gabrielle"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 10,
+     "q": "The novel \"Catch-22\"",
+     "a": "(Joseph) Heller",
+     "right": [
+      "Emma"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 26,
+     "q": "The 1986 Slammys saw Nikolai Volkoff win \"Most Ignominious\" & as girls just want to have fun, \"Best Producer\" was Mona Flambé, AKA her",
+     "a": "Cyndi Lauper",
+     "right": [
+      "Emma"
+     ],
+     "wrong": [
+      "Alex"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 17,
+     "q": "Some lazy, some crazy, these marks were registered in a book & showed the ownership of open-range cattle",
+     "a": "brands",
+     "right": [
+      "Alex"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 13,
+     "q": "Kartoffelsalat, German this salad, gets its zing from vinegar",
+     "a": "potato salad",
+     "right": [
+      "Gabrielle"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 4,
+     "q": "Golf short game practice area served up in the title of a Dr. Seuss book",
+     "a": "a putting Green Eggs and Ham",
+     "right": [
+      "Emma"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 21,
+     "q": "This heiress and reality show star has brought 20-plus fragrances to the world and has more than $1.5 billion in sales",
+     "a": "Paris Hilton",
+     "right": [
+      "Alex"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 9,
+     "q": "The poem \"Mending Wall\"",
+     "a": "Robert Frost",
+     "right": [
+      "Alex"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "Doing the work of 2 1/2 men, this actor beat Tyson, Schwarzenegger & the Muppets to be Top Social Media Ambassador in 2012",
+     "a": "Charlie Sheen",
+     "right": [
+      "Gabrielle"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": true,
+     "order": 18,
+     "q": "This Arizona site that entered Old West legend in 1881 had ' \"Livery and Feed Stables\" in its full name",
+     "a": "the O.K. Corral",
+     "right": [
+      "Alex"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1500
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 14,
+     "q": "A proper Brit will not have his chips with anything but this vinegar made from fermented barley",
+     "a": "malt vinegar",
+     "right": [
+      "Gabrielle"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 1,
+     "q": "Grinning enigmatic acquaintance of Alice in Wonderland seen in cross section by doctors",
+     "a": "the Cheshire Cat scan",
+     "right": [
+      "Emma"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 22,
+     "q": "Yeah yeah yeah, her dad is a musician of note but it was she who was VH1/Vogue Designer of the Year in 2000",
+     "a": "Stella McCartney",
+     "right": [
+      "Gabrielle"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 6,
+     "q": "The play \"Waiting for Godot\"",
+     "a": "Beckett",
+     "right": [
+      "Alex"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 28,
+     "q": "New Sensation of the Ring in 1997 was this guy who now dabbles in action films...& TV...& basically, world domination",
+     "a": "Dwayne Johnson (the Rock)",
+     "right": [
+      "Emma"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 19,
+     "q": "The pre-Civil War discovery of gold in Colorado led to cries of this alliterative site \"or Bust\"",
+     "a": "Pikes Peak",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 15,
+     "q": "In 1864 this Frenchman showed how the Acetobacter bacteria turned alcohol into vinegar",
+     "a": "Pasteur",
+     "right": [
+      "Emma"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 3,
+     "q": "If they used a well-known brand of kosher hot dogs instead of bats, the Dodgers & Phillies would be in this baseball group",
+     "a": "the Hebrew National League",
+     "right": [
+      "Gabrielle"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 23,
+     "q": "Ariana Rockefeller's fashion line has roots in great-great-grandpa co-founding this company",
+     "a": "Standard Oil",
+     "right": [
+      "Alex"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 7,
+     "q": "\"An Essay on Criticism\", 1711",
+     "a": "Alexander Pope",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "This ex-UFCer and arm bar master got a \"This is Awesome\" Moment of the Year Slammy for her work in Wrestlemania 31",
+     "a": "Ronda Rousey",
+     "right": [
+      "Gabrielle"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 20,
+     "q": "Jesse & Frank James saddled up with these other brothers--Jim, John, Bob & Cole",
+     "a": "the Youngers",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 25,
+     "q": "This organic product, perhaps from Bragg, is combined with turmeric for a drink said to be anti-inflammatory",
+     "a": "apple cider vinegar",
+     "right": [
+      "Gabrielle"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 5,
+     "q": "Condition of being unable to think of anything to pen for a long time that becomes a neighborhood celebration",
+     "a": "a writer's block party",
+     "right": [
+      "Alex"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 24,
+     "q": "It doesn't take an Oracle to know this last name of Megan, producer of Oscar-nominated films like \"Her\" & \"Zero Dark Thirty\"",
+     "a": "Ellison",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 8,
+     "q": "The 1986 memoir \"All God's Children Need Traveling Shoes\"",
+     "a": "Maya Angelou",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 30,
+     "q": "No winner for 1987's Song of the Year--Sika ate the envelope--but this WWE head honcho was nominated & did perform \"Stand Back\"",
+     "a": "Vince McMahon",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "THE OLD WEST",
+    "WHEN TV WAS FREE",
+    "WOMEN OF SCIENCE",
+    "RANDOM FACTS",
+    "KEEPING UP WITH THE KENNEDYS",
+    "ENDS IN \"SS\""
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 18,
+     "q": "Before 500 B.C. the Greeks had reached westward to colonize much of southern Italy, including Neapolis, now this city",
+     "a": "Naples",
+     "right": [
+      "Gabrielle"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 16,
+     "q": "He shot to fame in the '70s playing Mork",
+     "a": "Robin Williams",
+     "right": [
+      "Alex"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "\"Queen of Carbon Science\" Mildred Dresselhaus was the first female National Medal of Science winner in this \"E\" in STEM",
+     "a": "engineering",
+     "right": [
+      "Alex"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 26,
+     "q": "In 1912 Arthur Eldred made a fire from 2 sticks & a string & became the USA's first Scout to earn this honor",
+     "a": "an Eagle Scout",
+     "right": [
+      "Emma"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 13,
+     "q": "His dad was the \"Lion of the Senate\" & this man Jr. served in the Connecticut State Senate from 2015 to 2019",
+     "a": "Ted Kennedy, Jr.",
+     "right": [],
+     "wrong": [
+      "Gabrielle"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 10,
+     "q": "The 2 bulbs on this low-tech time-keeper are connected by a narrow passage sometimes called the waist",
+     "a": "an hourglass",
+     "right": [
+      "Alex"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 22,
+     "q": "In the 800s B.C. Assyrian armies began moving west of this 1,700-plus-mile river, eventually conquering most of the Middle East",
+     "a": "the Euphrates",
+     "right": [
+      "Emma"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 19,
+     "q": "This news magazine's 1988 first episode covered precisely 2 days in Dallas' Parkland Memorial Hospital",
+     "a": "48 Hours",
+     "right": [
+      "Gabrielle"
+     ],
+     "wrong": [
+      "Emma"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 3,
+     "q": "Nobel-winning pharmacologist Gertrude Elion oversaw the creation of the drug AZT, the first used to combat this condition",
+     "a": "AIDS",
+     "right": [
+      "Alex"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 12,
+     "q": "On the Christian calendar, it's the day after Shrove Tuesday",
+     "a": "Ash Wednesday",
+     "right": [
+      "Alex"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 27,
+     "q": "For a time, political dynasties were joined while Kerry Kennedy was married to Andrew of this New York family",
+     "a": "the Cuomo family",
+     "right": [],
+     "wrong": [
+      "Emma"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 9,
+     "q": "In this type of heart surgery, a blood vessel taken from a different part of the body is used to circumvent a blocked artery",
+     "a": "a bypass",
+     "right": [
+      "Emma"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 23,
+     "q": "The Umayyads had one of these entities that stretched to the western shores of Africa; in 2014 ISIS also claimed one",
+     "a": "a caliphate",
+     "right": [
+      "Emma"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 17,
+     "q": "It was as if Earth ceased its rotation when this CBS soap that had featured actors like Meg Ryan & Martin Sheen went off the air in 2010",
+     "a": "As the World Turns",
+     "right": [
+      "Emma"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 2,
+     "q": "Daughter of Lord Byron, Ada Lovelace created one of these for a machine devised by Charles Babbage",
+     "a": "a code (a computer program)",
+     "right": [
+      "Emma"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 11,
+     "q": "The Battle of Bosworth Field was the last major engagement of this conflict",
+     "a": "War of the Roses",
+     "right": [
+      "Alex"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 28,
+     "q": "In 2014, for her dedication to various causes, she received a Presidential Medal of Freedom",
+     "a": "Ethel Kennedy",
+     "right": [
+      "Gabrielle"
+     ],
+     "wrong": [
+      "Alex"
+     ],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 6,
+     "q": "In Spain the Alhambra was a famous one",
+     "a": "fortress",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 24,
+     "q": "\"The Chronicle of the Discovery & Conquest of Guinea\" recounts this Portuguese prince's subdual of the West Coast of Africa",
+     "a": "Prince Henry the Navigator",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 20,
+     "q": "On a '70s drama Caine wanders the West, using this title martial art as needed",
+     "a": "Kung Fu",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 4,
+     "q": "Jennifer Doudna & Emmanuelle Charpentier are co-inventors of the revolutionary tool CRISPR to edit these in the body",
+     "a": "genes",
+     "right": [
+      "Alex"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 14,
+     "q": "Today home to a U.S. military base, this nation was known as French Somaliland until 1967",
+     "a": "Djibouti",
+     "right": [
+      "Gabrielle"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 29,
+     "q": "Timothy & Bobby Shriver both serve on the board that sponsors this intl. sports competition founded by their mom, Eunice",
+     "a": "the Special Olympics",
+     "right": [
+      "Gabrielle"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1000
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 7,
+     "q": "A poem says, \"At length did cross\" this bird, \"Thorough the fog it came\"",
+     "a": "an albatross",
+     "right": [
+      "Alex"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 25,
+     "q": "\"Swan River Mania\" brought settlers to what's now \"Western\" this in 1829",
+     "a": "Western Australia",
+     "right": [],
+     "wrong": [
+      "Emma",
+      "Gabrielle"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 21,
+     "q": "In the '80s Joan Collins was this schemer on \"Dynasty\"; Nicollette Sheridan took over in 2018",
+     "a": "Alexis Carrington",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": true,
+     "order": 5,
+     "q": "Vera Rubin confirmed the existence of this component of the universe, originally dubbed \"missing mass\"",
+     "a": "dark matter",
+     "right": [
+      "Alex"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 5000
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 15,
+     "q": "The Egyptian god Anubis bears the head of this animal",
+     "a": "a jackal",
+     "right": [
+      "Emma"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 30,
+     "q": "Late actor/activist Christopher, who wrote books on addiction, was the son of Patricia Kennedy & this British actor",
+     "a": "Peter Lawford",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 8,
+     "q": "Derived from the name of a German mathematician, it means to neutralize a magnetic field",
+     "a": "degauss",
+     "right": [],
+     "wrong": [
+      "Alex"
+     ],
+     "stumper": true,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "CLASSIC BRITISH NOVELS",
+  "q": "The title character of this novel says of his home, \"The wind breathes cold through the broken battlements and casements\"",
+  "a": "Dracula",
+  "right": [],
+  "wrong": [
+   "Emma",
+   "Gabrielle",
+   "Alex"
+  ]
+ },
+ "gameId": "6481",
+ "cat_notes": {
+  "J": [
+   "Clues about The Old West.",
+   "Clues about This Category Is Full of Vinegar.",
+   "Each answer is a “before and after”: two familiar phrases fused by a word or name they share.",
+   "Clues about Entreprenheirs.",
+   "The category “WHO WROTE IT?” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "Clues about The Wwe Slammy Awards."
+  ],
+  "DJ": [
+   "Clues about The Old West.",
+   "Clues about When TV Was Free.",
+   "Clues about Women of Science.",
+   "Clues about Random Facts.",
+   "Clues about Keeping Up with the Kennedys.",
+   "Each answer ends with “SS”."
+  ],
+  "F": "Clues about Classic British Novels."
+ }
+}

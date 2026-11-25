@@ -1,0 +1,1005 @@
+{
+ "show": "#8120",
+ "aired": "2019-12-20",
+ "note": "",
+ "contestants": [
+  {
+   "name": "Claire Marinello-Fisher",
+   "bio": "an ESL professor from Hasbrouck Heights, New Jersey",
+   "short": "Claire"
+  },
+  {
+   "name": "Lucy Yuan",
+   "bio": "a lawyer from Vancouver, British Columbia, Canada",
+   "short": "Lucy"
+  },
+  {
+   "name": "Eric Smith",
+   "bio": "a bartender from Tucson, Arizona (whose 1-day cash winnings total $17,000)",
+   "short": "Eric"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Eric": 3200,
+   "Lucy": 6000,
+   "Claire": 8800
+  },
+  "DJ": {
+   "Eric": 13500,
+   "Lucy": 8400,
+   "Claire": 12400
+  },
+  "Final": {
+   "Eric": 25000,
+   "Lucy": 11400,
+   "Claire": 16801
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "ALTERNATIVE SANTA CLAUS IS COMIN' TO TOWN",
+    "TAKE MY RHYME",
+    "WORLD STAMP NEWS",
+    "STUFF",
+    "WRITERS GO WAY BACK",
+    "ON A FIRST NAME BASIS WITH THAT SHOW"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 21,
+     "q": "Sinterklaas arrives via boat from Spain (where he lives the rest of the year, why not?) & parades through this Dutch capital",
+     "a": "Amsterdam",
+     "right": [
+      "Claire"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 3,
+     "q": "When used by hand, it'll kill a vampire",
+     "a": "stake",
+     "right": [
+      "Lucy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 26,
+     "q": "A 2018 Swiss stamp has a pot of melted cheese to honor this national dish",
+     "a": "fondue",
+     "right": [
+      "Eric"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "British composer James Sanderson used a folk tune as the basis for this, now the U.S. president's entrance music",
+     "a": "\"Hail To The Chief\"",
+     "right": [
+      "Eric"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": true,
+     "order": 14,
+     "q": "This Shakespeare play is set in 44 B.C.",
+     "a": "Julius Caesar",
+     "right": [
+      "Claire"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2000
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 11,
+     "q": "About Mr. Tribbiani, who spins off to Los Angeles to continue his acting dreams",
+     "a": "Joey",
+     "right": [
+      "Claire"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 22,
+     "q": "In 1810 the N.Y. Historical Society drew up a picture of this saint giving gifts but he wears a robe &--whoa whoa whoa!--is bald",
+     "a": "Saint Nicholas",
+     "right": [
+      "Claire"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 4,
+     "q": "The yamakagashi of Asia is a venomous one",
+     "a": "snake",
+     "right": [
+      "Lucy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "Drawings of the head of a bearded man & of the skeleton are 2019 U.K. stamps commemorating the 500th anniv. of this artist's death",
+     "a": "da Vinci",
+     "right": [
+      "Lucy"
+     ],
+     "wrong": [
+      "Eric"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "An iron anvil will float in mercury because this quality in mercury is about twice that of iron",
+     "a": "density",
+     "right": [
+      "Lucy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 15,
+     "q": "This Victor Hugo novel begins in 1482",
+     "a": "The Hunchback of Notre Dame",
+     "right": [
+      "Claire"
+     ],
+     "wrong": [
+      "Eric"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 12,
+     "q": "About Miss Russo, who gets through adolescence with her single father & her best friend Six",
+     "a": "Blossom",
+     "right": [
+      "Claire"
+     ],
+     "wrong": [
+      "Eric"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 23,
+     "q": "Not sparing it to spoil the child in \"The Children's Friend\" in 1821, Santa left parents \"a long, black birchen\" this to use",
+     "a": "the rod",
+     "right": [
+      "Lucy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 5,
+     "q": "It follows a schooner as it moves forward",
+     "a": "wake",
+     "right": [
+      "Claire"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 28,
+     "q": "This fictional mountain creature is featured on a stamp from Bhutan",
+     "a": "a Yeti",
+     "right": [
+      "Eric"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 8,
+     "q": "This singer wanted a tattoo written in Japanese that said \"7 Rings\", her song; she ended up with one translating to \"BBQ grill\"",
+     "a": "Ariana Grande",
+     "right": [
+      "Lucy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 16,
+     "q": "This British dame sets the mystery in \"Death Comes as the End\" in Egypt way back in 2000 B.C.",
+     "a": "Agatha Christie",
+     "right": [
+      "Eric"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 13,
+     "q": "About Ms. Morgenstern, who leaves Minneapolis to give New York one last chance",
+     "a": "Rhoda",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 24,
+     "q": "In an old print ad, Santa says a gift bringing \"pleasure to every home...is rare indeed. Such a gift, my friends, is Lucky Strike\"--these",
+     "a": "cigarettes",
+     "right": [
+      "Claire"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 6,
+     "q": "To leave someone when they still need you; oh, my darling, do not",
+     "a": "forsake",
+     "right": [
+      "Lucy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "Hallelujah! In 2019 Canada issued stamps honoring this Canadian singer-songwriter who passed in 2016",
+     "a": "(Leonard) Cohen",
+     "right": [
+      "Claire"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 9,
+     "q": "The powder for these, worn by 18th c. men, was made of ground starch & scented with lavender; a 1795 tax ended the style",
+     "a": "a wig",
+     "right": [
+      "Lucy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 17,
+     "q": "Michael Crichton put a 10th c. Muslim traveler into the events of this Old English epic to prove he could make it entertaining",
+     "a": "Beowulf",
+     "right": [
+      "Eric"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 19,
+     "q": "About Mr. Bartowski, a computer repairman dragged into the spy life in the CIA",
+     "a": "Chuck",
+     "right": [
+      "Lucy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 25,
+     "q": "Flossie & Glossie were 2 \"deer of much intelligence\", casually chatting about \"sledge\" work with Santa in a tale by this \"Oz\" author",
+     "a": "Baum",
+     "right": [
+      "Lucy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 7,
+     "q": "To satisfy one's thirst",
+     "a": "slake",
+     "right": [
+      "Claire"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 30,
+     "q": "In 2019 this small Central European country honored its 300th birthday with a souvenir embroidered stamp of the Princely Hat",
+     "a": "Liechtenstein",
+     "right": [
+      "Eric"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 10,
+     "q": "With nearly 7 million rivets, the Scottish bridge over this firth was the first built primarily of steel",
+     "a": "the Firth of Forth",
+     "right": [
+      "Eric"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 18,
+     "q": "This 1880 Lew Wallace novel takes place during the life of Christ",
+     "a": "Ben-Hur",
+     "right": [
+      "Claire"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 20,
+     "q": "About Ms. Porter, who impulsively goes to college in New York City to be with high school crush Ben",
+     "a": "Felicity",
+     "right": [
+      "Claire"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "AROUND THE USA",
+    "COMPOSERS & THEIR WORKS",
+    "BOOKS FILMED WITH DIFFERENT TITLES",
+    "AGRICULTURE",
+    "THE MARSHALL PLAN",
+    "THAT'S OXYMORONIC"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 15,
+     "q": "If you're having beignets, at Cafe du Monde, you're living the high life in this city",
+     "a": "New Orleans",
+     "right": [
+      "Eric"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 23,
+     "q": "Henry Purcell wrote this type of march when Queen Mary II died in 1694",
+     "a": "a funeral march",
+     "right": [
+      "Claire"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 3,
+     "q": "The novel \"Shoeless Joe\" by W.P. Kinsella was the basis of this 1989 film",
+     "a": "Field of Dreams",
+     "right": [
+      "Claire"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 13,
+     "q": "Fed to livestock, it's the USA's most widely produced feed grain, grown on more than 400,000 farms",
+     "a": "corn",
+     "right": [
+      "Eric"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "The Marshall Plan was named for former general George Marshall, who was then serving in this cabinet post",
+     "a": "Secretary of State",
+     "right": [
+      "Eric"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 11,
+     "q": "A 1968 horror movie was titled \"Night of\" these zombies",
+     "a": "the Living Dead",
+     "right": [
+      "Eric"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 16,
+     "q": "Taos Pueblo, New Mexico, is home to many structures, made of this five-letter clay building material",
+     "a": "adobe",
+     "right": [
+      "Eric"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 20,
+     "q": "This Polish-born piano man called his E Major Etude his most beautiful melody",
+     "a": "Chopin",
+     "right": [
+      "Eric"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 4,
+     "q": "\"Nothing Lasts Forever\", with a cop named Leland flying out to the coast to visit his daughter at Christmas, became this action film",
+     "a": "Die Hard",
+     "right": [
+      "Lucy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 24,
+     "q": "Glyphosate is one of the most widely used of these, another word for a weedkiller",
+     "a": "an herbicide",
+     "right": [
+      "Eric"
+     ],
+     "wrong": [
+      "Claire"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 2,
+     "q": "The basic idea for the plan was announced during a 1947 speech to the graduating class at this prestigious U.S. university",
+     "a": "Harvard",
+     "right": [
+      "Claire"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 12,
+     "q": "You can get from Manhattan's Penn Station right to your terminal at Newark Airport on the air this",
+     "a": "the AirTrain",
+     "right": [
+      "Claire"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 17,
+     "q": "Pike Place Market in this Pacific Northwest city is a great place to get in touch with your inner fishmonger",
+     "a": "Seattle",
+     "right": [
+      "Lucy"
+     ],
+     "wrong": [
+      "Claire"
+     ],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 28,
+     "q": "The 1996 movie \"Shine\" popularized his concerto known as the \"Rach 3\"",
+     "a": "Sergei Rachmaninoff",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 5,
+     "q": "The film \"Blade Runner\" was based on this Philip K. Dick novel whose title is a 6-word question",
+     "a": "Do Androids Dream of Electric Sheep?",
+     "right": [
+      "Eric"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 25,
+     "q": "The volcanic soil of Maui is low in harsh sulfur compounds, producing the sweetness of Maui or Kula these",
+     "a": "onions",
+     "right": [
+      "Eric"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 6,
+     "q": "Eastern European countries were also offered assistance in the plan & some showed interest, but this Soviet leader nixed the idea",
+     "a": "Stalin",
+     "right": [
+      "Eric"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 14,
+     "q": "Someone who receives money even though they've shown up of their own accord to work without expecting a salary",
+     "a": "a paid volunteer",
+     "right": [
+      "Claire"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 21,
+     "q": "The USA's tallest all-granite structure is the Pilgrim Monument in Provincetown at the tip of this cape",
+     "a": "Cape Cod",
+     "right": [
+      "Eric"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 29,
+     "q": "Stravinsky's \"Ebony Concerto\" is for this reed instrument AKA an ebony stick",
+     "a": "a clarinet",
+     "right": [
+      "Eric"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 9,
+     "q": "A phrase in a gun catalogue gave Stanley Kubrick this title for his film based on Gustav Hasford's \"The Short-Timers\"",
+     "a": "Full Metal Jacket",
+     "right": [
+      "Claire"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 26,
+     "q": "Starting with the same 3 letters as \"agriculture\", it's the science of soil management & crop production",
+     "a": "agronomy",
+     "right": [
+      "Eric"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 7,
+     "q": "$13 billion in aid was distributed to 17 European nations, including this new country born from a recent division",
+     "a": "West Germany",
+     "right": [
+      "Eric"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 5000
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 18,
+     "q": "In the Olympics, Leon Spinks won a gold medal in this boxing class between 165-178 pounds",
+     "a": "light heavyweight",
+     "right": [],
+     "wrong": [
+      "Eric",
+      "Lucy",
+      "Claire"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 22,
+     "q": "Grand Prismatic Spring is a sight to behold in this venerable national park",
+     "a": "Yellowstone",
+     "right": [
+      "Claire"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": true,
+     "order": 30,
+     "q": "In 1878 & 1886 he produced sets of \"Slavonic Dances\"",
+     "a": "Antonin Dvořák",
+     "right": [],
+     "wrong": [
+      "Eric"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 5500
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 10,
+     "q": "Harry Grey's book \"The Hoods\" inspired this 4-hour Sergio Leone film that starred Robert de Niro",
+     "a": "Once Upon a Time in America",
+     "right": [
+      "Lucy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 27,
+     "q": "About 1/4 inch in length, this geographic-named pest is associated with citrus crops but also attacks peppers and tomatoes",
+     "a": "the medfly",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 8,
+     "q": "The plan was part of this 11-letter geopolitical policy of keeping Communist expansion within boundaries",
+     "a": "containment",
+     "right": [
+      "Claire"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 19,
+     "q": "Abbreviated LPG, it burns clean when cooking in your RV",
+     "a": "liquid propane gas (liquified petroleum gas)",
+     "right": [],
+     "wrong": [
+      "Claire"
+     ],
+     "stumper": true,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "CLASSIC FICTION",
+  "q": "A 1902 work says of a riverboat journey, \"We penetrated deeper and deeper into\" this, the work's title",
+  "a": "Heart of Darkness",
+  "right": [
+   "Lucy",
+   "Claire",
+   "Eric"
+  ],
+  "wrong": []
+ },
+ "gameId": "6502",
+ "cat_notes": {
+  "J": [
+   "Clues about Alternative Santa Claus Is Comin to Town.",
+   "Each correct response will rhyme with the word \"take\".",
+   "Clues about World Stamp News.",
+   "Clues about Stuff.",
+   "Clues about Writers Go Way Back.",
+   "Clues on a First Name Basis with That Show."
+  ],
+  "DJ": [
+   "Clues about Around the USA.",
+   "Clues about Composers and Their Works.",
+   "Clues about Books Filmed with Different Titles.",
+   "Clues about Agriculture.",
+   "Clues about The Marshall Plan.",
+   "Clues about That's Oxymoronic."
+  ],
+  "F": "Clues about Classic Fiction."
+ }
+}

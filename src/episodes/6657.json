@@ -1,0 +1,986 @@
+{
+ "show": "#8219",
+ "aired": "2020-05-21",
+ "note": "",
+ "contestants": [
+  {
+   "name": "Shawn Buell",
+   "bio": "a civil engineer from Zachary, Louisiana",
+   "short": "Shawn"
+  },
+  {
+   "name": "Michelle Kanter Cohen",
+   "bio": "a voting rights attorney from Silver Spring, Maryland",
+   "short": "Michelle"
+  },
+  {
+   "name": "Nathan Berger",
+   "bio": "a restaurateur and sommelier from South Portland, Maine (whose 1-day cash winnings total $11,999)",
+   "short": "Nathan"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Nathan": 2000,
+   "Michelle": 2400,
+   "Shawn": 7400
+  },
+  "DJ": {
+   "Nathan": 5600,
+   "Michelle": 12400,
+   "Shawn": 18800
+  },
+  "Final": {
+   "Nathan": 5600,
+   "Michelle": 12800,
+   "Shawn": 24801
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "DRINK UP: IT'S THIRST-DAY",
+    "GEOGRAPHY",
+    "CHANNEL THAT ABBREV.",
+    "FACTS & FIGURES",
+    "\"YE\" OLD",
+    "STORY OF MYTH"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "This frozen rum cocktail that can be banana or strawberry is named for a district in Cuba",
+     "a": "a daiquiri",
+     "right": [
+      "Shawn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 2,
+     "q": "The Casiquiare River forms a link between the drainage systems of the Orinoco & this bigger South American river",
+     "a": "the Amazon",
+     "right": [
+      "Michelle"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 24,
+     "q": "It's got \"Drunk History\":\nCOM",
+     "a": "Comedy Central",
+     "right": [
+      "Michelle"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 19,
+     "q": "The average distance between these 2 bodies is 93 million miles",
+     "a": "the Earth & the Sun",
+     "right": [
+      "Michelle"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 15,
+     "q": "This word for an annual publication was around more than 4 centuries before the class of 2020 got theirs",
+     "a": "a yearbook",
+     "right": [
+      "Michelle"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 9,
+     "q": "In the labor of the man-eating horses of King Diomedes, this hero fed Diomedes to the horses",
+     "a": "Hercules",
+     "right": [
+      "Nathan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 4,
+     "q": "Reposado tequila & Grand Marnier go into the upgraded cocktail known as this kind of car margarita",
+     "a": "a Cadillac margarita",
+     "right": [
+      "Nathan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 3,
+     "q": "This monarchy of North Africa lies directly across the Strait of Gibraltar from Spain",
+     "a": "Morocco",
+     "right": [
+      "Nathan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 25,
+     "q": "Founded by Robert Redford:\nSUND",
+     "a": "Sundance",
+     "right": [
+      "Michelle"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 20,
+     "q": "Adding up senators & House representatives, Congress has this many voting members",
+     "a": "535",
+     "right": [
+      "Shawn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 14,
+     "q": "This word for a leavening agent entered the language around the year 1000",
+     "a": "yeast",
+     "right": [
+      "Nathan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 10,
+     "q": "Jealous Daedalus tossed his apprentice off the Acropolis, leading to banishment from this city",
+     "a": "Athens",
+     "right": [
+      "Shawn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 5,
+     "q": "Despite its name, this cocktail never seems to go out of style",
+     "a": "an old-fashioned",
+     "right": [
+      "Nathan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 7,
+     "q": "If she sells seashells in the Seychelles, she'll know it's an island country found in this ocean",
+     "a": "the Indian Ocean",
+     "right": [
+      "Nathan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 26,
+     "q": "It's premium cable:\nMAX",
+     "a": "Cinemax",
+     "right": [
+      "Shawn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 21,
+     "q": "Since its founding in 1955, this company with locations in all 50 states has prepared more than 800 million tax returns",
+     "a": "H&R Block",
+     "right": [
+      "Nathan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 16,
+     "q": "This 4-letter shrill cry has been around since the middle ages, not just the 2004 website launch",
+     "a": "yelp",
+     "right": [
+      "Shawn"
+     ],
+     "wrong": [
+      "Nathan"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 11,
+     "q": "This god of love fell in love with the mortal Psyche, of whom his mom Venus was jealous",
+     "a": "Cupid",
+     "right": [],
+     "wrong": [
+      "Nathan",
+      "Michelle"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 6,
+     "q": "Hindi gives us the name of this hot whiskey drink that's warming & restorative",
+     "a": "a toddy",
+     "right": [
+      "Michelle"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": true,
+     "order": 22,
+     "q": "If you're on Nevis & have business at Government House, you need to go to this nearby island",
+     "a": "St. Kitts",
+     "right": [
+      "Nathan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1000
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 27,
+     "q": "It's where you can watch \"NBA on TNT\":\nTNT",
+     "a": "Turner Network Television",
+     "right": [
+      "Shawn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "On average, the statues on this Chilean dependency are 13 feet tall & weigh 14 tons",
+     "a": "Easter Island",
+     "right": [
+      "Shawn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 17,
+     "q": "One of \"The Canterbury Tales\" is told by this olde type of attendant or bodyguard",
+     "a": "yeoman",
+     "right": [
+      "Shawn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 12,
+     "q": "King Pelias used the Golden Fleece as an excuse to get this upstart nephew of his out of the city",
+     "a": "Jason",
+     "right": [
+      "Shawn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 8,
+     "q": "A World War I artillery piece gave its national name & caliber to this champagne cocktail",
+     "a": "the French 75",
+     "right": [],
+     "wrong": [
+      "Nathan"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 23,
+     "q": "The Philippines' largest islands are Luzon and this one down south",
+     "a": "Mindanao",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 28,
+     "q": "With \"Maria Bartiromo's Wall Street\": FBN",
+     "a": "FOX Business",
+     "right": [
+      "Shawn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 30,
+     "q": "This European country gets about 3/4 of its electricity from nuclear power, the most of any country",
+     "a": "France",
+     "right": [
+      "Shawn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 18,
+     "q": "This word for a type of Jewish school entered English in the 1600s",
+     "a": "a yeshiva",
+     "right": [
+      "Michelle"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 13,
+     "q": "An errant lioness interrupts the budding romance of Babylonian youths Thisbe & this guy",
+     "a": "Pyramus",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "SOLD! AT SOTHEBY'S",
+    "RUN ON SENTENCES",
+    "HIGHWAYS",
+    "WORDS THAT RHYME",
+    "BOSS HOG",
+    "THEM DUKE BOYS!"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 5,
+     "q": "Auctioned off in 2019 for $110 million, a record for an impressionist work, this painter's \"Haystacks\"",
+     "a": "Monet",
+     "right": [
+      "Nathan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 8,
+     "q": "It's said of this nursery rhyme trio, \"see how they run!\"",
+     "a": "three blind mice",
+     "right": [
+      "Michelle"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 12,
+     "q": "Good roads advocate Cyrus Avery of Tulsa is known as \"The Father of\" this numeric highway famous in song",
+     "a": "Route 66",
+     "right": [
+      "Michelle"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "A digit & a chanteuse",
+     "a": "a finger & a singer",
+     "right": [
+      "Michelle"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 17,
+     "q": "Twrch Trwyth is a fierce boar that this legendary \"King of the Britons\" faces off against in the \"Mabinogion\"",
+     "a": "King Arthur",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 22,
+     "q": "At 23 in 1705 Archibald Campbell, third Duke of Argyll, was appointed treasurer of this country",
+     "a": "Scotland",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 6,
+     "q": "A shout-out to this artist, who famous painting shattered records in 2012, bringing in over $119 million",
+     "a": "(Edvard) Munch",
+     "right": [
+      "Michelle"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 9,
+     "q": "This number Psalm says, \"Thou anointest my head with oil; my cup runneth over\"",
+     "a": "Psalm 23 (the 23rd Psalm)",
+     "right": [
+      "Michelle"
+     ],
+     "wrong": [
+      "Shawn"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 13,
+     "q": "It means \"royal road\"; California & Spain have them",
+     "a": "the Camino Real",
+     "right": [
+      "Shawn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 2,
+     "q": "Legal evidence with probative weight & detached, indifferent, cool",
+     "a": "proof & aloof",
+     "right": [
+      "Nathan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 18,
+     "q": "Initially this sheep-pig is laughed at, but he soon has things under control at Hoggett farm",
+     "a": "Babe",
+     "right": [
+      "Shawn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 23,
+     "q": "As a young man Arthur Wellesley, best known as this duke, had gambling debts & trouble at school before his martial glory",
+     "a": "the Duke of Wellington",
+     "right": [
+      "Michelle"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 7,
+     "q": "This artist's \"The Blue Page\", once thought to be a sketch for his \"Blue Boy\", sold for $3 1/4 million in 2016",
+     "a": "Gainsborough",
+     "right": [
+      "Shawn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 10,
+     "q": "Before a heavyweight title fight, Joe Louis said, \"He can run, but\" these 3 words",
+     "a": "he can't hide",
+     "right": [
+      "Nathan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 14,
+     "q": "For years, \"DH\" marked this highway that despite its name wasn't only in the South--it got as far north as Detroit",
+     "a": "the Dixie Highway",
+     "right": [
+      "Shawn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 3,
+     "q": "What the defendant did in court regarding a legal charge & to totally carve it up on a snowboard, dude",
+     "a": "pled & shred",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 19,
+     "q": "Noting this swine's efforts, E.B. White wrote, \"It is deeply satisfying to win a prize in front of a lot of people\"",
+     "a": "Wilbur",
+     "right": [
+      "Michelle"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 24,
+     "q": "Wealthy landowner & 1750s Prime Minister Thomas Pelham-Holles was Duke of this \"upon-Tyne\"",
+     "a": "Newcastle",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 11,
+     "q": "Immediately after his \"Girl with a Balloon sold in London in 2018, it self-destructed by passing through a hidden shredder",
+     "a": "Banksy",
+     "right": [
+      "Shawn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 29,
+     "q": "In 1814 a Belgian diplomat said the congress of this city \"doesn't run--it waltzes\"",
+     "a": "Vienna",
+     "right": [
+      "Michelle"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 15,
+     "q": "The Sun Yat-sen Memorial Highway connects Feng-shan & Keelung on this island",
+     "a": "Taiwan",
+     "right": [
+      "Shawn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 3000
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 4,
+     "q": "Adjective for lowly labor & warmly affable or agreeable",
+     "a": "menial & genial",
+     "right": [],
+     "wrong": [
+      "Nathan"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 800
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 20,
+     "q": "In \"Animal Farm\", this large & in charge pig was based on Stalin",
+     "a": "Napoleon",
+     "right": [
+      "Shawn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 25,
+     "q": "A constant schemer against his brother King Edward IV, George, Duke of Clarence was killed in this London prison in 1478",
+     "a": "the Tower of London",
+     "right": [
+      "Michelle"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 28,
+     "q": "The first sculpture on the auction block ever to sell for over $100 million was \"Walking Man 1\" by this Swiss-born sculptor",
+     "a": "Giacometti",
+     "right": [
+      "Nathan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 30,
+     "q": "In this Shakespeare comedy, Lysander says, \"The course of true love never did run smooth\"",
+     "a": "A Midsummer Night's Dream",
+     "right": [
+      "Michelle"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 16,
+     "q": "Both St. John's on Newfoundland & Victoria in British Columbia have mile 0 markers for this highway",
+     "a": "the Trans-Canada Highway",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 27,
+     "q": "To pick & get rid of inferior cattle from the herd & to heat & spice up some wine",
+     "a": "cull & mull",
+     "right": [
+      "Shawn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 21,
+     "q": "Zhu Bajie or \"Pigsy\" is an animal guide helping Tripitaka in the 16th century Chinese epic known as \"Journey to\" here",
+     "a": "the West",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 26,
+     "q": "Machiavelli fittingly referred to the young duke Cesare Borgia as a \"new\" this title",
+     "a": "prince",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "MILITARY SLANG",
+  "q": "This word for high-ranking officials comes from a metal used in 19th century military insignia",
+  "a": "brass",
+  "right": [
+   "Nathan",
+   "Michelle",
+   "Shawn"
+  ],
+  "wrong": []
+ },
+ "gameId": "6657",
+ "cat_notes": {
+  "J": [
+   "The category “DRINK UP: IT'S THIRST-DAY” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "Clues about Geography.",
+   "Clues about Channel That Abbrev.",
+   "Clues about Facts and Figures.",
+   "Each answer contains the letter group “YE”.",
+   "Clues about Story of Myth."
+  ],
+  "DJ": [
+   "The category “SOLD! AT SOTHEBY'S” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "Clues about Run on Sentences.",
+   "Clues about Highways.",
+   "Each answer is a rhyming word or phrase.",
+   "Clues about Boss Hog.",
+   "The category “THEM DUKE BOYS!” sets the theme — the clues follow that idea and any wordplay suggested by the title."
+  ],
+  "F": "Clues about Military Slang."
+ }
+}

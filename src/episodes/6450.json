@@ -1,0 +1,997 @@
+{
+ "show": "#8079",
+ "aired": "2019-10-24",
+ "note": "",
+ "contestants": [
+  {
+   "name": "Mushtaq Gunja",
+   "bio": "a lawyer from Silver Spring, Maryland",
+   "short": "Mushtaq"
+  },
+  {
+   "name": "Jamie Tyrrell",
+   "bio": "a test prep instructor from Rochester, New York",
+   "short": "Jamie"
+  },
+  {
+   "name": "Allyson Samiljan",
+   "bio": "a communications and special events director from Wellington, Florida (whose 1-day cash winnings total $9,500)",
+   "short": "Allyson"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Allyson": 4600,
+   "Jamie": 4000,
+   "Mushtaq": 7400
+  },
+  "DJ": {
+   "Allyson": 12200,
+   "Jamie": 17200,
+   "Mushtaq": 21700
+  },
+  "Final": {
+   "Allyson": 7400,
+   "Jamie": 9999,
+   "Mushtaq": 8986
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "WHAT'S YOUR ADDRESS?",
+    "VEHICULAR ACTIVITY",
+    "20th CENTURY NAMES",
+    "CELEBRITY-INSPIRED PRODUCTS",
+    "DANCE AT THE WEDDING",
+    "HAVE AN AGUILA!"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 12,
+     "q": "11 Wall Street, New York, New York",
+     "a": "the New York Stock Exchange",
+     "right": [
+      "Allyson"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 15,
+     "q": "There's a kind of plane in this word for traveling to exotic places & living a luxury lifestyle",
+     "a": "jet-setting",
+     "right": [
+      "Jamie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 2,
+     "q": "In June 1914 he was assassinated in Bosnia by Gavrilo Princip",
+     "a": "(Franz) Ferdinand",
+     "right": [
+      "Mushtaq"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "This pop singer whose last name is a Starbucks drink size helped create Starbucks' cloud macchiato",
+     "a": "Ariana Grande",
+     "right": [
+      "Mushtaq"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 8,
+     "q": "Heading to a wedding in Epirus? Better practice the 12 steps of the kalamatianos, this country's national dance",
+     "a": "Greece",
+     "right": [
+      "Mushtaq"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 26,
+     "q": "\"Águila\" is Spanish for one of these birds",
+     "a": "an eagle",
+     "right": [
+      "Allyson"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 6,
+     "q": "It rises above the Champ de Mars, 5 Avenue Anatole France, Paris",
+     "a": "the Eiffel Tower",
+     "right": [],
+     "wrong": [
+      "Mushtaq"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 5,
+     "q": "Bump & rob (a driver rear-ends you, you stop & get out...) is a technique in this form of auto theft",
+     "a": "carjacking",
+     "right": [
+      "Mushtaq"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 3,
+     "q": "She was Americans' etiquette authority up to her death in 1960 & even beyond",
+     "a": "Emily Post",
+     "right": [
+      "Jamie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 4,
+     "q": "LeBron James helped develop a special mix of this lemon-lime soda, adding cherry & orange flavors",
+     "a": "Sprite",
+     "right": [
+      "Mushtaq"
+     ],
+     "wrong": [
+      "Jamie"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 7,
+     "q": "Beginning as a Hasidic melody, \"Hava Nagila\" has become a tune for this best-known Israeli folk dance",
+     "a": "the hora",
+     "right": [
+      "Jamie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "Mr. Águila is a famed luchador, one of these entertaining athletes",
+     "a": "a wrestler",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 9,
+     "q": "His presidential library, museum & boyhood home: 200 SE 4th Street, Abilene, Kansas",
+     "a": "Eisenhower",
+     "right": [
+      "Allyson"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": true,
+     "order": 14,
+     "q": "Nautical idiom meaning to complain when people wish you'd keep quiet & not make waves",
+     "a": "not rock the boat (Don't rock the boat)",
+     "right": [
+      "Mushtaq"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2000
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 21,
+     "q": "Michael Collins, a hero of the Irish struggle for independence, fought in the 1916 rebellion named for this holiday",
+     "a": "Easter",
+     "right": [
+      "Jamie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 18,
+     "q": "Blake's Smokehouse BBQ pizza from Pizza Hut was inspired by this country music star",
+     "a": "(Blake) Shelton",
+     "right": [
+      "Mushtaq"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 13,
+     "q": "For their first dance as man & wife, Prince Harry & Meghan Markle reportedly chose this fitting 1987 Whitney Houston hit",
+     "a": "\"I Wanna Dance With Somebody\"",
+     "right": [
+      "Mushtaq"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 28,
+     "q": "In both 1915 & 1941 British passenger ships named SS Aguila were sunk by these vessels",
+     "a": "submarines",
+     "right": [
+      "Mushtaq"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 10,
+     "q": "All 12 columns of it are found at Pariser Platz, 10117 Berlin",
+     "a": "the Brandenburg Gate",
+     "right": [
+      "Mushtaq"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 23,
+     "q": "Trying to supervise every aspect of your kid's life is this sky vehicle \"parenting\"",
+     "a": "helicopter parenting",
+     "right": [
+      "Mushtaq"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 22,
+     "q": "Reading the book \"The Rocket Into Interplanetary Space\" changed the life of this German who went on to be a rocket scientist",
+     "a": "(Wernher) von Braun",
+     "right": [
+      "Allyson"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 19,
+     "q": "Vitaminwater created the Formula 50 flavor for this rapper",
+     "a": "50 Cent",
+     "right": [
+      "Mushtaq"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 16,
+     "q": "At Mexican weddings, single women dance near the bride during the lanzar el ramo, or throw of this",
+     "a": "the bouquet",
+     "right": [
+      "Jamie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "Atlético Nacional & Independiente Medellín compete in Liga Águila, this country's top soccer league",
+     "a": "Colombia",
+     "right": [
+      "Allyson"
+     ],
+     "wrong": [
+      "Mushtaq"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 11,
+     "q": "A famous estate: 1 Lodge Street, Asheville, North Carolina",
+     "a": "the Biltmore house",
+     "right": [
+      "Allyson"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 24,
+     "q": "Trying to remove every obstacle from your kid's path is this winter vehicle \"parenting\"",
+     "a": "snowplow",
+     "right": [
+      "Jamie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 25,
+     "q": "About 30 years after the Warren Commission, this future Secretary of State, named Warren, headed the commission on the LAPD",
+     "a": "(Warren) Christopher",
+     "right": [
+      "Mushtaq"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 20,
+     "q": "In 2018 this colorful candy brand beloved by NFL great Marshawn Lynch put his face on its packaging",
+     "a": "Skittles",
+     "right": [
+      "Jamie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 17,
+     "q": "\"Wedding Dance\" by this artist, the Elder, captures a 16th century celebration in the Low Countries",
+     "a": "Pieter Bruegel",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 30,
+     "q": "Population 798, Aguila, Arizona lies just northwest of Phoenix in this most-populous Arizona county",
+     "a": "Maricopa",
+     "right": [
+      "Allyson"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "SHAKE HANDS WITH SHAKESPEARE",
+    "YOUNGER THAN THE SIMPSONS",
+    "BEHIND THE MUSICAL TITLE",
+    "WHERE DO YOU STAN?",
+    "GODS INSIDE YOU",
+    "SAVE \"IT\" FOR LATER"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 3,
+     "q": "\"First, Marcus Brutus, will I shake with you; next, Caius Cassius, do I take your hand\", says Antony in this play",
+     "a": "Julius Caesar",
+     "right": [
+      "Mushtaq"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 26,
+     "q": "Four months after \"The Simpsons\" launched in December of 1989, this Eye on the Universe was launched by the Space Shuttle Discovery",
+     "a": "the Hubble",
+     "right": [
+      "Jamie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 6,
+     "q": "This Broadway musical's title refers to the fabulous new footwear at the Price & Sons factory in Northampton",
+     "a": "Kinky Boots",
+     "right": [
+      "Allyson"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 23,
+     "q": "Reflecting its recent history, the 2 official languages of Kyrgyzstan are Kyrgyz & this one",
+     "a": "Russian",
+     "right": [
+      "Mushtaq"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 22,
+     "q": "This colored part of your eye bears the name of the Greek personification of the rainbow",
+     "a": "the iris",
+     "right": [
+      "Jamie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 15,
+     "q": "Spot to preach from seen here",
+     "a": "a pulpit",
+     "right": [
+      "Mushtaq"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 4,
+     "q": "\"I hold it fit that we shake hands and part\", says Hamlet to this faithful buddy in act I",
+     "a": "Horatio",
+     "right": [
+      "Jamie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 30,
+     "q": "This video-sharing service premiered in 2005 & was sold to Google a year later for $1.6 billion",
+     "a": "YouTube",
+     "right": [
+      "Mushtaq"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 7,
+     "q": "A sham Vietnamese beauty contest gives us the title of this musical that debuted on Broadway in 1991",
+     "a": "Miss Saigon",
+     "right": [
+      "Jamie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": true,
+     "order": 16,
+     "q": "Kazakhstan has 1,200 miles of coastline along this large inland body of water",
+     "a": "the Caspian Sea",
+     "right": [
+      "Mushtaq"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 6000
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 18,
+     "q": "Named for the blacksmith god, hephaestin is a protein that's important for metabolizing this metal in the body",
+     "a": "iron",
+     "right": [
+      "Jamie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 14,
+     "q": "It's Britspeak for \"cookie\"",
+     "a": "a biscuit",
+     "right": [
+      "Jamie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 5,
+     "q": "In the play about this title guy, Helicanus, a lord of Tyre, says, \"Then you love us, we you, and we'll clasp hands\"",
+     "a": "Pericles",
+     "right": [
+      "Jamie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 29,
+     "q": "This pro sport introduced wild card teams into its playoff system in 1995",
+     "a": "baseball (Major League Baseball)",
+     "right": [
+      "Mushtaq"
+     ],
+     "wrong": [
+      "Jamie"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 8,
+     "q": "Percy Jackson & his friends realize that war among Greek gods must be prevented in this musical named for the first Percy Jackson book\n\n\"Bring on the monsters / Bring on the real world / Bring on the monsters\"\n\"Bring on the real world\"",
+     "a": "Percy Jackson and the Lightning Thief",
+     "right": [
+      "Jamie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 17,
+     "q": "Mohammad Daud Khan took power in this country in a 1973 coup & lost it in a 1978 one; then the Soviets came",
+     "a": "Afghanistan",
+     "right": [
+      "Jamie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 19,
+     "q": "The upper lip outline with 2 peaks is known as this love god's bow",
+     "a": "Cupid",
+     "right": [
+      "Allyson"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 11,
+     "q": "A sworn written statement",
+     "a": "an affidavit",
+     "right": [
+      "Mushtaq"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 2,
+     "q": "\"Take me by the hand, and say 'Harry of England, I am thine'\" is how this title king proposes to Katherine",
+     "a": "Henry V",
+     "right": [],
+     "wrong": [
+      "Mushtaq"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 100
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 28,
+     "q": "Rumbacise was the original name of this exercise program introduced in the 1990s by Colombian dancer Beto Pérez",
+     "a": "Zumba",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 9,
+     "q": "\"Professor\" Harold Hill is the title character of this 1957 show",
+     "a": "The Music Man",
+     "right": [
+      "Jamie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 24,
+     "q": "Tajikistan's abundant wildlife includes bears & an Asiatic species of these wild canines also found in Africa",
+     "a": "jackals",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 20,
+     "q": "Holding up your head, the Atlas is the first of this type of vertebra",
+     "a": "cervical",
+     "right": [
+      "Jamie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 12,
+     "q": "A follower of St. Ignatius",
+     "a": "Jesuit",
+     "right": [
+      "Jamie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 1,
+     "q": "\"Time is like a fashionable host that slightly shakes his parting guest by the hand\", says Ulysses in this Troy-set play",
+     "a": "Troilus and Cressida",
+     "right": [
+      "Mushtaq"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 27,
+     "q": "Robert James Waller got the idea for this bestselling book when he was taking pictures in Iowa in the early 1990s",
+     "a": "The Bridges of Madison County",
+     "right": [
+      "Allyson"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 10,
+     "q": "This title of a musical set in Newfoundland beginning on 9/11 is a local slang term for a person not from the Maritimes",
+     "a": "Come From Away",
+     "right": [
+      "Jamie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 25,
+     "q": "Home to more than 14 million, this city on the Arabian Sea was once Pakistan's capital city",
+     "a": "Karachi",
+     "right": [
+      "Mushtaq"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 21,
+     "q": "It's where on the body you would find the Girdle of Venus line",
+     "a": "the palm (of your hand)",
+     "right": [
+      "Allyson"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 13,
+     "q": "Illuminated by tapers",
+     "a": "candlelit",
+     "right": [
+      "Allyson"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "THE HISTORY OF FRANCE",
+  "q": "This modern regime that lasted 4 years changed the national motto to \"Travail, Famille, Patrie\"--\"Work, Family, Fatherland\"",
+  "a": "Vichy France",
+  "right": [],
+  "wrong": [
+   "Allyson",
+   "Jamie",
+   "Mushtaq"
+  ]
+ },
+ "gameId": "6450",
+ "cat_notes": {
+  "J": [
+   "The category “WHAT'S YOUR ADDRESS?” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "Clues about Vehicular Activity.",
+   "Clues about 20th Century Names.",
+   "Clues about Celebrity-inspired Products.",
+   "Clues about Dance at the Wedding.",
+   "The category “HAVE AN AGUILA!” sets the theme — the clues follow that idea and any wordplay suggested by the title."
+  ],
+  "DJ": [
+   "Clues about Shake Hands with Shakespeare.",
+   "Clues about Younger Than the Simpsons.",
+   "Clues about Behind the Musical Title.",
+   "The category “WHERE DO YOU STAN?” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "Clues about Gods Inside You.",
+   "The letters \"I-T\" will end each correct response."
+  ],
+  "F": "Clues about The History of France."
+ }
+}

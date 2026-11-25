@@ -1,0 +1,1001 @@
+{
+ "show": "#8053",
+ "aired": "2019-09-18",
+ "note": "Jason Zuffranieri game 14.",
+ "contestants": [
+  {
+   "name": "Jon Chang",
+   "bio": "a tutor from Brooklyn, New York",
+   "short": "Jon"
+  },
+  {
+   "name": "Barbara Walton",
+   "bio": "a retired air traffic controller from Rockledge, Florida",
+   "short": "Barbara"
+  },
+  {
+   "name": "Jason Zuffranieri",
+   "bio": "a math teacher from Albuquerque, New Mexico (whose 13-day cash winnings total $361,943)",
+   "short": "Jason"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Jason": 3200,
+   "Barbara": 2600,
+   "Jon": 5000
+  },
+  "DJ": {
+   "Jason": 33800,
+   "Barbara": 8600,
+   "Jon": 7800
+  },
+  "Final": {
+   "Jason": 37600,
+   "Barbara": 15599,
+   "Jon": 0
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "TALKING TO YOUR SPANIEL IN ESPAÑOL",
+    "SCIENCE",
+    "BRAND NAMES: SPELL IN THE BLANK",
+    "RECENT BESTSELLERS",
+    "DESCRIBING THE CASINO GAME",
+    "\"M\" PORTS"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 22,
+     "q": "¡Buen perro!",
+     "a": "Good dog!",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 28,
+     "q": "The greatest incidence of tornadoes is in this country, where more than 1,000 happen annually",
+     "a": "the United States",
+     "right": [
+      "Barbara"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 4,
+     "q": "Play-____ modeling compound",
+     "a": "D-O-H",
+     "right": [
+      "Jon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 12,
+     "q": "It's a whole new world for Annie in Mitch Albom's sequel \"The Next People You Meet\" here",
+     "a": "Heaven",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 17,
+     "q": "It's a wheel that can bring you fortune;\nbet even or odd;\nI'm seeing red",
+     "a": "roulette",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 30,
+     "q": "This city's port on Biscayne Bay calls itself \"Cruise Capital of the World\"",
+     "a": "Miami",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 29,
+     "q": "¡Siéntate!",
+     "a": "Sit!",
+     "right": [],
+     "wrong": [
+      "Jason",
+      "Jon"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 25,
+     "q": "Similar to Jupiter's Great Red Spot, this planet once had a Great Dark Spot storm system that was about the size of Earth",
+     "a": "Neptune",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 5,
+     "q": "Making pictures with illuminated pegs:\nLite-____",
+     "a": "B-R-I-T-E",
+     "right": [
+      "Jon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "This Jr. of NASCAR probably never figured to be a N.Y. Times bestselling author, but in 2018 he was \"racing to the finish\"",
+     "a": "Dale Earnhardt, Jr.",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 19,
+     "q": "There's no joy in a push;\nsoft numbers, hard choices;\na \"split\" personality",
+     "a": "blackjack",
+     "right": [
+      "Jon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 26,
+     "q": "A peninsula in the Mississippi called Presidents Island is the center of this Tennessee city's port",
+     "a": "Memphis",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 24,
+     "q": "¡Bájate del sofá!",
+     "a": "Get off the couch!",
+     "right": [
+      "Barbara"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 11,
+     "q": "In physics, it's when 2 waves meet & sometimes neutralize each other; in broadcasting, it's disturbance by outside signals",
+     "a": "interference",
+     "right": [
+      "Jon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 6,
+     "q": "\"Silly rabbit! ____ are for kids\"",
+     "a": "T-R-I-X",
+     "right": [
+      "Jon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 23,
+     "q": "As if he weren't busy enough, this Broadway musical creator provided some self-help in \"Gmorning, Gnight!\"",
+     "a": "(Lin-Manuel) Miranda",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 20,
+     "q": "The stickman cometh;\neasy \"come\", easy go;\nget the point? Good for you!",
+     "a": "craps",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 18,
+     "q": "It's home to the Alabama State Docks",
+     "a": "Mobile",
+     "right": [
+      "Jon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 21,
+     "q": "¡Hazte el muerto!",
+     "a": "Play dead!",
+     "right": [
+      "Jon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 10,
+     "q": "To make binoculars compact, they may contain these pieces of glass with precise angles & faces to \"fold\" the light path",
+     "a": "a prism",
+     "right": [
+      "Barbara"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 7,
+     "q": "____-It crackers come in flavors like Cheddar Jack, White Cheddar & Hot & Spicy",
+     "a": "C-H-E-E-Z",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 14,
+     "q": "Readers liked this Oscar-winning actress...you liked this Oscar-winning actress! & also her memoir \"In Pieces\"",
+     "a": "(Sally) Field",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 13,
+     "q": "Dressed & playing to the 9s;\nbanker's hours;\nwhat brings you to Monaco, Mr. Bond?",
+     "a": "baccarat",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 16,
+     "q": "In June 2018 the Ovation of the Seas, the largest cruise ship ever to dock in the Philippines, arrived in this port's South Harbor",
+     "a": "Manila",
+     "right": [
+      "Jon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 9,
+     "q": "¡Trae el palo!",
+     "a": "Fetch the stick!",
+     "right": [],
+     "wrong": [
+      "Jason"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": true,
+     "order": 8,
+     "q": "During a total solar eclipse, you can glimpse this \"colorful\" layer of the Sun just above the photosphere",
+     "a": "the chromosphere",
+     "right": [],
+     "wrong": [
+      "Jason"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1000
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 3,
+     "q": "Double ____ Oreo Cookies are twice as creme-y as the regular kind",
+     "a": "S-T-U-F",
+     "right": [
+      "Jon"
+     ],
+     "wrong": [
+      "Barbara"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 2,
+     "q": "In \"Grateful American\" he tells how playing a movie lieutenant led to a mission of supporting troops & veterans",
+     "a": "Gary Sinise",
+     "right": [
+      "Barbara"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 1,
+     "q": "The joker is semi-wild & dressed as an ace;\none hand becomes 2;\nthe Asian name of the game",
+     "a": "pai gow poker",
+     "right": [
+      "Barbara"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 15,
+     "q": "(Jimmy of the Clue Crew shows a map of the Mediterranean on the monitor.) Carthaginians, Romans, Goths, Byzantines & Arabs have all occupied this ancient Sicilian port city that gives its name to an important Mediterranean strait",
+     "a": "Messina",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "REAL-LIFE METAPHORS",
+    "CAREER HIGHLIGHTS",
+    "CLASSIC METAL BANDS",
+    "ITTY BITTY CITY",
+    "PLAYS & PLAYWRIGHTS",
+    "EX-SPORTS"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "In \"Casablanca\", Bogie says \"the problems of three little people don't amount to\" this",
+     "a": "a hill of beans",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 26,
+     "q": "U.S. congressman & senator from Calif., vice president, president;\nplayed by Anthony Hopkins in a biopic",
+     "a": "Richard Nixon",
+     "right": [
+      "Barbara"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 5,
+     "q": "Megadeth founder Dave Mustaine partied so hard he got kicked out of this band whose very name says \"metal\"",
+     "a": "Metallica",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 28,
+     "q": "The California studio tour where you can see King Kong & Jaws is in this \"city\" named for the movie studio",
+     "a": "Universal City",
+     "right": [
+      "Barbara"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 29,
+     "q": "As Act 1 of this Neil Simon play begins, we're told, \"it is a warm summer night in Oscar Madison's apartment\"",
+     "a": "The Odd Couple",
+     "right": [
+      "Barbara"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 30,
+     "q": "The UFC of the ancient world, pankration debuted at the XXXIIIrd of these in 648 B.C.",
+     "a": "the Olympics",
+     "right": [
+      "Jon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 22,
+     "q": "A 1979 book by conservative thinker Jack Kemp popularized this term for programs like welfare",
+     "a": "safety net",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 25,
+     "q": "U.S. congressman & senator from Massachusetts, president;\nplayed by Cliff Robertson in a biopic",
+     "a": "John F. Kennedy",
+     "right": [
+      "Barbara"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 23,
+     "q": "\"And I want! And I need! And I lust!\" are primal lyrics from this band's \"Animal\"",
+     "a": "Def Leppard",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 21,
+     "q": "On Valentine's Day 2019, this company said it was breaking up with Long Island City as future home for its second headquarters",
+     "a": "Amazon",
+     "right": [
+      "Barbara"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 8,
+     "q": "Alfred Uhry based the character of Hoke in this play on the black chauffeur of his childhood",
+     "a": "Driving Miss Daisy",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 24,
+     "q": "A manuscript from 16th century Mexico depicts one of this culture's ritualistic ball games",
+     "a": "the Aztec",
+     "right": [
+      "Jon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 14,
+     "q": "It's the brush-off you'd get from the person here",
+     "a": "a cold shoulder",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 19,
+     "q": "U.S. congressman & senator from Virginia, vice president;\npresident, 1841-45;\nnever been played in a biopic",
+     "a": "Tyler",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": true,
+     "order": 6,
+     "q": "\"We're Not Gonna Take It\" by this Dee Snider band has some musical roots in \"O Come, All Ye Faithful\"",
+     "a": "Twisted Sister",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 7600
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 20,
+     "q": "Arlington County, Virginia is home to a neighborhood called this \"City\", after a nearby Department of Defense building",
+     "a": "Pentagon",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 7,
+     "q": "Tom Stoppard first came to Broadway with this play featuring 2 minor characters from \"Hamlet\"",
+     "a": "Rosencrantz and Guildenstern Are Dead",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 11,
+     "q": "Ancient Romans rooted for the red, white, blue & green teams that raced these around the Circus Maximus",
+     "a": "chariots",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 13,
+     "q": "It's the kind of political work done at the local & individual level, not through mass marketing",
+     "a": "grassroots",
+     "right": [
+      "Barbara"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 18,
+     "q": "Financier;\nWhite House director of communications, July 21-31, 2017;\n\"Celebrity Big Brother\" contestant",
+     "a": "Anthony Scaramucci (\"The Mooch\" accepted)",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 4,
+     "q": "In 2010 this band's frontman Vince Neil took to the ice for ABC's \"Skating with the Stars\"",
+     "a": "Mötley Crüe",
+     "right": [
+      "Jon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 17,
+     "q": "Black Rock City is created & torn down every year as part of this Nevada arts festival",
+     "a": "Burning Man",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 1,
+     "q": "Parisians knew Georges Feydeau as a master of this 5-letter type of comedic play like \"Keep an Eye on Amélie!\"",
+     "a": "farce",
+     "right": [
+      "Barbara"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 10,
+     "q": "Playing this rough sport in 1559, France's Henry II was mortally wounded by a splintered lance",
+     "a": "jousting",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 12,
+     "q": "Really, really old expression meaning that an irreversible step has been taken",
+     "a": "the die is cast",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [
+      "Barbara"
+     ],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": true,
+     "order": 15,
+     "q": "Governor, secretary of energy;\n\"Dancing with the Stars\" contestant",
+     "a": "(Rick) Perry",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 3000
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 3,
+     "q": "In the '90s singer Rob Halford told this Brit band, \"You've got another thing comin'\" (I'm leaving the group)",
+     "a": "Judas Priest",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 16,
+     "q": "Nevada City, Montana is one big historical museum; visit the area & you can learn this water-based skill & maybe get rich",
+     "a": "panning for gold",
+     "right": [
+      "Barbara"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 2,
+     "q": "In 1981 Elizabeth Taylor made her Broadway debut in a revival of this playwright's \"The Little Foxes\"",
+     "a": "(Lillian) Hellman",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 9,
+     "q": "In his autobiography he described a game played with moccasins & bones called \"kah\", or \"foot\"",
+     "a": "Geronimo",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "THE 1940s",
+  "q": "This nickname for a history-changing weapon of 1945 came from a character in \"The Maltese Falcon\"",
+  "a": "Fat Man",
+  "right": [
+   "Barbara",
+   "Jason"
+  ],
+  "wrong": [
+   "Jon"
+  ]
+ },
+ "gameId": "6418",
+ "cat_notes": {
+  "J": [
+   "Clues about Talking to Your Spaniel in Español.",
+   "Clues about Science.",
+   "Clues about Brand Names: Spell in the Blank.",
+   "Clues about Recent Bestsellers.",
+   "Clues about Describing the Casino Game.",
+   "Each answer starts with “M”, and the clues are about Ports."
+  ],
+  "DJ": [
+   "Clues about Real-life Metaphors.",
+   "Clues about Career Highlights.",
+   "Clues about Classic Metal Bands.",
+   "Clues about Itty Bitty City.",
+   "Clues about Plays and Playwrights.",
+   "Clues about Ex-sports."
+  ],
+  "F": "Clues about The 1940s."
+ }
+}

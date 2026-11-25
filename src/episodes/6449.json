@@ -1,0 +1,992 @@
+{
+ "show": "#8078",
+ "aired": "2019-10-23",
+ "note": "",
+ "contestants": [
+  {
+   "name": "Nick Rodriguez",
+   "bio": "a database administrator and composer from Farmingdale, New York",
+   "short": "Nick"
+  },
+  {
+   "name": "Allyson Samiljan",
+   "bio": "a communications and special events director from Wellington, Florida",
+   "short": "Allyson"
+  },
+  {
+   "name": "Martha Bordogna",
+   "bio": "an attorney from Indian Trail, North Carolina (whose 1-day cash winnings total $16,400)",
+   "short": "Martha"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Martha": 2200,
+   "Allyson": 7400,
+   "Nick": 3800
+  },
+  "DJ": {
+   "Martha": 9800,
+   "Allyson": 14700,
+   "Nick": 11800
+  },
+  "Final": {
+   "Martha": 2800,
+   "Allyson": 9500,
+   "Nick": 3999
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "NATIONAL GEOGRAPHIC WOMEN",
+    "GOVERNMENT ABCs",
+    "SPORTS ALL IN THE FAMILY",
+    "E BEFORE I",
+    "I BLESS THE RAINS",
+    "DOWN IN AFRICA"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 9,
+     "q": "The U.S. team shows grace, stamina & split-second timing when practicing this sport",
+     "a": "synchronized swimming",
+     "right": [
+      "Allyson"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 25,
+     "q": "Its headquarters & many of its labs are in Atlanta: CDC",
+     "a": "Centers for Disease Control",
+     "right": [
+      "Nick"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 16,
+     "q": "That's former quarterback Archie with his two favorite MVPs, Peyton & this brother of his",
+     "a": "Eli Manning",
+     "right": [
+      "Nick"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 18,
+     "q": "Mark 12:31 instructs, \"Thou shalt love\" this person",
+     "a": "your neighbor",
+     "right": [
+      "Nick"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 5,
+     "q": "Between a primary & secondary one of these in the sky is a region called Alexander's dark band",
+     "a": "a rainbow",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 30,
+     "q": "This capital of Kenya lies at an elevation of 5,500 feet, making it a natural sister city to Denver",
+     "a": "Nairobi",
+     "right": [
+      "Martha"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 10,
+     "q": "In a 1921 photo, the rank of a princess of this indigenous people of New Zealand is marked by a distinctive feather cloak",
+     "a": "the Māori",
+     "right": [
+      "Martha"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 11,
+     "q": "In 2017 Alexander Acosta became its new head: DOL",
+     "a": "the Department of Labor",
+     "right": [
+      "Nick"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 15,
+     "q": "It's the last name of golfing sisters Annika & Charlotta",
+     "a": "Sörenstam",
+     "right": [
+      "Allyson"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 12,
+     "q": "To pretend to an emotion; it's often found before \"indifference\"",
+     "a": "feign",
+     "right": [
+      "Nick"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 6,
+     "q": "Chac was the Mayan god of rain; Tlaloc, whose name means \"he who makes things sprout\", was rain god for these people",
+     "a": "the Aztec",
+     "right": [
+      "Martha"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 26,
+     "q": "Species that need protection include this animal--Africa has fewer of them than their shorter pal the elephant",
+     "a": "the giraffe",
+     "right": [
+      "Allyson"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 19,
+     "q": "In 1989 Fay Wray visited the Empire State Building, the setting of the climax of this 1933 film that had made her a star",
+     "a": "King Kong",
+     "right": [
+      "Martha"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 1,
+     "q": "It's issued by the president: EO",
+     "a": "an executive order",
+     "right": [
+      "Nick"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 22,
+     "q": "She followed her dad into the ring & since retiring, has become a TV personality & healthy lifestyle advocate",
+     "a": "Laila Ali",
+     "right": [],
+     "wrong": [
+      "Martha",
+      "Nick"
+     ],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 3,
+     "q": "A prized family memento passed down from one generation to another",
+     "a": "an heirloom",
+     "right": [
+      "Nick"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 13,
+     "q": "In 2018 this Rivers Cuomo band had Toto recall with a hit cover, singing, \"I bless the rains down in Africa\"",
+     "a": "Weezer",
+     "right": [
+      "Martha"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 27,
+     "q": "This North African country belonged to France for about 130 years, until 1962",
+     "a": "Algeria",
+     "right": [
+      "Martha"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 20,
+     "q": "During a New Year's celebration in Laos, a woman makes an offering at this, the Mother of Rivers",
+     "a": "the Mekong",
+     "right": [
+      "Allyson"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 4,
+     "q": "It was established in 1934, 5 years after the big stock market crash: SEC",
+     "a": "the Securities and Exchange Commission",
+     "right": [
+      "Allyson"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 23,
+     "q": "This racing dynasty includes Mario, son Michael & grandson Marco",
+     "a": "the Andrettis",
+     "right": [
+      "Allyson"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 2,
+     "q": "This main protein in milk & cheese was widely used in glues & plastics",
+     "a": "casein",
+     "right": [
+      "Nick"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": true,
+     "order": 14,
+     "q": "Rainfall in this area covering 2 million square miles & 9 countries has topped 120 inches some years",
+     "a": "the Amazon (rainforest)",
+     "right": [
+      "Martha"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 800
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 28,
+     "q": "\"C\" starts the name of this nation, highlighted here on the Gulf of Guinea",
+     "a": "Cameroon",
+     "right": [],
+     "wrong": [
+      "Martha"
+     ],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 21,
+     "q": "Of the more than 1,400 submissions for a Vietnam veterans memorial, her design was chosen",
+     "a": "Maya Lin",
+     "right": [
+      "Allyson"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 7,
+     "q": "Much of the acreage controlled by this agency is in Alaska & the western states: BLM",
+     "a": "the Bureau of Land Management",
+     "right": [
+      "Nick"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 24,
+     "q": "Last name of brother & sister Reggie & Cheryl, who are seen here; both are in the Basketball Hall of Fame",
+     "a": "the Millers",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 8,
+     "q": "Numbering more than 1,000, these stellar sisters are found in Taurus",
+     "a": "the Pleiades",
+     "right": [
+      "Allyson"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 17,
+     "q": "Though this weather system can cause terrible flooding, as in Gujarat in 2005, people depend on its rain for their water",
+     "a": "the monsoons",
+     "right": [
+      "Allyson"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 29,
+     "q": "The San, formerly called Bushmen, mainly in this desert, are the oldest population group of Southern Africa",
+     "a": "the Kalahari",
+     "right": [
+      "Allyson"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "THE MARCH ON WASHINGTON",
+    "INTERNATIONAL BUSINESS",
+    "ODD WORDS",
+    "A POETIC GEOGRAPHY LESSON",
+    "BOTANISTS",
+    "TV SHOW \"ME\""
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 30,
+     "q": "The march was held in 1963 & one of the speeches mentioned the 100th anniversary of this document",
+     "a": "the Emancipation Proclamation",
+     "right": [
+      "Nick"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 8,
+     "q": "In 2019 this letter-perfect Dutch airline celebrates its centenary",
+     "a": "KLM",
+     "right": [
+      "Allyson"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 25,
+     "q": "A tittle is that little dot you place over these 2 lowercase letters",
+     "a": "I & J",
+     "right": [
+      "Nick"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 29,
+     "q": "\"Hail to thee, monarch of African mountains\", begins Bayard Taylor's verse about this peak",
+     "a": "Kilimanjaro",
+     "right": [
+      "Nick"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "Luther Burbank developed what is known as the Burbank or Idaho type of this",
+     "a": "a potato",
+     "right": [
+      "Allyson"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 24,
+     "q": "Time magazine's November 23, 1970 cover called this show still popular today \"TV's gift to children\"",
+     "a": "Sesame Street",
+     "right": [
+      "Martha"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 22,
+     "q": "The organizers intended the march to bring attention to this bill, eventually signed by LBJ",
+     "a": "the Civil Rights Act",
+     "right": [],
+     "wrong": [
+      "Martha"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 9,
+     "q": "This Swiss food & chocolate company owns brands like Purina & Gerber baby food",
+     "a": "Nestlé",
+     "right": [
+      "Allyson"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 11,
+     "q": "Equitation is the art of riding this",
+     "a": "a horse",
+     "right": [
+      "Nick"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 17,
+     "q": "Bessie Rayner Parkes described this Scottish region as \"hills that were born of ages... like monuments to mighty gods\"",
+     "a": "the Highlands",
+     "right": [
+      "Martha"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 13,
+     "q": "This former slave & botany whiz turned down offers to work for Thomas Edison & Joseph Stalin",
+     "a": "George Washington Carver",
+     "right": [
+      "Martha"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 14,
+     "q": "Ben Savage was the title \"Boy\" of this '90s sitcom",
+     "a": "Boy Meets World",
+     "right": [
+      "Nick"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 18,
+     "q": "Among the performers at the march were Joan Baez & this other young folk singer",
+     "a": "Bob Dylan",
+     "right": [
+      "Nick"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": true,
+     "order": 7,
+     "q": "In 1900 this Japanese company began producing upright pianos; motorcycles came along more than half a century later",
+     "a": "Yamaha",
+     "right": [
+      "Allyson"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2500
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 4,
+     "q": "Drupe, the term for a fleshy fruit with a single pit, like a cherry, comes from Latin for this small, oily Mediterranean fruit",
+     "a": "an olive",
+     "right": [
+      "Nick"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 15,
+     "q": "Longfellow's line \"On the shores of Gitche Gumee\" from \"The Song of Hiawatha\" refers to this Great Lake",
+     "a": "Lake Superior",
+     "right": [],
+     "wrong": [
+      "Martha"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 23,
+     "q": "A statue in the Czech Republic honoring this botanist monk is crawling with pea vines",
+     "a": "(Gregor) Mendel",
+     "right": [
+      "Martha"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 1,
+     "q": "Patricia Arquette won an Emmy as the title crime solver on this show",
+     "a": "Medium",
+     "right": [
+      "Martha"
+     ],
+     "wrong": [
+      "Nick"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 19,
+     "q": "10 times Martin Luther King spoke these 3 words that end the first verse of \"My Country, 'Tis Of Thee\"",
+     "a": "Let freedom ring",
+     "right": [],
+     "wrong": [
+      "Nick"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2000
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 6,
+     "q": "Originally founded as a grocery store, today this London icon boasts more than 100 departments & about 20 restaurants",
+     "a": "Harrods",
+     "right": [
+      "Allyson"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 5,
+     "q": "It sounds like a geometric figure, but this 7-letter word means resembling the walking dead",
+     "a": "zomboid",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 16,
+     "q": "Switzerland's \"Lake Leman woos me with its crystal face\", mused this poet in \"Childe Harold's Pilgrimage\"",
+     "a": "Byron",
+     "right": [
+      "Allyson"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 20,
+     "q": "1970 Nobel Peace Prize winner Norman Borlaug developed a dwarf type of this grain that greatly reduced famine",
+     "a": "wheat",
+     "right": [
+      "Martha"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 2,
+     "q": "We found out the Almighty is on Facebook on this Brandon Micheal Hall show on CBS",
+     "a": "God Friended Me",
+     "right": [
+      "Martha"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 21,
+     "q": "One of the few female speakers at the event was this woman famous for her performances at the Folies-Bergere",
+     "a": "Josephine Baker",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 10,
+     "q": "State-owned & known by this 5-letter name for short, Mexico's largest company is this oil concern",
+     "a": "Pemex",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 12,
+     "q": "We hope you gno this word for the projecting piece on a sundial that casts a shadow, indicating the time",
+     "a": "a gnomon",
+     "right": [
+      "Nick"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 26,
+     "q": "George Prentice's poem \"Lookout Mountain\" recounts the 1863 battle for this Tennessee city",
+     "a": "Chattanooga",
+     "right": [
+      "Martha"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 28,
+     "q": "Knott's Berry Farm got its signature berries from this horticulturist; the berry is named for him",
+     "a": "(Rudolph) Boysen",
+     "right": [
+      "Nick"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 3,
+     "q": "This 1997-2003 sitcom starring David Spade & Laura San Giacomo was set at a fashion magazine",
+     "a": "Just Shoot Me!",
+     "right": [
+      "Nick"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "1930s NOVEL CHARACTERS",
+  "q": "Prior to a murder in a 1934 book, he says he hasn't been a detective since 1927 & that his wife inherited a lumber mill",
+  "a": "Nick Charles",
+  "right": [],
+  "wrong": [
+   "Martha",
+   "Nick",
+   "Allyson"
+  ]
+ },
+ "gameId": "6449",
+ "cat_notes": {
+  "J": [
+   "The National Geographic Image Collection.",
+   "Clues about Government Abcs.",
+   "Clues about Sports All in the Family.",
+   "The category “E BEFORE I” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "The category “I BLESS THE RAINS” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "Clues about Down in Africa."
+  ],
+  "DJ": [
+   "Clues about The March on Washington.",
+   "Clues about International Business.",
+   "Clues about Odd Words.",
+   "Clues about A Poetic Geography Lesson.",
+   "Clues about Botanists.",
+   "\"M-E\" comin' up in each correct response."
+  ],
+  "F": "Clues about 1930s Novel Characters."
+ }
+}
