@@ -1,0 +1,996 @@
+{
+ "show": "#5415",
+ "aired": "2008-03-07",
+ "note": "",
+ "contestants": [
+  {
+   "name": "Jeff Harmon",
+   "bio": "a public defender from Dunlap, Tennessee",
+   "short": "Jeff"
+  },
+  {
+   "name": "Sara Morrison",
+   "bio": "a graduate student from New York, New York",
+   "short": "Sara"
+  },
+  {
+   "name": "Jake Marini",
+   "bio": "a university administrator and event planner from Ardmore, Pennsylvania (whose 1-day cash winnings total $18,300)",
+   "short": "Jake"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Jake": 4400,
+   "Sara": 3400,
+   "Jeff": 4800
+  },
+  "DJ": {
+   "Jake": 15600,
+   "Sara": 12200,
+   "Jeff": 13200
+  },
+  "Final": {
+   "Jake": 4799,
+   "Sara": 15200,
+   "Jeff": 25500
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "MARCH!",
+    "COUNTRY TIME",
+    "TUNES ON TOONS",
+    "HISTORIC CONSTRUCTIONS",
+    "BRAZILIAN FOOD",
+    "STARTS & ENDS WITH \"L\""
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 21,
+     "q": "On March 5, 1770 British troops serving in the American colonies were involved in this infamous incident",
+     "a": "the Boston Massacre",
+     "right": [
+      "Jeff"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 26,
+     "q": "In 2007, the 100th anniversary of the founding of boy scouting was celebrated in this country where it began",
+     "a": "England",
+     "right": [
+      "Jeff"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 11,
+     "q": "Paul Frees provided the voices of John & George for this group's Saturday morning animated series",
+     "a": "the Beatles",
+     "right": [
+      "Jake"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 5,
+     "q": "The tallest building in the world when it was completed in 1931, it's currently the second tallest in the U.S.",
+     "a": "the Empire State Building",
+     "right": [],
+     "wrong": [
+      "Sara"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 16,
+     "q": "(Sarah of the Clue Crew serves up a clue from Rio de Janeiro, Brazil.) A dessert of cheese & guava jam is named for this romantic Shakespeare pair, who were also very different, but went together well",
+     "a": "Romeo & Juliet",
+     "right": [
+      "Jake"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "Faithful,\ntrue blue",
+     "a": "loyal",
+     "right": [
+      "Sara"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 22,
+     "q": "In the comics on March 11, 1960 it was revealed that this round-headed boy's father was a barber",
+     "a": "Charlie Brown",
+     "right": [
+      "Sara"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "The world's longest oil pipeline runs 2,500 miles from Samara in this country to Mozyr in Belarus",
+     "a": "Russia",
+     "right": [],
+     "wrong": [
+      "Sara"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 12,
+     "q": "Diana Ross had a cameo in the first episode of the cartoon adventures of this Motown sibling group",
+     "a": "The Jackson 5",
+     "right": [
+      "Jake"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 6,
+     "q": "This waterway was first excavated around the 1800s B.C.; excavation began on the present version April 25, 1859",
+     "a": "the Suez Canal",
+     "right": [
+      "Jeff"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 17,
+     "q": "Considered a national dish, feijoada comes from the Portuguese word for this legume",
+     "a": "beans",
+     "right": [
+      "Sara"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "Fatal,\ndeadly",
+     "a": "lethal",
+     "right": [
+      "Jake"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 23,
+     "q": "Born March 25, 1934 in Toledo, this magazine founder also helped organize the Nat. Women's Political Caucus",
+     "a": "(Gloria) Steinem",
+     "right": [
+      "Jeff"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 28,
+     "q": "Stanley Kowalski might yell out for a Stella Artois beer from this country",
+     "a": "Belgium",
+     "right": [
+      "Jake"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 13,
+     "q": "Mormons might not have watched, but this group with little brother Jimmy had its Sat. shows rerun on Sundays",
+     "a": "the Osmonds",
+     "right": [
+      "Jeff"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": true,
+     "order": 7,
+     "q": "After Charles Bulfinch became its architect in 1818, he added the Rotunda & the West Central Portico",
+     "a": "the U.S. Capitol",
+     "right": [
+      "Jeff"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1000
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 18,
+     "q": "( Jimmy of the Clue Crew reels in a clue from Rio de Janeiro, Brazil.) Culinary explorers know the name of this fish of South American rivers is Spanish for \"golden\"",
+     "a": "the dorado",
+     "right": [
+      "Sara"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 3,
+     "q": "Permitted by law,\nlicit\n(5 letters)",
+     "a": "legal",
+     "right": [
+      "Sara"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 24,
+     "q": "In the month of March 1945 alone, Leroy Grumman's corporation built a total of 664 of all types of these",
+     "a": "airplanes",
+     "right": [
+      "Jeff"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "Daegu Polytechnic College & the Catholic University of Pusan are 2 colleges in this country",
+     "a": "South Korea",
+     "right": [],
+     "wrong": [
+      "Sara"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 14,
+     "q": "Real concert footage of Donnie, Jordan, Jonathan, Joe & Danny was blended into this group's animated show",
+     "a": "New Kids on the Block",
+     "right": [
+      "Sara"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 8,
+     "q": "Completed around 1650, the main building seen here was built to serve as one of these",
+     "a": "a mausoleum",
+     "right": [
+      "Jake"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 19,
+     "q": "Everyone snacks on pao de queijo, a cheese puff made with manioc flour, which is ground from this tropical tuber",
+     "a": "cassava",
+     "right": [
+      "Sara"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 4,
+     "q": "Reasonable,\nmakes perfect sense",
+     "a": "logical",
+     "right": [
+      "Jake"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 25,
+     "q": "On March 3, 2004 this charismatic North Carolina senator bowed out of the presidential race",
+     "a": "Edwards",
+     "right": [
+      "Jeff"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 30,
+     "q": "Until the mid-20th century, Indonesia was known as this country's \"East Indies\"",
+     "a": "the Netherlands",
+     "right": [
+      "Sara"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 15,
+     "q": "In the early '90s, this MC, Stanley Burrell, turned into a superhero when he put on his magic dancin' shoes",
+     "a": "Hammer",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 9,
+     "q": "An idea since Napoleon's time, this $15 billion link runs underwater for 23 of its 31 miles",
+     "a": "the Chunnel",
+     "right": [
+      "Sara"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 20,
+     "q": "(Sarah of the Clue Crew spins up a clue from Rio de Janeiro, Brazil.) It's a Latin American name for different types of grilled meat; here in Brazil, it's cooked on a spit",
+     "a": "churrasco",
+     "right": [],
+     "wrong": [
+      "Sara"
+     ],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 10,
+     "q": "Of, at or toward the side",
+     "a": "lateral",
+     "right": [
+      "Jake"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "GEORGE BERNARD SHAW",
+    "MAN & SUPERMAN",
+    "MAJOR BARBARAS",
+    "SAINT JOAN",
+    "\"AND\"ROCLES",
+    "THE LION"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "Shaw wrote that Eliza Doolittle secretly wishes to drag this man off his pedestal & make love to him",
+     "a": "Professor Higgins",
+     "right": [
+      "Jake"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 14,
+     "q": "He was drafted by the Buffalo Bills in 1988 but never played; in 1993 he began playing Superman on \"Lois & Clark\"",
+     "a": "Dean Cain",
+     "right": [
+      "Jeff"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 6,
+     "q": "In 2003 she published \"Reflections: Life After the White House\"",
+     "a": "Barbara Bush",
+     "right": [
+      "Jake"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 11,
+     "q": "Many were offended when Joan dressed as this, as on her first visit to the King",
+     "a": "as a male",
+     "right": [
+      "Jeff"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 19,
+     "q": "An artificial human",
+     "a": "an android",
+     "right": [
+      "Jeff"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 26,
+     "q": "Eleanor of Aquitaine was his mother & Berengaria was his wife",
+     "a": "Richard the Lionhearted",
+     "right": [
+      "Jeff"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 2,
+     "q": "\"Heartbreak House\", said Shaw, was not just the name of a play; it symbolized leisured Europe before this war",
+     "a": "World War I",
+     "right": [
+      "Jake"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 15,
+     "q": "A 2003 episode of \"Smallville\" had this man, a future editor, portrayed as a washed-up alcoholic tabloid reporter",
+     "a": "Perry White",
+     "right": [
+      "Jeff"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": true,
+     "order": 7,
+     "q": "Her bio says she has \"arguably interviewed more statesmen and stars than any other journalist in history\"",
+     "a": "Barbara Walters",
+     "right": [
+      "Jake"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2000
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 12,
+     "q": "Joan of Arc became the \"Maid of\" this city after she & a small force freed it from the English in 1429",
+     "a": "Orleans",
+     "right": [
+      "Jake"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 20,
+     "q": "Mountain principality between France & Spain",
+     "a": "Andorra",
+     "right": [
+      "Jeff"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 27,
+     "q": "Aslan is the Christlike lion in the \"Chronicles\" of this fabled place",
+     "a": "Narnia",
+     "right": [
+      "Jeff"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 3,
+     "q": "Act II of \"Major Barbara\" opens at one of this \"Army's\" shelters, on a cold January morning",
+     "a": "the Salvation Army",
+     "right": [
+      "Sara"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 16,
+     "q": "This man, Mike Hammer's creator, put food on the table in the 1940s by writing Superman stories",
+     "a": "Mickey Spillane",
+     "right": [
+      "Jake"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 8,
+     "q": "In 1993 she replaced long-serving Alan Cranston as U.S. Senator from California",
+     "a": "(Barbara) Boxer",
+     "right": [
+      "Jeff"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 13,
+     "q": "Original records still survive of Joan's trial for this--opposition to Church authority",
+     "a": "heresy",
+     "right": [
+      "Sara"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 21,
+     "q": "He succeeded Brezhnev in 1982",
+     "a": "Andropov",
+     "right": [
+      "Jeff"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 28,
+     "q": "This name for Pterois volitans tells you it's the \"king\" of reef-dwelling beasts",
+     "a": "the lionfish",
+     "right": [
+      "Sara"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 4,
+     "q": "At the end of \"Caesar and Cleopatra\", Caesar promises to send Cleo a beautiful present: this man",
+     "a": "Mark Antony",
+     "right": [
+      "Sara"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 17,
+     "q": "This man, Superman's enemy, first appeared in 1940 with a full head of red hair; soon he was drawn as bald",
+     "a": "Lex Luthor",
+     "right": [
+      "Jake"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 9,
+     "q": "This \"queen of romance novels\" was the step-grandmother of Princess Diana",
+     "a": "Barbara Cartland",
+     "right": [],
+     "wrong": [
+      "Jake"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 24,
+     "q": "Joan was burned at the stake on May 30, 1431 in this city's Old Market Square",
+     "a": "Rouen",
+     "right": [],
+     "wrong": [
+      "Sara"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2000
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 22,
+     "q": "You can see this galaxy from Earth without a telescope",
+     "a": "Andromeda",
+     "right": [
+      "Sara"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 29,
+     "q": "She was the lioness who was \"born free\" in a Joy Adamson nonfiction bestseller",
+     "a": "Elsa",
+     "right": [
+      "Jake"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 5,
+     "q": "Shakespeare is a character in Shaw's charming one-act \"The Dark Lady of\" these",
+     "a": "the Sonnets",
+     "right": [
+      "Jake"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 18,
+     "q": "The mysterious death of this man who played TV's Superman in the 1950s inspired the film \"Hollywoodland\"",
+     "a": "George Reeves",
+     "right": [
+      "Sara"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 10,
+     "q": "This woman of 3 names wrote \"A Woman of Substance\"",
+     "a": "Barbara Taylor Bradford",
+     "right": [
+      "Jake"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 25,
+     "q": "Joan was denied a Christian burial, & her ashes were thrown into this river",
+     "a": "the Seine",
+     "right": [
+      "Jeff"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 23,
+     "q": "Playwright Maxwell or singer Marian",
+     "a": "Anderson",
+     "right": [
+      "Sara"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 30,
+     "q": "Hercules had to labor to kill this feline by strangulation, as no weapon could pierce its skin",
+     "a": "the Nemean lion",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "HOUSEHOLD PRODUCTS",
+  "q": "According to its earliest ads, .56% of this product was made up of carbonates, mineral matter & uncombined alkali",
+  "a": "Ivory soap",
+  "right": [
+   "Sara",
+   "Jeff"
+  ],
+  "wrong": [
+   "Jake"
+  ]
+ },
+ "gameId": "2364",
+ "cat_notes": {
+  "J": [
+   "The category “MARCH!” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "Clues about Country Time.",
+   "Clues about Tunes on Toons.",
+   "Clues about Historic Constructions.",
+   "Clues about Brazilian Food.",
+   "Each answer ends with “L”."
+  ],
+  "DJ": [
+   "Clues about George Bernard Shaw.",
+   "Clues about Man and Superman.",
+   "Clues about Major Barbaras.",
+   "Clues about Saint Joan.",
+   "Each answer contains the letter group “AND”, and the clues are about Rocles.",
+   "Clues about The Lion."
+  ],
+  "F": "Clues about Household Products."
+ }
+}

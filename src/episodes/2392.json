@@ -1,0 +1,996 @@
+{
+ "show": "#5433",
+ "aired": "2008-04-02",
+ "note": "",
+ "contestants": [
+  {
+   "name": "Bill Moore",
+   "bio": "a national security consultant from Arlington, Virginia",
+   "short": "Bill"
+  },
+  {
+   "name": "Jean Oswald",
+   "bio": "an adjunct English professor from Hillsboro, Tennessee",
+   "short": "Jean"
+  },
+  {
+   "name": "Bryan Johnson",
+   "bio": "a teacher and doctoral student from Los Angeles, California (whose 3-day cash winnings total $68,803)",
+   "short": "Bryan"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Bryan": 3400,
+   "Jean": 3400,
+   "Bill": 3800
+  },
+  "DJ": {
+   "Bryan": 10800,
+   "Jean": 5800,
+   "Bill": 20000
+  },
+  "Final": {
+   "Bryan": 9798,
+   "Jean": 1,
+   "Bill": 18399
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "MONOPOLY",
+    "SHORT LINE",
+    "PARK PLACE",
+    "THE ELECTRIC COMPANY",
+    "WATER WORKS",
+    "\"B\" & \"O\""
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 3,
+     "q": "This corporation's monopoly on TV broadcasting in England was broken in the 1950s by ITV",
+     "a": "the BBC",
+     "right": [
+      "Bill"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 26,
+     "q": "When Demi Moore says \"I love you\" in this 1990 supernatural thriller, Patrick Swayze's reply is \"ditto\"",
+     "a": "Ghost",
+     "right": [
+      "Bryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 17,
+     "q": "Longhorn Cavern State Park",
+     "a": "Texas",
+     "right": [
+      "Jean"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 13,
+     "q": "The world's first public electricity supply was provided in 1881 to a city in this country",
+     "a": "Great Britain",
+     "right": [
+      "Jean"
+     ],
+     "wrong": [
+      "Bill"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 8,
+     "q": "A waterfall provides only temporary safety from the Hurons for Alice & Cora in this Fenimore Cooper novel",
+     "a": "Last of the Mohicans",
+     "right": [
+      "Bryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "He's the only African American currently serving in the U.S. Senate",
+     "a": "Barack Obama",
+     "right": [
+      "Jean"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 4,
+     "q": "His company's monopoly of steamship navigation on the Hudson River was broken by an 1824 decision of the U.S. Supreme Court",
+     "a": "Robert Fulton",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "This character says, \"I stick my neck out for nobody\" before & after Ugarte's arrest",
+     "a": "Rick",
+     "right": [
+      "Bill"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 18,
+     "q": "San Simeon State Park",
+     "a": "California",
+     "right": [
+      "Jean"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 14,
+     "q": "Using direct current, this U.S. metropolis' first electric supplier was the Pearl Street Power Station in 1882",
+     "a": "New York City",
+     "right": [
+      "Jean"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 9,
+     "q": "An old man recalls his time with the Benzini Brothers Circus in \"Water for\" these large beasts",
+     "a": "Elephants",
+     "right": [
+      "Jean"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "This showbiz term refers to either a ticket window or to total attendance",
+     "a": "box office",
+     "right": [
+      "Bill"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 5,
+     "q": "In 1930 this man led a march to the sea to collect salt in protest of a monopoly by the govt. of India",
+     "a": "Gandhi",
+     "right": [
+      "Bryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 28,
+     "q": "In this 1957 war movie, Col. Saito tells his captives, \"Be happy in your work!\"",
+     "a": "The Bridge on the River Kwai",
+     "right": [],
+     "wrong": [
+      "Bill"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 19,
+     "q": "Manatee Springs State Park",
+     "a": "Florida",
+     "right": [
+      "Bryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": true,
+     "order": 15,
+     "q": "Still around today, this power company was one of the first 12 companies included in the DJIA in 1896",
+     "a": "General Electric (or G.E.)",
+     "right": [],
+     "wrong": [
+      "Jean"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 600
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 10,
+     "q": "Conrad's \"Heart of Darkness\" was inspired by his voyage up this African river",
+     "a": "the Congo",
+     "right": [
+      "Bill"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 16,
+     "q": "They play home games at Camden Yards",
+     "a": "Baltimore Orioles",
+     "right": [
+      "Bill"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 6,
+     "q": "The East had a monopoly on this material until the 6th century, when 2 monks smuggled out some worms",
+     "a": "silk",
+     "right": [
+      "Bryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "Wallace Shawn uses this word several times in \"The Princess Bride\"; Mandy Patinkin questions its usage",
+     "a": "inconceivable",
+     "right": [
+      "Bryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 20,
+     "q": "Cumberland Falls State Resort Park",
+     "a": "Kentucky",
+     "right": [],
+     "wrong": [
+      "Bryan",
+      "Jean"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 24,
+     "q": "Here's some current info: Duke Energy, headquartered in this state, brings electric power to 4 million people",
+     "a": "North Carolina",
+     "right": [
+      "Bill"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 11,
+     "q": "This final Joyce novel's ending leads back to its beginning, \"Riverrun, past Eve and Adam's\"",
+     "a": "Finnegans Wake",
+     "right": [
+      "Bill"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 22,
+     "q": "Amphissa, Kalamata & Nicoise are types of these Mediterranean staples",
+     "a": "black olives",
+     "right": [
+      "Bill"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 7,
+     "q": "This antitrust act from 1890 was designed to prevent monopolies in American business",
+     "a": "the Sherman Antitrust Act",
+     "right": [
+      "Bill"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 30,
+     "q": "Dustin Hoffman flick in which you'd hear: \"That is one nutty hospital\"",
+     "a": "Tootsie",
+     "right": [
+      "Jean"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 21,
+     "q": "Crater of Diamonds State Park",
+     "a": "Arkansas",
+     "right": [],
+     "wrong": [
+      "Bill"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 25,
+     "q": "In 1882 this U.S. inventor opened a steam-powered electricity generating station",
+     "a": "Edison",
+     "right": [
+      "Bryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 12,
+     "q": "This author's \"The Open Boat\" is based on his experience surviving an 1897 shipwreck",
+     "a": "Stephen Crane",
+     "right": [
+      "Jean"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 23,
+     "q": "In Hebrew, this type of sacrifice to God is olah, related to the word \"ascending\"",
+     "a": "a burnt offering",
+     "right": [
+      "Jean"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "IT HAPPENED ON APRIL 2",
+    "SCRAMBLED COUNTRY SINGERS",
+    "WHAT A GEM!",
+    "\"D\"RINKS",
+    "YO, DOG!",
+    "WORDS WITH 5 VOWELS"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 6,
+     "q": "1865:\nJefferson Davis & most of his cabinet flee this capital city",
+     "a": "Richmond",
+     "right": [
+      "Bryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 28,
+     "q": "A curvaceous blonde falls off her high heels & wakes up as\nPOLLY TARNOD",
+     "a": "Dolly Parton",
+     "right": [
+      "Bill"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 11,
+     "q": "This greenish-blue gem is so popular in the Southwest that it has its own museum in Albuquerque",
+     "a": "turquoise",
+     "right": [
+      "Jean"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "This rum cocktail can be made frozen, often with bananas or strawberries",
+     "a": "a daiquiri",
+     "right": [
+      "Bill"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 16,
+     "q": "(Jon of the Clue Crew walks the grounds of The Seeing Eye in New Jersey.) The Seeing Eye breeds its own dogs, many of them this type of dog, whose original purpose required them to go in a straight line",
+     "a": "a golden retriever (or retriever)",
+     "right": [
+      "Jean"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 21,
+     "q": "Everyone out of the building now! It's no longer safe--we must do this!",
+     "a": "evacuate",
+     "right": [
+      "Bryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 7,
+     "q": "1917:\nHe asks the U.S. Congress for a declaration of war on Germany",
+     "a": "Woodrow Wilson",
+     "right": [
+      "Bill"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "He could go \"on the road again\" as\nLEONINE SWILL",
+     "a": "Willie Nelson",
+     "right": [
+      "Bryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 12,
+     "q": "AKA chrysoberyl, this gem produces a streak of light resembling the pupil of a certain animal when cut a certain way",
+     "a": "cat's eye",
+     "right": [
+      "Bryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 2,
+     "q": "Expensive vintage named for the Benedictine monk sometimes credited with inventing champagne",
+     "a": "Dom Pérignon",
+     "right": [
+      "Bryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 17,
+     "q": "The mascot of the New Orleans Saints is Gumbo, this type of lifesaving dog",
+     "a": "a Saint Bernard",
+     "right": [
+      "Bill"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 22,
+     "q": "A mathematical expression like\n4 + 2 = 6",
+     "a": "an equation",
+     "right": [
+      "Bill"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 8,
+     "q": "1810:\nHe marries Archduchess Marie Louise of Austria",
+     "a": "Napoleon",
+     "right": [
+      "Bill"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 30,
+     "q": "Nicole might not recognize him with his painful new identity,\nHURTIE BANK",
+     "a": "Keith Urban",
+     "right": [
+      "Bill"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": true,
+     "order": 13,
+     "q": "Often a lemony color, this variety of quartz has a name derived from the type of fruit that a lemon is",
+     "a": "citrine",
+     "right": [],
+     "wrong": [
+      "Bryan"
+     ],
+     "stumper": false,
+     "img": true,
+     "ddWager": 1000
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 3,
+     "q": "It's a French term for a spirited drink, like brandy or cognac, taken after a meal to help process the food",
+     "a": "a digestif",
+     "right": [
+      "Bill"
+     ],
+     "wrong": [
+      "Jean"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 18,
+     "q": "The diminutive size of modern dogs of this breed is the result of Queen Victoria's preference for small dogs",
+     "a": "a Pomeranian",
+     "right": [
+      "Bill"
+     ],
+     "wrong": [
+      "Jean"
+     ],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": true,
+     "order": 23,
+     "q": "It's Greek to me, this noun, a feeling of extreme happiness & well-being--\nit's wonderful!",
+     "a": "euphoria",
+     "right": [
+      "Bill"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 3000
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 9,
+     "q": "1930:\nHe is proclaimed the emperor of Ethiopia",
+     "a": "Haile Selassie",
+     "right": [
+      "Bryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 27,
+     "q": "Maybe he could have won \"Dancing with the Stars\" with a name like\nSILLY BAY CURRY",
+     "a": "Billy Ray Cyrus",
+     "right": [
+      "Bill"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 14,
+     "q": "Silent screen star Mary Pickford bequeathed the Star of Bombay, a 182-carat one of these gems, to the Smithsonian",
+     "a": "a sapphire",
+     "right": [
+      "Bryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 4,
+     "q": "It's the trademarked name of a sweet aromatized wine that comes in 2 styles: rouge & blanc",
+     "a": "Dubonnet",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 19,
+     "q": "This spotted dog is also known as a carriage dog",
+     "a": "a Dalmatian",
+     "right": [
+      "Bill"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 24,
+     "q": "Handel's \"Susanna\" & \"Theodora\" ones of these weren't quite as popular as the \"Messiah\"",
+     "a": "oratorios",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 10,
+     "q": "1453:\nMehmed II begins his siege of this city; it would fall 8 weeks later",
+     "a": "Constantinople",
+     "right": [
+      "Bryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 26,
+     "q": "She could have gone \"Walkin' After Midnight\" under the name\nCAT SPYLINE",
+     "a": "Patsy Cline",
+     "right": [
+      "Jean"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 15,
+     "q": "Utah's official state gem is this stone that's often golden but can be pink or blue",
+     "a": "the topaz",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 5,
+     "q": "The name of this brand of scotch-based liqueur is Gaelic for \"the drink that satisfies\"",
+     "a": "Drambuie",
+     "right": [
+      "Bill"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 20,
+     "q": "From the German for \"ape terrier\", it's the breed of pinscher seen here",
+     "a": "Affenpinscher",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 25,
+     "q": "It's a person held in high regard or awarded for great achievements, like certain poets",
+     "a": "a laureate",
+     "right": [
+      "Jean"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "EUROPEAN RIVERS",
+  "q": "20 miles from Frankfurt is the meeting place of these 2 rivers, whose names rhyme despite the spelling",
+  "a": "the Rhine & the Main",
+  "right": [],
+  "wrong": [
+   "Jean",
+   "Bryan",
+   "Bill"
+  ]
+ },
+ "gameId": "2392",
+ "cat_notes": {
+  "J": [
+   "Clues about Monopoly.",
+   "Clues about Short Line.",
+   "We'll give you the state park name. You identify the state where it's located.",
+   "Clues about The Electric Company.",
+   "Clues about Water Works.",
+   "Each answer contains both “B” and “O”."
+  ],
+  "DJ": [
+   "Clues about It Happened on April 2.",
+   "You unscramble them.",
+   "The category “WHAT A GEM!” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "Each answer contains the letter “D”, and the clues are about Rinks.",
+   "The category “YO, DOG!” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "Clues about Words with 5 Vowels."
+  ],
+  "F": "Clues about European Rivers."
+ }
+}

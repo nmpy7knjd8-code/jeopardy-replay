@@ -1,0 +1,997 @@
+{
+ "show": "#5383",
+ "aired": "2008-01-23",
+ "note": "",
+ "contestants": [
+  {
+   "name": "Joe McGuinness",
+   "bio": "a compliance manager from Bear, Delaware",
+   "short": "Joe"
+  },
+  {
+   "name": "Amanda Freisem",
+   "bio": "a labor services representative from Brentwood, New York",
+   "short": "Amanda"
+  },
+  {
+   "name": "Buffy Thoms",
+   "bio": "a schoolteacher from Watson, Louisiana (whose 1-day cash winnings total $22,801)",
+   "short": "Buffy"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Buffy": -1800,
+   "Amanda": 6000,
+   "Joe": 5400
+  },
+  "DJ": {
+   "Buffy": 8800,
+   "Amanda": 21000,
+   "Joe": 12200
+  },
+  "Final": {
+   "Buffy": 0,
+   "Amanda": 17000,
+   "Joe": 3200
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "WHERE IN THE WORLD IS SAN DIEGO?",
+    "\"YOU\" TUBE",
+    "ALSO A MAGAZINE",
+    "STATUE OF LIMITATIONS",
+    "ITOS, TITOS & FRITOS",
+    "4-LETTER WORDS"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 22,
+     "q": "San Diego stays classy with its Old Globe Theatre, built in 1935 to present abridged versions of his plays",
+     "a": "William Shakespeare",
+     "right": [
+      "Amanda"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 7,
+     "q": "Alana & Jacob are 2 of the kids who have been on this show that's hosted by Jeff Foxworthy",
+     "a": "Are You Smarter Than a 5th Grader?",
+     "right": [
+      "Amanda"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "12:15 A.M. or\n3:11 P.M.",
+     "a": "Time",
+     "right": [
+      "Buffy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 6,
+     "q": "Bill Murray referred to this 305-foot, 1-inch New Yorker as \"a Harbor chick\"",
+     "a": "the Statue of Liberty",
+     "right": [
+      "Amanda"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 16,
+     "q": "In 1958 Frito trademarked the rights to this ridged potato chip",
+     "a": "Ruffles",
+     "right": [
+      "Amanda"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 12,
+     "q": "The group empowered to make findings of fact in a court procedure",
+     "a": "a jury",
+     "right": [
+      "Amanda"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 23,
+     "q": "Check out the \"Dolphin Discovery\" & \"Sea Lions Tonite\" shows at this San Diego attraction",
+     "a": "Sea World",
+     "right": [
+      "Joe"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 8,
+     "q": "Paul Reiser & Helen Hunt played a happily married couple on this '90s sitcom",
+     "a": "Mad About You",
+     "right": [
+      "Amanda"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "XVII",
+     "a": "Seventeen",
+     "right": [
+      "Joe"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "This 1904 Rodin guy is more than 6 feet tall & a chiseled 2,000 lbs.",
+     "a": "The Thinker",
+     "right": [
+      "Buffy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 17,
+     "q": "The \"King of Mambo\", his songs include \"Ran Kan Kan\" & \"Oye Como Va\"",
+     "a": "Tito Puente",
+     "right": [
+      "Joe"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 13,
+     "q": "This term for the Japanese parliament sounds like a restrictive nutrition program",
+     "a": "the diet",
+     "right": [
+      "Joe"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 24,
+     "q": "The San Diego stadium now named for this telecom company is known as \"The Q\"",
+     "a": "Qualcomm",
+     "right": [
+      "Joe"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 9,
+     "q": "In the '90s Bill Cosby starred in a revival of this quiz show that was hosted by Groucho Marx in the '50s",
+     "a": "You Bet Your Life",
+     "right": [
+      "Joe"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 3,
+     "q": "It \"gathers no moss\"",
+     "a": "Rolling Stone",
+     "right": [
+      "Amanda"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": true,
+     "order": 28,
+     "q": "A WNBA-worthy 6-foot-8, this Greek statue was created around 130 B.C. but would have a hard time shooting the ball",
+     "a": "the Venus de Milo",
+     "right": [],
+     "wrong": [
+      "Buffy"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1000
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 18,
+     "q": "In 1956 Frito became the first Texas co. to advertise on NBC, on this Dave Garroway show",
+     "a": "The Today Show",
+     "right": [
+      "Buffy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 14,
+     "q": "It can mean a landing pier for a ship, or to deduct from one's pay as a penalty",
+     "a": "dock",
+     "right": [
+      "Amanda"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 25,
+     "q": "This venue opened in 1989 crawls with sandmen & Doctor Whos as the home of the annual Comic-Con",
+     "a": "the convention center",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 10,
+     "q": "A homeowner is lured away while a loved one redecorates the house as a surprise on this TLC show",
+     "a": "While You Were Out",
+     "right": [
+      "Amanda"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 4,
+     "q": "Pennies or dollar bills",
+     "a": "Money",
+     "right": [
+      "Joe"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "Finished in 1504, this 17-foot Michelangelo man had his arm broken in 1527, but not for any gambling debts",
+     "a": "David",
+     "right": [
+      "Amanda"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 19,
+     "q": "This judge also presided over Charles Keating's 1992 S&L fraud trial",
+     "a": "Lance Ito",
+     "right": [
+      "Amanda"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 15,
+     "q": "Even the Turkish ordu, this, travels on its mide, \"stomach\"",
+     "a": "army",
+     "right": [
+      "Joe"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 26,
+     "q": "In Presidio Park, a museum named for this Franciscan missionary has exhibits on early San Diego history",
+     "a": "Junípero Serra",
+     "right": [],
+     "wrong": [
+      "Buffy"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 11,
+     "q": "This Fox reality show is like \"American Idol\" for those who salsa, krump & jive",
+     "a": "So You Think You Can Dance?",
+     "right": [
+      "Joe"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 5,
+     "q": "For example:\n\"Be just, and fear not\"",
+     "a": "Maxim",
+     "right": [],
+     "wrong": [
+      "Buffy"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 30,
+     "q": "Completed in 1843, his column is 185 feet high; his 17-foot high statue stands atop it",
+     "a": "Horatio Nelson",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 20,
+     "q": "On May 4, 1980 Tito died in Ljubljana in what was then this country",
+     "a": "Yugoslavia",
+     "right": [
+      "Joe"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 21,
+     "q": "The name of a bird probably was shortened to this 4-letter term for an eccentric person",
+     "a": "a kook",
+     "right": [
+      "Amanda"
+     ],
+     "wrong": [
+      "Joe"
+     ],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "WHERE IN THE WORLD IS DIEGO GARCIA?",
+    "BEST PICTURE OSCAR WINNERS BY CHARACTERS",
+    "THE EPA P3 EXPO",
+    "ANIMALS EN ESPAÑOL",
+    "WHEN PUSHKIN COMES TO SHOVE",
+    "MISSING LINKS"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 21,
+     "q": "Important strategically, the small island of Diego Garcia is found in this ocean",
+     "a": "the Indian Ocean",
+     "right": [
+      "Joe"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "Clarice Starling,\n\"Buffalo Bill\"",
+     "a": "Silence of the Lambs",
+     "right": [
+      "Amanda"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 26,
+     "q": "(Sarah of the Clue Crew reports from the EPA P3 Expo in Washington, D.C.) Albion College's project demonstrates how it's possible to generate energy, here in Expo for this kind of technology, meaning \"capable of being continued with minimal long term environmental effects\"",
+     "a": "sustainable",
+     "right": [
+      "Joe"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 11,
+     "q": "Found in water: cocodrilo",
+     "a": "a crocodile",
+     "right": [
+      "Joe"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 12,
+     "q": "The Pushkin Museum of Fine Arts is a leading tourist attraction in this capital",
+     "a": "Moscow",
+     "right": [
+      "Buffy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 6,
+     "q": "Puppy _____ bug",
+     "a": "love",
+     "right": [
+      "Amanda"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 22,
+     "q": "Diego Garcia was critically important as a refueling base during this Jan. 1991 military operation",
+     "a": "Operation Desert Storm",
+     "right": [
+      "Joe"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 2,
+     "q": "Major Strasser,\nVictor Lazslo",
+     "a": "Casablanca",
+     "right": [
+      "Buffy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 27,
+     "q": "(Jimmy reporting from the EPA P3 Expo in Washington, D.C.) To help tsunami-ravaged Indonesia replace its food supply, students of Duke have made a mechanical aerator, that increases shrimp hatchery yields by adding this element",
+     "a": "oxygen",
+     "right": [
+      "Joe"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 13,
+     "q": "8-legged: araña",
+     "a": "a spider",
+     "right": [
+      "Joe"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 14,
+     "q": "Pushkin was part black; one of his great-grandfathers was an Ethiopian general of this \"great\" Czar",
+     "a": "Peter the Great",
+     "right": [
+      "Amanda"
+     ],
+     "wrong": [
+      "Joe"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 7,
+     "q": "Charity begins at _____ on the range",
+     "a": "home",
+     "right": [
+      "Amanda"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 23,
+     "q": "Diego Garcia is named for a man from this nation who explored the region in the 1500s",
+     "a": "Portugal",
+     "right": [
+      "Joe"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 3,
+     "q": "Alain Charnier,\n\"Popeye\" Doyle",
+     "a": "The French Connection",
+     "right": [
+      "Amanda"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 28,
+     "q": "(Jimmy reporting from the EPA P3 Expo in Washington, D.C.) A team from the University of New Hampshire is using camel power & a rope & washer system to replace gas power with green technology in the drip type of this in the fields of Niger, one of the world's poorest countries",
+     "a": "irrigation",
+     "right": [
+      "Buffy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 15,
+     "q": "Toro ('nuff said)",
+     "a": "a bull",
+     "right": [
+      "Amanda"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": true,
+     "order": 18,
+     "q": "Pushkin's masterpiece, the verse novel \"Eugene Onegin\" was turned into an opera by this fellow Russian",
+     "a": "Tchaikovsky",
+     "right": [
+      "Buffy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 3000
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 8,
+     "q": "Great White _____ Diamond",
+     "a": "Hope",
+     "right": [
+      "Buffy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 24,
+     "q": "Made from coral reefs and sand, Diego Garcia is one of these ring-shaped islands surrounding a lagoon",
+     "a": "an atoll",
+     "right": [
+      "Joe"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 4,
+     "q": "Emperor Joseph II,\nAntonio Salieri",
+     "a": "Amadeus",
+     "right": [
+      "Amanda"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 29,
+     "q": "(Sarah reporting from the EPA P3 Expo in Washington, D.C.) You might not think of turning manure into a resource, but a team from Western Washington University did; it's powering a hybrid engine using this bio-gas: CH4",
+     "a": "methane",
+     "right": [
+      "Joe"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 16,
+     "q": "A reptile: tortuga",
+     "a": "a tortoise",
+     "right": [
+      "Amanda"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 19,
+     "q": "After a number of scandals as a young man, Pushkin was banished to this Ukrainian peninsula",
+     "a": "the Crimean",
+     "right": [
+      "Joe"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 9,
+     "q": "Ride the _____ goodbye",
+     "a": "wave",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 25,
+     "q": "Diego Garcia is about equidistant from Mauritius & this island country off the southern coast of India",
+     "a": "Sri Lanka",
+     "right": [
+      "Amanda"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": true,
+     "order": 5,
+     "q": "Molly Brown,\nJack Dawson",
+     "a": "Titanic",
+     "right": [
+      "Amanda"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 3000
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 30,
+     "q": "(Jimmy reporting from the EPA P3 Expo in Washington, D.C.) Using solar power to kill water-borne bacteria at temperatures below the boiling point, Rochester Institute of Technology's team saves energy while accomplishing this, named for a 19th century French scientist",
+     "a": "Pasteurization",
+     "right": [
+      "Amanda"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 17,
+     "q": "A bird: paloma",
+     "a": "a dove",
+     "right": [
+      "Buffy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 20,
+     "q": "The life of this 16th century czar was good enough to inspire a classic play written by Pushkin in 1825",
+     "a": "Boris Godunov",
+     "right": [],
+     "wrong": [
+      "Joe"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 10,
+     "q": "The long _____ hare",
+     "a": "march",
+     "right": [
+      "Buffy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "FAMOUS ENGLISHMEN",
+  "q": "Andrew Carnegie's future fortune & career were inspired by an 1873 visit with this inventor & engineer",
+  "a": "Henry Bessemer",
+  "right": [],
+  "wrong": [
+   "Buffy",
+   "Joe",
+   "Amanda"
+  ]
+ },
+ "gameId": "2299",
+ "cat_notes": {
+  "J": [
+   "The category “WHERE IN THE WORLD IS SAN DIEGO?” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "Each answer contains the letter group “YOU”, and the clues are about Tube.",
+   "Clues about Also a Magazine.",
+   "Clues about Statue of Limitations.",
+   "Clues about Itos, Titos and Fritos.",
+   "Each answer is a 4-letter word."
+  ],
+  "DJ": [
+   "The category “WHERE IN THE WORLD IS DIEGO GARCIA?” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "Clues about Best Picture OSCAR Winners by Characters.",
+   "Featuring projects by college students...",
+   "Clues about Animals En Español.",
+   "Clues about When Pushkin Comes to Shove.",
+   "Clues about Missing Links."
+  ],
+  "F": "Clues about Famous Englishmen."
+ }
+}

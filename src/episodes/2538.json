@@ -1,0 +1,986 @@
+{
+ "show": "#5496",
+ "aired": "2008-06-30",
+ "note": "",
+ "contestants": [
+  {
+   "name": "John Goodreau",
+   "bio": "a letter carrier from Arleta, California",
+   "short": "John"
+  },
+  {
+   "name": "T.J. Gillespie",
+   "bio": "an English teacher from Philadelphia, Pennsylvania",
+   "short": "T.J."
+  },
+  {
+   "name": "Jean Whitcomb",
+   "bio": "a teller supervisor from Kalamazoo, Michigan (whose 1-day cash winnings total $21,201)",
+   "short": "Jean"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Jean": 6800,
+   "T.J.": 3000,
+   "John": 7000
+  },
+  "DJ": {
+   "Jean": 11200,
+   "T.J.": 15800,
+   "John": 15600
+  },
+  "Final": {
+   "Jean": 200,
+   "T.J.": 399,
+   "John": 30600
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "THOSE DARN ETRUSCANS",
+    "COLLEGE FOOTBALL",
+    "THE ONION'S GLOSSARY OF ELECTION TERMS",
+    "LITERATURE",
+    "ESOTERICA",
+    "ABBREV."
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 23,
+     "q": "To see the Monteleone chariot made by those darn Etruscans, head for this 5th Avenue museum",
+     "a": "the Metropolitan Museum",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 6,
+     "q": "This school's Buckeyes made the 2007 & 2008 national champ. games--Good--but lost by a combined 79-38--Bad",
+     "a": "Ohio State",
+     "right": [
+      "T.J."
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 16,
+     "q": "It's \"a contest to see which candidate can answer the fewest questions\"",
+     "a": "a debate",
+     "right": [
+      "John"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "Our copy of this 1865-69 Tolstoy work is 1,444 pages long",
+     "a": "War and Peace",
+     "right": [
+      "Jean"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 21,
+     "q": "This Poe poem has a scholar seeking solace in ancient, esoteric writings, but he's disturbed by a \"rapping at my chamber door\"",
+     "a": "\"The Raven\"",
+     "right": [
+      "Jean"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 11,
+     "q": "Of concern to typists:\nWPM",
+     "a": "words per minute",
+     "right": [
+      "Jean"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 24,
+     "q": "Let's \"sea\"--Nethuns was the Etruscan equivalent of this Roman god",
+     "a": "Neptune",
+     "right": [
+      "Jean"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 7,
+     "q": "Letter formations include the \"T\" & this one with the running backs in a line behind the quarterback",
+     "a": "I",
+     "right": [
+      "John"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 17,
+     "q": "This type of ballot doesn't \"involve... having to get up off the couch & walk to a high school gymnasium\"",
+     "a": "an absentee ballot",
+     "right": [
+      "Jean"
+     ],
+     "wrong": [
+      "John"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "Many say that Tu Fu was this country's greatest poet",
+     "a": "China",
+     "right": [
+      "T.J."
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 22,
+     "q": "Kukai, also known as Kobo Daishi, brought esoteric Shingon Buddhism to this country",
+     "a": "Japan",
+     "right": [
+      "T.J."
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 12,
+     "q": "A unit of energy:\nkWh",
+     "a": "kilowatt-hours",
+     "right": [
+      "John"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 25,
+     "q": "Maecenas, a leading adviser to this first Roman emperor, was descended from Etruscan rulers",
+     "a": "Augustus",
+     "right": [
+      "T.J."
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 8,
+     "q": "Coaches go gray from these plays that the players \"hear\" at the line of scrimmage rather than in the huddle",
+     "a": "audibles",
+     "right": [
+      "John"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 18,
+     "q": "This \"-ist\" is defined as \"a better-paid legislator\"",
+     "a": "a lobbyist",
+     "right": [
+      "Jean"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 3,
+     "q": "(Kelly of the Clue Crew reports from New York's Central Park.) Central Park's Literary Walk features Robert Burns & this great novelist & countryman, both sculpted by John Steell of Aberdeen",
+     "a": "Sir Walter Scott",
+     "right": [
+      "T.J."
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 28,
+     "q": "This \"Old\" publication bases its weather forecasts on esoteric interpretations of natural phenomena",
+     "a": "the Old Farmer's Almanac",
+     "right": [
+      "John"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 13,
+     "q": "A bus or van, for example:\nHOV",
+     "a": "high-occupancy vehicle",
+     "right": [
+      "John"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 26,
+     "q": "Artsy Etruscans enjoyed working with this type of clay whose name is Italian for \"baked earth\"",
+     "a": "terra cotta",
+     "right": [
+      "Jean"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 9,
+     "q": "The BCS, created to pit the top teams in the nation against each other, stands for this",
+     "a": "Bowl Championship Series",
+     "right": [
+      "Jean"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 19,
+     "q": "This is referred to as a \"process by which Americans are quadrennially reminded of Iowa's existence\"",
+     "a": "the Iowa caucuses",
+     "right": [
+      "John"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 4,
+     "q": "In Chaucer's \"The Canterbury Tales\" , this bawdy wife tells of her 5 husbands & her desire for a sixth",
+     "a": "the Wife of Bath",
+     "right": [
+      "T.J."
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "This art of transmuting metals broke up into branches; the esoterics drew away from lab practices",
+     "a": "alchemy",
+     "right": [
+      "Jean"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 14,
+     "q": "In the military:\nNCO",
+     "a": "non-commissioned officer",
+     "right": [
+      "John"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": true,
+     "order": 27,
+     "q": "The Etruscans mined iron on this island centuries before Napoleon was exiled there",
+     "a": "Elba",
+     "right": [
+      "Jean"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1400
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 10,
+     "q": "Ian Johnson's 2-pt. conversion won the '07 Fiesta Bowl for this school, then his on-field wedding proposal won his GF's heart",
+     "a": "Boise State",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 20,
+     "q": "This company's voting machine \"electronically changes your vote into a vote for Mitt Romney\"",
+     "a": "Diebold",
+     "right": [
+      "John"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 5,
+     "q": "Flaubert led this movement in French literature also called naturalism",
+     "a": "realism",
+     "right": [
+      "Jean"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 30,
+     "q": "This esoteric tradition of Jewish mysticism involves 10 divine numbers or emanations",
+     "a": "Kabbalah",
+     "right": [
+      "John"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 15,
+     "q": "Often seen in classifieds:\nEOE",
+     "a": "equal-opportunity employer",
+     "right": [
+      "John"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "THOSE DARN EQUESTRIANS",
+    "WHY I HATE YOU",
+    "FACE THE MUSIC",
+    "AMERICANA",
+    "NEARLY IMPOSSIBLE CAPITAL CITIES",
+    "GIMME AN \"H\""
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 26,
+     "q": "This equestrian event has 2 4-player teams with long-handled mallets (not many horses in the water version)",
+     "a": "polo",
+     "right": [
+      "John"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 11,
+     "q": "You never miss one of these basketball shots taken from \"beyond the arc\"-- & oh, the taunting!",
+     "a": "a 3-pointer",
+     "right": [
+      "T.J."
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "(Jon of the Clue Crew plays notes on a guitar.) In music, it describes a tone raised a half step in pitch, like when I go from here to here",
+     "a": "a sharp",
+     "right": [
+      "T.J."
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "Legend says a Bangor, Maine woman invented these by cutting a collapsed chocolate cake into squares",
+     "a": "brownies",
+     "right": [
+      "Jean"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 16,
+     "q": "One of 3 capitals:\nPretoria",
+     "a": "South Africa",
+     "right": [
+      "John"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 21,
+     "q": "This large whale known for its spectacular leaps has been called the \"showman of the ocean\"",
+     "a": "the humpback",
+     "right": [
+      "T.J."
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 27,
+     "q": "Known as National Hunt Racing in the U.K., this type of race has horses jumping obstacles on a track",
+     "a": "steeplechase",
+     "right": [
+      "John"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 12,
+     "q": "You fondly recall your long boyhood friendship with this star who won an Oscar for \"Syriana\"",
+     "a": "(George) Clooney",
+     "right": [
+      "John"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 7,
+     "q": "Come & get it! It's the instrument heard here",
+     "a": "a triangle",
+     "right": [
+      "Jean"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 3,
+     "q": "The Alpine Gardens named for this former first lady are centered in Vail, Colorado",
+     "a": "Betty Ford",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 17,
+     "q": "Asian country wedged between 2 giants:\nUlaanbaatar",
+     "a": "Mongolia",
+     "right": [
+      "T.J."
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 22,
+     "q": "A leg of meat,\nor to pawn",
+     "a": "hock",
+     "right": [
+      "Jean"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 28,
+     "q": "Smaller than the Western type, the equestrian item seen here goes by this national term",
+     "a": "an English saddle",
+     "right": [
+      "Jean"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 13,
+     "q": "You have a steady diet of this dessert, the specialty of NYC's Carnegie Deli, yet you never gain a pound",
+     "a": "cheesecake",
+     "right": [
+      "Jean"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 8,
+     "q": "(Cheryl of the Clue Crew chimes in about musical notation.) It's the bookkeeping term for the lines above & below the musical staff",
+     "a": "ledger lines",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 4,
+     "q": "Nevada has a patriotic state motto: \"All for our\" this",
+     "a": "country",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 18,
+     "q": "One of the successor states to Yugoslavia:\nSkopje",
+     "a": "Macedonia",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 23,
+     "q": "A biblical proverb says,\"Before honor is\" this, the opposite of pride",
+     "a": "humility",
+     "right": [
+      "T.J."
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 29,
+     "q": "The equestrian program as we know it began in the 1912 Olympics with jumping, the 3-day event & this, a French term",
+     "a": "dressage",
+     "right": [
+      "John"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 14,
+     "q": "You often impress the chicks with a flawless kazoo rendition of this man's \"Jupiter\" Symphony from 1788",
+     "a": "Mozart",
+     "right": [
+      "T.J."
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 9,
+     "q": "It's the large percussion instrument heard here in some music that might sound familiar",
+     "a": "timpani",
+     "right": [
+      "John"
+     ],
+     "wrong": [
+      "Jean"
+     ],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 5,
+     "q": "Inspired by the 5 Olympic rings, the Fountain of Rings is in Centennial Olympic Park in this city",
+     "a": "Atlanta",
+     "right": [
+      "Jean"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 19,
+     "q": "One of the \"stans\" of Central Asia:\nAstana",
+     "a": "Kazakhstan",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 24,
+     "q": "Chinese Moo Shu dishes are typically served with this thick, sweet sauce",
+     "a": "hoisin",
+     "right": [
+      "T.J."
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2000
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": true,
+     "order": 30,
+     "q": "Ride 'em, equestrian boy! This \"stately\" horse is the only breed capable of naturally overstriding",
+     "a": "the Tennessee Walker (Walking Horse)",
+     "right": [
+      "John"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 3000
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 15,
+     "q": "You keep quoting from this French author's \"The Myth of Sisyphus\" as if you actually understand it",
+     "a": "Camus",
+     "right": [
+      "T.J."
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 10,
+     "q": "(Jon of the Clue Crew is down on one knee at Steinway & Sons in New York.) While many European pianos have two pedals, Steinways also have a middle one called by this Italian name, as it sustains the sound of certain keys",
+     "a": "sostenuto",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 6,
+     "q": "Wyoming county known for its cattle war of 1892",
+     "a": "Johnson County",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 20,
+     "q": "On the Arabian peninsula:\nSanaa",
+     "a": "Yemen",
+     "right": [
+      "T.J."
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 25,
+     "q": "In Greek myth, she's the goddess of the hearth",
+     "a": "Hestia",
+     "right": [
+      "T.J."
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "PLAYWRIGHTS",
+  "q": "On his death in 1950, he left part of his estate to promote a new phonetic alphabet",
+  "a": "George Bernard Shaw",
+  "right": [
+   "John"
+  ],
+  "wrong": [
+   "Jean",
+   "T.J."
+  ]
+ },
+ "gameId": "2538",
+ "cat_notes": {
+  "J": [
+   "Clues about Those Darn Etruscans.",
+   "Clues about College Football.",
+   "Clues about The Onion's Glossary of Election Terms.",
+   "Clues about Literature.",
+   "Clues about Esoterica.",
+   "Clues about Abbrev."
+  ],
+  "DJ": [
+   "Clues about Those Darn Equestrians.",
+   "The category “WHY I HATE YOU” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "Clues about Face the Music.",
+   "Clues about Americana.",
+   "We want the country from you.",
+   "Each answer contains the letter “H”, and the clues are about Gimme An."
+  ],
+  "F": "Clues about Playwrights."
+ }
+}

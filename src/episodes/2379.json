@@ -1,0 +1,998 @@
+{
+ "show": "#5429",
+ "aired": "2008-03-27",
+ "note": "",
+ "contestants": [
+  {
+   "name": "Ann Drourr",
+   "bio": "a rare bookseller from Mount Laurel, New Jersey",
+   "short": "Ann"
+  },
+  {
+   "name": "Matt Stull",
+   "bio": "a public relations professional from Louisville, Kentucky",
+   "short": "Matt"
+  },
+  {
+   "name": "Dave Sikula",
+   "bio": "an Internet search editor from Pacifica, California (whose 1-day cash winnings total $15,000)",
+   "short": "Dave"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Dave": 6800,
+   "Matt": 9000,
+   "Ann": 4000
+  },
+  "DJ": {
+   "Dave": 9800,
+   "Matt": 20200,
+   "Ann": 16200
+  },
+  "Final": {
+   "Dave": 19600,
+   "Matt": 7200,
+   "Ann": 31200
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "EASTER",
+    "BUNNY",
+    "LOCO FOR LOGOS",
+    "NURSERY RHYMES ON THE 11 O'CLOCK NEWS",
+    "NOMS DE PLUME",
+    "\"MAN\" IN THE MIDDLE"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 11,
+     "q": "1916's \"Easter Rebellion\" against British rule was centered in this capital city",
+     "a": "Dublin",
+     "right": [
+      "Dave"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 23,
+     "q": "In the 1940 cartoon \"A Wild Hare\", this character utters the iconic \"What's up, Doc?\" line for the first time",
+     "a": "Bugs Bunny",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 21,
+     "q": "Fast-forward into the 21st century with this electronic device that \"gets you way more than a DVR\"",
+     "a": "TiVo",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 16,
+     "q": "Confrontation downtown today near the fair, as a pieman denied this penniless man food",
+     "a": "Simple Simon",
+     "right": [
+      "Ann"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "In French this graceful swimmer is un cygne",
+     "a": "a swan",
+     "right": [
+      "Dave"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 4,
+     "q": "An annual publication chock full of facts & figures",
+     "a": "an almanac",
+     "right": [
+      "Ann"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 12,
+     "q": "These fund-raising stamps for disabled children were first issued in 1934",
+     "a": "Easter Seals",
+     "right": [
+      "Dave"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "This icon of extended battery life has been going & going since 1989",
+     "a": "the Energizer Bunny",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 22,
+     "q": "Before being spun off in 1934 this airline was part of Boeing",
+     "a": "United",
+     "right": [
+      "Ann"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 17,
+     "q": "Animal Control today swarmed over \"the house that\" he \"built\", finding a tossed dog, a worried cat & a dead rat",
+     "a": "Jack",
+     "right": [
+      "Dave"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "This peaceful bird is une colombe",
+     "a": "a dove",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 5,
+     "q": "Hellbenders & newts are types of these",
+     "a": "salamanders",
+     "right": [
+      "Dave"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 13,
+     "q": "It's where you'll find Chile's Isla de Pascua National Park",
+     "a": "Easter Island",
+     "right": [
+      "Dave"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 28,
+     "q": "A 1950s hit song by Ray Anthony inspired this popular dance craze",
+     "a": "the bunny hop",
+     "right": [
+      "Dave"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 24,
+     "q": "(Cheryl of the Clue Crew compares a logo with its antecedent.) This association adapted the Duke of Lorraine's emblem because they, too, were fighting a crusade, but against tuberculosis",
+     "a": "the American Lung Association",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 18,
+     "q": "She terrorized 3 non-sighted rodents & dismembered them; I've never seen such a sight in my life",
+     "a": "the farmer's wife",
+     "right": [
+      "Dave"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 3,
+     "q": "Ask your \"mother\"-- this \"silly\" bird is une oie",
+     "a": "a goose",
+     "right": [
+      "Ann"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 8,
+     "q": "To take apart",
+     "a": "dismantle",
+     "right": [
+      "Ann"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 14,
+     "q": "This Hollywood landmark began observing its famous Easter sunrise service in 1921",
+     "a": "the Hollywood Bowl",
+     "right": [
+      "Dave"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "Gap-toothed supermodel & onetime Playboy Bunny who now plays a publicist on \"Nip/Tuck\"",
+     "a": "Lauren Hutton",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": true,
+     "order": 25,
+     "q": "The first credit card that could be used at multiple businesses was started by this company",
+     "a": "Diners Club",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true,
+     "ddWager": 3000
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 19,
+     "q": "This guy, \"the piper's son\", was arrested on pig-theft charges today, shortly after being beaten until he wept",
+     "a": "Tom, Tom",
+     "right": [
+      "Dave"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 6,
+     "q": "This nocturnal bird of prey is un hibou",
+     "a": "an owl",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 9,
+     "q": "In the photo seen here, it's the snow-laced mountain in the background",
+     "a": "Kilimanjaro",
+     "right": [
+      "Dave"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 15,
+     "q": "This location's first Easter Egg Roll was on April 22, 1878",
+     "a": "the White House",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 30,
+     "q": "He was Bambi's bunny buddy on the big screen",
+     "a": "Thumper",
+     "right": [
+      "Ann"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 26,
+     "q": "This company is named after the aircraft carrier the owner served on during World War II",
+     "a": "Enterprise Rent-A-Car",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 20,
+     "q": "In a daring holdup this animal's \"three bags full\" of wool, intended for 3 locals, were taken at gunpoint today",
+     "a": "baa, baa, black sheep",
+     "right": [
+      "Dave"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 7,
+     "q": "This small game bird is une caille",
+     "a": "a quail",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 10,
+     "q": "Not temporary",
+     "a": "permanent",
+     "right": [
+      "Ann"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "SHAKESPEARE",
+    "CLINT EASTWOOD: A CAREER IN HOLLYWOOD",
+    "MY, YOU'VE AGED",
+    "VIVA ITALIA",
+    "I'LL HAVE THE LAME DUCK",
+    "CROSSWORD CLUES \"Q\""
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "She is the \"Shrew\" whom Petruchio must tame",
+     "a": "Katherina",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 6,
+     "q": "Meryl Streep played an Iowa housewife who has a brief affair with Clint Eastwood in this film",
+     "a": "The Bridges of Madison County",
+     "right": [
+      "Dave"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 26,
+     "q": "Maybe you can see here why Edison said \"Genius is one percent inspiration and 99 percent\" this",
+     "a": "perspiration",
+     "right": [
+      "Dave"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 11,
+     "q": "The first part of Italy liberated by the Allies during World War II was this island invaded in July 1943",
+     "a": "Sicily",
+     "right": [
+      "Ann"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 21,
+     "q": "In 1968 this president cited a \"division in the American House\" & quit the upcoming race in the name of national unity",
+     "a": "Lyndon Johnson",
+     "right": [
+      "Ann"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 16,
+     "q": "To satisfy one's thirst\n(6)",
+     "a": "quench",
+     "right": [
+      "Dave"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 2,
+     "q": "He cannot overcome temptation or ambition but does ignore his own scruples to murder Duncan",
+     "a": "Macbeth",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 7,
+     "q": "The title trio of this movie classic are played by Clint, Lee Van Cleef & Eli Wallach",
+     "a": "The Good, the Bad and the Ugly",
+     "right": [
+      "Ann"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 27,
+     "q": "Men do it in order to look older; Abe Lincoln did it in 1860",
+     "a": "grow a beard",
+     "right": [
+      "Dave"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 12,
+     "q": "The world's first major film festival was held in this city in 1932; today it awards the prestigious Golden Lion",
+     "a": "Venice",
+     "right": [
+      "Ann"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 22,
+     "q": "During his second term, he authorized the sale of missiles to Iran; it would lead to Iran-Contra issues",
+     "a": "Ronald Reagan",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 17,
+     "q": "Good place to hunt slate & marble\n(6)",
+     "a": "quarry",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 3,
+     "q": "The title of this problem comedy tells you how everything is going to turn out when the play is over",
+     "a": "All's Well That Ends Well",
+     "right": [
+      "Dave"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 8,
+     "q": "For 7 years, Clint played Rowdy Yates on this long-running TV western that helped launch his career",
+     "a": "Rawhide",
+     "right": [
+      "Ann"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 28,
+     "q": "The 1530s were hard on Henry VIII; marital problems, weight gain, & this action taken by the Pope in 1533",
+     "a": "excommunication",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 13,
+     "q": "Begun in 312 B.C. & originally 20 feet wide, this first & most famous Roman road still handles traffic today",
+     "a": "the Appian Way",
+     "right": [
+      "Dave"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 23,
+     "q": "One of his final acts as President was the controversial pardoning of financier Marc Rich",
+     "a": "Bill Clinton",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 18,
+     "q": "Leap or mechanics preceder\n(7)",
+     "a": "quantum",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 4,
+     "q": "These 2 seasons are found in the titles of Shakespeare plays",
+     "a": "winter & summer",
+     "right": [],
+     "wrong": [
+      "Dave"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 3000
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 9,
+     "q": "Clint directed & starred in this 1971 film about a radio DJ & an obsessed female fan",
+     "a": "Play Misty for Me",
+     "right": [
+      "Dave"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 29,
+     "q": "In \"Little Big Man\", this actor's character ages from 17 to 121",
+     "a": "Dustin Hoffman",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 14,
+     "q": "Modeled in part on aircraft landing gear, this brand of motor scooter was first produced in Tuscany in 1946",
+     "a": "Vespa",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 24,
+     "q": "He said, \"I do not feel... it is my duty to spend another 4 years in the White House\", then campaigned for Adlai Stevenson",
+     "a": "Harry Truman",
+     "right": [
+      "Ann"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 19,
+     "q": "Where FBI agents train\n(8)",
+     "a": "Quantico",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 5,
+     "q": "Achilles & Ajax are characters in this play",
+     "a": "Troilus and Cressida",
+     "right": [],
+     "wrong": [
+      "Dave"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 10,
+     "q": "Clint has won 2 Oscars for directing & in 1995 got this memorial award from the Academy",
+     "a": "the Irving G. Thalberg Memorial Award",
+     "right": [
+      "Ann"
+     ],
+     "wrong": [
+      "Matt"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 30,
+     "q": "In the 1850s Robert E. Lee was a dashing, dark-haired officer; by this year of Gettysburg, his hair was white",
+     "a": "1863",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 15,
+     "q": "Giuseppe Mazzini, Conte di Cavour & this \"Redshirt\" were main figures of the Risorgimento movement",
+     "a": "Giuseppe Garibaldi",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": true,
+     "order": 25,
+     "q": "Just before he left office he signed a bill creating the toxic waste-cleaning \"Superfund\"",
+     "a": "Jimmy Carter",
+     "right": [
+      "Ann"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 5000
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 20,
+     "q": "The most typical of all\n(14)",
+     "a": "quintessential",
+     "right": [
+      "Dave"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "CLASSICAL MUSICIANS",
+  "q": "In 1793, Haydn wrote he will be \"one of Europe's finest composers, & I shall be proud to be called his teacher\"",
+  "a": "Ludwig van Beethoven",
+  "right": [
+   "Dave",
+   "Ann"
+  ],
+  "wrong": [
+   "Matt"
+  ]
+ },
+ "gameId": "2379",
+ "cat_notes": {
+  "J": [
+   "Clues about Easter.",
+   "Clues about Bunny.",
+   "Clues about Loco for Logos.",
+   "Each answer is a rhyming word or phrase.",
+   "Clues about Noms De Plume.",
+   "Those three letters, \"M-A-N\", will appear in the middle of each correct response."
+  ],
+  "DJ": [
+   "Clues about Shakespeare.",
+   "Clues about Clint Eastwood: a Career in Hollywood.",
+   "Clues about My, You've Aged.",
+   "Clues about Viva Italia.",
+   "Clues about I'll Have the Lame Duck.",
+   "Crossword-style clues; each answer starts with “Q”."
+  ],
+  "F": "Clues about Classical Musicians."
+ }
+}

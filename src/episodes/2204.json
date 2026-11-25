@@ -1,0 +1,1002 @@
+{
+ "show": "#5345",
+ "aired": "2007-11-30",
+ "note": "Lisa Klink game 5.",
+ "contestants": [
+  {
+   "name": "Ralph Dellanno",
+   "bio": "a high school theology teacher from Edison, New Jersey",
+   "short": "Ralph"
+  },
+  {
+   "name": "Per Milam",
+   "bio": "a graduate student of philosophy from San Diego, California",
+   "short": "Per"
+  },
+  {
+   "name": "Lisa Klink",
+   "bio": "a TV writer from Los Angeles, California (whose 4-day cash winnings total $53,100)",
+   "short": "Lisa"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Lisa": 4500,
+   "Per": 4000,
+   "Ralph": 4400
+  },
+  "DJ": {
+   "Lisa": 16950,
+   "Per": 8400,
+   "Ralph": 7200
+  },
+  "Final": {
+   "Lisa": 17050,
+   "Per": 4800,
+   "Ralph": 5999
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "STATES OF THE UNION",
+    "BREAKFAST CEREALS",
+    "PUBLIC DOMAIN JUKEBOX",
+    "WHICH U.S. CABINET DEPT.?",
+    "MOVIE KISSES",
+    "HOW ABOUT A LITTLE ROMANCE LANGUAGE?"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 10,
+     "q": "Part of this big state crosses the 180th meridian of longitude",
+     "a": "Alaska",
+     "right": [
+      "Ralph"
+     ],
+     "wrong": [
+      "Per"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "Since 1979 it's been tempting the \"tummy with the taste of nuts & honey\"",
+     "a": "Honey Nut Cheerios",
+     "right": [
+      "Ralph"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 21,
+     "q": "She's the lass in the Stephen Foster ditty heard here",
+     "a": "Jeannie (with the light brown hair)",
+     "right": [
+      "Ralph"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 26,
+     "q": "Federal Motor Carrier Safety Administration",
+     "a": "the Department of Transportation",
+     "right": [
+      "Lisa"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 6,
+     "q": "Tobey Maguire said kissing Kirsten Dunst upside-down in the rain was the hardest thing he's done as this superhero",
+     "a": "Spider-Man",
+     "right": [
+      "Per"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 16,
+     "q": "Around the Vatican you might be able to practice this source language of all Romance languages",
+     "a": "Latin",
+     "right": [
+      "Lisa"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 11,
+     "q": "With a population of about 120,000, Columbia is this state's most populous city",
+     "a": "South Carolina",
+     "right": [
+      "Ralph"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "As its name suggests, this General Mills cereal provides 100% daily value of 12 vitamins & minerals",
+     "a": "Total",
+     "right": [
+      "Per"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 22,
+     "q": "Aye, aye! It's the title of the military anthem heard here",
+     "a": "\"Anchors Aweigh\"",
+     "right": [
+      "Ralph"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "Grain Inspection,\nPackers & Stockyards Administration",
+     "a": "the Department of Agriculture",
+     "right": [],
+     "wrong": [
+      "Per",
+      "Ralph"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 7,
+     "q": "In \"To Have and Have Not\", she kisses Bogart & says, \"It's even better when you help\"",
+     "a": "Lauren Bacall",
+     "right": [
+      "Lisa"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 17,
+     "q": "Of Catalan, Bulgarian or Romanian, the one that is not a Romance language",
+     "a": "Bulgarian",
+     "right": [
+      "Per"
+     ],
+     "wrong": [
+      "Ralph"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 12,
+     "q": "These 2 states have the shortest coasts on the Gulf of Mexico, only about 50 miles apiece",
+     "a": "Alabama & Mississippi",
+     "right": [
+      "Per"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 3,
+     "q": "About a third of all Life cereal sold is of this flavor introduced in 1978",
+     "a": "cinnamon",
+     "right": [
+      "Ralph"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 23,
+     "q": "You might need to join A.A. if you take this song literally",
+     "a": "\"Little Brown Jug\"",
+     "right": [
+      "Ralph"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 28,
+     "q": "U.S. Fish & Wildlife Service",
+     "a": "the Department of the Interior",
+     "right": [
+      "Per"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 8,
+     "q": "A mutt & a cocker spaniel slurp spaghetti & smooch in this 1955 classic",
+     "a": "Lady and the Tramp",
+     "right": [
+      "Lisa"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 18,
+     "q": "It's the most widely spoken Romance language in the world",
+     "a": "Spanish",
+     "right": [
+      "Per"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 13,
+     "q": "This state has the highest average altitude of any state east of the Mississippi; must be pretty \"mountainous\"",
+     "a": "West Virginia",
+     "right": [
+      "Per"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 4,
+     "q": "Introduced in the 1980s, it's the trademark name for a cereal of \"seven whole grains & sesame\" & little puffs",
+     "a": "Kashi",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 24,
+     "q": "Some big gloves might be a nice present for the guy in this song heard here",
+     "a": "\"He's Got The Whole World In His Hands\"",
+     "right": [
+      "Lisa"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "Office of Civilian Radioactive Waste Management",
+     "a": "the Department of Energy",
+     "right": [
+      "Lisa"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 9,
+     "q": "1940s classic film in which the heroine says, \"Kiss me. Kiss me as if it were the last time\"",
+     "a": "Casablanca",
+     "right": [
+      "Ralph"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 19,
+     "q": "Ligurian, Lombard & Piedmontese are all dialects of this Romance language",
+     "a": "Italian",
+     "right": [
+      "Ralph"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 14,
+     "q": "Tears were shed when the Teddy Bear Museum in Naples in this state closed its doors forever in 2005",
+     "a": "Florida",
+     "right": [
+      "Lisa"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 5,
+     "q": "This cereal from Kellogg's is \"crispy rice on one side, crunchy corn on the other\"",
+     "a": "Crispix",
+     "right": [
+      "Lisa"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 25,
+     "q": "They're the dancing title females in the song heard here",
+     "a": "\"Buffalo Gals\"",
+     "right": [
+      "Ralph"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": true,
+     "order": 30,
+     "q": "Government National Mortgage Association",
+     "a": "the Department of Housing and Urban Development (HUD)",
+     "right": [],
+     "wrong": [
+      "Lisa"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 500
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 15,
+     "q": "1981 drama in which Norman Thayer asks wife Ethel, \"Wanna dance or would you rather just suck face?\"",
+     "a": "On Golden Pond",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 20,
+     "q": "Linguists trace Romance languages back to this hyphenated family of languages",
+     "a": "Indo-European",
+     "right": [
+      "Per"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "THE JAPANESE TEA CEREMONY",
+    "MYTHICAL MENAGERIE",
+    "WESTWARD EXPANSION OF THE U.S.",
+    "HOSPITALS",
+    "BESTSELLERS OF THE DECADE",
+    "\"G\" WHIZ"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 3,
+     "q": "(Cheryl of the Clue Crew delivers the clue from Kyoto, Japan.) Among the many utensils used in the ceremony are the chashaku, or scoop, & a chasen, or wisk, made from a single piece of this",
+     "a": "bamboo",
+     "right": [
+      "Per"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "Nessus, one of these half-horse creatures, tried to abduct Hercules' wife; big mistake",
+     "a": "a Centaur",
+     "right": [
+      "Lisa"
+     ],
+     "wrong": [
+      "Per"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 23,
+     "q": "It created an all-water link from NYC to the Great Lakes & opened up the settlement of the Great Lakes area",
+     "a": "the Erie Canal",
+     "right": [
+      "Per"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 17,
+     "q": "Of U.S. News & Word Report's 5 top U.S. hospitals in pediatrics, 4 include these 2 words in their names",
+     "a": "Children's Hospital",
+     "right": [],
+     "wrong": [
+      "Per"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 12,
+     "q": "\"Jaws\" &\n\"Jonathan Livingston Seagull\"",
+     "a": "the 1970s",
+     "right": [
+      "Ralph"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 7,
+     "q": "Battles between these fighters in the Roman Colosseum were stopped in 404 A.D.",
+     "a": "the gladiators",
+     "right": [
+      "Ralph"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 19,
+     "q": "(Jimmy of the Clue Crew delivers the clue from Kyoto, Japan.) Crawling or crouching through the door to enter the room signifies kenson, Japanese for this 8-letter opposite of pride",
+     "a": "humility",
+     "right": [
+      "Lisa"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 2,
+     "q": "Every 500 years or so, this bird was reborn from its own ashes",
+     "a": "the Phoenix",
+     "right": [
+      "Ralph"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 24,
+     "q": "On May 10, 1869 telegraph operators in Utah signaled the nation that this had been completed",
+     "a": "the Transcontinental Railway",
+     "right": [
+      "Per"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 18,
+     "q": "There's a stroke center at Boswell Hospital in this Arizona retirement city",
+     "a": "Sun City",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 13,
+     "q": "\"Red Storm Rising\"\n& \"The Prince of Tides\"",
+     "a": "the 1980s",
+     "right": [
+      "Ralph"
+     ],
+     "wrong": [
+      "Per"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 8,
+     "q": "Bartenders use it to make an orange blossom",
+     "a": "gin",
+     "right": [
+      "Ralph"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 20,
+     "q": "(Cheryl of the Clue Crew delivers the clue from Kyoto, Japan.) Like the altar of a Zen chapel which inspired it, the tokonoma, a decorated alcove, faces this direction, thought lucky due to its exposure to sunlight",
+     "a": "south",
+     "right": [],
+     "wrong": [
+      "Per",
+      "Ralph"
+     ],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 4,
+     "q": "The Nemean Lion was the sibling of this monster who liked to riddle people with her own riddle before eating them",
+     "a": "the Sphinx",
+     "right": [
+      "Per"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 25,
+     "q": "This 1862 act gave 160 acres of free land to anyone who had lived on it & improved it for 5 years",
+     "a": "the Homestead Act",
+     "right": [
+      "Lisa"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 28,
+     "q": "An L.A. \"home for the incurables\" named for this holy mountain later merged with Cedars of Lebanon",
+     "a": "Mount Sinai",
+     "right": [
+      "Per"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 14,
+     "q": "\"The Agony and the Ecstasy\" &\n\"You Only Live Twice\"",
+     "a": "the 1960s",
+     "right": [
+      "Lisa"
+     ],
+     "wrong": [
+      "Ralph"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 9,
+     "q": "These large masses of slow-moving ice occur where winter snowfall exceeds summer melt",
+     "a": "glaciers",
+     "right": [
+      "Lisa"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 21,
+     "q": "(Cheryl of the Clue Crew delivers the clue from Kyoto, Japan.) Many elements of the ceremony like the fire & water, the open tea bowl & the closed tea caddy, represent these two complementary forces of nature borrowed from the Chinese",
+     "a": "yin & yang",
+     "right": [
+      "Lisa"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 5,
+     "q": "It wasn't hard for this Lernaean serpent to get ahead; every time one of its heads was cut off, 2 grew in its place",
+     "a": "the Hydra",
+     "right": [
+      "Per"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 26,
+     "q": "In the 1846 Oregon Treaty, the British gave up claims to all territory below the 49th parallel except this large island",
+     "a": "Vancouver Island",
+     "right": [
+      "Lisa"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2000
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 30,
+     "q": "London's HTD, Hospital for these Diseases, has a consultant parasitologist & leprologist",
+     "a": "tropical diseases",
+     "right": [
+      "Lisa"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 50
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 15,
+     "q": "\"Forever Amber\" &\n\"The Naked and the Dead\"",
+     "a": "the 1940s",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 10,
+     "q": "Rich in phosphates, this waste matter left by bats & seabirds can be a valuable commodity",
+     "a": "guano",
+     "right": [
+      "Per"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 22,
+     "q": "(Jimmy of the Clue Crew delivers the clue from Kyoto, Japan.) Once, sitting on these mats could signify one's noble stature; today, everyone sits on them for the tea ceremony",
+     "a": "tatami",
+     "right": [
+      "Per"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 6,
+     "q": "She was a beautiful nymph before she was turned into a sea monster, doomed to live in a cave opposite Charybdis",
+     "a": "Scylla",
+     "right": [
+      "Lisa"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 27,
+     "q": "This 1853 deal that brought the U.S. chunks of New Mexico & Arizona is known in Mexico as the sale of La Mesilla",
+     "a": "the Gadsden Purchase",
+     "right": [
+      "Ralph"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 29,
+     "q": "Seen here is this fittingly named Paris complex founded as a veterans' hospital by Louis XIV",
+     "a": "Les Invalides (or Hôtel des Invalides)",
+     "right": [
+      "Lisa"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 16,
+     "q": "\"Arrowsmith\" &\n\"The Age of Innocence\"",
+     "a": "the 1920s",
+     "right": [],
+     "wrong": [
+      "Per"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 11,
+     "q": "In construction, it's a horizontal load-bearing structural member",
+     "a": "a girder",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "WORD HISTORY",
+  "q": "This term for a deadly substance may derive from the name of a love goddess",
+  "a": "venom",
+  "right": [
+   "Lisa"
+  ],
+  "wrong": [
+   "Ralph",
+   "Per"
+  ]
+ },
+ "gameId": "2204",
+ "cat_notes": {
+  "J": [
+   "Clues about States of the Union.",
+   "Clues about Breakfast Cereals.",
+   "Clues about Public Domain Jukebox.",
+   "The category “WHICH U.S. CABINET DEPT.?” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "Clues about Movie Kisses.",
+   "The category “HOW ABOUT A LITTLE ROMANCE LANGUAGE?” sets the theme — the clues follow that idea and any wordplay suggested by the title."
+  ],
+  "DJ": [
+   "Clues about The Japanese Tea Ceremony.",
+   "Clues about Mythical Menagerie.",
+   "Clues about Westward Expansion of the U.S..",
+   "Clues about Hospitals.",
+   "You name the decade for us.",
+   "Each answer contains the letter “G”."
+  ],
+  "F": "Clues about Word History."
+ }
+}

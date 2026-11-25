@@ -1,0 +1,995 @@
+{
+ "show": "#5509",
+ "aired": "2008-07-17",
+ "note": "",
+ "contestants": [
+  {
+   "name": "Rory Gillingham",
+   "bio": "an administrative assistant from Sacramento, California",
+   "short": "Rory"
+  },
+  {
+   "name": "Daria Labinsky",
+   "bio": "a librarian from Corrales, New Mexico",
+   "short": "Daria"
+  },
+  {
+   "name": "Caitlin Dudek",
+   "bio": "an environmental consultant from Arlington, Virginia (whose 1-day cash winnings total $27,399)",
+   "short": "Caitlin"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Caitlin": 3400,
+   "Daria": 6200,
+   "Rory": 7200
+  },
+  "DJ": {
+   "Caitlin": 6100,
+   "Daria": 22400,
+   "Rory": 7600
+  },
+  "Final": {
+   "Caitlin": 100,
+   "Daria": 22100,
+   "Rory": 0
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "NEBRASKA: THE GOOD LIFE",
+    "ONE-WORD BEST PICTURE OSCAR WINNERS",
+    "A CATEGORY FULL OF HOLES",
+    "THROUGH THE LOOKING-GLASS",
+    "COOKING",
+    "SPELLING \"B\""
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 12,
+     "q": "Rub shoulders with Nebraska state legislators at Billy's restaurant on H Street in this capital",
+     "a": "Lincoln",
+     "right": [
+      "Daria"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 7,
+     "q": "A controversial U.S. general",
+     "a": "Patton",
+     "right": [
+      "Rory"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 6,
+     "q": "A par 3 golf course often has this many holes, half as many as a regular course",
+     "a": "9",
+     "right": [
+      "Rory"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 26,
+     "q": "Alice finally decides that her journey through the looking-glass was one of these but doesn't know whose it was",
+     "a": "a dream",
+     "right": [
+      "Rory"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "Butterball advises putting the thermometer in this part of the turkey that provides dark meat",
+     "a": "the thigh",
+     "right": [
+      "Caitlin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 17,
+     "q": "Acute or chronic inflammation of the membrane lining the lungs",
+     "a": "B-R-O-N-C-H-I-T-I-S",
+     "right": [
+      "Caitlin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 13,
+     "q": "In 1927 Edwin Perkins of Hastings, Nebraska invented this powdered soft drink",
+     "a": "Kool-Aid",
+     "right": [
+      "Rory"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 8,
+     "q": "A Hindu leader",
+     "a": "Gandhi",
+     "right": [
+      "Daria"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 18,
+     "q": "In case of rain when camping, always keep one of these South American cloaks with a hole in it ready for wear",
+     "a": "a poncho",
+     "right": [
+      "Caitlin"
+     ],
+     "wrong": [
+      "Daria"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "These 2 brothers have \"Dum\" & \"Dee\" embroidered on their collars",
+     "a": "Tweedledum & Tweedledee",
+     "right": [
+      "Rory"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "From the Latin for \"flat wood\", it's one of a fry cook's tools",
+     "a": "a spatula",
+     "right": [
+      "Daria"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 22,
+     "q": "This country borders the Congo, Tanzania & of course, Rwanda",
+     "a": "B-U-R-U-N-D-I",
+     "right": [
+      "Daria"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 14,
+     "q": "Visit this area of rolling dunes, or check out the migration of the cranes also called these",
+     "a": "sandhills",
+     "right": [
+      "Daria"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 9,
+     "q": "Collision",
+     "a": "Crash",
+     "right": [
+      "Rory"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 19,
+     "q": "The nearby Andromeda Galaxy has a supermassive one of these at its center",
+     "a": "a black hole",
+     "right": [
+      "Rory"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 28,
+     "q": "An egg that Alice buys grows larger & larger & eventually becomes this wall-sitter",
+     "a": "Humpty Dumpty",
+     "right": [
+      "Daria"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 3,
+     "q": "Hungarian goulash recipes measure salt & pepper in teaspoons or tablespoons, but this spice in cups",
+     "a": "paprika",
+     "right": [
+      "Rory"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 23,
+     "q": "Acute form of food poisoning that once claimed as many as 65% of its victims",
+     "a": "B-O-T-U-L-I-S-M",
+     "right": [
+      "Caitlin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 15,
+     "q": "Born in 1913, this 38th U.S. president was the only chief executive whose life began in Nebraska",
+     "a": "Ford",
+     "right": [
+      "Daria"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 10,
+     "q": "An historic Scotsman's nickname",
+     "a": "Braveheart",
+     "right": [
+      "Rory"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 20,
+     "q": "Until these holes on postage stamps were introduced in the 1850s, stamps had to be cut by hand",
+     "a": "perforations",
+     "right": [
+      "Daria"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "\"All mimsy were the borogoves\" in this poem whose first & last stanzas are exactly the same",
+     "a": "\"Jabberwocky\"",
+     "right": [
+      "Daria"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 4,
+     "q": "Craig Claiborne's recipe for this French soup reminds you to chill thoroughly & pronounce the final \"S\"",
+     "a": "vichyssoise",
+     "right": [
+      "Daria"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 24,
+     "q": "Istanbul was once Constantinople & before that, this city founded by the Greeks",
+     "a": "B-Y-Z-A-N-T-I-U-M",
+     "right": [
+      "Daria"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 16,
+     "q": "It's not such a good life in this \"corny\" tale that Stephen King set in Nebraska, not Maine",
+     "a": "Children of the Corn",
+     "right": [
+      "Daria"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": true,
+     "order": 11,
+     "q": "A middle name in Latin",
+     "a": "Amadeus",
+     "right": [
+      "Rory"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1200
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 21,
+     "q": "This \"Hoosier Poet\" recalled \"long, lazy... happy days of yore\" in his poem \"The Old Swimmin' Hole\"",
+     "a": "James Whitcomb Riley",
+     "right": [
+      "Rory"
+     ],
+     "wrong": [
+      "Daria"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 30,
+     "q": "This \"colorful\" royal advises Alice to \"Look up, speak nicely, and don't twiddle your fingers all the time\"",
+     "a": "the Red Queen",
+     "right": [
+      "Caitlin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 5,
+     "q": "Also sometimes done to harbors, it means to coat food with a dry ingredient like flour",
+     "a": "dredge",
+     "right": [
+      "Caitlin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 25,
+     "q": "A Marxist adjective for the middle class",
+     "a": "B-O-U-R-G-E-O-I-S",
+     "right": [
+      "Rory"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "EUROPEAN HISTORY",
+    "FROM THE GREEK",
+    "POETIC BIRDS",
+    "BELOVED BOSTON CELTICS",
+    "\"M.L.\"",
+    "CAR"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 16,
+     "q": "From 1346 to 1561, the Teutonic Knights ruled Latvia & this northern neighbor as the Medieval state of Livonia",
+     "a": "Estonia",
+     "right": [
+      "Daria"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 21,
+     "q": "It's a list of source materials used in the preparation of a work, like a term paper",
+     "a": "a bibliography",
+     "right": [
+      "Daria"
+     ],
+     "wrong": [
+      "Rory"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "Coleridge:\n\"The ___ did follow,/ And every day for food or play,/ Came to the mariners' hollo!\"",
+     "a": "albatross",
+     "right": [
+      "Caitlin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 3,
+     "q": "Just part of his resume: College Player of the Year, NBA Rookie of the Year, 9-time All-NBA First Team, 3 straight MVPs",
+     "a": "Larry Bird",
+     "right": [
+      "Rory"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 5,
+     "q": "In 1521 an imperial diet at Worms declared him an outlaw",
+     "a": "Martin Luther",
+     "right": [
+      "Rory"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 26,
+     "q": "The Lexus LS-460 has an 8-speed one",
+     "a": "a transmission",
+     "right": [],
+     "wrong": [
+      "Daria"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 17,
+     "q": "The British captured this narrow peninsula in 1704; Spain has coveted it ever since",
+     "a": "Gibraltar",
+     "right": [
+      "Daria"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": true,
+     "order": 22,
+     "q": "The punctuation mark is from the Greek for \"limb\"; the organ is from the Greek for \"large intestine\"",
+     "a": "a colon",
+     "right": [
+      "Daria"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 5000
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 2,
+     "q": "Keats' \"Ode to ___\":\n\"Thou wast not born for death, immortal bird!\"",
+     "a": "a nightingale",
+     "right": [
+      "Daria"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 4,
+     "q": "This \"colorful\" coaching legend led Boston to 8 NBA crowns in a row from 1959 to 1966",
+     "a": "Red Auerbach",
+     "right": [
+      "Daria"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 9,
+     "q": "Before he went exploring, he was Thomas Jefferson's private secretary",
+     "a": "Meriwether Lewis",
+     "right": [
+      "Daria"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 27,
+     "q": "Daytime running these are mandatory in Canada",
+     "a": "lights",
+     "right": [
+      "Daria"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 18,
+     "q": "In 1241 Hamburg & Lubeck businessmen formed an association that grew into this big league",
+     "a": "the Hanseatic League",
+     "right": [
+      "Daria"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 23,
+     "q": "This arch that separates the stage from the auditorium is from the Greek for \"before the stage\"",
+     "a": "the proscenium",
+     "right": [
+      "Daria"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 13,
+     "q": "Wallace Stevens (I of XIII):\n\"Among twenty snowy mountains/ The only moving thing/ Was the eye of a ___\"",
+     "a": "blackbird",
+     "right": [],
+     "wrong": [
+      "Rory"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 6,
+     "q": "Before joining the Celts in 2007, this \"K.G.\" veteran got 120 out of 123 first-place MVP votes for the 2003-04 season",
+     "a": "Kevin Garnett",
+     "right": [
+      "Rory"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 10,
+     "q": "By 1918 this Russian-born mob mastermind was running a floating crap game with Bugsy Siegel",
+     "a": "Meyer Lansky",
+     "right": [
+      "Daria"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 28,
+     "q": "Pronounced as 2 syllables, this word for a zippy 2-door car is French for \"cut\"",
+     "a": "coupé",
+     "right": [
+      "Caitlin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 19,
+     "q": "When this \"dark\" knight sacked Limoges, France in 1370, he killed more than 3,000 citizens",
+     "a": "the Black Prince",
+     "right": [
+      "Daria"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 24,
+     "q": "This term for 2 dissimilar organisms living together in mutualism comes from the Greek for \"with\" & \"life\"",
+     "a": "symbiosis",
+     "right": [
+      "Caitlin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 14,
+     "q": "Whitman:\n\"Out of the cradle endlessly rocking/ Out of the ___'s throat, the musical shuttle\"",
+     "a": "mockingbird",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 7,
+     "q": "Before winning 2 NBA titles playing for the Celtics, M.L. Carr played in the ABA for the Spirits of this city",
+     "a": "St. Louis",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 11,
+     "q": "(Sarah of the Clue Crew relaxes with a drink at Tavern on the Green in New York.) I'm having a cocktail called Cherry Oz at Tavern on the Green; the restaurant is run by Jennifer LeRoy, granddaughter of this producer of \"The Wizard of Oz\"",
+     "a": "Mervyn LeRoy",
+     "right": [
+      "Daria"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 29,
+     "q": "In cars, it governs air flow to the carburetor; in a shotgun, it controls the amount of spread of the shot",
+     "a": "the choke",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 20,
+     "q": "As prince & king, Carol I ruled this Eastern European nation from 1866 to 1914",
+     "a": "Romania",
+     "right": [],
+     "wrong": [
+      "Rory"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 25,
+     "q": "This math term for a restricting factor comes from Greek words for \"beside\" & \"measure\"",
+     "a": "parameter",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": true,
+     "order": 15,
+     "q": "Shakespeare: \"Love and constancy is dead;/___ and the turtle fled/ In a mutual flame from hence\"",
+     "a": "Phoenix",
+     "right": [],
+     "wrong": [
+      "Caitlin"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2500
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 8,
+     "q": "He's the Hall of Fame Celtic seen here without his navy",
+     "a": "(Kevin) McHale",
+     "right": [
+      "Rory"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 12,
+     "q": "In 1948 she discovered the skull of Proconsul africanus",
+     "a": "Mary Leakey",
+     "right": [
+      "Caitlin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 30,
+     "q": "Air bags work by heating sodium azide, NaN3, to produce this gaseous element that fills the bag",
+     "a": "nitrogen",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "1970s HITS",
+  "q": "In 1970 2 performers reached the Top 20 with this hit whose 6-word title was inspired by Boys Town",
+  "a": "\"He Ain't Heavy, He's My Brother\"",
+  "right": [],
+  "wrong": [
+   "Caitlin",
+   "Rory",
+   "Daria"
+  ]
+ },
+ "gameId": "2565",
+ "cat_notes": {
+  "J": [
+   "Clues about Nebraska: the Good Life.",
+   "Clues about One-word Best Picture OSCAR Winners.",
+   "Clues about A Category Full of Holes.",
+   "Clues about Through the Looking-glass.",
+   "Clues about Cooking.",
+   "Each correct response will begin with the letter B, and you have to spell the correct response."
+  ],
+  "DJ": [
+   "Clues about European History.",
+   "Clues from the Greek.",
+   "Clues about Poetic Birds.",
+   "Clues about Beloved Boston Celtics.",
+   "Each answer is formed from the initials M.L.",
+   "Clues about Car."
+  ],
+  "F": "Clues about 1970s Hits."
+ }
+}

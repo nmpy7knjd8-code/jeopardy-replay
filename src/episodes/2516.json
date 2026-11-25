@@ -1,0 +1,998 @@
+{
+ "show": "#5488",
+ "aired": "2008-06-18",
+ "note": "Dave Simpson game 3.",
+ "contestants": [
+  {
+   "name": "Jules Staniewicz",
+   "bio": "an investment manager from Boca Raton, Florida",
+   "short": "Jules"
+  },
+  {
+   "name": "Lucy Anne McKosky",
+   "bio": "a retired educator from Dayton, Ohio",
+   "short": "Lucy Anne"
+  },
+  {
+   "name": "Dave Simpson",
+   "bio": "a pastor from Belcamp, Maryland (whose 2-day cash winnings total $53,201)",
+   "short": "Dave"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Dave": 7400,
+   "Lucy Anne": 1800,
+   "Jules": 4800
+  },
+  "DJ": {
+   "Dave": 15000,
+   "Lucy Anne": 11800,
+   "Jules": 8400
+  },
+  "Final": {
+   "Dave": 23601,
+   "Lucy Anne": 5800,
+   "Jules": 16800
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "MAKES SENSE",
+    "TENNIS",
+    "EDIBLE COMMON BONDS",
+    "HOUSES OF THE HOLY",
+    "LEAD",
+    "ZEPPELIN"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 3,
+     "q": "In 2008 a homeless advocacy group reported that one in 25 of this Southern city's 300,000 residents is homeless",
+     "a": "New Orleans",
+     "right": [
+      "Dave"
+     ],
+     "wrong": [
+      "Jules"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "This American woman was the first to win 20 Wimbledon titles",
+     "a": "Billie Jean King",
+     "right": [
+      "Dave"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 11,
+     "q": "Irish,\nBrunswick,\nmulligan",
+     "a": "stew",
+     "right": [
+      "Jules"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 14,
+     "q": "Westminster Abbey",
+     "a": "London",
+     "right": [
+      "Dave"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 26,
+     "q": "\"To eat lead\" in old gangster slang meant to be exposed to these coming your way",
+     "a": "bullets",
+     "right": [
+      "Jules"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 6,
+     "q": "Zeppelins were named for Count Ferdinand von Zeppelin of this country",
+     "a": "Germany",
+     "right": [
+      "Dave"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 7,
+     "q": "Given cause of death of Adam Sandler's dad in \"The Waterboy\"",
+     "a": "dehydration",
+     "right": [],
+     "wrong": [
+      "Dave"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "This Bruin won the 1971 NCAA men's tennis title & later became professional tennis' all-time tournament winner",
+     "a": "Jimmy Connors",
+     "right": [
+      "Lucy Anne"
+     ],
+     "wrong": [
+      "Dave"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 12,
+     "q": "Crescent,\nkaiser,\nParker House",
+     "a": "rolls",
+     "right": [
+      "Dave"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 15,
+     "q": "The Mormon Tabernacle",
+     "a": "Salt Lake City",
+     "right": [
+      "Dave"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "This country is the world's main user of lead & the main recycler",
+     "a": "the United States",
+     "right": [
+      "Dave"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 20,
+     "q": "The first military use of Zeppelins came during this war",
+     "a": "World War I",
+     "right": [
+      "Dave"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 8,
+     "q": "Appropriately, Amy Freeze was this age when she became a meteorologist for WFLD in January 2007",
+     "a": "32",
+     "right": [
+      "Dave"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 4,
+     "q": "Arthur Ashe called this 1960s Aussie tennis star's left arm \"a two-by-four with freckles\"",
+     "a": "Rod Laver",
+     "right": [
+      "Jules"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 19,
+     "q": "Brown,\nbeurre-blanc,\nbordelaise",
+     "a": "sauces",
+     "right": [
+      "Dave"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 16,
+     "q": "The Dome of the Rock",
+     "a": "Jerusalem",
+     "right": [
+      "Lucy Anne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 28,
+     "q": "Lead ores such as galena are also the main mining sources of this precious metal often found with it",
+     "a": "silver",
+     "right": [
+      "Jules"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 21,
+     "q": "In 1924 this U.S. company acquired all the Zeppelin patents",
+     "a": "Goodyear",
+     "right": [
+      "Jules"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": true,
+     "order": 9,
+     "q": "In Spanish, this bird is un pajaro carpintero",
+     "a": "a woodpecker",
+     "right": [
+      "Dave"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1000
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 5,
+     "q": "Born in Buenos Aires in 1970, she became a tennis pro at age 14",
+     "a": "Gabriela Sabatini",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 23,
+     "q": "Blood,\nbockwurst,\nchorizo",
+     "a": "sausages",
+     "right": [
+      "Dave"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 17,
+     "q": "The Cathedral of St. John the Divine",
+     "a": "New York City",
+     "right": [
+      "Lucy Anne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "Whether in a hearing aid or a hot rod, most lead is used in these",
+     "a": "batteries",
+     "right": [
+      "Dave"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 22,
+     "q": "This high-flying dirigible made the first airship flight around the world in 1929",
+     "a": "the Graf Zeppelin",
+     "right": [
+      "Jules"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 10,
+     "q": "Isaac Asimov coined the word \"millihelen\" as the quantity of beauty it would take to do this",
+     "a": "launch one ship",
+     "right": [
+      "Jules"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 13,
+     "q": "This Californian gave birth in June 2007 & returned to the pro tour that fall",
+     "a": "Lindsay Davenport",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 25,
+     "q": "Button,\nenoki,\nchanterelle",
+     "a": "mushrooms",
+     "right": [
+      "Dave"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 18,
+     "q": "Brunelleschi's Duomo of the 1420s & '30s",
+     "a": "Florence",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 30,
+     "q": "The \"lead\" used in pencils is actually this form of carbon once thought to be a type of lead",
+     "a": "graphite",
+     "right": [
+      "Jules"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 24,
+     "q": "These 2 lighter-than air gases that lift the Zeppelin are carried in balloons called cells",
+     "a": "hydrogen & helium",
+     "right": [
+      "Dave"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "LITERATURE",
+    "EUROPEAN GEOGRAPHY",
+    "2007 NEWS",
+    "GONE VISION",
+    "WE HAVE MET THE ANIME",
+    "THEY ARE \"US\""
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 6,
+     "q": "The full title of this Spanish novel includes \"de la Mancha, El Ingenioso Hidalgo\"",
+     "a": "Don Quixote",
+     "right": [
+      "Jules"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "The Marne joins this river at Charenton-le-Pont, a suburb of Paris",
+     "a": "the Seine",
+     "right": [
+      "Jules"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 10,
+     "q": "In November, scientists said they'd found a way to reprogram skin cells to behave like these embryonic cells",
+     "a": "stem cells",
+     "right": [
+      "Dave"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 16,
+     "q": "In a 1978 hit, Foreigner had this malady, AKA diplopia",
+     "a": "\"Double Vision\"",
+     "right": [
+      "Dave"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 26,
+     "q": "This anime show didn't start on TV; its characters were first part of Nintendo's \"Pocket Monsters\"",
+     "a": "Pokémon",
+     "right": [
+      "Dave"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 21,
+     "q": "Protruding elephant tooth",
+     "a": "tusks",
+     "right": [
+      "Jules"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 7,
+     "q": "Bernard Binlin Dadie's novel \"Climbie\" depicts this \"Ivorian\" country, his homeland, during colonial times",
+     "a": "Côte d'Ivoire (or the Ivory Coast)",
+     "right": [
+      "Lucy Anne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 2,
+     "q": "Nordkapp on this country's Mageroya Island is one of Europe's most northerly points",
+     "a": "Norway",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 11,
+     "q": "(Sarah of the Clue Crew reports from Machu Picchu.) The Peruvian government has reached an agreement with this Ivy League university for the return of artifacts taken from Machu Picchu in the early 1900s",
+     "a": "Yale",
+     "right": [
+      "Lucy Anne"
+     ],
+     "wrong": [
+      "Dave"
+     ],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 17,
+     "q": "\"The Vision of Adamnán\" is one of the oldest prose works of this Atlantic island nation",
+     "a": "Ireland",
+     "right": [],
+     "wrong": [
+      "Lucy Anne"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 27,
+     "q": "This classic 5-letter anime film isn't named for director Kurosawa but rather a boy who destroys Tokyo",
+     "a": "Akira",
+     "right": [],
+     "wrong": [
+      "Dave"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 25,
+     "q": "The 2 planets in our solar system that fit the category",
+     "a": "Venus & Uranus",
+     "right": [
+      "Dave"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 8,
+     "q": "New Zealand-born Dame Ngaio Marsh became famous for her work in this field of fiction",
+     "a": "mystery writing",
+     "right": [
+      "Lucy Anne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 3,
+     "q": "For its location on the peninsula, the Calabria region is often called this anatomical term \"of Italy\"",
+     "a": "the toe",
+     "right": [
+      "Lucy Anne"
+     ],
+     "wrong": [
+      "Jules"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 13,
+     "q": "Edited by his son Christopher, \"The Children of Hurin\" is a tale of Middle-earth's First Age by this man",
+     "a": "J.R.R. Tolkien",
+     "right": [
+      "Lucy Anne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 18,
+     "q": "From the French for \"clearsighted\", this ability is also known as second sight",
+     "a": "clairvoyance",
+     "right": [
+      "Dave"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 28,
+     "q": "In this anime TV series, Bumblebee turned into a VW Beetle; in the 2007 live-action movie, he got upgraded to a Camaro",
+     "a": "Transformers",
+     "right": [
+      "Dave"
+     ],
+     "wrong": [
+      "Lucy Anne"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 24,
+     "q": "In court, an objection may be overruled or this",
+     "a": "sustained",
+     "right": [
+      "Dave"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 9,
+     "q": "His essay \"Civil Disobedience\" was delivered as a lecture & printed as \"Resistance to Civil Government\"",
+     "a": "(Henry David) Thoreau",
+     "right": [
+      "Jules"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 4,
+     "q": "In Spain this second-largest city is a major port on the Mediterranean Sea",
+     "a": "Barcelona",
+     "right": [
+      "Lucy Anne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 14,
+     "q": "In Sept. 2007 Apple reduced the price of the 8GB this to $399, down from $599",
+     "a": "the iPhone",
+     "right": [
+      "Lucy Anne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2000
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 19,
+     "q": "In an 1823 poem, \"The children were nestled all snug in their beds while\" these \"danced in their heads\"",
+     "a": "visions of sugar plums",
+     "right": [
+      "Lucy Anne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 29,
+     "q": "This \"lunar\" Naoko Takeuchi creation is an example of a \"magical girl\" given powers to save the world",
+     "a": "Sailor Moon",
+     "right": [
+      "Dave"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 23,
+     "q": "Frederick the Great was its king in the 1700s",
+     "a": "Prussia",
+     "right": [
+      "Lucy Anne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 12,
+     "q": "Some have described his \"Eugene Onegin\" as the first great Russian novel, although it was written in verse",
+     "a": "Pushkin",
+     "right": [
+      "Dave"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 5,
+     "q": "Germany's tallest peak, Zugspitze, lies in these Alps",
+     "a": "the Bavarian Alps",
+     "right": [
+      "Lucy Anne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 15,
+     "q": "This American general assumed command of the multinational force in Iraq on Feb. 10, 2007",
+     "a": "Petraeus",
+     "right": [
+      "Jules"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": true,
+     "order": 20,
+     "q": "Also the title of a 1985 movie, this Native American rite of passage or of spiritual renewal often includes fasting",
+     "a": "vision quest",
+     "right": [],
+     "wrong": [
+      "Lucy Anne"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2000
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 30,
+     "q": "One of the highest-grossing films in Japanese history is the anime film about this title 14th c. princess",
+     "a": "Princess Mononoke",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 22,
+     "q": "Persian prophet of the 6th century B.C.",
+     "a": "Zarathustra",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "THE ACADEMY AWARDS",
+  "q": "In 1981 he received an honorary Oscar for his body of work; a year later, he won an acting Oscar for his final film",
+  "a": "Henry Fonda",
+  "right": [
+   "Jules",
+   "Dave"
+  ],
+  "wrong": [
+   "Lucy Anne"
+  ]
+ },
+ "gameId": "2516",
+ "cat_notes": {
+  "J": [
+   "Clues about Makes Sense.",
+   "Clues about Tennis.",
+   "Clues about Edible Common Bonds.",
+   "You tell us in which city the house is situated.",
+   "Clues about Lead.",
+   "Clues about Zeppelin."
+  ],
+  "DJ": [
+   "Clues about Literature.",
+   "Clues about European Geography.",
+   "Clues about 2007 News.",
+   "Clues about Gone Vision.",
+   "The category “WE HAVE MET THE ANIME” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "Each answer contains the letter group “US”."
+  ],
+  "F": "Clues about The Academy Awards."
+ }
+}

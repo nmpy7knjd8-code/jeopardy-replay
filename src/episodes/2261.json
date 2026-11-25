@@ -1,0 +1,993 @@
+{
+ "show": "#5366",
+ "aired": "2007-12-31",
+ "note": "Dan Pawson game 3.",
+ "contestants": [
+  {
+   "name": "Leslie \"Lefty\" Scott",
+   "bio": "a senior word processing typist originally from Smithfield, Rhode Island",
+   "short": "Leslie"
+  },
+  {
+   "name": "Heather Doyle",
+   "bio": "a high school English teacher from St. Louis, Missouri (whose 1-day cash winnings total $26,800)",
+   "short": "Heather"
+  },
+  {
+   "name": "Dan Pawson",
+   "bio": "a legislative aide from Boston, Massachusetts (whose 2-day cash winnings total $36,500)",
+   "short": "Dan"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Dan": 4800,
+   "Heather": 3400,
+   "Leslie": 5000
+  },
+  "DJ": {
+   "Dan": 14900,
+   "Heather": 13000,
+   "Leslie": 12600
+  },
+  "Final": {
+   "Dan": 26000,
+   "Heather": 13399,
+   "Leslie": 22600
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "\"X\" IN THE CITY",
+    "CELEBRITY AKA",
+    "THE INTERNET",
+    "ANIMALS",
+    "MY DREAM HOUSE",
+    "5-LETTER WORDS"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 15,
+     "q": "It's the capital of Nova Scotia",
+     "a": "Halifax",
+     "right": [
+      "Dan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 7,
+     "q": "It's the real last name of Nicolas Cage--& of his famous uncle",
+     "a": "Coppola",
+     "right": [
+      "Dan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "Use your digital jukebox software to connect to this No. 1 online music store",
+     "a": "iTunes",
+     "right": [
+      "Dan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 20,
+     "q": "One in every 6 known bird species makes its home in this rainforest",
+     "a": "the Amazon",
+     "right": [
+      "Heather"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 26,
+     "q": "In this style of pre-Revolutionary Americans, I like the Southern version with brick exterior & side chimneys",
+     "a": "Colonial",
+     "right": [
+      "Leslie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 6,
+     "q": "You probably made your first entrance through this \"canal\"",
+     "a": "the birth canal",
+     "right": [
+      "Heather"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 16,
+     "q": "For over 75 years, a shrimp festival & blessing of the fleet have kicked off shrimping season in this Mississippi city",
+     "a": "Biloxi",
+     "right": [
+      "Leslie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 10,
+     "q": "Destiny Hope Cyrus, Billy Ray's kid & star of TV's \"Hannah Montana\", now goes by this first name",
+     "a": "Miley",
+     "right": [
+      "Heather"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "Names for this keyboard symbol include \"cat's tail\" in Finnish & \"Strudel\" in Hebrew",
+     "a": "the @ sign",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 22,
+     "q": "Sputniks 5, 6, 9 & 10 also carried these animals into space, & most were recovered alive",
+     "a": "dogs",
+     "right": [
+      "Leslie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "I'll entertain royally with a house in this style named for a 19th c. queen, with its welcoming front porch",
+     "a": "Victorian",
+     "right": [
+      "Heather"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 8,
+     "q": "A command to your pooch to retrieve something",
+     "a": "fetch",
+     "right": [
+      "Dan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 17,
+     "q": "Famous for temple ruins, this city on the site of Thebes has been called \"The World's Greatest Open-Air Museum\"",
+     "a": "Luxor",
+     "right": [
+      "Leslie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 11,
+     "q": "Yes Sir, his real name is Reginald Dwight",
+     "a": "Elton John",
+     "right": [
+      "Heather"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 3,
+     "q": "Ordinary analog phone lines that deliver a low-cost broadband data connection use this 3-letter technology",
+     "a": "DSL",
+     "right": [
+      "Dan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 23,
+     "q": "Got one of these odorous animals also known as a polecat as a pet? Call your humane society to make sure it's legal",
+     "a": "a skunk",
+     "right": [
+      "Dan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 28,
+     "q": "This is it: the classic L shape & low-pitched gable roof of this house named for a Western dwelling",
+     "a": "a ranch house",
+     "right": [
+      "Leslie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 9,
+     "q": "You have one of these, aka a heartbeat, I assume",
+     "a": "pulse",
+     "right": [
+      "Heather"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": true,
+     "order": 18,
+     "q": "Averages for this U.S. city are 7.66 inches of rain, a daily high temperature of 85, & 325 sunny days per year",
+     "a": "Phoenix",
+     "right": [
+      "Leslie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1000
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 12,
+     "q": "The movies' original \"Alfie\", he was originally named Maurice Micklewhite",
+     "a": "Michael Caine",
+     "right": [
+      "Dan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 4,
+     "q": "This 4-letter certification is given for equipment that uses the IEEE 802.11 standard",
+     "a": "Wi-Fi",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 24,
+     "q": "Critters of the Pleistocene epoch include the mammoth & this \"breast tooth\" relative",
+     "a": "mastodon",
+     "right": [
+      "Dan"
+     ],
+     "wrong": [
+      "Leslie"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "Why hold back--tower, stone, ornamentation, I want a home in the style of one of these French mansions",
+     "a": "a château",
+     "right": [
+      "Leslie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 13,
+     "q": "To perform this kids' activity \"inside the lines\" is to conform; to do it \"outside the lines\" is to be a free spirit",
+     "a": "color",
+     "right": [
+      "Leslie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 19,
+     "q": "Love to shop? This largest South Dakota city has the largest shopping center between Denver & Minneapolis",
+     "a": "Sioux Falls",
+     "right": [
+      "Leslie"
+     ],
+     "wrong": [
+      "Dan"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 21,
+     "q": "When she's \"got mail\", we wonder if it's addressed to Margaret Hyra",
+     "a": "Meg Ryan",
+     "right": [
+      "Dan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 5,
+     "q": "Tim Berners-Lee helped create the World Wide Web at this particle physics lab near Geneva",
+     "a": "CERN",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 25,
+     "q": "\"Dachs\", as in \"Dachshund\", is German for this burrowing animal",
+     "a": "the badger",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 30,
+     "q": "I'm going to use this smallish lot economically, putting up this kind of house with tiers only one half-story apart",
+     "a": "a split-level",
+     "right": [
+      "Heather"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 14,
+     "q": "A form of matter--solid, liquid or gas",
+     "a": "state (phase accepted)",
+     "right": [
+      "Dan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "PATRONS OF THE ARTS",
+    "THE BLUES",
+    "GREAT ALEXANDERS",
+    "APPROXIMATE WEIGHTS & MEASURES",
+    "ASSASSIN & VICTIM",
+    "UNDER THE \"C\""
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 6,
+     "q": "7 National Medals of Arts have gone to corporate patrons of the arts, like Exxon, Sara Lee & this card company",
+     "a": "Hallmark",
+     "right": [
+      "Dan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 25,
+     "q": "They play their major league home games at Rogers Centre",
+     "a": "the Blue Jays",
+     "right": [
+      "Dan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 9,
+     "q": "Pull out a sawbuck & you'll see his portrait",
+     "a": "Alexander Hamilton",
+     "right": [
+      "Leslie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 20,
+     "q": "As a verb, it means to squeeze, like a baby's cheek; as a noun, a small quantity, like salt",
+     "a": "pinch",
+     "right": [
+      "Dan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 15,
+     "q": "Marcus Junius Brutus et al.\n(44 B.C.)",
+     "a": "Julius Caesar",
+     "right": [
+      "Dan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "The modern Hebrew & Arabic alphabets consist only of these types of letters",
+     "a": "consonants",
+     "right": [
+      "Dan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 7,
+     "q": "Gustave Caillebotte was the main backer of several of these exhibitions, & his own work is kind of in that style",
+     "a": "Impressionist",
+     "right": [
+      "Dan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 26,
+     "q": "In the movie version of \"Devil in a Blue Dress\", he played detective Easy Rawlins",
+     "a": "Denzel Washington",
+     "right": [
+      "Heather"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 10,
+     "q": "Some of the moons of Uranus are named for characters created by this British poet & essayist",
+     "a": "(Alexander) Pope",
+     "right": [
+      "Heather"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 21,
+     "q": "A bunch of honeybees on the move",
+     "a": "a swarm",
+     "right": [
+      "Heather"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 16,
+     "q": "James Earl Ray\n(1968)",
+     "a": "Martin Luther King Junior",
+     "right": [
+      "Dan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 2,
+     "q": "It's the South American national capital city that fits the category",
+     "a": "Caracas",
+     "right": [
+      "Heather"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": true,
+     "order": 8,
+     "q": "In 1603 Shakespeare's company, the Lord Chamberlain's Men, switched to royal patronage & to this name",
+     "a": "the King's Men",
+     "right": [],
+     "wrong": [
+      "Dan"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 500
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 27,
+     "q": "\"Beverly Hills Buntz\" was a spin-off of this cop show",
+     "a": "Hill Street Blues",
+     "right": [
+      "Dan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 11,
+     "q": "In 1990 Russia restored citizenship to this Nobel Prize-winning author of \"Cancer Ward\"",
+     "a": "Aleksandr Solzhenitsyn",
+     "right": [
+      "Leslie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 22,
+     "q": "(Sarah of the Clue Crew begins a dare cocktail.) Two of the smallest bartender measures are these 2 that rhyme--one for a pure flavoring like Tabasco & one for liquid like soda",
+     "a": "dash & splash",
+     "right": [
+      "Heather"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 17,
+     "q": "Leon Czolgosz\n(1901)",
+     "a": "McKinley",
+     "right": [
+      "Dan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 3,
+     "q": "Cheese is this part of milk separated from the whey",
+     "a": "the curd",
+     "right": [
+      "Dan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 14,
+     "q": "Luciano of this colors-ful Italian clothing company is a noted arts patron through a center called Fabrica",
+     "a": "Benetton",
+     "right": [
+      "Heather"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 28,
+     "q": "To join this troupe seen here, you have to have percussion & acting skills--& be able to let your ego go!",
+     "a": "the Blue Man Group",
+     "right": [
+      "Dan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 12,
+     "q": "He took a break in his military career to become Nixon's Chief of Staff",
+     "a": "(Alexander) Haig",
+     "right": [
+      "Dan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 23,
+     "q": "This synonym for \"killed\" also means a large quantity",
+     "a": "a slew",
+     "right": [
+      "Heather"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 18,
+     "q": "Yigal Amir\n(1995)",
+     "a": "Yitzhak Rabin",
+     "right": [
+      "Dan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 4,
+     "q": "We're climbing past 10,000 feet on our way to this, the flight level we'll maintain en route, 35,000 feet",
+     "a": "the cruising altitude",
+     "right": [
+      "Dan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 30,
+     "q": "As well as the Sistine Chapel, named for Sixtus, Pope Paul III got Michelangelo to fresco this chapel, named for himself",
+     "a": "the Pauline Chapel",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 29,
+     "q": "As temptress Lola Frohlich, she sang \"Falling In Love Again\" in the 1930 film \"The Blue Angel\"",
+     "a": "Marlene Dietrich",
+     "right": [
+      "Leslie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 13,
+     "q": "Once an artist for the National Police Gazette, he really got moving with his \"mobile\" sculptures",
+     "a": "Calder",
+     "right": [
+      "Heather"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 24,
+     "q": "This French word for a slight trace, as of a particular flavor, means \"suspicion\"",
+     "a": "soupçon",
+     "right": [
+      "Leslie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": true,
+     "order": 19,
+     "q": "Nathuram Godse\n(1948)",
+     "a": "Mohandas Gandhi",
+     "right": [],
+     "wrong": [
+      "Dan"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 3000
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 5,
+     "q": "Found in South Africa in 1905, this 3,106-carat diamond went to Amsterdam for cutting",
+     "a": "the Cullinan",
+     "right": [
+      "Leslie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "POETRY",
+  "q": "In a poem about this battle, Robert Browning wrote, \"To Akropolis! Run, Pheidippides, one race more\"",
+  "a": "the Battle of Marathon",
+  "right": [
+   "Leslie",
+   "Heather",
+   "Dan"
+  ],
+  "wrong": []
+ },
+ "gameId": "2261",
+ "cat_notes": {
+  "J": [
+   "Each answer contains the letter “X”, and the clues are about In the City.",
+   "Clues about Celebrity Aka.",
+   "Clues about The Internet.",
+   "Clues about Animals.",
+   "Clues about My Dream House.",
+   "Each answer is a 5-letter word."
+  ],
+  "DJ": [
+   "Clues about Patrons of the Arts.",
+   "Clues about The Blues.",
+   "Clues about Great Alexanders.",
+   "Clues about Approximate Weights and Measures.",
+   "Clues about Assassin and Victim.",
+   "Each answer contains the letter “C”, and the clues are about Under The."
+  ],
+  "F": "Clues about Poetry."
+ }
+}

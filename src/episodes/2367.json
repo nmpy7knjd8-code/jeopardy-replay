@@ -1,0 +1,996 @@
+{
+ "show": "#5418",
+ "aired": "2008-03-12",
+ "note": "",
+ "contestants": [
+  {
+   "name": "Hillary Wootton",
+   "bio": "a salesperson from Seattle, Washington",
+   "short": "Hillary"
+  },
+  {
+   "name": "Will McLaughlin",
+   "bio": "an actor and teacher from Los Angeles, California",
+   "short": "Will"
+  },
+  {
+   "name": "Jason Kaczor",
+   "bio": "an insurance specialist from Syracuse, New York (whose 1-day cash winnings total $7,999)",
+   "short": "Jason"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Jason": 5600,
+   "Will": 4400,
+   "Hillary": 5800
+  },
+  "DJ": {
+   "Jason": 16400,
+   "Will": 14200,
+   "Hillary": 10600
+  },
+  "Final": {
+   "Jason": 28401,
+   "Will": 8200,
+   "Hillary": 1
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "OPENING LINES OF SHAKESPEARE",
+    "WE'RE NO. 1!",
+    "MEDALS & DECORATIONS",
+    "THE WALTZ",
+    "OFFICIAL STATE DINOSAURS & FOSSILS",
+    "SCRAMBLED FRUITS"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 5,
+     "q": "Chorus:\n\"Two households,\nboth alike in dignity,\nIn fair Verona, where we lay our scene\"",
+     "a": "Romeo and Juliet",
+     "right": [
+      "Hillary"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 10,
+     "q": "Guess this \"Idol\" judge wasn't pitchy, dog, when she hit No. 1 in '91 with \"Rush, Rush\"",
+     "a": "Paula Abdul",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 21,
+     "q": "This country's Order of the Rising Sun features a garnet surrounded by 32 white rays",
+     "a": "Japan",
+     "right": [
+      "Hillary"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 16,
+     "q": "Waltzes are characterized by swift, gliding turns & music that has this many quarter notes to a measure",
+     "a": "3",
+     "right": [
+      "Hillary"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "The Triceratops found in this state's Black Hills won official fossil status",
+     "a": "South Dakota",
+     "right": [
+      "Hillary"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 26,
+     "q": "MILE",
+     "a": "lime",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 6,
+     "q": "Roderigo:\n\"Tush, never tell me; I take it much unkindly that thou, Iago...\"",
+     "a": "Othello",
+     "right": [
+      "Will"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 11,
+     "q": "In 1999 he was \"Livin' The Vida Loca\", which hit numero uno after he checked into \"General Hospital\"",
+     "a": "Ricky Martin",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 22,
+     "q": "Ethiopia's Order of this wise Biblical king is usually reserved for monarchs & heads of state",
+     "a": "Solomon",
+     "right": [
+      "Will"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 17,
+     "q": "A dance in the 1786 opera \"Una Cosa Rara\" popularized this waltz style named for a city",
+     "a": "Viennese",
+     "right": [
+      "Hillary"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "Montana's state fossil, the Maiasaura, had this type of mouth, like the platypus",
+     "a": "a duck bill",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "AN OGRE",
+     "a": "orange",
+     "right": [
+      "Will"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 7,
+     "q": "\"Now is the winter of our discontent made glorious summer by this sun of York\"",
+     "a": "Richard III",
+     "right": [
+      "Hillary"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 12,
+     "q": "In 1997 this band hit the top spot with \"MMMBop\"; by 2007, all 3 band members were married & 2 were dads",
+     "a": "Hanson",
+     "right": [
+      "Will"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 23,
+     "q": "In 1940 this general created France's Order of Liberation to honor those who helped liberate France in WWII",
+     "a": "De Gaulle",
+     "right": [
+      "Hillary"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 18,
+     "q": "Act III of this 1893 Engelbert Humerpdinck opera features the \"Gingerbread Waltz\"",
+     "a": "Hansel and Gretel",
+     "right": [
+      "Hillary"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 3,
+     "q": "Haddonfield, in this Eastern state, was the site of the first \"nearly complete\" dinosaur find--a Hadrosaurus",
+     "a": "New Jersey",
+     "right": [],
+     "wrong": [
+      "Jason"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 28,
+     "q": "STARRY BREW",
+     "a": "strawberry",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 8,
+     "q": "Knock knock!\nBarnardo:\n\"Who's there?\"",
+     "a": "Hamlet",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 13,
+     "q": "In 1983 we chowed down on a Vegemite sandwich with this \"Down Under\" group",
+     "a": "Men at Work",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 24,
+     "q": "In 1955 he was awarded a Congressional Gold Medal for \"great achievement in field of medicine\"",
+     "a": "Jonas Salk",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 19,
+     "q": "Although known as the \"Waltz King\", he also composed many marches & well-known polkas",
+     "a": "(Johann) Strauss",
+     "right": [
+      "Hillary"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 4,
+     "q": "The teeth from Maryland's Astrodon were cut open in 1858 & revealed this pattern, hence its name",
+     "a": "a star",
+     "right": [
+      "Will"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "PLANE PIPE",
+     "a": "pineapple",
+     "right": [
+      "Will"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": true,
+     "order": 15,
+     "q": "A ship-master:\n\"Boatswain!\"",
+     "a": "The Tempest",
+     "right": [
+      "Hillary"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1000
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 14,
+     "q": "\"We had joy, we had fun, we had\" this 1974 Terry Jacks hit",
+     "a": "\"Seasons In The Sun\"",
+     "right": [
+      "Hillary"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 25,
+     "q": "The Order of Two Niles is one of the decorations given out by this country, not Egypt",
+     "a": "Sudan",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 20,
+     "q": "Pee Wee King co-wrote this waltz & had a country hit with it in 1948; later it became a state song",
+     "a": "\"The Tennessee Waltz\"",
+     "right": [
+      "Will"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 9,
+     "q": "Saurophaganax was named this state's official fossil in 2000 & you can see one at the Sam Noble Museum in Norman",
+     "a": "Oklahoma",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 30,
+     "q": "ACE INTERN",
+     "a": "nectarine",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "BOTANY",
+    "SPORTS BY POSITION",
+    "THE 16th CENTURY",
+    "THROWDOWN WITH BOBBY FLAY",
+    "RUSSIAN AROUND",
+    "GIMME AN \"H\""
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 22,
+     "q": "The long leaves of the milfoil plant are especially suited to absorb this gas underwater",
+     "a": "carbon dioxide",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 9,
+     "q": "Point guard",
+     "a": "basketball",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 4,
+     "q": "In 1541 Francisco de Orellana took a trip up this river he named for the bow & arrow-wielding women seen on it",
+     "a": "the Amazon",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "(The Food Network's Bobby Flay gives his recipe for shrimp cocktail.) I give a seafood cocktail its zing with Worcestershire sauce & this sauce born on a U.S. island",
+     "a": "Tabasco",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "The first Grand Prince of Moscow with this name was nicknamed \"Moneybag\", not \"the Terrible\"",
+     "a": "Ivan",
+     "right": [
+      "Will"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 17,
+     "q": "A proverb says \"make yourself all\" this \"and the flies will devour you\"; that's a sticky situation!",
+     "a": "honey",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": true,
+     "order": 27,
+     "q": "Parasitic fungi cause this disease of cereal grasses that produces black powdery masses; we're not talking pornography here",
+     "a": "smut",
+     "right": [
+      "Will"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1000
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 10,
+     "q": "Wicket keeper",
+     "a": "cricket",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 23,
+     "q": "Frederick the Wise protected him in Wartburg so he could translate the Bible in defiance of the Edict of Worms",
+     "a": "Luther",
+     "right": [
+      "Will"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 3,
+     "q": "(Bobby stirs up a dish of chiles.) I wouldn't add chocolate to my salsa, but I will add a purée of this chile with a smoky flavor that's often paired with chocolate",
+     "a": "chipotle",
+     "right": [
+      "Hillary"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 5,
+     "q": "Since the 19th c. the Marinsky Theatre has been home to ballet company known by this name in the U.S.",
+     "a": "the Kirov",
+     "right": [
+      "Will"
+     ],
+     "wrong": [
+      "Hillary"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 18,
+     "q": "It's a family possession, like a piece of furniture or jewelry, that's handed down from generation to generation",
+     "a": "an heirloom",
+     "right": [
+      "Will"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 28,
+     "q": "This term, which is from the Greek for \"naked seed\", refers to nonflowering plants such as conifers",
+     "a": "gymnosperms",
+     "right": [
+      "Hillary"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 11,
+     "q": "Coxswain",
+     "a": "rowing",
+     "right": [
+      "Will"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 24,
+     "q": "This artist couldn't finish his portrait of Francesco del Giocondo's wife",
+     "a": "Da Vinci",
+     "right": [
+      "Hillary"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": true,
+     "order": 6,
+     "q": "(Bobby gives a recipe for Mexican.) For chiles rellenos I use a dark one of these peppers for the richest flavor; its popularity is reflected in its name from Pueblo",
+     "a": "a poblano",
+     "right": [
+      "Will"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true,
+     "ddWager": 1200
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 14,
+     "q": "In Russia, one of his most famous plays is known as \"Dyadya Vanya\"",
+     "a": "(Anton) Chekhov",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 19,
+     "q": "Glands in this mammal's skin secrete a pink fluid that once led folks to believe it sweated blood",
+     "a": "a hippopotamus",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [
+      "Hillary"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 29,
+     "q": "This part of a plant's pistil has chemicals in it that will cause it to reject the wrong types of pollen",
+     "a": "the stigma",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 12,
+     "q": "Scrum half",
+     "a": "rugby",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 25,
+     "q": "In the 16th century a new one of these was elected by Venetians who were picked by lottery",
+     "a": "a doge",
+     "right": [
+      "Hillary"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 7,
+     "q": "(Bobby talks about his chili.) Among the dying words of this frontiersman & trapper were the request for one last bowl of chili, and he never even had my red beef version with about a half a dozen types of pepper",
+     "a": "Kit Carson",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 15,
+     "q": "This Russian's 1904 novel \"Hadji Murat\" takes place during a Cossack uprising in the Caucasus",
+     "a": "Leon Tolstoy",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 20,
+     "q": "During the Revolutionary War these mercenaries made up about a third of England's forces",
+     "a": "the Hessians",
+     "right": [
+      "Will"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 30,
+     "q": "(Cheryl of the Clue Crew gives the clue.) You can collect water from a plant's leaves because they lose water vapor through pores called these",
+     "a": "stomata",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 13,
+     "q": "Setter;\nserver",
+     "a": "volleyball",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 26,
+     "q": "Though he discovered & named Florida in 1513, he didn't try to colonize it until 1521",
+     "a": "Ponce de Leon",
+     "right": [
+      "Will"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 8,
+     "q": "(Booby Flay sautés some onions.) Right now, the onions are what we call sweated. I'll keep going until they turn brown, meaning they're this",
+     "a": "caramelized",
+     "right": [
+      "Will"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 16,
+     "q": "A Russian play based on a folk tale inspired \"The Snow Maiden\", an opera by this \"Scheherazade\" composer",
+     "a": "Rimsky-Korsakov",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [
+      "Will"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 21,
+     "q": "The first film Robert Redford both directed & starred in; it's set on a Montana ranch",
+     "a": "The Horse Whisperer",
+     "right": [
+      "Hillary"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "THE WORLD MAP",
+  "q": "1 of the 2 South American countries whose mainland you'll fly over when heading due south from Miami, Fla.",
+  "a": "Ecuador or Peru",
+  "right": [
+   "Jason"
+  ],
+  "wrong": [
+   "Hillary",
+   "Will"
+  ]
+ },
+ "gameId": "2367",
+ "cat_notes": {
+  "J": [
+   "Clues about Opening Lines of Shakespeare.",
+   "The category “WE'RE NO. 1!” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "Clues about Medals and Decorations.",
+   "Clues about The Waltz.",
+   "Clues about Official State Dinosaurs and Fossils.",
+   "Each answer is formed by rearranging letters from a word or name in the clue."
+  ],
+  "DJ": [
+   "Clues about Botany.",
+   "Clues about Sports by Position.",
+   "Clues about The 16th Century.",
+   "Clues about Throwdown with Bobby Flay.",
+   "Clues about Russian Around.",
+   "Each answer contains the letter “H”, and the clues are about Gimme An."
+  ],
+  "F": "Clues about The World Map."
+ }
+}

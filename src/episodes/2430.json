@@ -1,0 +1,991 @@
+{
+ "show": "#5445",
+ "aired": "2008-04-18",
+ "note": "",
+ "contestants": [
+  {
+   "name": "Carrie Wright",
+   "bio": "a marketing specialist from Spartanburg, South Carolina",
+   "short": "Carrie"
+  },
+  {
+   "name": "Gabriel Schechter",
+   "bio": "a researcher from Cooperstown, New York",
+   "short": "Gabriel"
+  },
+  {
+   "name": "Chris Zane",
+   "bio": "a benefits administrator from Westminster, Maryland (whose 3-day cash winnings total $57,201)",
+   "short": "Chris"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Chris": 4200,
+   "Gabriel": 7600,
+   "Carrie": 3000
+  },
+  "DJ": {
+   "Chris": 9800,
+   "Gabriel": 19600,
+   "Carrie": 2300
+  },
+  "Final": {
+   "Chris": 0,
+   "Gabriel": 19600,
+   "Carrie": 2300
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "I'M AN ANIMAL",
+    "THE NFL",
+    "LAMPLIGHTERS",
+    "HELP!",
+    "STATE LAKES",
+    "\"LING\"O"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "Before each shuttle landing at the KSC, workers have to remove these reptiles that like to sun on the runway",
+     "a": "alligators",
+     "right": [
+      "Carrie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 6,
+     "q": "With players like Joe Montana & Steve Young, this team dominated in the 1980s & '90s",
+     "a": "the 49ers",
+     "right": [
+      "Carrie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 7,
+     "q": "His uncle, the African magician, told him where to find the \"wonderful lamp\"",
+     "a": "Aladdin",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 15,
+     "q": "\"I get by with a little help from my friends\" is a line from this classic Beatles album",
+     "a": "Sgt. Pepper's Lonely Hearts Club Band",
+     "right": [
+      "Gabriel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 12,
+     "q": "Halalii Lake",
+     "a": "Hawaii",
+     "right": [
+      "Carrie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 20,
+     "q": "A sister or brother",
+     "a": "a sibling",
+     "right": [
+      "Gabriel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "This insect's sound as he rubs his wings together is a courtship song",
+     "a": "a cricket",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 8,
+     "q": "After finishing the 2005 season with a 3-13 record, this team bounced back in 2006 to win the NFC South",
+     "a": "the New Orleans Saints",
+     "right": [],
+     "wrong": [
+      "Chris"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "Originally Frederic Bartholdi wanted this to be placed at the Suez Canal to light the way to Asia; plan B was America",
+     "a": "the Statue of Liberty",
+     "right": [
+      "Carrie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 18,
+     "q": "In April 1948 the \"European Recovery Program\", more popularly known as this, was signed into law",
+     "a": "the Marshall Plan",
+     "right": [
+      "Carrie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 13,
+     "q": "Lake Tahoe\n(2 states)",
+     "a": "California & Nevada",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 23,
+     "q": "It can be a small savory lump of dough served in soup, or a baked treat filled with apples",
+     "a": "a dumpling",
+     "right": [
+      "Carrie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 3,
+     "q": "The most abundant species of bear, these \"colorful\" ones can live for more than 30 years in the wild",
+     "a": "black bears",
+     "right": [
+      "Carrie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 9,
+     "q": "In 2007 this Green Bay QB eclipsed Dan Marino's career record for TD passes",
+     "a": "Brett Favre",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 28,
+     "q": "In the evenings she carried a lamp while walking the corridors of a hospital in the Crimea tending to Britain's wounded",
+     "a": "Florence Nightingale",
+     "right": [
+      "Carrie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 19,
+     "q": "A resident member of a hospital's medical staff, or an unpaid trainee",
+     "a": "an intern",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 14,
+     "q": "Coeur d'Alene Lake",
+     "a": "Idaho",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 24,
+     "q": "It's meaningless chatter, or the soothing sound of a brook as it flows over stones",
+     "a": "babbling",
+     "right": [
+      "Gabriel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 4,
+     "q": "A baboon's diet can include rodents, birds & even fawns of this \"g\"raceful small antelope",
+     "a": "a gazelle",
+     "right": [],
+     "wrong": [
+      "Carrie"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 10,
+     "q": "After coaching this team for 3 seasons, Al Davis became one of its owners",
+     "a": "the Raiders",
+     "right": [
+      "Gabriel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "On April 18, 1775 Robert Newman sneaked into this building to hang 2 lanterns",
+     "a": "the Old North Church",
+     "right": [
+      "Carrie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 21,
+     "q": "With the assistance of Jonathan Harker, this literary character buys a property near London",
+     "a": "Count Dracula",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 16,
+     "q": "Lake Kissimmee",
+     "a": "Florida",
+     "right": [
+      "Gabriel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 25,
+     "q": "I've got a feeling you'll know it's a vague idea or notion",
+     "a": "an inkling",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 5,
+     "q": "Boeing has named a military aircraft after this bird that's showing off its flight capabilities",
+     "a": "an osprey",
+     "right": [
+      "Gabriel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 11,
+     "q": "Prior to the Ravens, the city of Baltimore had only one other NFL team name in its history--this one",
+     "a": "the Colts",
+     "right": [
+      "Gabriel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 30,
+     "q": "It's said that he wandered about Athens with a lighted lamp in broad daylight looking for an honest man",
+     "a": "Diogenes",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": true,
+     "order": 22,
+     "q": "Before he wrote \"Roots\", Alex Haley helped write \"The Autobiography of\" this black leader",
+     "a": "Malcolm X",
+     "right": [
+      "Gabriel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2000
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 17,
+     "q": "Chickamauga Lake",
+     "a": "Tennessee",
+     "right": [
+      "Gabriel"
+     ],
+     "wrong": [
+      "Chris"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 26,
+     "q": "An inexperienced person, or a young bird that just got its flying feathers",
+     "a": "a fledgling",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "NATIVE AMERICANS",
+    "BIRD-BRAINED TELEVISION",
+    "WORLD RELIGION",
+    "\"EGO\" MANIAC",
+    "BACON",
+    "EGGS"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 26,
+     "q": "Meriwether Lewis named a tributary of the Musselshell River in Montana for her",
+     "a": "Sacagawea",
+     "right": [
+      "Carrie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "A little bird told me that Susan Dey played Laurie on this '70s series",
+     "a": "The Partridge Family",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 21,
+     "q": "It's the shortest name a pope has chosen, & we're not lion",
+     "a": "Leo",
+     "right": [
+      "Gabriel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "China & Greece didn't adopt this calendar until the 1900s",
+     "a": "the Gregorian calendar",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 7,
+     "q": "In 1613 Francis Bacon got this office; he'd have trouble with the U.S. Senate today, as he approved of torture",
+     "a": "Attorney General",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 9,
+     "q": "Adding pepper sauce & cayenne pepper to stuffed eggs makes them this wicked dish",
+     "a": "deviled eggs",
+     "right": [
+      "Carrie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 27,
+     "q": "This Sioux chief is said to have received his name when an equine raced through camp at his birth, c. 1849",
+     "a": "Crazy Horse",
+     "right": [
+      "Gabriel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 3,
+     "q": "This 1989 CBS Western was the highest-rated miniseries in 5 years",
+     "a": "Lonesome Dove",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 22,
+     "q": "The largest Protestant cathedral in Dublin is named for this saint",
+     "a": "Patrick",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 17,
+     "q": "It was first joined with Bosnia in 1482",
+     "a": "Herzegovina",
+     "right": [
+      "Gabriel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 8,
+     "q": "Years after this country's revolution, it reshowed its Francis Bacon triptych... in a London museum",
+     "a": "Iran",
+     "right": [],
+     "wrong": [
+      "Chris",
+      "Gabriel"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 10,
+     "q": "Have a hangtown fry, traditionally, eggs, bacon & these shellfish--a pearl of a dish!",
+     "a": "oysters",
+     "right": [
+      "Gabriel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 28,
+     "q": "B'gosh! A Wisc. city is named for this Menominee chief who helped the British capture Fort Mackinaw in 1812",
+     "a": "Oshkosh",
+     "right": [
+      "Gabriel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 4,
+     "q": "Gina Lollobrigida showed up as Jane Wyman's half-sister on this series about a winery",
+     "a": "Falcon Crest",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 23,
+     "q": "Rifai Dervishes are colloquially known for \"howling\"; Mawlawi Dervishes are known for doing this",
+     "a": "whirling",
+     "right": [
+      "Carrie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 18,
+     "q": "Jamaica's second-largest city & main tourist center, it shares its name with the body of water it overlooks",
+     "a": "Montego Bay",
+     "right": [
+      "Carrie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": true,
+     "order": 11,
+     "q": "Bacon admired this Italian author for writing about \"what men do, and not what they ought to do\"",
+     "a": "Machiavelli",
+     "right": [
+      "Gabriel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1600
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 14,
+     "q": "You don't have to travel to Edinburgh for this appetizer, a hard-boiled egg that's coated with sausage & fried",
+     "a": "a Scotch egg",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 29,
+     "q": "A Cree Indian, this folk singer won a 1982 Oscar for co-writing \"Up Where We Belong\" from \"An Officer and a Gentleman\"",
+     "a": "Buffy Sainte-Marie",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 5,
+     "q": "Edward Everett Horton played a medicine man named Roaring Chicken on this goofy cavalry sitcom",
+     "a": "F-Troop",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 24,
+     "q": "Traditionally, it is read aloud in its entirety in the synagogue over the course of a year",
+     "a": "the Torah",
+     "right": [
+      "Gabriel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 19,
+     "q": "A Spanish city, or Spanish guitarist Andres",
+     "a": "Segovia",
+     "right": [],
+     "wrong": [
+      "Carrie"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 3500
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 12,
+     "q": "The title of \"Novum Organum\" meant the work was to supersede the \"organon\" of this Greek logic-meister",
+     "a": "Aristotle",
+     "right": [
+      "Gabriel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 15,
+     "q": "The name of this egg dish, sort of a flat omelet, is from the Italian for \"fried\"",
+     "a": "frittata",
+     "right": [
+      "Carrie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 30,
+     "q": "This \"royal\" Wampanoag leader fought a 1675-76 war against colonists in what was New England's worst Indian war",
+     "a": "King Philip",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 6,
+     "q": "Morgan Fairchild was tickled \"pink\" to star in this '80s TV series based on a Joan Crawford film",
+     "a": "Flamingo Road",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 25,
+     "q": "From 1934 to his death in 1975, he led the Nation of Islam",
+     "a": "Elijah Muhammad",
+     "right": [
+      "Gabriel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 20,
+     "q": "Completes the title of the Eugene O'Neill play \"A Moon for the...\"",
+     "a": "Misbegotten",
+     "right": [
+      "Gabriel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 13,
+     "q": "From the Latin for \"to lead\", this method that goes from specific to general was the basis of Bacon's scientific method",
+     "a": "induction",
+     "right": [],
+     "wrong": [
+      "Carrie"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 16,
+     "q": "For Passover, this Jewish dish is sort of like French toast but uses unleavened bread dipped in beaten egg",
+     "a": "matzo brei",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "THE OSCARS",
+  "q": "They're the only 2 trilogies in which all 3 of the films were nominated for Best Picture Oscars",
+  "a": "The Godfather & The Lord of the Rings",
+  "right": [
+   "Carrie",
+   "Gabriel"
+  ],
+  "wrong": [
+   "Chris"
+  ]
+ },
+ "gameId": "2430",
+ "cat_notes": {
+  "J": [
+   "The category “I'M AN ANIMAL” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "Clues about The NFL.",
+   "Clues about Lamplighters.",
+   "The category “HELP!” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "We'll give you the lake, you ID the state.",
+   "Each answer ends with “LING”."
+  ],
+  "DJ": [
+   "Clues about Native Americans.",
+   "Clues about Bird-brained Television.",
+   "Clues about World Religion.",
+   "Each answer contains the letter group “EGO”, and the clues are about Maniac.",
+   "Clues about Bacon.",
+   "Clues about Eggs."
+  ],
+  "F": "Clues about The Oscars."
+ }
+}
