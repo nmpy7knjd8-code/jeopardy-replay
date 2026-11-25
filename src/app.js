@@ -1121,8 +1121,6 @@ function intro(){
   function playSubs(pl){
     const bits=[];
     if(pl.raw!=null&&pl.raw!==pl.adj)bits.push(`raw ${money(pl.raw)}`);
-    if(pl.trueScore!=null)bits.push(`True ${money(pl.trueScore)}`);
-    if(pl.coryat!=null)bits.push(`Coryat ${money(pl.coryat)}`);
     return bits.join(' · ');
   }
   function playlistHtml(p){
@@ -1730,6 +1728,35 @@ function finalClue(){
 
 /* ---------- end ---------- */
 const ORD=n=>['1st','2nd','3rd','4th'][n-1];
+function endDetail(p){
+  const bits=[
+    `After J! ${money(p.j||0)}`,
+    `After DJ! ${money(p.dj||0)}`,
+    `Raw ${money(p.raw??p.score)}`,
+    `Speed-adj ${money(p.adj??p.score)}`,
+    `True Score ${money(p.trueScore||0)}`
+  ];
+  if(p.real) bits.push(`Recalc ${money(p.trueScore||0)}`);
+  return bits.map(s=>`<span>${s}</span>`).join('');
+}
+function toggleEndRow(tr){
+  if(!tr||!tr.classList.contains('erow'))return;
+  const open=tr.classList.toggle('open');
+  tr.setAttribute('aria-expanded',open?'true':'false');
+  const det=tr.nextElementSibling;
+  if(det&&det.classList.contains('edetail')){
+    det.classList.toggle('hide',!open);
+    det.hidden=!open;
+  }
+}
+function bindEndRows(){
+  document.querySelectorAll('table.cmp.end tr.erow').forEach(tr=>{
+    tr.addEventListener('click',()=>toggleEndRow(tr));
+    tr.addEventListener('keydown',e=>{
+      if(e.key==='Enter'||e.key===' '){e.preventDefault();e.stopPropagation();toggleEndRow(tr)}
+    });
+  });
+}
 function endScreen(){
   clearTimers();setState('end');setLights(null);
   G.roundScores.F=G.score;
@@ -1753,14 +1780,17 @@ function endScreen(){
   const lost=people.filter(p=>p.score>=me.score).map(p=>p.name.split(' ')[0]);
   const detail=place===1?`You finished ahead of ${beat.join(', ')}.`:
     (beat.length?`You finished ahead of ${beat.join(' and ')}, but behind ${lost.join(' and ')}.`:`${lost.join(', ')} finished ahead of you.`);
+  const rows=all.map((p,i)=>{
+    const who=`<span class="who">${esc(p.name)}${p.real?ELO.badge(p.elo):''}</span>${p.real?`<small>${esc(remarks[p.short])}</small>`:'<small>your game</small>'}${!p.real?`<small class="tsline">True Score ${money(p.trueScore||0)}</small>`:''}`;
+    return `<tr class="erow ${p.real?'':'me'}" tabindex="0" aria-expanded="false"><td>${i+1}</td><td>${who}</td><td class="${p.score<0?'neg':''}">${money(p.score)}</td></tr>
+     <tr class="edetail hide" hidden><td colspan="3"><div class="edets">${endDetail(p)}</div></td></tr>`;
+  }).join('');
   S(`<div class="panel endpanel"><div class="sub">${esc(SHOW.show)} · ${new Date(SHOW.aired+'T12:00:00').toLocaleDateString('en-US',{month:'short',day:'numeric',year:'numeric'})}</div>
    <div class="h1" style="font-size:min(7vw,8.5vh)">${place===1?'You <span class="gold">win!</span>':headline}</div>
    <div class="sub" style="letter-spacing:.08em;text-transform:none;font-size:max(13px,2.6vmin)">${detail}</div>
-   <div class="endwrap"><table class="cmp end"><tr><th>#</th><th>Contestant</th><th>After J!</th><th>After DJ!</th><th>Raw</th><th>Speed-adj</th></tr>
-   ${all.map((p,i)=>`<tr class="${p.real?'':'me'}"><td>${i+1}</td><td>${esc(p.name)}${p.real?ELO.badge(p.elo):''}${p.real?`<small>${esc(remarks[p.short])}</small>`:'<small>your game</small>'}<small class="tsline">True ${money(p.trueScore||0)} · Coryat ${money(p.coryat||0)}</small></td>
-     <td class="${p.j<0?'neg':''}">${money(p.j)}</td><td class="${p.dj<0?'neg':''}">${money(p.dj)}</td>
-     <td class="${(p.raw??p.score)<0?'neg':''}">${money(p.raw??p.score)}</td><td class="${(p.adj??p.score)<0?'neg':''}">${money(p.adj??p.score)}</td></tr>`).join('')}</table></div>
+   <div class="endwrap"><table class="cmp end"><thead><tr><th>#</th><th>Contestant</th><th>Score</th></tr></thead><tbody>${rows}</tbody></table></div>
    <div class="contestants"><button class="btn" id="again">Play again</button></div></div>`);
+  bindEndRows();
   $('#again').onclick=()=>{location.reload()};
   renderHud();
   window.__result={place,score:G.score,raw:G.rawScore||0,adj:G.score,trueScore:G.trueScore||0,coryat:G.coryat||0};
@@ -1777,9 +1807,13 @@ document.addEventListener('keydown',e=>{
     if(e.key==='Escape'||e.key==='Enter'||e.key==='p'||e.key==='P'||e.code==='Space'||e.key===' '){e.preventDefault();closeCatNote()}
     return;
   }
+  if(st==='end'){
+    const row=e.target&&e.target.closest&&e.target.closest('tr.erow');
+    if(row&&(e.key==='Enter'||e.code==='Space'||e.key===' ')){e.preventDefault();toggleEndRow(row);return}
+  }
   const isP=e.key==='p'||e.key==='P';
   const isSpace=e.code==='Space'||e.key===' ';
-  const spaceBusy=(st==='reading'||st==='open'||st==='intro'||st==='result'||st==='roundend'||(st==='finalwager'&&!$('#wg')));
+  const spaceBusy=(st==='reading'||st==='open'||st==='intro'||st==='result'||st==='roundend'||st==='end'||(st==='finalwager'&&!$('#wg')));
   if(!e.repeat&&canTypePause(e)&&(isP||(isSpace&&(G.paused||!spaceBusy)))){e.preventDefault();togglePause();return}
   if(G.paused){if(isSpace||e.key==='Enter'||e.key==='s'||e.key==='S'||e.key==='Escape')e.preventDefault();return}
   if((st==='reading'||st==='open')&&isSpace){e.preventDefault();if(!e.repeat)buzz();return}
@@ -1827,6 +1861,6 @@ if(AUTO){
     else if(st==='roundend'&&age>600)$('#cont').click();
   },200);
 }
-window.__G=G;window.__startRound=startRound;window.__loadShow=loadShow;window.__savePlayed=savePlayed;window.__readPlayed=readPlayed;window.__setPaused=setPaused;window.__togglePause=togglePause;window.__clearTimers=clearTimers;window.__openCatNote=openCatNote;window.__closeCatNote=closeCatNote;window.__Voice=Voice;window.__SPEED=SPEED;window.__trueAward=trueAward;window.__contestantCoryat=contestantCoryat;window.__contestantTrue=contestantTrue;window.__ELO=ELO;window.__SHOW=SHOW;window.__endScreen=endScreen;window.__finishClue=finishClue;window.__RNG=RNG;window.__saveProgress=saveProgress;window.__readProgress=readProgress;window.__clearProgress=clearProgress;window.__resetPlay=resetPlay;window.__resumeGame=resumeGame;window.__buzzAward=buzzAward;window.__reactionMs=reactionMs;window.__openVoicePicker=openVoicePicker;window.__closeVoicePicker=closeVoicePicker;window.__voiceLabel=voiceLabel;
+window.__G=G;window.__startRound=startRound;window.__loadShow=loadShow;window.__savePlayed=savePlayed;window.__readPlayed=readPlayed;window.__setPaused=setPaused;window.__togglePause=togglePause;window.__clearTimers=clearTimers;window.__openCatNote=openCatNote;window.__closeCatNote=closeCatNote;window.__Voice=Voice;window.__SPEED=SPEED;window.__trueAward=trueAward;window.__contestantCoryat=contestantCoryat;window.__contestantTrue=contestantTrue;window.__ELO=ELO;window.__SHOW=SHOW;window.__endScreen=endScreen;window.__finishClue=finishClue;window.__RNG=RNG;window.__saveProgress=saveProgress;window.__readProgress=readProgress;window.__clearProgress=clearProgress;window.__resetPlay=resetPlay;window.__resumeGame=resumeGame;window.__buzzAward=buzzAward;window.__reactionMs=reactionMs;window.__openVoicePicker=openVoicePicker;window.__closeVoicePicker=closeVoicePicker;window.__voiceLabel=voiceLabel;window.__toggleEndRow=toggleEndRow;
 intro();
 })();
