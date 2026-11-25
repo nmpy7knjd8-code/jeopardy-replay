@@ -1,0 +1,991 @@
+{
+ "show": "#8921",
+ "aired": "2023-07-24",
+ "note": "",
+ "contestants": [
+  {
+   "name": "Ian Foutz",
+   "bio": "a teacher from Camarillo, California",
+   "short": "Ian"
+  },
+  {
+   "name": "Simona Fine",
+   "bio": "a graduate student from Great Neck, New York",
+   "short": "Simona"
+  },
+  {
+   "name": "Taylor Clagett",
+   "bio": "a marketing director originally from Chesapeake Beach, Maryland (whose 1-day cash winnings total $10,800)",
+   "short": "Taylor"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Taylor": 7300,
+   "Simona": 3200,
+   "Ian": 2400
+  },
+  "DJ": {
+   "Taylor": 17500,
+   "Simona": 4000,
+   "Ian": 6800
+  },
+  "Final": {
+   "Taylor": 21000,
+   "Simona": 1500,
+   "Ian": 5500
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "STATES' HIGHEST POINTS",
+    "SPACE MEN & WOMEN",
+    "WELCOME TO OUR FRUIT STAND",
+    "ALPHABETICALLY FIRST",
+    "UNIFORM NUMBERS",
+    "THE \"END\" ZONE"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 28,
+     "q": "Found in a small grove of trees, 1,257-foot Hoosier Hill",
+     "a": "Indiana",
+     "right": [
+      "Taylor"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 26,
+     "q": "In 1995 Eileen Collins became the first woman to pilot one of these & in 1999 the first to command a mission aboard one",
+     "a": "Space Shuttle",
+     "right": [
+      "Ian"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 24,
+     "q": "A traditional part of Muslim diets during Ramadan, these palm fruits are known as tamuru in Arabic",
+     "a": "dates",
+     "right": [
+      "Taylor"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 27,
+     "q": "Of NBA franchises by team name, not city, they won the championship in 2021",
+     "a": "the Milwaukee Bucks",
+     "right": [
+      "Taylor"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 30,
+     "q": "In 2017 the Lakers retired both his No. 8 & 24; tragically, 3 years later, he was gone",
+     "a": "Kobe Bryant",
+     "right": [
+      "Taylor"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 20,
+     "q": "This word refers to the supports placed at either end of your collection of Simon & Garfunkel biographies",
+     "a": "bookend",
+     "right": [
+      "Taylor"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 22,
+     "q": "Humphreys Peak in the Kachina Peaks Wilderness",
+     "a": "Arizona",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 25,
+     "q": "As this country's first astronaut, Soyeon Yi packed kimchi to share with her colleagues on the International Space Station",
+     "a": "South Korea",
+     "right": [
+      "Ian"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 23,
+     "q": "This sweet & seedy vine fruit sounds like it might inspire an intense desire for it",
+     "a": "passion fruit",
+     "right": [
+      "Simona"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 21,
+     "q": "Of the Great Lakes, it's the fourth-largest & drains out through the Niagara River",
+     "a": "Erie",
+     "right": [
+      "Simona"
+     ],
+     "wrong": [
+      "Ian"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 29,
+     "q": "Tennis-related last name of NBA center Kevin, who wore 0 for the Cleveland Cavaliers for O-regon & O-hio",
+     "a": "Love",
+     "right": [
+      "Taylor"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 19,
+     "q": "Here are some \"terms of\" this: my little schmoopy, pookie, pumpkin & my darling",
+     "a": "endearment",
+     "right": [
+      "Taylor"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 10,
+     "q": "In Alaska, this mountain peak, of course",
+     "a": "Denali",
+     "right": [
+      "Simona"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 3,
+     "q": "Recorded aboard the ISS, Chris Hadfield's zero-g version of this Bowie song has gotten 52 million+ views on YouTube",
+     "a": "\"Space Oddity\"",
+     "right": [
+      "Ian"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 2,
+     "q": "Yup, those are ready to eat: you can quote me, Bartlett these get lighter in color as they ripen",
+     "a": "pears",
+     "right": [
+      "Ian"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 17,
+     "q": "Of the first 10 ordinal numbers",
+     "a": "eighth",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 15,
+     "q": "Joe Namath offered his retired 12 to this new Jets QB, but he said that'd always be Broadway Joe's & went with his college No. 8",
+     "a": "Aaron Rodgers",
+     "right": [
+      "Taylor"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 18,
+     "q": "To compete for a prize",
+     "a": "contend",
+     "right": [
+      "Taylor"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 9,
+     "q": "Wheeler Peak in the Sangre de Cristo Mountains",
+     "a": "New Mexico",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 4,
+     "q": "After a crewman was exposed to measles, backup Jack Swigert made it onto this 1970 Apollo mission & might have wished he hadn't",
+     "a": "Apollo 13",
+     "right": [
+      "Ian"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 8,
+     "q": "Fresh these are only in U.S. markets from September to January but they keep in your freezer for a year",
+     "a": "cranberries",
+     "right": [
+      "Taylor"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": true,
+     "order": 16,
+     "q": "Of the 5 books of the Pentateuch, it's written in the form of a farewell address by Moses",
+     "a": "Deuteronomy",
+     "right": [
+      "Taylor"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2300
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 14,
+     "q": "You won't see any players from this MLB team wearing a single digit number; they've all been retired, & No. 8, twice",
+     "a": "the Yankees",
+     "right": [],
+     "wrong": [
+      "Taylor",
+      "Ian"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 7,
+     "q": "When Andrew Carnegie got his first of these monthly checks, he cried, \"Here's the goose that lays the golden eggs\"",
+     "a": "dividend",
+     "right": [
+      "Simona"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 1,
+     "q": "In Hawaii, this dormant volcano whose name means \"white mountain\" because it gets snow in winter",
+     "a": "Mauna Kea",
+     "right": [
+      "Simona"
+     ],
+     "wrong": [
+      "Taylor",
+      "Ian"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 5,
+     "q": "The first British citizen in space, Helen Sharman spent a week aboard this Soviet space station in 1991",
+     "a": "Mir",
+     "right": [
+      "Taylor"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 11,
+     "q": "Try a Pink Lady, also known as Cripps Pink, the first variety of this fruit to be trademarked",
+     "a": "apple",
+     "right": [
+      "Taylor"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 12,
+     "q": "Of the 11 national battlefields, this one 10 miles from Hagerstown, Maryland",
+     "a": "Antietam",
+     "right": [
+      "Taylor"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 13,
+     "q": "This great Pittsburgh Penguin wore number 66 & was credited with 690 goals",
+     "a": "Mario Lemieux",
+     "right": [
+      "Ian"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 6,
+     "q": "Someone who throws money away on things they don't need might be called this compound word",
+     "a": "a spendthrift",
+     "right": [
+      "Ian"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "MUSICAL WORKS",
+    "MY WOULD-BE VP",
+    "STARTS WITH 3 CONSONANTS",
+    "INTERNATIONAL BOOKS",
+    "HOSTEL",
+    "MAKEOVERS"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 26,
+     "q": "Thea Musgrave's first commissioned work, in 1953, was \"Suite O' Bairnsangs\" for a festival in this, her native country",
+     "a": "Scotland",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "Sarah Palin, in a would-be first that would wait for a while longer",
+     "a": "McCain",
+     "right": [
+      "Taylor"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 22,
+     "q": "Doctors' duds",
+     "a": "scrubs",
+     "right": [
+      "Ian"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 21,
+     "q": "\"Notes from Underground\", a novella by this Russian, is about a man alienated from the world",
+     "a": "Dostoevsky",
+     "right": [],
+     "wrong": [
+      "Simona"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 20,
+     "q": "At the Circus Hostel in Berlin, there is a museum of this \"Baywatch\" actor who single-handedly ended the Cold War (jk, jk)",
+     "a": "Hasselhoff",
+     "right": [
+      "Taylor"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 15,
+     "q": "A few things added to cars on this show hosted by Xzibit: a fish tank, a fireplace, a Sistine Chapel-like ceiling",
+     "a": "Pimp My Ride",
+     "right": [
+      "Taylor"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "1739's \"Saul\" is one of this composer's most dramatic oratorios",
+     "a": "Handel",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 28,
+     "q": "Paul Ryan, who'd remain in the House",
+     "a": "Mitt Romney",
+     "right": [],
+     "wrong": [
+      "Ian"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 23,
+     "q": "This-ing \"the gnar\" means skiing difficult terrain; this-ing on a guitar is what Eddie Van Halen did",
+     "a": "shredding (thrashing)",
+     "right": [
+      "Simona",
+      "Ian"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 25,
+     "q": "A deadly epidemic is sweeping through Oran, Algeria in this classic by Albert Camus",
+     "a": "The Plague",
+     "right": [
+      "Simona"
+     ],
+     "wrong": [
+      "Taylor"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 19,
+     "q": "A lodge on a playa in Nicaragua has this activity in its name & offers lessons to \"improve your ripping skills\"",
+     "a": "surfing",
+     "right": [
+      "Taylor"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 14,
+     "q": "In \"Encino Man\", this actor gets a major makeover after defrosting--he takes a bath",
+     "a": "Brendan Fraser",
+     "right": [
+      "Ian"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 30,
+     "q": "Ferde Grofé called for coconut shells to imitate the clip-clopping of a burro \"on the trail\" in this suite",
+     "a": "Grand Canyon Suite",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 8,
+     "q": "Lloyd Bentsen, who knew Jack Kennedy & was not afraid to say so",
+     "a": "Dukakis",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 6,
+     "q": "It's a machine that removes husks from grain; Andrew Meikle patented one in 1788",
+     "a": "a threshing machine",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 16,
+     "q": "\"Ghost Stories\", a graphic novel from Canadian Jeff Lemire is set in a town outside this city, across the river from Detroit",
+     "a": "Windsor",
+     "right": [
+      "Taylor"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 1,
+     "q": "You don't have to BYOV, bring your own volleyball, to this hostel in Bali that sounds exactly like a Tom Hanks film",
+     "a": "Castaway",
+     "right": [
+      "Taylor"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 13,
+     "q": "Rachael Leigh Cook gets a major glow up in this 1999 film with Freddie Prinze Jr.--her glasses are removed",
+     "a": "She's All That",
+     "right": [
+      "Ian"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 7,
+     "q": "One of Rachmaninoff's best-known works is his \"Rhapsody On A Theme of\" this Italian violin virtuoso",
+     "a": "Paganini",
+     "right": [],
+     "wrong": [
+      "Taylor"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 100
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 18,
+     "q": "Henry Cabot Lodge Jr., running with a then-veep himself",
+     "a": "Nixon",
+     "right": [],
+     "wrong": [
+      "Taylor"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 100
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 5,
+     "q": "It's a device for artists to make canvas taut & ready to be painted; the word also refers to something you carry an injured person on",
+     "a": "a stretcher",
+     "right": [
+      "Taylor"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 24,
+     "q": "Yu Hua's \"Chronicle of a Blood Merchant\" paints a picture of life under this man's Cultural Revolution",
+     "a": "Mao",
+     "right": [
+      "Simona"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 2,
+     "q": "The Central House Marrakech Medina boasts views of these mountains from its rooftop terrace",
+     "a": "the Atlas Mountains",
+     "right": [
+      "Taylor"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 11,
+     "q": "In \"Crazy, Stupid, Love\", Ryan Gosling helps this actor with a sartorial transformation",
+     "a": "Steve Carell",
+     "right": [
+      "Taylor"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 17,
+     "q": "Each of the 10 movements of this Mussorgsky work represents a piece of art on display, created by a late friend",
+     "a": "Pictures at an Exhibition",
+     "right": [],
+     "wrong": [
+      "Taylor"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 12,
+     "q": "Earl Warren, 5 years before becoming Chief Justice",
+     "a": "Thomas Dewey",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 4,
+     "q": "Franz Joseph Gall developed this discredited pseudoscience that attempted to discern personality by skull shape",
+     "a": "phrenology",
+     "right": [
+      "Taylor"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 9,
+     "q": "Milan Kundera's second novel, \"Life Is Elsewhere\" was not allowed to be published in this, his home country at the time",
+     "a": "Czechoslovakia",
+     "right": [],
+     "wrong": [
+      "Simona"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 3,
+     "q": "Hostels around the Riviera Maya include the Itza Hotel Akumal & the Mayan Monkey Hostel in this \"T\"rendy place",
+     "a": "Tulum",
+     "right": [
+      "Taylor"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 10,
+     "q": "In season 5 of \"Family Matters\", Jaleel White's character takes an elixir & becomes this suave alter ego",
+     "a": "Stefan Urquelle",
+     "right": [
+      "Ian"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "AFRICAN GEOGRAPHY",
+  "q": "The only country in Africa with Spanish as an official language, it lies mostly between 1 & 2 degrees north latitude",
+  "a": "Equatorial Guinea",
+  "right": [
+   "Taylor"
+  ],
+  "wrong": [
+   "Simona",
+   "Ian"
+  ]
+ },
+ "gameId": "8330",
+ "cat_notes": {
+  "J": [
+   "Clues about States Highest Points.",
+   "Clues about Space Men and Women.",
+   "Clues about Welcome to Our Fruit Stand.",
+   "Clues about Alphabetically First.",
+   "Clues about Uniform Numbers.",
+   "Each answer contains the letter group “END”."
+  ],
+  "DJ": [
+   "Clues about Musical Works.",
+   "You'll name the presidential candidate.",
+   "Each answer starts with 3 consonants in a row.",
+   "Clues about International Books.",
+   "Clues about Hostel.",
+   "Clues about Makeovers."
+  ],
+  "F": "Clues about African Geography."
+ }
+}

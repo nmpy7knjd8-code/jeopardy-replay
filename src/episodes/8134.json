@@ -1,0 +1,988 @@
+{
+ "show": "#8896",
+ "aired": "2023-06-19",
+ "note": "Ben Goldstein game 2.",
+ "contestants": [
+  {
+   "name": "Jonathan Belford",
+   "bio": "a television researcher originally from Garland, Texas",
+   "short": "Jonathan"
+  },
+  {
+   "name": "Mary Kate Gliedt",
+   "bio": "a nonprofit director from Kansas City, Missouri",
+   "short": "Mary Kate"
+  },
+  {
+   "name": "Ben Goldstein",
+   "bio": "a content marketing strategist from Dexter, Michigan (whose 1-day cash winnings total $6,198)",
+   "short": "Ben"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Ben": 4000,
+   "Mary Kate": 400,
+   "Jonathan": 2200
+  },
+  "DJ": {
+   "Ben": 10000,
+   "Mary Kate": 100,
+   "Jonathan": -600
+  },
+  "Final": {
+   "Ben": 9000,
+   "Mary Kate": 0,
+   "Jonathan": -600
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "IT'S A SPECIAL DAY",
+    "TV",
+    "\"F\"IVE LETTER WORDS",
+    "THE ANIMAL KINGDOM",
+    "ON THE STATE'S LONGEST WESTERN BORDER",
+    "GETTING AN EYEFUL"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 28,
+     "q": "Made a U.S. federal holiday in 2021, it's also known as Black Independence Day",
+     "a": "Juneteenth",
+     "right": [
+      "Mary Kate"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 15,
+     "q": "After her daytime talk show ended, she spent some time on \"The View\", & in 2022 she made a cameo on the reboot of \"A League of Their Own\"",
+     "a": "(Rosie) O'Donnell",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 16,
+     "q": "Aesop knows it's a short narrative often making an edifying point",
+     "a": "a fable",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 27,
+     "q": "Among the fastest tortoises, this variety with a flattened shell bears the name of a breakfast food",
+     "a": "a pancake (tortoise)",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 30,
+     "q": "On New Mexico's",
+     "a": "Arizona",
+     "right": [
+      "Jonathan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 26,
+     "q": "A call for an act of retribution, it's No. 196 in the 18th century B.C. code of Hammurabi",
+     "a": "eye for an eye",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 19,
+     "q": "Every March brings a holiday in Iran on the date in 1951 when the country nationalized this industry",
+     "a": "the oil industry",
+     "right": [
+      "Jonathan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 8,
+     "q": "A classic TV show's opening narration says, \"That's the signpost up ahead! Your next stop...\" this title",
+     "a": "The Twilight Zone",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 4,
+     "q": "It's what someone who buys & resells stolen goods is called",
+     "a": "a fence",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 13,
+     "q": "The ribbon moray species of this fish is born male but later changes its color & its sex",
+     "a": "an eel",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 29,
+     "q": "On New Hampshire's",
+     "a": "Vermont",
+     "right": [
+      "Jonathan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 9,
+     "q": "This term for someone sleuthing for a fee came from the first letter of \"investigator\"",
+     "a": "private eye",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 20,
+     "q": "This U.S. territory celebrates Flag Day on April 17, the day in 1900 that Old Glory was raised in Fagatogo on Tutuila Island",
+     "a": "American Samoa",
+     "right": [],
+     "wrong": [
+      "Jonathan"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 5,
+     "q": "Before he starred on \"Castle\" & \"The Rookie\", he was Captain Mal Reynolds on \"Firefly\"",
+     "a": "(Nathan) Fillion",
+     "right": [
+      "Mary Kate"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 1,
+     "q": "It's a person with a habit of texting, \"OMG! Sorry I can't make it! I forgot I have a thing. We should totally hang out soon though\"",
+     "a": "a flake",
+     "right": [
+      "Mary Kate"
+     ],
+     "wrong": [
+      "Jonathan"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 14,
+     "q": "Living up to their name, the African springboks seen here are a variety of this horned mammal",
+     "a": "a gazelle (an antelope)",
+     "right": [
+      "Jonathan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 23,
+     "q": "On Georgia's",
+     "a": "Alabama",
+     "right": [
+      "Jonathan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 10,
+     "q": "This one of the leading acts in 1960s blue-eyed soul is pictured here",
+     "a": "The Righteous Brothers",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 21,
+     "q": "Jerusalem's November 29 Street is named for the day in 1947 the U.N. voted to partition this British-controlled land",
+     "a": "Palestine",
+     "right": [],
+     "wrong": [
+      "Jonathan"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 6,
+     "q": "Not-Tom-Hanks on \"Bosom Buddies\", this late actor became a regular on \"Newhart\" & guested on \"Girls\"",
+     "a": "Peter Scolari",
+     "right": [
+      "Jonathan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 2,
+     "q": "\"You give me\" this in a song originally recorded by \"Little Willie\" John",
+     "a": "fever",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 17,
+     "q": "We hate to let a season pass with no mention of Alex Trebek's favorite animal, this 750-lb. Arctic ruminant with curved horns",
+     "a": "a musk ox",
+     "right": [],
+     "wrong": [
+      "Jonathan"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 24,
+     "q": "On North Dakota's",
+     "a": "Montana",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 11,
+     "q": "When a storm reaches hurricane strength, an \"eye\" appears in the covering shield of these clouds, from Latin for \"curl\"",
+     "a": "cirrus clouds",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 22,
+     "q": "If you're in Peru in June, head to Cuzco on the 24th for Inti Raymi, \"Sun Festival\" in this language",
+     "a": "Quechuan",
+     "right": [],
+     "wrong": [
+      "Mary Kate"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 7,
+     "q": "\"The Newsroom\" is just one of the fast-talking shows he has created",
+     "a": "Sorkin",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": true,
+     "order": 3,
+     "q": "It's a genus of tree that can be grown as a houseplant such as the fiddle-leaf fig",
+     "a": "Ficus",
+     "right": [],
+     "wrong": [
+      "Ben"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 800
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 18,
+     "q": "As with flamingos, the scarlet species of this bird of South America gets its color from the crustaceans that it eats",
+     "a": "an ibis",
+     "right": [
+      "Jonathan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 25,
+     "q": "On Ark--on that of Arkansas",
+     "a": "Oklahoma",
+     "right": [
+      "Jonathan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 12,
+     "q": "Used for more than 100 years, this standard eye chart bears the name of the Dutch ophthalmologist who developed it",
+     "a": "the Snellen chart",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "FIRST SPEECHES IN SHAKESPEARE",
+    "RANDOM FACTS",
+    "WHAT AN IDIOM!",
+    "GENERAL ASSEMBLY",
+    "WEIGHTS & MEASURES",
+    "LET'S MAKE A MOVIE CROSSOVER!"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 6,
+     "q": "\"From ancient grudge break to new mutiny, where civil blood makes civil hands unclean\"",
+     "a": "Romeo and Juliet",
+     "right": [
+      "Mary Kate"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 10,
+     "q": "In 1974 a horde of terra cotta warriors were found at the resting place of the man who made himself this country's first emperor",
+     "a": "China",
+     "right": [
+      "Jonathan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 17,
+     "q": "It means to willfully ignore obvious danger signs",
+     "a": "bury your head in the sand",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 26,
+     "q": "After his victory at Waterloo, he said, \"I hope to God that I have fought my last battle. It is a bad thing to always be fighting\"",
+     "a": "the Duke of Wellington",
+     "right": [],
+     "wrong": [
+      "Jonathan"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 20,
+     "q": "The size of a digital video is measured in these units whose name combines \"picture\" & \"element\"",
+     "a": "a pixel",
+     "right": [
+      "Mary Kate"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 18,
+     "q": "A natural pair! A character who fought Ivan Drago & Clubber Lang \"&\" a moose who took on Jason Alexander's Boris Badenov",
+     "a": "Rocky and Bullwinkle",
+     "right": [
+      "Jonathan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 5,
+     "q": "\"Then should the warlike Harry, like himself, assume the port of Mars\"",
+     "a": "Henry V",
+     "right": [],
+     "wrong": [
+      "Ben"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 1,
+     "q": "Google's recent entry into the world of A.I. has this name just like a poet of yore",
+     "a": "Bard",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 14,
+     "q": "If you're \"in for a penny\", you're also in for one of these British units",
+     "a": "a pound",
+     "right": [
+      "Mary Kate"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 25,
+     "q": "At Columbia, S.C.'s state house, bronze stars mark the spots where shells from this general's cannons once hit",
+     "a": "Sherman",
+     "right": [],
+     "wrong": [
+      "Mary Kate"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 21,
+     "q": "This Swede initially had 0 degrees as the boiling point of water & 100 degrees for the melting point of snow on his temperature scale",
+     "a": "Celsius",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [
+      "Jonathan"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 2,
+     "q": "Disney meets Kurosawa: An animated 1937 title woman \"& the\" title septet led by Takashi Shimura",
+     "a": "Snow White and the Seven Samurai",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": true,
+     "order": 7,
+     "q": "\"Take but good note & you shall see in him the triple pillar of the world transformed into a strumpet's fool\"",
+     "a": "Antony and Cleopatra",
+     "right": [],
+     "wrong": [
+      "Mary Kate"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1000
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 9,
+     "q": "The stock market crash of 1929 led to the creation of this regulatory body in 1934",
+     "a": "the SEC",
+     "right": [
+      "Jonathan"
+     ],
+     "wrong": [
+      "Ben"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 12,
+     "q": "If you are impoverished, you are as poor as this rodent",
+     "a": "a church mouse",
+     "right": [
+      "Mary Kate"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": true,
+     "order": 27,
+     "q": "In absentia he was sentenced to death in 1940, weeks after a London radio speech in which he asked the French to keep fighting",
+     "a": "Charles de Gaulle",
+     "right": [],
+     "wrong": [
+      "Mary Kate"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 500
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 22,
+     "q": "This ancient measure was based on the length from elbow to middle finger tip",
+     "a": "a cubit",
+     "right": [
+      "Mary Kate"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 3,
+     "q": "You stay classy, Kali! A 2004 San Diego news anchorman \"&\" a 1984 Indiana Jones title structure",
+     "a": "Ron Burgundy & the Temple of Doom",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 8,
+     "q": "\"It did always seem so to us: but now, in the division of the kingdom, it appears not which of the dukes he values most\"",
+     "a": "King Lear",
+     "right": [],
+     "wrong": [
+      "Jonathan"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 11,
+     "q": "Pope Francis was selected for the big job by one of these special assemblies of the College of Cardinals",
+     "a": "a conclave",
+     "right": [
+      "Mary Kate"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 13,
+     "q": "You can be as mad as a hatter or as mad as this, also a character in \"Alice in Wonderland\"",
+     "a": "March Hare",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 28,
+     "q": "Subutai, a general of this people, was devastating Europe in the 13th c. when he was called back for an election for a new great khan",
+     "a": "the Mongols",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 23,
+     "q": "A knot equals one of these, a bit over 6,000 feet, per hour",
+     "a": "nautical mile",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 4,
+     "q": "An Alan Rickman \"Die Hard\" villain \"wants those detonators\" from a title Great Dane of 2002!",
+     "a": "Hans Gruber and Scooby-Doo",
+     "right": [],
+     "wrong": [
+      "Mary Kate"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 16,
+     "q": "\"My brother Jaques he keeps at school, & report speaks goldenly of his profit\"",
+     "a": "As You Like It",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 29,
+     "q": "The green comet that visited Earth in 2023 was thought to come from this cloud named for a Dutch astronomer",
+     "a": "the Oort",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 15,
+     "q": "In a 1696 play, a character says, if I get a patent \"I shall be as rich as\" this proverbially rolling-in-it king",
+     "a": "Croesus",
+     "right": [],
+     "wrong": [
+      "Jonathan"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 30,
+     "q": "Though this brother of Claudius & father of Caligula campaigned near the Rhine, that's not where he got his familiar name",
+     "a": "Germanicus",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 24,
+     "q": "Parsec, an astronomical unit of length, is a portmanteau of this word & \"second\"",
+     "a": "parallax",
+     "right": [],
+     "wrong": [
+      "Mary Kate"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 19,
+     "q": "Masks are compared when a \"Friday the 13th\" icon \"takes on\" a Robin Williams woman who enjoys a cake moisturizer",
+     "a": "Jason Meets Mrs. Doubtfire",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "ENTERTAINERS",
+  "q": "In 2022 Jeff Bezos awarded her $100 million to give to charitable causes because \"she gives with her heart\"",
+  "a": "Dolly Parton",
+  "right": [],
+  "wrong": [
+   "Mary Kate",
+   "Ben"
+  ]
+ },
+ "gameId": "8134",
+ "cat_notes": {
+  "J": [
+   "The category “IT'S A SPECIAL DAY” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "Clues about TV.",
+   "Each answer contains the letter “F”, and the clues are about Ive Letter Words.",
+   "Clues about The Animal Kingdom.",
+   "Name the neighboring state.",
+   "Clues about Getting an Eyeful."
+  ],
+  "DJ": [
+   "You'll name the play.",
+   "Clues about Random Facts.",
+   "The category “WHAT AN IDIOM!” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "Clues about General Assembly.",
+   "Clues about Weights and Measures.",
+   "With two parts to each response."
+  ],
+  "F": "Clues about Entertainers."
+ }
+}

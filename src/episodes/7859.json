@@ -1,0 +1,990 @@
+{
+ "show": "#8856",
+ "aired": "2023-04-24",
+ "note": "",
+ "contestants": [
+  {
+   "name": "Dillon Hupp",
+   "bio": "a development director from North Little Rock, Arkansas",
+   "short": "Dillon"
+  },
+  {
+   "name": "Année Tousseau",
+   "bio": "an editor from Alameda, California",
+   "short": "Année"
+  },
+  {
+   "name": "Emma Hill Kepron",
+   "bio": "a librarian from Winnipeg, Manitoba, Canada (whose 2-day cash winnings total $26,000)",
+   "short": "Emma"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Emma": 1800,
+   "Année": 1200,
+   "Dillon": 7400
+  },
+  "DJ": {
+   "Emma": 14700,
+   "Année": 3200,
+   "Dillon": 14200
+  },
+  "Final": {
+   "Emma": 7700,
+   "Année": 1,
+   "Dillon": 21999
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "AFRICAN GEOGRAPHY",
+    "SYNONYMS & ANTONYMS",
+    "NON-VIDEO GAMES",
+    "AMERICAN LIT",
+    "THAT'S AN ANIMAL SOUND",
+    "BEATLES \"S\"ONGS"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 2,
+     "q": "A tunnel to connect Spain & this African nation, with a 17-mile underwater segment, is now planned to start construction in 2030",
+     "a": "Morocco",
+     "right": [
+      "Dillon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 18,
+     "q": "Often following \"in rapid\", this word is synonymous with continuity, sequence & of course, concatenation",
+     "a": "succession",
+     "right": [
+      "Année"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 7,
+     "q": "These are the 2 pieces that can be moved to begin a chess game",
+     "a": "pawn & knight",
+     "right": [],
+     "wrong": [
+      "Dillon"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "The title of this Ken Kesey novel comes from a children's rhyme & follows \"One flew east, one flew west\"",
+     "a": "One Flew Over the Cuckoo's Nest",
+     "right": [
+      "Dillon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 14,
+     "q": "Bottle stoppers & wild cherry cough medicine are procured from this part of a tree",
+     "a": "the bark",
+     "right": [
+      "Emma"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 13,
+     "q": "\"So may I introduce to you the act you've known for all these years?\"",
+     "a": "\"Sgt. Pepper's Lonely Hearts Club Band\"",
+     "right": [
+      "Dillon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 3,
+     "q": "This \"colorful\" body of water touches the shores of Egypt & Eritrea",
+     "a": "the Red Sea",
+     "right": [
+      "Dillon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 20,
+     "q": "Indoors? I'd prefer the opposite & dine this 2-word way, a borrowing from Italian... oo, Italian sounds good, let's do that",
+     "a": "al fresco",
+     "right": [
+      "Dillon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 8,
+     "q": "Drawn cards in Monopoly include Community Chest & this type that could tell you to \"Advance token to Boardwalk\"",
+     "a": "Chance",
+     "right": [
+      "Dillon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 10,
+     "q": "An article in The New York Times about the gruesome murder of 4 in Kansas inspired Truman Capote to write this book",
+     "a": "In Cold Blood",
+     "right": [
+      "Dillon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 15,
+     "q": "Social media can be hazardous to your career health! Winston Moss said he got fired as a coach in 2018 for one of these posts",
+     "a": "a tweet",
+     "right": [
+      "Année"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 17,
+     "q": "\"Nothing is real and nothing to get hung about\"",
+     "a": "\"Strawberry Fields Forever\"",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 4,
+     "q": "About the size of France, this ex-French colony is seen here living up to 2 of the 3 words in its name",
+     "a": "the Central African Republic",
+     "right": [
+      "Dillon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 24,
+     "q": "Let's set the scene:\nA man in a wig works on the Constitution: \nInsure domestic placidity? Nah. Repose? Ataraxia?! Woof! Got it... this!",
+     "a": "insure domestic tranquility",
+     "right": [
+      "Dillon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 9,
+     "q": "With names like Sweetie & Bottomless, the hungry, hungry hippos are gobbling these",
+     "a": "marbles",
+     "right": [
+      "Emma"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 16,
+     "q": "In a Mark Twain novel, thinking he's none too bright, the townspeople give lawyer David Wilson this title nickname",
+     "a": "Pudd'nhead Wilson",
+     "right": [
+      "Dillon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 28,
+     "q": "Turning the title around in a cheeky way, a 1965 Broadway musical was called \"The\" this \"of the Greasepaint--The Smell of the Crowd\"",
+     "a": "the roar",
+     "right": [
+      "Emma"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 21,
+     "q": "\"With a love like that you know you should be glad\"",
+     "a": "\"She Loves You\"",
+     "right": [],
+     "wrong": [
+      "Emma"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 5,
+     "q": "This nearly 20,000-foot peak is the highest point in Africa",
+     "a": "Kilimanjaro",
+     "right": [
+      "Dillon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": true,
+     "order": 25,
+     "q": "Soldier of fortune & venal are both synonyms for this word",
+     "a": "mercenary",
+     "right": [
+      "Dillon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1200
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 11,
+     "q": "Collect 6 pieces of cheese & avoid being a snared rodent to win this game",
+     "a": "Mouse Trap",
+     "right": [
+      "Dillon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 19,
+     "q": "Who is John Galt? He's the organizer of a strike of great minds in this novel",
+     "a": "Atlas Shrugged",
+     "right": [
+      "Année"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "So, you were supposed to have an operation on your foot & your appendix got removed?! That doctor can only be described as this",
+     "a": "a quack",
+     "right": [
+      "Année"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 22,
+     "q": "\"I don't want to leave her now, you know I believe and how\"",
+     "a": "\"Something\"",
+     "right": [
+      "Dillon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 6,
+     "q": "3 of South Africa's 9 provinces, making up more than half the country's area, are called Eastern, Western & Northern this",
+     "a": "Cape",
+     "right": [],
+     "wrong": [
+      "Dillon"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 26,
+     "q": "Harm, damage or pain are on the flip side for this, from the Greek for \"all-healing\"; do you have the universal remedy?",
+     "a": "panacea",
+     "right": [
+      "Emma"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 12,
+     "q": "In using your 40-piece army, a good st--um, a good plan in this game is to save your miners for the endgame",
+     "a": "Stratego",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 27,
+     "q": "Born into it herself, Edith Wharton wrote about American high society of the 1870s in this Pulitzer-winning novel",
+     "a": "The Age of Innocence",
+     "right": [],
+     "wrong": [
+      "Année"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 30,
+     "q": "To die",
+     "a": "croak",
+     "right": [
+      "Dillon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 23,
+     "q": "\"Sunday's on the phone to Monday, Tuesday's on the phone to me\"",
+     "a": "\"She Came In Through The Bathroom Window\"",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "GREEK HISTORY",
+    "Y IS THE ONLY VOWEL",
+    "THE UNITED NATIONS",
+    "WHEREFORE ART, THOU",
+    "LOCAL BOY",
+    "MADE GOOD"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 25,
+     "q": "Fought in 2 stages during the 1940s, the Greek Civil War saw those of this political philosophy try & fail to take control",
+     "a": "Communists",
+     "right": [
+      "Emma"
+     ],
+     "wrong": [
+      "Année"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 15,
+     "q": "Until the 1500s these songs were mostly sung in Latin--everybody! \"Sancti, venite\"",
+     "a": "hymns",
+     "right": [
+      "Dillon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "\"We the peoples\" begins the preamble to this founding U.N. document that took effect October 24, 1945",
+     "a": "the Charter",
+     "right": [
+      "Dillon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 4,
+     "q": "Pop went the art--for a big pop--when \"Eight Elvises\" by this artist went for $100 million in 2008",
+     "a": "Warhol",
+     "right": [
+      "Emma"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 7,
+     "q": "This actor who grew up in Massachusetts with Matt Damon called his own Boston accent on film \"way better than Matt's\"",
+     "a": "Ben Affleck",
+     "right": [
+      "Année"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 20,
+     "q": "Universally known for their timely crafting, Rolex & Longines are watchmakers based in this country",
+     "a": "Switzerland",
+     "right": [
+      "Emma"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 1,
+     "q": "In 1967 Greece's politicians worried about a coup by generals, but a group of this lower rank took over for 7 years",
+     "a": "the colonels",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 16,
+     "q": "Here kitty, kitty! It's the wild cat seen here",
+     "a": "a lynx",
+     "right": [
+      "Emma"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 3,
+     "q": "To do public outreach, U.N. programs & agencies name these ambassadors, something the world could use more of",
+     "a": "Goodwill Ambassadors",
+     "right": [],
+     "wrong": [
+      "Emma"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 5,
+     "q": "Cast in bronze in 1904, this 6-foot naked dude is seriously going over stuff in his head in the gardens of a Paris museum",
+     "a": "The Thinker",
+     "right": [
+      "Dillon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 8,
+     "q": "The rap scene in & around this city has produced Scarface, Travis Scott & local girl Megan Thee Stallion",
+     "a": "Houston",
+     "right": [
+      "Dillon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 21,
+     "q": "Dean Zelinsky, a noted maker of these, has crafted them for Sammy Hagar, Nine Inch Nails & many other artists",
+     "a": "guitars",
+     "right": [
+      "Dillon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 26,
+     "q": "The cities of the Achaean League situated on the northern part of this peninsula met defeat in 146 B.C. at the hands of Rome",
+     "a": "the Peloponnesian Peninsula",
+     "right": [
+      "Emma"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 17,
+     "q": "A spacecraft does it when it passes a celestial body while close enough to gather scientific data",
+     "a": "a fly-by",
+     "right": [
+      "Emma"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 6,
+     "q": "The iconic building here is home to this body, headed by the person who's the U.N.'s main public face",
+     "a": "the Secretariat",
+     "right": [],
+     "wrong": [
+      "Dillon"
+     ],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": true,
+     "order": 12,
+     "q": "The installation of 7,503 gates, each 16 feet tall & financed by Christo & Jeanne-Claude for this NYC area, was completed in 2005",
+     "a": "Central Park",
+     "right": [
+      "Emma"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2000
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 9,
+     "q": "From Kenosha, Wisc., this actor & Avengers movie mainstay is the grandson of an immigrant from Calabria, Italy",
+     "a": "Mark Ruffalo",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 22,
+     "q": "An ad with an ape abusing very durable luggage wasn't for Samsonite as some recall but for this all-\"American\" competitor",
+     "a": "American Tourister",
+     "right": [
+      "Emma"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 27,
+     "q": "In 1864 Britain ceded to the Greeks these islands off Greece's West Coast that bespangle the sea of the same name",
+     "a": "the Ionian Islands",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 18,
+     "q": "The Maya were known to carve these symbols that represent sounds & words into blocks of rock",
+     "a": "glyphs",
+     "right": [
+      "Dillon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 29,
+     "q": "U.N. public information officer Omar Hernández' is among those who've gone from this student simulation to the real thing",
+     "a": "Model UN",
+     "right": [
+      "Dillon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 13,
+     "q": "Odilon Redon made an 1882 series of prints inspired by the imagery of this American author",
+     "a": "Poe",
+     "right": [
+      "Emma"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 10,
+     "q": "LeBron James' good works in this hometown 30 miles from Cleveland include starting the I Promise Public School",
+     "a": "Akron",
+     "right": [
+      "Dillon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 23,
+     "q": "You've won big playing this game at the casino; now it's time to buy one of the same-named crystal maker's chandeliers",
+     "a": "baccarat",
+     "right": [
+      "Emma"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2500
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 28,
+     "q": "In 2010 Greece was on the financial brink dealing with these \"measures\" whose name comes from a word meaning \"severe\"",
+     "a": "austere measures (austerity)",
+     "right": [
+      "Dillon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 19,
+     "q": "Y is the only vowel in this odd word for an alignment of 3 heavenly bodies",
+     "a": "syzygy",
+     "right": [
+      "Emma"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 30,
+     "q": "A 2022 Security Council resolution maintained an arms embargo on this country in light of the threat from the Al-Shabab group",
+     "a": "Somalia",
+     "right": [],
+     "wrong": [
+      "Emma"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 14,
+     "q": "Though called a post-impressionist, he had work like \"House of the Hanged Man\" in the first Impressionist show in 1874",
+     "a": "Paul Cézanne",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 11,
+     "q": "He grew up in Atherton, California, near Stanford, & maybe he's never going back again",
+     "a": "Lindsey Buckingham",
+     "right": [
+      "Emma"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 24,
+     "q": "This company that's still going strong made lanterns for the first night football game in the West & camping stoves for WWII",
+     "a": "Coleman",
+     "right": [
+      "Année"
+     ],
+     "wrong": [
+      "Dillon"
+     ],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "U.S. GEOGRAPHY",
+  "q": "Interstate 25 connects these 2 state capitals, 1st & 2nd in elevation, & in between runs through No. 3, Denver",
+  "a": "Cheyenne & Santa Fe",
+  "right": [
+   "Dillon"
+  ],
+  "wrong": [
+   "Année",
+   "Emma"
+  ]
+ },
+ "gameId": "7859",
+ "cat_notes": {
+  "J": [
+   "Clues about African Geography.",
+   "Clues about Synonyms and Antonyms.",
+   "Clues about Non-video Games.",
+   "Clues about American Lit.",
+   "Clues about That's an Animal Sound.",
+   "Each answer starts with “S”, and the clues are about Beatles Ongs."
+  ],
+  "DJ": [
+   "Clues about Greek History.",
+   "The category “Y IS THE ONLY VOWEL” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "Clues about The United Nations.",
+   "Clues about Wherefore Art, Thou.",
+   "Clues about Local Boy.",
+   "Clues about Made Good."
+  ],
+  "F": "Clues about U.S. Geography."
+ }
+}

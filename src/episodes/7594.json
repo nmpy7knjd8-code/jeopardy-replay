@@ -1,0 +1,1002 @@
+{
+ "show": "#8771",
+ "aired": "2022-12-26",
+ "note": "Ray Lalonde game 8.",
+ "contestants": [
+  {
+   "name": "Bobby Freitas",
+   "bio": "a middle school teacher from Long Beach, California",
+   "short": "Bobby"
+  },
+  {
+   "name": "Sarah Schmeer",
+   "bio": "an executive assistant from Portland, Oregon",
+   "short": "Sarah"
+  },
+  {
+   "name": "Ray Lalonde",
+   "bio": "a scenic artist from Toronto, Ontario, Canada (whose 7-day cash winnings total $192,700)",
+   "short": "Ray"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Ray": 7000,
+   "Sarah": 4400,
+   "Bobby": 3400
+  },
+  "DJ": {
+   "Ray": 21600,
+   "Sarah": 11600,
+   "Bobby": 3400
+  },
+  "Final": {
+   "Ray": 26600,
+   "Sarah": 23100,
+   "Bobby": 200
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "WORD PUZZLES",
+    "THE 18th CENTURY",
+    "THE OFFICE",
+    "VACATION ISLES",
+    "APPS & WEBSITES",
+    "REMEMBER THE ALAMO BOWL"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 6,
+     "q": "How about a nice healthy cup of this?\n\nSOUI⊃",
+     "a": "split pea soup",
+     "right": [
+      "Bobby"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 12,
+     "q": "She came to power in Russia in a 1762 coup against her husband, who was soon dead with the official cause as hemorrhoids",
+     "a": "Catherine the Great",
+     "right": [
+      "Sarah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 13,
+     "q": "Software such as Greetly can replace this person, like Ellie Kemper's character Erin on \"The Office\"",
+     "a": "a receptionist",
+     "right": [
+      "Ray"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 18,
+     "q": "Lovely Santorini, part of the Cyclades, lies off the southeastern coast of Greece in this sea",
+     "a": "the Aegean",
+     "right": [
+      "Bobby"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 26,
+     "q": "Sales for the last 3 months of 2020 for this video conferencing co. were up 370% from the same time in 2019, for... reasons",
+     "a": "Zoom",
+     "right": [
+      "Ray"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 21,
+     "q": "College football's Alamo Bowl is held annually at the Alamodome in this city",
+     "a": "San Antonio",
+     "right": [
+      "Bobby"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 5,
+     "q": "A legendary outlaw\n\nHOROBOD",
+     "a": "Robin Hood",
+     "right": [
+      "Ray"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 11,
+     "q": "The original this singing \"club\" began with some English guys who sang madrigals after dinner in the 1780s",
+     "a": "glee club",
+     "right": [
+      "Sarah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "A platonic female best friend & confidante to a co-worker; it was the title of a 1930 book & movie",
+     "a": "The Office Wife",
+     "right": [],
+     "wrong": [
+      "Ray",
+      "Sarah",
+      "Bobby"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 17,
+     "q": "Locals in Bali call Mount Agung the this body part of the world; must be an outie",
+     "a": "navel",
+     "right": [
+      "Ray"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 25,
+     "q": "It's not your grandma's Western Union (stop) it's \"a new era of messaging\" (stop) are you getting the idea (we'll stop)",
+     "a": "Telegram",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 20,
+     "q": "Since 2010 the Alamo Bowl has matched 2 of the top teams from these \"12\" conferences",
+     "a": "the Pac-12 & the Big 12",
+     "right": [
+      "Bobby"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 4,
+     "q": "Take a hike & take along some of this snack\n\nRIALT",
+     "a": "trail mix",
+     "right": [
+      "Sarah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 1,
+     "q": "6 men arrived in what's now Yemen in 1762 on Europe's first scientific expedition to this peninsula; one made it back home",
+     "a": "the Arabian Peninsula",
+     "right": [
+      "Bobby"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 28,
+     "q": "A popular office snack is the granola bar made since 1975 & named for this place we think is between Death Valley & Silicon Valley",
+     "a": "Nature Valley",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 14,
+     "q": "Ischia is a winey, picturesque island at the entrance to this bay, near the southern Italian city with the same name as the bay",
+     "a": "(the Bay of) Naples",
+     "right": [
+      "Ray"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 24,
+     "q": "It was founded in 1998 as Confinity but soon went by this name instead of something like Reimbursafriend or Dollar-a-Buddy",
+     "a": "PayPal",
+     "right": [
+      "Ray"
+     ],
+     "wrong": [
+      "Bobby"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 8,
+     "q": "At the 2012 Alamo Bowl, the Texas defense put the bag on Oregon State's quarterback with 10 of these",
+     "a": "sacks",
+     "right": [
+      "Ray"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 2,
+     "q": "New drivers may find it challenging\n\nG\nN\nI\nK\nC\nA\nB",
+     "a": "backing up",
+     "right": [
+      "Ray"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": true,
+     "order": 9,
+     "q": "Early works on popular science appeared, like one on this British scientist \"For the Ladies, or Dialogues on Light & Colors\"",
+     "a": "Newton",
+     "right": [
+      "Ray"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1800
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "Labor Day 2022 was a dividing line for several big companies when WFH became RTO, short for this",
+     "a": "return to office",
+     "right": [
+      "Sarah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 15,
+     "q": "It pairs with Caicos in the name of a group of sunny isles southeast of the Bahamas",
+     "a": "Turks",
+     "right": [
+      "Ray"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 22,
+     "q": "An \"SNL\" \"ad\" for this company included, \"I'd never live in North Carolina, but if I did, I could buy a big, gross mansion\"",
+     "a": "Zillow",
+     "right": [
+      "Sarah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 7,
+     "q": "In 2011 the Bears of this Waco school just up the road scored an Alamo Bowl record 67 points to beat Washington",
+     "a": "Baylor",
+     "right": [
+      "Bobby"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 3,
+     "q": "It was a hit for Stevie Wonder\n\nM1Y L1I1F1E",
+     "a": "\"For Once In My Life\"",
+     "right": [
+      "Sarah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 10,
+     "q": "The French loved the fur hat Ben Franklin wore to cover his boils & compared him to this Swiss-born philosopher of a state of nature",
+     "a": "Rousseau",
+     "right": [
+      "Ray"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 30,
+     "q": "Term for a group meeting to assess a completed project, or for an art exhibit covering a painter's whole career",
+     "a": "a retrospective",
+     "right": [
+      "Sarah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 16,
+     "q": "Northernmost of the main Hawaiian islands is this lush 5-letter isle also known as \"The Garden Isle\"",
+     "a": "Kauai",
+     "right": [
+      "Sarah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 23,
+     "q": "The stars aligned, & by the end of 2021, this platform reported it had 244 million cumulative reviews",
+     "a": "Yelp",
+     "right": [
+      "Bobby"
+     ],
+     "wrong": [
+      "Sarah"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 19,
+     "q": "Before he was a 2010 Super Bowl MVP for New Orleans, this QB was a 1998 Alamo Bowl MVP for Purdue",
+     "a": "Drew Brees",
+     "right": [
+      "Bobby"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "SOUNDS LIKE A UNIVERSITY",
+    "STAGE MUSICALS BY SONG LYRICS",
+    "AFRICA",
+    "YOUR ELEMENTAL HIT PARADE",
+    "WRITE PLACE",
+    "WRONG TIME"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "Anthracite\n+ \nfence opening",
+     "a": "coal gate",
+     "right": [
+      "Ray"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 8,
+     "q": "\"I'll never grow up, never grow up, never grow up, not me!\"",
+     "a": "Peter Pan",
+     "right": [
+      "Ray"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 29,
+     "q": "Firestone has long been an economic anchor of Liberia, running a 120,000-acre plantation for this product",
+     "a": "rubber",
+     "right": [
+      "Ray"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 30,
+     "q": "A mood stabilizer, it comes in at a helpful No. 3 (but it didn't crack the Top 40 for Nirvana)",
+     "a": "lithium",
+     "right": [
+      "Sarah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 25,
+     "q": "Colm Tóibín's \"Bad Blood\" documented the people & politics of this island",
+     "a": "Ireland",
+     "right": [
+      "Bobby"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 23,
+     "q": "The Latin for \"slow\" gives us this adjective, what you don't want to be deemed when you arrive at school",
+     "a": "tardy",
+     "right": [
+      "Sarah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 26,
+     "q": "Cereal grain\n+ \n12th letter of the alphabet",
+     "a": "corn L",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 7,
+     "q": "\"I want it long, straight, curly, fuzzy, snaggy, shaggy, ratty, matty, oily, greasy, fleecy\"",
+     "a": "Hair",
+     "right": [
+      "Sarah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 28,
+     "q": "Head to Tunisia to visit the ruins of this city whose name means \"new town\", founded around 800 B.C.",
+     "a": "Carthage",
+     "right": [
+      "Ray"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 24,
+     "q": "Not great for use in water pipes, this element joins the parade at No. 82",
+     "a": "lead",
+     "right": [
+      "Ray"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 13,
+     "q": "This 19th century author & satirist wrote the travel book \"Roughing It\" about spending time out West & away from the Civil War",
+     "a": "Twain",
+     "right": [
+      "Bobby"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 22,
+     "q": "You're so out of touch with societal mores, you're this; now time for the same-named bourbon cocktail",
+     "a": "old-fashioned",
+     "right": [
+      "Ray"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 19,
+     "q": "Like a road with half the traffic going in one direction & half in the opposite",
+     "a": "two-lane",
+     "right": [
+      "Bobby"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 4,
+     "q": "\"Hodel, oh Hodel, have I made a match for you! He's handsome, he's young! Alright, he's 62\"",
+     "a": "Fiddler on the Roof",
+     "right": [
+      "Ray"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": true,
+     "order": 9,
+     "q": "Battlefields of this war include Spioenkop in the Kwazulu-Natal province",
+     "a": "the Boer War",
+     "right": [
+      "Ray"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 3000
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 1,
+     "q": "Know it's No. 83 & used in fire-detection equipment & you'll be taking care of this, every day! Taking care of this, every way!",
+     "a": "bismuth",
+     "right": [
+      "Ray"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 12,
+     "q": "In \"Double Vision\", writer John Knowles recounts traveling to Jordan & stumbling upon David Lean directing this epic film",
+     "a": "Lawrence of Arabia",
+     "right": [
+      "Bobby"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 16,
+     "q": "Founded to combat polio, the March of Dimes today tries to combat this type of birth",
+     "a": "premature birth",
+     "right": [
+      "Sarah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 20,
+     "q": "Dietary fiber \n+\ngambling cubes",
+     "a": "bran dice",
+     "right": [
+      "Bobby"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 5,
+     "q": "\"There is a sucker born every minute, each time the second hand sweeps to the top like dandelions up they pop\"",
+     "a": "Barnum",
+     "right": [],
+     "wrong": [
+      "Ray",
+      "Sarah",
+      "Bobby"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 10,
+     "q": "These non-Muslims make up the second-largest religious group in Egypt",
+     "a": "the Copts",
+     "right": [
+      "Ray"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 2,
+     "q": "Grandpa's hip enough to know nothing can replace this metal at No. 22",
+     "a": "titanium",
+     "right": [
+      "Ray"
+     ],
+     "wrong": [
+      "Bobby"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 14,
+     "q": "This classic 1934 novel opens, \"I am living at the Villa Borghese\", Henry Miller's name for Paris' Villa Seurat",
+     "a": "Tropic of Cancer",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 17,
+     "q": "This idiom applies literally if you promise to pay 10 bucks on Tuesday & show up with 9 on Wednesday",
+     "a": "a day late & a dollar short",
+     "right": [
+      "Sarah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 4000
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 21,
+     "q": "Black table spice\n+\na unit of force",
+     "a": "pepper dyne",
+     "right": [
+      "Ray"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 6,
+     "q": "\"Little more speed, \nlittle more rope, \nlittle more wind, \nlittle more hope, \ngotta get this stupid kite to fly\"",
+     "a": "You're a Good Man, Charlie Brown",
+     "right": [
+      "Ray"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 11,
+     "q": "The name of a whole country was countrified from the name of this coastal desert of southwest Africa",
+     "a": "the Namib",
+     "right": [],
+     "wrong": [
+      "Ray"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 3,
+     "q": "Just out of the Hot 100 at 102 comes this element named for a very rich Swede",
+     "a": "nobelium",
+     "right": [
+      "Ray"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 15,
+     "q": "In his travel journals, Lawrence Ferlinghetti wrote of taking this hyphenated railway, which played very loud Russian music",
+     "a": "the Trans-Siberian Railway",
+     "right": [
+      "Sarah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 18,
+     "q": "Unripe fruit can be called this, which may also refer to your brand of juvenile humor",
+     "a": "immature",
+     "right": [],
+     "wrong": [
+      "Bobby"
+     ],
+     "stumper": true,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "TV FINALES",
+  "q": "In a reunion over 40 years in the making, Dolly Parton appeared as an angel named Agnes in the final episode of this comedy in 2022",
+  "a": "Grace and Frankie",
+  "right": [
+   "Sarah",
+   "Ray"
+  ],
+  "wrong": [
+   "Bobby"
+  ]
+ },
+ "gameId": "7594",
+ "cat_notes": {
+  "J": [
+   "Clues about Word Puzzles.",
+   "Clues about The 18th Century.",
+   "Clues about The Office.",
+   "Clues about Vacation Isles.",
+   "Clues about Apps and Websites.",
+   "Clues about Remember the Alamo Bowl."
+  ],
+  "DJ": [
+   "The answers involve homophones — words that sound alike but differ in meaning or spelling.",
+   "Clues about Stage Musicals by Song Lyrics.",
+   "Clues about Africa.",
+   "Clues about Your Elemental Hit Parade.",
+   "Clues about Write Place.",
+   "Clues about Wrong Time."
+  ],
+  "F": "Clues about TV Finales."
+ }
+}

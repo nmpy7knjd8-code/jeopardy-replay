@@ -1,0 +1,983 @@
+{
+ "show": "#8761",
+ "aired": "2022-12-12",
+ "note": "Sean McShane game 1.",
+ "contestants": [
+  {
+   "name": "Kris Anne Bonifacio",
+   "bio": "a website manager from Raleigh, North Carolina",
+   "short": "Kris Anne"
+  },
+  {
+   "name": "Sean McShane",
+   "bio": "a nonprofit membership associate originally from West Islip, New York",
+   "short": "Sean"
+  },
+  {
+   "name": "Matthew Ott",
+   "bio": "an accountant originally from Boston, Massachusetts (whose 1-day cash winnings total $23,197)",
+   "short": "Matthew"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Matthew": 3400,
+   "Sean": 8600,
+   "Kris Anne": 2600
+  },
+  "DJ": {
+   "Matthew": 9400,
+   "Sean": 23600,
+   "Kris Anne": 4000
+  },
+  "Final": {
+   "Matthew": 9400,
+   "Sean": 20600,
+   "Kris Anne": 0
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "BEN FRANKLIN",
+    "TRUE GRIME",
+    "WITH A SONG IN YOUR BRAIN",
+    "LOST FOR WORDS",
+    "OUTBREAKS",
+    "THE MOVIE'S TITLE IN OTHER COUNTRIES"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 4,
+     "q": "In his native Boston, Ben wrote that the kids of status-seeking parents come out of this college as blockheads",
+     "a": "Harvard",
+     "right": [
+      "Sean"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 30,
+     "q": "As a noun, it's earth for growing plants; as a verb, it means to stain",
+     "a": "soil",
+     "right": [
+      "Sean"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "This word for a song's main tune is from the Greek for \"song\"",
+     "a": "a melody",
+     "right": [
+      "Matthew"
+     ],
+     "wrong": [
+      "Sean"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 16,
+     "q": "If you're neglected, you may fall through these; in 2020 President Obama said our health systems allow it to happen to the poor",
+     "a": "the cracks",
+     "right": [
+      "Sean"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 21,
+     "q": "This paralytic disease peaked in the U.S. in the 1950s, closing swimming pools & movie theaters",
+     "a": "polio",
+     "right": [
+      "Kris Anne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 10,
+     "q": "Who ya gonna call in China? \"Super Power Dare Die Team\"",
+     "a": "the Ghostbusters",
+     "right": [
+      "Sean"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 5,
+     "q": "As royally appointed deputy this 2-word job, Ben got mail from Charleston to Boston by road instead of by ship via London",
+     "a": "Postmaster General",
+     "right": [
+      "Sean"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 29,
+     "q": "It can precede \"of the earth\", but a \"Men in Black\" tagline was \"protecting the Earth from the\" this \"of the universe\"",
+     "a": "scum",
+     "right": [
+      "Kris Anne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "Originally a song meant to be danced to, today it means a song telling a romantic or sentimental story",
+     "a": "a ballad",
+     "right": [
+      "Matthew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 17,
+     "q": "Buccaneers abandoned people on islands this way that begins with a color",
+     "a": "marooned",
+     "right": [
+      "Kris Anne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 22,
+     "q": "Isaac Newton was at home for 2 years waiting out this infectious fever",
+     "a": "the (bubonic) plague",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 11,
+     "q": "\"Vaselina\" was the word in Mexico",
+     "a": "Grease",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 6,
+     "q": "Ben's discoveries led to the lightning rod & to the end of the electrocution of more than a hundred of these colleagues of Quasimodo",
+     "a": "bell ringers",
+     "right": [
+      "Sean"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 28,
+     "q": "It means boggy or swampy ground; as a verb it's what happened to the wagon that got stuck there",
+     "a": "a mire (mired)",
+     "right": [
+      "Sean"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 3,
+     "q": "To sing in a slow, soft voice, like Bing Crosby",
+     "a": "to croon",
+     "right": [
+      "Sean"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 18,
+     "q": "This piscine phrase describes someone lost in a new environment",
+     "a": "a fish out of water",
+     "right": [
+      "Sean"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 23,
+     "q": "In 1918 & 1919 20-50 million worldwide perished from this, so named for the country where it was widely reported",
+     "a": "the Spanish flu",
+     "right": [
+      "Matthew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 12,
+     "q": "Nice spoiler, Mexico! Geena Davis & Susan Sarandon had \"An Unexpected End\"",
+     "a": "Thelma & Louise",
+     "right": [
+      "Sean"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 7,
+     "q": "An edit Ben made for Thomas Jefferson changed \"we hold these truths to be sacred & undeniable\" to this, rational instead of religious",
+     "a": "self-evident",
+     "right": [
+      "Matthew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 27,
+     "q": "Stinking this is a type of disease caused by parasitic fungi on plants; an indecent magazine is said to contain it, too",
+     "a": "smut",
+     "right": [
+      "Sean"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": true,
+     "order": 8,
+     "q": "The pleasing combination of simultaneously sounded notes, it was composer Arnold Schoenberg's last word",
+     "a": "harmony",
+     "right": [
+      "Matthew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1400
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 19,
+     "q": "This Latin word follows \"in\" to describe someone not in attendance",
+     "a": "absentia",
+     "right": [
+      "Sean"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 24,
+     "q": "A 19th century pandemic of this water-borne disease began in the delta region of the Ganges River",
+     "a": "cholera",
+     "right": [
+      "Kris Anne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 13,
+     "q": "China enjoyed \"A Very Powerful Whale Runs to Heaven\"",
+     "a": "Free Willy",
+     "right": [
+      "Kris Anne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 15,
+     "q": "When a friend asked if the Constitution set up a republic or a monarchy, Ben replied, \"A republic\" followed by these 5 words",
+     "a": "if you can keep it",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 26,
+     "q": "A scandal may do this to your reputation; it's also a word for a discoloration caused by oxidation on some metals",
+     "a": "tarnish",
+     "right": [
+      "Sean"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 9,
+     "q": "Publishing company Hal Leonard offers \"the world's premier destination for digital\" this loose-printed music; kind of an oxymoron",
+     "a": "sheet music",
+     "right": [
+      "Sean"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 20,
+     "q": "During World War I you didn't want to get lost in this area between opposing trenches",
+     "a": "no man's land",
+     "right": [
+      "Matthew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 25,
+     "q": "Variola major is the virus that causes this acute infectious disease",
+     "a": "smallpox",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 14,
+     "q": "Japan got right down to it for a Nevada-set film: \"I'm Drunk & You're a Prostitute\"",
+     "a": "Leaving Las Vegas",
+     "right": [
+      "Sean"
+     ],
+     "wrong": [
+      "Matthew"
+     ],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "19th CENTURY LITERATURE",
+    "CHICAGO TV",
+    "\"Y-U\"",
+    "NO GOOD",
+    "LOW DOWN",
+    "SEW & SEW"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 30,
+     "q": "The hero of this Stevenson novel finds himself on a ship he had no intention of sailing on--yup, he's been this title",
+     "a": "Kidnapped",
+     "right": [],
+     "wrong": [
+      "Sean"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 29,
+     "q": "Of surgeon, chef or hit man, it's the profession of Carmy, who returns to his home city to ply his trade in \"The Bear\"",
+     "a": "chef",
+     "right": [
+      "Kris Anne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 9,
+     "q": "An entire tree used to be burned at Christmastime, but now it's just this in the fireplace",
+     "a": "a yule log",
+     "right": [
+      "Sean"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 16,
+     "q": "This Chicago man's operation had $100 million in annual revenue; in 2020s instead of 1920s dollars, that's about $1.8 billion",
+     "a": "Al Capone",
+     "right": [
+      "Sean"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 10,
+     "q": "With Low Country ingenuity, in 1932 the Dutch built a 20-mile-long one of these to cut off the Zuider Zee & create a whole new province",
+     "a": "a dike",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 15,
+     "q": "Dating back hundreds of years is the simple fastener known as a hook & this body part",
+     "a": "an eye",
+     "right": [
+      "Sean"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 24,
+     "q": "A work by James Fenimore Cooper sometimes called the first espionage novel has this simple title",
+     "a": "The Spy",
+     "right": [
+      "Kris Anne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 28,
+     "q": "In the HBO version of this novel, Rose Leslie is Art Institute student Clare, involved with a chronologically nonlinear guy",
+     "a": "The Time Traveler's Wife",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 8,
+     "q": "First name of famed Soviets Gagarin & Andropov",
+     "a": "Yuri",
+     "right": [
+      "Matthew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 17,
+     "q": "In 1992 this ex-leader of Panama was convicted of cocaine trafficking, among other things",
+     "a": "Noriega",
+     "right": [
+      "Matthew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 11,
+     "q": "The lower California peninsula also goes by this other name",
+     "a": "Baja California",
+     "right": [
+      "Sean"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 23,
+     "q": "This stitch, named for obvious reasons, is often used to finish the edges & prevent fraying",
+     "a": "a zigzag stitch",
+     "right": [
+      "Kris Anne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 3,
+     "q": "This oldest member of the 3 Musketeers in Dumas' novel is revealed to be the Comte de la Fere",
+     "a": "Athos",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 22,
+     "q": "In NBC's \"One Chicago\" program block, it comes between \"Chicago Med\" & \"Chicago P.D.\"",
+     "a": "Chicago Fire",
+     "right": [
+      "Sean"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 7,
+     "q": "This desert plant seen here is actually part of the asparagus family",
+     "a": "a yucca",
+     "right": [
+      "Sean"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 18,
+     "q": "It's the last name of Massachusetts crime boss Whitey & his brother William, a long-serving president of the state senate",
+     "a": "Bulger",
+     "right": [
+      "Sean"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": true,
+     "order": 12,
+     "q": "The \"lower 48\" refers to U.S. states that are this, a 10-letter word meaning \"in contact\"",
+     "a": "contiguous",
+     "right": [
+      "Sean"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 3000
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 27,
+     "q": "An old adage that's helpful when preparing your fabric is do this \"twice, cut once\"",
+     "a": "measure",
+     "right": [
+      "Matthew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 4,
+     "q": "This Englishwoman wrote 1823's \"Valperga\"; her first novel also had a one-word title but is more famous",
+     "a": "Mary Shelley",
+     "right": [],
+     "wrong": [
+      "Kris Anne"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 4600
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 1,
+     "q": "On this sitcom, cousins from different worlds Larry & Balki worked for the Chicago Chronicle newspaper",
+     "a": "Perfect Strangers",
+     "right": [
+      "Matthew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 6,
+     "q": "Its neighbors include Alaska to the west & British Columbia to the south",
+     "a": "the Yukon",
+     "right": [
+      "Sean"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 19,
+     "q": "One of Time's \"Top 10 Real-Life Mob Bosses\", this 1980s Medellín cartel man was said to burn $2 million to stay warm when on the run",
+     "a": "Escobar",
+     "right": [
+      "Matthew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 13,
+     "q": "This body of water, the lowest point on Earth, is part of a rift valley formed by lowering of the Earth's crust, not by erosion",
+     "a": "the Dead Sea",
+     "right": [
+      "Sean"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 26,
+     "q": "Here are some of these sewing machine necessities with an assortment of thread",
+     "a": "a bobbin",
+     "right": [
+      "Sean"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 21,
+     "q": "The Duke of Ferrara is the possibly murderous narrator of this Robert Browning poem",
+     "a": "My Last Duchess",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 2,
+     "q": "\"The Chi\" about kids & adults on the South Side, was created by this actress, seen with castmate Alex Hibbert",
+     "a": "Lena Waithe",
+     "right": [
+      "Kris Anne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 5,
+     "q": "One glamping option is a nice one of these huts from central Asia",
+     "a": "a yurt",
+     "right": [
+      "Sean"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 20,
+     "q": "Vincent Gigante long feigned insanity, walking NYC in his pajamas & earning this mafia-related nickname; lose the opening \"G\" sound",
+     "a": "\"The Oddfather\"",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 14,
+     "q": "In Scotland, the Lowlands can refer to the valley lying in the basins between the River Forth & this other river to the south",
+     "a": "the Clyde",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 25,
+     "q": "It's to use long, temporary stitches to hold something together, not to keep it moist",
+     "a": "to baste",
+     "right": [
+      "Kris Anne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "LATIN PHRASES",
+  "q": "Originally, this 3-word phrase referred to when a doctor or apothecary substituted one medicine for another",
+  "a": "quid pro quo",
+  "right": [],
+  "wrong": [
+   "Kris Anne",
+   "Matthew",
+   "Sean"
+  ]
+ },
+ "gameId": "7554",
+ "cat_notes": {
+  "J": [
+   "Clues about Ben Franklin.",
+   "Clues about True Grime.",
+   "Clues with a Song in Your Brain.",
+   "Clues about Lost for Words.",
+   "Clues about Outbreaks.",
+   "Clues about The Movie's Title in Other Countries."
+  ],
+  "DJ": [
+   "Clues about 19th Century Literature.",
+   "Clues about Chicago TV.",
+   "Each answer contains the letter group “Y-U”.",
+   "Clues about No Good.",
+   "Clues about Low Down.",
+   "Clues about Sew and Sew."
+  ],
+  "F": "Clues about Latin Phrases."
+ }
+}

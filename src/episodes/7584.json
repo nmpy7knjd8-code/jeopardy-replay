@@ -1,0 +1,996 @@
+{
+ "show": "#8769",
+ "aired": "2022-12-22",
+ "note": "Ray Lalonde game 6.",
+ "contestants": [
+  {
+   "name": "Kathy Boelter",
+   "bio": "an administrator from Sunnyvale, California",
+   "short": "Kathy"
+  },
+  {
+   "name": "Mitch Cutter",
+   "bio": "a salmon conservation associate from Boise, Idaho",
+   "short": "Mitch"
+  },
+  {
+   "name": "Ray Lalonde",
+   "bio": "a scenic artist from Toronto, Ontario, Canada (whose 5-day cash winnings total $132,200)",
+   "short": "Ray"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Ray": 11000,
+   "Mitch": 2400,
+   "Kathy": 4200
+  },
+  "DJ": {
+   "Ray": 24200,
+   "Mitch": 16800,
+   "Kathy": 5200
+  },
+  "Final": {
+   "Ray": 34000,
+   "Mitch": 18799,
+   "Kathy": 200
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "TECHNOLOGY HISTORY",
+    "CHANGE THE VOWEL",
+    "A BIT OF EVERYTHING",
+    "WE COME TO THIS PLACE FOR...",
+    "MAGIC",
+    "NICOLE KIDMAN SAYS"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 15,
+     "q": "A 2012 pilot program by police in Rialto, California used BWCs, body-worn these",
+     "a": "cameras",
+     "right": [
+      "Mitch"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 25,
+     "q": "He's the misunderstood alpha creature of Skull Island",
+     "a": "King Kong",
+     "right": [
+      "Kathy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 30,
+     "q": "Genesis 9:28 says he \"lived after the flood three hundred and fifty years\"",
+     "a": "Noah",
+     "right": [
+      "Ray"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 29,
+     "q": "...books, with more than 25 million of them cataloged at this site founded in 1800",
+     "a": "the Library of Congress",
+     "right": [
+      "Ray"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 27,
+     "q": "In a 1964 movie Mary Poppins flew into town with one of these, which had a magical talking parrot head handle",
+     "a": "an umbrella",
+     "right": [
+      "Mitch"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 10,
+     "q": "In Monterey on HBO: \n\"My life isn't perfect, Madeline, bad things have happened to me. I do understand the concept\"",
+     "a": "Big Little Lies",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 13,
+     "q": "The genius & importance of Eli Whitney's cotton gin was that it easily removed these from raw cotton",
+     "a": "seeds",
+     "right": [
+      "Ray"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 24,
+     "q": "Adjective meaning indecisive or weakly ineffective",
+     "a": "wishy-washy",
+     "right": [
+      "Ray"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 26,
+     "q": "Pheasant Island--Ile des Faisans in French or Faisai Uhartea in Basque--swaps nationalities biannually between France & this nation",
+     "a": "Spain",
+     "right": [
+      "Ray"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "...serenity: the Kumano Nachi Taisha shrine of this religion, with Japan's tallest waterfall behind it",
+     "a": "Shinto",
+     "right": [
+      "Ray"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 28,
+     "q": "Sometimes heard in magical chants, this rhyming term now refers to deception or trickery of any kind",
+     "a": "hocus-pocus",
+     "right": [
+      "Kathy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 9,
+     "q": "& Nicole Kidman sings! To Ewan McGregor: \n\"The only way of loving me baby, is to pay a lovely fee\"",
+     "a": "Moulin Rouge!",
+     "right": [
+      "Mitch"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 4,
+     "q": "Early on Dec. 7, 1941, a new SCR-270 radar device detected but didn't recognize Japanese aircraft over this island",
+     "a": "Oahu",
+     "right": [
+      "Mitch"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 23,
+     "q": "The name of the club in \"Cabaret\", or a candy bar",
+     "a": "Kit Kat",
+     "right": [
+      "Ray"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 18,
+     "q": "In 2022 Sting & Shaggy honored a third musician, this singing legend, with \"Com Fly Wid Mi\", doing his songs but in a reggae style",
+     "a": "Sinatra",
+     "right": [
+      "Mitch"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 2,
+     "q": "...otherworldly objects: this NASA space center in Houston has a large cache of Moon rocks from the Apollo missions",
+     "a": "the Johnson Space Center",
+     "right": [
+      "Mitch"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": true,
+     "order": 21,
+     "q": "Born in New Jersey in 1956, this magician has \"A Christmas Carol\" in his top 10 books list, not the 1850 book he's named for",
+     "a": "David Copperfield",
+     "right": [
+      "Ray"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 3000
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 7,
+     "q": "In a remake: \n\"All of the women are always busy & perfect & smiling, & all of the men are always happy\"",
+     "a": "The Stepford Wives",
+     "right": [
+      "Ray"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 12,
+     "q": "In 1998, Campbell Aird got what was called the first this arm, electronically controlled like on TV's \"Six Million Dollar Man\"",
+     "a": "a bionic arm",
+     "right": [
+      "Kathy"
+     ],
+     "wrong": [
+      "Mitch"
+     ],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 11,
+     "q": "\"A rub dub, just relaxing in the tub\" is a line from this Bobby Darin hit song",
+     "a": "\"Splish Splash\"",
+     "right": [
+      "Ray"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 16,
+     "q": "Ursus maritimus, this animal is amazing both on land & at sea, able to run up to 25 mph & prey on beluga whales",
+     "a": "polar bears",
+     "right": [
+      "Mitch"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 3,
+     "q": "...laughs, at this L.A. \"Store\" opened in 1972 on Sunset Blvd., with notable alumni like Billy Crystal & Eddie Murphy",
+     "a": "The Comedy Store",
+     "right": [
+      "Kathy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 5,
+     "q": "It's the term for a witch's aide; it might take the form of a cat or a toad & was said to feed from a witch's mole or wart",
+     "a": "a familiar",
+     "right": [
+      "Mitch"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 6,
+     "q": "Getting nose-y: \n\"Leonard, always the years between us. Always the years. Always, the love. Always...\" (& we have a movie title!)",
+     "a": "the hours",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 14,
+     "q": "Paul II, pope from 1464 to 1471, set up Rome's first of these new machines",
+     "a": "a printing press",
+     "right": [
+      "Kathy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 22,
+     "q": "Informal conversation about unimportant matters",
+     "a": "chit-chat",
+     "right": [
+      "Ray"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 17,
+     "q": "The first televised British royal wedding united this princess & photographer Antony Armstrong-Jones in 1960",
+     "a": "Princess Margaret",
+     "right": [
+      "Kathy"
+     ],
+     "wrong": [
+      "Mitch"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 19,
+     "q": "...caves: this Kentucky attraction, the world's longest system of them, with more than 400 miles of explored passages",
+     "a": "Mammoth Cave",
+     "right": [
+      "Ray"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 20,
+     "q": "Seen here, this late illusionist was a master of card tricks, enabled by his 52 assistants",
+     "a": "Ricky Jay",
+     "right": [
+      "Ray"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 8,
+     "q": "To Tom Cruise: \n\"Nobody knows what's gonna happen next... & certainly not on a racetrack with 40 other infantile egomaniacs\"",
+     "a": "Days of Thunder",
+     "right": [
+      "Ray"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "CLIMATE",
+    "BIG BATTLES",
+    "THE BOTTOM 10",
+    "ATLANTIC ISLANDS",
+    "THERE'S A BOOK IN THAT BOOK",
+    "CROSSWORD CLUES \"N\""
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 30,
+     "q": "A byproduct of using fossil fuels, it's the main greenhouse gas affecting Earth's climate due to human activity",
+     "a": "carbon dioxide",
+     "right": [
+      "Mitch"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 10,
+     "q": "This pivotal July 1863 battle is depicted here",
+     "a": "Gettysburg",
+     "right": [
+      "Mitch"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 29,
+     "q": "\"The Hearts Filthy Lesson\" only went to 92 for this legend; \"Suffragette City\" never even cracked the chart",
+     "a": "David Bowie",
+     "right": [
+      "Mitch"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 28,
+     "q": "East Falkland is the larger of the 2 of that name & in 1982 was the scene of battles between these 2 nations",
+     "a": "Great Britain & Argentina",
+     "right": [
+      "Ray"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 24,
+     "q": "Anagram fans know Loney M. Setnick's \"The Pony Party!\" is a feature in the \"Autobiography\" of this author of \"Unfortunate Events\"",
+     "a": "(Lemony) Snicket",
+     "right": [
+      "Mitch"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 21,
+     "q": "\"Super\" star\n(4 letters)",
+     "a": "nova",
+     "right": [
+      "Kathy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 17,
+     "q": "This climate region is defined as being between about 23.5 degrees north & south of the equator",
+     "a": "the tropics",
+     "right": [
+      "Ray"
+     ],
+     "wrong": [
+      "Mitch"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 6,
+     "q": "Boosting morale, Washington's troops defeated a force of these mercenaries at the Battle of Trenton in 1776",
+     "a": "the Hessians",
+     "right": [
+      "Kathy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 23,
+     "q": "Not many could take \"The Star Spangled Banner\" into the Top 20 twice, but she did; however, \"Whatchulookinat\" only looked at 96",
+     "a": "Whitney Houston",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 12,
+     "q": "Scotland's Shetland Islands form part of the border between this sea & the rest of the Atlantic",
+     "a": "the North Sea",
+     "right": [
+      "Ray"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 25,
+     "q": "In this novel, Winston is inspired by a copy of \"The Theory and Practice of Oligarchical Collectivism\"",
+     "a": "1984",
+     "right": [
+      "Ray"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 20,
+     "q": "Rules for acceptable online behavior\n(10 letters)",
+     "a": "netiquette",
+     "right": [
+      "Ray"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 16,
+     "q": "Affecting weather worldwide, it's a female-named periodic anomaly of cooler temperatures in the southeastern Pacific Ocean",
+     "a": "La Niña",
+     "right": [
+      "Mitch"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 7,
+     "q": "Fought from Feb. to Dec. with 700,000 casualties, the Battle of Verdun was the longest of this war",
+     "a": "World War I",
+     "right": [
+      "Ray"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 22,
+     "q": "We'll be blunt; James Blunt topped the chart in 2006 with this \"gorgeous\" song but \"High\" only went as high as 100 that year",
+     "a": "\"You're Beautiful\"",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 4,
+     "q": "Tenerife is the largest island of this Atlantic group that belongs to Spain",
+     "a": "the Canary Islands",
+     "right": [
+      "Ray"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 1,
+     "q": "In a book by this man, \"Misery's Return\" was a hard-to-execute novel by his character Paul Sheldon",
+     "a": "Stephen King",
+     "right": [
+      "Mitch"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 5,
+     "q": "Buddhist's bliss \n(7 letters)",
+     "a": "nirvana",
+     "right": [
+      "Kathy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 11,
+     "q": "This \"effect\" governs in which direction hurricanes & other storms will spin",
+     "a": "the Coriolis effect",
+     "right": [
+      "Mitch"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 8,
+     "q": "1709's Battle of Poltava in Ukraine saw this czar lead an army to victory over Sweden, spurring the rise of the Russian Empire",
+     "a": "Peter the Great",
+     "right": [
+      "Kathy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 26,
+     "q": "No stranger to the Top 10, this Jersey band could only take \"I'll Sleep When I'm Dead\" to 97 in '93",
+     "a": "Bon Jovi",
+     "right": [
+      "Ray"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 3,
+     "q": "Corvo Island of the Azores is a home to this diving bird that locals call corvo-marinho",
+     "a": "cormorant",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 2,
+     "q": "\"The Grasshopper Lies Heavy\" is an underground novel in this Philip K. Dick book set in a conquered America",
+     "a": "The Man in the High Castle",
+     "right": [
+      "Mitch"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 3600
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 18,
+     "q": "Halo or rain cloud\n(6 letters)",
+     "a": "nimbus",
+     "right": [
+      "Ray"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 15,
+     "q": "One climate provision in 2022's big Democratic bill provides money to protect these \"O.G.\" forests",
+     "a": "old growth",
+     "right": [
+      "Mitch"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": true,
+     "order": 9,
+     "q": "Joan of Arc's victory over the English at this French city in 1429 was a turning point in the Hundred Years' War",
+     "a": "Orleans",
+     "right": [],
+     "wrong": [
+      "Kathy"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 3000
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 27,
+     "q": "\"So What'cha Want\" hit 93 for this trio in 1992, though some call the album it's off, \"Check Your Head\", a masterpiece",
+     "a": "the Beastie Boys",
+     "right": [
+      "Ray"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 14,
+     "q": "Around 1450, vines imported from Crete were used to start vineyards on this Portuguese island known for its fortified wine",
+     "a": "Madeira",
+     "right": [
+      "Mitch"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 13,
+     "q": "Hannibal Lecter is found with a copy of \"Le grand dictionnaire de cuisine\" in this \"colorful\" novel",
+     "a": "Red Dragon",
+     "right": [
+      "Mitch"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 19,
+     "q": "Coin collector\n(11 letters)",
+     "a": "numismatist",
+     "right": [
+      "Ray"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "FAMOUS NAMES",
+  "q": "In 2001 he published a book called \"Banging Your Head Against a Brick Wall\"; in 2002, \"Existencilism\"",
+  "a": "Banksy",
+  "right": [
+   "Mitch",
+   "Ray"
+  ],
+  "wrong": [
+   "Kathy"
+  ]
+ },
+ "gameId": "7584",
+ "cat_notes": {
+  "J": [
+   "Clues about Technology History.",
+   "Each correct response is two words, different by one vowel.",
+   "Clues about A Bit of Everything.",
+   "The category “WE COME TO THIS PLACE FOR...” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "Clues about Magic.",
+   "You'll have to name the movie or show in which she speaks each of these lines."
+  ],
+  "DJ": [
+   "Clues about Climate.",
+   "Clues about Big Battles.",
+   "These are songs that peaked within numbers 91 and 100 on the Billboard chart.",
+   "Clues about Atlantic Islands.",
+   "Clues about There's a Book in That Book.",
+   "Crossword-style clues; each answer starts with “N”."
+  ],
+  "F": "Clues about Famous Names."
+ }
+}

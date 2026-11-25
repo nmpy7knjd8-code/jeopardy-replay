@@ -1,0 +1,986 @@
+{
+ "show": "#8900",
+ "aired": "2023-06-23",
+ "note": "Ben Goldstein game 6.",
+ "contestants": [
+  {
+   "name": "Ron Nurwisah",
+   "bio": "an editor originally from Toronto, Ontario, Canada",
+   "short": "Ron"
+  },
+  {
+   "name": "Donna Matturri",
+   "bio": "a librarian from Columbus, Ohio",
+   "short": "Donna"
+  },
+  {
+   "name": "Ben Goldstein",
+   "bio": "a content marketing strategist from Dexter, Michigan (whose 5-day cash winnings total $49,298)",
+   "short": "Ben"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Ben": 5000,
+   "Donna": 2600,
+   "Ron": 2400
+  },
+  "DJ": {
+   "Ben": 16200,
+   "Donna": 11400,
+   "Ron": 13800
+  },
+  "Final": {
+   "Ben": 4700,
+   "Donna": 17400,
+   "Ron": 0
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "REMEMBER BASEBALL?",
+    "BOOKS & AUTHORS",
+    "ANIMAL CHANGE A LETTER",
+    "WHO REIGNED IN ENGLAND WHEN...",
+    "I LEARNED IT ON SCHOOLHOUSE ROCK",
+    "KIDS OF THE '70s, REJOICE!"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 30,
+     "q": "Remember 1969, when these New Yorkers became the first expansion team to win a World Series?",
+     "a": "the Mets",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 7,
+     "q": "In this novel, Holden Caulfield observes, \"All morons hate it when you call them a moron\"",
+     "a": "The Catcher in the Rye",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 29,
+     "q": "These two creatures are only one letter different but not really similar otherwise",
+     "a": "lion & loon",
+     "right": [
+      "Ron"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 16,
+     "q": "Francis Drake circumnavigated the globe; what an age",
+     "a": "Elizabeth I",
+     "right": [
+      "Ron"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 21,
+     "q": "\"Rubbin' a comb with wool or fur... strokin' a cat to make it purr, you're building up\" this",
+     "a": "static electricity",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 15,
+     "q": "The groovy girl seen here brings back the '70s with some serious flair with this style of pants",
+     "a": "bell-bottoms",
+     "right": [
+      "Donna"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 23,
+     "q": "How about 1941, when this guy also known as \"Joltin' Joe\" had a 56-game hit streak?",
+     "a": "(Joe) DiMaggio",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 6,
+     "q": "A mouse named Mr. Jingles does some time in prison in this Stephen King book",
+     "a": "The Green Mile",
+     "right": [
+      "Donna"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 12,
+     "q": "A \"gruff\" quadruped of fable switches a letter, becoming an insect pest",
+     "a": "goat & gnat",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 20,
+     "q": "Alaska was admitted to the Union",
+     "a": "Elizabeth II",
+     "right": [],
+     "wrong": [
+      "Ben"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 22,
+     "q": "\"You mean even if the whole Congress says you should be a law, the president can still say no?\"; \"Yes, that's called\" this; go Bill go!",
+     "a": "a veto",
+     "right": [
+      "Ron"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 8,
+     "q": "\"Aaaay!\" This \"Happy Days\" character was the epitome of cool in the '70s (by way of the '50s)",
+     "a": "Fonzie (Arthur Fonzarelli)",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 4,
+     "q": "Who can forget 1972, when the first of these led to the cancellation of 86 games that were never rescheduled?",
+     "a": "(the players') strike",
+     "right": [
+      "Ron"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 1,
+     "q": "In books by Rick Riordan, Percy Jackson's first name is short for this one from mythology",
+     "a": "Perseus",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 13,
+     "q": "Change the first letter of a burrowing insectivore & you get a mouselike rodent",
+     "a": "mole & vole",
+     "right": [
+      "Ron"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 19,
+     "q": "The shooting started in the Boer War",
+     "a": "Victoria",
+     "right": [],
+     "wrong": [
+      "Ron"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 24,
+     "q": "These parts of speech \n\"(Hey!) show excitement! (Yow!) or emotion! (Ouch!)\"",
+     "a": "interjections",
+     "right": [
+      "Donna"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 9,
+     "q": "It wouldn't be the '70s without this type of carpeting seen here; yeah, baby",
+     "a": "a shag rug",
+     "right": [
+      "Donna"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 5,
+     "q": "We all recall 1884, when Kentuckian Pete Browning used the first bat nicknamed this",
+     "a": "a Louisville Slugger",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 2,
+     "q": "Richard Parker is actually a 450-pound Bengal tiger in this novel by Yann Martel",
+     "a": "Life of Pi",
+     "right": [
+      "Ron"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 27,
+     "q": "Change a letter from the official state fish of Massachusetts & you get a mostly docile ruminant",
+     "a": "cod & cow",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 18,
+     "q": "Lewis & Clark went on their big walkabout",
+     "a": "George III",
+     "right": [
+      "Donna"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 25,
+     "q": "This begins--& sadly, I can't sing it--\"We the people, in order to form a more perfect Union, establish justice\"",
+     "a": "the Preamble to the United States Constitution",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 10,
+     "q": "In '72, this tennis-like Atari video game debuted & kids went crazy--such cool graphics! They'll never get better than that!",
+     "a": "Pong",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 14,
+     "q": "Surely you recall 1867, when Candy Cummings is credited with debuting this first breaking pitch",
+     "a": "a curveball",
+     "right": [
+      "Ron"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 3,
+     "q": "In \"Night\", his harrowing account of the Holocaust, he wrote, \"I became A-7713. From then on, I had no other name\"",
+     "a": "(Elie) Wiesel",
+     "right": [
+      "Ron"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 28,
+     "q": "Change the vowel in the name of a smelly mammal & you get a slithery lizard",
+     "a": "skunk & skink",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": true,
+     "order": 17,
+     "q": "Michelangelo finished painting the Sistine Chapel after 4 years... contractors, am I right?",
+     "a": "Henry VIII",
+     "right": [],
+     "wrong": [
+      "Ron"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2800
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 26,
+     "q": "This man \"made a deal with Napoleon: how'd you like to sell a mile or 2 (or 3, or a hundred, or a thousand)\"?",
+     "a": "(Thomas) Jefferson",
+     "right": [
+      "Ron"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 11,
+     "q": "Panda-panda! In 1972 to the delight of U.S. kids, this panda & her mate Hsing-Hsing arrived at the Smithsonian National Zoo",
+     "a": "Ling-Ling",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "AFRICAN-AMERICAN FIRSTS",
+    "QUI\"ZZ\"ICAL",
+    "ON BROADWAY",
+    "A CHEMISTRY TEST",
+    "MUSICAL ACT ETYMOLOGY",
+    "SAME FIRST & LAST LETTER GEOGRAPHY"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 18,
+     "q": "He made history in November 2008 when, as The New York Times reported, he swept away \"the last racial barrier in American politics\"",
+     "a": "Barack Obama",
+     "right": [
+      "Donna"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 8,
+     "q": "Used by birds to help grind up ingested food, this internal organ is an enlargement of the alimentary canal",
+     "a": "gizzards",
+     "right": [
+      "Donna"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 22,
+     "q": "A 2022 revival of this play broke ground with Wendell Pierce as the first Black man to play Willy Loman on Broadway",
+     "a": "Death of a Salesman",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 23,
+     "q": "World Book says it is \"a poisonous, yellowish-green gas with a strong, unpleasant odor\", so let's treat our pool with it",
+     "a": "chlorine",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 9,
+     "q": "Curtis Jackson shares this nickname with a NYC stickup man who allegedly made bank in a dice game after starting with half a dollar",
+     "a": "50 Cent",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "The Royal Albert Dock is an attraction in this Merseyside seaport city of England",
+     "a": "Liverpool",
+     "right": [
+      "Donna"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 6,
+     "q": "Ruth Simmons, the first African-American Ivy League president, led this Rhode Island school from 2001 to 2012",
+     "a": "Brown",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 5,
+     "q": "On Jan. 27, 1958 this \"family steak house\" opened in Culver City, California with $50 in the cash register",
+     "a": "Sizzler",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 21,
+     "q": "\"Topdog /Underdog\" is about 2 brothers: Lincoln & this name sadly associated with Lincoln, given to them as a joke by their dad",
+     "a": "Booth",
+     "right": [
+      "Donna"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 24,
+     "q": "It's your density... I mean, destiny to know the formula for density is d=M/V, with M & V standing for these 2 things",
+     "a": "mass & volume",
+     "right": [
+      "Ron"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 12,
+     "q": "Dave Grohl said that he got the name for this band while reading books about UFOs",
+     "a": "the Foo Fighters",
+     "right": [
+      "Donna"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 26,
+     "q": "Portuguese is the official language of this resource-rich nation of southwest Africa",
+     "a": "Angola",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 15,
+     "q": "The first African-American Rhodes Scholar, Alain Locke was later hailed as \"the father of\" this NYC creative movement",
+     "a": "the Harlem Renaissance",
+     "right": [
+      "Ron"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 2,
+     "q": "Chips of marble or other stone can be used in this type of flooring",
+     "a": "terrazzo",
+     "right": [
+      "Ron"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 13,
+     "q": "In 2023 this choreographer's show \"Dancin\"' returned to Broadway in all its finger- & hip-wiggling glory",
+     "a": "(Bob) Fosse",
+     "right": [
+      "Ron"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 28,
+     "q": "A solution with a pH of less than 7 is an acid, which will turn this paper red",
+     "a": "litmus",
+     "right": [
+      "Donna"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 7,
+     "q": "Although not French, \"Pompeii\" singer Dan Smith named his band this; his birthday is July 14",
+     "a": "Bastille",
+     "right": [
+      "Donna"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 1,
+     "q": "Driving I-40 from Winslow to Kingman, you might want to stop in this city & maybe take in the Museum of Northern Arizona",
+     "a": "Flagstaff",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 16,
+     "q": "For her supporting role in \"Gone with the Wind\", she was the first African-American performer to win an Oscar",
+     "a": "Hattie McDaniel",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 3,
+     "q": "This word comes before \"mast\" to mean the mast usually third from the front on a sailing ship",
+     "a": "mizzen",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 20,
+     "q": "Born Tomas Straussler, he titled his play \"Leopoldstadt\" after Vienna's Jewish Quarter",
+     "a": "Tom Stoppard",
+     "right": [
+      "Donna"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 29,
+     "q": "In the Haber process, magnetite is used as one of these, any substance that speeds up a chemical reaction",
+     "a": "a catalyst",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 10,
+     "q": "Karen O said this name of her band comes from \"a New York City... reaction to everything\"",
+     "a": "the Yeah Yeah Yeahs",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1600
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 14,
+     "q": "It flows over 1,300 miles from highlands near Brazil across Venezuela to the Atlantic",
+     "a": "the Orinoco",
+     "right": [
+      "Ron"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 3000
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 17,
+     "q": "Inspired by Nichelle Nichols & her \"Star Trek\" character, she became the first African-American woman in space",
+     "a": "(Mae) Jemison",
+     "right": [
+      "Ron"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 4,
+     "q": "Mentioned in the book of Daniel as the son of Nebuchadnezzar, this ruler was killed during the fall of Babylon in 539 B.C.",
+     "a": "Belshazzar",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 19,
+     "q": "This playwright seen on opening night of \"The Cripple of Inishmaan\" has more recently made a movie with a similar title",
+     "a": "Martin McDonagh",
+     "right": [
+      "Donna"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 30,
+     "q": "On this scale that measures resistance of a smooth surface to scratching, talc is at the bottom at 1",
+     "a": "the Mohs scale",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 11,
+     "q": "The rock band The Airborne Toxic Event got its name from this Don DeLillo novel that became a movie in 2022",
+     "a": "White Noise",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 25,
+     "q": "This temple complex on the right bank of the Nile occupies part of the site of the ruins of ancient Thebes",
+     "a": "Karnak",
+     "right": [
+      "Ron"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "FEMALE AUTHORS",
+  "q": "At age 9 in 1883 she moved west, where she met Annie Pavelka, a young pioneer on whom she would later model a title character",
+  "a": "Willa Cather",
+  "right": [
+   "Donna"
+  ],
+  "wrong": [
+   "Ron",
+   "Ben"
+  ]
+ },
+ "gameId": "8169",
+ "cat_notes": {
+  "J": [
+   "The category “REMEMBER BASEBALL?” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "Clues about Books and Authors.",
+   "Each response will be two animals.",
+   "Clues about Who Reigned in England When.",
+   "The category “I LEARNED IT ON SCHOOLHOUSE ROCK” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "The category “KIDS OF THE '70s, REJOICE!” sets the theme — the clues follow that idea and any wordplay suggested by the title."
+  ],
+  "DJ": [
+   "Clues about African-american Firsts.",
+   "Each answer contains the letter group “ZZ”, and the clues are about Qui Ical.",
+   "Clues on Broadway.",
+   "Clues about A Chemistry Test.",
+   "Clues about Musical Act Etymology.",
+   "Clues about Same First and Last Letter Geography."
+  ],
+  "F": "Clues about Female Authors."
+ }
+}

@@ -1,0 +1,1006 @@
+{
+ "show": "#8766",
+ "aired": "2022-12-19",
+ "note": "Ray Lalonde game 3.",
+ "contestants": [
+  {
+   "name": "Miranda Onnen",
+   "bio": "an assistant attorney general from Astoria, New York",
+   "short": "Miranda"
+  },
+  {
+   "name": "Andrew Schmidt",
+   "bio": "an automotive marketing consultant from Roswell, Georgia",
+   "short": "Andrew"
+  },
+  {
+   "name": "Ray Lalonde",
+   "bio": "a scenic artist from Toronto, Ontario, Canada (whose 2-day cash winnings total $60,600)",
+   "short": "Ray"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Ray": 7000,
+   "Andrew": 2800,
+   "Miranda": 5800
+  },
+  "DJ": {
+   "Ray": 31600,
+   "Andrew": 4000,
+   "Miranda": 9800
+  },
+  "Final": {
+   "Ray": 24200,
+   "Andrew": 1273,
+   "Miranda": 10000
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "CHRISTMAS TRADITIONS ELSEWHERE",
+    "LIFE SNAPSHOTS",
+    "BIRDS ARE REAL",
+    "REPEATING NUMBERS",
+    "TELEVISION THEN & NOW",
+    "ANAGRAMMED OCCUPATIONS"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 6,
+     "q": "In Sweden, a Christmas straw one is traditional; here's the 42-foot, 4-ton example in Gävle",
+     "a": "a goat",
+     "right": [
+      "Andrew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 21,
+     "q": "This month: \nThe Bastille falls on the 14th; the Freedom of Information Act is signed on the 4th",
+     "a": "July",
+     "right": [
+      "Ray"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 16,
+     "q": "Branta canadensis is the scientific name for this bird--honk!--that can be--honk!--loud &--honk! annoying",
+     "a": "a Canada goose",
+     "right": [
+      "Ray"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 11,
+     "q": "In 1974 a national speed limit went into effect, making this the maximum speed for some 20 years",
+     "a": "55",
+     "right": [
+      "Ray"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 2,
+     "q": "Everybody who was anybody appeared on the talk show hosted by this man, near & dear to \"Jeopardy!\"",
+     "a": "Merv Griffin",
+     "right": [
+      "Ray"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 15,
+     "q": "A beastly specialist: \nNAIVE TERRAIN",
+     "a": "a veterinarian",
+     "right": [
+      "Andrew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "In Iceland, kids put their boots by a window & either get candy if they're good or rotten these tubers if not",
+     "a": "potatoes",
+     "right": [
+      "Ray"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 29,
+     "q": "This landmark: \n38 coronation ceremonies & the wedding of Prince William & Catherine Middleton",
+     "a": "Westminster Abbey",
+     "right": [
+      "Ray"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 28,
+     "q": "Lack of a fully developed syrinx keeps this long-necked bird mostly voiceless, perhaps not to wake the baby it's bringing",
+     "a": "a stork",
+     "right": [
+      "Andrew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 10,
+     "q": "In one of those songs that gets stuck in your head, Nena sang about this many balloons",
+     "a": "99",
+     "right": [
+      "Andrew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 4,
+     "q": "This \"Game of Thrones\" prequel opens 172 years before the birth of Daenerys Targaryen",
+     "a": "the House of the Dragon",
+     "right": [
+      "Miranda"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 12,
+     "q": "A dose dispenser: \nCHAIR STAMP",
+     "a": "a pharmacist",
+     "right": [
+      "Miranda"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 26,
+     "q": "Streets are closed to traffic as people roller skate to Christmas Eve mass in this capital of Venezuela",
+     "a": "Caracas",
+     "right": [
+      "Ray"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 23,
+     "q": "This nation: \nEx-electrician Lech Walesa becomes president; a local archbishop becomes pope",
+     "a": "Poland",
+     "right": [
+      "Ray"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 19,
+     "q": "Sharing its name with a pro baseball team, this orange & black bird with a 2-word name can also range down to South America",
+     "a": "a Baltimore Oriole",
+     "right": [
+      "Ray"
+     ],
+     "wrong": [
+      "Miranda"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 7,
+     "q": "Numerically, it's when Veterans Day is celebrated",
+     "a": "11/11",
+     "right": [
+      "Andrew"
+     ],
+     "wrong": [
+      "Ray"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 1,
+     "q": "Tatiana Maslany stars as this title character: \"Attorney at Law\"",
+     "a": "She-Hulk",
+     "right": [
+      "Miranda"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 13,
+     "q": "(the anagram is its own clue) \nMOON STARER",
+     "a": "astronomer",
+     "right": [
+      "Miranda"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 25,
+     "q": "Japan keeps the holidays \"extra crispy\" with what has become a traditional Christmas meal from this chain",
+     "a": "KFC",
+     "right": [
+      "Ray"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 22,
+     "q": "This bacterium transmitted from animals to humans: \nIdentified in 1876, feared as a bioweapon today",
+     "a": "anthrax",
+     "right": [
+      "Ray"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 18,
+     "q": "Boasting a nearly 5-foot wingspan, the red-tailed this bird of prey can reach speeds of 120 mph in a dive",
+     "a": "a hawk",
+     "right": [
+      "Ray"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 8,
+     "q": "Biblically, it's the \"number of the beast\"",
+     "a": "666",
+     "right": [
+      "Ray"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 3,
+     "q": "\"Which Witch is Which\" is an episode of this sitcom starring Elizabeth Montgomery as Samantha Stephens",
+     "a": "Bewitched",
+     "right": [
+      "Miranda"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 14,
+     "q": "April is the cruellest month: \nCUT A CANTON",
+     "a": "accountant",
+     "right": [
+      "Miranda"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 24,
+     "q": "North of Quezon City, San Fernando is the \"Christmas Capital of\" this nation, holding a Giant Lantern Festival in December",
+     "a": "the Philippines",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 20,
+     "q": "This clause barring a state religion: \nRatified as part of the First Amendment, 1791; cited in Edwards v. Aguillard, 1987",
+     "a": "the Establishment Clause",
+     "right": [
+      "Miranda"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 17,
+     "q": "Facts about this seabird: Its 3-letter name has 2 vowels, it has short wings & webbed feet & it stands upright on land",
+     "a": "an auk",
+     "right": [
+      "Ray"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 9,
+     "q": "Following Hank Aaron's retirement, both the Braves & the Brewers retired this uniform number",
+     "a": "44",
+     "right": [
+      "Andrew"
+     ],
+     "wrong": [
+      "Miranda"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": true,
+     "order": 5,
+     "q": "The main characters of \"Back to the Future\" helped inspire this animated series that debuted in 2013",
+     "a": "Rick and Morty",
+     "right": [
+      "Miranda"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1800
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 30,
+     "q": "Habitat for Humanity needs you: \nTRACER PEN",
+     "a": "a carpenter",
+     "right": [
+      "Miranda"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "HISTORIC WOMEN",
+    "2, 3 OR 4-LETTER GEOGRAPHY",
+    "AMERICANA",
+    "MOVIE CHARACTERS",
+    "\"IN THE\"",
+    "LINE OF FIRE"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 19,
+     "q": "Hilda was the middle name of this prime minister in office from 1979 to 1990",
+     "a": "Thatcher",
+     "right": [
+      "Miranda"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 29,
+     "q": "This sacred mount is the highest peak in Japan",
+     "a": "Fuji",
+     "right": [
+      "Miranda"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 24,
+     "q": "So as not to clash with the surrounding scenery, one of these eateries in Sedona, Arizona has turquoise arches instead of golden",
+     "a": "McDonald's",
+     "right": [
+      "Andrew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 3,
+     "q": "In 2022 this \"Toy Story\" character got his own origin movie",
+     "a": "Buzz Lightyear",
+     "right": [
+      "Miranda"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 25,
+     "q": "This sometimes terrifying toy often plays \"Pop Goes The Weasel\"",
+     "a": "a jack-in-the-box",
+     "right": [
+      "Miranda"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "A resident of Amherst, Massachusetts, she wrote, \"Ashes denote that fire was; respect the grayest pile\"",
+     "a": "Dickinson",
+     "right": [
+      "Miranda"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 20,
+     "q": "In 1893, activist Fannie Barrier Williams successfully fought for Black inclusion at this city's Columbian Exposition",
+     "a": "Chicago",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 30,
+     "q": "Large country between Niger & Sudan",
+     "a": "Chad",
+     "right": [
+      "Andrew"
+     ],
+     "wrong": [
+      "Miranda"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 23,
+     "q": "Due to an oversight, the law admitting this \"Buckeye State\" into the Union wasn't signed until 1953, 150 years after the fact",
+     "a": "Ohio",
+     "right": [
+      "Miranda"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 4,
+     "q": "She's the kick-ass character played by Linda Hamilton in the \"Terminator\" films",
+     "a": "Sarah Connor",
+     "right": [
+      "Ray"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 26,
+     "q": "This phrase meaning someone is vulnerable to attack refers to something sharks are attracted to",
+     "a": "blood in the water",
+     "right": [
+      "Ray"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 28,
+     "q": "In \"The Hobbit\", this dragon appeared \"as a spark of fire rushing towards them and growing ever huger and more bright\"",
+     "a": "Smaug",
+     "right": [
+      "Miranda"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 9,
+     "q": "An Aztec woman named Doña Marina was a mistress of & an interpreter for this Spanish conquistador",
+     "a": "Cortés",
+     "right": [
+      "Ray"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 16,
+     "q": "Ancient Mesopotamian city of 3500 B.C., in ruins today & known as Tell el-Muqayyar",
+     "a": "Ur",
+     "right": [
+      "Ray"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": true,
+     "order": 12,
+     "q": "Sometimes confused, these 2 groups of descendants in Louisiana with French ties give their names to 2 types of cuisine",
+     "a": "the Cajuns & the Creoles",
+     "right": [
+      "Ray"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 3000
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 1,
+     "q": "In a 2003 horror film, it was Jason Voorhees against this killer, a match made in hell",
+     "a": "Freddy Krueger",
+     "right": [
+      "Ray"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 6,
+     "q": "Elton John used this title metaphor to describe the lives of Marilyn Monroe & Princess Di",
+     "a": "candle in the wind",
+     "right": [
+      "Ray"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": true,
+     "order": 13,
+     "q": "An ode Emerson wrote for this town where he lived includes, \"Oh tenderly the haughty day, fills his blue urn with fire\"",
+     "a": "Concord",
+     "right": [
+      "Ray"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 4000
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 10,
+     "q": "Ada Lovelace, who wrote what many consider the first computer program, was the daughter of this lord of poetry",
+     "a": "Byron",
+     "right": [
+      "Miranda"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 17,
+     "q": "I want you to show me this city in Vietnam, or at least its arena, where elephant versus tiger fights were staged long ago",
+     "a": "Hue",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 22,
+     "q": "This city that's home to the Naval Academy was briefly capital of the United States",
+     "a": "Annapolis",
+     "right": [
+      "Andrew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 2,
+     "q": "He's the bumbling French detective in the Pink Panther movies",
+     "a": "Clouseau",
+     "right": [
+      "Miranda"
+     ],
+     "wrong": [
+      "Andrew"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 7,
+     "q": "Misfiring muskets gave us this idiom for someone promising, yet ultimately unsuccessful",
+     "a": "flash in the pan",
+     "right": [
+      "Ray"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 14,
+     "q": "In 1667 he penned, \"Incens'd with indignation Satan stood, unterrify'd, and like a comet burned\"",
+     "a": "Milton",
+     "right": [
+      "Ray"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 11,
+     "q": "In 1137 she inherited the duchy of Aquitaine & a husband, France's Louis VII",
+     "a": "Eleanor",
+     "right": [
+      "Ray"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 18,
+     "q": "Longtime Portuguese colony of India",
+     "a": "Goa",
+     "right": [],
+     "wrong": [
+      "Ray"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 21,
+     "q": "The ballad of him begins, \"Come all you rounders if you want to hear a story about a brave engineer\"",
+     "a": "Casey Jones",
+     "right": [
+      "Ray"
+     ],
+     "wrong": [
+      "Miranda"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 5,
+     "q": "Audrey Hepburn & later Julia Ormond played this title character, a chauffeur's daughter",
+     "a": "Sabrina",
+     "right": [
+      "Ray"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 8,
+     "q": "The title of this book, published after Hemingway's death, alludes to Bimini & Cuba & inspired a song of the same name",
+     "a": "Islands in the Stream",
+     "right": [
+      "Ray"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 15,
+     "q": "In the \"Rubaiyat\", he wrote that hell was \"the shadow of a soul on fire\"",
+     "a": "Omar Khayyam",
+     "right": [
+      "Ray"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "BRAND NAMES",
+  "q": "Unable to make these candies perfectly round, the confectioner embraced this flawed name for the product",
+  "a": "Milk Duds",
+  "right": [
+   "Miranda"
+  ],
+  "wrong": [
+   "Andrew",
+   "Ray"
+  ]
+ },
+ "gameId": "7578",
+ "cat_notes": {
+  "J": [
+   "Clues about Christmas Traditions Elsewhere.",
+   "Clues about Life Snapshots.",
+   "Clues about Birds Are Real.",
+   "Clues about Repeating Numbers.",
+   "Clues about Television Then and Now.",
+   "Each answer is formed by rearranging letters from a word or name in the clue."
+  ],
+  "DJ": [
+   "Clues about Historic Women.",
+   "Each answer is a 4-letter word or term related to 2, 3 or 4-letter Geography.",
+   "Clues about Americana.",
+   "Clues about Movie Characters.",
+   "Each answer contains the letter group “IN THE”.",
+   "Clues about Line of Fire."
+  ],
+  "F": "Clues about Brand Names."
+ }
+}
