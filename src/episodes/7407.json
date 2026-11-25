@@ -1,0 +1,994 @@
+{
+ "show": "#8680",
+ "aired": "2022-07-08",
+ "note": "",
+ "contestants": [
+  {
+   "name": "Leigh Jahnig",
+   "bio": "an attorney from Chicago, Illinois",
+   "short": "Leigh"
+  },
+  {
+   "name": "Robert Won",
+   "bio": "a math professor from Washington, D.C.",
+   "short": "Robert"
+  },
+  {
+   "name": "Brian Ahern",
+   "bio": "a user support associate from Daly City, California (whose 1-day cash winnings total $26,800)",
+   "short": "Brian"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Brian": 6200,
+   "Robert": 6400,
+   "Leigh": 3000
+  },
+  "DJ": {
+   "Brian": 6200,
+   "Robert": 23700,
+   "Leigh": 16000
+  },
+  "Final": {
+   "Brian": 0,
+   "Robert": 32001,
+   "Leigh": 32000
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "SCANDINAVIA",
+    "WEATHER WORDS",
+    "DANGER! DANGER!",
+    "ROLE CALL",
+    "HISTORIC STRUCTURES",
+    "ONE LETTER CHANGES EVERYTHING"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 6,
+     "q": "Every December 10, after these are handed out, there's a banquet at Stockholm's city hall",
+     "a": "the Nobel Prizes",
+     "right": [
+      "Robert"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "Johnny Mercer wrote the lyric \"I'm gonna love you like nobody's loved you, come\" these 2 opposites",
+     "a": "rain & shine",
+     "right": [
+      "Brian"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 11,
+     "q": "National Weather Service danger signs of this impending phenomenon include a dark, often greenish sky & a roaring noise",
+     "a": "a tornado",
+     "right": [
+      "Leigh"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 12,
+     "q": "Hitting the big screen as Vito Corleone in \"The Godfather\" was an offer this actor couldn't refuse",
+     "a": "Brando",
+     "right": [
+      "Robert"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 22,
+     "q": "Near the border of Colombia & Ecuador Las Lajas Sanctuary was built after an image of this woman was seen on the surrounding cliffs",
+     "a": "the Virgin Mary",
+     "right": [
+      "Robert"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 13,
+     "q": "Add a \"B\" to a chess piece to turn it into this babbling stream",
+     "a": "brook",
+     "right": [
+      "Robert"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 7,
+     "q": "About one-fifth of Norway's economy comes from this natural product, led by Equinor operating in areas like its continental shelf",
+     "a": "oil",
+     "right": [
+      "Leigh"
+     ],
+     "wrong": [
+      "Brian"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "Starbucks sells a tea drink called London this",
+     "a": "Fog",
+     "right": [
+      "Brian"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "Waves can create a current moving away from the shore, properly called this type of current & much stronger than an undertow",
+     "a": "a riptide",
+     "right": [
+      "Robert"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 15,
+     "q": "In 2022's \"The Batman\", Zoë Kravitz brought a new take on this character with a secret identity of her own",
+     "a": "Catwoman",
+     "right": [
+      "Leigh"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 23,
+     "q": "Charles I was the last monarch to sleep in this castle, the night before he was crowned king of Scotland in 1633",
+     "a": "Edinburgh Castle",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 14,
+     "q": "Subtract an \"A\" from a word that describes sudden, intense pain to get this word meaning adorable",
+     "a": "cute",
+     "right": [
+      "Brian"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 8,
+     "q": "Billund, Denmark is the home of this toy company",
+     "a": "LEGO",
+     "right": [
+      "Robert"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": true,
+     "order": 3,
+     "q": "A Joyce story ends with this falling \"upon all the living and the dead\"",
+     "a": "the snow",
+     "right": [
+      "Brian"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1000
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 28,
+     "q": "You can sleep all night & work all day, but Time magazine listed this outdoor job as the USA's most dangerous",
+     "a": "a lumberjack",
+     "right": [
+      "Brian"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 16,
+     "q": "These are the first names of the 2 characters played by Humphrey & Ingrid in \"Casablanca\"",
+     "a": "Rick & Ilsa",
+     "right": [
+      "Leigh"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 24,
+     "q": "Le Corbusier designed the Palace of Justice for Chandigarh, a regional capital built in the 1950s in this country",
+     "a": "India",
+     "right": [
+      "Leigh"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 19,
+     "q": "Put a \"B\" on a synonym for donkey & you get this game fish",
+     "a": "bass",
+     "right": [
+      "Brian"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 9,
+     "q": "This Scandinavian specialty is made with dried cod that's soaked in lye & simmered for about 10 minutes until translucent",
+     "a": "lutefisk",
+     "right": [
+      "Robert"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 4,
+     "q": "A book about the underworld says Al Capone's rival Joe Aiello died in this type of storm \"of lead\"",
+     "a": "a hail",
+     "right": [
+      "Brian"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 30,
+     "q": "This U.S. government department issues regular travel advisories on the level of danger in countries to which you might journey",
+     "a": "the State Department",
+     "right": [
+      "Leigh"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 17,
+     "q": "In this film, Jared Leto plays the title biochemist who tries to cure himself of a rare disease but infects himself with vampirism instead",
+     "a": "Morbius",
+     "right": [
+      "Brian"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 25,
+     "q": "The luxurious Alhambra of Spain was built by these conquerors whose name is derived from a region of Africa",
+     "a": "the Moors",
+     "right": [
+      "Brian"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 20,
+     "q": "Subtract a \"B\" from a loose-fitting women's shirt to get this parasite you don't want to find there",
+     "a": "louse",
+     "right": [
+      "Robert"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 10,
+     "q": "He drew on Norwegian folk tales & tunes for his music, including \"In The Hall Of The Mountain King\", heard here",
+     "a": "Grieg",
+     "right": [
+      "Brian"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 5,
+     "q": "The EPA says keep this below 60% to prevent mold",
+     "a": "humidity",
+     "right": [
+      "Brian"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 29,
+     "q": "Eating certain fish can be dangerous for pregnant women due to this heavy metal; the FDA calls out king mackerel & swordfish",
+     "a": "mercury",
+     "right": [
+      "Robert"
+     ],
+     "wrong": [
+      "Brian"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 18,
+     "q": "King Kong had nothing on this actor when he starred as LAPD Detective Alonzo Harris in \"Training Day\"",
+     "a": "Denzel Washington",
+     "right": [
+      "Robert"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 26,
+     "q": "Protecting the Roman Empire's alpine frontier, the Porta Nigra or \"black gate\", is in Trier, now in this country",
+     "a": "Germany",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 21,
+     "q": "Bite an \"S\" off a tentacled cephalopod & it becomes this, slang for a British pound",
+     "a": "quid",
+     "right": [
+      "Robert"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "THE COLD WAR ERA",
+    "GONE EXTINCT",
+    "CROSSWORD CLUES \"C\"",
+    "THE JACKSONS, 5",
+    "WHAT IS LOVE...",
+    "BABY, DON'T HURT ME"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "This president made a secret deal to take U.S. nukes out of Turkey, helping end the Cuban Missile Crisis",
+     "a": "Kennedy",
+     "right": [
+      "Leigh"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 6,
+     "q": "The largest avian ever, the elephant bird of this island nation off the east coast of Africa could reach 10 feet high & 1,000 pounds",
+     "a": "Madagascar",
+     "right": [
+      "Robert"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 11,
+     "q": "The online world \n(10 letters)",
+     "a": "cyberspace",
+     "right": [
+      "Robert"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 19,
+     "q": "Among those she acknowledged on her 2019 induction into the Rock & Roll Hall of Fame were Dick Clark, Don Cornelius & her brothers",
+     "a": "Janet Jackson",
+     "right": [
+      "Robert"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 16,
+     "q": "In \"Frozen\" Anna & Hans sing \"Love Is An Open\" one of these, \"Life can be so much more\"",
+     "a": "a door",
+     "right": [
+      "Robert"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 22,
+     "q": "Baby, I've asked you not to ruin plot points when we watch TV unless you give me this 7-letter alert",
+     "a": "spoiler",
+     "right": [
+      "Brian"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": true,
+     "order": 2,
+     "q": "Unearthed decades later a 1950 letter indicates happiness by Joseph Stalin that the U.S. was entangled in this war",
+     "a": "the Korean War",
+     "right": [
+      "Leigh"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 3000
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 7,
+     "q": "The great auk was a flightless & sadly fearless bird that lived on the Faroes & other islands in the northern part of this ocean",
+     "a": "the Atlantic Ocean",
+     "right": [
+      "Robert"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 12,
+     "q": "Solid, like a certain building material \n(8 letters)",
+     "a": "concrete",
+     "right": [
+      "Brian"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 27,
+     "q": "He was inspired by the original \"King Kong\" to become a filmmaker",
+     "a": "Peter Jackson",
+     "right": [
+      "Robert"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 17,
+     "q": "In \"Tuesdays with Morrie\", this author wrote, \"Love is the only rational act\"",
+     "a": "Mitch Albom",
+     "right": [
+      "Robert"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 23,
+     "q": "I hate it when you eat the last one of these ice cream bars with a big polar bear on the wrapper; it's cruel, baby",
+     "a": "Klondike",
+     "right": [
+      "Leigh"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 3,
+     "q": "In this year the U.S. & others boycotted the Moscow Olympics to protest the Soviet invasion of Afghanistan",
+     "a": "1980",
+     "right": [
+      "Leigh"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 8,
+     "q": "Cygnus falconeri was a 35-pound one of these birds that lived in Malta",
+     "a": "a swan",
+     "right": [
+      "Robert"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 13,
+     "q": "Partner of \"whole kit\" \n(8 letters)",
+     "a": "caboodle",
+     "right": [
+      "Robert"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 28,
+     "q": "In 2004, a stretch of highway in Georgia was named in honor of this great",
+     "a": "Alan Jackson",
+     "right": [],
+     "wrong": [
+      "Brian"
+     ],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 18,
+     "q": "This man's \"[love is more thicker than forget]\" continues non-capitalization in the rest of the poem",
+     "a": "cummings",
+     "right": [
+      "Leigh"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 24,
+     "q": "You know I'm trying to consolidate Asia in this board game, yet you invade from Kamchatka to Mongolia; not cool, baby",
+     "a": "Risk",
+     "right": [
+      "Leigh"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 4,
+     "q": "The Stasi were a secret police force of this country that spied on its citizens & encouraged them to spy on each other",
+     "a": "East Germany",
+     "right": [
+      "Robert"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 9,
+     "q": "Humans brought an end to the Caribbean monk species of these flippered mammals that we often think of in colder climates",
+     "a": "seals",
+     "right": [
+      "Robert"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 14,
+     "q": "Jesus' crucifixion site \n(7 letters)",
+     "a": "Calvary",
+     "right": [
+      "Leigh"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 29,
+     "q": "In 2022, Erin Jackson made history as the first Black woman to win individual gold at the Winter Olympics, winning for this sport",
+     "a": "speed skating",
+     "right": [
+      "Robert"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 20,
+     "q": "His \"Symposium\" from around 360 B.C. states, \"Love is the eldest & noblest & mightiest of the gods\"",
+     "a": "Plato",
+     "right": [
+      "Leigh"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 25,
+     "q": "I dropped out of this university, but so did Bill Gates & Mark Zuckerberg; what exactly are you trying to say, baby?",
+     "a": "Harvard",
+     "right": [
+      "Robert"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 5,
+     "q": "Abbreviated M.A.D., this theory deterred the use of nuclear weapons by suggesting there would be no winners",
+     "a": "mutually assured destruction",
+     "right": [
+      "Leigh"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": true,
+     "order": 10,
+     "q": "Extinct in the wild today, the Barbary lion is famous for its activity in this Roman structure completed in 80 A.D.",
+     "a": "the Colosseum",
+     "right": [
+      "Robert"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2500
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 15,
+     "q": "Flightless ostrich relative (9 letters)",
+     "a": "cassowary",
+     "right": [
+      "Robert"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 30,
+     "q": "A 2-time Oscar winner, she went on to serve in Britain's Parliament from 1992 to 2015",
+     "a": "Glenda Jackson",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 21,
+     "q": "Irving Stone's 1954 novel \"Love Is Eternal\" was about this first lady who married an awkward lawyer",
+     "a": "Mary Todd Lincoln",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 26,
+     "q": "You know my ex wore Opium perfume from this 3-named designer; why do you torture me so?",
+     "a": "Yves St. Laurent",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "SCIENCE & THE BIBLE",
+  "q": "A 2021 study suggested that an asteroid that struck the Jordan Valley c. 1650 B.C. gave rise to the story of this city in Genesis 19",
+  "a": "Sodom",
+  "right": [
+   "Leigh",
+   "Robert"
+  ],
+  "wrong": [
+   "Brian"
+  ]
+ },
+ "gameId": "7407",
+ "cat_notes": {
+  "J": [
+   "Clues about Scandinavia.",
+   "Clues about Weather Words.",
+   "The category “DANGER! DANGER!” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "Clues about Role Call.",
+   "Clues about Historic Structures.",
+   "Clues about One Letter Changes Everything."
+  ],
+  "DJ": [
+   "Clues about The Cold War Era.",
+   "Clues about Gone Extinct.",
+   "Crossword-style clues; each answer starts with “C”.",
+   "Clues about The Jacksons, 5.",
+   "Clues about What Is Love.",
+   "Clues about Baby, Don't Hurt Me."
+  ],
+  "F": "Clues about Science and the Bible."
+ }
+}

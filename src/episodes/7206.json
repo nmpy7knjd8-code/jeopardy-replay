@@ -1,0 +1,998 @@
+{
+ "show": "#8525",
+ "aired": "2021-12-03",
+ "note": "Amy Schneider game 13.",
+ "contestants": [
+  {
+   "name": "Andrew Rafner",
+   "bio": "a set decorator from Thousand Oaks, California",
+   "short": "Andrew"
+  },
+  {
+   "name": "Brooke Sachs",
+   "bio": "a user experience designer from Washington, D.C.",
+   "short": "Brooke"
+  },
+  {
+   "name": "Amy Schneider",
+   "bio": "an engineering manager from Oakland, California (whose 12-day cash winnings total $483,000)",
+   "short": "Amy"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Amy": 11000,
+   "Brooke": 4400,
+   "Andrew": 3200
+  },
+  "DJ": {
+   "Amy": 33400,
+   "Brooke": 4800,
+   "Andrew": 4000
+  },
+  "Final": {
+   "Amy": 53400,
+   "Brooke": 801,
+   "Andrew": 2000
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "THE FRANCO-PRUSSIAN WAR",
+    "IT'S A SCIENCE",
+    "ANIMAL MASCOTS",
+    "TRENDING",
+    "CANADIAN SPORTS",
+    "YOU GET A \"C\""
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 10,
+     "q": "This emperor III declared war after his advisers told him Prussia was no match for France; wrong!",
+     "a": "Napoleon",
+     "right": [
+      "Amy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 29,
+     "q": "Atmospheric sciences include climatology & this, the study & forecasting of the weather",
+     "a": "meteorology",
+     "right": [
+      "Amy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 14,
+     "q": "Chuck E. Cheese",
+     "a": "a mouse",
+     "right": [
+      "Brooke"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "Also called... a Victorian collar... this lace band... was in fashion in the 1890s... &... it's... tight",
+     "a": "a choker",
+     "right": [
+      "Brooke"
+     ],
+     "wrong": [
+      "Amy",
+      "Andrew"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 8,
+     "q": "Floridian Tim Raines learned \"bonjour\" & \"merci beaucoup\" as one of the greatest players in this MLB team's history",
+     "a": "the Expos",
+     "right": [
+      "Amy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 30,
+     "q": "It's a movable object on a computer screen, not one who swears a lot",
+     "a": "a cursor",
+     "right": [
+      "Amy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 11,
+     "q": "French minister Léon Gambetta escaped the 1870 Siege of Paris by floating over the German lines in one of these",
+     "a": "a (hot air) balloon",
+     "right": [
+      "Amy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 28,
+     "q": "Marie Curie won Nobel prizes in these 2 categories",
+     "a": "physics & chemistry",
+     "right": [
+      "Brooke"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 13,
+     "q": "Qantas--a koala was in the commercials but this in the logo",
+     "a": "a kangaroo",
+     "right": [
+      "Andrew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 18,
+     "q": "The '90s had it all--scrunchies, grunge, flannel, & seen here, this dress named for another garment",
+     "a": "a slip dress",
+     "right": [
+      "Brooke"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 7,
+     "q": "The first Canadian team in Major League Soccer was the \"FC\" of this city in 2007",
+     "a": "Toronto",
+     "right": [
+      "Amy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 24,
+     "q": "This adjective relates to the brain or describes someone with great intellect like you right now, hopefully",
+     "a": "cerebral",
+     "right": [
+      "Amy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 12,
+     "q": "The French thought they had the upper hand with arms like the mitrailleuse, an early one of these rapid-fire weapons",
+     "a": "a machine gun",
+     "right": [
+      "Brooke"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 27,
+     "q": "Thomas Carlyle called this study of the production, consumption & distribution of wealth \"the dismal science\"",
+     "a": "economics",
+     "right": [
+      "Amy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 2,
+     "q": "Vlasic pickles",
+     "a": "a stork",
+     "right": [
+      "Andrew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 23,
+     "q": "French perfume creator Ernest Beaux helped launch this game changer in 1921, a complex blend of florals",
+     "a": "Chanel No. 5",
+     "right": [
+      "Brooke"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 6,
+     "q": "In 2021 the shortened NHL season had an all-Canadian North Division, with 7 teams including Edmonton & this other Albertan one",
+     "a": "(the) Calgary (Flames)",
+     "right": [
+      "Amy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 20,
+     "q": "It means unbroken & is used to describe the lower 48 U.S. states",
+     "a": "contiguous",
+     "right": [
+      "Andrew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 16,
+     "q": "This \"Iron Chancellor\" goaded France into war by publishing a misleading account of a diplomatic exchange",
+     "a": "Bismarck",
+     "right": [
+      "Amy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 26,
+     "q": "Petrology, the science of rocks, studies the 3 main classes: metamorphic, sedimentary & this one",
+     "a": "igneous",
+     "right": [
+      "Amy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 4,
+     "q": "Jägermeister",
+     "a": "a deer",
+     "right": [
+      "Andrew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 15,
+     "q": "This ankle wear was big with young female Sinatra fans in the 1940s",
+     "a": "bobby socks",
+     "right": [
+      "Amy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 5,
+     "q": "Won by the Winnipeg Blue Bombers in 2019, this \"colorful\" trophy is awarded to the victor in the CFL championship game",
+     "a": "the Grey Cup",
+     "right": [
+      "Amy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 21,
+     "q": "As a noun, it's a convent; as a verb, it means to confine",
+     "a": "cloister",
+     "right": [
+      "Amy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 17,
+     "q": "The Germans got an early edge by being more efficient at this process of getting troops \"on the move\" & ready to fight",
+     "a": "muster(ing) (mobilization)",
+     "right": [
+      "Andrew"
+     ],
+     "wrong": [
+      "Amy"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": true,
+     "order": 25,
+     "q": "A German zoologist coined the name of this branch of biology that studies the relationship between organisms & their environments",
+     "a": "ecology",
+     "right": [
+      "Amy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 3000
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 3,
+     "q": "Kellogg's Honey Smacks--Dig'Em is his name",
+     "a": "a frog",
+     "right": [
+      "Brooke"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 19,
+     "q": "The trendy Telfar bag was inspired by the shopping bag of this venerable department store at 3rd Avenue & 59th Street",
+     "a": "Bloomingdale's",
+     "right": [
+      "Brooke"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 9,
+     "q": "In 2021 Damian Warner became Canada's first Olympic champion in this & the first Olympian to pass 9,000 points",
+     "a": "the decathlon",
+     "right": [
+      "Amy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 22,
+     "q": "They're 2 alternate ways you can serve multiple prison sentences; one will get you out much sooner than the other",
+     "a": "concurrent & consecutive",
+     "right": [
+      "Amy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "NOVELS",
+    "PUT UP YOUR DUKES",
+    "PULLING INTO \"TOWN\"",
+    "IT'S HYPHENATED",
+    "DENNIS QUAID MOVIE ROLES",
+    "EPONYMS"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 8,
+     "q": "Based on the author's preface to this book, it could have been \"The Last of the Wapanachki\"",
+     "a": "The Last of the Mohicans",
+     "right": [
+      "Amy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 14,
+     "q": "A London palace is named after the house built for John Sheffield, Duke of this",
+     "a": "Buckingham",
+     "right": [
+      "Amy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 19,
+     "q": "The South African parliament meets in this city that dates back to 1652 with the construction of a Dutch east India refreshment station",
+     "a": "Cape Town",
+     "right": [
+      "Brooke"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 29,
+     "q": "These Germanic people ruled parts of Britain from the 5th century until the Norman conquest",
+     "a": "the Anglo-Saxons",
+     "right": [
+      "Amy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 11,
+     "q": "Rev. Shaw Moore, in a movie remake, set in a town where dancing is banned",
+     "a": "Footloose",
+     "right": [
+      "Amy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 30,
+     "q": "William Somers, who built an observation wheel on the Atlantic City boardwalk, thought the Somers Wheel was copied by this man",
+     "a": "Ferris",
+     "right": [
+      "Amy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 9,
+     "q": "The narrator of this Ralph Ellison novel joins \"The Brotherhood\", which renames him, but we never learn his old or new name",
+     "a": "Invisible Man",
+     "right": [
+      "Andrew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 15,
+     "q": "A bit surprising that a Frenchman, François Gérard, painted this duke, the reddest of all Redcoats",
+     "a": "Duke of Wellington",
+     "right": [],
+     "wrong": [
+      "Amy",
+      "Andrew"
+     ],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 23,
+     "q": "In 1871 the District of Columbia absorbed this town about 3 miles northwest of the Capitol",
+     "a": "Georgetown",
+     "right": [
+      "Amy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 28,
+     "q": "Having length, width & height",
+     "a": "3-dimensional",
+     "right": [
+      "Amy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 3,
+     "q": "Mercury astronaut Gordon Cooper",
+     "a": "The Right Stuff",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 4,
+     "q": "In 1897 this diva complained of thick bread, so the chef came back with thin, crisp slices of toast now named for her",
+     "a": "(Nellie) Melba",
+     "right": [
+      "Amy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": true,
+     "order": 10,
+     "q": "This Leon Uris novel portraying Israel's birth is about 10 times longer than the Bible book of the same name",
+     "a": "Exodus",
+     "right": [
+      "Andrew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2400
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 16,
+     "q": "After abdicating the throne in 1936, Edward VIII was given this title",
+     "a": "the Duke of Windsor",
+     "right": [
+      "Amy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 24,
+     "q": "This colony was established on May 14, 1607 but by 1610, starvation was a prime factor behind the death of 80% of its residents",
+     "a": "Jamestown",
+     "right": [
+      "Amy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 20,
+     "q": "The Burlsworth Trophy is awarded to college football players who began as these, typically non-recruits",
+     "a": "walk-ons",
+     "right": [
+      "Amy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 2,
+     "q": "World War II naval commander \"Bull\" Halsey",
+     "a": "Midway",
+     "right": [],
+     "wrong": [
+      "Amy"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 5,
+     "q": "Not even Yurchenko attempted the Yurchenko double pike in competition; in 2021 this gymnast was the first woman to do so",
+     "a": "(Simone) Biles",
+     "right": [
+      "Amy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 12,
+     "q": "This Somerset Maugham novel whose title refers to the sharp & difficult path to salvation was Alex Trebek's favorite book",
+     "a": "The Razor's Edge",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 17,
+     "q": "On his wedding day in 2011, Prince William was given the title Duke of this place",
+     "a": "Cambridge",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 25,
+     "q": "In 1862 Confederate General John Magruder followed in Cornwallis' footsteps in having a very bad day in this historic place",
+     "a": "Yorktown",
+     "right": [
+      "Amy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 6000
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 21,
+     "q": "A stinging insect is in this adjective for a slender midsection",
+     "a": "wasp-waisted",
+     "right": [
+      "Amy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 1,
+     "q": "High school baseball coach Jimmy Morris, who makes the Major Leagues",
+     "a": "The Rookie",
+     "right": [],
+     "wrong": [
+      "Andrew"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 6,
+     "q": "Survival rates are better with this lymphoma named for a Victorian physician than with the non-this type",
+     "a": "Hodgkin's",
+     "right": [
+      "Amy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 13,
+     "q": "This 1946 novel based on the life of Huey Long won the Pulitzer Prize & the movie won the Best Picture Oscar",
+     "a": "All the King's Men",
+     "right": [
+      "Amy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 18,
+     "q": "In 1717 this German-born man became resident composer to James Brydges, Duke of Chandos, & composed 11 \"Chandos Anthems\"",
+     "a": "Handel",
+     "right": [
+      "Amy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 26,
+     "q": "Sleepy Hollow in New York's Westchester County was known as North this until 1996",
+     "a": "North Tarrytown",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 22,
+     "q": "This vocal range of Marilyn Horne is higher than contralto",
+     "a": "mezzo-soprano",
+     "right": [
+      "Amy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 27,
+     "q": "Smooth-talking New Orleans police detective Remy McSwain",
+     "a": "The Big Easy",
+     "right": [],
+     "wrong": [
+      "Amy"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 7,
+     "q": "This bullet, or ball, was named for a Frenchman, but Civil War soldiers pronounced it to sound like it was little",
+     "a": "Minié",
+     "right": [
+      "Amy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "ORGANIZATIONS",
+  "q": "In the U.S. & its territories, this nonprofit whose roots trace to 1980 fulfills a word in its name every 34 minutes",
+  "a": "the Make-A-Wish Foundation",
+  "right": [
+   "Amy"
+  ],
+  "wrong": [
+   "Andrew",
+   "Brooke"
+  ]
+ },
+ "gameId": "7206",
+ "cat_notes": {
+  "J": [
+   "Clues about The Franco-prussian War.",
+   "The category “IT'S A SCIENCE” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "You need to name the type of animal each company uses.",
+   "Clues about Trending.",
+   "Clues about Canadian Sports.",
+   "Each answer contains the letter “C”."
+  ],
+  "DJ": [
+   "Clues about Novels.",
+   "Clues about Put Up Your Dukes.",
+   "Each answer ends with “TOWN”, and the clues are about Pulling Into.",
+   "The category “IT'S HYPHENATED” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "We'll give you the role; you name the film.",
+   "Clues about Eponyms."
+  ],
+  "F": "Clues about Organizations."
+ }
+}

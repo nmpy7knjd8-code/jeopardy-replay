@@ -1,0 +1,989 @@
+{
+ "show": "#8653",
+ "aired": "2022-06-01",
+ "note": "Ryan Long game 14.",
+ "contestants": [
+  {
+   "name": "Meagan Morrow",
+   "bio": "a real estate manager from Portland, Oregon",
+   "short": "Meagan"
+  },
+  {
+   "name": "Vanessa Williams",
+   "bio": "an assistant dean from Philadelphia, Pennsylvania",
+   "short": "Vanessa"
+  },
+  {
+   "name": "Ryan Long",
+   "bio": "a rideshare driver from Philadelphia, Pennsylvania (whose 13-day cash winnings total $252,700)",
+   "short": "Ryan"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Ryan": 3800,
+   "Vanessa": 3800,
+   "Meagan": 5000
+  },
+  "DJ": {
+   "Ryan": 15400,
+   "Vanessa": 2200,
+   "Meagan": 16800
+  },
+  "Final": {
+   "Ryan": 7400,
+   "Vanessa": 0,
+   "Meagan": 6800
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "PICTURE THE NOVEL",
+    "U.S. GOVERNMENT HISTORY",
+    "IT'S A \"SYN\"",
+    "COFFEE BREAK",
+    "BALLPARK FUN",
+    "DR. MITTENS, CAT OBSTETRICIAN"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 15,
+     "q": "Fantasy via furniture",
+     "a": "The Lion, the Witch and the Wardrobe",
+     "right": [
+      "Vanessa"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 25,
+     "q": "In 1989 he became the first African-American Chairman of the Joint Chiefs of Staff",
+     "a": "Colin Powell",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 5,
+     "q": "It's an abstract or summary of a film or novel",
+     "a": "synopsis",
+     "right": [
+      "Vanessa"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 17,
+     "q": "There are more than 600 coffee farms on the Kona coast of this U.S. island",
+     "a": "Hawaii",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 30,
+     "q": "After \"Yankees win! The-e-e-e-e Yankees win!\" At home, count on hearing this Sinatra classic on the stadium speakers",
+     "a": "\"New York, New York\"",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 16,
+     "q": "Ultrasound won't tell us litter size; for that we use this diagnostic technology that's several decades older",
+     "a": "X-ray",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 11,
+     "q": "A classic tale that makes points about censorship",
+     "a": "Fahrenheit 451",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 8,
+     "q": "This 29-year-old was made acting director of the Bureau of Investigation in May 1924; \"acting\" was gone by December",
+     "a": "(J. Edgar) Hoover",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 6,
+     "q": "It created the music heard here",
+     "a": "a synthesizer",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 18,
+     "q": "Order café com leite in Brazil & you'll get coffee with this liquid, hot--or sometimes this liquid with a little coffee",
+     "a": "milk",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 19,
+     "q": "In an unexpected crossover, the green Phanatic supporting this team since 1978 has a kids' book with a \"Galapagos Gang\" of animals",
+     "a": "the (Philadelphia) Phillies",
+     "right": [
+      "Vanessa"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "Stage I of labor includes creating a cozy space, known as this avian-sounding activity; be sure to use your human's most costly clothes",
+     "a": "nesting",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 12,
+     "q": "The author's sole novel, published in 1963",
+     "a": "The Bell Jar",
+     "right": [
+      "Meagan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 24,
+     "q": "1930's Smoot-Hawley Act raised these import duties... anyone? Anyone? By about... anyone? 20%, rattling Wall Street badly",
+     "a": "tariffs",
+     "right": [],
+     "wrong": [
+      "Ryan"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 7,
+     "q": "It can be an agency that sells the same columns to many newspapers, or an illegal cartel",
+     "a": "a syndicate",
+     "right": [
+      "Meagan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 20,
+     "q": "It was a fine coffee named for a Yemeni port before it was a chocolatey coffee flavor",
+     "a": "mocha",
+     "right": [
+      "Vanessa"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": true,
+     "order": 22,
+     "q": "Traditionally, home fans of this A.L. East team give particular emphasis to yelling \"O!\" during the national anthem",
+     "a": "the Baltimore Orioles",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1000
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 2,
+     "q": "When the offspring start trying to eat mom's solid food instead of suckling, it's time for this shift to independence",
+     "a": "weaning",
+     "right": [
+      "Vanessa"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 13,
+     "q": "Lowry goes low, south of the border",
+     "a": "Under the Volcano",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 27,
+     "q": "Big from 1834 to 1854, this political party took its name from a British one opposed to royal prerogatives",
+     "a": "the Whigs",
+     "right": [
+      "Vanessa"
+     ],
+     "wrong": [
+      "Ryan"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 9,
+     "q": "What a coincidence, all these things coming together now, it's this 13-letter word",
+     "a": "synchronicity",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 21,
+     "q": "A Seattle coffee co. is named for this 1765 British act that raised tea prices; coffee was soon the patriotic choice for colonists",
+     "a": "the Stamp Act",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 23,
+     "q": "When a Texas Ranger hits a homer at home, the theme from this Robert Redford film plays, & it's not \"The Way We Were\"",
+     "a": "The Natural",
+     "right": [
+      "Meagan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 3,
+     "q": "In the third stage of labor, this will emerge; Dr. M. prefers this plain English compound word to the fancy Latin \"placenta\"",
+     "a": "afterbirth",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 14,
+     "q": "Dances with Woolf",
+     "a": "To the Lighthouse",
+     "right": [
+      "Vanessa"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 29,
+     "q": "On March 1, 2003 FEMA & 21 other organizations got a new boss with the creation of this department",
+     "a": "the Department of Homeland Security",
+     "right": [
+      "Meagan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 10,
+     "q": "\"The whole is greater than the sum of its parts\" is one way of explaining it",
+     "a": "synergy",
+     "right": [],
+     "wrong": [
+      "Vanessa"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 28,
+     "q": "Temperate at an altitude of about 5,000 feet, Medellín is a center of this nation's coffee industry",
+     "a": "Colombia",
+     "right": [
+      "Meagan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 26,
+     "q": "In the 1980s & '90s this rhymingly named Cubs announcer led the Wrigley faithful in singing \"Take Me Out To The Ballgame\"",
+     "a": "Harry Caray",
+     "right": [
+      "Meagan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 4,
+     "q": "Dr. Mittens' patients are happy to hear that this royal noun becomes a verb when it refers to a cat giving birth",
+     "a": "queening",
+     "right": [
+      "Vanessa"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "BODIES OF WATER",
+    "POP & ROCK LIFE STORIES",
+    "NOBEL PEACE PRIZE WINNERS",
+    "9-, 10-, & 11-LETTER WORDS",
+    "WHAT A TOOL",
+    "LIFE IN THE FAUST LANE"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 13,
+     "q": "The Churn & the Leach are among its headstreams in the Cotswolds",
+     "a": "the Thames",
+     "right": [],
+     "wrong": [
+      "Ryan",
+      "Meagan"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 18,
+     "q": "The confessions of this funkmeister is subtitled: \"Memoirs of a Super Freak\"",
+     "a": "Rick James",
+     "right": [
+      "Meagan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 25,
+     "q": "1989: \nTenzin Gyatso, the 14th holder of this religious title",
+     "a": "Dalai Lama",
+     "right": [
+      "Meagan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 22,
+     "q": "The mathematical operation of deducting a number",
+     "a": "subtraction",
+     "right": [
+      "Vanessa"
+     ],
+     "wrong": [
+      "Ryan"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 23,
+     "q": "Often joined with \"ball\", it means the end of a hammer opposite the face",
+     "a": "peen",
+     "right": [
+      "Meagan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 5,
+     "q": "A Faustian bargain hit the pop charts in 1979 when \"The Devil Went Down To\" this place, \"he was lookin' for a soul to steal\"",
+     "a": "Georgia",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": true,
+     "order": 10,
+     "q": "When not hampered by monsoons, the dhow was the traditional trading vessel of this ocean",
+     "a": "the Indian Ocean",
+     "right": [
+      "Meagan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 3000
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 17,
+     "q": "Don't get me wrong, \"Reckless: My Life as a Pretender\" was her tale to tell",
+     "a": "Chrissie Hynde",
+     "right": [
+      "Meagan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 19,
+     "q": "1999: \nThis medical organization founded in France",
+     "a": "Doctors Without Borders",
+     "right": [
+      "Meagan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 6,
+     "q": "If back in the day IBM made a jumbo machine that was your company's only computer, it was known as this 9-letter type",
+     "a": "a mainframe",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 30,
+     "q": "It's a pronged tool used for gathering, & no one would use a hoe for that",
+     "a": "a rake",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 1,
+     "q": "Part II of Goethe's \"Faust\" gets into his salvation & the courtship of this Greek woman of Trojan War myth",
+     "a": "Helen of Troy",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 9,
+     "q": "At its widest, it's about 180 miles as you sail east-west from Ontario to Michigan",
+     "a": "Lake Huron",
+     "right": [],
+     "wrong": [
+      "Ryan"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 14,
+     "q": "\"Be My Baby: How I Survived Mascara, Miniskirts, and Madness\" is by this late, great Ronette",
+     "a": "Ronnie Spector",
+     "right": [
+      "Meagan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 20,
+     "q": "1997: \nJody Williams & the group she helped found, the International Campaign to Ban these weapons",
+     "a": "landmines",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 7,
+     "q": "From Latin for \"war\", as a noun it can mean a nation involved in a war",
+     "a": "belligerent",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 24,
+     "q": "Locksmith Bill Deforrest invented innovative these, like a hybrid of the diamond & hook types",
+     "a": "lockpicks",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 2,
+     "q": "Traditionally, in Gounod's opera, Faust is a tenor while Méphistophélès is this, like Nicolai Ghiaurov in a classic recording",
+     "a": "a bass",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 11,
+     "q": "The Conchos River, the longest in the state of Chihuahua, is a tributary of this one",
+     "a": "the Rio Grande",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 16,
+     "q": "This Englishman looked at fame in \"They Made a Monkee Out of Me\"",
+     "a": "Davy Jones",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 26,
+     "q": "2015: \nThe National Dialogue Quartet, of this North African Arab Spring nation",
+     "a": "Tunisia",
+     "right": [
+      "Meagan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 8,
+     "q": "A Fellini film gave us this word for a type of photographer",
+     "a": "a paparazzi",
+     "right": [
+      "Meagan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 28,
+     "q": "The \"cold\" type of this chipping instrument is so called because it's tough enough to cut cold metal",
+     "a": "a chisel",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 3,
+     "q": "Roll up, roll up for the history tour... \"The Tragical History of doctor Faustus\" is a play by this Shakespeare-era man",
+     "a": "(Christopher) Marlowe",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2000
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 12,
+     "q": "Tanzania & Mozambique are on the eastern shore of this lake",
+     "a": "Lake Malawi",
+     "right": [
+      "Meagan"
+     ],
+     "wrong": [
+      "Ryan",
+      "Vanessa"
+     ],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 15,
+     "q": "\"So Let It Be Written\", a bio of this lead singer, gets its title from a lyric in Metallica's \"Creeping Death\"",
+     "a": "James Hetfield",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 27,
+     "q": "1961: \nThis Swedish Secretary-General of the U.N., posthumously",
+     "a": "Dag Hammarskjöld",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 21,
+     "q": "From German & Yiddish, it's the act of offering unsolicited advice to someone who's playing a game",
+     "a": "kibbitzing",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 29,
+     "q": "Used for shaping wood, it can end in \"z\" or \"ze\"",
+     "a": "an adze",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 4,
+     "q": "This composer conducted the first performance of his \"Faust\" overture at a Dresden concert in 1844",
+     "a": "Wagner",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "THE EARLY 19th CENTURY",
+  "q": "Admiral Pierre-Charles Villeneuve signaled \"engage the enemy\" around noon & surrendered at 1:45 PM during this battle",
+  "a": "the Battle of Trafalgar",
+  "right": [],
+  "wrong": [
+   "Vanessa",
+   "Ryan",
+   "Meagan"
+  ]
+ },
+ "gameId": "7370",
+ "cat_notes": {
+  "J": [
+   "Clues about Picture the Novel.",
+   "Clues about U.S. Government History.",
+   "Each answer contains the letter group “SYN”.",
+   "Clues about Coffee Break.",
+   "Clues about Ballpark Fun.",
+   "Clues about Dr Mittens, Cat Obstetrician."
+  ],
+  "DJ": [
+   "Clues about Bodies of Water.",
+   "Clues about Pop and Rock Life Stories.",
+   "Clues about Nobel Peace Prize Winners.",
+   "Each answer is a 11-letter word or term related to 9-, 10-,.",
+   "Clues about What a Tool.",
+   "Clues about Life in the Faust Lane."
+  ],
+  "F": "Clues about The Early 19th Century."
+ }
+}

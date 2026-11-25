@@ -1,0 +1,995 @@
+{
+ "show": "#8501",
+ "aired": "2021-11-01",
+ "note": "Tyler Rhode game 4.",
+ "contestants": [
+  {
+   "name": "Carrie Bruner",
+   "bio": "a library media specialist from Glen Allen, Virginia",
+   "short": "Carrie"
+  },
+  {
+   "name": "Mike Norris",
+   "bio": "a researcher and writer from Beverly, Massachusetts",
+   "short": "Mike"
+  },
+  {
+   "name": "Tyler Rhode",
+   "bio": "a healthcare data specialist from New York, New York (whose 3-day cash winnings total $58,301)",
+   "short": "Tyler"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Tyler": 6200,
+   "Mike": 4600,
+   "Carrie": 2600
+  },
+  "DJ": {
+   "Tyler": 16200,
+   "Mike": 4800,
+   "Carrie": -200
+  },
+  "Final": {
+   "Tyler": 20000,
+   "Mike": 6800,
+   "Carrie": -200
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "KANSAS CITY: NEWS CLUES",
+    "MISMATCHED PAIRS",
+    "TRIPLE ALLITERATION",
+    "THE MAN'S PEN NAME",
+    "ANATOMY CLASS",
+    "TV CATCHPHRASES"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 2,
+     "q": "(Hi, I'm John Holt.) It was an exciting but sobering event in 2006 when Kansas City opened the USA's official museum of this event, with features for visitors to ponder like a field of 9,000 silk poppies",
+     "a": "World War I",
+     "right": [
+      "Mike"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "Place for your petrol & a reality show where Cuban & co. get pitched",
+     "a": "Shark Tank gas tank",
+     "right": [
+      "Mike"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 28,
+     "q": "This pencil-&-paper game is also known as Xs & Os",
+     "a": "tic-tac-toe",
+     "right": [
+      "Mike"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 30,
+     "q": "\"I am a young girl of about thirty-five\", penned this Founding Father in a 1732 letter to the Penn. Gazette as \"Alice Addertongue\"",
+     "a": "Ben Franklin",
+     "right": [
+      "Mike"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 20,
+     "q": "Each of these organs has its own pleural cavity, not connected to the other",
+     "a": "the lungs",
+     "right": [
+      "Carrie"
+     ],
+     "wrong": [
+      "Mike"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 18,
+     "q": "\"The truth is out there\"",
+     "a": "The X-Files",
+     "right": [
+      "Carrie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 3,
+     "q": "(Hi, I'm Pat McGonigle.) Hollywood came to Kansas City to film a biopic starring Gary Sinise as this man; locations included Lee's Summit & of course, Independence",
+     "a": "Truman",
+     "right": [
+      "Carrie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 26,
+     "q": "Goose liver & Fat Tuesday",
+     "a": "Mardi Gras & foie gras",
+     "right": [
+      "Mike"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "Only around since the early 1990s, it takes you practically anywhere you want to go--on the Internet",
+     "a": "the World Wide Web",
+     "right": [
+      "Tyler"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 29,
+     "q": "Mathematician & photographer Charles Lutwidge Dodgson is better known to readers young & old by this pen name",
+     "a": "Lewis Carroll",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 17,
+     "q": "The orbital cavities contain these organs",
+     "a": "the eyes",
+     "right": [
+      "Carrie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 16,
+     "q": "\"Suit up!\"",
+     "a": "How I Met Your Mother",
+     "right": [
+      "Carrie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 7,
+     "q": "(Hi, I'm Nick Vasos.) In 1997, the 100th anniversary of her birth, her hometown of Atchison, Kansas unveiled a 42,000-square foot earth work portrait of this globe-trotting heroine",
+     "a": "Amelia Earhart",
+     "right": [
+      "Carrie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 23,
+     "q": "Arkansas capital & Jim Henson series featuring Red, Gobo & Boober",
+     "a": "Little Rock & Fraggle Rock",
+     "right": [
+      "Mike"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 11,
+     "q": "The movie \"A Christmas Story\" used this canine phrase to up the ante in a big challenge",
+     "a": "double dog dare",
+     "right": [
+      "Tyler"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 19,
+     "q": "Edith Van Dyne, author of the \"Aunt Jane's Nieces\" series, wasn't in Kansas anymore, as she didn't exist--\"she\" was this man",
+     "a": "L. Frank Baum",
+     "right": [
+      "Mike"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 10,
+     "q": "Cardiac & smooth are 2 main types of this tissue",
+     "a": "muscle",
+     "right": [
+      "Carrie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 8,
+     "q": "\"Wubba lubba dub dub\"",
+     "a": "Rick and Morty",
+     "right": [
+      "Tyler"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 24,
+     "q": "(Hi, I'm Karli Ritter.) A highlight of the holiday season each year is the lighting of the mayor's 100-foot Christmas tree at Crown Center, opened in 1971 by the same Kansas City businessman who founded this card company",
+     "a": "Hallmark",
+     "right": [
+      "Tyler"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 14,
+     "q": "A nickname for the circus & a Tennessee state song",
+     "a": "big top & \"Rocky Top\"",
+     "right": [
+      "Carrie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 12,
+     "q": "Relationship of Queen Elizabeth to Queen Victoria",
+     "a": "great-great-granddaughter",
+     "right": [
+      "Mike"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 21,
+     "q": "N.W. Clerk--a play on Old English for \"I know not what scholar\"--was a pen name for this creator of Aslan",
+     "a": "C.S. Lewis",
+     "right": [
+      "Mike"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 6,
+     "q": "This long, slender fiber that projects from a nerve cell carries impulses away from the cell body",
+     "a": "an axon",
+     "right": [
+      "Mike"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 4,
+     "q": "\"This tape will self-destruct in five seconds\"",
+     "a": "Mission: Impossible",
+     "right": [
+      "Tyler"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 25,
+     "q": "(Hi, I'm Christel Bell.) In 1997, the Negro Leagues Baseball Museum opened its new permanent home under the leadership of Buck O'Neill, who had been a star for this Kansas City Negro Leagues team, as had greats like Satchel Paige & Jackie Robinson",
+     "a": "the Monarchs",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 13,
+     "q": "Scientist known for his study of light & actress who plays Maeve on \"Westworld\"",
+     "a": "Isaac & Thandiwe Newton",
+     "right": [
+      "Tyler"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": true,
+     "order": 15,
+     "q": "One of this organization's missions is \"calling out & addressing substandard marketplace behavior\"",
+     "a": "Better Business Bureau",
+     "right": [],
+     "wrong": [
+      "Carrie"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2000
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 22,
+     "q": "A rip-ping storyteller, he covered \"A History of New York\" in 1809 under the name Diedrich Knickerbocker",
+     "a": "Washington Irving",
+     "right": [
+      "Tyler"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 9,
+     "q": "The name of this bone that helps form the elbow is a Latin word for \"elbow\"",
+     "a": "the ulna",
+     "right": [
+      "Tyler"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 5,
+     "q": "\"Homey don't play that\"",
+     "a": "In Living Color",
+     "right": [
+      "Carrie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "ONCE UPON A NOVEMBER",
+    "LET'S TAKE A TRIP",
+    "FANTASTICAL CREATURES",
+    "FAMILY IS EVERYTHING",
+    "MOVIES BY CHARACTERS",
+    "2 WORDS, 2 SYLLABLES EACH"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 26,
+     "q": "He assumed the presidency November 22, 1963",
+     "a": "Lyndon Baines Johnson",
+     "right": [
+      "Tyler"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 25,
+     "q": "Shoot a selfie at this state's Rainbow Bridge, a natural stone arch with a 275-foot span & a height of 290 feet",
+     "a": "Utah",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 30,
+     "q": "The Minotaur was the offspring of Cretan Queen Pasiphae & a white bull sent by this sea god",
+     "a": "Poseidon",
+     "right": [
+      "Tyler"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 15,
+     "q": "Patented in 1835, it gave brass instruments a new largest family member",
+     "a": "a tuba",
+     "right": [
+      "Carrie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 8,
+     "q": "1997: \nDirk Diggler, \nRollergirl, \nAmber Waves",
+     "a": "Boogie Nights",
+     "right": [
+      "Carrie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 10,
+     "q": "In a hopeful sense, a cloud is said to have one of these metallic features",
+     "a": "a silver lining",
+     "right": [
+      "Mike"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 27,
+     "q": "After 10 years of construction, this waterway officially opened November 17, 1869",
+     "a": "the Suez Canal",
+     "right": [],
+     "wrong": [
+      "Tyler",
+      "Carrie"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 22,
+     "q": "If the \"active\" life is for you, climb one of these, like Mount Bromo in Indonesia or Mount Sakurajima in Japan",
+     "a": "volcanoes",
+     "right": [
+      "Tyler"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 9,
+     "q": "Francois Rabelais wrote about the exploits of this voracious giant & his son Pantagruel",
+     "a": "Gargantua",
+     "right": [
+      "Mike"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 20,
+     "q": "The shell shape accounts for the name of the gastropod family Helicidae, including the common edible this",
+     "a": "snail",
+     "right": [
+      "Carrie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 7,
+     "q": "1970: \nHot Lips, \nTrapper John, \nPainless Waldowski",
+     "a": "M*A*S*H",
+     "right": [
+      "Tyler"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 11,
+     "q": "Brits use this \"familial\" name for the guy who brings presents every December",
+     "a": "Father Christmas",
+     "right": [
+      "Carrie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 19,
+     "q": "On Nov. 29, 1929 he commanded the first flight over the South Pole, for which he'd receive a promotion to rear admiral",
+     "a": "(Richard) Byrd",
+     "right": [
+      "Mike"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 18,
+     "q": "3 1/2-mile-long Nanjing Road is the main shopping street in this most populous Chinese city",
+     "a": "Shanghai",
+     "right": [
+      "Carrie"
+     ],
+     "wrong": [
+      "Mike"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 3,
+     "q": "George Langelaan wrote the Playboy magazine short story that inspired this film in which Seth Brundle transforms",
+     "a": "\"The Fly\"",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": true,
+     "order": 17,
+     "q": "Prominent Boston families like the Cabots & Winthrops have been dubbed with this collective name from a caste of India",
+     "a": "the Brahmins",
+     "right": [],
+     "wrong": [
+      "Carrie"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2000
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 4,
+     "q": "1964: General \n\"Buck\" Turgidson, \nColonel \"Bat\" Guano, Major \"King\" Kong",
+     "a": "Dr. Strangelove",
+     "right": [
+      "Tyler"
+     ],
+     "wrong": [
+      "Mike"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": true,
+     "order": 13,
+     "q": "Meaning you're good at talking with others, this alliterative phrase begins with a plural word & ends with its singular form",
+     "a": "a people person",
+     "right": [],
+     "wrong": [
+      "Mike"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 5000
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 28,
+     "q": "On November 2, 1930 Haile Selassie was crowned emperor of this country",
+     "a": "Ethiopia",
+     "right": [
+      "Mike"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 23,
+     "q": "Enjoy a performance by North America's longest-running ballet company, the Royal Ballet in this Manitoba city",
+     "a": "Winnipeg",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 1,
+     "q": "This sea monster Odysseus & his men must sail past has 6 heads",
+     "a": "Scylla",
+     "right": [
+      "Tyler"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 16,
+     "q": "The black & yellow panels in the state flag seen here are a heraldic symbol of this family that founded Maryland",
+     "a": "the Calverts",
+     "right": [],
+     "wrong": [
+      "Carrie"
+     ],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 5,
+     "q": "1992: \nNice Guy Eddie, \nMr. Orange, \nMr. Brown",
+     "a": "Reservoir Dogs",
+     "right": [
+      "Tyler"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 12,
+     "q": "High levels of hGC & estrogen might be the cause of this malady that can actually strike pregnant women at any time of day",
+     "a": "morning sickness",
+     "right": [
+      "Mike"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 29,
+     "q": "On November 1, 1957 this 5-mile-long bridge opened to traffic, linking Michigan's Upper & Lower Peninsulas",
+     "a": "the Mackinac Bridge",
+     "right": [],
+     "wrong": [
+      "Tyler"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 24,
+     "q": "Visit the megaliths of Carnac, then name your daughter after this region of Northwest France where you found them",
+     "a": "Brittany",
+     "right": [
+      "Mike"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 2,
+     "q": "The Talmud recounts how Adam was first created by God as one of these magical humanoids",
+     "a": "a golem",
+     "right": [
+      "Tyler"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 21,
+     "q": "In 1478 the rival Pazzi family tried to overthrow this ruling family of an Italian city, including attacking them in a church",
+     "a": "the Medici",
+     "right": [
+      "Tyler"
+     ],
+     "wrong": [
+      "Carrie"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 6,
+     "q": "1976: \nCoach Buttermaker, Ogilvie,\nLupus",
+     "a": "The Bad News Bears",
+     "right": [
+      "Tyler"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 14,
+     "q": "Home to wits like Dorothy Parker, the Algonquin Round Table had this other shapely name",
+     "a": "the Vicious Circle",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "1960s HISTORY",
+  "q": "After around 8 PM EDT on July 21, 1969 a major part of a transport known by this 1-word name was never seen again",
+  "a": "Eagle",
+  "right": [
+   "Mike",
+   "Tyler"
+  ],
+  "wrong": []
+ },
+ "gameId": "7182",
+ "cat_notes": {
+  "J": [
+   "These will be presented by the Kansas City Fox 4 news team.",
+   "Clues about Mismatched Pairs.",
+   "Each answer is alliterative — its main words start with the same sound.",
+   "Clues about The Man's Pen Name.",
+   "Clues about Anatomy Class.",
+   "You will name the show that made each one famous."
+  ],
+  "DJ": [
+   "Clues about Once Upon a November.",
+   "The category “LET'S TAKE A TRIP” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "Clues about Fantastical Creatures.",
+   "Clues about Family Is Everything.",
+   "Clues about Movies by Characters.",
+   "Clues about 2 Words, 2 Syllables Each."
+  ],
+  "F": "Clues about 1960s History."
+ }
+}
