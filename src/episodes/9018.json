@@ -1,0 +1,976 @@
+{
+ "show": "#9174",
+ "aired": "2024-10-03",
+ "note": "Ryan Manton game 4.",
+ "contestants": [
+  {
+   "name": "Emily Stowell-Bui",
+   "bio": "a children's librarian from Charleston, South Carolina",
+   "short": "Emily"
+  },
+  {
+   "name": "Adam Stewart",
+   "bio": "a power enginer from Fort St. John, British Columbia, Canada",
+   "short": "Adam"
+  },
+  {
+   "name": "Ryan Manton",
+   "bio": "a systems administrator from Columbus, Ohio (whose 3-day cash winnings total $67,379)",
+   "short": "Ryan"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Ryan": 5400,
+   "Adam": 5600,
+   "Emily": -800
+  },
+  "DJ": {
+   "Ryan": 15800,
+   "Adam": 2000,
+   "Emily": -400
+  },
+  "Final": {
+   "Ryan": 15800,
+   "Adam": 2100,
+   "Emily": -400
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "PEOPLE'S SEXIEST MAN ALIVE",
+    "KIDDY LIT",
+    "BRAND MASCOTS",
+    "BEASTLY RHYME TIME",
+    "IT'S TECHNICAL",
+    "ALSO A PAPAL NAME"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 30,
+     "q": "2016's cover duly reported this part-time pro wrestler was \"sweet, smart--and sculpted!\", if you smelllll... what the Ken... is cookin'",
+     "a": "Johnson",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 14,
+     "q": "Jamie journals in Jim Benton's alliterative bestselling series \"Dear Dumb\" this",
+     "a": "Diary",
+     "right": [
+      "Emily"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 22,
+     "q": "A twin-tailed mermaid is the mascot of this behemoth chain",
+     "a": "Starbucks",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 6,
+     "q": "A ceasefire between ganders",
+     "a": "a geese peace (a goose truce)",
+     "right": [
+      "Emily"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 19,
+     "q": "A technique called somatic cell nuclear transfer is used in this process; in 1996, it resulted in a sheep named Dolly",
+     "a": "cloning",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 25,
+     "q": "It follows \"salt\" in the name of a gunpowder component",
+     "a": "peter",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 29,
+     "q": "He's got the EGOT, he's a master musician, he's married to Chrissy Teigen, so why not also be the S.M.A. in 2019?",
+     "a": "John Legend",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 13,
+     "q": "Edward Bear is this character's more formal name",
+     "a": "Winnie-the-Pooh",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 15,
+     "q": "The full name of this Planters mascot is Bartholomew Richard Fitzgerald-Smythe",
+     "a": "Mr. Peanut",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 4,
+     "q": "A plastered polecat",
+     "a": "a drunk skunk",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 18,
+     "q": "Einstein patented an innovative refrigerator but couldn't sell it after DuPont came up with this \"Fr\"eezing stuff",
+     "a": "Freon",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 24,
+     "q": "It follows \"Presumed\" in the title of a Scott Turow thriller",
+     "a": "Innocent",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 28,
+     "q": "Great Scot! In 1989 this actor was \"older, balder... and better!\"; we only wish he'd really played \"Celebrity Jeopardy!\"",
+     "a": "Sean Connery",
+     "right": [
+      "Emily"
+     ],
+     "wrong": [
+      "Adam"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 9,
+     "q": "Fast friends Jess & Leslie create their own secret kingdom in the woods, then tragedy strikes, in \"Bridge to\" this place",
+     "a": "Terabithia",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [
+      "Adam"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 12,
+     "q": "\"Oh, yeah!\" Richard Berg was the original voice of the pitcher-shaped mascot for this drink brand",
+     "a": "Kool-Aid",
+     "right": [
+      "Emily"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 3,
+     "q": "A \"pocket\" burrower's slip-on shoe",
+     "a": "a gopher loafer",
+     "right": [
+      "Adam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 17,
+     "q": "William Harvey attempted this process in 1628, but it wasn't safe until the advent of donor compatibility tests in the early 1900s",
+     "a": "a blood transfusion",
+     "right": [],
+     "wrong": [
+      "Emily"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 23,
+     "q": "When \"in\" comes before this word meaning \"merciful\", it often describes nasty weather",
+     "a": "clement",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 27,
+     "q": "2 years after \"Creed II\", this actor was sexy man No. 1 in 2020",
+     "a": "Michael B. Jordan",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 8,
+     "q": "Among the characters created by this beloved author were Ramona Quimby & Henry Huggins",
+     "a": "Beverly Cleary",
+     "right": [
+      "Adam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 11,
+     "q": "This big dude is a brand mascot whose name was inspired by a type of large pea",
+     "a": "the Jolly Green Giant",
+     "right": [
+      "Adam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 2,
+     "q": "An equitable Kodiak",
+     "a": "a fair bear",
+     "right": [
+      "Adam"
+     ],
+     "wrong": [
+      "Emily"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": true,
+     "order": 16,
+     "q": "The drum in a clothes dryer is an example of the basket type of this spinning device seen in many a lab",
+     "a": "a centrifuge",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1000
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 21,
+     "q": "As far as astrological signs go, this one fits the bill",
+     "a": "Leo",
+     "right": [
+      "Adam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 26,
+     "q": "He was hunking up \"L.A. Law\" when chosen in 1987; now he's even sexier on \"In the Kitchen with\" him, am I right?",
+     "a": "Harry Hamlin",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 7,
+     "q": "In a fairy tale this title bird is brought to the emperor of China but is eventually replaced by a mechanical one",
+     "a": "the nightingale",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 10,
+     "q": "Is he a sailor or a genie? Unclear, but he's fastidious & he reps the brand that makes Magic Erasers",
+     "a": "Mr. Clean",
+     "right": [
+      "Adam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 5,
+     "q": "A krait blunder",
+     "a": "a snake mistake",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 1,
+     "q": "From Greek for \"beyond\" & \"heavy\", it's a type of chamber used to treat decompression sickness",
+     "a": "hyperbaric",
+     "right": [
+      "Adam"
+     ],
+     "wrong": [
+      "Emily"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 20,
+     "q": "From Latin for \"good\" & \"fate\", it's an old-timey word for any innkeeper",
+     "a": "boniface",
+     "right": [
+      "Adam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "A GLIMPSE INTO THE PAST",
+    "FILM FROM FICTION",
+    "ARCHIPELAGOS",
+    "ANCIENTLY DRAMATIC",
+    "POSSESSIVE TERMS",
+    "FLIP THE FIRST & LAST LETTER"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 5,
+     "q": "Early baseball star Harry Wright stands with his English-born dad Sam, a star in this sport",
+     "a": "cricket",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 12,
+     "q": "In 2019 Greta Gerwig directed an adaptation of this Louisa May Alcott novel",
+     "a": "Little Women",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "Just 5 islands but worth a visit, the Tremiti Archipelago is off Italy's \"Heel\", in this sea",
+     "a": "the Adriatic",
+     "right": [
+      "Adam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 21,
+     "q": "Though he was born in Africa, the plays of Terence were long considered to be models of this language & were used to teach it",
+     "a": "Latin",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 29,
+     "q": "A Greek myth gives us this anatomical term for a vulnerable point",
+     "a": "Achilles' heel",
+     "right": [
+      "Emily"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 23,
+     "q": "A rental contract \n&\nan artist's canvas supporter",
+     "a": "lease & easel",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 4,
+     "q": "This great Sioux leader often wore tinted-glass goggles, as in the 1881 portrait seen here",
+     "a": "Sitting Bull",
+     "right": [
+      "Adam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 11,
+     "q": "Quincy Jones produced a 2023 movie musical & a 1985 film both based on this novel",
+     "a": "The Color Purple",
+     "right": [],
+     "wrong": [
+      "Adam"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": true,
+     "order": 2,
+     "q": "This archipelago about 60 miles off the coast of Morocco is Spain's southernmost autonomous community",
+     "a": "the Canary Islands",
+     "right": [],
+     "wrong": [
+      "Adam"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2000
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 20,
+     "q": "In Euripides' play about this beauty, only her phantom runs off to Troy; the real her waits faithfully for her husband's return",
+     "a": "Helen",
+     "right": [
+      "Adam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 28,
+     "q": "The eponymous man's 1889 formulation of this dictum: \"One must never place a loaded rifle on the stage if it isn't going to go off\"",
+     "a": "Chekhov's gun",
+     "right": [],
+     "wrong": [
+      "Ryan"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 24,
+     "q": "A male duck\n& \ncollected the leaves",
+     "a": "drake & raked",
+     "right": [
+      "Adam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 3,
+     "q": "To show Columbus wasn't first across the Atlantic, in 1893, a Viking ship replica sailed from Norway to a big party in this city",
+     "a": "Chicago",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 10,
+     "q": "Writer Stephenie Meyer pictured Henry Cavill & Emily Browning in these 2 \"Twilight\" roles",
+     "a": "Edward & Bella",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 13,
+     "q": "The Lucayan Archipelago consists of the Turks & Caicos Islands & this British Commonwealth nation to the northwest",
+     "a": "the Bahamas",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 18,
+     "q": "In Sophocles' \"Trachinian Women\", this semi-divine hero sends his mistress to live with his wife, & bad stuff happens",
+     "a": "Hercules",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": true,
+     "order": 22,
+     "q": "A structure of ropes & wooden steps for ascending a ship's rigging, or something that appears in Genesis 28:12",
+     "a": "Jacob's ladder",
+     "right": [],
+     "wrong": [
+      "Adam"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 6400
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 25,
+     "q": "A Spanish cattle farm\n& \nwhat holds a ship in place",
+     "a": "anchor & rancho",
+     "right": [
+      "Adam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 6,
+     "q": "The Place Vendôme was the site of many street barricades set up during the 1871 revolt known as the Paris this",
+     "a": "Commune",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 9,
+     "q": "Loosely based on a Martin Amis novel, this film set just outside of Auschwitz won the Best Intl. Feature Oscar in 2024",
+     "a": "The Zone of Interest",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 14,
+     "q": "The world's largest number of giant tortoises is found on Aldabra Atoll in this nation N.E. of Madagascar",
+     "a": "(the) Seychelle(s)",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 17,
+     "q": "This word for a tragedian or other actor comes from the name of the man said to be Greek tragedy's first actor",
+     "a": "thespian",
+     "right": [
+      "Adam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 30,
+     "q": "Named for a Frenchman, it's the argument that you should gamble on the belief in God, as the potential upside is so big",
+     "a": "Pascal's wager",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 26,
+     "q": "One from Earth\n& \nword to describe a wandering knight",
+     "a": "Terran & errant",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 7,
+     "q": "In the 1880s, daring New Yorkers rode of these early cycles named for the resemblance of the wheels to two old British coins",
+     "a": "a penny-farthing",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 8,
+     "q": "This Mexican auteur, who won an Oscar for \"Gravity\", directed \"Harry Potter and the Prisoner of Azkaban\"",
+     "a": "Alfonso Cuarón",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 15,
+     "q": "The world's largest archipelago, it contains thousands of islands including those of the Philippines & Indonesia",
+     "a": "the Malay Archipelago",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 16,
+     "q": "In a play by Aeschylus, Eteocles defends this city against the forces of Polyneices & 6 other chieftains",
+     "a": "Thebes",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 19,
+     "q": "A British actor named Simon Prebble gave the motion law-demonstrating science toy seen here this name",
+     "a": "Newton's cradle",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 27,
+     "q": "Above an intended pitch musically\n& \nthe instruments that might attempt it",
+     "a": "sharp & harps",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "19th CENTURY NAMES",
+  "q": "Shrunken auditory nerves were seen in his autopsy after his 1827 death in Vienna",
+  "a": "(Ludwig van) Beethoven",
+  "right": [
+   "Adam",
+   "Ryan"
+  ],
+  "wrong": []
+ },
+ "gameId": "9018",
+ "cat_notes": {
+  "J": [
+   "Clues about People's Sexiest Man Alive.",
+   "Clues about Kiddy Lit.",
+   "Clues about Brand Mascots.",
+   "Each answer is a rhyming word or phrase.",
+   "The category “IT'S TECHNICAL” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "Clues about Also a Papal Name."
+  ],
+  "DJ": [
+   "Clues about A Glimpse Into the Past.",
+   "Clues about Film from Fiction.",
+   "Clues about Archipelagos.",
+   "Clues about Anciently Dramatic.",
+   "Clues about Possessive Terms.",
+   "Each response is two words like \"over\" and \"rove\" where the last letter of one moves to be the first letter of another."
+  ],
+  "F": "Clues about 19th Century Names."
+ }
+}

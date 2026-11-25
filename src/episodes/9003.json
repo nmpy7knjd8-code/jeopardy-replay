@@ -1,0 +1,997 @@
+{
+ "show": "#9160",
+ "aired": "2024-09-13",
+ "note": "",
+ "contestants": [
+  {
+   "name": "Hilary Glazer",
+   "bio": "a freelance writer/editor from Charleston, West Virginia",
+   "short": "Hilary"
+  },
+  {
+   "name": "Evan Suttell",
+   "bio": "a nonprofit program assistant originally from Lakewood, Ohio",
+   "short": "Evan"
+  },
+  {
+   "name": "Mark Palmere",
+   "bio": "an energy analyst from Sacramento, California (whose 1-day cash winnings total $16,199)",
+   "short": "Mark"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Mark": 4000,
+   "Evan": 8000,
+   "Hilary": 2400
+  },
+  "DJ": {
+   "Mark": 13800,
+   "Evan": 17200,
+   "Hilary": 800
+  },
+  "Final": {
+   "Mark": 18367,
+   "Evan": 20200,
+   "Hilary": 496
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "STATELY PRECEDERS",
+    "AQUATIC ANIMALS",
+    "A LITTLE FOOD, A LITTLE WINE",
+    "SENDING OUT AN \"S\" TO \"S\"",
+    "THE ARTS",
+    "NEW YORK'S HOTTEST CLUB IS..."
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 7,
+     "q": "Peach or\nO'Keeffe",
+     "a": "Georgia",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 25,
+     "q": "Resembling a ray, the angel type of this lies along sandy bottoms waiting for its prey to pass above",
+     "a": "a shark",
+     "right": [
+      "Evan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 20,
+     "q": "Can't say I know for sure, but I'll bet this airy chocolate dish tastes better than the same-named hair product",
+     "a": "mousse",
+     "right": [
+      "Evan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 24,
+     "q": "It's the small telescope seen here",
+     "a": "a spyglass",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 18,
+     "q": "Rodin's \"The Gates of Hell\" includes in the upper portion this sculpture that depicts a seated figure",
+     "a": "The Thinker",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 19,
+     "q": "The 2007-08 Giants, who made sure in the Super Bowl this team didn't finish the season 19-0 (but it did trademark \"19-0\")",
+     "a": "the New England Patriots",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 6,
+     "q": "Waltz or\nwalking horse",
+     "a": "Tennessee",
+     "right": [
+      "Hilary"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "Often used as aquarium fish food, these tiny shrimp are named for the salty water they love",
+     "a": "brine shrimp",
+     "right": [
+      "Evan"
+     ],
+     "wrong": [
+      "Mark"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 28,
+     "q": "Wines classed as this \"fruity\" color are made from white grapes with the skins left on",
+     "a": "orange wines",
+     "right": [],
+     "wrong": [
+      "Evan"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 23,
+     "q": "The paranasal these are air-filled spaces near the smeller",
+     "a": "sinuses",
+     "right": [
+      "Hilary"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 17,
+     "q": "This Tchaikovsky ballet premiered on Feb. 20, 1877 but due to poor initial choreography, people felt it was for the birds",
+     "a": "Swan Lake",
+     "right": [
+      "Evan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 11,
+     "q": "The 1977 Cosmos, NASL champs led by this Brazilian; his last game as a pro would be about a month later",
+     "a": "Pelé",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 4,
+     "q": "Hot dog or\nJ. Frog",
+     "a": "Michigan",
+     "right": [
+      "Evan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 13,
+     "q": "Often called an eel because its legs are almost invisible, the Amphiuma is actually a species of this amphibian",
+     "a": "a salamander",
+     "right": [
+      "Evan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 29,
+     "q": "South Africa's Indian community love bunny chow, a hallowed half loaf of bread filled with this spiced sauce dish",
+     "a": "curry",
+     "right": [
+      "Evan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 2,
+     "q": "In 2021 Fiat Chrysler merged with PSA Group to become this multinational corporation",
+     "a": "Stellantis",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 16,
+     "q": "This Norwegian composer wrote the incidental music to \"Peer Gynt\"",
+     "a": "Grieg",
+     "right": [
+      "Evan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 10,
+     "q": "The 1998 Yankees, winners of 114 regular season games & a Series sweep of the Padres with this superstar reliever saving three",
+     "a": "Rivera",
+     "right": [
+      "Evan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 3,
+     "q": "Man\n(of weird news fame)\nor\nPanther",
+     "a": "Florida",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 12,
+     "q": "Cirripedes, which cement themselves to rocks, ships, pilings & even sea turtles, are better known as these",
+     "a": "a barnacle",
+     "right": [
+      "Hilary"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 30,
+     "q": "A popular full-bodied style of red wine has 2 names: Syrah, when it's from France, & when it's from Australia, this",
+     "a": "Shiraz",
+     "right": [
+      "Hilary"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 1,
+     "q": "It precedes \"chef\" or is used by itself to refer to the kitchen's second in command",
+     "a": "sous",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": true,
+     "order": 15,
+     "q": "In a Mozart opera from 1791, wild beasts are tamed by this instrument",
+     "a": "the magic flute",
+     "right": [
+      "Evan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1200
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 8,
+     "q": "The 1968-69 Jets; Joe Namath backed up \"We're gonna win the game\" on Super Bowl Sunday with this 3-word boast",
+     "a": "I guarantee it",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 5,
+     "q": "\"Dreamin'\" or\nroll",
+     "a": "California",
+     "right": [
+      "Hilary"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 26,
+     "q": "Clownfish belong to genus Amphiprion consisting of fishes that live unharmed among the stinging tentacles of these invertebrates",
+     "a": "(sea) anemones",
+     "right": [
+      "Evan"
+     ],
+     "wrong": [
+      "Hilary"
+     ],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 21,
+     "q": "Traditionally served on a board, this mix of cold cuts & cheeses is French for \"pork-butcher's shop\"",
+     "a": "charcuterie",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 22,
+     "q": "From the Latin for \"to leap\", it means lustful or lecherous",
+     "a": "salacious",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 14,
+     "q": "The influence of Anthony van Dyck can been seen in the way this painter dressed the subject of \"The Blue Boy\"",
+     "a": "Gainsborough",
+     "right": [
+      "Evan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 9,
+     "q": "This team; in 1994 it broke 54 years of title futility & 30 years later, won the Presidents' Trophy with the best reg. season record",
+     "a": "the Rangers",
+     "right": [
+      "Evan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "21st CENTURY FILMS",
+    "COUNTRIES' NORTHERNMOST POINTS",
+    "ONLY ONE VOWEL",
+    "WE HAVE HISTORY",
+    "IN THE MEDICINE CABINET",
+    "FOR YOU PAGE"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 15,
+     "q": "Ryan Gosling was her love interest in \"Crazy, Stupid, Love.\" & \"Gangster Squad\" as well as \"La La Land\"",
+     "a": "Emma Stone",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 9,
+     "q": "Morocco's northernmost point provides stunning views of this strategic strait",
+     "a": "Gibraltar",
+     "right": [
+      "Evan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 18,
+     "q": "A money-making place, or in original, unused condition",
+     "a": "mint",
+     "right": [
+      "Hilary"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 16,
+     "q": "Relinquishing power to Emperor Meiji in 1867, Tokugawa Yoshinobu was the last ruler of Japan to bear this title",
+     "a": "shōgun",
+     "right": [
+      "Hilary"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "Semaglutide, a drug for type 2 diabetes that's used for weight loss, is sold under the brand names Rybelsus, Wegovy & this",
+     "a": "Ozempic",
+     "right": [
+      "Hilary"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 23,
+     "q": "He dedicated a 2000 book to Phyllis, \"who made me put the dragons in\"",
+     "a": "(George R.R.) Martin",
+     "right": [
+      "Evan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 12,
+     "q": "Stuart, Kevin & Bob are these title yellow beings recruited by supervillain Scarlet Overkill in a 2015 film",
+     "a": "Minions",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 8,
+     "q": "Rossoya Island in the Arctic is the northernmost spot in this kingdom & some say in all of Europe",
+     "a": "Norway",
+     "right": [],
+     "wrong": [
+      "Evan"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 2,
+     "q": "This type of tree can be slippery as well as Siberian",
+     "a": "elm",
+     "right": [
+      "Hilary"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 27,
+     "q": "From 1948 to 1967 Jerusalem was divided between Israel & this country",
+     "a": "Jordan",
+     "right": [],
+     "wrong": [
+      "Mark"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 19,
+     "q": "To use this bronchodilator medicine aka ventolin via an inhaler, you puff, puff & pass the air out of your lungs",
+     "a": "albuterol",
+     "right": [],
+     "wrong": [
+      "Hilary"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 22,
+     "q": "\"Infamy\" by John Toland is dedicated to the victims of this 1941 event",
+     "a": "Pearl Harbor",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 11,
+     "q": "Universal began rebooting its famous film monsters with this 2017 movie in which Egyptian royal Ahmanet is freed from her tomb",
+     "a": "The Mummy",
+     "right": [
+      "Evan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 7,
+     "q": "Tropical Monte Caburaí is this nation's northernmost spot, found in Monte Roraima National Park near Guyana",
+     "a": "Brazil",
+     "right": [
+      "Evan"
+     ],
+     "wrong": [
+      "Mark"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 3,
+     "q": "As a verb, it means to leave someone in a place with no money or way to get out & as a noun, it's part of a rope",
+     "a": "strand",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 28,
+     "q": "The resolution of this gulf in 1964 escalated American involvement in the Vietnam War",
+     "a": "Tonkin",
+     "right": [
+      "Hilary"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 20,
+     "q": "In 2006 Johnson & Johnson acquired this brand that offers \"red eye comfort\"",
+     "a": "Visine",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 21,
+     "q": "He dedicated \"Love in the Time of Cholera\" to Mercedes, his wife & muse",
+     "a": "Gabriel García Márquez",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 10,
+     "q": "This British actress went from TV assassin to playing both Millie & Molotov Girl in the video game-set \"Free Guy\"",
+     "a": "Jodie Comer",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 4,
+     "q": "Point Barrow, Alaska is the USA's northernmost point, but in the lower 48 it's the Northwest Angle in this state",
+     "a": "Minnesota",
+     "right": [
+      "Evan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 14,
+     "q": "It originally referred to a hunting station but has come to mean a secret arranged meeting between lovers",
+     "a": "tryst",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2100
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 29,
+     "q": "From 1516 to 1700 this dynasty ruled Spain, but a childless Charles II's death led to a war of succession",
+     "a": "Habsburg",
+     "right": [
+      "Evan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 25,
+     "q": "This 2-word container is used to irrigate the schnozz with salt water & hopefully remove some guck",
+     "a": "a neti pot",
+     "right": [
+      "Evan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 13,
+     "q": "She dedicated a 2017 book to those out on their own paths setting \"Little Fires\"",
+     "a": "(Celeste) Ng",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true,
+     "ddWager": 2100
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 6,
+     "q": "Jeff Bridges won his first Oscar for playing faded country star Bad Blake in this film",
+     "a": "Crazy Heart",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 5,
+     "q": "The northernmost point in this nation between China & India, Lapche Pass is in Karnali, the biggest province",
+     "a": "Nepal",
+     "right": [
+      "Evan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 17,
+     "q": "Feudal rank below a baron but above a squire",
+     "a": "a knight",
+     "right": [],
+     "wrong": [
+      "Hilary"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 30,
+     "q": "Italian for \"rising again\", it was the 19th century movement to unify Italy",
+     "a": "Risorgimento",
+     "right": [],
+     "wrong": [
+      "Evan",
+      "Hilary"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 26,
+     "q": "Atomic number 83, this element can be found in a little pink pill that helps prevent a traveler's dilemma",
+     "a": "bismuth",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 24,
+     "q": "In \"Wild Fire\" Nelson DeMille thanked this author & Joan Didion, \"whose books are... before & after mine on bookshelves\"",
+     "a": "DeLillo",
+     "right": [
+      "Evan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "BRITISH KNIGHTS",
+  "q": "A sir since 2018, he contracted TB as a teen in 1953 & spent years in a sanatorium, where he learned to play the drums",
+  "a": "Ringo Starr (Richard Starkey)",
+  "right": [
+   "Mark",
+   "Evan"
+  ],
+  "wrong": [
+   "Hilary"
+  ]
+ },
+ "gameId": "9003",
+ "cat_notes": {
+  "J": [
+   "Clues about Stately Preceders.",
+   "Clues about Aquatic Animals.",
+   "Clues about A Little Food, a Little Wine.",
+   "Each answer contains both “S” and “S”, and the clues are about Sending Out an To.",
+   "Clues about The Arts.",
+   "Clues about New York's Hottest Club Is."
+  ],
+  "DJ": [
+   "Clues about 21st Century Films.",
+   "Clues about Countries Northernmost Points.",
+   "Like Ken but not Alex for example.",
+   "The category “WE HAVE HISTORY” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "Clues in the Medicine Cabinet.",
+   "The category “FOR YOU PAGE” sets the theme — the clues follow that idea and any wordplay suggested by the title."
+  ],
+  "F": "Clues about British Knights."
+ }
+}

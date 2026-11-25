@@ -1,0 +1,987 @@
+{
+ "show": "#9357",
+ "aired": "2025-06-17",
+ "note": "",
+ "contestants": [
+  {
+   "name": "Stefany Meyer",
+   "bio": "a data analyst from Burke, Virginia",
+   "short": "Stefany"
+  },
+  {
+   "name": "Dan Hopkins",
+   "bio": "a teacher from Hanover, New Hampshire",
+   "short": "Dan"
+  },
+  {
+   "name": "Sarah Cox",
+   "bio": "a chief of staff from Austin, Texas (whose 1-day cash winnings total $15,050)",
+   "short": "Sarah"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Sarah": 7600,
+   "Dan": 3400,
+   "Stefany": 1400
+  },
+  "DJ": {
+   "Sarah": 8000,
+   "Dan": 16000,
+   "Stefany": 10600
+  },
+  "Final": {
+   "Sarah": 1000,
+   "Dan": 10799,
+   "Stefany": 8600
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "FLASH MOB LOGBOOK",
+    "WORLD HISTORY",
+    "2-WORD RESPONSES",
+    "IN THE JUNK DRAWER",
+    "\"CON\"s",
+    "STEPHEN KING"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 30,
+     "q": "Piccadilly Circus, 2009: Sightseeing interrupted by flash mob of purportedly unmarried women putting hands up to this Beyoncé song",
+     "a": "\"Single Ladies\"",
+     "right": [
+      "Dan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 26,
+     "q": "Arthur Wellesley earned this noble title for leading the British Army during the Napoleonic Wars",
+     "a": "Duke of Wellington",
+     "right": [
+      "Dan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 27,
+     "q": "Henry III, successor to King John, reissued this document in 1216",
+     "a": "the Magna Carta",
+     "right": [
+      "Dan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 24,
+     "q": "I found the scissors! Wait, no, it's just one of these batteries that can hopefully get my smoke detector to stop chirping",
+     "a": "9-volt",
+     "right": [
+      "Dan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 28,
+     "q": "To form an idea or to become pregnant",
+     "a": "conceive",
+     "right": [
+      "Dan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 29,
+     "q": "The title entity of \"It\" appears in many different forms, including as Pennywise, one of these circus performers",
+     "a": "a clown",
+     "right": [
+      "Sarah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 13,
+     "q": "Ontario, Nov. 2010:\nXmas shopping, lunch at mall food court; yet another flash mob, singing a chorus from this Handel oratorio",
+     "a": "the Messiah",
+     "right": [
+      "Dan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 16,
+     "q": "A leader of the federation movement, Edmund Barton became the 1st PM of this commonwealth in 1901",
+     "a": "the Commonwealth of Australia",
+     "right": [],
+     "wrong": [
+      "Sarah"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 18,
+     "q": "This alliterative phrase means just the minimum of decency or good manners, like saying please & thank you",
+     "a": "common courtesy",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 25,
+     "q": "I'm looking for a pair of scissors; instead I found a loose piece of this sugarless gum that cited 4 out of 5 dentists in its ads",
+     "a": "Trident",
+     "right": [],
+     "wrong": [
+      "Stefany"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 23,
+     "q": "The Christ the Redeemer statue is made of this reinforced material, with an outer layer of soapstone tiles",
+     "a": "concrete",
+     "right": [
+      "Dan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 21,
+     "q": "The cat brought back to life in this novel is called Church, short for Winston Churchill",
+     "a": "Pet Sematary",
+     "right": [
+      "Sarah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 10,
+     "q": "Ohio state, 2010:\nStudent union; just saw 70 students & staff dancing to this \"Sopranos\" finale song; IMO all should be in class",
+     "a": "\"Don't Stop Believin'\"",
+     "right": [
+      "Stefany"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 2,
+     "q": "In 1978 the Archbishop of Kraków, Poland adopted this name as part of a new job",
+     "a": "John Paul II",
+     "right": [
+      "Stefany"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 17,
+     "q": "A vampire is the mascot of this monstrously good cereal",
+     "a": "Count Chocula",
+     "right": [
+      "Sarah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 7,
+     "q": "So far I've found several loose house keys & a rusty this type of \"key\" that I can use to open a beer once I find the scissors",
+     "a": "a church key",
+     "right": [
+      "Sarah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 22,
+     "q": "The person with this job in a hotel can make dinner reservations or arrange tours for guests",
+     "a": "the concierge",
+     "right": [
+      "Dan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 20,
+     "q": "In a story set in Nebraska, an evil being is called \"He Who Walks Behind the Rows\", \"Rows\" referring to rows & rows of this",
+     "a": "corn",
+     "right": [
+      "Sarah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 11,
+     "q": "Moscow, 2012:\nPutin not present for large outdoor dance to this Irving Berlin song also used in \"Young Frankenstein\"",
+     "a": "\"Puttin' On The Ritz\"",
+     "right": [
+      "Stefany"
+     ],
+     "wrong": [
+      "Dan"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 15,
+     "q": "By the mid-19th century, Cuba was the world's leading producer of this foodstuff",
+     "a": "sugar",
+     "right": [
+      "Dan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 3,
+     "q": "\"We sail at the break of day-ay-ay-ay\", says this song associated with the U.S. Naval Academy",
+     "a": "\"Anchors Aweigh\"",
+     "right": [
+      "Stefany"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 4,
+     "q": "Still can't find the scissors, but I've got three of these proprietary Apple cables for charging an old iPhone circa 2014",
+     "a": "Lightning",
+     "right": [
+      "Sarah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 1,
+     "q": "Your honor, that statement is pure this, speculation with no proof!",
+     "a": "conjecture",
+     "right": [
+      "Dan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 9,
+     "q": "Pyrokinetic powers are an attribute of Charlie McGee, a daughter of govt. test subjects & this book's title character",
+     "a": "Firestarter",
+     "right": [
+      "Sarah"
+     ],
+     "wrong": [
+      "Dan"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 12,
+     "q": "Los Angeles, 2012:\nsaw Alfonso Ribeiro & others doing this '90s TV dance; marketing stunt? Resisted urge to join",
+     "a": "the Carlton (Dance)",
+     "right": [
+      "Sarah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 14,
+     "q": "10th century monk Regino of Prüm chronicled this dynasty named for its large number of royal Charleses",
+     "a": "the Carolingian",
+     "right": [
+      "Dan"
+     ],
+     "wrong": [
+      "Stefany"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": true,
+     "order": 5,
+     "q": "Pregnant ladies know this other term for vitamin B9",
+     "a": "folic acid",
+     "right": [
+      "Sarah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1000
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 6,
+     "q": "No normal scissors, yet for some reason, I own a pair of these, which produce a zigzag edge",
+     "a": "pinking shears",
+     "right": [
+      "Sarah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 8,
+     "q": "It's the study of shells, whether from the sea or not",
+     "a": "conchology",
+     "right": [
+      "Sarah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 19,
+     "q": "2 stories from this Stephen King collection were turned into an Anthony Hopkins movie",
+     "a": "Hearts in Atlantis",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "HEROES NEED HELP",
+    "SCIENCE",
+    "THAT IS SAD",
+    "OLD TO THE OED",
+    "SOME FREE ADVICE",
+    "YOU CAN A FJORD IT"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 28,
+     "q": "Veteran actor John Rhys-Davies has aided heroes playing Gimli & as Sallah, helped this hero, whose real first name is Henry",
+     "a": "Indiana Jones",
+     "right": [],
+     "wrong": [
+      "Stefany"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 20,
+     "q": "As light hits the atmosphere, air molecules scatter blue & this shortest-wavelength color, which has a day job as a flower",
+     "a": "violet",
+     "right": [
+      "Dan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 29,
+     "q": "A summary of his \"Cycle\"-ending opera \"Götterdämmerung\":\nAll major characters die; Valhalla is set ablaze; the gods burn alive; the end!",
+     "a": "Wagner",
+     "right": [
+      "Dan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 22,
+     "q": "The Kaiser's War was a way to describe this conflict",
+     "a": "World War I",
+     "right": [
+      "Dan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 30,
+     "q": "\"Half the acting jobs I've ever done were ghastly mistakes\", said John Lithgow, who advises, \"Never be afraid to say\" this",
+     "a": "No",
+     "right": [
+      "Sarah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 19,
+     "q": "The Sognefjord in this nation is the longest & deepest of its more than 1,000 fjords",
+     "a": "Norway",
+     "right": [
+      "Dan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 27,
+     "q": "Helping Shrek, this character says, \"I got a dragon here, & I'm not afraid to use it\"",
+     "a": "Donkey",
+     "right": [
+      "Stefany"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 9,
+     "q": "Gabbro, diorite & rhyolite are part of this rock family, one of the big 3",
+     "a": "igneous",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 23,
+     "q": "In this speech given 42 days before he died, Lincoln called the Civil War \"the woe due to those\" complicit in the \"offence\" of slavery",
+     "a": "his second inaugural",
+     "right": [],
+     "wrong": [
+      "Sarah"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 21,
+     "q": "A neread is this creature found in a Hans Christian Andersen title",
+     "a": "a mermaid",
+     "right": [
+      "Sarah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 26,
+     "q": "Judith Martin, aka \"Miss\" this, dispenses etiquette advice in more than 200 newspapers & digital outlets",
+     "a": "Miss Manners",
+     "right": [
+      "Stefany"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 18,
+     "q": "Saguenay Fjord National Park adjoins the Saguenay-St. Lawrence Marine Park in this Canadian province",
+     "a": "Quebec",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 3,
+     "q": "Assisting Ethan Hunt on various missions impossible is Luther Stickell played by this man seen here",
+     "a": "Ving Rhames",
+     "right": [
+      "Stefany"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 8,
+     "q": "A CERN website said the cost for this machine \"alone is about 4.6 billion\" Swiss francs",
+     "a": "the Large Hadron Collider",
+     "right": [
+      "Sarah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 2,
+     "q": "Episode titles for this series include \"Woe What a Night\" & \"Quid Pro Woe\", each a nod to the nursery rhyme known as \"Monday's Child\"",
+     "a": "Wednesday",
+     "right": [
+      "Stefany"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 12,
+     "q": "To lachryme is to do this action, as in \"I wanted to lachryme upon losing to Watson\"",
+     "a": "cry",
+     "right": [
+      "Dan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 6,
+     "q": "Benjamin Franklin said to \"Love\" these people, \"for they tell you your faults\"",
+     "a": "your enemies",
+     "right": [
+      "Dan"
+     ],
+     "wrong": [
+      "Sarah"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": true,
+     "order": 15,
+     "q": "The Ilulissat Icefjord in Greenland is thought to be the birthplace of this object that tragically entered history in 1912",
+     "a": "the iceberg that sank the Titanic",
+     "right": [
+      "Dan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 3000
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 4,
+     "q": "Foggy Nelson returned to help this crime fighter, aka Matt Murdock, after he was \"Born Again\"",
+     "a": "Daredevil",
+     "right": [
+      "Stefany"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 7,
+     "q": "This \"phase\" is the first stage of mitosis",
+     "a": "prophase",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 1,
+     "q": "Once abundant in North America, these creatures were hunted to extinction; the last one, Martha, died in captivity in 1914",
+     "a": "the passenger pigeon",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 10,
+     "q": "This animal-\"drunk\" meant not just any kind of drunk but a satyr-esque lustful drunk",
+     "a": "goat-drunk",
+     "right": [
+      "Dan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 14,
+     "q": "ask.metafilter.com says it's for \"querying\" this, the coordinated, structurally named cognition of a group",
+     "a": "the hive mind",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 16,
+     "q": "Misty Fjords National Monument can be found in this national forest that covers most of Alaska's panhandle",
+     "a": "the Tongass National Forest",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 5,
+     "q": "(Fortune Feimster presents the clue.) On this show I make the inevitable turn to spy hero as Roo, a gun totin' CIA math genius helping Arnold kick all kinds of ass in his first TV series lead",
+     "a": "FUBAR",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 11,
+     "q": "Conifers like the bristlecone pine are members of this major class of vascular plants differentiated by their exposed seeds",
+     "a": "the gymnosperms",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 24,
+     "q": "The 1885 death of Clover Adams in Lafayette Square in this city inspired a sorrowful statue in Rock Creek Cemetery",
+     "a": "Washington, D.C.",
+     "right": [
+      "Stefany"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": true,
+     "order": 13,
+     "q": "In the olden days, this \"D\" word just meant a discourse or dissertation; now it means more of an angry rant",
+     "a": "a diatribe",
+     "right": [
+      "Dan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2000
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 25,
+     "q": "This character who advises \"To thine own self be true\" is a pompous bore who gets skewered (literally) by Hamlet",
+     "a": "Polonius",
+     "right": [
+      "Stefany"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 17,
+     "q": "The Bay of Kotor in this small country just north of Albania has been called Europe's southernmost fjord",
+     "a": "Montenegro",
+     "right": [
+      "Dan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "THE 1960s",
+  "q": "Following the Baptist Church bombing in 1963, MLK telegrammed him that the blood of 4 girls \"is on your hands\"",
+  "a": "George Wallace",
+  "right": [],
+  "wrong": [
+   "Sarah",
+   "Stefany",
+   "Dan"
+  ]
+ },
+ "gameId": "9234",
+ "cat_notes": {
+  "J": [
+   "Clues about Flash Mob Logbook.",
+   "Clues about World History.",
+   "Clues about 2-word Responses.",
+   "Clues in the Junk Drawer.",
+   "Each answer contains the letter group “CON”.",
+   "Clues about Stephen King."
+  ],
+  "DJ": [
+   "Clues about Heroes Need Help.",
+   "Clues about Science.",
+   "Clues about That Is Sad.",
+   "Clues about Old to the Oed.",
+   "Clues about Some Free Advice.",
+   "The category “YOU CAN A FJORD IT” sets the theme — the clues follow that idea and any wordplay suggested by the title."
+  ],
+  "F": "Clues about The 1960s."
+ }
+}

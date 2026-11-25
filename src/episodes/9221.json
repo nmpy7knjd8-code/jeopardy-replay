@@ -1,0 +1,991 @@
+{
+ "show": "#9348",
+ "aired": "2025-06-04",
+ "note": "Stella Trout game 2.",
+ "contestants": [
+  {
+   "name": "Joey Quismorio",
+   "bio": "a product manager originally from San Antonio, Texas",
+   "short": "Joey"
+  },
+  {
+   "name": "Jay Borsom",
+   "bio": "a trivia content creator and DJ from Plainfield, Illinois",
+   "short": "Jay"
+  },
+  {
+   "name": "Stella Trout",
+   "bio": "a software engineer originally from Houston, Texas (whose 1-day cash winnings total $28,800)",
+   "short": "Stella"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Stella": 7200,
+   "Jay": 1400,
+   "Joey": 2200
+  },
+  "DJ": {
+   "Stella": 17200,
+   "Jay": 4200,
+   "Joey": 9400
+  },
+  "Final": {
+   "Stella": 15200,
+   "Jay": 1200,
+   "Joey": 17201
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "REELIN' IN THE YEAR",
+    "BEASTLY TELEVISION",
+    "GEOGRAPHIC NICKNAMES",
+    "PUTTING THE BRAND BACK TOGETHER",
+    "GIVE US THE SHORT VERSION",
+    "JEOPARDY! STRONG"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 15,
+     "q": "The Santa Maria runs aground (merry Christmas, Columbus!); Lorenzo de' Medici goes beyond de' medicine",
+     "a": "1492",
+     "right": [
+      "Joey"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 30,
+     "q": "The best friend of this title character, Boots is a little monkey who accompanies her on her adventures",
+     "a": "Dora the Explorer",
+     "right": [
+      "Stella"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 29,
+     "q": "Ding dong! It's this hyphenated British town calling, aka the \"home of the bard\"",
+     "a": "Stratford-upon-Avon",
+     "right": [
+      "Joey"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 28,
+     "q": "Apple was on the verge of bankruptcy when he returned as CEO in 1997; it's not on the verge of bankruptcy now",
+     "a": "Steve Jobs",
+     "right": [
+      "Joey"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 27,
+     "q": "A 3-word way of saying you're an open book becomes this 3-letter abbreviation over on Reddit",
+     "a": "AMA",
+     "right": [
+      "Joey"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 26,
+     "q": "You're asking a bartender to steal from his employer when you request a strong pour; spend extra & say, \"Make it a\" this",
+     "a": "a double",
+     "right": [
+      "Stella"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 21,
+     "q": "Fort Sumter becomes a hot spot; Vassar College is founded but doesn't open for 4 years, for Sumter-related reasons",
+     "a": "1861",
+     "right": [
+      "Jay"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 24,
+     "q": "On this show Charlotte York had a King Charles Spaniel named Elizabeth Taylor",
+     "a": "Sex and the City",
+     "right": [
+      "Jay"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 16,
+     "q": "Once known for its leprosy colony, it's Hawaii's \"Friendly Isle\"",
+     "a": "Molokai",
+     "right": [
+      "Joey"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 22,
+     "q": "After a bankruptcy & months of mourning, these immortal snacks returned to store shelves in July 2013, 4 grams lighter",
+     "a": "Twinkies",
+     "right": [
+      "Joey"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 23,
+     "q": "A Peloton web page asks, \"Should you do\" this, like on the bike or treadmill, \"or weights first?\"",
+     "a": "cardio",
+     "right": [
+      "Jay"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 25,
+     "q": "The Cybersecurity & Infrastructure Security Agency says to use strong these even if they're hard to remember, like the agency's name is",
+     "a": "passwords",
+     "right": [
+      "Stella"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 20,
+     "q": "The Titanic goes down; Fenway Park goes up (at the cost of $650,000)",
+     "a": "1912",
+     "right": [
+      "Joey"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 14,
+     "q": "The makers of \"The Chilling Adventures of\" her discovered that star Kiernan Shipka was allergic to the cats playing Salem",
+     "a": "Sabrina",
+     "right": [
+      "Stella"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 7,
+     "q": "An abundance of sediment gives the Missouri River the nickname \"Big\" this",
+     "a": "Big Muddy",
+     "right": [],
+     "wrong": [
+      "Jay"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 19,
+     "q": "In 2016 this brand resurrected its classic 505s, modeled in the '70s by Debbie Harry & the Ramones",
+     "a": "Levi's",
+     "right": [
+      "Jay"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 3,
+     "q": "This shortened word comes before \"research\" to mean digging up dirt on political foes",
+     "a": "oppo",
+     "right": [
+      "Jay"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 12,
+     "q": "A football offense's strong side is the one with the tight end; the defense matches up with a strong type of this defensive back",
+     "a": "a (strong) safety",
+     "right": [
+      "Jay"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 4,
+     "q": "5 guys get busted at the Watergate; Harrison Schmitt is one of 2 to be the last to walk on the Moon (but not to moonwalk)",
+     "a": "1972",
+     "right": [],
+     "wrong": [
+      "Jay",
+      "Joey"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 13,
+     "q": "This man's loyal direwolf Grey Wind tragically perishes just like him during the Red Wedding",
+     "a": "Robb Stark",
+     "right": [
+      "Stella"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 6,
+     "q": "Before it blew its top, this U.S. peak was the Fuji of the West",
+     "a": "Mount St. Helens",
+     "right": [
+      "Joey"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 17,
+     "q": "This iconic line of colorful dinnerware was discontinued in 1973 but revived in 1986; time to party, muchachos",
+     "a": "Fiesta(ware)",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 2,
+     "q": "A 13-letter word meaning of many varieties gets cut down to this 4-letter abbrev. we've only seen written--until now",
+     "a": "misc.",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 10,
+     "q": "An event in a Strongest Man competition is tossing this over a wall--not a beer container, but a 33-pound weight",
+     "a": "a keg",
+     "right": [
+      "Jay"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 18,
+     "q": "Jacques Marquette hits Quebec; the Great Plague of London ends, but don't worry, there's also a fire",
+     "a": "1666",
+     "right": [
+      "Stella"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 11,
+     "q": "This 1960s talking horse was a horse, of course, & once hit a home run off Sandy Koufax in \nDodger Stadium",
+     "a": "Mister Ed",
+     "right": [
+      "Stella"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 5,
+     "q": "Under John Calvin, this city became the \"Rome of Protestantism\"",
+     "a": "Geneva",
+     "right": [
+      "Stella"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 8,
+     "q": "Teenage girls of the '90s were ecstatic when he revived his slinky platform shoes in 2017",
+     "a": "Steve Madden",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": true,
+     "order": 1,
+     "q": "Cut the lizard-related part off & you're left with this 4-letter shortened word, the \"terrible\" part",
+     "a": "dino",
+     "right": [
+      "Stella"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1000
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 9,
+     "q": "In physics, the strong force binds these in clusters to make particles like protons & neutrons",
+     "a": "quarks",
+     "right": [
+      "Stella"
+     ],
+     "wrong": [
+      "Jay"
+     ],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "REALITY, FICTIONALIZED",
+    "SCIENCE STUFF",
+    "THE SAME LETTER 3 TIMES",
+    "COLLEGES & UNIVERSITIES",
+    "THE ARK OF THE COVENANT",
+    "SPORTS FLICKS"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 30,
+     "q": "\"See What I Have Done\" is partly written from the perspective of this woman who was tried & acquitted in 1893",
+     "a": "Lizzie Borden",
+     "right": [
+      "Stella"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "Solid carbon dioxide--be careful, as it can give you a burn similar to frostbite",
+     "a": "dry ice",
+     "right": [
+      "Jay"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 15,
+     "q": "It can refer to an adversarial confrontation or a way to restart play in a hockey game",
+     "a": "face-off",
+     "right": [
+      "Stella"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 12,
+     "q": "Think your school's got tradition? Thomas Aquinas got a degree & taught theology on the Left Bank at the U. of this city",
+     "a": "Paris",
+     "right": [],
+     "wrong": [
+      "Jay"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 18,
+     "q": "The Talmud says the Ark contained the tablets bearing these edicts",
+     "a": "the Ten Commandments",
+     "right": [
+      "Stella"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 29,
+     "q": "(Mina Kimes presents the clue.) Billy Bob Thornton played Coach Gary Gaines, leader of the plucky Odessa Permian team in this movie, one of my all-time faves",
+     "a": "Friday Night Lights",
+     "right": [
+      "Joey"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 13,
+     "q": "As NYC police commissioner, this future president helps \"The Alienist\" & uh-huh, yells, \"Bully!\"",
+     "a": "Teddy Roosevelt",
+     "right": [
+      "Jay"
+     ],
+     "wrong": [
+      "Joey"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 24,
+     "q": "A block & tackle is a combination of at least 2 of this type of simple machine",
+     "a": "pulleys",
+     "right": [
+      "Jay"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 11,
+     "q": "This small city in South Dakota's Black Hills was named for a gulch full of fallen trees once found there",
+     "a": "Deadwood",
+     "right": [
+      "Joey"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 9,
+     "q": "Colleges in Dublin, Ireland & Hartford, Connecticut share this numeric & religiously inspired name",
+     "a": "Trinity",
+     "right": [
+      "Stella"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 26,
+     "q": "On top of the solid gold lid of the Ark known as the mercy seat were 2 figures of this type of angel with their wings outspread",
+     "a": "cherubim",
+     "right": [],
+     "wrong": [
+      "Jay"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 28,
+     "q": "Philip Seymour Hoffman played A's skipper Art Howe in this film that also featured Chris Pratt & Jonah Hill",
+     "a": "Moneyball",
+     "right": [
+      "Joey"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 10,
+     "q": "Amor Towles set this novel at the real-life Metropol Hotel in Russia",
+     "a": "A Gentleman in Moscow",
+     "right": [
+      "Joey"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 2,
+     "q": "The study of fossil plants & ancient plant life has this 11-letter name",
+     "a": "paleobotany",
+     "right": [
+      "Jay"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 4,
+     "q": "AKA a syrinx, it's a series of reeds of different lengths bound together into a single wind instrument",
+     "a": "a panpipe",
+     "right": [
+      "Jay"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 14,
+     "q": "The University of Vermont was founded in this city back in 1791; go Catamounts!",
+     "a": "Burlington",
+     "right": [
+      "Joey"
+     ],
+     "wrong": [
+      "Jay"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 19,
+     "q": "Ark seekers have included an obsessed British lord digging around 1910 when Jerusalem was under the rule of this empire",
+     "a": "the Ottoman Empire",
+     "right": [],
+     "wrong": [
+      "Jay"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 3,
+     "q": "Jack Warden took over the role of Coach Buttermaker in the short-lived TV series based on this film",
+     "a": "The Bad News Bears",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 16,
+     "q": "In Elmore Leonard's historical novel \"Cuba Libre\", Pvt. Virgil Webster \"felt himself lifted from the deck\" of this ship",
+     "a": "the Maine",
+     "right": [
+      "Jay"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 1,
+     "q": "The discontinuity between Earth's crust & mantle is usually called this 4-letter name, as the \"-rovicic\" bit is a mouthful",
+     "a": "the Moho",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 6,
+     "q": "Matthew 6:24 warns, \"Ye cannot serve God and\" this personification of wealth",
+     "a": "Mammon",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 21,
+     "q": "Daniel Webster, a grad of this Ivy League school, argued & won an important 1819 Supreme Court case on its behalf",
+     "a": "Dartmouth",
+     "right": [
+      "Stella"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2000
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 20,
+     "q": "The Ark disappeared around 587 B.C., possibly during the time of the capture of Jerusalem by this empire",
+     "a": "the Babylonian Empire",
+     "right": [],
+     "wrong": [
+      "Jay"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 7,
+     "q": "Apollo isn't the first name of the title pugilist in this 2015 film; continuing the theme, it's Adonis",
+     "a": "Creed",
+     "right": [
+      "Joey"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 17,
+     "q": "In a novel subtitled \"The Woman Who Revealed the Real America\", Elise Hooper writes about this Depression-era photographer",
+     "a": "Dorothea Lange",
+     "right": [
+      "Joey"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 5,
+     "q": "Also known as rare earth metals, this group of elements on the periodic table runs from atomic No. 57 or 58 to 71, lutetium",
+     "a": "the lanthanides",
+     "right": [
+      "Jay"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": true,
+     "order": 22,
+     "q": "From the Latin for \"iron\", it's the specific job of someone who shoes horses & cares for their hooves",
+     "a": "a farrier",
+     "right": [
+      "Stella"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 4000
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 25,
+     "q": "Scripps & Harvey Mudd are among the 7 California schools known collectively & alliteratively as these colleges",
+     "a": "the Claremont Consortium",
+     "right": [
+      "Stella"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 23,
+     "q": "After the Israelites entered the promised land, this people with whom they fought captured the Ark but returned it after 7 months",
+     "a": "the Philistines",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 8,
+     "q": "In a 2000 film, Omar Epps & Sanaa Lathan engage in these 2 title activities at USC",
+     "a": "love & basketball",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "AMERICAN HISTORY",
+  "q": "He recalled that before an 1831 revolt, he had a vision of \"white spirits & black spirits engaged in battle\"",
+  "a": "Nat Turner",
+  "right": [
+   "Joey"
+  ],
+  "wrong": [
+   "Jay",
+   "Stella"
+  ]
+ },
+ "gameId": "9221",
+ "cat_notes": {
+  "J": [
+   "Clues about Reelin in the Year.",
+   "Clues about Beastly Television.",
+   "Clues about Geographic Nicknames.",
+   "Clues about Putting the Brand Back Together.",
+   "Clues about Give Us the Short Version.",
+   "The category “JEOPARDY! STRONG” sets the theme — the clues follow that idea and any wordplay suggested by the title."
+  ],
+  "DJ": [
+   "Clues about Reality, Fictionalized.",
+   "Clues about Science Stuff.",
+   "Clues about The Same Letter 3 Times.",
+   "Clues about Colleges and Universities.",
+   "Clues about The Ark of the Covenant.",
+   "Clues about Sports Flicks."
+  ],
+  "F": "Clues about American History."
+ }
+}

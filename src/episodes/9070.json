@@ -1,0 +1,978 @@
+{
+ "show": "#9226",
+ "aired": "2024-12-16",
+ "note": "Ashley Chan game 3.",
+ "contestants": [
+  {
+   "name": "Matt Grossman",
+   "bio": "a law student from New York, New York",
+   "short": "Matt"
+  },
+  {
+   "name": "Henry Barbaro",
+   "bio": "a college student from Evanston, Illinois",
+   "short": "Henry"
+  },
+  {
+   "name": "Ashley Chan",
+   "bio": "a publicist from Lewisville, Texas (whose 2-day cash winnings total $29,100)",
+   "short": "Ashley"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Ashley": 4600,
+   "Henry": 800,
+   "Matt": 4000
+  },
+  "DJ": {
+   "Ashley": 17400,
+   "Henry": 2000,
+   "Matt": 7200
+  },
+  "Final": {
+   "Ashley": 17400,
+   "Henry": 0,
+   "Matt": 5200
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "ALL OVER THE WORLD",
+    "MAN-AGRAMS",
+    "3 CONSECUTIVE VOWELS",
+    "COMMUNICATION",
+    "STATE HOLIDAYS",
+    "SONGWRITING WITH LIN-MANUEL MIRANDA"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 13,
+     "q": "The Miraflores & Gatun Locks are found on this 50-mile-long body of water",
+     "a": "the Panama Canal",
+     "right": [
+      "Ashley"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 28,
+     "q": "\"Great\" king of the Franks:\nREALM CHANGE",
+     "a": "Charlemagne",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 29,
+     "q": "A symptom of psychotic disorders, it includes delusions of persecution",
+     "a": "paranoia",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 30,
+     "q": "ARPANET developer Ray Tomlinson, who sent the first of these in 1971, doesn't remember what it said but did use the @ symbol",
+     "a": "an email",
+     "right": [
+      "Ashley"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 25,
+     "q": "Seward's Day, the last Monday in March, is a legal holiday in this state",
+     "a": "Alaska",
+     "right": [
+      "Henry"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 27,
+     "q": "(Lin-Manuel Miranda presents the clue.) Inspiration can come from anywhere; for the song \"My Shot\", I based a section of the music on the old America Online dial-up tones to reflect how this character's words would soon connect with the wider world",
+     "a": "Hamilton",
+     "right": [
+      "Henry"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 5,
+     "q": "In summer the residents of Tirana in this country often decamp for the Adriatic seaport of Durrës",
+     "a": "Albania",
+     "right": [
+      "Henry"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 22,
+     "q": "An 18th century poet:\nREBORN BURST",
+     "a": "Robert Burns",
+     "right": [
+      "Henry"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 17,
+     "q": "You may see your name in lights on the historic one of these at the Arlene Schnitzer Concert Hall in Portland, Oregon",
+     "a": "a marquee",
+     "right": [
+      "Ashley"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 26,
+     "q": "Since its creation in 1996, this notice across a community has helped in the rescue of more than 1,000 missing kids",
+     "a": "an Amber Alert",
+     "right": [
+      "Ashley"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 24,
+     "q": "In Arizona & New Hampshire, Civil Rights Day coincides with this other January holiday",
+     "a": "Martin Luther King Day",
+     "right": [
+      "Ashley"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "(Lin-Manuel Miranda presents the clue.) For the film \"Mufasa: The Lion King\", I was thrilled to collaborate with the brilliant Lebo M who added the dramatic Zulu cry that began this opening song from the original \"Lion King\" movie 30 years before",
+     "a": "the \"Circle Of Life\"",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [
+      "Henry"
+     ],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 1,
+     "q": "The boundary between the Democratic Republic of the Congo & Tanzania is formed by this lake more than 400 miles long",
+     "a": "Tanganyika",
+     "right": [
+      "Ashley"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 21,
+     "q": "He melted watches: \nVALID AS A LORD",
+     "a": "Salvador Dalí",
+     "right": [
+      "Ashley"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 16,
+     "q": "It was writer Anne Herbert who coined the phrase \"practice random kindness & senseless acts of\" this",
+     "a": "beauty",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 15,
+     "q": "Author Arthur C. Clarke's 1945 paper \"Extra-Terrestrial Relays\" proposed the idea of these orbital devices to aid communications",
+     "a": "satellites",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 3,
+     "q": "This president's birthday, May 8, is an official holiday in Missouri",
+     "a": "Harry Truman",
+     "right": [
+      "Ashley"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 12,
+     "q": "(Lin-Manuel Miranda presents the clue.) Computer software makes it possible for any songwriter to have a home recording studio; I wrote most of my first show, \"In the Heights\", on this Apple program that sounds like a group of kids practicing out by the car",
+     "a": "GarageBand",
+     "right": [
+      "Ashley"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 4,
+     "q": "This landlocked country is the last independent survivor of the Hispanic March states created in the Middle Ages",
+     "a": "Andorra",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 19,
+     "q": "Chinese chairman:\nGAZED MOON",
+     "a": "Mao Zedong",
+     "right": [
+      "Ashley"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 14,
+     "q": "Shh! I thought I heard this sound... are there mourning doves around?",
+     "a": "cooing",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 9,
+     "q": "John Reith became the first general manager of this system in 1922 & was knighted 4 years in",
+     "a": "the BBC",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 6,
+     "q": "Although this state celebrates Bennington Battle Day each August, the actual battle took place in New York",
+     "a": "Vermont",
+     "right": [
+      "Ashley"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 10,
+     "q": "(Lin-Manuel Miranda presents the clue.) The Songwriters Hall of Fame has inducted some 400 members since 1969; the class of 2024 includes Prince, Steely Dan & Timothy Mosley, better known as this one-name producer, famed for his work with Justin Timberlake, Jay-Z & many more",
+     "a": "Timbaland",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": true,
+     "order": 7,
+     "q": "The \"Greater\" & \"Lesser\" peaks of this stratovolcano overlook the frontiers of Turkey, Iran & Armenia",
+     "a": "Mount Ararat",
+     "right": [],
+     "wrong": [
+      "Ashley"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2000
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 20,
+     "q": "Future predictor:\nROTUNDA MASS",
+     "a": "Nostradamus",
+     "right": [
+      "Ashley"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 18,
+     "q": "One of 2 adjectives describing the \"volume of forgotten lore\" in Poe's \"The Raven\"",
+     "a": "quaint or curious",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 8,
+     "q": "Around 1800 France's Chappe brothers unveiled one of the first of these systems using pivoting arms; flags were added later",
+     "a": "a semaphore",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 23,
+     "q": "On Pioneer Day, July 24, Mormons celebrate the arrival in Salt Lake City of this leader & his followers",
+     "a": "Brigham Young",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 11,
+     "q": "(Lin-Manuel Miranda presents the clue.) I first met this songwriting legend while doing Spanish translations for a production of \"West Side Story\"; his invaluable advice to me was to surprise listeners with continual variety",
+     "a": "Stephen Sondheim",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "THE 100 BEST BOOKS OF THE 21st CENTURY",
+    "OUTDOOR CATS",
+    "STARTS WITH \"H\"",
+    "WORLD WAR I",
+    "TV FOURSOMES",
+    "KABOOM!"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 10,
+     "q": "\"Hurricane Season\" follows a group of children who discover a corpse in the Veracruz state of this country",
+     "a": "Mexico",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 30,
+     "q": "A lot of the ocelots remaining in this U.S. state prowl around in the shrublands of the Lower Rio Grande Valley",
+     "a": "Texas",
+     "right": [
+      "Henry"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 23,
+     "q": "The curved steering rod of a bike, or a type of mustache",
+     "a": "handlebar",
+     "right": [
+      "Ashley"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 12,
+     "q": "In 1915 Louis Adrian created a new metal one of these for combat based on those worn by Parisian firefighters",
+     "a": "a helmet",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 21,
+     "q": "Creator Lena Dunham starred as Hannah, one of a Brooklyn foursome of friends in this series",
+     "a": "Girls",
+     "right": [
+      "Henry"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 29,
+     "q": "It can mean to have a plan boomerang badly on you, or an explosion in a car's exhaust pipe",
+     "a": "backfire",
+     "right": [
+      "Henry"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 9,
+     "q": "At the top spot was this first volume of a 4-book series by Elena Ferrante",
+     "a": "My Brilliant Friend",
+     "right": [
+      "Ashley"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 28,
+     "q": "The long & flexible spine of this big cat acts like a coiled spring, allowing it to reach speeds up to 70 miles per hour",
+     "a": "a cheetah",
+     "right": [
+      "Ashley"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 22,
+     "q": "A body organ begins this word for a hottie, like the ones on the cover of Tiger Beat magazine",
+     "a": "a heartthrob",
+     "right": [
+      "Henry"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 2,
+     "q": "This future WWII & Korean War general had the idea for a \"Rainbow Division\" of units from all over the U.S., not of diverse hues",
+     "a": "MacArthur",
+     "right": [
+      "Ashley"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 19,
+     "q": "Sophia & Dorothy, mother & daughter, were half of the quartet of a certain age in this 1985 to 1992 sitcom",
+     "a": "The Golden Girls",
+     "right": [
+      "Ashley"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 27,
+     "q": "A brocade is a fine-lace effect in the sky & a Saturn shell produces a ring around an inside ball of stars in this display",
+     "a": "fireworks",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 3,
+     "q": "Percival Everett's novel \"Erasure\" made the list & was also adapted into this 2023 movie with Jeffrey Wright",
+     "a": "American Fiction",
+     "right": [
+      "Ashley"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 18,
+     "q": "They're cats of the southeastern U.S. in the genus Puma; they're also the 2024 Stanley Cup champions",
+     "a": "panthers",
+     "right": [
+      "Henry"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 14,
+     "q": "Beastly word for a fabric with a checkerboard pattern, traditionally black & white",
+     "a": "houndstooth",
+     "right": [
+      "Ashley"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 1,
+     "q": "This British aircraft that entered service in 1917 was named for the hump-shaped over its two machine guns",
+     "a": "the Sopwith Camel",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 7,
+     "q": "They became a foursome when Bliss joined Bubbles, Blossom & Buttercup",
+     "a": "the Powerpuff Girls",
+     "right": [
+      "Ashley"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 24,
+     "q": "In 1970 it cost $35 mil. to build this Pittsburgh stadium & in 2001, $5.1 mil. to implode the structure in 19 seconds",
+     "a": "Three Rivers Stadium",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 4,
+     "q": "Her \"Wolf Hall\" is credited with making Thomas Cromwell \"grandly alive\"",
+     "a": "(Hilary) Mantel",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 5,
+     "q": "The documentary \"The Velvet Queen\" follows adventurers on the lookout for this rare cat in the Tibetan highlands",
+     "a": "a snow leopard",
+     "right": [],
+     "wrong": [
+      "Matt"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2000
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 6,
+     "q": "A large statue of this god loomed over the ancient port of Rhodes",
+     "a": "Helios",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 13,
+     "q": "A German defensive position begun in 1916 was known to the Allies by the name of this man, a name later used for a Zeppelin",
+     "a": "Hindenburg",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 4400
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 11,
+     "q": "On this show, 20 years after being a one-hit wonder, the four surviving members of an all-female group take a second shot at fame",
+     "a": "Girls5eva",
+     "right": [
+      "Ashley"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 25,
+     "q": "Named for a loud sound, it's the \"sheet\" doing its thing in the percussion section",
+     "a": "a thunder sheet",
+     "right": [],
+     "wrong": [
+      "Matt"
+     ],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 8,
+     "q": "Graphic novels on the list include the memoir-ish \"Fun Home\" by this woman",
+     "a": "Bechdel",
+     "right": [
+      "Ashley"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 17,
+     "q": "The tufts on the tip of the ears of this small African cat are thought to help make it easier for it to hear its prey",
+     "a": "a caracal",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 15,
+     "q": "Drinks made from this plant include sorrel in Jamaica & agua de Jamaica in Latin America",
+     "a": "hibiscus",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 16,
+     "q": "An August 5, 1914 assault on this Belgian city was the first battle of the war; the Germans took it & marched into \"Lüttich\"",
+     "a": "Liège",
+     "right": [],
+     "wrong": [
+      "Ashley",
+      "Henry"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 20,
+     "q": "A quartet of female journalists cover the fictional Walker vs. Garrett presidential campaign in this 2024 Max series",
+     "a": "Girls on the Bus",
+     "right": [
+      "Ashley"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 26,
+     "q": "On July 1, 1946 a 23-kiloton atomic bomb exploded over unmanned aircraft carriers & battleships at this atoll",
+     "a": "Bikini",
+     "right": [
+      "Ashley"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "GEOGRAPHY",
+  "q": "Jebel Musa in Morocco & Mount Hacho near Ceuta are candidates for the southern half of this pair",
+  "a": "the Pillars of Hercules",
+  "right": [],
+  "wrong": [
+   "Henry",
+   "Matt",
+   "Ashley"
+  ]
+ },
+ "gameId": "9070",
+ "cat_notes": {
+  "J": [
+   "Clues about All Over the World.",
+   "Clues about Man-agrams.",
+   "Clues about 3 Consecutive Vowels.",
+   "Clues about Communication.",
+   "Clues about State Holidays.",
+   "(Lin-Manuel: I'm Lin-Manuel Miranda; as I found again on my latest project, Disney's Mufasa: The Lion King, sometimes it just comes to you, sometimes it's endless work, and I'll have clues about the mystery of songwriting.)."
+  ],
+  "DJ": [
+   "As selected by a New York Times survey of experts.",
+   "Clues about Outdoor Cats.",
+   "Each answer starts with “H”.",
+   "Clues about World War I.",
+   "Clues about TV Foursomes.",
+   "The category “KABOOM!” sets the theme — the clues follow that idea and any wordplay suggested by the title."
+  ],
+  "F": "Clues about Geography."
+ }
+}

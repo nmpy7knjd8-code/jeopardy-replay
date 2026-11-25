@@ -1,0 +1,981 @@
+{
+ "show": "#9181",
+ "aired": "2024-10-14",
+ "note": "Modified set with single-screen game board and new Final Jeopardy! monitor. \r The category is highlighted upon clue selection. \r Ken approaches the individual lecterns for the contestant interviews.",
+ "contestants": [
+  {
+   "name": "Caryn Radick",
+   "bio": "an archivist from Kendall Park, New Jersey",
+   "short": "Caryn"
+  },
+  {
+   "name": "Jack Swansey",
+   "bio": "a writer originally from Durham, North Carolina",
+   "short": "Jack"
+  },
+  {
+   "name": "Eamonn Campbell",
+   "bio": "a lawyer originally from Manchester, Vermont (whose 1-day cash winnings total $13,700)",
+   "short": "Eamonn"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Eamonn": 3800,
+   "Jack": 4000,
+   "Caryn": 2600
+  },
+  "DJ": {
+   "Eamonn": 14800,
+   "Jack": 14600,
+   "Caryn": 4600
+  },
+  "Final": {
+   "Eamonn": 29500,
+   "Jack": 1,
+   "Caryn": 7600
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "BEGINS & ENDS WITH \"E\"",
+    "OCTOBER IN HISTORY",
+    "MULTIPLES OF 3",
+    "LET'S GO FOR A SPIN",
+    "U.S. GEOLOGICAL SURVEY SAYS...",
+    "FAMILY FEUD"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 28,
+     "q": "To get hitched without parental consent; in modern, less dramatic usage, it means to have a small wedding",
+     "a": "elope",
+     "right": [
+      "Eamonn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 23,
+     "q": "Before a revolutionary tribunal in October 1793, this queen was convicted of treason",
+     "a": "Marie Antoinette",
+     "right": [
+      "Eamonn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 29,
+     "q": "The eastern terminus of this route is near Lake Shore Dr. in Chicago; the western, officially at Lincoln & Olympic in Santa Monica",
+     "a": "Route 66",
+     "right": [
+      "Jack"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 14,
+     "q": "It's the type of spin being done here, or a bakery treat--mmm, bakery treat",
+     "a": "donut",
+     "right": [
+      "Jack"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 27,
+     "q": "This danger, the subject of some thoughts by Stevie Nicks, can move downhill at double digit mph, faster than you",
+     "a": "a landslide",
+     "right": [
+      "Eamonn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 30,
+     "q": "The Roy family battled royally for control of a media empire on this drama",
+     "a": "Succession",
+     "right": [
+      "Eamonn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 22,
+     "q": "This.com offers \"on-trend digital invitations\" & also \"RSVP tracking\"",
+     "a": "Evite",
+     "right": [
+      "Caryn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 13,
+     "q": "Joining the House, a bipartisan Senate vote in October 2002 authorized the use of military force against this nation",
+     "a": "Iraq",
+     "right": [
+      "Jack"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 26,
+     "q": "There are this many letters in the classical Greek alphabet; guess the Greeks are more economical than we are",
+     "a": "24",
+     "right": [
+      "Jack"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 3,
+     "q": "Switzerland's Denise Biellmann put her name on a move in this sport where the athlete extends their leg above the head as they spin",
+     "a": "figure skating",
+     "right": [
+      "Eamonn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 10,
+     "q": "Symbol Ti, it's one of the critical minerals to the U.S. economy & most of it is used in white pigments",
+     "a": "titanium",
+     "right": [
+      "Caryn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 15,
+     "q": "\"Boyfights\", a series of videos created by George Bluth Sr. on this sitcom, featured his sons Michael & G.O.B. brawling",
+     "a": "Arrested Development",
+     "right": [
+      "Caryn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 1,
+     "q": "To guarantee, or a nutritional protein shake",
+     "a": "ensure",
+     "right": [
+      "Eamonn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 17,
+     "q": "In Boston Harbor on October 21, 1797, this 44-gun U.S. Navy frigate was launched into service",
+     "a": "the USS Constitution",
+     "right": [
+      "Jack"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 7,
+     "q": "DiMaggio said there was no ad deal with Heinz if Joe hit in this many straight games in 1941, but Joe fell one game short anyway",
+     "a": "57",
+     "right": [
+      "Eamonn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 4,
+     "q": "Dead or Alive sang, \"You spin me right 'round, baby, right 'round, like a\" this, \"baby, right 'round, 'round 'round\"",
+     "a": "like a record, baby",
+     "right": [
+      "Caryn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 9,
+     "q": "The survey keeps an eye on this fish &, with a webcam near Hyder, Alaska, on the river named for it",
+     "a": "salmon",
+     "right": [
+      "Eamonn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 5,
+     "q": "As the title characters of this film, Will Ferrell & John C. Reilly bicker incessantly until bonding over a hatred of Adam Scott",
+     "a": "Step Brothers",
+     "right": [
+      "Jack"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 2,
+     "q": "Your posse, from French for \"to surround\"",
+     "a": "entourage",
+     "right": [
+      "Caryn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 18,
+     "q": "In October 331 B.C. at the Battle of Gaugamela, Darius panicked & fled when this man's personal cavalry wheeled toward him",
+     "a": "Alexander the Great",
+     "right": [
+      "Jack"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": true,
+     "order": 8,
+     "q": "It's the number of the amendment that gave Black men the right to vote",
+     "a": "the 15th",
+     "right": [
+      "Eamonn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1000
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 6,
+     "q": "In 1967 scientists at Cambridge Univ. discovered the first known one of these, a rapidly spinning neutron star",
+     "a": "a pulsar",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 20,
+     "q": "Earthquake data is crowdsourced via a program called DYFI, short for this question we often ask each other here in California",
+     "a": "did you feel it",
+     "right": [
+      "Jack"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 11,
+     "q": "Christopher Plummer's death in this 2019 film casts suspicion on every member of his squabbling family",
+     "a": "Knives Out",
+     "right": [
+      "Eamonn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 24,
+     "q": "Different parts of the pancreas act like these 2 main types of glands",
+     "a": "endocrine & exocrine",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 21,
+     "q": "This empire declared war on Russia in October of 1853, igniting the Crimean War",
+     "a": "the Ottoman Empire",
+     "right": [
+      "Jack"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 25,
+     "q": "A duodecennial refers to a period of this many years",
+     "a": "12",
+     "right": [],
+     "wrong": [
+      "Caryn"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 16,
+     "q": "Here's a spinning this, patented in 1770; it uses many spindles to do its textile business",
+     "a": "a spinning jenny",
+     "right": [],
+     "wrong": [
+      "Eamonn",
+      "Jack"
+     ],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 19,
+     "q": "The 'Vey is working to protect water flow changes that may affect the plant called wild this grain, sacred to Great Lakes tribes",
+     "a": "wild rice",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 12,
+     "q": "This 1980s primetime soap about the feuding Carrington & Colby families was set in Denver, Colorado, of all places",
+     "a": "Dynasty",
+     "right": [
+      "Caryn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "ASIAN GEOGRAPHY",
+    "THE CHARACTERS THEY BIRTHED",
+    "CHOOSE A NAME",
+    "SIGNS & SIGNALS",
+    "WEDDING SONGS",
+    "ALLITERATION"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 29,
+     "q": "This country's Ishikari River, sacred to the Ainu people, has been heavily polluted due to industrial growth",
+     "a": "Japan",
+     "right": [],
+     "wrong": [
+      "Eamonn"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 13,
+     "q": "Narcissa Malfoy,\nFleur Delacour",
+     "a": "J.K. Rowling",
+     "right": [
+      "Eamonn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 19,
+     "q": "He switched from his Hebrew name Saul to a Roman one to make it easier to convert Gentiles",
+     "a": "Paul",
+     "right": [
+      "Jack"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 24,
+     "q": "The origin of this item is with 17th c. Croatian soldiers; of one on the doorknob meaning \"getting busy inside\", unknown",
+     "a": "a (neck)tie",
+     "right": [
+      "Jack"
+     ],
+     "wrong": [
+      "Eamonn"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "\"Tenerife Sea\" & \"Thinking Out Loud\" by this redheaded Brit have fast become top choices for first dances",
+     "a": "Ed Sheeran",
+     "right": [
+      "Eamonn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 25,
+     "q": "Vertically oriented phrase meaning exaggerated, hard-to-believe stories",
+     "a": "tall tales",
+     "right": [
+      "Caryn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 5,
+     "q": "The glaciers in this world's highest plateau located in western China have the largest volume of ice outside of the poles",
+     "a": "Tibet (the Tibetan Plateau)",
+     "right": [
+      "Jack"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 1,
+     "q": "Ellen O'Hara,\nMelanie Wilkes",
+     "a": "Margaret Mitchell",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 2,
+     "q": "Dunno what he had in mind--Buffy? Fern? But in 1952, Martin Charteris asked her what regnal name she'd use; she said, \"Mine\"",
+     "a": "Elizabeth II",
+     "right": [
+      "Jack"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 14,
+     "q": "In scuba diving, you can use the \"OK\" circle, but this other sign meaning \"it's OK\" on land gets you brought to the surface",
+     "a": "a thumbs-up",
+     "right": [
+      "Eamonn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 15,
+     "q": "A popular choice for \"Twilight\" fans is this one by Christina Perri with a perfectly \"millennial\" title",
+     "a": "\"A Thousand Years\"",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": true,
+     "order": 17,
+     "q": "\"The Gallopin' Gaucho\" is an early film featuring him, before his name came to mean small-time & unimportant",
+     "a": "Mickey Mouse",
+     "right": [],
+     "wrong": [
+      "Eamonn"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1400
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 4,
+     "q": "The Johor Strait separates this city-state from the Malay Peninsula",
+     "a": "Singapore",
+     "right": [
+      "Jack"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 10,
+     "q": "Newland Archer,\nZenobia Frome",
+     "a": "Wharton",
+     "right": [
+      "Eamonn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 7,
+     "q": "This first name was chosen carefully, including the \"C\" spelling--unlike, say, Khloe or Kendall",
+     "a": "Caitlyn",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": true,
+     "order": 8,
+     "q": "This colorful animal sits at the top of the royal arms of Scotland & that may be why it's one of Britain's most popular pub names",
+     "a": "the red lion",
+     "right": [
+      "Jack"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 3000
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 16,
+     "q": "\"Everybody clap your\" buzzer & name this song by DJ Casper that has grandmas criss-crossing & foot stomping at weddings",
+     "a": "the \"Cha Cha Slide\"",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 18,
+     "q": "Before \"favorite\", it's another way to say the one expected to win",
+     "a": "odds-on",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 3,
+     "q": "The capital city Ashgabat sits in this type of place--a contrast to much of Turkmenistan, & the Ashgabatis love their fountains",
+     "a": "an oasis",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 9,
+     "q": "O-Lan, a mother;\nLotus, a concubine",
+     "a": "(Pearl S.) Buck",
+     "right": [
+      "Caryn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 11,
+     "q": "Being as objectivist as possible, we'll say Alisa Rosenbaum chose this as her professional name",
+     "a": "Ayn Rand",
+     "right": [
+      "Eamonn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 12,
+     "q": "Hang loose-it's the name of the Hawaiian sign with thumb & pinky out",
+     "a": "a shaka",
+     "right": [
+      "Eamonn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 22,
+     "q": "This song by The Isley Brothers began as an improvised call-&-response riff on their cover of \"Lonely Teardrops\"",
+     "a": "\"Shout\"",
+     "right": [
+      "Eamonn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 23,
+     "q": "In a much-imitated spiel, old travel films end, \"as the sun sinks slowly into XX body of water, we bid\" this alliterative goodbye",
+     "a": "a fond farewell",
+     "right": [
+      "Eamonn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 6,
+     "q": "In this capital city's downtown you'll find the Royal Hashemite Court, aka Al-Maqar or \"The Headquarters\"",
+     "a": "Amman, Jordan",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 20,
+     "q": "Mr. Brocklehurst,\nShirley Keeldar",
+     "a": "Charlotte Brontë",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 28,
+     "q": "Charlie Gasko, a Santa Monica, California resident from 1996 to 2011, was the chosen alias of this notorious Boston thug",
+     "a": "Whitey Bulger",
+     "right": [
+      "Eamonn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 21,
+     "q": "The sign whose official designation is warning of this 8-letter possibility should get a truck driver's attention",
+     "a": "rollover",
+     "right": [
+      "Jack"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 30,
+     "q": "For couples with wanderlust, how about a few swirls to this Sinatra song that mentions a natural satellite & 2 planets?",
+     "a": "\"Fly Me To The Moon\"",
+     "right": [
+      "Jack"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 26,
+     "q": "An adjustment to the path of a ship to get it headed to its destination, or any similar change in a non-nautical process",
+     "a": "a course correct(ion)",
+     "right": [
+      "Eamonn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "CORPORATE MASCOTS",
+  "q": "A 2014 tweet said that this mascot was the \"embodiment of a milkshake or taste bud\"",
+  "a": "Grimace",
+  "right": [
+   "Caryn",
+   "Eamonn"
+  ],
+  "wrong": [
+   "Jack"
+  ]
+ },
+ "gameId": "9025",
+ "cat_notes": {
+  "J": [
+   "Each answer ends with “E”.",
+   "Clues about October in History.",
+   "Clues about Multiples of 3.",
+   "The category “LET'S GO FOR A SPIN” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "Clues about U.S. Geological Survey Says.",
+   "Clues about Family Feud."
+  ],
+  "DJ": [
+   "Clues about Asian Geography.",
+   "You'll name the author.",
+   "Clues about Choose a Name.",
+   "Clues about Signs and Signals.",
+   "Clues about Wedding Songs.",
+   "Each answer is alliterative — its main words start with the same sound."
+  ],
+  "F": "Clues about Corporate Mascots."
+ }
+}

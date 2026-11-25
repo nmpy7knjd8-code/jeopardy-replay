@@ -1,0 +1,1002 @@
+{
+ "show": "#9293",
+ "aired": "2025-03-19",
+ "note": "Alex DeFrank game 4.",
+ "contestants": [
+  {
+   "name": "Adam Silverman",
+   "bio": "a scientist from Arlington, Massachusetts",
+   "short": "Adam"
+  },
+  {
+   "name": "Ann Velenchik",
+   "bio": "an economics professor from Brookline, Massachusetts",
+   "short": "Ann"
+  },
+  {
+   "name": "Alex DeFrank",
+   "bio": "an inventory specialist from Brooklyn, New York (whose 3-day cash winnings total $75,600)",
+   "short": "Alex"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Alex": 8000,
+   "Ann": 4400,
+   "Adam": 3000
+  },
+  "DJ": {
+   "Alex": 37400,
+   "Ann": 6000,
+   "Adam": 13000
+  },
+  "Final": {
+   "Alex": 26800,
+   "Ann": 6000,
+   "Adam": 13000
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "10 POINTS FOR SLITHERIN'",
+    "\"STICK\" UP",
+    "MOVIES BY DECADE",
+    "FOREIGN WORDS & PHRASES",
+    "TALKIN' 'BOUT MY GENERATION",
+    "THE WHO?"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 14,
+     "q": "When it lacks a shell, a snail relative is generally called this",
+     "a": "a slug",
+     "right": [
+      "Ann"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 27,
+     "q": "Long before its use in gaming, it was slang for a baseball bat",
+     "a": "a joystick",
+     "right": [
+      "Adam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 26,
+     "q": "\"Indiana Jones & the Temple of Doom\"",
+     "a": "the 1980s",
+     "right": [
+      "Alex"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 30,
+     "q": "A film about St. Francis is \"Fratello sole, sorella luna\"; Fratello & Sorella are brother & sister, sole & luna are these",
+     "a": "sun & moon",
+     "right": [
+      "Adam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 9,
+     "q": "Increasing the population more than 50% starting the year after WWII ended through 1964 was how this 2-word gen got its name",
+     "a": "the Baby Boomers",
+     "right": [
+      "Ann"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 25,
+     "q": "Who indeed! He wrote, \"My town is called Who-ville, for I am a who and we Whos are all thankful and grateful to you\"",
+     "a": "Dr. Seuss",
+     "right": [
+      "Alex"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 13,
+     "q": "Darwin did an in-depth study on these commonplace annelids; one species can grow to 11 feet in length!",
+     "a": "earthworms",
+     "right": [
+      "Alex"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 3,
+     "q": "It's the term for a cocktail stirrer, often with a little ball on one end",
+     "a": "a swizzle stick",
+     "right": [
+      "Alex"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 19,
+     "q": "\"Good Will Hunting\"",
+     "a": "the 1990s",
+     "right": [
+      "Adam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 29,
+     "q": "Meaning \"my soulmate\", \"mi media naranja\" is literally my half this fruit for which many parts of Spain are famous",
+     "a": "oranges",
+     "right": [
+      "Alex"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 10,
+     "q": "Covering births from 1965 to 1980 & obviously the best generation, it's aka the MTV generation, but that's just too many letters",
+     "a": "Generation X",
+     "right": [
+      "Alex"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "She's the who who led her party to a landslide victory in 1983, winning a 144-seat majority & retaining her Downing St. address",
+     "a": "Thatcher",
+     "right": [
+      "Alex"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 12,
+     "q": "One vowel off from the name of a stinky mammal, this lizard likes to burrow & live in the ground",
+     "a": "a skink",
+     "right": [
+      "Alex"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 15,
+     "q": "Something that provides stability or the insect seen here",
+     "a": "a walking stick",
+     "right": [
+      "Alex"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 18,
+     "q": "\"Zootopia\"",
+     "a": "the 2010s",
+     "right": [
+      "Alex"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 22,
+     "q": "Gyaku-Gire, the anger of one who's in the wrong, is also a Panda trading card in this world that sometimes outsells Pokémon",
+     "a": "Yu-Gi-Oh!",
+     "right": [],
+     "wrong": [
+      "Ann"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 24,
+     "q": "Those born from 1997 to 2010 like Greta Thunberg & Jenna Ortega are letter-perfect as this generation",
+     "a": "Gen Z",
+     "right": [
+      "Alex"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 6,
+     "q": "Why, he's the 19th century genius who made a major invention & also started the Volta Bureau for the Deaf",
+     "a": "Alexander Graham Bell",
+     "right": [
+      "Adam"
+     ],
+     "wrong": [
+      "Alex"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 11,
+     "q": "Despite the name, this type of arthropod comes up a bit short, usually maxing out at only 200 pairs of feet",
+     "a": "a millipede",
+     "right": [
+      "Alex"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 5,
+     "q": "At the Wizarding World of Harry Potter, you can enjoy a meal at this tavern with the same name as the one in the books",
+     "a": "Three Broomsticks",
+     "right": [
+      "Adam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 17,
+     "q": "\"The Guns of Navarone\"",
+     "a": "the 1960s",
+     "right": [
+      "Adam"
+     ],
+     "wrong": [
+      "Alex"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 21,
+     "q": "Sometimes delicate, sometimes decadent, art of the period before & even after 1900 is called Fin de siècle, or end of this",
+     "a": "the century",
+     "right": [
+      "Alex"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 28,
+     "q": "1981 to 1996 kids are called these; a 2017 business book has the alliterative title \"Motivating\" them",
+     "a": "Millennials",
+     "right": [
+      "Ann"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 7,
+     "q": "Who, what, where, when:\nCatherine the Great, becoming empress, this then Russian capital, July 9, 1762",
+     "a": "St. Petersburg",
+     "right": [
+      "Ann"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": true,
+     "order": 1,
+     "q": "There are many types of these, named for how they move; only one is an American rattlesnake, so it's the one used as an insult in Westerns",
+     "a": "sidewinders",
+     "right": [
+      "Alex"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1000
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 4,
+     "q": "Often occurring in kids, this \"colorful\" fracture happens when a bone bends & cracks, instead of separating totally",
+     "a": "greenstick",
+     "right": [
+      "Ann"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 16,
+     "q": "\"Sergeant York\"",
+     "a": "the 1940s",
+     "right": [
+      "Ann"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 20,
+     "q": "\"Not for all the butter in Småland\" is the Swedish equivalent of this English phrase involving an Asian country",
+     "a": "not for all the tea in China",
+     "right": [
+      "Ann"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 23,
+     "q": "A Tom Brokaw book title defined this group that covers those born from 1901 to 1927",
+     "a": "the Greatest Generation",
+     "right": [
+      "Alex"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 8,
+     "q": "\"Who am I? Why am I here?\", asked James Stockdale, the running mate of this then independent candidate at a VP debate in 1992",
+     "a": "Perot",
+     "right": [
+      "Alex"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "TAKE TIME FOR BOOKS",
+    "OLYMPIC HOST CITY ATTRACTIONS",
+    "BALLET & OPERA",
+    "POP CULTURE ANATOMY",
+    "EMBASSIES IN WASHINGTON",
+    "TOUGH 7-LETTER WORDS"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 28,
+     "q": "This physicist followed up \"A Brief History of Time\" a few years later with \"A Briefer History of Time\"",
+     "a": "Stephen Hawking",
+     "right": [
+      "Adam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 20,
+     "q": "The Spandau Citadel &\nthe Tiergarten",
+     "a": "Berlin",
+     "right": [
+      "Alex"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 29,
+     "q": "Gertrude Stein fêted Teresa of Avila & others, working with Virgil Thomson on the opera titled \"Four\" of these \"in Three Acts\"",
+     "a": "saints",
+     "right": [
+      "Alex"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 30,
+     "q": "He first appeared in the short film \"Frog Baseball\" alongside his compatriot-in-crass Beavis",
+     "a": "Butt-Head",
+     "right": [
+      "Alex"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "In Oct. 2023 its ambassador & former PM Kevin Rudd naturally threw a barbie for the opening of its new D.C. embassy",
+     "a": "Australia",
+     "right": [
+      "Adam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 24,
+     "q": "From the Latin for \"blot out\", it's what you want the authorities to do to the records of that crime you committed years ago",
+     "a": "expunge",
+     "right": [
+      "Ann"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 11,
+     "q": "\"The Long Dark Tea-Time of the Soul\" was the second novel by this author to feature his holistic detective Dirk Gently",
+     "a": "Douglas Adams",
+     "right": [],
+     "wrong": [
+      "Adam"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 19,
+     "q": "The Holmenkollen Ski Museum &\nthe Munch Art Museum",
+     "a": "Oslo",
+     "right": [
+      "Alex"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 4,
+     "q": "Not only do the Snow King & Queen turn up in this popular ballet, the Mouse King also makes an appearance",
+     "a": "The Nutcracker",
+     "right": [
+      "Adam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 26,
+     "q": "\"Rolling Stone\" called the members of this band \"five brainy lads\" & lauded \"Hail to the Thief\" as an \"anxious digi-rock masterpiece\"",
+     "a": "Radiohead",
+     "right": [
+      "Alex"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 22,
+     "q": "Gardiner Hubbard, a founder of this world-spanning society, once owned the present-day Hungarian embassy",
+     "a": "the National Geographic Society",
+     "right": [],
+     "wrong": [
+      "Ann"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 25,
+     "q": "A day on which night & day are of the same length",
+     "a": "equinox",
+     "right": [
+      "Alex"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 7,
+     "q": "\"A Time to Kill\", John Grisham's novel about a murder trial in the South, takes its title from this Bible book",
+     "a": "Ecclesiastes",
+     "right": [
+      "Adam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 15,
+     "q": "Casa Vicens Gaudí &\nthe Palace of Catalan Music",
+     "a": "Barcelona",
+     "right": [
+      "Adam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 3,
+     "q": "This Virgil work inspired the opera \"Les Troyens\" by Hector Berlioz",
+     "a": "The Aeneid",
+     "right": [
+      "Alex"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 13,
+     "q": "In 2024 Idris Elba voiced this title character in a Paramount+ show set in the Sonic the Hedgehog universe",
+     "a": "Knuckles",
+     "right": [
+      "Alex"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 23,
+     "q": "Where did this president live after the Brits trashed the White House? A complex called The Seven Buildings, where Mexico's embassy is now",
+     "a": "Madison",
+     "right": [
+      "Alex"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 8,
+     "q": "Add an \"E\" to a word for a wife or husband & you get this verb you use when you adopt a cause",
+     "a": "espouse",
+     "right": [
+      "Adam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 6,
+     "q": "Proust's \"À la recherche du temps perdu\" is sometimes translated, very literally, as this",
+     "a": "In Search of Lost Time",
+     "right": [
+      "Alex"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 17,
+     "q": "The Leonard Cohen Mural &\nPlace des Arts",
+     "a": "Montreal",
+     "right": [
+      "Alex"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 6000
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 2,
+     "q": "This German composed \"Ritterballett\", or \"Knight's Ballet\", while he was still living in Bonn",
+     "a": "Beethoven",
+     "right": [
+      "Alex"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 7000
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 14,
+     "q": "In this colorfully named 2023 Netflix show, Maya Erskine voices Mizu, a female warrior bent on revenge in feudal Japan",
+     "a": "Blue Eye Samurai",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 16,
+     "q": "The sons of this late architect designed the Chinese embassy",
+     "a": "I.M. Pei",
+     "right": [
+      "Alex"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 9,
+     "q": "Beginning with an early month abbreviation, it means \"feverish\"",
+     "a": "febrile",
+     "right": [
+      "Adam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 5,
+     "q": "In H.G. Wells' \"The Time Machine\", an explorer travels to the future & meets 2 races: the Eloi & these subterranean workers",
+     "a": "the Morlocks",
+     "right": [
+      "Adam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 18,
+     "q": "Juventus Stadium &\nthe Museo Nazionale dell'Automobile",
+     "a": "Torino",
+     "right": [
+      "Alex"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 1,
+     "q": "\"The Fallen Woman\" in Italian, this opera centers on the courtesan Violetta",
+     "a": "La traviata",
+     "right": [
+      "Alex"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 21,
+     "q": "Jennifer Lawrence received her first Oscar nomination for Best Actress as Ree in this film set in the Ozarks",
+     "a": "Winter's Bone",
+     "right": [
+      "Alex"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 12,
+     "q": "France's embassy has a reception room named for this Frenchman whose 1831-32 visit led to a classic book on American democracy",
+     "a": "de Tocqueville",
+     "right": [
+      "Ann"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 10,
+     "q": "This word for a hero or upright person is the term for one of Charlemagne's legendary champions",
+     "a": "a paladin",
+     "right": [
+      "Adam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "HISTORICAL HORSES",
+  "q": "Named for an 1807 battle & valiant in one 8 years later, Copenhagen was this man's steed; society ladies donned strands of his hair",
+  "a": "the Duke of Wellington",
+  "right": [
+   "Adam"
+  ],
+  "wrong": [
+   "Ann",
+   "Alex"
+  ]
+ },
+ "gameId": "9146",
+ "cat_notes": {
+  "J": [
+   "Clues about 10 Points for Slitherin.",
+   "Each answer contains the letter group “STICK”.",
+   "Clues about Movies by Decade.",
+   "Clues about Foreign Words and Phrases.",
+   "Clues about Talkin Bout My Generation.",
+   "The category “THE WHO?” sets the theme — the clues follow that idea and any wordplay suggested by the title."
+  ],
+  "DJ": [
+   "Clues about Take Time for Books.",
+   "Clues about Olympic Host City Attractions.",
+   "Clues about Ballet and Opera.",
+   "Clues about Pop Culture Anatomy.",
+   "Clues about Embassies in Washington.",
+   "Each answer is a 7-letter word or term related to Tough."
+  ],
+  "F": "Clues about Historical Horses."
+ }
+}

@@ -1,0 +1,984 @@
+{
+ "show": "#9315",
+ "aired": "2025-04-18",
+ "note": "Liam Starnes game 1.",
+ "contestants": [
+  {
+   "name": "Liam Starnes",
+   "bio": "an undergraduate student from Barrington, Illinois",
+   "short": "Liam"
+  },
+  {
+   "name": "Rachael Gray",
+   "bio": "a graduate student from Cuyahoga Falls, Ohio",
+   "short": "Rachael"
+  },
+  {
+   "name": "Steven Hoying",
+   "bio": "an attorney-at-law from Hilliard, Ohio (whose 1-day cash winnings total $29,403)",
+   "short": "Steven"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Steven": 4200,
+   "Rachael": 6200,
+   "Liam": 4400
+  },
+  "DJ": {
+   "Steven": 13800,
+   "Rachael": 16200,
+   "Liam": 19600
+  },
+  "Final": {
+   "Steven": 19800,
+   "Rachael": 4200,
+   "Liam": 32401
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "OUR TOP STORY TONIGHT",
+    "FOOD BRANDS",
+    "ROUGHLY TURN OF THE CENTURY MUSIC",
+    "\"G\" IN THE MIDDLE",
+    "STAND",
+    "THE LIVER"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 26,
+     "q": "June 17, 1972:\n5 burglary suspects were arrested in the early morning at 2600 Virginia Ave.\nN.W.,\n this complex",
+     "a": "Watergate",
+     "right": [
+      "Steven"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 10,
+     "q": "Beginning in the '60s, it was \"Choosy mothers choose\" this brand of peanut butter; in the '80s, \"Choosy moms\"",
+     "a": "Jif",
+     "right": [
+      "Steven"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 28,
+     "q": "\"I'll tell you what I want, what I really, really want!\", say this line after \"If you wanna be my lover...\"",
+     "a": "you gotta get with my friends",
+     "right": [
+      "Rachael"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 29,
+     "q": "A good deal at a low price; The Who sang of \"the best I ever had\"",
+     "a": "bargain",
+     "right": [
+      "Liam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 22,
+     "q": "When playing blackjack, you may decide to \"stand\" this 3-letter way, which means you don't want any more cards",
+     "a": "pat",
+     "right": [
+      "Steven"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 30,
+     "q": "Boxers know anatomy, as when Bernard Hopkins \"operated\" on Oscar De La Hoya's liver with a punch under this bony enclosure",
+     "a": "the rib cage",
+     "right": [
+      "Steven"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "June 11, 1963:\nGovernor George Wallace stood in a doorway of this university in an effort to exclude Black students",
+     "a": "the University of Alabama",
+     "right": [
+      "Rachael"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 5,
+     "q": "Products from Udi's famously lack this, per its logo",
+     "a": "gluten",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 25,
+     "q": "In 1999 this Spanglish-titled tune topped the charts for 5 weeks",
+     "a": "\"Livin' La Vida Loca\"",
+     "right": [
+      "Rachael"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 16,
+     "q": "The herring type is a common species of this beach-combing, chip-stealing, flying fellow",
+     "a": "a seagull",
+     "right": [
+      "Steven"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 23,
+     "q": "An imbalance between positive & negative charges as electrons move gives us this type of electricity that can make your hair stand on end",
+     "a": "static electricity",
+     "right": [
+      "Liam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 24,
+     "q": "In 2020 the government said most U.S. adults should be screened for this dangerous, often symptomless letter of hepatitis",
+     "a": "C",
+     "right": [
+      "Liam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 7,
+     "q": "June 25, 1950:\nEarlier today Communist troops from the north attacked South Korea across this numeric frontier",
+     "a": "the 38th parallel",
+     "right": [
+      "Liam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 15,
+     "q": "Introduced in the 1920s, this Japanese mayo brand was named for a novelty doll popular around the world",
+     "a": "Kewpie",
+     "right": [
+      "Rachael"
+     ],
+     "wrong": [
+      "Steven"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 13,
+     "q": "\"Wah-haw, it was good, livin' with you\", sang this New Orleans alt-rock trio",
+     "a": "Better than Ezra",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 4,
+     "q": "This adjective describes the production of very low temperatures, perhaps to create a chamber",
+     "a": "cryogenic",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 3,
+     "q": "Stephen King said \"The Stand\" was inspired by Tolkien & that this city where the action climaxes was a sort of Mordor",
+     "a": "Las Vegas",
+     "right": [
+      "Rachael"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 2,
+     "q": "Many of this band's concerts featured Phil Lesh urging the audience to be organ donors, like the man whose liver gave Phil 26 years",
+     "a": "The Grateful Dead",
+     "right": [
+      "Rachael"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 11,
+     "q": "March 25, 2003:\nRebels in this country's Darfur province attacked govt. forces to protest treatment of non-Arabs",
+     "a": "Sudan",
+     "right": [
+      "Liam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 9,
+     "q": "To honor its co-founder, Dreyer's ice cream goes by this name east of the Rockies",
+     "a": "Edy's",
+     "right": [
+      "Rachael"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 12,
+     "q": "This Digital Underground rapper would \"shoot an arrow like Cupid, I'll use a word that don't mean nothin', like 'looptid\"'",
+     "a": "Shock G (Humpty Hump)",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 17,
+     "q": "5 letters but just one vowel?! That causes me a great deal of this feeling of anxiety",
+     "a": "angst",
+     "right": [
+      "Rachael"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 19,
+     "q": "A hit in 1968, this song standard begins, \"Sometimes it's hard to be a woman\"",
+     "a": "\"Stand By Your Man\"",
+     "right": [
+      "Steven"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 1,
+     "q": "Oil from this fish's liver, a good source of vitamins A & D, was given out to British kids 5 & under starting in 1940",
+     "a": "cod",
+     "right": [
+      "Rachael"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 14,
+     "q": "October 16, 1995:\nToday, thousands of Black males converged on the nation's capital for a rally known by this triply alliterative name",
+     "a": "the Million Man March",
+     "right": [
+      "Liam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 6,
+     "q": "This flour brand got its name in 1896 & a new logo, a wheat crown, in 2020",
+     "a": "King Arthur",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 8,
+     "q": "\"Creepin' with the girl next door\"? \"Caught me on camera\"? No problem for Shaggy & RikRok, with this laughingly untrue title alibi",
+     "a": "\"It Wasn't Me\"",
+     "right": [
+      "Steven"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 18,
+     "q": "Twyla Tharp was credited as this person on Broadway shows like \"Singin' in the Rain\" & \"Movin' Out\"",
+     "a": "the choreographer",
+     "right": [
+      "Liam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": true,
+     "order": 20,
+     "q": "Around 1675 he said:\n\"If I have seen further it is by standing on the shoulders of giants\"",
+     "a": "(Isaac) Newton",
+     "right": [
+      "Steven"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1800
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 21,
+     "q": "If your liver isn't adequately processing this pigment, leading to Gilbert syndrome, just know it's utterly harmless",
+     "a": "bilirubin",
+     "right": [
+      "Rachael"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "AROUND THE PACIFIC",
+    "PREPOSITIONS IN BOOK TITLES",
+    "THE ARTS",
+    "NOTABLE WOMEN",
+    "MOVIE LOCALES",
+    "6-LETTER VOCAB"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 22,
+     "q": "A historic Russian Orthodox church dominates the town of Saint Paul on an island in the middle of this Pacific sea",
+     "a": "the Bering",
+     "right": [
+      "Rachael"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 30,
+     "q": "\"By the Shores of Silver Lake\" is the fifth book in this series about pioneer life",
+     "a": "Little House on the Prairie",
+     "right": [
+      "Steven"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 29,
+     "q": "Thick varnish was the reason for this byname of Rembrandt's 1642 painting of a militia company",
+     "a": "The Night Watch",
+     "right": [
+      "Liam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 28,
+     "q": "In 2022 Twitter called this tennis great \"the most tweeted about female athlete ever\"",
+     "a": "Serena Williams",
+     "right": [
+      "Liam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 21,
+     "q": "The Hook & Ladder 8 building at 14 North Moore Street in Manhattan plays a memorable role in this 1984 film",
+     "a": "Ghostbusters",
+     "right": [
+      "Steven"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "The backwards jerk after a gun is fired, or to jerk back in revulsion",
+     "a": "recoil",
+     "right": [
+      "Rachael"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 15,
+     "q": "Chuuk, Kosrae, Pohnpei & Yap are the 4 Federated States of this",
+     "a": "Micronesia",
+     "right": [
+      "Steven"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 20,
+     "q": "\"Before Night Falls\" is Reinaldo Arenas' memoir describing his life as a gay man persecuted in this country",
+     "a": "Cuba",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 25,
+     "q": "In this opera based on a fairy tale, the witch sings, \"Nibble, nibble, little mouse, who's nibbling at my little house?\"",
+     "a": "Hansel and Gretel",
+     "right": [
+      "Steven"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 23,
+     "q": "After designing the Vietnam Veterans Memorial & a civil rights memorial, she pursued other forms of art & architecture",
+     "a": "Maya Lin",
+     "right": [
+      "Rachael"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 18,
+     "q": "Opened in 1896, the Ohio State Reformatory closed in 1990, a few years before this Best Picture nominee was filmed there",
+     "a": "The Shawshank Redemption",
+     "right": [
+      "Rachael"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 26,
+     "q": "The strangulated type of this rupture cuts off the blood supply to body tissue & can lead to gangrene",
+     "a": "a strangulated hernia",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 5,
+     "q": "A name that literally translates to \"northern sea route\" is fitting for this most northerly of Japan's main islands",
+     "a": "Hokkaido",
+     "right": [
+      "Liam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": true,
+     "order": 8,
+     "q": "It's the title of Demi Moore's memoir; Bruce Willis & Ashton Kutcher are characters, but not Joy, Anger, Sadness or Bing Bong",
+     "a": "Inside Out",
+     "right": [
+      "Rachael"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 4000
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 24,
+     "q": "Frank Gehry was the architect behind Walt Disney Hall in Los Angeles & this museum in Bilbao, Spain",
+     "a": "the Guggenheim",
+     "right": [
+      "Liam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 3,
+     "q": "To anyone who criticized this \"Coming of Age\" anthropologist or her work, she had a word--\"piffle!\"",
+     "a": "Margaret Mead",
+     "right": [
+      "Liam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 17,
+     "q": "Onlookers sang \"Louie, Louie\" at the 1986 razing of dilapidated 755 E. 11th St. in Eugene, Ore., a location in this 1978 comedy",
+     "a": "Animal House",
+     "right": [
+      "Steven"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 11,
+     "q": "Also called a belvedere, this roofed garden structure is said to have gotten its name from an 18th century joke",
+     "a": "gazebo",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 4,
+     "q": "The largest island of Mexico, Tiburón island is an uninhabited desert & nature reserve on this arm of the Pacific",
+     "a": "the Gulf of California (Sea of Cortés)",
+     "right": [
+      "Liam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 7,
+     "q": "Charlaine Harris' \"From Dead to Worse\" finds this Louisiana waitress caught between weres & vamps again as her boyfriend disappears",
+     "a": "Sookie Stackhouse",
+     "right": [
+      "Rachael"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 6,
+     "q": "Grand Rapids, Michigan has a public sculpture by this man--a 42-ton stabile",
+     "a": "(Alexander) Calder",
+     "right": [
+      "Liam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 6000
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 2,
+     "q": "The headquarters building for the U.S. Department of Labor is named for her, the first woman to head a Cabinet department",
+     "a": "(Frances) Perkins",
+     "right": [
+      "Liam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 16,
+     "q": "The Café des Deux Moulins is where this winsome Parisienne waits tables while awaiting her fabulous destiny",
+     "a": "Amélie",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 1,
+     "q": "It's a German noun referring to a trashy work of art, yet one that some can't help but love",
+     "a": "kitsch",
+     "right": [
+      "Liam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 14,
+     "q": "The shallow Arafura Sea of the Western Pacific lies between Australia & this 300,000-square-mile island to the north",
+     "a": "New Guinea",
+     "right": [
+      "Steven"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 19,
+     "q": "Skiing & getting married are new activities for James Bond in this 1963 novel",
+     "a": "On Her Majesty's Secret Service",
+     "right": [
+      "Steven"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 13,
+     "q": "When this Stravinsky ballet premiered in 1911, Nijinsky played the title puppet",
+     "a": "Petrushka",
+     "right": [],
+     "wrong": [
+      "Liam"
+     ],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 9,
+     "q": "Even before Watson & Crick, she described DNA as a big helix, but the men got all the credit",
+     "a": "Rosalind Franklin",
+     "right": [
+      "Rachael"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 10,
+     "q": "In \"Die Hard\", the Century City Fox Plaza plays this plaza where I'm definitely not attending any parties",
+     "a": "Nakatomi (Plaza)",
+     "right": [
+      "Steven"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 12,
+     "q": "Brazilian star Anitta recalled \"playing in the streets\" in this type of informal settlement in Rio",
+     "a": "a favela",
+     "right": [
+      "Liam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "PRESIDENTIAL NOMINEES",
+  "q": "The year the Democratic nominee gave his \"Cross of Gold\" speech, the GOP nominee was this man who backed the gold standard",
+  "a": "(William) McKinley",
+  "right": [
+   "Steven",
+   "Liam"
+  ],
+  "wrong": [
+   "Rachael"
+  ]
+ },
+ "gameId": "9173",
+ "cat_notes": {
+  "J": [
+   "Clues about Our Top Story Tonight.",
+   "Clues about Food Brands.",
+   "Clues about Roughly Turn of the Century Music.",
+   "It's the exact middle letter in each correct response.",
+   "Clues about Stand.",
+   "Clues about The Liver."
+  ],
+  "DJ": [
+   "Clues about Around the Pacific.",
+   "Clues about Prepositions in Book Titles.",
+   "Clues about The Arts.",
+   "Clues about Notable Women.",
+   "Clues about Movie Locales.",
+   "Each answer is a 6-letter word or term related to 6-letter Vocab."
+  ],
+  "F": "Clues about Presidential Nominees."
+ }
+}

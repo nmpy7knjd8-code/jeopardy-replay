@@ -1,0 +1,980 @@
+{
+ "show": "#9325",
+ "aired": "2025-05-02",
+ "note": "Ben Ganger game 4.",
+ "contestants": [
+  {
+   "name": "Sam Sabulis",
+   "bio": "an attorney from Atlanta, Georgia",
+   "short": "Sam"
+  },
+  {
+   "name": "Shweta Balasubramanian",
+   "bio": "a marketing manager from Pomona, California",
+   "short": "Shweta"
+  },
+  {
+   "name": "Ben Ganger",
+   "bio": "a data analyst from Goshen, Indiana (whose 3-day cash winnings total $76,415)",
+   "short": "Ben"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Ben": 5600,
+   "Shweta": -200,
+   "Sam": 1800
+  },
+  "DJ": {
+   "Ben": 22500,
+   "Shweta": 1000,
+   "Sam": 7800
+  },
+  "Final": {
+   "Ben": 20000,
+   "Shweta": 320,
+   "Sam": 5189
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "WORLD HISTORY",
+    "A LITTLE BIT OF LIT",
+    "BEAVER FEVER",
+    "4-LETTER SYNONYMS",
+    "\"POP\"-POURRI",
+    "RADIO"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 24,
+     "q": "1960 was called \"the year of\" this continent where 17 countries declared independence",
+     "a": "Africa",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 29,
+     "q": "Her cupboard... bare. Her dog... dead. But suddenly, the dog's alive, & smoking a pipe. Terror has a new name--this nursery rhyme woman",
+     "a": "Old Mother Hubbard",
+     "right": [
+      "Sam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 30,
+     "q": "Associated with Lincoln, this tall top hat was often made of beaver, though silk was taking over by Abe's time",
+     "a": "a stovepipe (hat)",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 27,
+     "q": "Kismet",
+     "a": "fate",
+     "right": [
+      "Shweta"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 26,
+     "q": "This food is an obvious choice as a movie title & there's one from 1991 where kids are being killed in an abandoned theater",
+     "a": "popcorn",
+     "right": [
+      "Sam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 25,
+     "q": "KDKA, one of the first commercial radio stations, has been the voice of this Pennsylvania city since going on air in 1920",
+     "a": "Pittsburgh",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [
+      "Sam"
+     ],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 20,
+     "q": "In 1952 Turkey joined this military alliance named for a far-off body of water",
+     "a": "NATO",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 28,
+     "q": "In \"The Pilgrim's Regress\" by this \"Narnia\" man, a dragon laments, \"Often I wish I hadn't eaten my wife\"",
+     "a": "(C.S.) Lewis",
+     "right": [
+      "Sam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 21,
+     "q": "Starting in 1950s TV commercials, Bucky Beaver was the mascot for Ipana, a brand of this hygiene item",
+     "a": "a toothpaste",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 19,
+     "q": "Prima donna, in opera or otherwise",
+     "a": "diva",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 23,
+     "q": "The Sherman brothers wrote \"Stay Awake\" for this classic Disney movie",
+     "a": "Mary Poppins",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 22,
+     "q": "In 2005 KYOURadio in San Francisco became the first major station to air only these, submitted by you, the listeners",
+     "a": "podcasts",
+     "right": [],
+     "wrong": [
+      "Ben"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 13,
+     "q": "\"Emancipation\", a 2024 book, compares the end of American slavery with the freeing of these Russian peasants, also in the 1860s",
+     "a": "the serfs",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 18,
+     "q": "Do you have a \"Remembrance of Things Past\"? Then you'll know he also wrote \"Jean Santeuil\"",
+     "a": "Proust",
+     "right": [
+      "Shweta"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 3,
+     "q": "106,000 fans can lodge themselves at Beaver Stadium, the home football field of this school's Nittany Lions",
+     "a": "Penn State",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 16,
+     "q": "Killer whale",
+     "a": "orca",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 12,
+     "q": "AKA \"Pop\", he has won five NBA titles & more games than any other coach in league history",
+     "a": "(Gregg) Popovich",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 10,
+     "q": "In 1933 FDR talked to the nation about the banking crisis in the first of his radio addresses called these",
+     "a": "fireside chats",
+     "right": [
+      "Sam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 1,
+     "q": "In 1615 the Inquisition said the theories of this Polish astronomer, dead over 70 years, were heresy",
+     "a": "Copernicus",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 17,
+     "q": "Mark this Cuban character who got top billing over \"the Sea\" (at least as \"The Old Man\") in 1952",
+     "a": "Santiago",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 4,
+     "q": "Featuring a cow chip throwing contest & more, the Cimarron Territorial Celebration is held in Beaver in this state in April",
+     "a": "Oklahoma",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 14,
+     "q": "Epic or lyrical poet",
+     "a": "a bard",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 11,
+     "q": "This VH1 series gave many tidbits about \"Vogue\", directed by David Fincher, & \"Livin' La Vida Loca\", directed by Wayne Isham",
+     "a": "Pop-Up Video",
+     "right": [
+      "Sam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 9,
+     "q": "This music show began on WSM out of Nashville in 1925, playing traditional country & hillbilly music",
+     "a": "the Grand Ole Opry",
+     "right": [
+      "Sam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 2,
+     "q": "In 2011 the coffin of this man dead many years was removed from his crypt in Chile for an autopsy",
+     "a": "Salvador Allende",
+     "right": [],
+     "wrong": [
+      "Ben"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 15,
+     "q": "These 3 words repeated 3 times follow \"rose\" in perhaps Gertrude Stein's most famous quote",
+     "a": "is a rose",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 5,
+     "q": "The swamp beaver is another name for this rodent originally from South America, but now with feral U.S. populations",
+     "a": "the nutria",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 7,
+     "q": "Margarine",
+     "a": "oleo",
+     "right": [],
+     "wrong": [
+      "Shweta",
+      "Sam"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 8,
+     "q": "To name just 2, this iconic BBC TV show has featured The Beatles & Nirvana, who refused to mime to their recorded song",
+     "a": "Top of the Pops",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": true,
+     "order": 6,
+     "q": "On October 31, 1938 The New York Times reported that \"many flee homes to escape 'gas raid from Mars'\" after this famous broadcast",
+     "a": "\"The War of the Worlds\"",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1200
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "GOVERNORS",
+    "\"A\" IS FOR CAPITAL",
+    "CLASSICAL MUSIC",
+    "FROM THE BRONX",
+    "ECHO-NOMICS",
+    "FANCY A WORD?"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 30,
+     "q": "In 2003 the Californian newspaper asked, \"Will the Terminator become\" this portmanteau?",
+     "a": "the Governator",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "Its Theater of Dionysus dates back to the 6th century B.C. & once sat 17,000, about the size of the Hollywood Bowl",
+     "a": "Athens",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 6,
+     "q": "Beethoven's \"Ode To Joy\" is the anthem of this group made up of 27 nations",
+     "a": "the EU",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "Her \"Jenny From The Block\" pays tribute to her Bronx roots",
+     "a": "Jennifer Lopez",
+     "right": [
+      "Sam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 29,
+     "q": "\"Asset\" these overpricing events, like of Dutch tulips in the 1630s & of Japanese real estate in the 1980s, always burst eventually",
+     "a": "a bubble",
+     "right": [
+      "Sam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 23,
+     "q": "The name of a hotelier in the early 20th century gives us this 5-letter adjective for posh & fancy",
+     "a": "ritzy",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 25,
+     "q": "He liked to say he was a \"small fish\" in D.C., but down in the southern state where he was governor, he was kind of a big deal",
+     "a": "Huey Long",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 20,
+     "q": "In 2023 National Geographic asked, \"As\" this city \"bows out, what will be the new capital of cannabis tourism?\"",
+     "a": "Amsterdam",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 5,
+     "q": "For 50 years, Arthur Fiedler was the maestro of this Beantown orchestra famous for playing light classical works",
+     "a": "the Boston Pops",
+     "right": [],
+     "wrong": [
+      "Ben",
+      "Sam"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 26,
+     "q": "Raised in the Bronx, she was nicknamed for a brand of rum & has a sister Hennessy, named for a cognac brand",
+     "a": "Cardi B",
+     "right": [],
+     "wrong": [
+      "Sam"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 28,
+     "q": "A group of firms that collectively monopolize a commodity, for example German cement or south African diamonds",
+     "a": "cartel",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 22,
+     "q": "A gentleman with an \"air\" of confidence may be this adjective, from Old French for \"of good lineage\"",
+     "a": "debonair",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 24,
+     "q": "After running the Salt Lake Organizing Committee for the 2002 Winter Olympics, this man became governor in the Bay State",
+     "a": "Mitt Romney",
+     "right": [
+      "Shweta"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 21,
+     "q": "Check out the roughly 525-foot-tall Capital Gate, called \"the Leaning Tower of\" this Persian Gulf city",
+     "a": "Abu Dhabi",
+     "right": [
+      "Sam"
+     ],
+     "wrong": [
+      "Ben"
+     ],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 4,
+     "q": "The Dvorak family arrived in the U.S. in September 1892; by May this symphony inspired by new surroundings was done",
+     "a": "New World Symphony",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 19,
+     "q": "Calvin Klein & this designer famous for his Polo wear grew up in the same Bronx neighborhood & attended the same school",
+     "a": "Ralph Lauren",
+     "right": [
+      "Sam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 15,
+     "q": "Boycotts that had success included of Ford in the 1920s (over Henry's views) & these fruits in the 1960s (for farmworker rights)",
+     "a": "grapes",
+     "right": [],
+     "wrong": [
+      "Ben",
+      "Sam"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 14,
+     "q": "A classy citizen of the world, it comes to us from the decidedly unclassy Oscar the Grouch of ancient Greece, Diogenes",
+     "a": "cosmopolitan",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 8,
+     "q": "Her father Ajit Singh Randhawa was a professor at the HBCU Voorhees College in South Carolina",
+     "a": "Nikki Haley",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 3500
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 10,
+     "q": "This capital lies on the Anatolian Plateau, 3,000 above sea level",
+     "a": "Ankara",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 5000
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 3,
+     "q": "This English composer of works like \"The Planets\" & \"Hymn of Jesus\" made his living when young as a trombone player",
+     "a": "Holst",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 18,
+     "q": "She gained fame after starring in \"Fame\" & co-writing & recording the theme to \"Flashdance\"; baby, remember her name",
+     "a": "Irene Cara",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 13,
+     "q": "Greece 1944 & Yugoslavia 1994 are examples of this 14-letter situation, with prices doubling in a few days",
+     "a": "hyperinflation",
+     "right": [
+      "Sam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 12,
+     "q": "It can mean extracted & filtered white sugar but also describes a cultivated woman with great \"taste\"",
+     "a": "refined",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 7,
+     "q": "In 1992, she helped kick-start the Texas lottery to help fund public schools; she bought the first ticket, too",
+     "a": "Governor Ann Richards",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 9,
+     "q": "Khan Shatyr is a giant entertainment center in this city that took over capital duties for Almaty in 1997",
+     "a": "Astana",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 2,
+     "q": "This composer of works like 1934's \"Cantata Profana\" was also an avid chronicler of Hungarian folk music",
+     "a": "Bartók",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 17,
+     "q": "Before he was a \"Raging Bull\", this boxer whose life inspired a movie biopic was the \"Bronx Bull\"",
+     "a": "LaMotta",
+     "right": [
+      "Sam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 11,
+     "q": "This 4-letter word meaning a decree refers to \"currency\" or \"money\" created by government say-so, from greenbacks to rupees",
+     "a": "fiat",
+     "right": [
+      "Sam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 16,
+     "q": "In \"Well, Did You Evah\", Cole Porter mashed together \"swell\" & this longer word",
+     "a": "elegant",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "BOATS & SHIPS",
+  "q": "Nearly a century after her 1851 sporting triumph, she was a rotting hulk finally scrapped in 1945",
+  "a": "the America",
+  "right": [],
+  "wrong": [
+   "Shweta",
+   "Sam",
+   "Ben"
+  ]
+ },
+ "gameId": "9186",
+ "cat_notes": {
+  "J": [
+   "Clues about World History.",
+   "Clues about A Little Bit of Lit.",
+   "Clues about Beaver Fever.",
+   "Each answer is a 4-letter word or term related to 4-letter Synonyms.",
+   "A mixed potpourri of \"pop\"-related clues.",
+   "Clues about Radio."
+  ],
+  "DJ": [
+   "Clues about Governors.",
+   "Each answer starts with “A”, and the clues are about Is for Capital.",
+   "Clues about Classical Music.",
+   "Clues from the Bronx.",
+   "Clues about Echo-nomics.",
+   "The category “FANCY A WORD?” sets the theme — the clues follow that idea and any wordplay suggested by the title."
+  ],
+  "F": "Clues about Boats and Ships."
+ }
+}

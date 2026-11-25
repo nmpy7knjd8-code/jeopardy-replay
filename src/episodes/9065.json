@@ -1,0 +1,1003 @@
+{
+ "show": "#9221",
+ "aired": "2024-12-09",
+ "note": "",
+ "contestants": [
+  {
+   "name": "Lisa O'Donnell",
+   "bio": "an ESL teacher from Vienna, Virginia",
+   "short": "Lisa"
+  },
+  {
+   "name": "Bill McKinney",
+   "bio": "a VP of restaurants and bars originally from Boston, Massachusetts",
+   "short": "Bill"
+  },
+  {
+   "name": "Dave Bond",
+   "bio": "a retired grant writer from West Henrietta, New York (whose 2-day cash winnings total $51,400)",
+   "short": "Dave"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Dave": 2600,
+   "Bill": 7000,
+   "Lisa": 4600
+  },
+  "DJ": {
+   "Dave": 10600,
+   "Bill": 22000,
+   "Lisa": 6800
+  },
+  "Final": {
+   "Dave": 5600,
+   "Bill": 22000,
+   "Lisa": 1
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "GEOGRAPHY",
+    "MORTAL MATTERS",
+    "BIG WORDS",
+    "MISCELLANY",
+    "A LEAGUE OF THEIR OWN",
+    "THOSE ETRUSCAN DARNERS"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 27,
+     "q": "In this strait, American & Russian islands are separated by about 2 1/2 miles",
+     "a": "the Bering Strait",
+     "right": [
+      "Lisa"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 26,
+     "q": "Onlookers claimed that after this royal was beheaded in 1536, her lips continued to move as if trying to say something",
+     "a": "Anne Boleyn",
+     "right": [
+      "Lisa"
+     ],
+     "wrong": [
+      "Bill"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 19,
+     "q": "This 4-letter word said with a New York accent is a standard element of a Donald Trump impression",
+     "a": "huge",
+     "right": [
+      "Dave"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 30,
+     "q": "Rich in this stimulant, the kola nut is mainly used in soft drinks & medicine",
+     "a": "caffeine",
+     "right": [
+      "Bill"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 28,
+     "q": "The Vegas Golden Knights",
+     "a": "the NHL",
+     "right": [
+      "Bill"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 29,
+     "q": "Most Etruscan clothes were made from a thick, heavy form of this animal fiber",
+     "a": "wool",
+     "right": [
+      "Dave"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 6,
+     "q": "Lake Bonneville was a gigantic prehistoric lake & this body of water is the largest remnant of it",
+     "a": "Great Salt Lake",
+     "right": [
+      "Bill"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": true,
+     "order": 25,
+     "q": "His body preserved, this leader still looks pretty much like he did at his death on January 21, 1924",
+     "a": "Lenin",
+     "right": [
+      "Bill"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 3000
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 18,
+     "q": "P.T. Barnum's pachyderm",
+     "a": "Jumbo",
+     "right": [
+      "Dave"
+     ],
+     "wrong": [
+      "Lisa"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 22,
+     "q": "\"Where the West Begins\" is a slogan of this city just a bit west of Dallas",
+     "a": "Fort Worth",
+     "right": [
+      "Dave"
+     ],
+     "wrong": [
+      "Bill"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 24,
+     "q": "The New York Liberty",
+     "a": "the WNBA",
+     "right": [
+      "Bill"
+     ],
+     "wrong": [
+      "Dave"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 13,
+     "q": "Etruscan weavers were using this checkered pattern in the 7th century B.C., long before those darn Scots & their tartans",
+     "a": "plaid",
+     "right": [
+      "Bill"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 3,
+     "q": "This country on the Horn of Africa is the most populous landlocked country in the world",
+     "a": "Ethiopia",
+     "right": [
+      "Dave"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 8,
+     "q": "You can pay your respects to such notables as Molière, Jim Morrison & Edith Piaf at this cemetery",
+     "a": "Pére Lachaise",
+     "right": [
+      "Lisa"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 1,
+     "q": "From the Latin for \"not measurable\", it says the same in 7 letters",
+     "a": "immense",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 21,
+     "q": "Similar to an aubade, a mattinata is a piece of music meant to be played during this time period",
+     "a": "the morning",
+     "right": [
+      "Lisa"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 10,
+     "q": "The New England Revolution",
+     "a": "the MLS",
+     "right": [
+      "Bill"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 2,
+     "q": "This cloth made from flax fiber was used for Etruscan finery",
+     "a": "linen",
+     "right": [
+      "Lisa"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 4,
+     "q": "This series of cataracts on the border of Argentina & Brazil has a name meaning \"great water\" in Guarani",
+     "a": "Iguazú Falls",
+     "right": [
+      "Bill"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 7,
+     "q": "According to tradition, Harold II was killed in this battle when an arrow struck him in the eye",
+     "a": "the Battle of Hastings",
+     "right": [
+      "Bill"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 17,
+     "q": "The main canal of Venice stretching in an \"S\" shape about 2 miles with one end at St. Mark's Basilica",
+     "a": "the Grand Canal",
+     "right": [],
+     "wrong": [
+      "Dave"
+     ],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 14,
+     "q": "In the non-jungle world, by right of inheriting his father's title, Tarzan of literature was also this lord",
+     "a": "(Lord) Greystoke",
+     "right": [
+      "Dave"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 20,
+     "q": "The Saskatchewan Roughriders",
+     "a": "the CFL (Canadian Football League)",
+     "right": [
+      "Bill"
+     ],
+     "wrong": [
+      "Dave"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 12,
+     "q": "A 7th century B.C. bronze pendant show Etruscan women warping & weaving cloth on a double-storied one of these",
+     "a": "a loom",
+     "right": [
+      "Lisa"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 9,
+     "q": "Located in both Italy & Slovenia, this section of the Alps is named for a Roman leader",
+     "a": "the Julian Alps",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 5,
+     "q": "According to Plato, his last words were \"Crito, we owe a cock to Asclepius; will you remember to pay the debt?\"",
+     "a": "Socrates",
+     "right": [
+      "Lisa"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 11,
+     "q": "Rabelais gave us this synonym for \"very big\"",
+     "a": "gargantuan",
+     "right": [
+      "Dave"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 15,
+     "q": "Abbreviated FSM, this airborne creature began as a deity of the parody religion the Pastafarians",
+     "a": "the Flying Spaghetti Monster",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 23,
+     "q": "The Wolverhampton Wanderers",
+     "a": "the English Premier League",
+     "right": [
+      "Dave"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 16,
+     "q": "The Etruscan tebenna was this type of loose garment that sounds like a fireplace shelf",
+     "a": "a mantle",
+     "right": [
+      "Lisa"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "THAT'S ALL HISTORY",
+    "A FLOCK OF DOVES",
+    "ALLITERATIVE MOVIE TITLES",
+    "WHAT THE \"LL\"?",
+    "MAIN CHARACTER",
+    "ENERGY"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 26,
+     "q": "The auto-da-fé, or act of faith, was the ceremony in which the sentences of this were pronounced & carried out",
+     "a": "the Inquisition",
+     "right": [
+      "Lisa"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 25,
+     "q": "This Bob Dylan classic asks, \"How many seas must a white dove sail before she sleeps in the sand\"",
+     "a": "\"Blowin' In The Wind\"",
+     "right": [
+      "Lisa"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 17,
+     "q": "\"Ride or Die\" was the subtitle of the 2024 entry in this film series, featuring Martin Lawrence & Will Smith",
+     "a": "Bad Boys",
+     "right": [
+      "Bill"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 30,
+     "q": "Beware this woman who's extremely controlling & demanding in the planning of her wedding",
+     "a": "a bridezilla",
+     "right": [
+      "Bill"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 29,
+     "q": "In \"The Master and Margarita\", the main character is Woland, actually this evil entity in disguise",
+     "a": "the devil (satan)",
+     "right": [
+      "Dave"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 28,
+     "q": "The actinides, which possess this energy-emitting quality, are at the bottom of the periodic table",
+     "a": "radioactivity",
+     "right": [
+      "Dave"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 20,
+     "q": "In business around 1070, Hereward the Wake was an Anglo-Saxon hero who rebelled against this other \"the\" guy",
+     "a": "William the Conqueror",
+     "right": [
+      "Bill"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 24,
+     "q": "This former \"Liv & Maddie\" actress was named New Artist of the Year at the 2022 New American Music Awards",
+     "a": "Dove Cameron",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 11,
+     "q": "Jessica Lange got cozy with the title big guy in this 1976 film; in 2005 it was Naomi Watts' turn",
+     "a": "King Kong",
+     "right": [
+      "Bill"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 19,
+     "q": "Found in some hotter regions of the U.S., this shrubby vine grows in many different colors",
+     "a": "Bougainvillea",
+     "right": [
+      "Lisa"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 18,
+     "q": "In \"Killing Floor\" this Lee Child character says he has \"no middle name, no address\"",
+     "a": "(Jack) Reacher",
+     "right": [
+      "Dave"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 27,
+     "q": "Most houses in Iceland are heated with this type of energy whose name comes partly from the Greek for \"earth\"",
+     "a": "geothermal",
+     "right": [
+      "Dave"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 8,
+     "q": "French army officer Hippolyte Charles, this woman's lover after her 1796 marriage, somehow lived until 1837",
+     "a": "Josephine",
+     "right": [
+      "Dave"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 22,
+     "q": "This jazz singer renamed herself Billie around 1930 for silent screen actress Billie Dove",
+     "a": "Billie Holiday",
+     "right": [
+      "Dave"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 7,
+     "q": "In this 2012 comedy auditioners like Stacie & Fat Amy showed off their pipes to the tune of \"Since U Been Gone\"",
+     "a": "Pitch Perfect",
+     "right": [
+      "Bill"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 14,
+     "q": "In music, it is a quick, lively tempo",
+     "a": "allegro",
+     "right": [
+      "Dave"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 10,
+     "q": "Same name as his pops, this analyst survives a helicopter crash in the Tom Clancy series entry \"Shadow State\"",
+     "a": "Jack Ryan (Jr.)",
+     "right": [
+      "Bill"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 1,
+     "q": "The law of conservation of energy is considered the first of the 3 laws of this 14-letter science",
+     "a": "thermodynamics",
+     "right": [
+      "Bill"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 2,
+     "q": "The ruins of the Iron Age city called \"Great\" this lie south of Harare in the country of the same name",
+     "a": "Zimbabwe",
+     "right": [
+      "Dave"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 21,
+     "q": "A dove takes its place at the head of the boat & leads the title character to the castle of the Holy Grail as this Wagner opera ends",
+     "a": "Lohengrin",
+     "right": [],
+     "wrong": [
+      "Dave"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 5,
+     "q": "David Fincher directed this 2014 thriller that finds Ben Affleck framed for murder",
+     "a": "Gone Girl",
+     "right": [
+      "Bill"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 5000
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 15,
+     "q": "This type of care is designed to relieve suffering & to provide comfort to those going through a serious illness",
+     "a": "palliative care",
+     "right": [
+      "Lisa"
+     ],
+     "wrong": [
+      "Bill"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 12,
+     "q": "Junot Díaz wrote \"The Brief Wondrous Life of\" this bookish young Dominican kid, a lover of sci-fi & fantasy",
+     "a": "Oscar Wao",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 3,
+     "q": "Pylons bring energy from the power grid to you, but the voltage is too high, so these devices make voltage usable",
+     "a": "a transformer",
+     "right": [
+      "Bill"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 4,
+     "q": "Pushed out of Dacia by the Huns in 376, they moved in to Roman land, did some attacking of their own & went on west",
+     "a": "the Visigoths",
+     "right": [
+      "Bill"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 23,
+     "q": "In this 1902 Henry James novel, Kate Croy asks her fiancé\" to marry a rich dying woman so they can eventually inherit her money",
+     "a": "Wings of the Dove",
+     "right": [
+      "Lisa"
+     ],
+     "wrong": [
+      "Dave"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 6,
+     "q": "This Kurosawa film centers on a desperate town that's assaulted by marauders",
+     "a": "Seven Samurai",
+     "right": [
+      "Bill"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": true,
+     "order": 16,
+     "q": "How sweet the sound of this word meaning \"sweet sounding\"; it comes from Latin for \"flowing with honey\"",
+     "a": "mellifluous",
+     "right": [],
+     "wrong": [
+      "Lisa"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 3000
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 13,
+     "q": "This man with a mythical name is central to both \"A Portrait of the Artist as a Young Man\" & \"Ulysses\"",
+     "a": "Stephen Dedalus",
+     "right": [
+      "Dave"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 9,
+     "q": "TJ for short, this unit of measurement for energy consumption is based on a million million",
+     "a": "a terajoule",
+     "right": [
+      "Dave"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "ISLANDS OF EUROPE",
+  "q": "In February 1793 the French were repulsed in an attack on this island from one just north that they controlled",
+  "a": "Sardinia",
+  "right": [],
+  "wrong": [
+   "Lisa",
+   "Dave",
+   "Bill"
+  ]
+ },
+ "gameId": "9065",
+ "cat_notes": {
+  "J": [
+   "Clues about Geography.",
+   "Clues about Mortal Matters.",
+   "Clues about Big Words.",
+   "Clues about Miscellany.",
+   "You'll name the league that each teams plays in.",
+   "Clues about Those Etruscan Darners."
+  ],
+  "DJ": [
+   "Clues about That's All History.",
+   "Clues about A Flock of Doves.",
+   "Clues about Alliterative Movie Titles.",
+   "Each answer contains the letter group “LL”.",
+   "Clues about Main Character.",
+   "Clues about Energy."
+  ],
+  "F": "Clues about Islands of Europe."
+ }
+}

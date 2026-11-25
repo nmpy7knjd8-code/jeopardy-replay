@@ -1,0 +1,981 @@
+{
+ "show": "#9166",
+ "aired": "2024-09-23",
+ "note": "David Erb game 1.",
+ "contestants": [
+  {
+   "name": "Dana Schwartz",
+   "bio": "a writer from Los Angeles, California",
+   "short": "Dana"
+  },
+  {
+   "name": "David Erb",
+   "bio": "a puzzle designer from Seattle, Washington",
+   "short": "David"
+  },
+  {
+   "name": "Jen Feldman",
+   "bio": "a high school teacher from Brooklyn, New York (whose 2-day cash winnings total $27,850)",
+   "short": "Jen"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Jen": 4400,
+   "David": 5000,
+   "Dana": 4400
+  },
+  "DJ": {
+   "Jen": 8800,
+   "David": 30000,
+   "Dana": 6400
+  },
+  "Final": {
+   "Jen": 4799,
+   "David": 17655,
+   "Dana": 1400
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "STRINGING YOU ALONG",
+    "4 TIMES THE FUN",
+    "KEY OR PEELE",
+    "\"ETTE\" TU",
+    "WHODUNIT?",
+    "MAGAZINES' FIRST COVERS"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 27,
+     "q": "It's the official state modern musical instrument of Hawaii breezing into your life here",
+     "a": "a ukulele",
+     "right": [
+      "Jen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 26,
+     "q": "The states that meet at the \"Four Corners\" are Arizona, Colorado, Utah & this one",
+     "a": "New Mexico",
+     "right": [
+      "Jen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 18,
+     "q": "On his \"History of Sketch Comedy\" podcast, Key said his dad's laughter at this SNL comic as Stevie Wonder was career-inspiring",
+     "a": "Eddie Murphy",
+     "right": [
+      "David"
+     ],
+     "wrong": [
+      "Dana"
+     ],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 29,
+     "q": "Think back--it's the \"VC\" in VCR",
+     "a": "video cassette",
+     "right": [
+      "David"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 28,
+     "q": "\"Sleeping Murder: Miss Marple's Last Case\"",
+     "a": "Agatha Christie",
+     "right": [
+      "Jen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 30,
+     "q": "In 1977 he starred in \"Slap Shot\" & graced the cover of the first issue of US magazine in a story about his auto racing career",
+     "a": "Paul Newman",
+     "right": [
+      "David"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 23,
+     "q": "The Rolling Stones' Brian Jones took up this instrument but you're just hearing the instrument & not Brian, Mick & co.",
+     "a": "a sitar",
+     "right": [
+      "Jen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 25,
+     "q": "In Norse mythology, Austri, Vestri, Nordri & Sudri are 4 of these diminutive beings who hold up the celestial skull of Ymir",
+     "a": "dwarves",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 13,
+     "q": "Keegan-Michael Key narrated this series based on a Seuss story that included episodes titled \"Here\", \"There\" & Anywhere\"",
+     "a": "Green Eggs and Ham",
+     "right": [],
+     "wrong": [
+      "David"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 5,
+     "q": "Your basic salad dressing, it's made with just 2 main ingredients plus seasonings",
+     "a": "vinaigrette",
+     "right": [
+      "Jen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 4,
+     "q": "\"Detective Cross\", on the job",
+     "a": "James Patterson",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 9,
+     "q": "Spin magazine debuted in 1985 with a cover pic of this \"Material Girl\" by Herb Ritts, who shot many of her covers",
+     "a": "Madonna",
+     "right": [
+      "Dana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 20,
+     "q": "\"Let me hear\" this Russian folk instrument \"ringing out\"",
+     "a": "a balalaika",
+     "right": [
+      "David"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 16,
+     "q": "It's the oldest of tennis' 4 grand slam tournaments & the only one played on grass",
+     "a": "Wimbledon",
+     "right": [
+      "Dana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 14,
+     "q": "Jordan Peele was nominated for an Oscar in 2019 for producing this Spike Lee film about an undercover cop",
+     "a": "BlacKkKlansman",
+     "right": [
+      "Dana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 7,
+     "q": "When introduced by Chevy in 1953, it came in white only with a red interior",
+     "a": "Corvette",
+     "right": [
+      "Jen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 3,
+     "q": "\"Devil in a Blue Dress\", an Easy Rawlins mystery",
+     "a": "Mosley",
+     "right": [
+      "Jen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 10,
+     "q": "The first issue of this magazine in 1953 had Marilyn Monroe in black & white on the cover & a much more famous color photo inside",
+     "a": "Playboy",
+     "right": [
+      "David"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 21,
+     "q": "Greece is the word for this long-necked, plucked instrument with a round, wooden body",
+     "a": "the bouzouki",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": true,
+     "order": 19,
+     "q": "Feudal Japanese society was divided into 4 distinct classes: merchants, artisans, farmers & these warriors",
+     "a": "samurai",
+     "right": [
+      "David"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2000
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 15,
+     "q": "In 2017 Keegan made his Broadway debut opposite Amy Schumer in \"Meteor Shower\", a comedy by this man, a \"wild & crazy guy\" himself once",
+     "a": "Steve Martin",
+     "right": [
+      "David"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 6,
+     "q": "Fantoccini are these controlled by wires, or a show using them",
+     "a": "marionettes",
+     "right": [
+      "David"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 1,
+     "q": "It all came down to this. \"The lady in the lake\", I said. I lit a cigarette, & waited for the question I knew was coming",
+     "a": "Chandler",
+     "right": [
+      "Jen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 11,
+     "q": "This magazine debuted in 1997 with Christa Miller as its first alluring cover woman",
+     "a": "Maxim",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 22,
+     "q": "The petticoat-melting instrument of the Renaissance, it went into a decline but was revived by later string players",
+     "a": "a lute",
+     "right": [
+      "Dana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 24,
+     "q": "It's the smallest in area & in population of the 4 countries that make up the United Kingdom",
+     "a": "Northern Ireland",
+     "right": [
+      "Dana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 17,
+     "q": "Jordan Peele's characters on this \"magazine\" sketch show included Killbrain the Fury & the Game (in an ad for Post-It Notes)",
+     "a": "Mad TV",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 8,
+     "q": "Amy Vanderbilt, author of a \"Complete Book of\" this, has been called \"the successor to Emily Post\"",
+     "a": "Etiquette",
+     "right": [
+      "Jen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 2,
+     "q": "\"The Brass Verdict\": Mickey Haller & Harry Bosch continue to find Hollywood is just murder",
+     "a": "Michael Connelly",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 12,
+     "q": "Time's first cover in 1923 featured Joe Cannon, who was retiring from the House of Reps after 46 years, 8 in this role",
+     "a": "Speaker of the House",
+     "right": [
+      "Dana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "I SERVED IN 2 PRESIDENTS' CABINETS",
+    "8-LETTER WORDS",
+    "PHYSICAL SCIENCE",
+    "TIME TO BUY SOME STUFF",
+    "FORMER CAPITALS",
+    "OSCAR, MEET TONY"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 18,
+     "q": "A known known, he was definitely Sec Def under Republican presidents in the 20th & 21st centuries",
+     "a": "Rumsfeld",
+     "right": [
+      "David"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 17,
+     "q": "Scientifically, a prism separates white light into the colors of this",
+     "a": "the spectrum",
+     "right": [],
+     "wrong": [
+      "Dana"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 12,
+     "q": "Despite repulsive electrical forces, atomic nuclei keep it together thanks to the force described with this adjective",
+     "a": "the strong force",
+     "right": [
+      "David"
+     ],
+     "wrong": [
+      "Dana"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 28,
+     "q": "In 1803 we liked the neighborhood & the square footage (530 million acres), so the U.S. paid $15 million to make this real estate deal",
+     "a": "the Louisiana Purchase",
+     "right": [
+      "David"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 24,
+     "q": "To commemorate the 200th anniversary of the Constitution, in 1987 Congress met in this former national capital",
+     "a": "Philadelphia",
+     "right": [
+      "Dana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 8,
+     "q": "A 1952 Tony & 1956 Oscar went to Yul Brynner for playing the monarch in this beloved musical",
+     "a": "The King and I",
+     "right": [
+      "Dana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 19,
+     "q": "Before William Rogers was Nixon's secretary of state, he was attorney general in this administration Nixon was also part of",
+     "a": "the Eisenhower administration",
+     "right": [
+      "David"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 16,
+     "q": "Toxic bacterial poisoning, often from improperly canned foods",
+     "a": "botulism",
+     "right": [
+      "David"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": true,
+     "order": 11,
+     "q": "Pascal's law says in fluid in a closed container, a change in this goes without loss to every part; Pascal tested it with a full barrel",
+     "a": "pressure",
+     "right": [
+      "David"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 8000
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 10,
+     "q": "Don't get those knickers in a twist! In 2015 the royal undies of Elizabeth II's great-great grandma, this woman, fetched $16,000",
+     "a": "Victoria",
+     "right": [
+      "David"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 23,
+     "q": "In 1284 a parliament began meeting at Moot Hill in Scone; in 1452, it moved to this city",
+     "a": "Edinburgh",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 1,
+     "q": "Joel Grey welcomed both Tony & Oscar for playing the \"Cabaret\" character who went by this job description",
+     "a": "the MC (Master of Ceremonies)",
+     "right": [
+      "Dana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 20,
+     "q": "Seen here, she did hard labor in 2001 & motored over to Transportation in 2017",
+     "a": "(Elaine) Chao",
+     "right": [
+      "Dana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 14,
+     "q": "A storymaker like Aesop, or just a liar",
+     "a": "a fabulist",
+     "right": [
+      "David"
+     ],
+     "wrong": [
+      "Dana"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 7,
+     "q": "Term for a process with no assistance like gas expanding into a vacuum, or for one who does crazy things on the spur of the moment",
+     "a": "spontaneous",
+     "right": [
+      "Dana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 21,
+     "q": "The Martin D18E guitar that this late frontman used on \"MTV Unplugged\" was bought in 2020 for $6 million",
+     "a": "Cobain",
+     "right": [
+      "Jen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": true,
+     "order": 4,
+     "q": "Busan replaced this city as a national capital from 1950 to 1953",
+     "a": "Seoul",
+     "right": [
+      "David"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 5000
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 2,
+     "q": "Anne Bancroft scored a Tony & an Oscar for playing her in \"The Miracle Worker\"",
+     "a": "(Annie) Sullivan",
+     "right": [
+      "Jen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 29,
+     "q": "By George, he was Nixon's man at Treasury as well as Labor & Reagan's at State",
+     "a": "George Shultz",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 13,
+     "q": "A rêverie du jour",
+     "a": "a daydream",
+     "right": [
+      "David"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 6,
+     "q": "Rusting & photosynthesis are basic examples of these reactions, a word combining oxidation & reduction",
+     "a": "redox reactions",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 25,
+     "q": "In 2016 the Antimagnetique ref 4113 watch from this Geneva-based company timed out & went for $2.5 million",
+     "a": "a Rolex",
+     "right": [],
+     "wrong": [
+      "David"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 22,
+     "q": "In 1991 newly built Abuja took the capital status from this much larger city to its northeast",
+     "a": "Lagos",
+     "right": [
+      "David"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 3,
+     "q": "2 decades after winning an Oscar, Lila Kedrova got a 1984 Tony for the same role in this play, without \"the Greek\" in the title",
+     "a": "Zorba",
+     "right": [
+      "David"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 30,
+     "q": "Or 3: James Schlesinger was Defense Secy. for Nixon & Ford & Carter named him the first secy. of this new department",
+     "a": "the Department of Energy",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 15,
+     "q": "With the same first 4 letters as a word for a lack of knowledge, it means personal humiliation",
+     "a": "ignominy",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 5,
+     "q": "Used in optics at least since Newton, this word with \"err\" within it refers to the failure of rays to come to a focus",
+     "a": "aberration",
+     "right": [
+      "David"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 26,
+     "q": "Let's have a side of this British painter; his \"Three Studies of Lucian Freud\" fetched $142 million",
+     "a": "Bacon",
+     "right": [
+      "Jen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 27,
+     "q": "This European city has only been a national capital since the 1250s; before that, you visited the King in Coimbra or Guimarães",
+     "a": "Lisbon",
+     "right": [
+      "David"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 9,
+     "q": "Jose Ferrer got the inaugural Best Actor Tony in 1947 & an Oscar in 1951 for playing this swashbuckling character",
+     "a": "Cyrano de Bergerac",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "19th CENTURY AMERICANS",
+  "q": "Among those who attended his 1864 funeral were Ralph Waldo Emerson, Bronson Alcott & Franklin Pierce",
+  "a": "Nathaniel Hawthorne",
+  "right": [],
+  "wrong": [
+   "Dana",
+   "Jen",
+   "David"
+  ]
+ },
+ "gameId": "9010",
+ "cat_notes": {
+  "J": [
+   "The category “STRINGING YOU ALONG” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "Clues about 4 Times the Fun.",
+   "Clues about Key or Peele.",
+   "Each answer contains the letter group “ETTE”.",
+   "You'll name the mystery's author.",
+   "Clues about Magazines First Covers."
+  ],
+  "DJ": [
+   "The category “I SERVED IN 2 PRESIDENTS' CABINETS” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "Each answer is a 8-letter word.",
+   "Clues about Physical Science.",
+   "Clues about Time to Buy Some Stuff.",
+   "Clues about Former Capitals.",
+   "Clues about OSCAR Meet Tony."
+  ],
+  "F": "Clues about 19th Century Americans."
+ }
+}

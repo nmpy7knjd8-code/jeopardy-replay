@@ -1,0 +1,998 @@
+{
+ "show": "#9368",
+ "aired": "2025-07-02",
+ "note": "",
+ "contestants": [
+  {
+   "name": "Jeff Foels",
+   "bio": "a stay-at-home dad from Minneapolis, Minnesota",
+   "short": "Jeff"
+  },
+  {
+   "name": "Stephanie Yang",
+   "bio": "a children's book designer from Queens, New York",
+   "short": "Stephanie"
+  },
+  {
+   "name": "Jason Singer",
+   "bio": "a real estate agent from Portland, Maine (whose 1-day cash winnings total $22,401)",
+   "short": "Jason"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Jason": 4800,
+   "Stephanie": 4800,
+   "Jeff": 6000
+  },
+  "DJ": {
+   "Jason": 13200,
+   "Stephanie": 4800,
+   "Jeff": 13200
+  },
+  "Final": {
+   "Jason": 26400,
+   "Stephanie": 4800,
+   "Jeff": 16799
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "COUNTRIES BY TRAVEL ITINERARY",
+    "BUT FIRST, COFFEE",
+    "CELEBRITIES",
+    "E BEFORE I",
+    "ISN'T IT ICONIC?",
+    "DON'T YOU THINK?"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 29,
+     "q": "Bumper cars at Tivoli Gardens;\na visit to Hans Christian Andersen's childhood home",
+     "a": "Denmark",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [
+      "Stephanie"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 23,
+     "q": "Don't tell Juan Valdez but this S. American country is the top producer of coffee, once accounting for 80% of total production",
+     "a": "Brazil",
+     "right": [],
+     "wrong": [
+      "Jeff"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 10,
+     "q": "He was Fred Friendly in the film of \"Good Night, and Good Luck.\", but made his Broadway debut as Edward R. Murrow in the stage adaptation",
+     "a": "George Clooney",
+     "right": [],
+     "wrong": [
+      "Jason"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 25,
+     "q": "It can refer to the altitude of the lowest layer of clouds, or the upper surface of a room",
+     "a": "a ceiling",
+     "right": [
+      "Jeff"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 27,
+     "q": "In 2017 this iconic store in New York City opened the Blue Box Cafe, where, yes, you could get breakfast",
+     "a": "Tiffany's",
+     "right": [
+      "Stephanie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 28,
+     "q": "Confucius said an \"honorable and upright man... allows no\" these utensils on his table",
+     "a": "knives",
+     "right": [
+      "Jeff"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 30,
+     "q": "Visit the Battambang Bat Caves;\nhike the ruins of Phnom Bok",
+     "a": "Cambodia",
+     "right": [
+      "Jeff"
+     ],
+     "wrong": [
+      "Jason"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 15,
+     "q": "This insurance company began as a coffeehouse on the Thames",
+     "a": "Lloyd's of London",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 6,
+     "q": "She met future husband John Legend in 2006 on the set of the video for his song \"Stereo\"",
+     "a": "Chrissy Teigen",
+     "right": [
+      "Stephanie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 26,
+     "q": "Comet or Vixen in a popular holiday poem",
+     "a": "reindeer",
+     "right": [
+      "Stephanie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 11,
+     "q": "Volkswagen described this iconic model as \"a classic that keeps up with the times\"",
+     "a": "the Beetle",
+     "right": [
+      "Jeff"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 21,
+     "q": "Machiavelli, in this political treatise: \"One may note that men must be either pampered or annihilated\"",
+     "a": "The Prince",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 5,
+     "q": "Surfing at Bondi Beach;\nchoreographed drone light show over Uluru",
+     "a": "Australia",
+     "right": [
+      "Stephanie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 4,
+     "q": "It's the Italian name for an espresso spotted or \"marked\" with a small amount of milk",
+     "a": "macchiato",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 3,
+     "q": "She appeared with her husband in \"Sleepless in Seattle\" & has more recently taken up a singing career",
+     "a": "Rita Wilson",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 8,
+     "q": "This island is the largest in a wine-producing archipelago off Africa, a possession of Portugal",
+     "a": "Madeira",
+     "right": [
+      "Jeff"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 12,
+     "q": "One of \"Harper Bazaar\"'s 50 Most Iconic Looks, the 1956 wedding dress of this woman, whose job title changed, actress to princess",
+     "a": "Grace Kelly",
+     "right": [
+      "Stephanie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 20,
+     "q": "In 1840s Copenhagen he thought up his dissertation \"On the Concept of Irony with Continual Reference to Socrates\"",
+     "a": "Kierkegaard",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 2,
+     "q": "Explore Mayan ruins at Xunantunich;\ndive the Great Blue Hole",
+     "a": "Belize",
+     "right": [
+      "Jeff"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 22,
+     "q": "Ersatz coffee made from the roasted root of this plant is a staple in New Orleans",
+     "a": "chicory",
+     "right": [
+      "Jeff"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 7,
+     "q": "The son of a Hollywood star, this 3-named actor starred in \"Tenet\" & \"BlacKkKlansman\"",
+     "a": "John David Washington",
+     "right": [
+      "Jeff"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 9,
+     "q": "A military distraction from the real point of an attack, it sounds like you're about to swoon",
+     "a": "a feint",
+     "right": [
+      "Stephanie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": true,
+     "order": 13,
+     "q": "Britannica noted the image of this man who died in Bolivia in 1967 \"became an icon of leftist radicalism and anti-imperialism\"",
+     "a": "\"Che\" Guevara",
+     "right": [
+      "Stephanie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1000
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 19,
+     "q": "\"I think, therefore I am\", thought Descartes, but put on your own thinking cap & give us this Latin translation for the phrase",
+     "a": "Cogito, ergo sum",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 1,
+     "q": "Rain Room building in Sharjah;\nSheikh Zayed Grand Mosque;\nsunset photos at Burj Khalifa observation deck",
+     "a": "the UAE",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 24,
+     "q": "Kopi luwak is an expensive coffee from Indonesia that has passed through this cat-like animal",
+     "a": "a civet cat",
+     "right": [
+      "Jeff"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 14,
+     "q": "This singer played Petty Officer Weps in the film adaptation of the classic game Battleship",
+     "a": "Rihanna",
+     "right": [
+      "Stephanie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 18,
+     "q": "Lasting until about 12,000 years ago, this epoch was marked by the advent of modern humans & the extinction of many large mammals",
+     "a": "the Pleistocene",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 17,
+     "q": "San Francisco's Pier 39 is part of this iconic area that's not called a pier but something similar",
+     "a": "Fisherman's Wharf",
+     "right": [
+      "Jeff"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 16,
+     "q": "In a pairing later echoed in a Sartre title, Hegel contrasted this & nothing, though he also said this is nothing",
+     "a": "being",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "NATIONAL MEMORIALS",
+    "TELEVISION",
+    "SHAKESPEARE'S OPENING LINES",
+    "OVERLAPS",
+    "-OLOGY",
+    "HISTORICAL SHARK TANK"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 22,
+     "q": "This president's memorial on the Capital Mall has a steel tapestry representing Pointe du Hoc, a D-Day assault site",
+     "a": "Eisenhower",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 30,
+     "q": "Jodie Comer slayed as Villanelle opposite Sandra Oh in this BBC America thriller",
+     "a": "Killing Eve",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 11,
+     "q": "In this play the first witch has the first line: \"When shall we three meet again?\"",
+     "a": "Macbeth",
+     "right": [
+      "Jeff"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 29,
+     "q": "Being fully open & honest when it comes to the state of being moms & dads, like the Bravermans on TV",
+     "a": "transParenthood",
+     "right": [],
+     "wrong": [
+      "Jason"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 28,
+     "q": "Aka graphology, analyzing this, whether cursive or print, can tell you a lot about people",
+     "a": "handwriting",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "Philo Farnsworth could convince Mark Cuban to invest in this electronic medium that can beam Mavs games into anyone's home",
+     "a": "television",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 23,
+     "q": "Sculptor Gutzon Borglum hoped this memorial would last \"until the wind and the rain alone shall wear them away\"",
+     "a": "Mount Rushmore",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 6,
+     "q": "This HBO series starred Issa Rae as Issa Dee, living in South Los Angeles",
+     "a": "Insecure",
+     "right": [
+      "Stephanie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 10,
+     "q": "This comedy opens with Theseus saying, \"Now, fair Hippolyta, our nuptial hour draws on apace\"",
+     "a": "A Midsummer Night's Dream",
+     "right": [
+      "Stephanie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 25,
+     "q": "Cave explorer's neckwear",
+     "a": "spelunkerchief",
+     "right": [
+      "Jeff"
+     ],
+     "wrong": [
+      "Jason"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 17,
+     "q": "Logically, one of these is used as the symbol of each biennial International Congress of Vexillology",
+     "a": "a flag",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 26,
+     "q": "Robert Herjavec doesn't care what Edison says, he believes in this fellow Balkan-born inventor & his A.C. system",
+     "a": "Tesla",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 3,
+     "q": "2025 marks 30 years since the horrific bombing remembered at the national memorial in this city",
+     "a": "Oklahoma City",
+     "right": [
+      "Jeff"
+     ],
+     "wrong": [
+      "Jason"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 5,
+     "q": "This Canadian chef turned actor plays Neil Fak on \"The Bear\"",
+     "a": "Matty Matheson",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 8,
+     "q": "You get both title guys in this comedy as Valentine tells \"my loving Proteus: home-keeping youth have ever homely wits\"",
+     "a": "Two Gentlemen of Verona",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 24,
+     "q": "A wealthy widow who financially supports a university",
+     "a": "endowager",
+     "right": [],
+     "wrong": [
+      "Stephanie"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": true,
+     "order": 13,
+     "q": "Dating from the early 20th century, this 2-word phrase refers to a suggestion intended to get someone to do the opposite",
+     "a": "reverse psychology",
+     "right": [
+      "Jeff"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 4000
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 15,
+     "q": "Get in on Otto Rohwedder's machine for making this food product; it's so amazing, it will be the benchmark for anything great",
+     "a": "sliced bread",
+     "right": [
+      "Jeff"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 2,
+     "q": "The Pennsylvania memorial to this 1889 event features the remains of South Fork Dam, which burst & caused the deaths of 2,209",
+     "a": "the Johnstown Flood",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 4,
+     "q": "This Nick Kroll coming-of-age animated series uses the apt \"Changes\" by Charles Bradley as its theme song",
+     "a": "Big Mouth",
+     "right": [
+      "Stephanie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 9,
+     "q": "Egeon, a merchant from Syracuse, speaks the first line in this comedy",
+     "a": "The Comedy of Errors",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 21,
+     "q": "Mythological box opener who becomes a large-scale religious work for orchestra",
+     "a": "Pandoratorio",
+     "right": [
+      "Jeff"
+     ],
+     "wrong": [
+      "Jason"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 12,
+     "q": "The modern history of this -ology dates to a vast book published by French scholars accompanying Napoleon",
+     "a": "Egyptology",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 14,
+     "q": "Mr. Wonderful will invest in Elizabeth Magie Phillips' \"Landlord's Game\"... if she'll rename it this, nice to have in business",
+     "a": "Monopoly",
+     "right": [],
+     "wrong": [
+      "Jeff"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 4000
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 1,
+     "q": "A 60-foot granite monument atop this hill at the Wright Brothers Memorial marks the place where they did their glider experiments",
+     "a": "Kill Devil",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 7,
+     "q": "Howie Mandel hosted the studio version, but for \"Deal or No Deal Island\", this \"True Blood\" heartthrob stepped in",
+     "a": "Joe Manganiello",
+     "right": [
+      "Jeff"
+     ],
+     "wrong": [
+      "Stephanie"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 19,
+     "q": "Saturninus opens this early play with \"Noble patricians, patrons of my right, defend the justice of my cause with arms\"",
+     "a": "Titus Andronicus",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 20,
+     "q": "The study of an extinct flying reptile's fingerprints",
+     "a": "pterodactylography",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 18,
+     "q": "Boston bike paths are named for Dr. Paul Dudley White, a founder of preventive this -ology",
+     "a": "cardiology",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 16,
+     "q": "The Sharks were excited for Volvo engineer Nils Bohlin's 3-point one of these, until they heard he wanted to give away the patent",
+     "a": "seat belt",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "MEN OF MEDICINE",
+  "q": "He told of a patient who \"took hold of his wife's head, tried to lift it off, to put it on\"",
+  "a": "Oliver Sacks",
+  "right": [
+   "Jeff",
+   "Jason"
+  ],
+  "wrong": [
+   "Stephanie"
+  ]
+ },
+ "gameId": "9245",
+ "cat_notes": {
+  "J": [
+   "Clues about Countries by Travel Itinerary.",
+   "Clues about But First, Coffee.",
+   "Clues about Celebrities.",
+   "The category “E BEFORE I” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "The category “ISN'T IT ICONIC?” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "The category “DON'T YOU THINK?” sets the theme — the clues follow that idea and any wordplay suggested by the title."
+  ],
+  "DJ": [
+   "Clues about National Memorials.",
+   "Clues about Television.",
+   "Clues about Shakespeare's Opening Lines.",
+   "These are overlapping words like NASCARibbean, for example.",
+   "Clues about -ology.",
+   "Clues about Historical Shark Tank."
+  ],
+  "F": "Clues about Men of Medicine."
+ }
+}

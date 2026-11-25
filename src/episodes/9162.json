@@ -1,0 +1,1001 @@
+{
+ "show": "#9306",
+ "aired": "2025-04-07",
+ "note": "Mike Dawson game 2.",
+ "contestants": [
+  {
+   "name": "Taylor Mattox",
+   "bio": "an IT specialist from Columbus, Ohio",
+   "short": "Taylor"
+  },
+  {
+   "name": "Erin Li",
+   "bio": "a psychiatrist from Queens, New York",
+   "short": "Erin"
+  },
+  {
+   "name": "Mike Dawson",
+   "bio": "a technology manager from Portland, Oregon (whose 1-day cash winnings total $21,601)",
+   "short": "Mike"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Mike": 8000,
+   "Erin": 3600,
+   "Taylor": 1800
+  },
+  "DJ": {
+   "Mike": 22000,
+   "Erin": 15000,
+   "Taylor": 3600
+  },
+  "Final": {
+   "Mike": 13999,
+   "Erin": 0,
+   "Taylor": 600
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "NAMELESS IN SHAKESPEARE",
+    "GANG \"WAY\"",
+    "EAR, EAR",
+    "MOVIE TITLE FILL IN THE BLANK",
+    "FINE",
+    "DANDY"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 30,
+     "q": "This irreverent character tells King Lear \"Thou hadst little wit in thy bald crown when thou gav'st thy golden one away\"",
+     "a": "the Fool",
+     "right": [
+      "Erin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 6,
+     "q": "Dutch painter Willem de Kooning came to America aboard a steamship in 1926 as one of these gratis wayfarers",
+     "a": "a stowaway",
+     "right": [
+      "Erin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 29,
+     "q": "Tympanoplasty is a surgery to fix this part of your ear if it becomes perforated",
+     "a": "your eardrum",
+     "right": [
+      "Mike"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 27,
+     "q": "1968:\n\"The ____ Berets\"\n& 2021:\n\"The ____ Knight\"",
+     "a": "Green",
+     "right": [
+      "Erin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 28,
+     "q": "Legally coerced to be a good neighbor, in 2024 this company was there to pay $2 million over unfair claims practices in Montana",
+     "a": "State Farm",
+     "right": [
+      "Mike"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 15,
+     "q": "Sir, saying I look like Mr. Monopoly, the mascot from the game, because I don this headwear--I demand satisfaction!",
+     "a": "a top hat",
+     "right": [
+      "Taylor"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 23,
+     "q": "A companion for Juliet's whole life, she's known by her occupation, but gets to tell us her dead daughter was named Susan",
+     "a": "the nurse",
+     "right": [
+      "Mike"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 8,
+     "q": "An important element of giving CPR is to \"establish\" this in the afflicted person",
+     "a": "an airway",
+     "right": [
+      "Taylor"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 24,
+     "q": "This century-old cotton swab brand should not be used to clear out ear wax--it can damage your ears & push the wax in deeper",
+     "a": "a Q-tip",
+     "right": [
+      "Erin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 26,
+     "q": "\"____ Day Care\"\n&\n\"Big ____\"",
+     "a": "Daddy",
+     "right": [
+      "Mike"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 25,
+     "q": "In 2022, massive mismanagement of auto loans & mortgages had this bank circling its wagons after a $3.7 billion penalty",
+     "a": "Wells Fargo",
+     "right": [
+      "Mike"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 16,
+     "q": "A gentleman always enjoys a good accessory; this two-word beauty accents any blazer & demonstrates good breeding",
+     "a": "a pocket square",
+     "right": [
+      "Mike"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 22,
+     "q": "The boatswain appears in the first scene of this play & again, surprised not to be drowned, in the last",
+     "a": "The Tempest",
+     "right": [
+      "Mike"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 9,
+     "q": "Emma is 8--OK, 7 3/4--a bit clingy, so another summer at day camp? But will this opposite type help her confidence? Parenting is hard!",
+     "a": "sleepaway (camp)",
+     "right": [
+      "Erin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 7,
+     "q": "Low frequencies stimulate the top of the spiral in this inner ear organ that's coiled 2 1/2 times around a central pillar",
+     "a": "the cochlea",
+     "right": [
+      "Taylor"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 5,
+     "q": "\"____ Can Wait\"\n&\n\"My Blue ____\"",
+     "a": "Heaven",
+     "right": [
+      "Taylor"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 12,
+     "q": "\"Credit\" where credit is due--this big-on-secrecy European bank took a $2.5 billion hit for helping Americans evade taxes",
+     "a": "Credit Suisse",
+     "right": [
+      "Mike"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 17,
+     "q": "Though named for a foreign university & not my beloved Mississippi city of the same name, these shoes are simply a must",
+     "a": "Oxfords",
+     "right": [
+      "Erin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 1,
+     "q": "In \"Henry V\" the guy with this job of announcing & proclaiming has a name, Montjoy; in \"Othello\" he's nameless",
+     "a": "a herald",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 10,
+     "q": "This herb of the parsley family is widely grown for its seeds used in flavoring & seasoning",
+     "a": "caraway",
+     "right": [
+      "Erin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 21,
+     "q": "The external part of the ear is called the pinna or this, a homophone of a tech company",
+     "a": "the auricle",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 3,
+     "q": "2017:\n\"The ____ Artist\"\n& 1996:\n\"Flirting with ____\"",
+     "a": "Disaster",
+     "right": [
+      "Mike"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 13,
+     "q": "The company that's now just GSK still had this longer name when it got a $3 billion fine in part for promoting drugs for unapproved uses",
+     "a": "GlaxoSmithKline",
+     "right": [
+      "Erin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 18,
+     "q": "A dandy must dress up down to his eyewear, this style of frame reminiscent of a carapace",
+     "a": "tortoiseshell",
+     "right": [
+      "Erin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": true,
+     "order": 2,
+     "q": "All 5 words of it, it's the most famous line spoken by the soothsayer in \"Julius Caesar\"",
+     "a": "beware the Ides of March",
+     "right": [
+      "Mike"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1000
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 11,
+     "q": "NASCAR's biggest & baddest racetrack, Talladega, Alabama's venue, surely earns its moniker as this type of 13-letter oval",
+     "a": "superspeedway",
+     "right": [
+      "Mike"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 20,
+     "q": "Also called the anvil, this middle ear bone transmits vibrations from the malleus to the stapes",
+     "a": "the incus",
+     "right": [],
+     "wrong": [
+      "Taylor"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 4,
+     "q": "\"Antwone ____\"\n&\n\"The ____ King \"",
+     "a": "Fisher",
+     "right": [
+      "Mike"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 14,
+     "q": "In 2013 this energy co. once run by a pre-veep Dick Cheney paid $200,000 for destroying Deepwater Horizon oil spill evidence",
+     "a": "Halliburton",
+     "right": [
+      "Taylor"
+     ],
+     "wrong": [
+      "Erin"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 19,
+     "q": "This puckered cloth makes for an inimitable summer suit, as worn by the groom in the classic story \"Delta Wedding\"",
+     "a": "seersucker",
+     "right": [
+      "Mike"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "MALICE IN WONDERLAND",
+    "MEDIEVAL HISTORIES",
+    "SCRABBLE SCORES",
+    "HABITATS FOR HUMANITY",
+    "ON THE \"M\"AP",
+    "HER MOM'S A SINGER"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 30,
+     "q": "Not a happy Valentine's Day, 1779 for Captain James Cook, killed by locals in what is now this state",
+     "a": "Hawaii",
+     "right": [
+      "Erin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 29,
+     "q": "Guglielmo Cortusi of Padua is among many European chroniclers who left mournful accounts of this outbreak of 1347-1351",
+     "a": "the Black Plague",
+     "right": [
+      "Mike"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 21,
+     "q": "A 2-letter, 11-point Scrabble killer, \"za\" is accepted as a slangy shortening of this",
+     "a": "pizza",
+     "right": [
+      "Erin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 28,
+     "q": "San Francisco's Steiner Street is home to \"Postcard Row\", an array of houses built in this style named for a queen",
+     "a": "Queen Anne (Victorian)",
+     "right": [
+      "Mike"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 22,
+     "q": "This body of water gets a little saltier as the Suez Canal sends seawater in from the Red Sea",
+     "a": "the Mediterranean",
+     "right": [
+      "Mike"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 26,
+     "q": "Tracee Ellis Ross, who played Rainbow Johnson on \"black-ish\", has this singer as a mom",
+     "a": "Diana Ross",
+     "right": [
+      "Mike"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 18,
+     "q": "In 2007 the 3rd wife of the Earl of Shaftesbury was put on trial for his murder near this cinephile haven on the French Riviera",
+     "a": "Cannes",
+     "right": [
+      "Taylor"
+     ],
+     "wrong": [
+      "Mike"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 19,
+     "q": "The \"Heimskringla\" traces Norwegian kings from this god to Magnus Erlingsson",
+     "a": "Odin",
+     "right": [
+      "Mike"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 27,
+     "q": "No vowels? No problem! You can score 15 points with phpht, & if anyone objects, tell 'em it's this part of speech",
+     "a": "an interjection",
+     "right": [
+      "Erin"
+     ],
+     "wrong": [
+      "Mike"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 20,
+     "q": "A condo means you have a unit in a shared building; this similar common-interest development makes you a shareholder",
+     "a": "a co-op",
+     "right": [
+      "Erin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 1,
+     "q": "This Midwestern capital was named for a president who died in 1836",
+     "a": "Madison",
+     "right": [
+      "Erin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 6,
+     "q": "Lourdes Leon, who released music under the name Lolahol, is the daughter & \"ray of light\" of this singer",
+     "a": "Madonna",
+     "right": [
+      "Erin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 10,
+     "q": "The \"Monte Carlo Trunk Murder\" got an 1879 Wimbledon finalist sentenced to this \"diabolical\" place off South America",
+     "a": "Devil's Island",
+     "right": [
+      "Taylor"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": true,
+     "order": 11,
+     "q": "The \"Chronicon Regum Legionensium\" is the \"Chronicle of\" them--Spanish rulers, not a 21st century rock band",
+     "a": "the Kings of León",
+     "right": [],
+     "wrong": [
+      "Taylor"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 3000
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 25,
+     "q": "You need just 5 letters to score 18 points with this Japanese dumpling",
+     "a": "gyoza",
+     "right": [
+      "Erin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 15,
+     "q": "Saltbox is a variation on this style of house that's common in New England & named for a coastal region there",
+     "a": "Cape Cod",
+     "right": [
+      "Taylor"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 14,
+     "q": "This country occupies 0.75 square miles",
+     "a": "Monaco",
+     "right": [
+      "Mike"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 4,
+     "q": "She set a Guinness world record for youngest individual credited with a Grammy for her work on Beyoncé's \"Brown Skin Girl\"",
+     "a": "Blue Ivy Carter",
+     "right": [
+      "Mike"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 8,
+     "q": "On June 20, 1947 this gangster who helped develop Las Vegas crapped out, killed in a hail of bullets in Beverly Hills",
+     "a": "Bugsy Siegel",
+     "right": [
+      "Mike"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 12,
+     "q": "A 12th century history of this country includes Boleslaw III's wars with the Pomeranians",
+     "a": "Poland",
+     "right": [
+      "Taylor"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 23,
+     "q": "The single most played word in Scrabble tournaments consists of these 2 letters pronounced with a \"ch\" sound",
+     "a": "Q & I",
+     "right": [
+      "Mike"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 16,
+     "q": "The terms \"granny flat\" & \"in-law suite\" have given way to ADU, short for this unit",
+     "a": "an accessory dwelling unit (or additional dwelling unit) (alternative dwelling unit accepted)",
+     "right": [
+      "Mike"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 2,
+     "q": "This Balkan nation is named for the peak seen here",
+     "a": "Montenegro",
+     "right": [
+      "Erin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 5,
+     "q": "In 2023 her daughter Frances Bean Cobain married Riley Hawk, son of Tony",
+     "a": "(Courtney) Love",
+     "right": [
+      "Erin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 9,
+     "q": "In 1929 this notorious man from the Midwest skipped a Miami warrant, claiming pneumonia, but agents found he enjoyed a boat trip",
+     "a": "Al Capone",
+     "right": [
+      "Mike"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 13,
+     "q": "Andrew of Wyntoun's \"Orygynale Cronykil\" of this land includes the tale of \"Thre Werd Systrys\"",
+     "a": "Scotland",
+     "right": [],
+     "wrong": [
+      "Taylor"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 24,
+     "q": "It takes 9 letters, but if you can play this end-of-the-alphabet wine, score 22 points & pour yourself a glass",
+     "a": "zinfandel",
+     "right": [
+      "Mike"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 17,
+     "q": "Alexander Hamilton's home, The Grange, is in this architectural style popular in the U.S. from the 1780s to the 1820s",
+     "a": "Federalist (the Federal style)",
+     "right": [
+      "Taylor"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": true,
+     "order": 3,
+     "q": "Southwest of Sri Lanka is this archipelago of some 1,200 islands, of which 200 are inhabited",
+     "a": "the Maldives",
+     "right": [
+      "Erin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 3000
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 7,
+     "q": "Lola Lennox is a singer just like mom Annie, who sang \"sweet dreams are made of this\" as part of this duo",
+     "a": "the Eurythmics",
+     "right": [
+      "Mike"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "AMERICAN LITERATURE",
+  "q": "His 1821 novel was inspired by stories told to him by John Jay of Jay's experiences with spies during the Revolution",
+  "a": "James Fenimore Cooper",
+  "right": [],
+  "wrong": [
+   "Taylor",
+   "Erin",
+   "Mike"
+  ]
+ },
+ "gameId": "9162",
+ "cat_notes": {
+  "J": [
+   "Clues about Nameless in Shakespeare.",
+   "Each answer ends with “WAY”, and the clues are about Gang.",
+   "Clues about Ear, Ear.",
+   "Clues about Movie Title Fill in the Blank.",
+   "Clues about Fine.",
+   "Clues about Dandy."
+  ],
+  "DJ": [
+   "Clues about Malice in Wonderland.",
+   "Clues about Medieval Histories.",
+   "Clues about Scrabble Scores.",
+   "Clues about Habitats for Humanity.",
+   "Each answer contains the letter “M”, and the clues are about On the Ap.",
+   "Clues about Her Mom's a Singer."
+  ],
+  "F": "Clues about American Literature."
+ }
+}

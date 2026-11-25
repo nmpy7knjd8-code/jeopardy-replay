@@ -1,0 +1,998 @@
+{
+ "show": "#9379",
+ "aired": "2025-07-17",
+ "note": "Scott Riccardi game 11.",
+ "contestants": [
+  {
+   "name": "Marisa Cohen",
+   "bio": "a magazine writer and editor from New York, New York",
+   "short": "Marisa"
+  },
+  {
+   "name": "Chad Biele",
+   "bio": "a public relations professional from Atlanta, Georgia",
+   "short": "Chad"
+  },
+  {
+   "name": "Scott Riccardi",
+   "bio": "an engineer from Somerville, New Jersey (whose 10-day cash winnings total $262,101)",
+   "short": "Scott"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Scott": 12800,
+   "Chad": 1800,
+   "Marisa": 2400
+  },
+  "DJ": {
+   "Scott": 40000,
+   "Chad": -2000,
+   "Marisa": 5200
+  },
+  "Final": {
+   "Scott": 20000,
+   "Chad": -2000,
+   "Marisa": 4488
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "AUNTIE DEFAMATION LEAGUE",
+    "MOVIE TITLES IN ITALIANO",
+    "OH DEAR, THEY DIED",
+    "NOTHING COMPARES 2 U",
+    "THERE'S ALWAYS A TIME",
+    "WHEN YOU MUST STAND FOR SOMETHING"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 21,
+     "q": "In this novel wealthy Aunt March says love in a cottage will fail; Meg retorts that it can't be worse than in a big house",
+     "a": "Little Women",
+     "right": [
+      "Marisa"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 30,
+     "q": "2010:\n\"Mangia\nprega\nama\"",
+     "a": "Eat Pray Love",
+     "right": [
+      "Marisa"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 29,
+     "q": "After plundering along the Carolinas & in the Caribbean, this \"colorful\" pirate got the heads up (& off) on Nov. 22, 1718",
+     "a": "Blackbeard",
+     "right": [
+      "Scott"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 24,
+     "q": "It's a chase with haste, be it \"Trivial\" or not",
+     "a": "pursuit",
+     "right": [
+      "Scott"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 27,
+     "q": "Midday, palindromically",
+     "a": "noon",
+     "right": [
+      "Scott"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 28,
+     "q": "Deceitful advertising will run afoul of the BBB, this organization founded in 1912",
+     "a": "the Better Business Bureau",
+     "right": [
+      "Scott"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 20,
+     "q": "In a 1900 book she shows cowardice climbing into a cellar ahead of her niece to avoid a cyclone",
+     "a": "Auntie Em",
+     "right": [
+      "Marisa"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 15,
+     "q": "1972:\n\"Il padrino\"",
+     "a": "The Godfather",
+     "right": [
+      "Scott"
+     ],
+     "wrong": [
+      "Marisa"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 22,
+     "q": "Reports about this Shoshone woman vary greatly; some say she blazed a new path in 1812 but others have her gone in her 90s in 1884",
+     "a": "Sacagawea",
+     "right": [
+      "Scott"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 23,
+     "q": "From the flight deck... sorry, folks, we're experiencing some this, a synonym for turmoil or tumult that also begins with T",
+     "a": "turbulence",
+     "right": [
+      "Marisa"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 25,
+     "q": "This term for facial stubble first sprouted in a 1930s magazine ad",
+     "a": "five o'clock shadow",
+     "right": [
+      "Chad"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 26,
+     "q": "Elmo thinks Elmo should rebrand! In 2000 the CTW, this group, became the Sesame Workshop",
+     "a": "the Children's Television Workshop",
+     "right": [
+      "Scott"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 17,
+     "q": "Is it really a good idea to entrust an orphaned Patrick Dennis to this madcap Manhattan socialite known for homemade gin?",
+     "a": "Auntie Mame",
+     "right": [
+      "Marisa"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 13,
+     "q": "2003:\n\"Sotto il sole Della Toscana\"",
+     "a": "Under the Tuscan Sun",
+     "right": [
+      "Scott"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 1,
+     "q": "& had some help! In 43 B.C. the head & hands of this orator were placed on the speakers' platform at the Forum",
+     "a": "Cicero",
+     "right": [
+      "Scott"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 7,
+     "q": "Differential is one type of this branch of math",
+     "a": "calculus",
+     "right": [
+      "Scott"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 4,
+     "q": "In 1965 James Leo Herlihy published this book about non-sportscaster Joe Buck, new to New York City",
+     "a": "Midnight Cowboy",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 10,
+     "q": "An ACL injury involves the anterior cruciate ligament, but there are also injuries to the MCL, this collateral ligament",
+     "a": "medial",
+     "right": [
+      "Chad"
+     ],
+     "wrong": [
+      "Scott"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 18,
+     "q": "Sure, Tom Sawyer is a \"mischeevous\" lad, but does this aunt really need to whack him on the skull with a thimble?",
+     "a": "Aunt Polly",
+     "right": [
+      "Scott"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 12,
+     "q": "1969: \"Un colpo all'italiana\"\n(the 2003 remake used the English title)",
+     "a": "The Italian Job",
+     "right": [
+      "Scott"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 2,
+     "q": "She went beyond the help of the American Red Cross on April 12, 1912, a few days before the Titanic went down",
+     "a": "Barton",
+     "right": [
+      "Scott"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 8,
+     "q": "A castrato is one of these, a man lacking a certain something",
+     "a": "a eunuch",
+     "right": [
+      "Scott"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": true,
+     "order": 5,
+     "q": "The name of a chain known until 1946 as Tote'm Stores reflected these new opening & closing times of day",
+     "a": "7-Eleven",
+     "right": [
+      "Scott"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2400
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 14,
+     "q": "In addition to battling booze, the WCTU, short for Women's Christian this, fought for voting rights & prison reform",
+     "a": "Temperance Union",
+     "right": [
+      "Chad"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 19,
+     "q": "Lady Catherine wants to know if this nephew has proposed to Elizabeth Bennet, who says the talk is frivolous & ill-judged; oh snap!",
+     "a": "Mr. Darcy",
+     "right": [
+      "Marisa"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 11,
+     "q": "2017:\n\"Chiamami col tuo nome\"",
+     "a": "Call Me by Your Name",
+     "right": [
+      "Scott"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 3,
+     "q": "The \"survived\" in a memorable rhyme, she only survived her hazardous husband by just under 2 years",
+     "a": "(Catherine) Parr",
+     "right": [
+      "Scott"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 9,
+     "q": "It's the type of conveyance seen here",
+     "a": "a funicular",
+     "right": [
+      "Scott"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 6,
+     "q": "Good afternoon, Mirabilis jalapa are commonly known as these timely flowers because they don't open until late in the day",
+     "a": "four o'clocks",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 16,
+     "q": "Part of the Justice Department, what's known as the ATF is really the Bureau of ATF & E, short for this",
+     "a": "Alcohol, Tobacco, Firearms & Explosives",
+     "right": [
+      "Scott"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "A HOTEL MOST UNUSUAL",
+    "BRITISHISMS",
+    "OPERA CHARACTERS",
+    "FABRICS & MATERIALS",
+    "A DOSE OF MATH",
+    "\"N\"TERTAINMENT"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 29,
+     "q": "This country's Taj Lake Palace Hotel appears to float atop Lake Pichola; in \"Octopussy\", Bond checked in by hiding in a fake crocodile",
+     "a": "India",
+     "right": [
+      "Scott"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 26,
+     "q": "When part of Hogwarts becomes a swamp, Filch punts students across; he doesn't kick them, he uses a pole to pilot one of these",
+     "a": "a boat",
+     "right": [
+      "Marisa"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 30,
+     "q": "Early on in a 1787 opera, Leporello, servant to this rake, plays lookout as his master seduces Donna Anna",
+     "a": "Don Giovanni",
+     "right": [
+      "Scott"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 24,
+     "q": "Though the name comes from French for Swedish gloves, this material also makes great shoes",
+     "a": "suede",
+     "right": [
+      "Scott"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 14,
+     "q": "It can mean either the bottom side of a geometric figure or a number that gets multiplied by an exponent",
+     "a": "a base",
+     "right": [
+      "Scott"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "This \"JAG\" spinoff boasts 22 seasons & 6 spinoffs of its own, including versions set in Hawaii & Sydney",
+     "a": "NCIS",
+     "right": [
+      "Scott"
+     ],
+     "wrong": [
+      "Marisa"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 28,
+     "q": "A Boeing 727 salvaged from San Jose is now a luxury suite perched above the tree canopy in this country's Hotel Costa Verde",
+     "a": "Costa Rica",
+     "right": [
+      "Chad"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 25,
+     "q": "The Brits call this traffic control tool a sleeping policeman",
+     "a": "a speed bump",
+     "right": [
+      "Marisa"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 22,
+     "q": "The Nibelung are a race of these enslaved by Alberich, who uses them to find gold",
+     "a": "dwarves",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 23,
+     "q": "Don Freeman gave this fabric name to the stuffed bear in his classic kids' book because it was the nickname for his own son Roy",
+     "a": "corduroy",
+     "right": [
+      "Marisa"
+     ],
+     "wrong": [
+      "Scott"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 13,
+     "q": "In a data set, the median is the middle value, the mode is the most frequently appearing value & this is the average of all the values",
+     "a": "the mean",
+     "right": [
+      "Scott"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 3,
+     "q": "It's the song that immediately precedes the horror & shame of realizing you've been Rickrolled",
+     "a": "\"Never Gonna Give You Up\"",
+     "right": [
+      "Scott"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 18,
+     "q": "Tired of amenities? Book a \"sweat-box\" cell at the prison castle in Tobolsk, Russia, where this author of \"The Idiot\" once did time",
+     "a": "Dostoyevsky",
+     "right": [
+      "Scott"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 9,
+     "q": "Skive can mean to skip these 2 things, the middle 2 in a 4-part song title by The Godfathers; you can't skive the other 2",
+     "a": "school & work",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 4,
+     "q": "First name Floria, she's a singer whose boyfriend Mario is painting a portrait of Mary Magdalene in a Puccini opera",
+     "a": "Tosca",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 15,
+     "q": "Though angora goats also produce wool called mohair, the yarn called angora comes from this other animal",
+     "a": "a rabbit",
+     "right": [
+      "Scott"
+     ],
+     "wrong": [
+      "Chad"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 10,
+     "q": "The circles here are this, meaning sharing the same central point",
+     "a": "concentric",
+     "right": [
+      "Scott"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 2,
+     "q": "Conan O'Brien wants to hang out! this phrase follows his name in the title of the podcast team Coco launched in 2018",
+     "a": "Needs a Friend",
+     "right": [
+      "Marisa"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 19,
+     "q": "Temps hover below freezing in this country's Icehotel built anew each year with ice harvested from the Torne, its northernmost river",
+     "a": "Sweden",
+     "right": [],
+     "wrong": [
+      "Chad"
+     ],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 1,
+     "q": "This phrase meaning have a chat features a facial movement, but to the Welsh it means their cup is empty",
+     "a": "a chin wag",
+     "right": [],
+     "wrong": [
+      "Chad"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1800
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 5,
+     "q": "Henry Kissinger & Zhou Enlai are surprisingly melodic in this John Adams opera from 1987",
+     "a": "Nixon in China",
+     "right": [
+      "Scott"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 4000
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 16,
+     "q": "The waterproof wool fabric Gabardine was invented by this man whose eponymous company is known for its raincoat",
+     "a": "Burberry",
+     "right": [
+      "Scott"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 11,
+     "q": "A polygon with 10 sides is one of these",
+     "a": "a decagon",
+     "right": [
+      "Scott"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 7,
+     "q": "One of Netflix' biggest hits is this spy thriller about an FBI agent who works a secret phone line at the White House",
+     "a": "The Night Agent",
+     "right": [
+      "Scott"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 20,
+     "q": "Literally sleep with the fishes--Conrad's all-glass undersea Muraka suite is just four hours by speedboat from this Maldives capital city",
+     "a": "Malé",
+     "right": [
+      "Scott"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 21,
+     "q": "Polar opposites are called these 2 \"CH\" words, one a writing implement & the other, a dairy product",
+     "a": "chalk & cheese",
+     "right": [
+      "Scott"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 6,
+     "q": "The daughter of this Verdi jester, Gilda is the subject of a kidnapping plot",
+     "a": "Rigoletto",
+     "right": [
+      "Scott"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 17,
+     "q": "The light cotton plaid fabric madras was so named because it was originally produced in Madras, now called this",
+     "a": "Chennai",
+     "right": [
+      "Scott"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 12,
+     "q": "This property of addition says that\n2 + 3 = 3 + 2",
+     "a": "the commutative property",
+     "right": [
+      "Scott"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 8,
+     "q": "Director RaMell Ross asked himself, \"How do you... film from the perspective of a Black person?\" when shooting this 2025 Best Picture nominee",
+     "a": "Nickel Boys",
+     "right": [
+      "Scott"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "AMERICAN NOVELS",
+  "q": "A critic described this novel as \"A man from down South sitting in a manhole up north... & signifying about how he got there\"",
+  "a": "Invisible Man",
+  "right": [],
+  "wrong": [
+   "Marisa",
+   "Scott"
+  ]
+ },
+ "gameId": "9256",
+ "cat_notes": {
+  "J": [
+   "Clues about Auntie Defamation League.",
+   "You'll give us the American title.",
+   "The category “OH DEAR, THEY DIED” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "The letter \"U\" will appear twice in each response.",
+   "Clues about There's Always a Time.",
+   "The category “WHEN YOU MUST STAND FOR SOMETHING” sets the theme — the clues follow that idea and any wordplay suggested by the title."
+  ],
+  "DJ": [
+   "Clues about A Hotel Most Unusual.",
+   "Clues about Britishisms.",
+   "Clues about Opera Characters.",
+   "Clues about Fabrics and Materials.",
+   "Clues about A Dose of Math.",
+   "Each answer contains the letter “N”, and the clues are about Tertainment."
+  ],
+  "F": "Clues about American Novels."
+ }
+}
