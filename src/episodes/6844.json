@@ -1,0 +1,984 @@
+{
+ "show": "#8258",
+ "aired": "2020-10-14",
+ "note": "Kevin Walsh game 5.",
+ "contestants": [
+  {
+   "name": "Jack Mooney",
+   "bio": "an aerospace engineer from Santa Cruz, California",
+   "short": "Jack"
+  },
+  {
+   "name": "Elaine Zatarain",
+   "bio": "a patient care coordinator from San Diego, California",
+   "short": "Elaine"
+  },
+  {
+   "name": "Kevin Walsh",
+   "bio": "a story analyst originally from Williamstown, New Jersey (whose 4-day cash winnings total $81,700)",
+   "short": "Kevin"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Kevin": 2200,
+   "Elaine": 2400,
+   "Jack": 800
+  },
+  "DJ": {
+   "Kevin": 18600,
+   "Elaine": 14800,
+   "Jack": 2000
+  },
+  "Final": {
+   "Kevin": 29601,
+   "Elaine": 28800,
+   "Jack": 1
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "OK, BOOMERANG",
+    "IT'S A FACT",
+    "HOLIDAYS & OBSERVANCES",
+    "2-WORD TV TITLES",
+    "WHICH COUNTRY'S FOREST?",
+    "CONTRONYMS"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 16,
+     "q": "Nonreturning boomerangs have been used by these first people of Australia for centuries to hunt, dig & skin animals",
+     "a": "the Aborigines",
+     "right": [
+      "Kevin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 11,
+     "q": "This smallest planet is the fastest moving, circling the Sun in 88 days",
+     "a": "Mercury",
+     "right": [
+      "Kevin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 21,
+     "q": "Exodus 12 tells the story of this Jewish holiday",
+     "a": "Passover",
+     "right": [
+      "Kevin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "It starred Hugh Bonneville as the Earl of Grantham, lord of the title dwelling",
+     "a": "Downton Abbey",
+     "right": [
+      "Kevin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 26,
+     "q": "Der Schwarzwald",
+     "a": "Germany",
+     "right": [
+      "Elaine"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 6,
+     "q": "It can mean on view, like the moon, or no longer visibly functioning, like a light bulb",
+     "a": "out",
+     "right": [
+      "Kevin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 17,
+     "q": "The bend near the middle of a boomerang is called this, also a joint in the body that can bend",
+     "a": "the elbow",
+     "right": [
+      "Kevin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 12,
+     "q": "This Utah body of water is several times more saline than the oceans",
+     "a": "the Great Salt Lake",
+     "right": [
+      "Jack"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 22,
+     "q": "Union leader Peter McGuire is given credit for creating this holiday in 1882",
+     "a": "Labor Day",
+     "right": [
+      "Jack"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "It co-starred RJ Mitte as Walter Jr.",
+     "a": "Breaking Bad",
+     "right": [
+      "Kevin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "Sumatra Rainforest",
+     "a": "Indonesia",
+     "right": [
+      "Elaine"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 7,
+     "q": "Something firm & immovable, or to move back & forth like a cradle",
+     "a": "a rock",
+     "right": [
+      "Jack"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 18,
+     "q": "The 1922 discovery of his tomb revealed a weapons stash including swords, bows, slingshots & boomerang-like throwsticks",
+     "a": "King Tut",
+     "right": [
+      "Jack"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 13,
+     "q": "To prevent Marines from landing, in 1991 this country dumped millions of gallons of oil into the Persian Gulf",
+     "a": "Iraq",
+     "right": [
+      "Jack"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": true,
+     "order": 23,
+     "q": "April 22 was chosen for this observance because it fell between spring break & final exams",
+     "a": "Earth Day",
+     "right": [],
+     "wrong": [
+      "Jack"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 3600
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 3,
+     "q": "Long before Tom Cruise was Ethan Hunt on the big screen, Peter Graves was Mr. Phelps on this TV show",
+     "a": "Mission: Impossible",
+     "right": [
+      "Jack"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 28,
+     "q": "Fundy National Park",
+     "a": "Canada",
+     "right": [],
+     "wrong": [
+      "Kevin"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 8,
+     "q": "It can mean repaired, or no longer working, like a spayed dog",
+     "a": "fixed",
+     "right": [
+      "Jack"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 19,
+     "q": "Ever fashion forward, this DC Comics superhero wears a royal tiara that can also be weaponized as a boomerang",
+     "a": "Wonder Woman",
+     "right": [
+      "Elaine"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 14,
+     "q": "The name of these 2 states goes back to a Sioux word for \"friend\" or \"ally\"",
+     "a": "the Dakotas (North & South Dakota)",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 24,
+     "q": "Thanksgiving is followed by Black Friday, Small Business Saturday & this weekday named for a certain way to shop",
+     "a": "Cyber Monday",
+     "right": [
+      "Jack"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 4,
+     "q": "In this 2020 reboot, Matthew Rhys as the title character starts out as a private eye, then becomes a defense lawyer",
+     "a": "Perry Mason",
+     "right": [
+      "Kevin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "Epping Forest, Forest of Dean",
+     "a": "England",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 9,
+     "q": "Something you didn't notice, or watchful supervision of a project",
+     "a": "oversight",
+     "right": [],
+     "wrong": [
+      "Kevin"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 20,
+     "q": "Possibly the world's oldest boomerang was found in 1987 in a 23,000-year-old Polish cave & was made out of the tusk of one of these",
+     "a": "a woolly mammoth",
+     "right": [
+      "Elaine"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 15,
+     "q": "The term \"Cold War\" was first used in print by this British author in his essay \"You and the Atomic Bomb\"",
+     "a": "George Orwell",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 25,
+     "q": "Until 1954 it was known as Armistice Day in the United States",
+     "a": "Veterans Day",
+     "right": [
+      "Kevin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 5,
+     "q": "Nadia Vulvokov is caught in a time loop in this acclaimed Netflix series",
+     "a": "Russian Doll",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 30,
+     "q": "Tongass National Forest",
+     "a": "the United States",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 10,
+     "q": "It can mean an assortment of different types, or one type in particular",
+     "a": "variety",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "PIC-POURRI",
+    "SCIENTISTS",
+    "SWEDEN LOWS--& HIGHS",
+    "AFRICAN-AMERICAN WRITERS",
+    "'80s & '90s HIT PARADE",
+    "MAKING A 4 \"A\""
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 16,
+     "q": "Oh, give me a home where the buffalo or bison roam in this national park; it has the largest number of them on public land",
+     "a": "Yellowstone",
+     "right": [
+      "Elaine"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "Anna Röntgen's wedding ring is visible in the first of these taken by her husband Wilhelm in 1895",
+     "a": "an X-ray",
+     "right": [
+      "Jack"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 26,
+     "q": "High: founded by Ingvar Kamprad in Älmhult, Sweden, it's now the world's largest furniture retailer",
+     "a": "IKEA",
+     "right": [
+      "Elaine"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 21,
+     "q": "To write her play \"Twilight\", Anna Deavere Smith interviewed 350 people who experienced the 1992 riots in this city",
+     "a": "Los Angeles",
+     "right": [
+      "Kevin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 11,
+     "q": "This group's first No. 1 hit was inspired by a note Andrew Ridgeley left his mum asking her to \"Wake him up up\"",
+     "a": "Wham!",
+     "right": [
+      "Kevin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 6,
+     "q": "These nuts originated in Australia, not Hawaii",
+     "a": "macadamia",
+     "right": [
+      "Kevin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 17,
+     "q": "It's the numerical name for the large-holed vinyl single seen here",
+     "a": "a 45",
+     "right": [
+      "Kevin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": true,
+     "order": 2,
+     "q": "Galileo mistakenly concluded that these were caused by the orbit of the Earth & not the proximity of the Moon & Sun",
+     "a": "the tides",
+     "right": [
+      "Jack"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2000
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 27,
+     "q": "Low: in the 1958 World Cup final, Sweden lost on its home soil 5-2 to Pele & the rest of this country's team",
+     "a": "Brazil",
+     "right": [
+      "Elaine"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 22,
+     "q": "Sarah M. Broom's New Orleans family home, this kind of narrow house with a firearm name, inspired her memoir \"The Yellow House\"",
+     "a": "a shotgun shack",
+     "right": [
+      "Kevin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 12,
+     "q": "A hit by this British group says, \"I smell like I sound, I'm lost & I'm found, & I'm hungry like the wolf\"",
+     "a": "Duran Duran",
+     "right": [
+      "Elaine"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 7,
+     "q": "Goodbye, Joe, we gotta go to the bayou for this Cajun rice, seafood & meat dish",
+     "a": "jambalaya",
+     "right": [
+      "Jack"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 18,
+     "q": "This U.S. city has been hosting an annual international balloon fiesta for nearly 50 years",
+     "a": "Albuquerque",
+     "right": [
+      "Elaine"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 3,
+     "q": "This naturalist's journey on the Beagle took him to barren Ascension Island; he promoted terraforming it with trees",
+     "a": "Darwin",
+     "right": [
+      "Kevin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 28,
+     "q": "High: this man born in Stockholm in 1833 established some very prestigious awards",
+     "a": "Nobel",
+     "right": [
+      "Kevin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 23,
+     "q": "Novelist Marita Golden paid homage to this woman in an essay called \"Zora & Me\"",
+     "a": "Hurston",
+     "right": [
+      "Kevin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 13,
+     "q": "This pop star who passed away in 2020 had his first No. 1 hit in 1980 with \"Lady\", written by Lionel Richie",
+     "a": "Kenny Rogers",
+     "right": [
+      "Elaine"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": true,
+     "order": 8,
+     "q": "This royal title is from Sanskrit words meaning \"great king\"",
+     "a": "maharaja",
+     "right": [],
+     "wrong": [
+      "Jack"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2000
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 19,
+     "q": "2020 marks the 100th birthday of this British lad who, with his toy bear, inspired his dad's famous stories",
+     "a": "Christopher Robin",
+     "right": [
+      "Elaine"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 4,
+     "q": "Thermometers in Holland got more accurate after this lad moved there in 1701 when poisonous mushrooms left him an orphan",
+     "a": "Fahrenheit",
+     "right": [
+      "Kevin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 29,
+     "q": "Low: in a twist like one out of his \"Millennium\" mysteries, some fans think this author was murdered in 2004",
+     "a": "Stieg Larsson",
+     "right": [
+      "Kevin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 24,
+     "q": "This creator of TV's \"Grey's Anatomy\" revealed how saying yes changed her life in her book \"Year of Yes\"",
+     "a": "Shonda Rhimes",
+     "right": [
+      "Kevin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 14,
+     "q": "This Bon Jovi album yielded the No. 1 hits \"You Give Love A Bad Name\" & \"Livin' On A Prayer\"",
+     "a": "Slippery When Wet",
+     "right": [
+      "Kevin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 9,
+     "q": "It's another word for a bachelor's degree",
+     "a": "baccalaureate",
+     "right": [
+      "Kevin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 20,
+     "q": "This 11-letter French word means a variety of meats, cheeses and other snacks",
+     "a": "charcuterie",
+     "right": [
+      "Elaine"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 5,
+     "q": "During WWII this computer scientist & code breaker converted his money into silver & buried it; he never found his buried treasure",
+     "a": "(Alan) Turing",
+     "right": [
+      "Kevin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 30,
+     "q": "High: all 3 of the Oscars Sweden won for Best Foreign Language Film were for movies directed by this man",
+     "a": "(Ingmar) Bergman",
+     "right": [
+      "Elaine"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 25,
+     "q": "In the novel \"Black Betty\" by this author, P.I. Easy Rawlins is hired to find a missing woman",
+     "a": "Walter Mosley",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 15,
+     "q": "In 1999 this Matchbox Twenty frontman joined Santana for the hit song \"Smooth\"",
+     "a": "Rob Thomas",
+     "right": [
+      "Elaine"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 10,
+     "q": "This verb means to mix into a compound, specifically with mercury",
+     "a": "amalgamate",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "MOVIE APPEARANCES",
+  "q": "Not an actor, this man who died in 2018 appeared briefly in some 40 mainly action films with a combined $30 billion worldwide gross",
+  "a": "Stan Lee",
+  "right": [
+   "Elaine",
+   "Kevin"
+  ],
+  "wrong": [
+   "Jack"
+  ]
+ },
+ "gameId": "6844",
+ "cat_notes": {
+  "J": [
+   "Clues about OK Boomerang.",
+   "The category “IT'S A FACT” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "Clues about Holidays and Observances.",
+   "Clues about 2-word TV Titles.",
+   "The category “WHICH COUNTRY'S FOREST?” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "Each correct response a single word with two meanings that kind of contradict each other."
+  ],
+  "DJ": [
+   "A mixed potpourri of Pic-related clues.",
+   "Clues about Scientists.",
+   "Clues about Sweden Lows-- and Highs.",
+   "Clues about African-american Writers.",
+   "Clues about 80s and 90s Hit Parade.",
+   "There will be four \"A\"s in each correct response."
+  ],
+  "F": "Clues about Movie Appearances."
+ }
+}

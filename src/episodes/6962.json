@@ -1,0 +1,994 @@
+{
+ "show": "#8351",
+ "aired": "2021-03-08",
+ "note": "First game with Katie Couric as guest host. \r Champion's winnings & consolation amounts matched to Pancreatic Cancer Dream Team from Stand Up to Cancer.",
+ "contestants": [
+  {
+   "name": "Matt Wierman",
+   "bio": "an aerospace engineer originally from Lake Mary, Florida",
+   "short": "Matt"
+  },
+  {
+   "name": "Justin Yaeger",
+   "bio": "a high school history teacher from Studio City, California",
+   "short": "Justin"
+  },
+  {
+   "name": "Laura Portwood-Stacer",
+   "bio": "an author and editor originally from Livonia, Michigan (whose 1-day cash winnings total $19,400)",
+   "short": "Laura"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Laura": 8000,
+   "Justin": 3000,
+   "Matt": 4600
+  },
+  "DJ": {
+   "Laura": 15600,
+   "Justin": 10200,
+   "Matt": 11600
+  },
+  "Final": {
+   "Laura": 23201,
+   "Justin": 5100,
+   "Matt": 21614
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "HISTORY ACCORDING TO HERODOTUS",
+    "REAL REVIEWS OF THE NOVEL",
+    "TV SHOWS IN 2 WORDS",
+    "D MIDDLE OF THE WORD",
+    "THE BOURGEOISIE",
+    "CURVE YOUR ENTHUSIASM"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 26,
+     "q": "The ancient \"Father of History\" aka \"Father of Lies\", Herodotus said in India, ants bigger than foxes dig for this precious metal",
+     "a": "gold",
+     "right": [
+      "Justin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 18,
+     "q": "Its author shouldn't \"waste his strength on such purposeless and unequal doings as these rambling volumes about spermaceti whales\"",
+     "a": "Moby-Dick",
+     "right": [
+      "Laura"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 5,
+     "q": "Mirrorball Trophy",
+     "a": "Dancing with the Stars",
+     "right": [
+      "Justin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 6,
+     "q": "\"Without further\" this... it means hubbub!",
+     "a": "ado",
+     "right": [
+      "Laura"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 27,
+     "q": "This 1848 writing team popularized the word bourgeoisie for the middle class that controlled the means of production",
+     "a": "Marx & Engels",
+     "right": [
+      "Laura"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 14,
+     "q": "Harvard professor Charles Eliot Norton thought the curve, an innovation of his time in this sport, was cheating",
+     "a": "baseball",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 25,
+     "q": "Herodotus wrote that this ancient capital on the Euphrates was so big it had 100 gates (it had 8)",
+     "a": "Babylon",
+     "right": [
+      "Justin"
+     ],
+     "wrong": [
+      "Matt"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 7,
+     "q": "H.L. Mencken: The \"clown Fitzgerald rushes to his death in nine short chapters... this story is obviously unimportant\"",
+     "a": "The Great Gatsby",
+     "right": [
+      "Laura"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "\"Outplay\", \n\"Outlast\"",
+     "a": "Survivor",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 10,
+     "q": "A promenade by the beach, or a fancy Monopoly property",
+     "a": "a boardwalk",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 19,
+     "q": "This French word for \"small\" is used of small businessmen, civil servants & others aspiring to be haut-bourgeois",
+     "a": "petite",
+     "right": [
+      "Laura"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 15,
+     "q": "With readings taken at Mauna Loa Observatory, the Keeling Curve shows the buildup of this gas in the atmosphere",
+     "a": "carbon dioxide",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": true,
+     "order": 28,
+     "q": "Skeptical for once, Herodotus doubted the accuracy of this poem, questioning why Greeks would fight for so long over one woman",
+     "a": "the Iliad",
+     "right": [
+      "Laura"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2000
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 8,
+     "q": "\"Characterization in general is weak... nor is the commander strongly drawn. Again, the aunts are best... it lacks imagination\"",
+     "a": "The Handmaid's Tale",
+     "right": [],
+     "wrong": [
+      "Justin"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 2,
+     "q": "Brainiacs, \nBazinga!",
+     "a": "The Big Bang Theory",
+     "right": [
+      "Laura"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 11,
+     "q": "Keats' \"To Autumn\" is one",
+     "a": "an ode",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 20,
+     "q": "An essential part of the 19th century German decor called Biedermeier was one of these, ein Klavier",
+     "a": "a piano",
+     "right": [
+      "Laura"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 16,
+     "q": "In this curve with a musical instrument in its name, a \"C\" grade is typically the center of the distribution",
+     "a": "the bell curve",
+     "right": [
+      "Laura"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "Many historians doubt that Herodotus visited Egypt, but he still gave a detailed description of this embalming process",
+     "a": "mummification",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 9,
+     "q": "Oh, Heathcliff! \"The only consolation which we have in reflecting upon\" this Bronte work \"is that it will never be generally read\"",
+     "a": "Wuthering Heights",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 3,
+     "q": "Piper, \nprison",
+     "a": "Orange Is the New Black",
+     "right": [
+      "Laura"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 12,
+     "q": "Exodus mentions \"the children of Israel, whom the Egyptians keep in\" this, meaning captivity",
+     "a": "bondage",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 21,
+     "q": "This relaxing residence is a common bourgeois possession; the film \"The Discreet Charm of the Bourgeoisie\" is set in one",
+     "a": "a chateau (country home)",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 22,
+     "q": "Many roadways in America have a curve known by this morbid name as in the 1964 song; the California one seen here is no longer used",
+     "a": "a dead man's curve",
+     "right": [
+      "Justin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 30,
+     "q": "Herodotus claimed that only 192 Greeks were killed but 6,400 of these invading foes died at the Battle of Marathon... hmmm",
+     "a": "the Persians",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 17,
+     "q": "\"The trial and the melodramatic conclusion\" of this \"seem contrived. But (the) insight into Southern mores is impressive\"",
+     "a": "To Kill a Mockingbird",
+     "right": [
+      "Justin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 4,
+     "q": "Sweathogs, \nschool",
+     "a": "Welcome Back, Kotter",
+     "right": [
+      "Justin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 13,
+     "q": "It's a French dialect of Louisiana, ma chere",
+     "a": "Acadian",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 24,
+     "q": "David Brooks dubbed those who combine nice possessions & hippie values \"Bobos\", short for bourgeois these",
+     "a": "Bohemians",
+     "right": [
+      "Laura"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 23,
+     "q": "\"P\" is for this type of curve, which lends its name to a type of mirror or antenna",
+     "a": "parabolic",
+     "right": [
+      "Laura"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "COMPOSERS",
+    "SCIENCE TIME",
+    "STRANGE BEDFELLOWS",
+    "YOU CAN'T HAVE JUST ONE",
+    "PORT \"L\"",
+    "THE CAKE IS A LIE"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 4,
+     "q": "Beethoven hadn't written a symphony in 10 years when England's Royal Philharmonic Society commissioned this last one in 1822",
+     "a": "the Ninth Symphony",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 3,
+     "q": "The mafic type of this 5-letter underground molten rock can reach more than 2,000 degrees Fahrenheit",
+     "a": "magma",
+     "right": [
+      "Laura"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 17,
+     "q": "In \"The Hangover\", Ed Helms wakes up next to a chicken, but has a bigger problem--one of these in the bathroom",
+     "a": "a tiger",
+     "right": [
+      "Laura"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 26,
+     "q": "These expressions of gratitude are rarely heard in the singular form",
+     "a": "thanks",
+     "right": [
+      "Laura"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 14,
+     "q": "This port on the Tagus River is the westernmost capital in Europe",
+     "a": "Lisbon",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "Cakebread Cellars doesn't bake cakes but makes these, like a vin de porche rose",
+     "a": "wine",
+     "right": [
+      "Justin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 6,
+     "q": "The 1953 death of \"Peter & the Wolf\" composer Sergey Prokofiev was overshadowed by the death of this leader on the same day",
+     "a": "Stalin",
+     "right": [
+      "Justin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 5,
+     "q": "It has atomic number 3 as the least dense of all metals & number 34 as a SiriusXM channel for '90s tunes",
+     "a": "lithium",
+     "right": [
+      "Laura"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 18,
+     "q": "Khartoum, an expensive one of these in \"The Godfather\", makes a memorable bedfellow; well, part of him",
+     "a": "a race horse",
+     "right": [
+      "Justin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 27,
+     "q": "This word for people is plural whether you add an \"S\" or not--so \"that's all\"",
+     "a": "folks",
+     "right": [
+      "Justin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 15,
+     "q": "This city's port on the Ohio River is just southwest of Churchill Downs",
+     "a": "Louisville",
+     "right": [
+      "Justin"
+     ],
+     "wrong": [
+      "Laura"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 2,
+     "q": "A surprisingly easy victory is known as one of these; despite the name--no layers, no icing",
+     "a": "a cakewalk",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 11,
+     "q": "Leonard Bernstein turned a discarded number from his stage work \"Candide\" into this musical's \"Gee, Officer Krupke\"",
+     "a": "West Side Story",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 9,
+     "q": "In 1995 physicist Melissa Franklin was part of the team that discovered the elusive \"top\" one of these",
+     "a": "a quark",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 19,
+     "q": "In this Mel Brooks classic, Madeline Kahn ends up with \"The Monster\" in her bed; she seems pretty happy",
+     "a": "Young Frankenstein",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 28,
+     "q": "A word containing a clothing item, these rarely visited parts at the edge of a town just sound weird in the singular",
+     "a": "outskirts",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 16,
+     "q": "This port is central to the British county of Merseyside",
+     "a": "Liverpool",
+     "right": [
+      "Laura"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 7,
+     "q": "This make-up, a trademark of the Noxell Corporation, is applied with a damp sponge & used as a foundation",
+     "a": "Pan-Cake make-up",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 24,
+     "q": "Nicknamed Papa, this 18th century man composed more than 100 symphonies",
+     "a": "Franz Joseph Haydn",
+     "right": [],
+     "wrong": [
+      "Matt"
+     ],
+     "stumper": false,
+     "img": true,
+     "ddWager": 3000
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 10,
+     "q": "Evergreens have waxy or leathery leaves to hold moisture, but this other main tree type holds moisture by losing leaves in the cold",
+     "a": "deciduous",
+     "right": [
+      "Laura"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 20,
+     "q": "Steve Martin & John Candy got a lot of comedic mileage after they ended up spooning in bed in this 1987 comedy",
+     "a": "Planes, Trains and Automobiles",
+     "right": [
+      "Justin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 29,
+     "q": "Whether it means an undesirable part of society or sediment in liquor, this word is almost always plural",
+     "a": "the dregs",
+     "right": [
+      "Laura"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 22,
+     "q": "Meaning \"the harbor\", this French port was the seat of the Belgian government for a time during World War I",
+     "a": "Le Havre",
+     "right": [],
+     "wrong": [
+      "Matt"
+     ],
+     "stumper": false,
+     "img": true,
+     "ddWager": 4000
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 8,
+     "q": "Seen here is the marine invertebrate known as the cake this & it is covered in spines, not candles",
+     "a": "an urchin",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 25,
+     "q": "The wife of Robert Schumann, she was a child prodigy & an accomplished composer in her own right",
+     "a": "Clara Wieck (Schumann)",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 12,
+     "q": "The \"water on the road\" mirage is due to hotter air above the blacktop, causing this bending of light rays",
+     "a": "refraction",
+     "right": [
+      "Justin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 21,
+     "q": "In \"Step Brothers\", these 2 actors ask their parents for permission to make bunk beds; it doesn't turn out well",
+     "a": "John C. Reilly & Will Ferrell",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 30,
+     "q": "These acts of restitution in steps 8 & 9 of Alcoholics Anonymous are always plural",
+     "a": "amends",
+     "right": [
+      "Laura"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 23,
+     "q": "This big port was once the capital of Nigeria",
+     "a": "Lagos",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 13,
+     "q": "Do not! Repeat, do not eat yellowcake, which is composed of this radioactive element",
+     "a": "uranium",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "RADIO HISTORY",
+  "q": "A 1949 broadcast in Spanish of this drama from 11 years before caused mass panic in Ecuador & the destruction of the radio station",
+  "a": "\"The War of the Worlds\"",
+  "right": [
+   "Matt",
+   "Laura"
+  ],
+  "wrong": [
+   "Justin"
+  ]
+ },
+ "gameId": "6962",
+ "cat_notes": {
+  "J": [
+   "Clues about History According to Herodotus.",
+   "Clues about Real Reviews of the Novel.",
+   "Clues about TV Shows in 2 Words.",
+   "(Katie: \"D\" is in the exact middle of every response.).",
+   "Clues about The Bourgeoisie.",
+   "Clues about Curve Your Enthusiasm."
+  ],
+  "DJ": [
+   "Clues about Composers.",
+   "Clues about Science Time.",
+   "Clues about Strange Bedfellows.",
+   "The category “YOU CAN'T HAVE JUST ONE” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "Each answer starts with “L”, and the clues are about Port.",
+   "Clues about The Cake Is a Lie."
+  ],
+  "F": "Clues about Radio History."
+ }
+}

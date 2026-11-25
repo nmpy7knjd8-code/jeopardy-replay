@@ -1,0 +1,998 @@
+{
+ "show": "#8248",
+ "aired": "2020-09-30",
+ "note": "",
+ "contestants": [
+  {
+   "name": "Kamal Moo",
+   "bio": "an attorney from Lakewood, California",
+   "short": "Kamal"
+  },
+  {
+   "name": "Katrina Post",
+   "bio": "a client relationship manager from Santa Monica, California",
+   "short": "Katrina"
+  },
+  {
+   "name": "Mason Maggio",
+   "bio": "a songwriter from Los Angeles, California (whose 1-day cash winnings total $19,000)",
+   "short": "Mason"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Mason": 7200,
+   "Katrina": 3600,
+   "Kamal": 1000
+  },
+  "DJ": {
+   "Mason": 20600,
+   "Katrina": 11600,
+   "Kamal": 6000
+  },
+  "Final": {
+   "Mason": 23600,
+   "Katrina": 7600,
+   "Kamal": 100
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "BRITISH GOVERNMENT",
+    "MUSICAL STYLES",
+    "HOUSEHOLD NAMES",
+    "YESTERDAY",
+    "ALL MY TROUBLES",
+    "SEEMED SO FAR AWAY"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 8,
+     "q": "Acts of Parliament & other conventions & court decisions make up what is called Britain's \"unwritten\" this document",
+     "a": "the constitution",
+     "right": [
+      "Kamal"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 14,
+     "q": "Though lesser known than Joplin, African American James Scott was one of the great composers in this musical style",
+     "a": "ragtime",
+     "right": [
+      "Katrina"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 26,
+     "q": "You hang your curtains on this",
+     "a": "a rod",
+     "right": [
+      "Kamal"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 6,
+     "q": "In 1860 this service got its first delivery from Missouri to California in 10 days",
+     "a": "the Pony Express",
+     "right": [
+      "Mason"
+     ],
+     "wrong": [
+      "Kamal"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 15,
+     "q": "I tried soft, I tried rigid gas permeable, my eyes still don't feel right with these",
+     "a": "contact lenses",
+     "right": [
+      "Katrina"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "This Japanese mountain has kind of a Russian doll arrangement, with the current volcano over earlier ones, including Komitake",
+     "a": "Mount Fuji",
+     "right": [
+      "Katrina"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 9,
+     "q": "A vote of this in life means someone believes in you; a vote of no this in Parliament means it might be time for a new government",
+     "a": "confidence",
+     "right": [
+      "Kamal"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 22,
+     "q": "\"The Hustle\" & ah, ah, ah, ah \"Stayin' Alive\" were 2 hits helping make up this '70s era",
+     "a": "disco",
+     "right": [
+      "Mason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "A 2015 study showed that even if they pay online, more than 90% of U.S. households still preferred these to be mailed to them",
+     "a": "bills",
+     "right": [
+      "Mason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 7,
+     "q": "Legally speaking, in 1794 William Bradford became the second person to hold this cabinet post",
+     "a": "Attorney General",
+     "right": [
+      "Kamal"
+     ],
+     "wrong": [
+      "Katrina"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 16,
+     "q": "Maybe taking on this burrowing animal & mascot of the University of Wisconsin as a house pet was not my finest idea",
+     "a": "the badger",
+     "right": [
+      "Mason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "The Tagus River flows across this nation, the westernmost country in continental Europe",
+     "a": "Portugal",
+     "right": [
+      "Katrina"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 10,
+     "q": "Britain's standard V.A.T., short for this, is 20% for most goods & services",
+     "a": "value added tax",
+     "right": [
+      "Katrina"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 23,
+     "q": "A 1992 N.Y. Times article asked how did this word \"meaning dirt, filth, trash, become synonymous with a musical genre?\"",
+     "a": "grunge",
+     "right": [
+      "Mason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 28,
+     "q": "It's an \"indolent\" revolving tray for foods",
+     "a": "a lazy susan",
+     "right": [
+      "Mason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": true,
+     "order": 13,
+     "q": "Gerald Ford tried to tackle a big 1970s economic problem with the \"WIN\" program, or \"Whip\" this \"Now\"",
+     "a": "Inflation",
+     "right": [],
+     "wrong": [
+      "Kamal"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1000
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 19,
+     "q": "We overpaid & never got the vacation weeks we wanted--where's that Kiplinger's article \"How to Get Rid of\" this",
+     "a": "a time share",
+     "right": [],
+     "wrong": [
+      "Kamal"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 3,
+     "q": "With more than 14 million people, this Nigerian city is one of Africa's most populous",
+     "a": "Lagos",
+     "right": [
+      "Katrina"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 11,
+     "q": "In your house, it's the 2-word room for your computer & paperwork; in Britain, it's a department of domestic affairs",
+     "a": "the home office",
+     "right": [
+      "Kamal"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 24,
+     "q": "Selena was named Female Vocalist of the Year 11 times at the awards named for this style of Latin music",
+     "a": "Tejano",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "This bendy fastener",
+     "a": "a brad",
+     "right": [
+      "Kamal"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 17,
+     "q": "This German trade organization that helped the growth of Riga & Tallinn was in a \"League\" of its own",
+     "a": "the Hanseatic League",
+     "right": [
+      "Mason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 20,
+     "q": "I'm playing this \"Othello\" villain in an hour?! I know Roderigo helps him & he frames Cassio, but I don't know his lines",
+     "a": "Iago",
+     "right": [
+      "Katrina"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 4,
+     "q": "About a third of the continent's population lives in this \"directional\" Australian state",
+     "a": "New South Wales",
+     "right": [
+      "Mason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 12,
+     "q": "In 2006 in the British House of Lords the job of Lord this was largely replaced by Lord Speaker",
+     "a": "Lord High Chancellor",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 25,
+     "q": "This composer & musician with the given names William Christopher was known as the “Father of the Blues”",
+     "a": "W.C. Handy",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 30,
+     "q": "Hebrew National makes a kosher beef type of this",
+     "a": "frank",
+     "right": [
+      "Mason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 18,
+     "q": "A famine was one factor that led the Ethiopian army to depose this emperor in 1974",
+     "a": "Haile Selassie",
+     "right": [
+      "Mason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 21,
+     "q": "Ah, man, I got to replace this device that mixes air with fuel to generate combustion in my truck's engine",
+     "a": "the carburetor",
+     "right": [
+      "Mason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 5,
+     "q": "The Mekong River forms much of the western border of this country highlighted here",
+     "a": "Laos",
+     "right": [
+      "Katrina"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "THEATER TIME",
+    "3 VOWELS IN A ROW",
+    "AMERICANA",
+    "LET'S GET MEDICAL",
+    "PLAYING THE PART ON TV",
+    "FLOWERS ON THE WALL"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 12,
+     "q": "Time to head to ancient Greece for the Sophocles play about this king of Thebes who gets a revelation that Rex his life",
+     "a": "Oedipus",
+     "right": [
+      "Kamal"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "Adjective for one who's ready to take you to court anytime",
+     "a": "litigious",
+     "right": [
+      "Mason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 7,
+     "q": "Naval Academy graduate Edward \"Butch\" O'Hare, class of 1937, had one of these named for him in 1949",
+     "a": "an airport",
+     "right": [
+      "Mason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 23,
+     "q": "In 2014 the first FDA-approved study in decades on this hallucinogen showed it has promise for end-of-life anxiety",
+     "a": "LSD",
+     "right": [
+      "Mason"
+     ],
+     "wrong": [
+      "Katrina"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 18,
+     "q": "Vinnie Verducci; Joey Tribbiani",
+     "a": "Matt LeBlanc",
+     "right": [
+      "Katrina"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 3,
+     "q": "These flowers, especially red ones, were Renoir's favorite ones to paint, like in his \"Bouquet\" of them",
+     "a": "roses",
+     "right": [
+      "Mason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 13,
+     "q": "The acclaimed \"Lehman Trilogy\" runs 3 hours-plus as it sweeps from the 1840s to this recent year of the financial meltdown",
+     "a": "2008",
+     "right": [
+      "Katrina"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 2,
+     "q": "Mais oui, it's a word for a fabulous mansion--perhaps on the Loire River?",
+     "a": "a chateau",
+     "right": [
+      "Katrina"
+     ],
+     "wrong": [
+      "Kamal"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 8,
+     "q": "James Montgomery Flagg's iconic poster of Uncle Sam with this 3-word phrase was first used to recruit troops during WWI",
+     "a": "I Want You",
+     "right": [
+      "Kamal"
+     ],
+     "wrong": [
+      "Katrina"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 24,
+     "q": "Allopurinol may be prescribed to treat this form of arthritis that most commonly affects the big toe",
+     "a": "gout",
+     "right": [
+      "Kamal"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 19,
+     "q": "Olivia Benson; Kate Conklin the Mounted Cop",
+     "a": "Mariska Hargitay",
+     "right": [
+      "Katrina"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 14,
+     "q": "(Jimmy of the Clue Crew presents by a display monitor.) Floral imagery abounds in paintings of the Madonna and Child; white lilies represent the Madonna's purity and red carnations often foreshadow this event in Matthew 27:35",
+     "a": "the Crucifixion",
+     "right": [
+      "Mason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 28,
+     "q": "His \"Long Day's Journey into Night\" begins on a morning in August 1912",
+     "a": "Eugene O'Neill",
+     "right": [
+      "Mason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 4,
+     "q": "This mental disorder makes it seem like everyone's out to get you, despite having little or no cause",
+     "a": "paranoia",
+     "right": [
+      "Kamal"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 9,
+     "q": "San Francisco's Boudin Bakery has been making this bread from the same mother dough since 1849",
+     "a": "sourdough",
+     "right": [
+      "Kamal"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 25,
+     "q": "In addition to treating ADHD, this 7-letter drug aka methylphenidate is used to treat narcolepsy",
+     "a": "Ritalin",
+     "right": [
+      "Mason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 20,
+     "q": "Sarah Palin (in a TV movie); Frannie Hughes (on \"As the World Turns\" in the 1980s)",
+     "a": "Julianne Moore",
+     "right": [
+      "Katrina"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": true,
+     "order": 15,
+     "q": "This woman said, \"I'll paint what I see--what the flower is to me, but -I'll paint it big\"",
+     "a": "Georgia O'Keeffe",
+     "right": [
+      "Mason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 3000
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 29,
+     "q": "The Tony-winning play named for this European city is set during the 1990s negotiation of peace accords between Israel & the PLO",
+     "a": "Oslo",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 5,
+     "q": "Hunkpapa & Oglala are branches of this Native American people",
+     "a": "Sioux",
+     "right": [
+      "Katrina"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 10,
+     "q": "2020 marks the 75th anniversary of this iconic toy that sprung forth from mechanical engineer Richard James & his wife Betty",
+     "a": "the Slinky",
+     "right": [
+      "Kamal"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1000
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 26,
+     "q": "This procedure that helps determine fetal health samples the fluid that surrounds a baby",
+     "a": "amniocentesis",
+     "right": [
+      "Katrina"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 21,
+     "q": "Mr. Sulu; his own head on \"Futurama\"",
+     "a": "George Takei",
+     "right": [],
+     "wrong": [
+      "Kamal"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 16,
+     "q": "The last paintings by this \"Luncheon on the Grass\" artist were of the flowers friends brought to his sickbed in 1883",
+     "a": "Manet",
+     "right": [
+      "Mason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 30,
+     "q": "No, we're certain this 2005 Pulitzer-winning drama takes place at a Catholic school in 1964",
+     "a": "Doubt",
+     "right": [
+      "Mason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 6,
+     "q": "From the Latin for \"rest\", it's a religious service for the dead",
+     "a": "requiem",
+     "right": [
+      "Mason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 11,
+     "q": "This Ohio city was named for a fort built by \"Mad\" Anthony Wayne, who boldly dared the English & Native Americans to take it",
+     "a": "Fort Defiance",
+     "right": [
+      "Kamal"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 27,
+     "q": "A co-founder of the brain injury research institute, he was a movie subject for identifying CTE in football players",
+     "a": "Bennet Omalu",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 22,
+     "q": "Angela Abar / Sister Night on \"Watchmen\"; Sandra Palmer on \"24\"",
+     "a": "Regina King",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 17,
+     "q": "Before his more geometric style of intersecting lines, this Dutchman dabbled in Fauvism, painting a red amaryllis",
+     "a": "Mondrian",
+     "right": [
+      "Katrina"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "HISTORIC FIGURES",
+  "q": "In a 1912 telegram to his wife, he said, \"Am feeling fine. Have bullet in chest, but...talked for hour and half after being shot\"",
+  "a": "Teddy Roosevelt",
+  "right": [
+   "Mason"
+  ],
+  "wrong": [
+   "Kamal",
+   "Katrina"
+  ]
+ },
+ "gameId": "6833",
+ "cat_notes": {
+  "J": [
+   "Clues about British Government.",
+   "Clues about Musical Styles.",
+   "Each correct response will be a common first name.",
+   "Clues about Yesterday.",
+   "Clues about All My Troubles.",
+   "Clues about Seemed So Far Away."
+  ],
+  "DJ": [
+   "Clues about Theater Time.",
+   "Clues about 3 Vowels in a Row.",
+   "Clues about Americana.",
+   "The category “LET'S GET MEDICAL” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "Clues about Playing the Part on TV.",
+   "Clues about Flowers on the Wall."
+  ],
+  "F": "Clues about Historic Figures."
+ }
+}

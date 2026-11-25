@@ -1,0 +1,993 @@
+{
+ "show": "#8347",
+ "aired": "2021-03-02",
+ "note": "",
+ "contestants": [
+  {
+   "name": "Michele Friedlander",
+   "bio": "a family law attorney from Encino, California",
+   "short": "Michele"
+  },
+  {
+   "name": "Jeff Noblitt",
+   "bio": "a university administrator from Northridge, California",
+   "short": "Jeff"
+  },
+  {
+   "name": "Jon Spurney",
+   "bio": "a musician and screenwriter originally from New York, New York (whose 1-day cash winnings total $37,201)",
+   "short": "Jon"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Jon": 6800,
+   "Jeff": 1600,
+   "Michele": 3800
+  },
+  "DJ": {
+   "Jon": 22400,
+   "Jeff": 8400,
+   "Michele": 11400
+  },
+  "Final": {
+   "Jon": 22801,
+   "Jeff": 400,
+   "Michele": 1
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "MOUNTAINS",
+    "GUITAR TALK",
+    "FISH & CHIPS",
+    "SPORTS TROPHIES & AWARDS",
+    "PRESIDENTIAL BIRTHPLACES",
+    "UP RISING"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 29,
+     "q": "Sagarmatha is its name in Nepali",
+     "a": "Mount Everest",
+     "right": [
+      "Michele"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 5,
+     "q": "The long, narrow part of a guitar that carries the strings from the body to the headstock has this anatomical name",
+     "a": "a neck",
+     "right": [
+      "Michele"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 16,
+     "q": "Alaskan pollock is the key ingredient in this alliterative McDonald's sandwich",
+     "a": "Filet-O-Fish",
+     "right": [],
+     "wrong": [
+      "Jon"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 6,
+     "q": "World Boxing Council champs get these, handmade of Italian leather",
+     "a": "belts",
+     "right": [
+      "Jon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 7,
+     "q": "Honolulu",
+     "a": "Barack Obama",
+     "right": [
+      "Jon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 23,
+     "q": "\"Up\" goes before a mathematical group to make a word meaning \"angry\"",
+     "a": "set & upset",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": true,
+     "order": 30,
+     "q": "This highest mountain in Japan is actually a volcano that last erupted in 1707",
+     "a": "Mount Fuji",
+     "right": [
+      "Michele"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1000
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 4,
+     "q": "Don't worry, we're sure you know this word for the strips of metal embedded in a guitar's fingerboard",
+     "a": "frets",
+     "right": [
+      "Jon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 17,
+     "q": "Kettle Brand makes Backyard, Country Style & Korean versions of this classic chip flavor",
+     "a": "barbecue",
+     "right": [
+      "Jon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 13,
+     "q": "MLB's Rookie of the Year awards are named for this groundbreaker who won the award in 1947",
+     "a": "Jackie Robinson",
+     "right": [],
+     "wrong": [
+      "Michele"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 8,
+     "q": "Hope",
+     "a": "Bill Clinton",
+     "right": [
+      "Jeff"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 24,
+     "q": "\"Up\" rises to the top of a truck's cargo so you can move data from your computer to a server",
+     "a": "load & upload",
+     "right": [],
+     "wrong": [
+      "Jon",
+      "Jeff"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 15,
+     "q": "Opened in 2016, a rail tunnel under these mountains is the world's longest; here are miners with the drilling machine known as Heidi",
+     "a": "the (Swiss) Alps",
+     "right": [
+      "Jon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 3,
+     "q": "A guitar's strings are set to E-A-D-G-B-E in \"standard\" this",
+     "a": "tuning",
+     "right": [
+      "Jon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 18,
+     "q": "La Banderita adds both chia & flax seeds to its organic blue corn these chips",
+     "a": "tortilla chips",
+     "right": [
+      "Jon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 14,
+     "q": "South African Gary Player was the first non-American to receive this association's lifetime achievement award",
+     "a": "the PGA",
+     "right": [
+      "Jeff"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 11,
+     "q": "Brookline",
+     "a": "John F. Kennedy",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 25,
+     "q": "Take the focal point of a theater & add \"up\" to get the back of that part",
+     "a": "stage & upstage",
+     "right": [
+      "Jon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 10,
+     "q": "Here's the crater of this Hawaiian volcano with a one-word name",
+     "a": "Kilauea",
+     "right": [],
+     "wrong": [
+      "Jon"
+     ],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 2,
+     "q": "Guitarists use picks, also known by this other \"P\" word",
+     "a": "plectrum",
+     "right": [
+      "Jon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 19,
+     "q": "popchips adds this dairy product to both cheddar- & onion-flavored potato chips",
+     "a": "sour cream",
+     "right": [
+      "Jon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 21,
+     "q": "College football rivalries can have their own trophies; the Ireland Trophy goes to the winner of Boston College vs. this school",
+     "a": "Notre Dame",
+     "right": [
+      "Michele"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 12,
+     "q": "Kinderhook",
+     "a": "Van Buren",
+     "right": [
+      "Michele"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 26,
+     "q": "\"Up\" is placed before an emotion to give us a word for \"snobbish\"",
+     "a": "pity & uppity",
+     "right": [],
+     "wrong": [
+      "Michele"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 9,
+     "q": "In 1794 George Vancouver caught sight of this peak from Cook Inlet, an arm of the Gulf of Alaska",
+     "a": "Mount McKinley (Denali)",
+     "right": [
+      "Jon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 1,
+     "q": "This type of clamp raises the pitch of a guitar's strings",
+     "a": "a capo",
+     "right": [
+      "Jon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 20,
+     "q": "In the 1970s a savvy marketer rebranded the tasty Patagonian toothfish as the \"Chilean\" this",
+     "a": "sea bass",
+     "right": [
+      "Jeff"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 22,
+     "q": "The NHL's Vezina Trophy goes to the league's top player at this position",
+     "a": "goalie",
+     "right": [
+      "Michele"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 28,
+     "q": "Yorba Linda",
+     "a": "Nixon",
+     "right": [
+      "Michele"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 27,
+     "q": "When \"up\" is rising to the front of a serving of liquor, now we have the gist of an argument",
+     "a": "shot & upshot",
+     "right": [
+      "Jon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "COLONY COLLAPSE DISORDER",
+    "5-LETTER WORDS",
+    "U.S. MUSEUMS",
+    "ALTERNATE HISTORY NOVELS",
+    "COMPOUNDS",
+    "MAKING & REMAKING ROBIN HOOD"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 21,
+     "q": "In 1698 Scotland tried to found a colony on this New World isthmus; its failure was a financial disaster",
+     "a": "Panama",
+     "right": [
+      "Jeff"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 16,
+     "q": "An additional airing of a previously broadcast TV show",
+     "a": "a rerun",
+     "right": [
+      "Jon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "Leavenworth, Washington is home to a museum devoted to these, & it's not just open at Christmas",
+     "a": "nutcrackers",
+     "right": [
+      "Michele"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 6,
+     "q": "The title of this Colson Whitehead Pulitzer winner refers to an actual train system operating beneath southern soil",
+     "a": "The Underground Railroad",
+     "right": [
+      "Michele"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 26,
+     "q": "Vaporizing a liquid means pulling its molecules apart; for phenol, which forms strong hydrogen bonds, this point is high at 359.6º F.",
+     "a": "boiling point",
+     "right": [
+      "Jon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 14,
+     "q": "In a 2018 movie unafraid of anachronism, these traditional Robin Hood weapons blow up walls on contact",
+     "a": "bow & arrows",
+     "right": [
+      "Michele"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 22,
+     "q": "The image here depicts the lost colony on this North Carolina island",
+     "a": "Roanoke",
+     "right": [
+      "Michele"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 17,
+     "q": "Candy word meaning to falsify numbers",
+     "a": "fudge",
+     "right": [],
+     "wrong": [
+      "Jon"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 2,
+     "q": "The Museum of the American Revolution opened in 2017, 2 blocks away from Independence Hall in this city",
+     "a": "Philadelphia",
+     "right": [
+      "Michele"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 7,
+     "q": "In \"Ruled Britannia\", the Spanish Armada was victorious & this Spaniard rules England alongside Bloody Mary Tudor",
+     "a": "Philip II",
+     "right": [],
+     "wrong": [
+      "Jon"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 27,
+     "q": "Amyl nitrite is often used to treat this chest pain, a symptom of coronary artery disease",
+     "a": "angina",
+     "right": [
+      "Jon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 13,
+     "q": "Alan Hale Sr. played this big buddy opposite Errol Flynn & Douglas Fairbanks",
+     "a": "Little John",
+     "right": [
+      "Jon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 23,
+     "q": "Henry Ford created Fordlandia in Brazil to produce latex for this material, but bugs made it impossible",
+     "a": "rubber",
+     "right": [
+      "Jon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 18,
+     "q": "Literally, sheep-ish",
+     "a": "ovine",
+     "right": [
+      "Jon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 3,
+     "q": "The Winterthur Museum of Decorative Arts in Delaware was founded by a member of this famous family",
+     "a": "du Pont",
+     "right": [
+      "Michele"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 8,
+     "q": "Philip Roth's \"The Plot Against America\" finds FDR losing the 1940 presidential election to this aviator",
+     "a": "Lindbergh",
+     "right": [
+      "Jeff"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": true,
+     "order": 28,
+     "q": "Potassium sorbate, which inhibits the growth of molds & yeasts, is mainly used in foods as this",
+     "a": "a preservative",
+     "right": [
+      "Jon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2000
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 9,
+     "q": "Instead of Friar Tuck, this director played Rabbi Tuckman in his parody called \"Robin Hood: Men in Tights\"",
+     "a": "Mel Brooks",
+     "right": [
+      "Jon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 24,
+     "q": "Churchill described the fall of this future city-state to the Japanese in 1942 as the \"worst disaster... in British history\"",
+     "a": "Singapore",
+     "right": [
+      "Jon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 19,
+     "q": "With lovely crystals inside, it's Iowa's state rock",
+     "a": "a geode",
+     "right": [
+      "Jon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 4,
+     "q": "\"I'm going to\" this city, this city, \"here I come\" to visit the American Jazz Museum & The Negro Leagues Baseball Museum",
+     "a": "Kansas City",
+     "right": [
+      "Michele"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 10,
+     "q": "Set in a world where Germany & Japan prevailed in WWII, \"The Man in the High Castle\" is a tale from this sci-fi legend",
+     "a": "Philip K. Dick",
+     "right": [
+      "Jeff"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 29,
+     "q": "Nickel nitrate is used to make this positive electrode in batteries",
+     "a": "cathode",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 11,
+     "q": "Sean Connery is an older Robin wooing Audrey Hepburn in the 1976 film \"Robin &\" this maid",
+     "a": "(Maid) Marian",
+     "right": [
+      "Jeff"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 25,
+     "q": "After Mormons were driven out in the 1840s, French colonists called the Icarians failed to make this Illinois city work",
+     "a": "Nauvoo",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 20,
+     "q": "A block of precious metal of a standard shape & weight",
+     "a": "an ingot",
+     "right": [
+      "Jon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 5,
+     "q": "A large stabile called \"Two Discs\" is one of many works by this artist belonging to the Hirshhorn Museum & Sculpture Garden",
+     "a": "Calder",
+     "right": [
+      "Jon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": true,
+     "order": 15,
+     "q": "In \"The Alteration\" by Kingsley Amis, this man became Pope Germanicus I in the 16th century so the Reformation never happened",
+     "a": "Martin Luther",
+     "right": [
+      "Michele"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2000
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 30,
+     "q": "In 1839 John Herschel used sodium thiosulfate \"to arrest action of light\", making it this type of photographic agent",
+     "a": "a fixer (fixing agent)",
+     "right": [
+      "Jeff"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 12,
+     "q": "Alan Rickman won a BAFTA Award for playing this lawman in \"Robin Hood: Prince of Thieves\"",
+     "a": "the Sheriff of Nottingham",
+     "right": [
+      "Jon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "WORLD LEADERS ADDRESS CONGRESS",
+  "q": "The 2 to address 3 joint sessions are Churchill & this leader, his non-European country's longest-serving PM, in 1996, 2011 & 2015",
+  "a": "Benjamin Netanyahu",
+  "right": [
+   "Jon"
+  ],
+  "wrong": [
+   "Jeff",
+   "Michele"
+  ]
+ },
+ "gameId": "6957",
+ "cat_notes": {
+  "J": [
+   "Clues about Mountains.",
+   "Clues about Guitar Talk.",
+   "Clues about Fish and Chips.",
+   "Clues about Sports Trophies and Awards.",
+   "Clues about Presidential Birthplaces.",
+   "(Mike: Each response is two words; one with \"up\" and one without.)."
+  ],
+  "DJ": [
+   "Clues about Colony Collapse Disorder.",
+   "Each answer is a 5-letter word.",
+   "Clues about U.S. Museums.",
+   "Clues about Alternate History Novels.",
+   "Clues about Compounds.",
+   "Clues about Making and Remaking Robin Hood."
+  ],
+  "F": "Clues about World Leaders Address Congress."
+ }
+}

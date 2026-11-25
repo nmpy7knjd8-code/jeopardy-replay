@@ -1,0 +1,999 @@
+{
+ "show": "#8456",
+ "aired": "2021-08-02",
+ "note": "Matt Amodio game 9. \r First game with David Faber as guest host. \r Champion's winnings & consolation amounts matched to the Robin Hood Foundation.",
+ "contestants": [
+  {
+   "name": "Anna Hendrick",
+   "bio": "a private investigator from Queens, New York",
+   "short": "Anna"
+  },
+  {
+   "name": "Kent Easter",
+   "bio": "a management consultant from San Diego, California",
+   "short": "Kent"
+  },
+  {
+   "name": "Matt Amodio",
+   "bio": "a Ph.D. student from New Haven, Connecticut (whose 8-day cash winnings total $291,200)",
+   "short": "Matt"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Matt": 14200,
+   "Kent": 3000,
+   "Anna": 2000
+  },
+  "DJ": {
+   "Matt": 34200,
+   "Kent": 7400,
+   "Anna": 400
+  },
+  "Final": {
+   "Matt": 19200,
+   "Kent": 4800,
+   "Anna": 0
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "THE STATE I REP IN THE SENATE",
+    "FROM TV TO FILM",
+    "KNOTTY BY NATURE",
+    "HODGEPODGE",
+    "SCIENCE",
+    "HILL & MOUNTAIN IDIOMS"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 26,
+     "q": "Cory Booker",
+     "a": "New Jersey",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 28,
+     "q": "The 2000 movie version of this TV show added \"Viva Rock Vegas\" to the title",
+     "a": "The Flintstones",
+     "right": [
+      "Kent"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 29,
+     "q": "The knot called this hitch or bend is used to ensure your boat's rope stays attached to a certain heavy object",
+     "a": "anchor",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 30,
+     "q": "Irony alert: owners of a Noah's Ark replica in Kentucky sued insurers for not covering damage done by this 4-letter word",
+     "a": "rain",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 27,
+     "q": "Argentiferous means containing or producing this metal",
+     "a": "silver",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 25,
+     "q": "Someone at the top is this monarch, the title of an animated sitcom",
+     "a": "king of the hill",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 20,
+     "q": "Marco Rubio",
+     "a": "Florida",
+     "right": [
+      "Anna"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 9,
+     "q": "\"Nemesis\" & \"First Contact\" are films based on \"Star Trek: The Next Generation\", with Patrick Stewart reprising this role",
+     "a": "Picard",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 24,
+     "q": "ties.com says a half this \"is medium in size, nearly symmetrical &... produces a deep & substantial dimple\"",
+     "a": "a Windsor",
+     "right": [
+      "Kent"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 22,
+     "q": "In 1985 the Cubs' speedy Davey Lopes had 47 of these, failing only 4 times--not bad for a 40-year-old!",
+     "a": "stolen base",
+     "right": [
+      "Kent"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 23,
+     "q": "Crabs reabsorb calcium carbonate from their old shells and secrete enzymes to shed them in this process of getting new duds",
+     "a": "molting",
+     "right": [
+      "Anna"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 21,
+     "q": "A course of action with the potential for greater difficulties is this alliterative downhill course",
+     "a": "a slippery slope",
+     "right": [
+      "Anna"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 15,
+     "q": "Mitt Romney, but it's not the state he governed",
+     "a": "Utah",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 8,
+     "q": "This actor took on the role of Dr. Richard Kimble, innocent & on the run in the film version of \"The Fugitive\"",
+     "a": "Harrison Ford",
+     "right": [
+      "Anna"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 17,
+     "q": "It's similar to a noose knot & is used as the first loop in knitting; it's also a Corey Taylor metal band",
+     "a": "slip knot",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 19,
+     "q": "parents.com's \"Key to Soothing Fussy Infants\" is to mimic this place; \"Swaddling... may trigger a calming reflex\"",
+     "a": "the womb",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 16,
+     "q": "Tonic water contains a small amount of this alkaloid used in the treatment of malaria",
+     "a": "quinine",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": true,
+     "order": 18,
+     "q": "To do this means to exaggerate a problem into something much larger",
+     "a": "make a mountain out of a molehill",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 6400
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 11,
+     "q": "Ben Sasse, of the western Midwest",
+     "a": "Nebraska",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 7,
+     "q": "In 2 film versions of a TV sitcom, Shelley Long played this character",
+     "a": "Carol Brady",
+     "right": [],
+     "wrong": [
+      "Matt",
+      "Anna"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 13,
+     "q": "A type of double overhand knot used in fishing is named for this kind of doctor",
+     "a": "surgeon",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 14,
+     "q": "Here's the Appennine Colossus, Giambologna's 16th century statue in this region of Italy that includes Pisa & Florence",
+     "a": "Tuscany",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 12,
+     "q": "This disease was first identified due to a 1976 convention in Philadelphia",
+     "a": "Legionnaires",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 5,
+     "q": "Reaching one's highest level of efficiency; you don't want to be doing it \"too soon\"",
+     "a": "peaking",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 1,
+     "q": "Tim Kaine, who ran for vice president; remember that?",
+     "a": "Virginia",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 4,
+     "q": "Futuristic assassin Aeon Flux, who started on an animated series on MTV, came to the movies played by this actress",
+     "a": "Charlize Theron",
+     "right": [
+      "Kent"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 6,
+     "q": "Improperly tied, this type of knot is called a granny knot",
+     "a": "a square knot",
+     "right": [
+      "Anna"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 10,
+     "q": "Looking like they're sent from heaven, a translucent sea this can stay attached to a mate for four hours & still hunt prey together",
+     "a": "sea angel",
+     "right": [],
+     "wrong": [
+      "Anna"
+     ],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 2,
+     "q": "Also known as a thunderhead, this 12-letter type of cloud extends through all 3 levels of altitude classification",
+     "a": "cumulonimbus",
+     "right": [
+      "Kent"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 3,
+     "q": "Be flexible: \"If the mountain won't come to\" this prophet, he \"must go to the mountain\"",
+     "a": "Muhammad",
+     "right": [
+      "Anna"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "AMERICAN RIVERS",
+    "INSTRUMENTAL TO THE SONG",
+    "PLAYS",
+    "\"Y\" IN THE MIDDLE",
+    "THRONE OUT",
+    "AT HOME"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 20,
+     "q": "The largest river to empty into the Pacific in North America, it makes a huge gorge in the Cascades",
+     "a": "the Columbia",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "He plays piano on \"Clocks\" \n(2002)",
+     "a": "Chris Martin",
+     "right": [
+      "Anna"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 14,
+     "q": "Sophie Treadwell's 1928 play \"Machinal\" explores how a woman can be driven to murder & end her days in this seat",
+     "a": "the electric chair",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 30,
+     "q": "Pumpernickel is a cousin to this bread",
+     "a": "rye",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 29,
+     "q": "Liliuokalani was the first & last reigning queen of these islands",
+     "a": "the Hawaii Islands",
+     "right": [
+      "Kent"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 28,
+     "q": "When it's late at home, I'll use my Kindle Oasis or Nook Glowlight, which are these, to catch up on my Flaubert",
+     "a": "e-reader",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 19,
+     "q": "This river forms part of the border between Kansas & the state it shares a name with",
+     "a": "the Missouri",
+     "right": [
+      "Kent"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 24,
+     "q": "Electric guitarist on \"Roll Over Beethoven\" \n(1956)",
+     "a": "Chuck Berry",
+     "right": [
+      "Kent"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": true,
+     "order": 13,
+     "q": "In the Czech play \"R.U.R.\". which gave the world this word, one of them says, \"Mankind is no more. Mankind gave us too little life\"",
+     "a": "robot",
+     "right": [],
+     "wrong": [
+      "Anna"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2400
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 25,
+     "q": "You can have fun for one in this type of boat",
+     "a": "a kayak",
+     "right": [
+      "Kent"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": true,
+     "order": 18,
+     "q": "This world leader renounced his throne on March 15, 1917; 16 months later, he was dead",
+     "a": "Nicholas II",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 4000
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 26,
+     "q": "Some prefer sheets with this measure of more than 1,000; ours are comfy enough",
+     "a": "thread count",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 4,
+     "q": "This word comes before \"Bow\" in a Wyoming river & before \"Lodge\" in a Kansas river",
+     "a": "Medicine",
+     "right": [],
+     "wrong": [
+      "Matt",
+      "Kent"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 16,
+     "q": "Saxophonist on \"Jungleland\" (1975) & \"Dancing In The Dark\" (1984)",
+     "a": "(Clarence) Clemons",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 5,
+     "q": "A critic called Harold Pinter's \"The Birthday Party\" a \"comedy of menace\", punning on this phrase for plays about high society",
+     "a": "a comedy of manners",
+     "right": [
+      "Kent"
+     ],
+     "wrong": [
+      "Matt"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 23,
+     "q": "Bartholomew in Arkansas & Louisiana is the longest this type of sluggish body of water, at over 350 miles",
+     "a": "bayou",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 8,
+     "q": "King Louis-Philippe was ousted in 1848--France never liked him walking around like a British businessman, in a suit & carrying this",
+     "a": "an umbrella",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [
+      "Anna"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 12,
+     "q": "I like to make popcorn with this Indian clarified butter; I swear it makes it crispier",
+     "a": "ghee",
+     "right": [
+      "Anna"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 3,
+     "q": "Before emptying into the Gulf of Mexico, the Pearl River flows through this capital",
+     "a": "Jackson, Mississippi",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 15,
+     "q": "Drummer on \n\"Come As You Are\" (1991)",
+     "a": "Grohl",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 2,
+     "q": "In a Ben Jonson play Voltore (\"vulture\") hopes to inherit the fortune of this title character whose name means \"fox\"",
+     "a": "Volpone",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 22,
+     "q": "A triangle is the simplest form of this type of closed plane figure bounded by straight lines",
+     "a": "polygon",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 7,
+     "q": "Oliver Cromwell's defeat of the 2 kings of this name ended the English Civil Wars",
+     "a": "Charles",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 10,
+     "q": "At home, we like varietals at different temperatures, so we've invested in a dual zone one of these",
+     "a": "a wine refrigerator",
+     "right": [
+      "Kent"
+     ],
+     "wrong": [
+      "Anna"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 6,
+     "q": "The \"rap\" on this river: it's entirely in Virginia & its name is from Algonquian for \"stream with quick rising waters\"",
+     "a": "Rappahannock",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 17,
+     "q": "Keyboardist on \n\"You Make Loving Fun\" (1977)",
+     "a": "Christine McVie",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 1,
+     "q": "This person's \"Play\" by Charles Fuller about Sgt. Waters & Captain Davenport arrived on B'way in 2020, 38 years after winning a Pulitzer",
+     "a": "A Soldier's Play",
+     "right": [
+      "Anna"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 21,
+     "q": "It's sometimes referred to as a long-horned grasshopper",
+     "a": "katydid",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 9,
+     "q": "In 1944 King Michael ousted premier Ion Antonescu in this country; Communists tossed Michael in 1947",
+     "a": "Romania",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 11,
+     "q": "I'll relax to some patriotic jazz with the 2021 album \"The Democracy! Suite\" from this man's Jazz at Lincoln Center Orchestra septet",
+     "a": "Wynton Marsalis",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "HISTORIC BUSINESSMEN",
+  "q": "Born in the village of Waldorf, Germany in 1763, he arrived in the U.S. in 1784",
+  "a": "(John Jacob) Astor",
+  "right": [],
+  "wrong": [
+   "Anna",
+   "Kent",
+   "Matt"
+  ]
+ },
+ "gameId": "7110",
+ "cat_notes": {
+  "J": [
+   "The category “THE STATE I REP IN THE SENATE” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "Clues from TV to Film.",
+   "Clues about Knotty by Nature.",
+   "A mixed bag of clues with no single topic.",
+   "Clues about Science.",
+   "Clues about Hill and Mountain Idioms."
+  ],
+  "DJ": [
+   "Clues about American Rivers.",
+   "Clues about Instrumental to the Song.",
+   "Clues about Plays.",
+   "(David: And \"Y\" is in the exact middle of each response.).",
+   "Clues about Throne Out.",
+   "Clues at Home."
+  ],
+  "F": "Clues about Historic Businessmen."
+ }
+}

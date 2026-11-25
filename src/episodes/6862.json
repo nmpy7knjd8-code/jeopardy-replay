@@ -1,0 +1,994 @@
+{
+ "show": "#8276",
+ "aired": "2020-11-09",
+ "note": "Episode begins with a tribute to Alex Trebek by executive producer Mike Richards, and ends with a title card reading, \"Dedicated to Alex Trebek / Forever in our Hearts / Always our Inspiration\". The title card is displayed at the end of the remainder of the games in Season 37.",
+ "contestants": [
+  {
+   "name": "Ben Lewis",
+   "bio": "a data scientist from Costa Mesa, California",
+   "short": "Ben"
+  },
+  {
+   "name": "Monisha Crisell",
+   "bio": "a urologist originally from Albuquerque, New Mexico",
+   "short": "Monisha"
+  },
+  {
+   "name": "Andrew Chaikin",
+   "bio": "a musician and teacher from San Francisco, California (whose 1-day cash winnings total $21,601)",
+   "short": "Andrew"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Andrew": 11800,
+   "Monisha": 1600,
+   "Ben": 5600
+  },
+  "DJ": {
+   "Andrew": 22200,
+   "Monisha": 10000,
+   "Ben": 24200
+  },
+  "Final": {
+   "Andrew": 24399,
+   "Monisha": 10000,
+   "Ben": 44401
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "PODCASTS",
+    "THE BOOK CASE",
+    "WHAT THE BLANK?",
+    "M-N-Ms",
+    "A DAY AT THE RACES",
+    "A NIGHT AT THE OPERA"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 23,
+     "q": "This \"Science Guy\" \"Is on a Mission to Change the World\" & takes your questions on \"Science Rules!\"",
+     "a": "Bill Nye",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 30,
+     "q": "In \"Tropic of Fear\" Nancy Drew met up with these brothers for a Hawaiian-themed mystery",
+     "a": "the Hardy Boys",
+     "right": [
+      "Andrew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 28,
+     "q": "Literally, it's a bank draft that is signed but with the amount left empty",
+     "a": "a blank check",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 5,
+     "q": "It's a period of 1,000 years",
+     "a": "a millennium",
+     "right": [
+      "Andrew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 29,
+     "q": "On May 3, 2008 this Jamaican ran a 100 meters in 9.76; a few weeks later, he shaved .04 to set the world record",
+     "a": "(Usain) Bolt",
+     "right": [
+      "Andrew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 27,
+     "q": "After his U.S. debut with Joan Sutherland in 1965, this bearded Italian tenor hit the high C's as Tonjo in \"La fille du régiment\"",
+     "a": "Pavarotti",
+     "right": [
+      "Andrew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 22,
+     "q": "\"Fiasco\" examined the issues that played out during the election in 2000 between these 2 politicians",
+     "a": "Bush & Gore",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 21,
+     "q": "This lady who lived in the British village of St. Mary Mead solved \"The Murder at the Vicarage\"",
+     "a": "(Jane) Marple",
+     "right": [
+      "Andrew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 12,
+     "q": "Standard versions of this board game have 2 blank tiles that can be any letter but are worth zero points",
+     "a": "Scrabble",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 4,
+     "q": "I'm fond of the one seen here; it was made for me",
+     "a": "a monogram",
+     "right": [
+      "Monisha"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 19,
+     "q": "It took 3 days of looking at news pics, but Lee Petty was finally named the winner of the 1st 500 at this Fla. speedway in 1959",
+     "a": "Daytona",
+     "right": [
+      "Andrew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 26,
+     "q": "Opera hits a real low note (a \"D\") in an aria by Osmin, a role for this vocal range in Mozart's \"Abduction from the Seraglio\"",
+     "a": "bass",
+     "right": [
+      "Monisha"
+     ],
+     "wrong": [
+      "Ben"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 15,
+     "q": "\"WeCrashed\" looks at this office-sharing company that had a rough month in 2019 when it lost $37 billion in valuation",
+     "a": "WeWork",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 10,
+     "q": "\"The Interpretation of Murder\" finds this Austrian & Carl Jung caught up in a Manhattan murder mystery",
+     "a": "Freud",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 7,
+     "q": "This phrase meaning to be failed by your memory probably comes from a lottery where losing tickets had nothing written on them",
+     "a": "draw a blank",
+     "right": [
+      "Andrew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 3,
+     "q": "Used in photography, it has atomic number 12",
+     "a": "magnesium",
+     "right": [
+      "Andrew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 17,
+     "q": "In 2012 the Maryland Racing Commission shaved 1 2/5 seconds off Secretariat's 1973 win, setting a new record for this Triple Crown race",
+     "a": "the Preakness",
+     "right": [
+      "Andrew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": true,
+     "order": 20,
+     "q": "The name of this famed opera house in Milan built by Maria Theresa in the 1770s translates to \"the staircase\"",
+     "a": "La Scala",
+     "right": [
+      "Andrew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 3000
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 14,
+     "q": "Start counting Scovilles as the podcast about this food heats up on \"It Burns\"",
+     "a": "(chili) peppers",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 9,
+     "q": "This \"colorful\" boy detective solved many crimes, like \"The Case of the Stolen Diamonds\"",
+     "a": "Encyclopedia Brown",
+     "right": [
+      "Monisha"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 6,
+     "q": "A documentary about this game show hosted by Gene Rayburn & later Alec Baldwin is subtitled \"Behind the Blank\"",
+     "a": "Match Game",
+     "right": [
+      "Andrew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 2,
+     "q": "Jesse Ventura said, \"WikiLeaks exists because\" this media \"haven't done their job\"",
+     "a": "mainstream",
+     "right": [
+      "Andrew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 16,
+     "q": "The tradition of the yellow jersey being awarded during this race began in 1919; yellow was the color of the newspaper that sponsored it",
+     "a": "the Tour de France",
+     "right": [
+      "Andrew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 25,
+     "q": "In a Samuel Barber opera, you know that this queen is about to die when a man enters carrying a basket of figs",
+     "a": "Cleopatra",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 13,
+     "q": "Turns out this TBS late night show host \"Needs a Friend\"; Malcolm Gladwell & Tina Fey were happy to oblige",
+     "a": "Conan O'Brien",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 11,
+     "q": "This, Mary Shelley's middle name, is the name of a detective agency in which a young Mary solves cases",
+     "a": "Wollstonecraft",
+     "right": [
+      "Andrew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 8,
+     "q": "John Milton used this unrhymed pentameter in \"Paradise Lost\"",
+     "a": "blank verse",
+     "right": [
+      "Andrew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 1,
+     "q": "As opposed to albinism, this hereditary condition allows for darker pigmentation",
+     "a": "melanism",
+     "right": [
+      "Andrew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 18,
+     "q": "As a rookie in 2007, Lewis Hamilton finished only one point behind. season champ Kimi Räikkönen in this alphanumeric auto racing class",
+     "a": "F1",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 24,
+     "q": "The king's aria to a tree is a highlight of Handel's \"Serse\", about the Persian king better known as this",
+     "a": "Xerxes",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "HISTORIC NAMES",
+    "ACRONYMS",
+    "AMONG THE 10 LARGEST ISLANDS",
+    "MOVIE BIOS",
+    "SYMBOLS",
+    "KEN JENNINGS--MARINE BIOLOGIST"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 26,
+     "q": "She united Castile with Aragon when she married Ferdinand V in 1469",
+     "a": "Isabella",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "The creator of this type of animated online file intended it to sound like the peanut butter brand",
+     "a": "a GIF",
+     "right": [
+      "Andrew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "With an area of about 840,000 square miles, it's the world's largest island",
+     "a": "Greenland",
+     "right": [
+      "Monisha"
+     ],
+     "wrong": [
+      "Ben"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 29,
+     "q": "2005:\nJoaquin Phoenix as this country music sensation",
+     "a": "(Johnny) Cash",
+     "right": [
+      "Andrew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 28,
+     "q": "The glyph that symbolizes this sign of the zodiac represents ripples of water",
+     "a": "Aquarius",
+     "right": [
+      "Andrew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 30,
+     "q": "(Ken Jennings presents the clue.) The giant larvacean, which looks like a tadpole surrounded by a balloon of mucus, helps battle climate change; disproportionate to its small size, the gelatinous animals, with their protein & cellulose snot palaces, have helped the ocean remove this planet-warming gas from the atmosphere",
+     "a": "carbon dioxide",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 25,
+     "q": "During an historic visit to China in 1972, President Nixon met with this Communist Party leader",
+     "a": "Mao",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 15,
+     "q": "Adman Arthur Meyerhoff got his initials in the name of this cooking spray",
+     "a": "PAM",
+     "right": [
+      "Andrew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": true,
+     "order": 11,
+     "q": "It's the only one of the 10 that's part of Africa",
+     "a": "Madagascar",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 6000
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 23,
+     "q": "2000:\nEd Harris as this drip painter",
+     "a": "Jackson Pollock",
+     "right": [
+      "Monisha"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 22,
+     "q": "The diminutive of star gives this keyboard symbol its name",
+     "a": "an asterisk",
+     "right": [
+      "Monisha"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 19,
+     "q": "(Ken Jennings presents the clue.) Though its name is a byword for \"crowding\", this fish is vulnerable to steep reductions in numbers; overfishing closed the famed Cannery Row, & in 2014, its Pacific grounds were closed after its populations reduced by about 90%",
+     "a": "the sardine",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 16,
+     "q": "Leading the Spartan forces, Lysander defeated the Athenian navy, ending this war in 405 B.C.",
+     "a": "the Peloponnesian",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 3,
+     "q": "You might want to wear a wetsuit if you do this type of underwater diving",
+     "a": "SCUBA",
+     "right": [
+      "Monisha"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 10,
+     "q": "A silhouette of this second-largest island kind of looks like a bird in flight",
+     "a": "New Guinea",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 6,
+     "q": "In \"The Motorcycle Diaries\":\nGael Garcia Bernal as this revolutionary",
+     "a": "Che Guevara",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 12,
+     "q": "This baby animal represents Jesus, the sacrifice offered for man's sins",
+     "a": "lamb (the Lamb of God)",
+     "right": [
+      "Andrew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 20,
+     "q": "(Ken Jennings presents the clue.) This cartilaginous fish with a barbed tail & its mouth on its underside lives on the ocean bottom; its relative, the manta ray, is found in open waters, so I wonder how the classic marine biology text, \"Rock Lobster\" by the B-52s, can possibly have them swimming together",
+     "a": "a stingray",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 17,
+     "q": "In 1781 this German philosopher published his \"Critique of Pure Reason\", because he could",
+     "a": "Kant",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 5000
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 2,
+     "q": "Drake's song \"The Motto\" helped popularize this acronym telling us to go for what we want",
+     "a": "YOLO (you only live once)",
+     "right": [
+      "Monisha"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 9,
+     "q": "At No. 10, Ellesmere Island covers about 75,000 square miles in this ocean",
+     "a": "the Arctic",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 5,
+     "q": "1993:\nLiam Neeson as this German industrialist who saved Jews during World War II",
+     "a": "(Oskar) Schindler",
+     "right": [
+      "Andrew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 13,
+     "q": "An ancient symbol, the ouroboros is this animal with its tail in its mouth; it is continually devouring itself & reborn from itself",
+     "a": "a snake",
+     "right": [
+      "Andrew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 21,
+     "q": "(Ken Jennings presents the clue.) Some species of shrimp dig burrows that provide shelter for goby fish which, in turn, act as lookout for the nearly blind shrimp; it's an example of mutualism, which, of the main types of this relationship, is the one where both parties benefit",
+     "a": "symbiosis",
+     "right": [
+      "Monisha"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 18,
+     "q": "Prior to David Cameron, the last British PM named David was this man who led his country during WWI",
+     "a": "David Lloyd George",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 4,
+     "q": "This acronymic period takes up about 25% of our sleep time & is when we have our most vivid dreams",
+     "a": "REM",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 8,
+     "q": "Brunei is located on its northern coast",
+     "a": "Borneo",
+     "right": [
+      "Monisha"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 7,
+     "q": "In \"12 Years a Slave\":\nChiwetel Ejiofor as this free Black man sold into slavery",
+     "a": "Solomon Northup",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 14,
+     "q": "The first 3 letters of this Eastern symbol are represented by the tiger; the last 4, by the dragon",
+     "a": "yin-yang",
+     "right": [
+      "Andrew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 24,
+     "q": "(Ken Jennings presents the clue.) Marine biology with a touch of military history: during World War II, Scripps Institution of Oceanography scientists identified a crustacean whose noises were interfering with the detection of these enemy vessels",
+     "a": "submarines",
+     "right": [
+      "Andrew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "WORD ORIGINS",
+  "q": "This word for a type of building or institution comes from Greek for a place sacred to a mythical group of 9",
+  "a": "museum",
+  "right": [
+   "Andrew",
+   "Ben"
+  ],
+  "wrong": [
+   "Monisha"
+  ]
+ },
+ "gameId": "6862",
+ "cat_notes": {
+  "J": [
+   "Clues about Podcasts.",
+   "Clues about The Book Case.",
+   "The category “WHAT THE BLANK?” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "Each correct response will begin with the letter M, end with an \"M\" and have an \"N\" somewhere in between.",
+   "Clues about A Day at the Races.",
+   "Clues about A Night at the Opera."
+  ],
+  "DJ": [
+   "Clues about Historic Names.",
+   "Clues about Acronyms.",
+   "Clues about Among the 10 Largest Islands.",
+   "Clues about Movie Bios.",
+   "Clues about Symbols.",
+   "And then we hear from the newest member of the Jeopardy! team.) (Ken Jennings: To be a Jeopardy! champion, you have to know something about everything. Today I'll test your knowledge of marine biology."
+  ],
+  "F": "Clues about Word Origins."
+ }
+}

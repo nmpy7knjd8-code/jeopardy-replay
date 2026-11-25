@@ -1,0 +1,997 @@
+{
+ "show": "#8309",
+ "aired": "2021-01-07",
+ "note": "Originally slated to air 2020-12-24.",
+ "contestants": [
+  {
+   "name": "Tracy Lee",
+   "bio": "a data scientist from Newark, California",
+   "short": "Tracy"
+  },
+  {
+   "name": "Natalie Craig",
+   "bio": "a government analyst from Sacramento, California",
+   "short": "Natalie"
+  },
+  {
+   "name": "Yoshie Hill",
+   "bio": "an executive assistant from Colma, California (whose 1-day cash winnings total $6,800)",
+   "short": "Yoshie"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Yoshie": 6400,
+   "Natalie": 4400,
+   "Tracy": 5400
+  },
+  "DJ": {
+   "Yoshie": 12400,
+   "Natalie": 9200,
+   "Tracy": 16600
+  },
+  "Final": {
+   "Yoshie": 24800,
+   "Natalie": 18200,
+   "Tracy": 8399
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "HOBBIES & CRAFTS",
+    "BODY LANGUAGE",
+    "SLOW TRANSPORTATION",
+    "LITERARY KINGS",
+    "QUEENS",
+    "JOCKS"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 29,
+     "q": "Here's the gear you should wear when you practice this",
+     "a": "beekeeping",
+     "right": [
+      "Tracy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 23,
+     "q": "Someone who changes their mind about taking a trip or tying the knot gets cold these",
+     "a": "feet",
+     "right": [
+      "Natalie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 7,
+     "q": "In 2019 Disney parks put size limitations on these tot transports, but will rent you a street-legal single or double one",
+     "a": "a stroller",
+     "right": [
+      "Natalie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 17,
+     "q": "The death of King Robert Baratheon sets off a deadly chain reaction in a novel by this author",
+     "a": "George R.R. Martin",
+     "right": [
+      "Natalie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 30,
+     "q": "Maria I, queen of this Iberian nation for 39 years, died in Brazil following Napoleon's invasion of her homeland",
+     "a": "Portugal",
+     "right": [
+      "Yoshie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 18,
+     "q": "Captain of the U.S. team in the last 2 Olympics, Aly Raisman has won 3 gold medals in this sport",
+     "a": "gymnastics",
+     "right": [
+      "Natalie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "Actress Laura Prepon is among those who have taken up this hobby, crafting ashtrays & bowls out of clay",
+     "a": "pottery",
+     "right": [
+      "Natalie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 10,
+     "q": "In slang it means to I.D. a criminal to authorities",
+     "a": "finger",
+     "right": [
+      "Natalie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 8,
+     "q": "The band of material that propels bulldozers is called continuous track or this military vehicle \"tread\"",
+     "a": "a tank",
+     "right": [
+      "Yoshie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 6,
+     "q": "In kids' books, Pom, Flora & Alexander are the triplet offspring of this pachyderm king",
+     "a": "Babar",
+     "right": [
+      "Natalie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "In 30 B.C. her decades of rule were ended, probably via the bite of a cobra",
+     "a": "Cleopatra",
+     "right": [
+      "Yoshie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 19,
+     "q": "Nothing fishy about Mike Trout, a standout slugger & outfielder for this California MLB team",
+     "a": "the Angels",
+     "right": [
+      "Natalie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 28,
+     "q": "Dan Robbins created these kits in the 1950s to appeal to budding adult artists; beginner kits came with 20 colors",
+     "a": "Paint by Numbers",
+     "right": [
+      "Yoshie"
+     ],
+     "wrong": [
+      "Natalie"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 11,
+     "q": "Express support without following through & you're merely paying this \"service\"",
+     "a": "lip",
+     "right": [
+      "Natalie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 9,
+     "q": "Danny Lloyd, the child actor in \"The Shining\", has said one of his main memories was getting to ride this indoors",
+     "a": "a tricycle",
+     "right": [
+      "Natalie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 14,
+     "q": "In \"A Midsummer Night's Dream\", Oberon is the spouse of Titania & the king of these beings",
+     "a": "fairies",
+     "right": [
+      "Tracy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 5,
+     "q": "During her reign as Queen of Great Britain & Ireland, she was also Empress of India",
+     "a": "Victoria",
+     "right": [
+      "Tracy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 20,
+     "q": "This first woman to win an Indy Car Series race wrote a book called \"Pretty Intense\"",
+     "a": "Danica Patrick",
+     "right": [
+      "Natalie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 27,
+     "q": "With origami, paper is folded into designs & objects; kirigami uses paper & a pair of these to execute designs",
+     "a": "scissors",
+     "right": [
+      "Tracy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 12,
+     "q": "In the title of Shakira's first U.S. No. 1 hit, these \"Don't Lie\"",
+     "a": "Hips",
+     "right": [
+      "Natalie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 24,
+     "q": "In this Olympic sport, the 20-kilometer distance is considered the sprint",
+     "a": "Olympic walking",
+     "right": [],
+     "wrong": [
+      "Natalie"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": true,
+     "order": 15,
+     "q": "As a title character he's only a prince, but Caspian eventually becomes a king in this fantasy land",
+     "a": "Narnia",
+     "right": [
+      "Tracy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2200
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 3,
+     "q": "In 1654 Queen Christina of this Scandinavian nation shocked Europe by abdicating & moving to Rome",
+     "a": "Sweden",
+     "right": [
+      "Yoshie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 21,
+     "q": "This Milwaukee Bucks star was born in Greece to Nigerian parents (don't worry, we'll take just his first name)",
+     "a": "Giannis (Antetokounmpo)",
+     "right": [
+      "Natalie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 26,
+     "q": "Take up this 5-letter type of yoga that many westerners perform as a type of exercise",
+     "a": "hatha",
+     "right": [
+      "Yoshie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 13,
+     "q": "The second of Thornton Wilder's 2 Pulitzer Prize-winning plays mentions these 2 body parts",
+     "a": "skin & teeth",
+     "right": [
+      "Tracy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 25,
+     "q": "With gentle winds & lovely countryside to view from above, Canowindra is this transport capital of Australia",
+     "a": "ballooning",
+     "right": [
+      "Yoshie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 16,
+     "q": "In this Kipling tale Daniel Dravot tricks natives of a region of Afghanistan into crowning him king",
+     "a": "\"The Man Who Would Be King\"",
+     "right": [
+      "Yoshie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 4,
+     "q": "Not just a queen, but an archduchess & an empress, she was the mother of another queen, Marie Antoinette",
+     "a": "Maria Theresa",
+     "right": [
+      "Yoshie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 22,
+     "q": "The unconventional methods of this long-hitting 2020 U.S. Open champ include using a protractor on the putting green",
+     "a": "Bryson DeChambeau",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "BLACK HERITAGE STAMPS",
+    "SCIENCE & MATH GROUPINGS",
+    "MYTHOLOGY",
+    "ABOVE & BEYOND",
+    "TELEVISION",
+    "GOOD AFTER NOUN"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 30,
+     "q": "In 1978 this Underground Railroad conductor appeared on the first stamp in the Black Heritage Series",
+     "a": "Harriet Tubman",
+     "right": [
+      "Yoshie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 15,
+     "q": "Of the 4 basic math operations, the one that produces a quotient",
+     "a": "division",
+     "right": [
+      "Natalie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 6,
+     "q": "After Polyphemus, one of these 1-eyed giants, ate some of Odysseus' men, the survivors blinded him",
+     "a": "a Cyclops",
+     "right": [
+      "Yoshie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 29,
+     "q": "Staying above sea level is an issue in this country, though Vaalserberg does rise to 1,053 feet",
+     "a": "the Netherlands",
+     "right": [
+      "Yoshie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 7,
+     "q": "Taking its name from a George Orwell character, this show with housemates under surveillance has watchers all over the world",
+     "a": "Big Brother",
+     "right": [
+      "Tracy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 28,
+     "q": "Completes the dealer's common statement \"The game is seven card stud, deuces...\"",
+     "a": "wild",
+     "right": [
+      "Yoshie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 19,
+     "q": "Order in the Supreme Court--he was honored on a stamp in 2003",
+     "a": "(Thurgood) Marshall",
+     "right": [
+      "Natalie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 5,
+     "q": "Making up group 18 on the periodic table, the 7 of these include neon & argon",
+     "a": "noble gases",
+     "right": [
+      "Yoshie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 1,
+     "q": "One of the places Vulcan was said to have his workshop was on Sicily below this volcano",
+     "a": "Mt. Etna",
+     "right": [
+      "Tracy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 17,
+     "q": "\"Beyond the\" this means \"unacceptable\"; this was a region of Ireland under British jurisdiction",
+     "a": "pale",
+     "right": [
+      "Natalie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 8,
+     "q": "Wednesday & Pugsley were the children of Gomez & Morticia on this kooky comedy classic",
+     "a": "The Addams Family",
+     "right": [
+      "Natalie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 27,
+     "q": "From the French, this 14-letter adjective means \"outstanding\" & comes after the noun, as in \"Pat Sajak, host ____\"",
+     "a": "extraordinaire",
+     "right": [
+      "Yoshie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 20,
+     "q": "A 2002 stamp paid tribute to a true renaissance man--this Harlem Renaissance poet",
+     "a": "(Langston) Hughes",
+     "right": [
+      "Natalie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 12,
+     "q": "A playground seesaw is a good example of this one of the 6 simple machines",
+     "a": "a lever",
+     "right": [
+      "Yoshie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 2,
+     "q": "As predicted by the Oracle of Delphi, he killed his father & married his mother",
+     "a": "Oedipus",
+     "right": [
+      "Natalie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 16,
+     "q": "This line begins around 66 degrees north; if you travel above it on the right day, there will be 24 hours of darkness",
+     "a": "the Arctic Circle (the polar circle)",
+     "right": [
+      "Yoshie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 9,
+     "q": "Pull up a stool next to Homer at this bar on \"The Simpsons\"",
+     "a": "Moe's (Tavern)",
+     "right": [
+      "Tracy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 26,
+     "q": "In succession to property or a crown, the heir presumptive is not as secure as this heir",
+     "a": "the heir apparent",
+     "right": [
+      "Natalie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 21,
+     "q": "In 2019 the Postal Service paid tribute to this late dancer & actor",
+     "a": "Gregory Hines",
+     "right": [
+      "Yoshie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 13,
+     "q": "The reciprocal trigonometric functions are secant, cosecant & this",
+     "a": "a cotangent",
+     "right": [
+      "Tracy"
+     ],
+     "wrong": [
+      "Yoshie",
+      "Natalie"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 3,
+     "q": "Call him Hypnos or call him Somnus, he was the god of this",
+     "a": "sleep",
+     "right": [
+      "Tracy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 18,
+     "q": "Rising almost 2,000 feet, the Makkah Royal Clock Tower offers lodging for hajj pilgrims in this country",
+     "a": "Saudi Arabia",
+     "right": [
+      "Tracy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 10,
+     "q": "The announcers on \"NBC Sunday Night Football\" are Al Michaels & this former wide receiver",
+     "a": "Cris Collinsworth",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 25,
+     "q": "From Latin for \"made flesh\", it often comes after \"the devil\"",
+     "a": "incarnate",
+     "right": [
+      "Yoshie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 3000
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 22,
+     "q": "This esteemed journalist & PBS news anchor who passed away in 2016 was honored in 2020",
+     "a": "Gwen Ifill",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 14,
+     "q": "Strange & charm are 2 of the 6 flavors of these subatomic particles",
+     "a": "quarks",
+     "right": [
+      "Tracy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 4,
+     "q": "Created by Loki, this 8-legged horse carried Odin into battle",
+     "a": "Sleipnir",
+     "right": [
+      "Tracy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": true,
+     "order": 23,
+     "q": "The name of this country that stretches along the South China Sea means people beyond (China's) southern border",
+     "a": "Vietnam",
+     "right": [],
+     "wrong": [
+      "Yoshie"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 4600
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 11,
+     "q": "He was a long-time presence on television as an amiable astronaut & as an ominous oilman",
+     "a": "Larry Hagman",
+     "right": [
+      "Yoshie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 24,
+     "q": "John Updike's second book about Harry Angstrom is \"Rabbit\" this, meaning \"brought back\"",
+     "a": "Rabbit Redux",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "MUSICALS",
+  "q": "4 songs from this 1968 musical made the Billboard Top 10, including one with an astrological theme that was No. 1 for 6 weeks",
+  "a": "Hair",
+  "right": [
+   "Natalie",
+   "Yoshie"
+  ],
+  "wrong": [
+   "Tracy"
+  ]
+ },
+ "gameId": "6899",
+ "cat_notes": {
+  "J": [
+   "Clues about Hobbies and Crafts.",
+   "Clues about Body Language.",
+   "Clues about Slow Transportation.",
+   "Clues about Literary Kings.",
+   "Clues about Queens.",
+   "Clues about Jocks."
+  ],
+  "DJ": [
+   "Clues about Black Heritage Stamps.",
+   "Clues about Science and Math Groupings.",
+   "Clues about Mythology.",
+   "Clues about Above and Beyond.",
+   "Clues about Television.",
+   "Adjectives that come after the noun."
+  ],
+  "F": "Clues about Musicals."
+ }
+}

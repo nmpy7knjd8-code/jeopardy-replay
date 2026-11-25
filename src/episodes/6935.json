@@ -1,0 +1,988 @@
+{
+ "show": "#8333",
+ "aired": "2021-02-10",
+ "note": "John Focht game 3.",
+ "contestants": [
+  {
+   "name": "Jared Wilke",
+   "bio": "a teacher from Half Moon Bay, California",
+   "short": "Jared"
+  },
+  {
+   "name": "Tiffany Seitler",
+   "bio": "a finance manager originally from Garfield, New Jersey",
+   "short": "Tiffany"
+  },
+  {
+   "name": "John Focht",
+   "bio": "a software team lead originally from El Paso, Texas (whose 2-day cash winnings total $58,800)",
+   "short": "John"
+  }
+ ],
+ "scores": {
+  "J": {
+   "John": 8700,
+   "Tiffany": 3200,
+   "Jared": 2400
+  },
+  "DJ": {
+   "John": 21900,
+   "Tiffany": 8000,
+   "Jared": 5800
+  },
+  "Final": {
+   "John": 25000,
+   "Tiffany": 100,
+   "Jared": 3599
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "PAID BY THE WORD: LEGAL EDITION",
+    "HISTORY QUICK SHOTS",
+    "LET'S DANCE!",
+    "CROATIA",
+    "WHAT DOES NOT KILL US...",
+    "MAKES US STRONGER"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 26,
+     "q": "Legal doublets, as the possibly redundant phrases are called, often come in alliterative form, like \"part &\" this",
+     "a": "parcel",
+     "right": [
+      "Tiffany"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "This Spaniard & his crew landed at Tabasco in 1519, soon to begin conquering the Aztecs",
+     "a": "Cortés",
+     "right": [
+      "John"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 16,
+     "q": "In \"Scent of a Woman\", Al Pacino & Gabrielle Anwar were the 2 it took to do this dance",
+     "a": "tango",
+     "right": [
+      "John"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 12,
+     "q": "Nicknamed \"The City that Flows\", Rijeka has also been known as Reka, Fiume & Flumen; all 4 names mean this",
+     "a": "river",
+     "right": [
+      "John"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 6,
+     "q": "Leonardo DiCaprio has a bad encounter with one of these animals in \"The Revenant\" but does make it to the end of the movie",
+     "a": "a (grizzly) bear",
+     "right": [
+      "Tiffany"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 21,
+     "q": "Also what kids dread during flu season, this phrase means something that's helpful",
+     "a": "a shot in the arm",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "The phrase \"peace and\" this has a legal meaning, as you'll find out if you disturb those around you with rowdy behavior",
+     "a": "quiet",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "The Clermont, this kind of vessel named for its type of engine, first puffed in 1807",
+     "a": "a steamboat",
+     "right": [
+      "John"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 17,
+     "q": "Let's \"slide\" into this double-name dance using 5 steps in a 4-beat measure, slow-slow-quick-quick-slow",
+     "a": "the cha-cha",
+     "right": [],
+     "wrong": [
+      "John"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 11,
+     "q": "The Gothic church of St. Mark's & the Baroque church of St. Catherine are both found in this capital",
+     "a": "Zagreb",
+     "right": [
+      "John"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 7,
+     "q": "As this title BBC sleuth, Benedict Cumberbatch appeared to leap to his death, but it was not his \"Last Bow\"",
+     "a": "Sherlock Holmes",
+     "right": [
+      "Tiffany"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 22,
+     "q": "They're the qualities that give you strength; in espionage, they're people valuable to an operation",
+     "a": "assets",
+     "right": [
+      "John"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 28,
+     "q": "After the Norman Conquest, lawyers made sure they were clear with \"last will (an Anglo-Saxon word) &\" this French-derived term",
+     "a": "testament",
+     "right": [
+      "John"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 3,
+     "q": "Depicted here is some Lancaster-on-York action in these wars",
+     "a": "the Wars of the Roses",
+     "right": [
+      "John"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 18,
+     "q": "Lil baby & A1 steak sauce both have song titles that mention this 4-letter dance that became popular in 2018",
+     "a": "the Woah",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 13,
+     "q": "Many visitors to the island of Krk have been inspired to utter this \"Wheel of Fortune\" catchphrase",
+     "a": "Can I buy a vowel?",
+     "right": [
+      "John"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 8,
+     "q": "Whether cooked in a microwave or crushed by the Mir Space Station, this \"South Park\" kid has endured all manner of death",
+     "a": "Kenny",
+     "right": [
+      "Jared"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 23,
+     "q": "As a noun, this \"B\" word is a long, supportive pillow; as a verb, it means to prop something up, like morale",
+     "a": "bolster",
+     "right": [
+      "Tiffany"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "Legally, this known associate of \"entering\" means going in without permission, so the phrase is a bit repetitive",
+     "a": "breaking",
+     "right": [
+      "Tiffany"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 4,
+     "q": "This Windy City lawyer went to Tennessee in 1925 to defend a teacher",
+     "a": "Darrow",
+     "right": [
+      "John"
+     ],
+     "wrong": [
+      "Tiffany"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 19,
+     "q": "In ballet, a grand this French term is a full bending of the knees, until the thighs are horizontal; a demi-one is half-bending",
+     "a": "a plié",
+     "right": [
+      "Tiffany"
+     ],
+     "wrong": [
+      "John"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": true,
+     "order": 14,
+     "q": "The coastal cities of Pula & Zadar overlook this sea, an arm of the Mediterranean",
+     "a": "the Adriatic",
+     "right": [
+      "John"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2500
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 9,
+     "q": "This Shakespeare character drinks a potion that imitates outward death, but the plan doesn't go as desired",
+     "a": "Juliet",
+     "right": [
+      "Jared"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 24,
+     "q": "From the Latin for \"made full\", it's something like red yeast rice that makes your body stronger",
+     "a": "supplement",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 30,
+     "q": "The U.S. Constitution makes one state respect the laws of another in the clause called \"Full Faith and\" this",
+     "a": "Credit",
+     "right": [
+      "John"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 5,
+     "q": "44 countries met in this Dutch city in 1907 to make a little more peace",
+     "a": "The Hague",
+     "right": [
+      "Tiffany"
+     ],
+     "wrong": [
+      "Jared"
+     ],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 20,
+     "q": "You can do this Spanish folk dance solo or as a couple, perhaps to Ravel's 1928 music of the same name",
+     "a": "bolero",
+     "right": [
+      "John"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 15,
+     "q": "Home to the tourist city of Dubrovnik, this scenic coast has a dog breed named for it",
+     "a": "Dalmatia",
+     "right": [
+      "John"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 10,
+     "q": "At the end of this 1982 movie, a replicant spares Harrison Ford's character, perhaps appreciating life in any form",
+     "a": "Blade Runner",
+     "right": [
+      "Jared"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 25,
+     "q": "When you hear \"Here comes\" this mounted group, your struggle is about to be lessened as reinforcements have arrived",
+     "a": "the cavalry",
+     "right": [
+      "Jared"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "PUBLIC SCULPTURE",
+    "SYNONYM ROLES",
+    "3-NAMED AUTHORS",
+    "GOVERNMENT & POLITICS",
+    "4-LETTER \"F\" WORDS",
+    "MATH IN THE WORLD"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "In bronze, 9 of these wild horses \"of Las Colinas\" gallop across a granite stream in Irving, Texas",
+     "a": "mustangs",
+     "right": [],
+     "wrong": [
+      "Tiffany"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 24,
+     "q": "1998: \nWesley Snipes as \"flat cutting part of knife\"",
+     "a": "Blade",
+     "right": [
+      "Jared"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 30,
+     "q": "This 19th century New England thinker penned the \"Concord Hymn\" & the essay \"Self-Reliance\"",
+     "a": "Ralph Waldo Emerson",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 19,
+     "q": "This very large building in Virginia is headquarters to the Army, Navy & Air Force",
+     "a": "The Pentagon",
+     "right": [
+      "John"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 5,
+     "q": "Comic Sans MS is a type of one",
+     "a": "a font",
+     "right": [
+      "Tiffany"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "(Joy Buolamwini presents the clue.) Gamblers & investors know their perms & combs; it's short for permutations, a set where the order matters & these, a set where it doesn't",
+     "a": "combinations",
+     "right": [
+      "Jared"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 28,
+     "q": "Pope Clement IX commissioned the 10 of these that line Rome's Ponte Sant'Angelo (for a total of 20 wings)",
+     "a": "angels",
+     "right": [
+      "John"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 12,
+     "q": "1997: \nRowan Atkinson as \"Señor Legume\"",
+     "a": "Mr. Bean",
+     "right": [
+      "John"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 8,
+     "q": "In the 1830s, before she was a bestselling author, she lived in Cincinnati, across from a slave-holding community",
+     "a": "Harriet Beecher Stowe",
+     "right": [
+      "Jared"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 20,
+     "q": "Aka a battleground or swing state, a state that is closely divided between Democrats & Republicans is this color state",
+     "a": "purple",
+     "right": [
+      "Jared"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 6,
+     "q": "David Bowie sang that this \"makes a man take things over\"",
+     "a": "fame",
+     "right": [
+      "John"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 2,
+     "q": "(Joy Buolamwini presents the clue.) Video game designers plan out their games using this kind of system, that by definition uses X, Y & Z values to determine the position of a point",
+     "a": "a coordinate system",
+     "right": [
+      "John"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 25,
+     "q": "The famed limestone lions outside this Midtown Manhattan building are called Patience & Fortitude",
+     "a": "the New York Public Library",
+     "right": [
+      "John"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 13,
+     "q": "2017: \nEmma Watson as \"Lovely Girl\"",
+     "a": "Belle",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 9,
+     "q": "His poems like \"Kubla Khan\" are celebrated for their lyricism",
+     "a": "Samuel Taylor Coleridge",
+     "right": [
+      "Jared"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 21,
+     "q": "This term arose from a 19th century cartoon of a twisted Massachusetts district",
+     "a": "gerrymander",
+     "right": [
+      "John"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 16,
+     "q": "It's an unweaned deer",
+     "a": "a fawn",
+     "right": [
+      "Tiffany"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 3,
+     "q": "(Joy Buolamwini presents the clue.) When you earn interest on both the principal & on the interest you've already accumulated, that's what Suze Orman calls the magic of this",
+     "a": "compounding",
+     "right": [
+      "Jared"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 26,
+     "q": "A statue of this brewer was unveiled in 2013 in Celbridge, Ireland, near where he was born around 1725",
+     "a": "(Arthur) Guinness",
+     "right": [
+      "John"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2000
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 14,
+     "q": "2014: \nAngelina Jolie as \"Doing Harm\"",
+     "a": "Maleficent",
+     "right": [
+      "John"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 10,
+     "q": "Simon & Schuster sponsors an award for suspense fiction named for this female author of \"A Stranger is Watching\"",
+     "a": "Mary Higgins Clark",
+     "right": [],
+     "wrong": [
+      "Jared"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 5000
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 22,
+     "q": "To \"cross\" this is to show bipartisanship--come on, folks, it's only 6 feet wide in the Senate chamber",
+     "a": "the aisle",
+     "right": [
+      "John"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 17,
+     "q": "Any decree, or an automaker that originated in Turin",
+     "a": "a fiat",
+     "right": [
+      "Jared"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 4,
+     "q": "(Joy Buolamwini presents the clue.) Intersectional analysis is a way to evaluate how multiple variables influence the accuracy of this surveillance technology I have shown to struggle on darker faces",
+     "a": "facial recognition",
+     "right": [
+      "Tiffany"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 29,
+     "q": "A pair of bronze nudes, \"Redemption Song\" is a monument to emancipation in this country",
+     "a": "Jamaica",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 15,
+     "q": "1985: \nChevy Chase as \"to provide with a feather\"",
+     "a": "Fletch",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 11,
+     "q": "This Yentl creator's \"Shadows on the Hudson\" is about Jewish refugees in the aftermath of World War II",
+     "a": "Isaac Bashevis Singer",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 23,
+     "q": "The Cybersecurity & Infrastructure Security Agency is part of this department",
+     "a": "Homeland Security",
+     "right": [
+      "Tiffany"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 18,
+     "q": "In feudal times it was property granted to a vassal",
+     "a": "a fief",
+     "right": [
+      "John"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 7,
+     "q": "(Joy Buolamwini presents the clue.) Natural objects such as ferns often exhibit these patterns of similar structures at smaller & larger scales studied since the 1970s",
+     "a": "fractals",
+     "right": [
+      "Jared"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "HISTORIC NAMESAKES",
+  "q": "This aircraft was named for the second president of the Weimar Republic",
+  "a": "Hindenburg",
+  "right": [
+   "John"
+  ],
+  "wrong": [
+   "Jared",
+   "Tiffany"
+  ]
+ },
+ "gameId": "6935",
+ "cat_notes": {
+  "J": [
+   "Clues about Paid by the Word: Legal Edition.",
+   "Clues about History Quick Shots.",
+   "The category “LET'S DANCE!” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "Clues about Croatia.",
+   "Clues about What Does Not Kill Us.",
+   "Clues about Makes Us Stronger."
+  ],
+  "DJ": [
+   "Clues about Public Sculpture.",
+   "You'll name the character whose synonym we've given.",
+   "Clues about 3-named Authors.",
+   "Clues about Government and Politics.",
+   "Each answer is a 4-letter word or term related to 4-letter \"f\" Words.",
+   "In partnership with Olay, we're continuing to call attention to the gender gap in STEM fields. Presenting today's MATH IN THE WORLD category is founder of the Algorithmic Justice League, Joy Buolamwini."
+  ],
+  "F": "Clues about Historic Namesakes."
+ }
+}

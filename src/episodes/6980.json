@@ -1,0 +1,989 @@
+{
+ "show": "#8364",
+ "aired": "2021-03-25",
+ "note": "Champion's winnings & consolation amounts matched to HealthCorps.",
+ "contestants": [
+  {
+   "name": "Lisa O'Brien",
+   "bio": "a stay-at-home mom and community volunteer from Edina, Minnesota",
+   "short": "Lisa"
+  },
+  {
+   "name": "Doug Small",
+   "bio": "a restaurant manager from Ypsilanti, Michigan",
+   "short": "Doug"
+  },
+  {
+   "name": "Amal Dorai",
+   "bio": "a product manager originally from Lexington, Massachusetts (whose 2-day cash winnings total $43,200)",
+   "short": "Amal"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Amal": 1600,
+   "Doug": 3200,
+   "Lisa": 8600
+  },
+  "DJ": {
+   "Amal": 8000,
+   "Doug": 14800,
+   "Lisa": 14600
+  },
+  "Final": {
+   "Amal": 15999,
+   "Doug": 199,
+   "Lisa": 16100
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "ICONS OF TECHNOLOGY",
+    "THE PLAY'S THE THING",
+    "STATE PARKS",
+    "CELEBRITY SIBLING SURNAMES",
+    "IN A TEACUP",
+    "GOOD \"BI\""
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "The icon of this button has a one & a zero to show its binary nature",
+     "a": "a power switch",
+     "right": [
+      "Amal"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 17,
+     "q": "Estragon & Vladimir meet up with Lucky & Pozzo but not the title character of this play, a real Beckett of laughs",
+     "a": "Waiting for Godot",
+     "right": [
+      "Doug"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 20,
+     "q": "Florida's Bahia Honda State Park covers an entire island in this chain in the Gulf of Mexico",
+     "a": "the Keys",
+     "right": [
+      "Lisa"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 7,
+     "q": "Goldie's kids Kate & Oliver",
+     "a": "Hudson",
+     "right": [
+      "Lisa"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 10,
+     "q": "Studies show that drinking an herbal tea made from this flower may have heart-healthy benefits",
+     "a": "hibiscus",
+     "right": [
+      "Doug"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 3,
+     "q": "Around 1850 in Kenya, missionary Ludwig Krapf translated this book into Swahili",
+     "a": "the Bible",
+     "right": [
+      "Doug"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "A 3-letter icon on a piece of technology says that it has been okayed by this government commission",
+     "a": "the Federal Communications Commission",
+     "right": [
+      "Lisa"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 18,
+     "q": "What Willy Loman tries to sell for the Wagner Company is not specified in this drama",
+     "a": "Death of a Salesman",
+     "right": [
+      "Amal"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 21,
+     "q": "Fort Griswold Battlefield State Park marks Conn.'s largest battle of the Revolution, with this traitor helping the Brits to victory",
+     "a": "Benedict Arnold",
+     "right": [
+      "Lisa"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 16,
+     "q": "Derek & Julianne, who danced their way to fame",
+     "a": "Hough",
+     "right": [
+      "Doug"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 11,
+     "q": "In an idiom, a big to-do over a tiny matter is described as this \"in a teacup\" or \"teapot\"",
+     "a": "a tempest",
+     "right": [
+      "Lisa"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 4,
+     "q": "Zoologists don't consider the American buffalo a buffalo; they use this word instead",
+     "a": "a bison",
+     "right": [
+      "Amal"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 6,
+     "q": "A series of three connected dots is an icon for this 7-letter action with files, not toys",
+     "a": "sharing",
+     "right": [
+      "Doug"
+     ],
+     "wrong": [
+      "Amal"
+     ],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 28,
+     "q": "He created strong female characters in \"Hedda Gabler\" & \"A Doll's House\"",
+     "a": "(Henrik) Ibsen",
+     "right": [
+      "Amal"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": true,
+     "order": 22,
+     "q": "With boating, camping & fishing, Alabama's Meaher State Park is on this bay that's an arm of the Gulf of Mexico",
+     "a": "Mobile Bay",
+     "right": [
+      "Lisa"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1000
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 25,
+     "q": "British stage & film stars Ralph & Joseph",
+     "a": "Fiennes",
+     "right": [
+      "Lisa"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 12,
+     "q": "Yup, it's a teacup one of these terrier breeds in a teacup",
+     "a": "a Yorkshire Terrier",
+     "right": [
+      "Amal"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 5,
+     "q": "In 2009 the Supreme Court tackled a case on judicial this type of favoritism",
+     "a": "bias",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 15,
+     "q": "On the road, the icon here means this 4-letter staple of modern life is available",
+     "a": "Wi-Fi",
+     "right": [
+      "Lisa"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "James Earl Jones & Jason Robards have both played Hickey in this chilly play by Eugene O'Neill",
+     "a": "The Iceman Cometh",
+     "right": [
+      "Lisa"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 23,
+     "q": "Bothe-Napa Valley in California has the farthest inland groves of the giants called \"Coast\" these of any state park",
+     "a": "redwoods",
+     "right": [
+      "Lisa"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 26,
+     "q": "Race car drivers Kyle & Kurt",
+     "a": "Busch",
+     "right": [
+      "Doug"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 13,
+     "q": "Reese Witherspoon pays homage to her grandmother & her southern heritage in the lifestyle book called this booze \"in a Teacup\"",
+     "a": "whiskey",
+     "right": [
+      "Doug"
+     ],
+     "wrong": [
+      "Lisa"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 8,
+     "q": "Tundra is an example of this unique type of habitat with a 5-letter name",
+     "a": "a biome",
+     "right": [
+      "Lisa"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 19,
+     "q": "In many systems, a machinery part is the icon for this basic function of customizing your device with your preferences",
+     "a": "settings",
+     "right": [
+      "Lisa"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 30,
+     "q": "In a 2016 Broadway revival, Diane Lane starred as the woman who must sell her family's estate in this Chekhov play",
+     "a": "The Cherry Orchard",
+     "right": [
+      "Lisa"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 24,
+     "q": "First held in 1954, this annual jazz festival moved to Rhode Island's Fort Adams State Park in 1981",
+     "a": "the Newport Jazz Festival",
+     "right": [],
+     "wrong": [
+      "Lisa"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 27,
+     "q": "Carnie & Wendy, 2/3 of a pop trio",
+     "a": "Wilson",
+     "right": [
+      "Lisa"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 14,
+     "q": "A house one of these birds enjoys some seeds & rest in a teacup bird feeder",
+     "a": "a finch",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 9,
+     "q": "From Latin for \"two-forked\", it means to divide into 2 branches, like a river",
+     "a": "bifurcate",
+     "right": [
+      "Lisa"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "BORN DURING THE CIVIL WAR",
+    "GODS & GODDESSES",
+    "TV LOCALES",
+    "PUBLIC TRANSPORTATION",
+    "MY CHEMICAL ROMANCE",
+    "VOCABULARY"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "Here's something to chew on--this Civil War baby would grow up to create a chewing gum empire",
+     "a": "Wrigley",
+     "right": [
+      "Amal"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 19,
+     "q": "Poseidon, the Greek god of the sea, is usually depicted holding this weapon",
+     "a": "a trident",
+     "right": [
+      "Doug"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 6,
+     "q": "While \"The Walking Dead\" takes place primarily in the South, \"Fear the Walking Dead\" started in this city",
+     "a": "Los Angeles",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 16,
+     "q": "It's the 4-letter nickname for London's subway system",
+     "a": "the tube",
+     "right": [
+      "Amal"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 30,
+     "q": "Queens of this \"sweet\" insect species emit a \"queen substance\" that attracts males from other hives",
+     "a": "honeybees",
+     "right": [
+      "Doug"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "Alone or preceded by \"molly\", this verb means to treat in an overindulgent way",
+     "a": "coddle",
+     "right": [
+      "Doug"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 26,
+     "q": "Ernest Lawrence Thayer, who was born in 1863, would hit a home run with this poem published in 1888",
+     "a": "\"Casey at the Bat\"",
+     "right": [
+      "Doug"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 20,
+     "q": "In Hawaiian religion, she is the goddess of volcanoes & fire",
+     "a": "(Madame) Pele",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 7,
+     "q": "Like \"Breaking Bad\", \"Better Call Saul\" is set primarily in this U.S. state",
+     "a": "New Mexico",
+     "right": [
+      "Doug"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 12,
+     "q": "In Laughlin, Nevada water taxis will take you from one casino to the next along this river",
+     "a": "the Colorado River",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "A pheromone in the \"desert\" type of these insect pests leads to them forming swarms of biblical proportions",
+     "a": "locusts",
+     "right": [
+      "Lisa"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 2,
+     "q": "The Bible, including the book of Proverbs, gives us \"gird one's\" these",
+     "a": "loins",
+     "right": [
+      "Amal"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 18,
+     "q": "Across the pond Joseph Merrick developed deformities that cruelly earned him this nickname",
+     "a": "the Elephant Man",
+     "right": [
+      "Lisa"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 21,
+     "q": "A top Mayan deity, Kukulkan is sometimes depicted as a feathered one of these real-life creatures, also the meaning of his name",
+     "a": "snake",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 8,
+     "q": "The first season of \"Narcos\" tells the story of Pablo Escobar's rise to the top of the drug world in this country",
+     "a": "Colombia",
+     "right": [
+      "Doug"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 13,
+     "q": "Atlanta's metropolitan area has this rapid transit rail system, similar to the Bay Area's BART",
+     "a": "MARTA",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 28,
+     "q": "Some evidence indicates that androstadienone found in this human skin excretion boosts women's moods",
+     "a": "sweat",
+     "right": [
+      "Amal"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": true,
+     "order": 3,
+     "q": "The name of this job that provides child care is a French phrase meaning \"equal\"",
+     "a": "an au pair",
+     "right": [
+      "Amal"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2400
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 23,
+     "q": "This president's first wife Alice & his second wife Edith were both born during the early days of the war in 1861",
+     "a": "Theodore Roosevelt",
+     "right": [
+      "Doug"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 4000
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 17,
+     "q": "All's fair in love & war, 2 things this Babylonian deity, Astarte's counterpart, is goddess of",
+     "a": "Ishtar",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 9,
+     "q": "Amidst odd happenings on this show, agent Dale Cooper ate delicious cherry pie at the Double R Diner",
+     "a": "Twin Peaks",
+     "right": [
+      "Amal"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 14,
+     "q": "You & your car can travel by ferry from Washington State to the town of Sidney, British Columbia on this island",
+     "a": "Vancouver Island",
+     "right": [
+      "Amal"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 11,
+     "q": "To attract mates female moths emit a plume of pheromones, which are in turn detected by this body part on males",
+     "a": "antennae",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 4,
+     "q": "Mawashi is the name for the garment worn by this athlete",
+     "a": "a sumo wrestler",
+     "right": [
+      "Doug"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 24,
+     "q": "The son of a Civil War officer, he would become famous for his Wild West artwork like \"The Bronco Buster\"",
+     "a": "(Frederic) Remington",
+     "right": [
+      "Lisa"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 22,
+     "q": "This Egyptian deity of mummification & the dead shared canine traits with the jackal god Wepwawet",
+     "a": "Anubis",
+     "right": [
+      "Doug"
+     ],
+     "wrong": [
+      "Lisa"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 25,
+     "q": "Priyanka Chopra played an FBI recruit when this ABC drama with a place name title debuted in 2015",
+     "a": "Quantico",
+     "right": [
+      "Doug"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 15,
+     "q": "A New York City tramway carries passengers between Manhattan & Roosevelt Island over this river",
+     "a": "the East River",
+     "right": [
+      "Lisa"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 10,
+     "q": "Pheromones of these eel-like fish are used to lure them into traps, helping curb their invasion of the Great Lakes",
+     "a": "a lamprey",
+     "right": [],
+     "wrong": [
+      "Amal",
+      "Doug"
+     ],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 5,
+     "q": "This dish in which chicken is simmered with herbs gets its name from the Italian for \"hunter\"",
+     "a": "cacciatore",
+     "right": [
+      "Lisa"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "LITERARY INSPIRATIONS",
+  "q": "The now-debunked theories of Luigi Galvani influenced the science in this 1818 novel",
+  "a": "Frankenstein",
+  "right": [
+   "Amal",
+   "Lisa"
+  ],
+  "wrong": [
+   "Doug"
+  ]
+ },
+ "gameId": "6980",
+ "cat_notes": {
+  "J": [
+   "Clues about Icons of Technology.",
+   "Clues about The Play's the Thing.",
+   "Clues about State Parks.",
+   "Clues about Celebrity Sibling Surnames.",
+   "Clues in a Teacup.",
+   "(Mehmet: These responses start with the letters \"B-I\".)."
+  ],
+  "DJ": [
+   "Clues about Born During the Civil War.",
+   "Clues about Gods and Goddesses.",
+   "Clues about TV Locales.",
+   "Clues about Public Transportation.",
+   "Clues about My Chemical Romance.",
+   "Clues about Vocabulary."
+  ],
+  "F": "Clues about Literary Inspirations."
+ }
+}

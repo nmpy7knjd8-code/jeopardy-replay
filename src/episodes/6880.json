@@ -1,0 +1,998 @@
+{
+ "show": "#8290",
+ "aired": "2020-11-27",
+ "note": "Ryan Hemmel game 3.",
+ "contestants": [
+  {
+   "name": "Chandy McCarty",
+   "bio": "a civil engineer from Phoenix, Arizona",
+   "short": "Chandy"
+  },
+  {
+   "name": "Gabriel Ostler",
+   "bio": "a swim instructor from Orinda, California",
+   "short": "Gabriel"
+  },
+  {
+   "name": "Ryan Hemmel",
+   "bio": "a legal technology professional from Los Angeles, California (whose 2-day cash winnings total $48,802)",
+   "short": "Ryan"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Ryan": 4800,
+   "Gabriel": 3200,
+   "Chandy": -200
+  },
+  "DJ": {
+   "Ryan": 19400,
+   "Gabriel": 14700,
+   "Chandy": 12600
+  },
+  "Final": {
+   "Ryan": 29401,
+   "Gabriel": 2,
+   "Chandy": 8200
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "PAPERBACK WRITER",
+    "PALINDROMES",
+    "PRO TEAMS' MASCOTS",
+    "REAL-DEAL RHYME TIME",
+    "LET'S START A SMALL BUSINESS",
+    "ADVENTURE CAPITAL"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 30,
+     "q": "In 1979 this horror master said, \"Most of the market for my stuff is in paperbacks\", but he's done okay in hardcover, too",
+     "a": "(Stephen) King",
+     "right": [
+      "Gabriel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 27,
+     "q": "The name of this system that's used to detect & locate objects is a palindrome & an acronym",
+     "a": "radar",
+     "right": [
+      "Gabriel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 5,
+     "q": "Stuff the Magic Dragon:\nThis NBA city",
+     "a": "Orlando",
+     "right": [
+      "Gabriel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 28,
+     "q": "It's a portable radio transmitter & receiver for 2-way communication",
+     "a": "a walkie-talkie",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 29,
+     "q": "99.9% of all U.S. businesses, small businesses are defined as having fewer than this many employees, D to the Romans",
+     "a": "500",
+     "right": [
+      "Gabriel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 24,
+     "q": "You get really high up hang-gliding over Bogota, this country's capital--already pretty high up at nearly 9,000 feet",
+     "a": "Colombia",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 21,
+     "q": "Crush your enemies & name this Robert E. Howard barbarian whose \"Collected Adventures\" are collected in paperback",
+     "a": "Conan",
+     "right": [
+      "Gabriel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 10,
+     "q": "In 2019 Kelley Blue Book named this Honda coupe Best Buy of the Year among compact cars",
+     "a": "a Civic",
+     "right": [
+      "Gabriel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 4,
+     "q": "Iceburgh:\nAn NHL bird",
+     "a": "the Pittsburgh Penguins",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 26,
+     "q": "Nickname for the 1992 U.S. men's Olympic basketball squad",
+     "a": "the Dream Team",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 25,
+     "q": "A small business owner must take in more than $400 annually to be subject to self-employment these",
+     "a": "taxes",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [
+      "Gabriel"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 23,
+     "q": "Seal Island just off this South African capital is a good place to swim with sharks--if you have a sturdy enough cage",
+     "a": "Cape Town",
+     "right": [
+      "Chandy"
+     ],
+     "wrong": [
+      "Gabriel"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": true,
+     "order": 20,
+     "q": "In 2020 this late, great writer was back on the paperback bestseller list with \"The Bluest Eye\", her debut novel",
+     "a": "Toni Morrison",
+     "right": [],
+     "wrong": [
+      "Gabriel"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 5000
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 8,
+     "q": "A classic palindrome is this 3-word introduction",
+     "a": "Madam, I'm Adam",
+     "right": [],
+     "wrong": [
+      "Gabriel",
+      "Chandy"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 3,
+     "q": "The horse-like Miles:\nIn the NFL's AFC West",
+     "a": "the Broncos",
+     "right": [
+      "Gabriel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 9,
+     "q": "Slang for a cocktail party that takes place during a trip around the harbor",
+     "a": "a booze cruise",
+     "right": [
+      "Gabriel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 17,
+     "q": "Small businesses create over 10 times more of these exclusive invention registrations per employee than large companies",
+     "a": "patents",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 18,
+     "q": "Class II-IV this type of rafting is available right in the heart of Oklahoma City on the Oklahoma River",
+     "a": "whitewater",
+     "right": [
+      "Gabriel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 12,
+     "q": "When it comes to \"L is for Lawless\" & \"C is for Corpse\", \"G\" is for this bestselling mystery author",
+     "a": "(Sue) Grafton",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 7,
+     "q": "It's the type of device seen here",
+     "a": "a level",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 2,
+     "q": "Sourdough Sam:\nAn NFL miner",
+     "a": "the 49ers",
+     "right": [
+      "Gabriel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 15,
+     "q": "Varieties of this hot cocoa mix include unicorn marshmallows & marshmallow lovers",
+     "a": "Swiss Miss",
+     "right": [
+      "Gabriel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 16,
+     "q": "With wings or not, this type of investor provides seed money from his own pocket in exchange for equity in the business",
+     "a": "an angel investor",
+     "right": [
+      "Gabriel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 13,
+     "q": "On the Flight of the Gibbon tour near Bangkok, you can soar above the Thai rain forest on these inclined cables",
+     "a": "zip lines",
+     "right": [
+      "Gabriel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 11,
+     "q": "This man who's given us \"Goosebumps\" has sold more than 400 million books",
+     "a": "(R.L.) Stine",
+     "right": [
+      "Gabriel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 6,
+     "q": "Tumbling on soft mats is naturally part of the fun at this place where kids can take classes & have birthday parties",
+     "a": "My Gym",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 1,
+     "q": "Barrelman:\nA Midwestern MLB mascot",
+     "a": "the (Milwaukee) Brewers",
+     "right": [
+      "Gabriel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 14,
+     "q": "Hyphenated term for someone old-fashioned & out of touch",
+     "a": "a fuddy-duddy",
+     "right": [
+      "Gabriel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 22,
+     "q": "Per the National Small Business Association, more than 30% of U.S. small businesses operate as these, LLCs",
+     "a": "limited liability corporations (companies)",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 19,
+     "q": "These 2 major airports make it tough to skydive over Paris--but there is a drop zone north of the capital",
+     "a": "Orly & Charles de Gaulle",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "AMERICAN HISTORY TIMELINE",
+    "ACTOR FACTS",
+    "THE ATMOSPHERE",
+    "RANKS & TITLES",
+    "BIBLICAL WOMEN",
+    "C AS IN \"CAT\""
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 11,
+     "q": "U.S. schoolkids began reciting this as part of Columbus Day observances in 1892",
+     "a": "The Pledge of Allegiance",
+     "right": [
+      "Chandy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 21,
+     "q": "Less than a year before this young actor's 1955 death, Dennis Stock took the photo of him known as \"Boulevard of Broken Dreams\"",
+     "a": "James Dean",
+     "right": [
+      "Gabriel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 30,
+     "q": "Corridors of water vapor such as the Pineapple Express are called atmospheric these & carry more moisture than the Amazon",
+     "a": "rivers",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [
+      "Gabriel"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 29,
+     "q": "From the Egyptian for \"great house\" came this term for any of the great & ancient rulers of Egypt",
+     "a": "pharaoh",
+     "right": [
+      "Gabriel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 13,
+     "q": "In Genesis 21 she bore Abraham a son at age 90",
+     "a": "Sarah",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "A robber who gains entry by climbing",
+     "a": "a cat burglar",
+     "right": [
+      "Gabriel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 8,
+     "q": "Term for the limited allocation of goods on the WWII home front; for gasoline & coffee, it began in fall 1942",
+     "a": "rationing",
+     "right": [
+      "Gabriel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 20,
+     "q": "Reprised in 2020, it's Keanu Reeves' most excellent role",
+     "a": "Ted",
+     "right": [
+      "Chandy"
+     ],
+     "wrong": [
+      "Ryan",
+      "Gabriel"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 24,
+     "q": "Lenticular clouds, which usually form near mountains, are also called these clouds, because they can be mistaken for the weird phenomena",
+     "a": "UFO clouds",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": true,
+     "order": 26,
+     "q": "The person with this title is the leader of the Yellow Hat sect of Tibetan Buddhists",
+     "a": "the Dalai Lama",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 9000
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 16,
+     "q": "Before 2 letters were transposed, Ms. Winfrey was originally named for this sister-in-law of Ruth",
+     "a": "Orpah",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 3,
+     "q": "Avalon is the only incorporated city on this resort island off the coast of Southern California",
+     "a": "Catalina",
+     "right": [
+      "Gabriel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 5,
+     "q": "In the 1859 \"Pig War\", the U.S. & this country nearly came to blows over ownership of the San Juan Islands",
+     "a": "Great Britain",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 17,
+     "q": "This Australian actress' dad Peter Watts was a sound engineer for Pink Floyd",
+     "a": "Naomi Watts",
+     "right": [
+      "Gabriel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": true,
+     "order": 23,
+     "q": "Air pollution is made worse by the reactive type of this gas that makes up more than 3/4 of the atmosphere",
+     "a": "nitrogen",
+     "right": [
+      "Gabriel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 3500
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 10,
+     "q": "Eagle insignia led to the military slang term \"full bird\" this rank",
+     "a": "colonel",
+     "right": [
+      "Chandy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 15,
+     "q": "In the Gospel of John, she went to the disciples & told them that she had seen the risen Lord at his tomb",
+     "a": "Mary Magdalene",
+     "right": [
+      "Chandy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 4,
+     "q": "A subterranean burial chamber",
+     "a": "a catacomb",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 6,
+     "q": "In 1892 John Muir co-founded this organization dedicated to protecting the great outdoors",
+     "a": "the Sierra Club",
+     "right": [
+      "Gabriel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 25,
+     "q": "This \"Westworld\" star can put OBE after her name having received the honor for her services to film & charity",
+     "a": "(Thandie) Newton",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 22,
+     "q": "On atmospheric entry, Mach 25 speeds create super-high temps., hence this 2-word item on the Apollo & Mercury spacecraft",
+     "a": "a heat shield",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 9,
+     "q": "(Sarah of the Clue Crew presents from Memento Park in Budapest, Hungary.) Budapest's Memento Park may make you exclaim, \"Cool\"; Hungarians exclaim, \"Király\" which also means this, like Béla IV or Ladislaus I",
+     "a": "king",
+     "right": [
+      "Gabriel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 14,
+     "q": "The wife of King Ahab, this mean queen introduced him to the worship of Baal",
+     "a": "Jezebel",
+     "right": [
+      "Chandy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 2,
+     "q": "Lepidopteran larva",
+     "a": "caterpillar",
+     "right": [
+      "Chandy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 7,
+     "q": "Known as the \"Pathfinder\", this soldier-explorer mapped most of the Oregon Trail in the 1840s with Kit Carson",
+     "a": "John C. Frémont",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 28,
+     "q": "\"Bonanza\" & \"All My Children\" actor David Canary was the great-great-nephew of Martha Jane Cannary, aka this Wild West woman",
+     "a": "Calamity Jane",
+     "right": [
+      "Chandy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 27,
+     "q": "On a commercial flight, you'll spend most of your time in the lower stratosphere before descending through this layer to Earth",
+     "a": "the troposphere",
+     "right": [
+      "Gabriel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 18,
+     "q": "Deposed in 1797, Ludovico Manin was the last of these Venetian rulers",
+     "a": "the doges",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 19,
+     "q": "Miriam was the sister of these 2 important figures of Exodus",
+     "a": "Aaron & Moses",
+     "right": [
+      "Chandy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 12,
+     "q": "It's a question & answer method of religious instruction",
+     "a": "catechism",
+     "right": [
+      "Chandy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "WORLD GEOGRAPHY",
+  "q": "Of the 6 mainland African countries through which the equator passes, this landlocked nation is last alphabetically",
+  "a": "Uganda",
+  "right": [
+   "Ryan"
+  ],
+  "wrong": [
+   "Chandy",
+   "Gabriel"
+  ]
+ },
+ "gameId": "6880",
+ "cat_notes": {
+  "J": [
+   "Clues about Paperback Writer.",
+   "Clues about Palindromes.",
+   "Clues about Pro Teams Mascots.",
+   "Each answer is a rhyming word or phrase.",
+   "The category “LET'S START A SMALL BUSINESS” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "Clues about Adventure Capital."
+  ],
+  "DJ": [
+   "Clues about American History Timeline.",
+   "Clues about Actor Facts.",
+   "Clues about The Atmosphere.",
+   "Clues about Ranks and Titles.",
+   "Clues about Biblical Women.",
+   "Each answer contains the letter group “CAT”, and the clues are about C As In."
+  ],
+  "F": "Clues about World Geography."
+ }
+}

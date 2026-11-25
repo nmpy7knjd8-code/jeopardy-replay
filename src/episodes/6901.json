@@ -1,0 +1,1001 @@
+{
+ "show": "#8311",
+ "aired": "2021-01-11",
+ "note": "First game with Ken Jennings as guest host. \r Opening graphics revised to de-emphasize Alex Trebek.",
+ "contestants": [
+  {
+   "name": "Julia Shear Kushner",
+   "bio": "a lawyer from Long Beach, California",
+   "short": "Julia"
+  },
+  {
+   "name": "Tanay Kothari",
+   "bio": "a business operations associate from Oakland, California",
+   "short": "Tanay"
+  },
+  {
+   "name": "Jim Gilligan",
+   "bio": "an assistant professor of English education originally from New York, New York (whose 1-day cash winnings total $24,401)",
+   "short": "Jim"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Jim": 800,
+   "Tanay": 1400,
+   "Julia": 4400
+  },
+  "DJ": {
+   "Jim": 8400,
+   "Tanay": 26800,
+   "Julia": 6000
+  },
+  "Final": {
+   "Jim": 12001,
+   "Tanay": 26800,
+   "Julia": 0
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "BEEFY \"T\"s",
+    "IDIOMS & EXPRESSIONS",
+    "NEW YORK SOCIETY",
+    "TELEVISION BY THE NUMBER",
+    "NONFICTION",
+    "EARTH AT NIGHT IN COLOR"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 19,
+     "q": "This hyphenated \"tip\" of meat is named for its 3-sided shape",
+     "a": "tri-tip",
+     "right": [
+      "Tanay"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 14,
+     "q": "An adynaton is an idiom referring to an impossibility, like \"when\" this event involving swine happens",
+     "a": "when pigs fly",
+     "right": [
+      "Julia"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 6,
+     "q": "The National Society of Colonial Dames in the state of New York manages Van Cortlandt House, the oldest home in this most N. borough",
+     "a": "the Bronx",
+     "right": [
+      "Julia"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "This title ZIP code was first addressed in 1990, repackaged in 2008 & sent again in 2019",
+     "a": "90210",
+     "right": [
+      "Jim"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 18,
+     "q": "\"Khe Sanh\" is a section in \"Dispatches\", Michael Herr's 1977 memoir of this war",
+     "a": "Vietnam",
+     "right": [
+      "Tanay"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 27,
+     "q": "To maximize their ability to hear insects, spectral tarsiers tug on their ears before setting out on this nightly activity",
+     "a": "hunting",
+     "right": [
+      "Julia"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 20,
+     "q": "The beef julienne at Benihana has mushrooms in this sauce",
+     "a": "teriyaki",
+     "right": [
+      "Julia"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 15,
+     "q": "Rover knows it's the hottest period during the summer",
+     "a": "dog days",
+     "right": [
+      "Jim"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 7,
+     "q": "Verses written in transit vehicles in NYC & other cities are courtesy of the Poetry Society of America & are called \"Poetry in\" this",
+     "a": "motion",
+     "right": [
+      "Jim"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "Scott Caan booked 'em as Danno on the reboot of this cop show",
+     "a": "Hawaii Five-O",
+     "right": [
+      "Jim"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 17,
+     "q": "One chapter in this book by Stephen Hawking is \"The Origin & Fate of the Universe\"",
+     "a": "A Brief History of Time",
+     "right": [
+      "Jim"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 28,
+     "q": "When the full moon gets too bright, an African owl named for this other mighty bird of prey, resorts to chasing its own prey on foot",
+     "a": "eagle",
+     "right": [],
+     "wrong": [
+      "Jim",
+      "Tanay"
+     ],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 21,
+     "q": "In a taco, lengua meat is braised this part of the cow",
+     "a": "tongue",
+     "right": [
+      "Julia"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 24,
+     "q": "Watch what you consume according to this; in German it's a pun, \"Man ist was man isst\"",
+     "a": "You are what you eat",
+     "right": [
+      "Tanay"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 8,
+     "q": "Head to the Hispanic Society of America for a dazzling art collection, like Martín Gómez's 16th century retablo, also known as this type of piece",
+     "a": "an altarpiece",
+     "right": [
+      "Tanay"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 3,
+     "q": "On this NBC sitcom Tracy Morgan said, \"I yelled 'baba booey' at Walter Cronkite's funeral\"",
+     "a": "30 Rock",
+     "right": [
+      "Tanay"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 16,
+     "q": "In \"A Grief Observed\", he left the land of Narnia to grapple with his feelings of loss after his wife's death",
+     "a": "C.S. Lewis",
+     "right": [
+      "Jim"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 29,
+     "q": "To get the ideal conditions for recording this phenomenon, a cameraman traveled miles on skis into a pitch-dark forest",
+     "a": "the Northern Lights",
+     "right": [
+      "Jim"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 22,
+     "q": "Chateaubriand traditionally uses a large steak from this area beneath the ribs",
+     "a": "the tenderloin",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 25,
+     "q": "To gain experience is \"to cut\" these canine teeth of the upper jaw",
+     "a": "the eye teeth",
+     "right": [],
+     "wrong": [
+      "Jim"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 9,
+     "q": "Located at 680 Park Avenue, the Americas Society was founded by David of this wealthy family to build understanding in our hemisphere",
+     "a": "Rockefeller",
+     "right": [
+      "Tanay"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 4,
+     "q": "In a cartoon title debuting in 2005, Ben found a device that transformed its wearer into this many possible alien creatures",
+     "a": "10",
+     "right": [
+      "Julia"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": true,
+     "order": 12,
+     "q": "Oliver Sacks wrote about patients who recovered from a sleeping sickness in this book that became a Robert De Niro movie",
+     "a": "Awakenings",
+     "right": [],
+     "wrong": [
+      "Tanay"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 4000
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 30,
+     "q": "Adults are too heavy, but a young python can climb even the thinnest branches to seek prey in this upper level of a rainforest",
+     "a": "the canopy",
+     "right": [
+      "Tanay"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 23,
+     "q": "The honeycomb type from the second stomach chamber is considered the best type of this meat",
+     "a": "tripe",
+     "right": [
+      "Julia"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 26,
+     "q": "A humorist wrote, \"Why not go\" here, take a chance in unknown territory? \"Isn't that where the fruit is?\"",
+     "a": "out on a limb",
+     "right": [],
+     "wrong": [
+      "Jim"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 10,
+     "q": "Crusading against \"obscene\" literature from the 1870s to the 1950s, the NYSSV was the New York Society for the Suppression of this",
+     "a": "vice",
+     "right": [
+      "Tanay"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 5,
+     "q": "On this series, Mahershala Ali was one of thousands of missing people who got returned on the same day",
+     "a": "The 4400",
+     "right": [
+      "Julia"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 11,
+     "q": "This biologist wrote the classics \"Silent Spring\" & \"The Sea Around Us\"",
+     "a": "Carson",
+     "right": [
+      "Tanay"
+     ],
+     "wrong": [
+      "Julia"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 13,
+     "q": "Prey animals usually avoid predators, but at night these big African antelopes actually follow cheetahs to keep them in sight",
+     "a": "wildebeests",
+     "right": [
+      "Julia"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "OVER THE HILL",
+    "PICK UP THE HOMOPHONE",
+    "MOVIES BASED ON SHORT STORIES",
+    "AMERICAN ARTISTS",
+    "AROUND 1001",
+    "KNIGHTS"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 30,
+     "q": "Head over Nob Hill from Pacific Heights & you'll find yourself in this city's Chinatown",
+     "a": "San Francisco",
+     "right": [
+      "Julia"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 8,
+     "q": "A time between war, or a portion of something",
+     "a": "peace/piece",
+     "right": [
+      "Tanay"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "This 1950 Best Picture Oscar winner starring Bette Davis was based on \"The Wisdom of Eve\"",
+     "a": "All About Eve",
+     "right": [
+      "Jim"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 29,
+     "q": "The style of this Iowan was mainly Midwestern regionalism, not \"American Gothic\"",
+     "a": "(Grant) Wood",
+     "right": [
+      "Tanay"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 28,
+     "q": "Sergius II became patriarch of this Byzantine capital, claimed the title ecumenical patriarch & had un-ecumenical relations with Rome",
+     "a": "Constantinople",
+     "right": [
+      "Tanay"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "Keir Starmer, knighted in 2014, is the new head of this British political party",
+     "a": "Labour",
+     "right": [
+      "Tanay"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 23,
+     "q": "This capital is a few miles over the hill of Tara from the town of Kells",
+     "a": "Dublin",
+     "right": [
+      "Tanay"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 12,
+     "q": "Small donkey, or an underground animal habitat",
+     "a": "burro/burrow",
+     "right": [
+      "Julia"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 2,
+     "q": "This director based the film \"Memento\" on a short story by his brother Jonathan",
+     "a": "Nolan",
+     "right": [
+      "Tanay"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 22,
+     "q": "In 1868 she submitted \"The Mandolin Player\" to the Paris Salon under the name Mary Stevenson & it was accepted",
+     "a": "Cassatt",
+     "right": [
+      "Tanay"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 24,
+     "q": "Otto III, this \"emperor\", opened Charlemagne's tomb & removed some relics",
+     "a": "the Holy Roman Emperor",
+     "right": [
+      "Julia"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 26,
+     "q": "Sir Norman Hartnell designed this 21-year-old's wedding dress for her 1947 ceremony & was knighted for his services in 1977",
+     "a": "Elizabeth II",
+     "right": [
+      "Julia"
+     ],
+     "wrong": [
+      "Jim"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": true,
+     "order": 21,
+     "q": "This river is just over the Palatine Hill from the Colosseum",
+     "a": "the Tiber",
+     "right": [
+      "Tanay"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 4400
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 13,
+     "q": "A tax, or a river embankment",
+     "a": "a levy/levee",
+     "right": [
+      "Jim"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": true,
+     "order": 3,
+     "q": "Ward Greene's \"Happy Dan, the Whistling Dog\" became this 1955 animated Disney film",
+     "a": "the Lady and the Tramp",
+     "right": [
+      "Tanay"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2200
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 9,
+     "q": "This artist depicted 3 customers in an all-night diner & \"the loneliness of a large city\" in his painting \"Nighthawks\"",
+     "a": "Hopper",
+     "right": [
+      "Tanay"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 18,
+     "q": "Vikings, led by this man, started building a settlement in Vinland",
+     "a": "Leif Erikson",
+     "right": [
+      "Tanay"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 15,
+     "q": "For services to music, this Beatle was knighted in 2018",
+     "a": "Ringo Starr",
+     "right": [
+      "Tanay"
+     ],
+     "wrong": [
+      "Julia"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 20,
+     "q": "Go from Westminster to Whitechapel on the London underground & you'll pass through a station named for this infamous hill",
+     "a": "Tower Hill",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 14,
+     "q": "To drive enemies back, or swiftly descend a mountain using ropes",
+     "a": "repel/rappel",
+     "right": [
+      "Tanay"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 6,
+     "q": "Philip K. Dick's \"We Can Remember It for You Wholesale\" became this Schwarzenegger sci-fi film",
+     "a": "Total Recall",
+     "right": [
+      "Jim"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 5,
+     "q": "He began as a graffiti artist in New York subways before graduating to large outdoor murals",
+     "a": "Keith Haring",
+     "right": [
+      "Jim"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 17,
+     "q": "At the Battle of Glen Mama, King Brian Boru of this island inflicted a crushing defeat on a rebel army",
+     "a": "Ireland",
+     "right": [
+      "Tanay"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 11,
+     "q": "In 2002 this \"Gandhi\" actor remarked that winning an Oscar paled in comparison to being knighted",
+     "a": "Ben Kingsley",
+     "right": [
+      "Jim"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 19,
+     "q": "The office of the prime minister & privy council is on the far side of this hill from the Ottawa River",
+     "a": "Parliament Hill",
+     "right": [
+      "Tanay"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 25,
+     "q": "A group singing, or a set of 24 sheets of paper",
+     "a": "a choir/quire",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 7,
+     "q": "\"Traumnovelle\", a 1920s story about a Doctor who goes to a very risque party, became this 1999 Kubrick movie with Tom Cruise",
+     "a": "Eyes Wide Shut",
+     "right": [
+      "Jim"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 4,
+     "q": "The painting seen here shows the influence of Jackson Pollock on the art of this woman, his wife",
+     "a": "(Lee) Krasner",
+     "right": [
+      "Tanay"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 16,
+     "q": "Afghan leader Mahmud of Ghazna invaded India, defeating Jaipal, ruler of this \"5 rivers\" region",
+     "a": "Punjab",
+     "right": [
+      "Tanay"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 10,
+     "q": "He caught us in the web (the World Wide Web, that is) & snagged a knighthood in 2004",
+     "a": "(Tim) Berners-Lee",
+     "right": [
+      "Tanay"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "1960s SONGS",
+  "q": "The name of this title song from a 1964 movie can be translated from Spanish as \"Long Live The Meadows\"",
+  "a": "\"Viva Las Vegas\"",
+  "right": [
+   "Jim",
+   "Tanay"
+  ],
+  "wrong": [
+   "Julia"
+  ]
+ },
+ "gameId": "6901",
+ "cat_notes": {
+  "J": [
+   "Each answer starts with “T”, and the clues are about Beefy S.",
+   "Clues about Idioms and Expressions.",
+   "Clues about New York Society.",
+   "Clues about Television by the Number.",
+   "Clues about Nonfiction.",
+   "Next-generation cameras were used to show the..."
+  ],
+  "DJ": [
+   "Clues about Over the Hill.",
+   "The answers involve homophones — words that sound alike but differ in meaning or spelling.",
+   "Clues about Movies Based on Short Stories.",
+   "Clues about American Artists.",
+   "Clues about Around 1001.",
+   "Clues about Knights."
+  ],
+  "F": "Clues about 1960s Songs."
+ }
+}

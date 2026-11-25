@@ -1,0 +1,993 @@
+{
+ "show": "#8411",
+ "aired": "2021-05-31",
+ "note": "First game with Mayim Bialik as guest host. \r Champion's winnings & consolation amounts matched to National Alliance on Mental Illness.",
+ "contestants": [
+  {
+   "name": "Kevin Hirsh",
+   "bio": "an attorney from Fort Lauderdale, Florida",
+   "short": "Kevin"
+  },
+  {
+   "name": "Eliza Cope",
+   "bio": "an elementary school science teacher originally from Boston, Massachusetts",
+   "short": "Eliza"
+  },
+  {
+   "name": "Amanda Ganske",
+   "bio": "a product marketing manager from Austin, Texas (whose 3-day cash winnings total $53,199)",
+   "short": "Amanda"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Amanda": 5000,
+   "Eliza": 5100,
+   "Kevin": 5600
+  },
+  "DJ": {
+   "Amanda": 12600,
+   "Eliza": 11100,
+   "Kevin": 16400
+  },
+  "Final": {
+   "Amanda": 25200,
+   "Eliza": 9599,
+   "Kevin": 25201
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "SOUVENIRS",
+    "HATS IN BOOKS",
+    "THERE IS AN \"I\" IN TEAM",
+    "NOT QUITE A CONSTELLATION",
+    "THE SHAPE OF YOU",
+    "MOTHER!"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 11,
+     "q": "Daruma dolls, which right themselves when tipped over, are associated with a Japanese phrase meaning \"fall down seven times\" do this \"eight\"",
+     "a": "get up",
+     "right": [
+      "Kevin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "Alice encounters this crazed craftsman at a tea party",
+     "a": "the Mad Hatter",
+     "right": [
+      "Amanda"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 21,
+     "q": "A sometime Coral Gables resident, singer Marc Anthony co-owns this NFL team",
+     "a": "the Miami Dolphins",
+     "right": [
+      "Kevin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 16,
+     "q": "Regulus is part of the sickle, a star formation that is also the head of this maned constellation",
+     "a": "Leo",
+     "right": [
+      "Eliza"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 6,
+     "q": "Cordate & cordiform mean shaped like the common symbol for this body part",
+     "a": "the heart",
+     "right": [
+      "Amanda"
+     ],
+     "wrong": [
+      "Kevin"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 26,
+     "q": "She was the first woman to be both wife & mom to a U.S. president",
+     "a": "Abigail Adams",
+     "right": [
+      "Eliza"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 12,
+     "q": "(Jimmy of the Clue Crew presents from New York City.) A hippopotamus nicknamed William is the mascot of the 5th Avenue outpost of this venerable New York City museum; a replica of him makes a good souvenir",
+     "a": "the Met (the Metropolitan Museum of Art)",
+     "right": [
+      "Eliza"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "To write his bestseller about this colorfully hatted group, Robin Moore trained with them & accompanied them to Vietnam",
+     "a": "the Green Berets",
+     "right": [
+      "Amanda"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 22,
+     "q": "There was no swash in this MLB team's buckle from 1993 to 2012, with no winning seasons",
+     "a": "the Pittsburgh Pirates",
+     "right": [
+      "Eliza"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 17,
+     "q": "This pair of \"Big\" & \"Little\" star clusters can be found in Ursa Major & Minor, respectively",
+     "a": "the Big Dipper & the Little Dipper",
+     "right": [
+      "Kevin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 7,
+     "q": "A tetrahedron is sometimes described as a triangular one of these",
+     "a": "a pyramid",
+     "right": [
+      "Amanda"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "Kathy Headlee founded MWB, Mothers Without these, to aid the world's orphaned & vulnerable kids",
+     "a": "Borders",
+     "right": [
+      "Eliza"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 13,
+     "q": "The lid keeps the beer cool, ja, in a traditional one of these German tankards",
+     "a": "a stein",
+     "right": [
+      "Amanda"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 3,
+     "q": "In a Dr. Seuss book title, Bartholomew Cubbins wears this many hats",
+     "a": "500",
+     "right": [
+      "Eliza"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 23,
+     "q": "In 1997 this NBA team changed its nickname & dropped its Bullets; capital idea!",
+     "a": "the Washington Wizards",
+     "right": [
+      "Kevin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 18,
+     "q": "A group of 4 stars near Lyra is called this, like the center piece that holds an arch together",
+     "a": "The Keystone",
+     "right": [
+      "Eliza"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 8,
+     "q": "These 2 words that both start with the same 3 letters mean curving inward & curving outward",
+     "a": "convex & concave",
+     "right": [
+      "Amanda"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 28,
+     "q": "In 2018 Micheál Neeson changed his last name to this in honor of his late mother",
+     "a": "Richardson",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 14,
+     "q": "(Sarah of the Clue Crew presents from the National Air & Space Museum in Washington, D.C.) The Smithsonian's National Air & Space Museum store sells a Barbie doll of Katherine Johnson, a pioneering NASA mathematician who was portrayed by Taraji P. Henson in this Oscar-nominated 2016 film",
+     "a": "Hidden Figures",
+     "right": [
+      "Kevin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 4,
+     "q": "This colorfully dressed guy took Curious George from a life in the jungle to one in the city",
+     "a": "the Man in the Yellow Hat",
+     "right": [
+      "Amanda"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 24,
+     "q": "Dr. J, Charles Barkley & Allen Iverson all suited up for this NBA squad",
+     "a": "the (Philadelphia) 76ers",
+     "right": [
+      "Kevin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": true,
+     "order": 19,
+     "q": "The Winter Triangle spans stars in constellations from Betelgeuse to Procyon to this bright star in Canis Major",
+     "a": "Sirius",
+     "right": [
+      "Eliza"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1300
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 9,
+     "q": "Often made with black paper, these 2-dimensional outlines of your profile show the shape of your face",
+     "a": "silhouettes",
+     "right": [
+      "Amanda"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "In 1497 her reign in Spain turned tragic after the death of Juan, her only son",
+     "a": "Queen Isabella (I)",
+     "right": [
+      "Kevin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 15,
+     "q": "When you visit the country just south of Kenya, you can bring home some of this mineral named for it",
+     "a": "tanzanite",
+     "right": [
+      "Eliza"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 5,
+     "q": "This French schoolgirl can often be found wearing a sailor hat; one of Ludwig Bemelmans' books is her \"and the Bad Hat\"",
+     "a": "Madeline",
+     "right": [
+      "Amanda"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 25,
+     "q": "Gordie Howe played for this NHL team from 1946 to 1971",
+     "a": "the Detroit Red Wings",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 20,
+     "q": "Also known as the 3 Sisters, Alnitak, Alnilam & Mintaka make up this hunter's \"Belt\"",
+     "a": "Orion",
+     "right": [
+      "Kevin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 10,
+     "q": "The Earth is generally considered to be this 6-letter type of spheroid, as it is flattened at the poles",
+     "a": "oblate",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 30,
+     "q": "Her son succeeded her as India's prime minister, a job that her dad once had as well",
+     "a": "Indira Gandhi",
+     "right": [
+      "Kevin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "IT'S ALL IN THE PAST",
+    "POSSESSIVE GEOGRAPHY",
+    "SAME FIRST & LAST LETTER",
+    "HE WON AN OSCAR PLAYING A REAL PERSON",
+    "HORSE CENTS",
+    "THAT'S MY PHILOSOPHY"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 26,
+     "q": "\"Et, tu\" him--2 years after taking part in Caesar's murder, both he & Cassius killed themselves",
+     "a": "Brutus",
+     "right": [
+      "Eliza"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 7,
+     "q": "The story goes that Queens' College at this U.K. university has the apostrophe at the end, as it was founded by 2 monarchs",
+     "a": "Cambridge",
+     "right": [
+      "Kevin"
+     ],
+     "wrong": [
+      "Amanda"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 12,
+     "q": "An accepted principle or maxim of religious faith",
+     "a": "tenet",
+     "right": [
+      "Kevin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "Eddie Redmayne as him in \"The Theory of Everything\"",
+     "a": "Stephen Hawking",
+     "right": [
+      "Eliza"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "A Bermuda 10-dollar coin features one of these \"horses\", actually a pipefish relative",
+     "a": "a seahorse",
+     "right": [
+      "Kevin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 22,
+     "q": "\"Je pense, donc je suis\" is how I originally wrote my best-known philosophical phrase",
+     "a": "(René) Descartes",
+     "right": [
+      "Kevin"
+     ],
+     "wrong": [
+      "Amanda"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 23,
+     "q": "The 1848 Treaty of Guadalupe Hidalgo formally ended this war",
+     "a": "the Mexican-American War",
+     "right": [
+      "Amanda"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": true,
+     "order": 4,
+     "q": "This Massachusetts island was likely named for the daughter of explorer Bartholomew Gosnold",
+     "a": "Martha's Vineyard",
+     "right": [
+      "Kevin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2000
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 13,
+     "q": "The chief instigator of a group engaged in an illegal activity",
+     "a": "a ringleader",
+     "right": [
+      "Amanda"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 8,
+     "q": "Jamie Foxx as this R&B legend",
+     "a": "Ray Charles",
+     "right": [
+      "Kevin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 17,
+     "q": "Cameroon produced a commemorative 500-franc \"Happiness\" coin in the shape of one of these, with a 4-leaf clover on the back",
+     "a": "a horseshoe",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 27,
+     "q": "Oui, in a 1946 essay I expounded on the idea that \"Existence precedes essence\"",
+     "a": "Jean-Paul Sartre",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": true,
+     "order": 20,
+     "q": "Mobutu Sese Seko amassed a $5 billion fortune ruling what's now the Democratic Republic of the Congo, which he renamed this",
+     "a": "Zaire",
+     "right": [
+      "Eliza"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2000
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 3,
+     "q": "In 1634 the first English settlement in what's now this state was called St. Mary's (but wasn't named for the same woman as the colony)",
+     "a": "Maryland",
+     "right": [
+      "Kevin"
+     ],
+     "wrong": [
+      "Amanda"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 14,
+     "q": "One who wanders aimlessly, or the classic American Motors car seen here",
+     "a": "a Rambler",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 9,
+     "q": "Him as the title guy in \"Capote\"",
+     "a": "(Philip Seymour) Hoffman",
+     "right": [
+      "Amanda"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 18,
+     "q": "A bronc tries to buck a rider on a 2012 Canadian coin commemorating 100 years of this Calgary event",
+     "a": "the Stampede",
+     "right": [
+      "Eliza"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 28,
+     "q": "\"God is dead! God remains dead! And we have killed him!\" Yep, I wrote that in 1882",
+     "a": "Nietzsche",
+     "right": [
+      "Amanda"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 24,
+     "q": "In 1377 Gregory XI, the last French pope, returned the papacy to Rome from this city",
+     "a": "Avignon",
+     "right": [
+      "Kevin"
+     ],
+     "wrong": [
+      "Amanda",
+      "Eliza"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 5,
+     "q": "This capital of Newfoundland & Labrador is one of the oldest & most easterly in North America",
+     "a": "St. John's",
+     "right": [
+      "Eliza"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 15,
+     "q": "The institutions & people of education taken as a whole",
+     "a": "academia",
+     "right": [
+      "Amanda"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 10,
+     "q": "Forest Whitaker as this Ugandan dictator in \"The Last King of Scotland\"",
+     "a": "Idi Amin",
+     "right": [
+      "Kevin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 19,
+     "q": "A 1902 Australian 2-pound coin depicts St. George on horseback on the reverse & this newly minted king on the obverse",
+     "a": "Edward VII",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 29,
+     "q": "\"Now the cave or den is the world of sight, the fire is the sun, the way upward is the way to knowledge\"--hey, that's mine!",
+     "a": "Plato",
+     "right": [
+      "Amanda"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 25,
+     "q": "From the 1920s to the 1940s Jordan was known by this name, 5 letters longer",
+     "a": "Transjordan",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 6,
+     "q": "St. George's is the capital of this Caribbean \"Spice Isle\" much in the news in 1983",
+     "a": "Grenada",
+     "right": [
+      "Kevin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 16,
+     "q": "The product of a body's mass & velocity",
+     "a": "momentum",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 11,
+     "q": "Jeremy Irons as this hubby of Sunny in \"Reversal of Fortune\"",
+     "a": "Claus von Bülow",
+     "right": [
+      "Amanda"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 21,
+     "q": "A 1960s Austrian 5-schilling coin featured one of these renowned horses from the Spanish riding school",
+     "a": "a Lipizzaner",
+     "right": [
+      "Eliza"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 30,
+     "q": "I was born in Edinburgh in 1711, 28 years before I published the first volumes of \"A Treatise of Human Nature\"",
+     "a": "(David) Hume",
+     "right": [
+      "Amanda"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "THE BUSINESS OF TELEVISION",
+  "q": "The day it debuted in 1980, this network with an Italian name aired a Carnegie Hall celebration of Aaron Copland's 80th birthday",
+  "a": "Bravo",
+  "right": [
+   "Amanda",
+   "Kevin"
+  ],
+  "wrong": [
+   "Eliza"
+  ]
+ },
+ "gameId": "7034",
+ "cat_notes": {
+  "J": [
+   "Clues about Souvenirs.",
+   "Clues about Hats in Books.",
+   "Each answer contains the letter “I”, and the clues are about There Is an in Team.",
+   "Clues about Not Quite a Constellation.",
+   "Clues about The Shape of You.",
+   "The category “MOTHER!” sets the theme — the clues follow that idea and any wordplay suggested by the title."
+  ],
+  "DJ": [
+   "The category “IT'S ALL IN THE PAST” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "Clues about Possessive Geography.",
+   "Clues about Same First and Last Letter.",
+   "Clues about He Won an OSCAR Playing a Real Person.",
+   "Clues about Horse Cents.",
+   "Clues about That's My Philosophy."
+  ],
+  "F": "Clues about The Business of Television."
+ }
+}

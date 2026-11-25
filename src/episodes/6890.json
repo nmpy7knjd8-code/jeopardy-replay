@@ -1,0 +1,997 @@
+{
+ "show": "#8300",
+ "aired": "2020-12-11",
+ "note": "",
+ "contestants": [
+  {
+   "name": "Kate Freeman",
+   "bio": "a financial analyst originally from Lake Orion, Michigan",
+   "short": "Kate"
+  },
+  {
+   "name": "Nizar Abdalla",
+   "bio": "a finance manager from San Mateo, California",
+   "short": "Nizar"
+  },
+  {
+   "name": "Kendra Blanchette",
+   "bio": "a registered dietitian from Elk Grove, California (whose 2-day cash winnings total $40,601)",
+   "short": "Kendra"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Kendra": 4800,
+   "Nizar": 1800,
+   "Kate": 3600
+  },
+  "DJ": {
+   "Kendra": 9200,
+   "Nizar": 1800,
+   "Kate": 12000
+  },
+  "Final": {
+   "Kendra": 3700,
+   "Nizar": 15,
+   "Kate": 5599
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "QUOTABLE WOMEN",
+    "FICTIONAL PLACES",
+    "THE NOT-SO-WILD WEST",
+    "WISHFUL THINKING",
+    "IN THE SPORT'S HALL OF FAME",
+    "BRITISH ENGLISH"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 16,
+     "q": "Her motto was \"Let us do something beautiful for God\"",
+     "a": "Mother Teresa",
+     "right": [
+      "Nizar"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 12,
+     "q": "The sole survivor of a shipwreck, this title character washes up on a desolate island on Sept. 30, 1659",
+     "a": "Robinson Crusoe",
+     "right": [
+      "Kate"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 17,
+     "q": "Camillus & Mary Fly had a nice quiet business, this kind of studio (portraits 35 cents) except it was in Tombstone, Arizona",
+     "a": "a photography studio",
+     "right": [
+      "Kate"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 29,
+     "q": "His adventures ended with his wish come true--\"he was no longer a marionette, but... had become a real live boy!\"",
+     "a": "Pinocchio",
+     "right": [
+      "Kendra"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 6,
+     "q": "Andre Agassi, \nAlthea Gibson",
+     "a": "tennis",
+     "right": [
+      "Nizar"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "A large bus for traveling in the U.K.; in the U.S. it's a person who guides a sports team",
+     "a": "a coach",
+     "right": [
+      "Nizar"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 20,
+     "q": "This \"French Chef\" humorously said, \"The only time to eat diet food is while you're waiting for the steak to cook\"",
+     "a": "Julia Child",
+     "right": [
+      "Nizar"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 15,
+     "q": "Gulliver travels to this land whose residents are less than 6 inches tall",
+     "a": "Lilliput",
+     "right": [
+      "Kendra"
+     ],
+     "wrong": [
+      "Nizar"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 30,
+     "q": "A theater called this grand style of music \"House\" opened in Leadville, Co. in 1879; opening night was overshadowed by a nearby hanging",
+     "a": "an opera",
+     "right": [
+      "Kate"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 28,
+     "q": "Sigmund Freud theorized that these are the symbolic fulfillment of wishes & desires",
+     "a": "dreams",
+     "right": [
+      "Kendra"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 7,
+     "q": "Michael Strahan, \nJoe Gibbs",
+     "a": "football",
+     "right": [
+      "Nizar"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "The Brits put their trousers on one leg at a time; this 5-letter word that Americans use means underwear over there",
+     "a": "pants",
+     "right": [
+      "Kendra"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 22,
+     "q": "This late comedian on her 50+-year career: \"I was smart enough to go through any door that opened\"",
+     "a": "Joan Rivers",
+     "right": [
+      "Kendra"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 11,
+     "q": "Honeydukes Sweetshop & The Three Broomsticks pub are in this wizarding village",
+     "a": "Hogsmeade",
+     "right": [
+      "Nizar"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 18,
+     "q": "Located then as now on Last Chance Gulch, the Lewis & Clark Library in this state capital was Montana's first",
+     "a": "Helena",
+     "right": [
+      "Nizar"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 19,
+     "q": "If you're hoping for a return trip, toss your coins here",
+     "a": "the Trevi Fountain",
+     "right": [
+      "Kendra"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 8,
+     "q": "Darrell Waltrip, \nJoe Gibbs",
+     "a": "NASCAR",
+     "right": [],
+     "wrong": [
+      "Nizar",
+      "Kate"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 3,
+     "q": "A dummy in Devon is this accessory for a baby",
+     "a": "a pacifier",
+     "right": [
+      "Kate"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": true,
+     "order": 23,
+     "q": "In 1981 she told the Senate Judiciary Committee, \"I do well understand... the difference between legislating & judging\"",
+     "a": "Sandra Day O'Connor",
+     "right": [],
+     "wrong": [
+      "Kendra"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1000
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 13,
+     "q": "Sauron, the dark lord of this land, has ambitions to rule all of Middle-Earth",
+     "a": "Mordor",
+     "right": [
+      "Kate"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 21,
+     "q": "The nine patch was a simple & popular pattern in this activity of making layered blankets mastered by many pioneer women",
+     "a": "quilting",
+     "right": [
+      "Kendra"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 27,
+     "q": "As a reward for her dancing, she wished for the head of John the Baptist",
+     "a": "Salome",
+     "right": [
+      "Kendra"
+     ],
+     "wrong": [
+      "Nizar"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 9,
+     "q": "Crossword puzzle fixture Mel Ott, \nJosh Gibson",
+     "a": "baseball",
+     "right": [
+      "Kendra"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 4,
+     "q": "In the U.K., chemist means someone in this profession",
+     "a": "pharmacist",
+     "right": [
+      "Kendra"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 24,
+     "q": "After one failed Cuba-to-Florida swim, she said, \"This journey has always been about reaching your own other shore\"",
+     "a": "Diana Nyad",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 14,
+     "q": "\"Anne of Green Gables\" is set in the fictional Avonlea, on this real Canadian island province",
+     "a": "Prince Edward Island",
+     "right": [
+      "Kate"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 25,
+     "q": "An army post & then a cowtown, this Texas city got some culture in 1892 when 25 ladies founded its art gallery",
+     "a": "Fort Worth",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 26,
+     "q": "She wrote the lyric, \"And I wish you joy, and happiness, but above all of this, I wish you love\"",
+     "a": "Dolly Parton",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 10,
+     "q": "Crossword puzzle fixture Bobby Orr,\nTerry Sawchuk",
+     "a": "hockey",
+     "right": [
+      "Kate"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 5,
+     "q": "If you ask for chips in England, you'll get French fries; if you want potato chips, ask for these",
+     "a": "crisps",
+     "right": [
+      "Nizar"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "THE MOVIE'S TITLE QUESTION",
+    "COLORFUL VERBS",
+    "PLANTS & FLOWERS",
+    "\"A\" \"P\" HISTORY",
+    "SOUTH PARK",
+    "YOU KNOW, I LEARNED SOMETHING TODAY"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 11,
+     "q": "Ashton Kutcher's ride was impounded & then space aliens got involved to answer this title question",
+     "a": "Dude, Where's My Car?",
+     "right": [
+      "Kendra"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 6,
+     "q": "To suffer a temporary loss of consciousness",
+     "a": "black out",
+     "right": [
+      "Kendra"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 30,
+     "q": "Oxeye is a type of this flower with a bright yellow central disk & white petals",
+     "a": "a daisy",
+     "right": [
+      "Kendra"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "King Philip II of Spain sent it in 1588 to invade England",
+     "a": "the Armada",
+     "right": [
+      "Kendra"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 18,
+     "q": "Atlanta's Freedom Park features a sculpture of this iconic Baptist minister, his arm outstretched",
+     "a": "Martin Luther King Jr.",
+     "right": [
+      "Kate"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 23,
+     "q": "In an epic by Homer, when this guy gets back home after a long absence, his faithful dog Argus is among the first to recognize him",
+     "a": "Odysseus",
+     "right": [
+      "Kendra"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 12,
+     "q": "Ice Cube & the kids do arrive in Vancouver by the end of this 2005 movie",
+     "a": "Are We There Yet?",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 7,
+     "q": "To purposely abandon someone on an island",
+     "a": "maroon",
+     "right": [
+      "Kate"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "Enjoy the beauty of the Arizona national park named for this type of cactus, but be careful walking through it",
+     "a": "a saguaro",
+     "right": [
+      "Kendra"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 2,
+     "q": "A 15th & 16th century empire was named for these people also called Tenochca & Mexica",
+     "a": "the Aztec",
+     "right": [
+      "Nizar"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 17,
+     "q": "Centennial Park, across from Vanderbilt University in this city, features a replica of the Parthenon",
+     "a": "Nashville",
+     "right": [
+      "Kate"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 22,
+     "q": "Oliver Ellsworth was the third Chief Justice of the United States; the fourth was this man",
+     "a": "John Marshall",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 13,
+     "q": "In an '80s movie Judge Doom was the one \"Who Framed\" this toon for murder",
+     "a": "Roger Rabbit",
+     "right": [
+      "Kate"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 8,
+     "q": "Chili recipes say to do this to the ground beef",
+     "a": "brown",
+     "right": [
+      "Kate"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 26,
+     "q": "This flowering plant popular at Christmastime is named for a U.S. minister to Mexico",
+     "a": "poinsettia",
+     "right": [
+      "Nizar"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 3,
+     "q": "McLean House in this Virginia village was the site of an 1865 surrender",
+     "a": "Appomattox (Court House)",
+     "right": [
+      "Nizar"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 14,
+     "q": "City Park in this city has been the site of Voodoo Fest, where you can hear all sorts of great music",
+     "a": "New Orleans",
+     "right": [
+      "Kate"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 19,
+     "q": "TFA is short for this group that sends educators into classrooms",
+     "a": "Teach for America",
+     "right": [
+      "Kate"
+     ],
+     "wrong": [
+      "Nizar"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 24,
+     "q": "Ms. Fox heads to Antarctica without telling her family, in answer to the title of this film based on a novel by Maria Semple",
+     "a": "Where'd You Go, Bernadette",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 9,
+     "q": "To give permission to start something, like when a studio says you can start making the movie",
+     "a": "greenlight",
+     "right": [
+      "Kendra"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 27,
+     "q": "This fern, seen here, is named for its resemblance to the scrollwork on a certain musical instrument",
+     "a": "a fiddlehead fern",
+     "right": [],
+     "wrong": [
+      "Kate"
+     ],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 4,
+     "q": "One of Puerto Rico's largest cities is named in honor of a descendant of this Spanish explorer",
+     "a": "Ponce de León",
+     "right": [],
+     "wrong": [
+      "Nizar"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2000
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 15,
+     "q": "You might see a crab or 2 at Fish Haul Beach Park on Hilton Head in this state",
+     "a": "South Carolina",
+     "right": [
+      "Kate"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 20,
+     "q": "The son of a cobbler, this man whose name adorns high-end shoes was born in Malaysia but opened his first shop in England",
+     "a": "Jimmy Choo",
+     "right": [
+      "Kate"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 25,
+     "q": "For Huw Morgan & the other miners in this John Ford film, their home area is verdant indeed",
+     "a": "How Green Was My Valley",
+     "right": [
+      "Nizar"
+     ],
+     "wrong": [
+      "Kendra",
+      "Kate"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 10,
+     "q": "To cut in a zigzag pattern, like with certain shears",
+     "a": "pinking",
+     "right": [
+      "Kendra"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": true,
+     "order": 28,
+     "q": "The acidity of the soil can change the color of these flowers whose name is from the Greek for \"water\"",
+     "a": "hydrangeas",
+     "right": [],
+     "wrong": [
+      "Nizar"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2000
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 5,
+     "q": "Pals with Charles de Gaulle, he was premier of France for much of the 1960s",
+     "a": "(Georges) Pompidou",
+     "right": [],
+     "wrong": [
+      "Nizar"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 16,
+     "q": "A Birmingham park is named for this Roman deity of the forge; the god himself is there in the form of a ginormous cast-iron statue",
+     "a": "Vulcan",
+     "right": [
+      "Kate"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 21,
+     "q": "The name of this \"stan\" country can be spelled with a \"J\" inside or with \"dzh\"",
+     "a": "Tajikistan",
+     "right": [
+      "Nizar"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "BROADWAY REVIVALS",
+  "q": "Ads for the 2020 revival of this musical said, \"Something's coming. Something good\"; a new movie version is also coming",
+  "a": "West Side Story",
+  "right": [],
+  "wrong": [
+   "Nizar",
+   "Kendra",
+   "Kate"
+  ]
+ },
+ "gameId": "6890",
+ "cat_notes": {
+  "J": [
+   "Clues about Quotable Women.",
+   "Clues about Fictional Places.",
+   "Clues about The Not-so-wild West.",
+   "Clues about Wishful Thinking.",
+   "Clues in the Sport's Hall of Fame.",
+   "Clues about British English."
+  ],
+  "DJ": [
+   "Clues about The Movie's Title Question.",
+   "Clues about Colorful Verbs.",
+   "Clues about Plants and Flowers.",
+   "Each correct response will begin with an \"A\" or a \"P\".",
+   "Clues about South Park.",
+   "The category “YOU KNOW, I LEARNED SOMETHING TODAY” sets the theme — the clues follow that idea and any wordplay suggested by the title."
+  ],
+  "F": "Clues about Broadway Revivals."
+ }
+}
