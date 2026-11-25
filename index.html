@@ -955,9 +955,9 @@ const DIFF={
     }
     return ELO.rgb(s[s.length-1].color);
   },
-  // Bands, shown as a short uppercase label plus the 1–10 number
-  // in the same muted date-line style: Easy 1–2, Fair 3–4, Medium 5–6,
-  // Hard 7–8, Brutal 9–10.
+  // Bands, shown as a short uppercase word in the same muted
+  // date-line style: Easy 1–2, Fair 3–4, Medium 5–6, Hard 7–8,
+  // Brutal 9–10. The 1–10 number is not shown on the card.
   bands:[
     {max:2,label:'Easy'},
     {max:4,label:'Fair'},
@@ -974,7 +974,7 @@ const DIFF={
     if(n==null||!isFinite(n))return '';
     const v=Math.max(1,Math.min(10,Math.round(n)));
     const word=this.label(v);
-    return `<span class="diff" style="color:${this.color(v)}" title="Difficulty ${v} of 10, ${word}" aria-label="Difficulty ${v} of 10, ${word}"><span class="diffl">${esc(word)}</span> ${v}</span>`;
+    return `<span class="diff" style="color:${this.color(v)}" title="Difficulty: ${word}" aria-label="Difficulty: ${word}">${esc(word)}</span>`;
   }
 };
 
