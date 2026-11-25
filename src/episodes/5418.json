@@ -1,0 +1,984 @@
+{
+ "show": "#7368",
+ "aired": "2016-09-28",
+ "note": "Seth Wilson game 8.",
+ "contestants": [
+  {
+   "name": "Harold Leff",
+   "bio": "a retired actuary from Bay Shore, New York",
+   "short": "Harold"
+  },
+  {
+   "name": "Erin Post",
+   "bio": "a statistician from Bettendorf, Iowa",
+   "short": "Erin"
+  },
+  {
+   "name": "Seth Wilson",
+   "bio": "a Ph.D. candidate from Chicago, Illinois (whose 7-day cash winnings total $166,500)",
+   "short": "Seth"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Seth": 5600,
+   "Erin": 6600,
+   "Harold": 2400
+  },
+  "DJ": {
+   "Seth": 17600,
+   "Erin": 12600,
+   "Harold": 4400
+  },
+  "Final": {
+   "Seth": 25201,
+   "Erin": 1,
+   "Harold": 8800
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "LIECHTENSTEIN",
+    "COLLEGE FOOTBALL STADIUM NICKNAMES",
+    "AMERICA SINCE 1900",
+    "YE OLDE JOB FAIRE",
+    "A REAL BUSY BODY",
+    "THAT'S T-B-D"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 26,
+     "q": "Gruyere can be used to make Käsknöpfle, the national dish, often compared to this Kraft comfort food",
+     "a": "macaroni and cheese",
+     "right": [
+      "Erin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "The \"House that Rockne Built\" houses this team",
+     "a": "the Notre Dame Fighting Irish",
+     "right": [
+      "Seth"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 11,
+     "q": "In 1961 these \"Rides\" across the Deep South protested segregation in interstate transportation",
+     "a": "Freedom Rides",
+     "right": [
+      "Seth"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 16,
+     "q": "In the old days of law enforcement, people might say, \"There's a new shrieve in town\" instead of this job",
+     "a": "sheriff",
+     "right": [
+      "Seth"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 21,
+     "q": "Men's Fitness says 4 sets of 25 reps of reverse crunches, with 2 minutes rest, will help you get some \"ripped\" these muscles, bro",
+     "a": "abdominal muscles",
+     "right": [
+      "Seth"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 6,
+     "q": "A horse of pure stock",
+     "a": "a thoroughbred",
+     "right": [
+      "Harold"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "Sport of some Liechtenstein tourists & of Hanni Wenzel, who in 1980 brought her country its first Olympic gold",
+     "a": "skiing",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "Here's a white-out at Beaver Stadium, also known as Happy Valley, the home of this Keystone university",
+     "a": "Penn State",
+     "right": [
+      "Seth"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 12,
+     "q": "FDR dedicated the 1,450-foot-wide Bonneville one of these in 1937, pushing a button to start the first generator",
+     "a": "a hydroelectric plant (or dam)",
+     "right": [
+      "Harold"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 17,
+     "q": "This worker who prepared tanned hides is a homophone of a modern word for a documents messenger",
+     "a": "a currier",
+     "right": [
+      "Seth"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 22,
+     "q": "The \"big 3\" exercises of powerlifting are the squat, the deadlift & this \"press\"",
+     "a": "a bench press",
+     "right": [
+      "Erin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 7,
+     "q": "A sensational 5-column-wide newspaper",
+     "a": "a tabloid",
+     "right": [
+      "Seth"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": true,
+     "order": 28,
+     "q": "When Liechtenstin discovered that Haiti had an identical flag, it added a little one of these, as it's a principality",
+     "a": "a crown",
+     "right": [
+      "Erin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 3000
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 3,
+     "q": "This Big Ten team's stadium is called \"the Horseshoe\" because, well, it looks like a horseshoe",
+     "a": "Ohio State",
+     "right": [
+      "Seth"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 13,
+     "q": "On Sept. 26, 1971 Nixon greeted this man in Anchorage, the first meeting of a U.S. president & a Japanese monarch",
+     "a": "Hirohito",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 18,
+     "q": "In this job similar to a bard, you sang, played instruments & might have also recorded heroic deeds in song",
+     "a": "a minstrel",
+     "right": [
+      "Erin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 23,
+     "q": "(Sarah of the Clue Crew demonstrates a stretch.) Support yourself on a wall, tighten your stomach muscles & gently lift your heel up & back to stretch these large muscles that cover the front & sides of the thigh",
+     "a": "quadriceps",
+     "right": [
+      "Seth"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 8,
+     "q": "A Russian thistle, bouncing down an Old West street in the wind",
+     "a": "a tumbleweed",
+     "right": [
+      "Erin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "This capital of Liechtenstein is home to about 5,000 people",
+     "a": "Vaduz",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 4,
+     "q": "\"Death Valley\" is the home of the Tigers, this SEC team in \"Red Stick\"",
+     "a": "LSU",
+     "right": [
+      "Seth"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 14,
+     "q": "In 1927, this lawyer wrote \"The Prohibition Mania\"--can you \"Scopes out\" who he is?",
+     "a": "(Clarence) Darrow",
+     "right": [
+      "Harold"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 19,
+     "q": "In the court of Louis XIV, Monsieur Binet was the perruquier, making these accessories",
+     "a": "wigs",
+     "right": [
+      "Seth"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 24,
+     "q": "Last name of German-American gymnast Joseph, whose \"core\" exercise philosophy was 1st called contrology",
+     "a": "Pilates",
+     "right": [
+      "Seth"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 9,
+     "q": "All added up, it means arranged in a systematic form",
+     "a": "tabulated",
+     "right": [
+      "Erin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 30,
+     "q": "In 1719 Liechtenstein was established within this empire that dissolved in 1806",
+     "a": "the Holy Roman Empire",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 5,
+     "q": "\"Death Valley\" is the home of the Tigers, this ACC team in South Carolina",
+     "a": "Clemson",
+     "right": [
+      "Harold"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 15,
+     "q": "This 1920s scandal erupted when Secretary of the Interior Albert Fall leased govt. oil fields to private individuals",
+     "a": "Teapot Dome",
+     "right": [
+      "Seth"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 20,
+     "q": "This word sounds like it applies to Noah, but it was a craftsman who made boxes or chests",
+     "a": "arkwright",
+     "right": [],
+     "wrong": [
+      "Seth"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 25,
+     "q": "Tone your muscles with exercises where you're supported by this ballet class apparatus",
+     "a": "the barre",
+     "right": [
+      "Erin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 10,
+     "q": "This inn is found in \"The Canterbury Tales\" & today in Washington, D.C., where it's a favorite brunch spot",
+     "a": "the Tabard Inn",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "ROY LICHTENSTEIN",
+    "SPIDERS",
+    "THIS & THAT",
+    "SAY IT IN LATIN",
+    "CITY BOOKS",
+    "WHO'S THE BOSS?"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 28,
+     "q": "Roy made obvious the dots that built up images in comic books, the '60s version of these dots making up today's videos",
+     "a": "pixels",
+     "right": [
+      "Seth"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "This country's Sydney funnel web spider is extremely venomous; its fangs can bite through a fingernail!",
+     "a": "Australia",
+     "right": [
+      "Harold"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 16,
+     "q": "Load up a dart with azaperone & you've got one of these to put that charging rhino to sleep",
+     "a": "a tranquilizer",
+     "right": [
+      "Seth"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "Honestly or sincerely, this phrase means \"in good faith\"",
+     "a": "bona fide",
+     "right": [
+      "Seth"
+     ],
+     "wrong": [
+      "Harold"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 11,
+     "q": "The 1910 novel \"The Phantom of the Opera\" is set in this city",
+     "a": "Paris",
+     "right": [
+      "Harold"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "Agent Phil Coulson, who survived death on the big screen",
+     "a": "Agents of S.H.I.E.L.D.",
+     "right": [
+      "Seth"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": true,
+     "order": 25,
+     "q": "Lichtenstein said art since Cezanne looked inward; this movement Roy was part of \"looks out into the world\"",
+     "a": "Pop Art",
+     "right": [
+      "Seth"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2000
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 26,
+     "q": "A Mexican population of Bagheera kiplingi, named for a panther in this 1894 book, is mostly vegetarian",
+     "a": "The Jungle Book",
+     "right": [
+      "Erin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 17,
+     "q": "Of the 4 thrown objects in Olympic track & field events, this one weighs the least",
+     "a": "a javelin",
+     "right": [
+      "Harold"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 3,
+     "q": "It means the period before any war, but in the U.S. is usually used for the period before the Civil War",
+     "a": "antebellum",
+     "right": [
+      "Erin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 12,
+     "q": "Not Yangon, but this city is where \"The Road\" leads to in the title of a 2015 Lucy Cruickshanks book",
+     "a": "Rangoon",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 7,
+     "q": "Wehrmacht Colonel Wilhelm Klink",
+     "a": "Hogan's Heroes",
+     "right": [
+      "Seth"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 24,
+     "q": "Roy created a 53-foot-long mural for the subway station named for this heart of the Theater District",
+     "a": "Times Square",
+     "right": [
+      "Seth"
+     ],
+     "wrong": [
+      "Erin"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 21,
+     "q": "Spider blood is this color because oxygen is carried by hemocyanin, not hemoglobin",
+     "a": "blue",
+     "right": [
+      "Erin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 18,
+     "q": "A favorite material of model airplane enthusiasts is this light wood from Central America",
+     "a": "balsa wood",
+     "right": [
+      "Seth"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 4,
+     "q": "A university degree awarded with the highest of honors is signified with this 3-word phrase",
+     "a": "summa cum laude",
+     "right": [
+      "Erin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 13,
+     "q": "Andrei Bely's novel about socialist revolt in 1905 is named after this Russian city but the title drops the \"St.\"",
+     "a": "Petersburg",
+     "right": [
+      "Harold"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 8,
+     "q": "Miranda Bailey, Sloan Memorial's first chief of surgery",
+     "a": "Grey's Anatomy",
+     "right": [
+      "Erin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 29,
+     "q": "Roy often reprised other painters--a 1963 painting takes off from a work by this Spaniard that itself takes off from a Delacroix",
+     "a": "Pablo Picasso",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 22,
+     "q": "Humans do it using hot air; spiders do it to \"fly\" hundreds of miles when a strand of silk catches turbulent air",
+     "a": "ballooning",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 19,
+     "q": "The historic Germanic people known as the Goths can be divided into the Ostrogoths & this western branch",
+     "a": "the Visigoths",
+     "right": [
+      "Seth"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 5,
+     "q": "The title of this 1951 movie is a question from the gospel of John that means \"whither goest thou?\"",
+     "a": "Quo Vadis",
+     "right": [
+      "Seth"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 14,
+     "q": "A trilogy by Yasmina Khadra includes \"The Swallows of Kabul\" & \"The Sirens of\" this other capital",
+     "a": "Baghdad",
+     "right": [],
+     "wrong": [
+      "Harold"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2000
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 9,
+     "q": "Richie Finestra, founder & president of American Century Records",
+     "a": "Vinyl",
+     "right": [
+      "Harold"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 30,
+     "q": "In 1966 this 4-letter London museum bought \"Whaam!\"; in 1968 it gave Roy its first show devoted to a living American",
+     "a": "Tate",
+     "right": [
+      "Erin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 23,
+     "q": "Type of spider seen here that lives in a silk-lined burrow",
+     "a": "the trapdoor spider",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 20,
+     "q": "In the first recording for his phonograph, Thomas Edison read a line from this nursery rhyme",
+     "a": "\"Mary Had A Little Lamb\"",
+     "right": [
+      "Erin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 6,
+     "q": "This most famous song from \"Carmina Burana\" is heard here",
+     "a": "\"O Fortuna\"",
+     "right": [
+      "Seth"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 15,
+     "q": "City preceding \"Alexanderplatz\" in the title of an Alfred Doblin novel",
+     "a": "Berlin",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 10,
+     "q": "Milwaukee restaurauteur Arnold Takahashi, succeeded later by Al Delvecchio",
+     "a": "Happy Days",
+     "right": [],
+     "wrong": [
+      "Erin"
+     ],
+     "stumper": true,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "HISTORIC HOMES",
+  "q": "Also known as the \"House of His Majesty\", Fairfield House in England was the home of this African leader from 1936 to 1941",
+  "a": "Haile Selassie",
+  "right": [
+   "Harold",
+   "Seth"
+  ],
+  "wrong": [
+   "Erin"
+  ]
+ },
+ "gameId": "5418",
+ "cat_notes": {
+  "J": [
+   "Clues about Liechtenstein.",
+   "Clues about College Football Stadium Nicknames.",
+   "Clues about America Since 1900.",
+   "Clues about Ye Olde Job Faire.",
+   "Clues about A Real Busy Body.",
+   "Each correct response beginning with a \"T\" and a \"B\" and a \"D\" will come later."
+  ],
+  "DJ": [
+   "Clues about Roy Lichtenstein.",
+   "Clues about Spiders.",
+   "Clues about This and That.",
+   "Clues about Say It in Latin.",
+   "Clues about City Books.",
+   "You have to provide the TV show for the given boss, in the clue."
+  ],
+  "F": "Clues about Historic Homes."
+ }
+}

@@ -1,0 +1,988 @@
+{
+ "show": "#7433",
+ "aired": "2016-12-28",
+ "note": "",
+ "contestants": [
+  {
+   "name": "Justin Scace",
+   "bio": "a writer and editor from East Lyme, Connecticut",
+   "short": "Justin"
+  },
+  {
+   "name": "Mike Lamar",
+   "bio": "an OB/GYN from Wichita Falls, Texas",
+   "short": "Mike"
+  },
+  {
+   "name": "Stephanie Schlatter",
+   "bio": "a stay-at-home parent from Toledo, Ohio (whose 2-day cash winnings total $18,802)",
+   "short": "Stephanie"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Stephanie": 4800,
+   "Mike": 3600,
+   "Justin": 2400
+  },
+  "DJ": {
+   "Stephanie": 10000,
+   "Mike": 17200,
+   "Justin": 7200
+  },
+  "Final": {
+   "Stephanie": 2,
+   "Mike": 14200,
+   "Justin": 14400
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "ON SIRIUSXM RADIO",
+    "KNOWLEDGE ABOUT COLLEGE",
+    "IT'S AN EMERGENCY!",
+    "THEY SAID IT WITH FLOWERS",
+    "HISTORIC HOMES",
+    "BLENDED WORDS"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 26,
+     "q": "Get all the latest TV, movie & music news on this magazine's EW channel",
+     "a": "Entertainment Weekly",
+     "right": [
+      "Stephanie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 11,
+     "q": "In the 1910s non-medical divisions moved to the Homewood campus of this Baltimore university",
+     "a": "Johns Hopkins University",
+     "right": [
+      "Mike"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 6,
+     "q": "After an earthquake, coast dwellers, be aware of the possibility of this danger with a Japanese name",
+     "a": "a tsunami",
+     "right": [
+      "Stephanie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 16,
+     "q": "Gertrude Stein:\n\"____ is a ____ is a ____\"",
+     "a": "a rose is a rose is a rose",
+     "right": [
+      "Mike"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 21,
+     "q": "His birth home on Auburn Avenue in Atlanta is not far from Ebenezer Baptist Church, where he & his dad preached",
+     "a": "Martin Luther King",
+     "right": [
+      "Stephanie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "A close buddyship between 2 guys",
+     "a": "a bromance",
+     "right": [
+      "Justin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "Original MTV VJs including Martha Quinn host shows on the channel devoted to music from this decade",
+     "a": "the 1980s",
+     "right": [
+      "Stephanie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 12,
+     "q": "You'll have a heck of a Hanover at this Ivy League school founded in 1769",
+     "a": "Dartmouth",
+     "right": [
+      "Justin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 7,
+     "q": "(Sarah of the Clue Crew presents.) In a medical emergency, you need to act fast, & if someone exhibits face drooping, arm weakness, & speech difficulty, it's time to call 9-1-1, because these are the warning signs and symptoms of this",
+     "a": "a stroke",
+     "right": [
+      "Mike"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 17,
+     "q": "Thomas Moore:\n\"Her dream of home, steals timidly away, / shrinking as ____ do in summer's ray\"",
+     "a": "violets",
+     "right": [
+      "Stephanie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 22,
+     "q": "A Victorian jewel in Denver is the home of this woman who survived the sinking of the Titanic",
+     "a": "Molly Brown",
+     "right": [
+      "Justin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "This word with a double \"Z\" informally refers to a mayor",
+     "a": "hizzoner",
+     "right": [
+      "Mike"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 28,
+     "q": "The FCC hasn't been an issue since he & Robin Quivers moved to the Sirius network in 2006",
+     "a": "Howard Stern",
+     "right": [
+      "Justin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": true,
+     "order": 13,
+     "q": "It's the only Pac-12 school that does not contain the name of a state",
+     "a": "Stanford University",
+     "right": [],
+     "wrong": [
+      "Justin"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2000
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 8,
+     "q": "The Red Cross reports that 60% of house fire deaths occur in homes where these are not working",
+     "a": "a smoke alarm",
+     "right": [
+      "Mike"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 18,
+     "q": "1890s songsmith & tandem bicycle enthusiast Harry Dacre:\n\"____, ____, give me your answer, do!\"",
+     "a": "daisy",
+     "right": [
+      "Mike"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 23,
+     "q": "This writer's home in Hartford, Connecticut, where he lived beginning in 1874, is often called Steamboat Gothic",
+     "a": "Mark Twain",
+     "right": [
+      "Justin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 3,
+     "q": "The names of these 2 baseball pitches combined to make \"slurve\"",
+     "a": "a slider and a curveball",
+     "right": [
+      "Justin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "Hats off to this country star who \"ain't going down 'til the sun comes up\" now that he got his own channel in 2016",
+     "a": "Garth Brooks",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 14,
+     "q": "Fittingly, there's a large Greek system in this Georgia city",
+     "a": "Athens",
+     "right": [
+      "Stephanie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 9,
+     "q": "In this emergency operation, an incision is made in the windpipe to open an artificial breathing passage",
+     "a": "a tracheotomy",
+     "right": [
+      "Stephanie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 19,
+     "q": "John McCrae:\n\"In Flanders fields\" these \"blow/ between the crosses, row on row\"",
+     "a": "poppies",
+     "right": [
+      "Justin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 24,
+     "q": "The Hermitage, his Tennessee estate, has a cafe called the Kitchen Cabinet; its ham sandwich is named for Roger Taney",
+     "a": "Andrew Jackson",
+     "right": [
+      "Stephanie"
+     ],
+     "wrong": [
+      "Mike"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 4,
+     "q": "It's any alcohol-free version of a mixed adult beverage",
+     "a": "a mocktail",
+     "right": [
+      "Justin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 30,
+     "q": "Pull up a chair, grab a cup of joe & enjoy this channel's blend of rare & acoustic performances on 14",
+     "a": "The Coffee House",
+     "right": [
+      "Stephanie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 15,
+     "q": "Named for a Supreme Court justice, it boasts Pulitzer winners Margo Jefferson & Thomas Friedman as alums",
+     "a": "Brandeis University",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 10,
+     "q": "A phenomenon called odor fade can make this dangerous home event harder to detect",
+     "a": "a natural gas leak",
+     "right": [],
+     "wrong": [
+      "Stephanie"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 20,
+     "q": "Wordsworth:\n\"And then my heart with pleasure fills, / and dances with\" these",
+     "a": "daffodils",
+     "right": [
+      "Mike"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 25,
+     "q": "The home where this man lived until his death in 1791 has a prayer room known as the powerhouse of Methodism",
+     "a": "(John) Wesley",
+     "right": [
+      "Stephanie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 5,
+     "q": "This swimming costume suitable for Muslim women covers everything but the face, hands & feet",
+     "a": "a burkini",
+     "right": [
+      "Mike"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "U.S. HISTORY",
+    "TITLE CHARACTERS",
+    "ITALIAN GEOGRAPHY",
+    "ANTE \"BELL\" UM",
+    "BILLY IDOL",
+    "MANET/MONET"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 6,
+     "q": "In 2003 in Ohio, an overgrown tree touched a power line, causing this event that affected 50 million North Americans",
+     "a": "a blackout",
+     "right": [
+      "Justin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "This TV secret agent with great resourcefulness was played by Richard Dean Anderson",
+     "a": "MacGyver",
+     "right": [
+      "Justin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 23,
+     "q": "This island's provinces include Enna, Ragusa & Catania",
+     "a": "Sicily",
+     "right": [
+      "Stephanie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 11,
+     "q": "To roar like a bull",
+     "a": "to bellow",
+     "right": [
+      "Mike"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 18,
+     "q": "This musician had a sold-out 12-show run at Madison Square Garden in 2014 & keeps filling the place",
+     "a": "Billy Joel",
+     "right": [
+      "Justin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 16,
+     "q": "Manet's \"Battle of the U.S.S. Kearsarge and the C.S.S. Alabama\" shows the battle off France's coast during this U.S. war",
+     "a": "the Civil War",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 7,
+     "q": "Thomas Jefferson appointed this man, his personal secretary, to lead an expedition to try to find the N.W. Passage",
+     "a": "(Meriwether) Lewis",
+     "right": [
+      "Justin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 2,
+     "q": "Julianne Moore's 2014 character had Alzheimer's but was \"Still\" this linguistics professor",
+     "a": "Alice",
+     "right": [
+      "Stephanie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 24,
+     "q": "The northernmost point is in South Tyrol on the border with this country",
+     "a": "Austria",
+     "right": [
+      "Mike"
+     ],
+     "wrong": [
+      "Justin"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 12,
+     "q": "Ring to get this male hotel page to see to your needs",
+     "a": "the bellhop (or bellboy)",
+     "right": [
+      "Stephanie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 19,
+     "q": "This evangelist had a 16-week crusade at Madison Square Garden in 1957",
+     "a": "Billy Graham",
+     "right": [
+      "Mike"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 17,
+     "q": "In 1875, Edouard Manet created the illustration for a French translation of this American poem",
+     "a": "\"The Raven\"",
+     "right": [
+      "Stephanie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": true,
+     "order": 8,
+     "q": "Under the 1832 Treaty of Payne's Landing, chiefs in this tribe agreed to removal from Florida to points west",
+     "a": "Seminole",
+     "right": [
+      "Justin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2000
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 3,
+     "q": "The 2 female-named sitcoms that spun off from \"The Mary Tyler Moore Show\"",
+     "a": "Rhoda and Phyllis",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 25,
+     "q": "Although this river is 252 miles long, only the 20 miles from Rome to the sea is navigable",
+     "a": "the Tiber",
+     "right": [
+      "Mike"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 13,
+     "q": "It's also known as deadly nightshade",
+     "a": "belladonna",
+     "right": [
+      "Mike"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 20,
+     "q": "In April 1881 he was sentenced to be hanged, but ended up dying that July of bullet-related causes",
+     "a": "Billy the Kid",
+     "right": [
+      "Mike"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 28,
+     "q": "Monet's 1865-66 \"Dejeuner sur l'Herbe\", or \"Luncheon on\" this, was named after an 1863 Manet painting",
+     "a": "the grass",
+     "right": [
+      "Stephanie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 9,
+     "q": "In 1911 the U.S. signed an agreement with Russia, Japan & the U.K. to protect the seal herds in this sea",
+     "a": "the Bering Sea",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 4,
+     "q": "The Coen brothers took us \"Inside\" this uncompromising early 1960s folk singer",
+     "a": "Llewyn Davis",
+     "right": [
+      "Justin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 26,
+     "q": "The name of this region in northwest Italy known for its prize-winning wines means \"foot of the mountain\"",
+     "a": "the Piedmont",
+     "right": [
+      "Mike"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2000
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 14,
+     "q": "Hyphenated French term for study of fine literature",
+     "a": "belles-lettres",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 21,
+     "q": "Herman Melville died in 1891, leaving behind the tale of this sailor, unpublished for another 33 years",
+     "a": "Billy Budd",
+     "right": [
+      "Stephanie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 29,
+     "q": "It's Monet's 2-word title subject in a work seen here & on view at New York City's Metropolitan Museum of Art",
+     "a": "Water Lilies",
+     "right": [
+      "Stephanie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 10,
+     "q": "In 1944 world powers met beneath the trees of this Georgetown mansion to lay the U.N.'s foundation",
+     "a": "Dumbarton Oaks",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 5,
+     "q": "Jeannie was a genie & we guess this Larry Hagman character was the one who dreamed of her",
+     "a": "Captain Tony Nelson",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 27,
+     "q": "Italy's chief seaport, it lies on the northern end of the Ligurian Sea",
+     "a": "Genoa",
+     "right": [],
+     "wrong": [
+      "Stephanie"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 15,
+     "q": "It's a paralysis of the muscles, typically on one side of the face",
+     "a": "a Bell's palsy",
+     "right": [
+      "Mike"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 22,
+     "q": "We'd know this evangelist who played Major League Baseball in the 1880s any day of the week",
+     "a": "Billy Sunday",
+     "right": [
+      "Mike"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 30,
+     "q": "The \"Folies\" of Parisian society are depicted vividly in Manet's \"Bar at\" this Paris music hall",
+     "a": "the Folies Bergère",
+     "right": [
+      "Mike"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "FICTIONAL PLACES",
+  "q": "This land is described as \"all that lies between the lamp-post and the great castle of Cair Paravel on the Eastern Sea\"",
+  "a": "Narnia",
+  "right": [
+   "Justin"
+  ],
+  "wrong": [
+   "Stephanie",
+   "Mike"
+  ]
+ },
+ "gameId": "5490",
+ "cat_notes": {
+  "J": [
+   "Clues on Siriusxm Radio.",
+   "Clues about Knowledge About College.",
+   "The category “IT'S AN EMERGENCY!” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "The category “THEY SAID IT WITH FLOWERS” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "Clues about Historic Homes.",
+   "Clues about Blended Words."
+  ],
+  "DJ": [
+   "Clues about U.S. History.",
+   "Clues about Title Characters.",
+   "Clues about Italian Geography.",
+   "Each correct response will have those four letters--B-E-L-L, and will come before \"bellum\" in the dictionary.",
+   "Clues about billys, riffing on the title “BILLY IDOL”.",
+   "Clues about Manet/monet."
+  ],
+  "F": "Clues about Fictional Places."
+ }
+}

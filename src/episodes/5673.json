@@ -1,0 +1,995 @@
+{
+ "show": "#7551",
+ "aired": "2017-06-12",
+ "note": "",
+ "contestants": [
+  {
+   "name": "Janna Seals",
+   "bio": "a retired library assistant from Mont Belvieu, Texas",
+   "short": "Janna"
+  },
+  {
+   "name": "Liz Kuster",
+   "bio": "an attorney from Chesterfield, Missouri",
+   "short": "Liz"
+  },
+  {
+   "name": "Tucker Dunn",
+   "bio": "an ESL teacher from Tucson, Arizona (whose 1-day cash winnings total $23,601)",
+   "short": "Tucker"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Tucker": 6200,
+   "Liz": 4400,
+   "Janna": 2800
+  },
+  "DJ": {
+   "Tucker": 8200,
+   "Liz": 8400,
+   "Janna": 6200
+  },
+  "Final": {
+   "Tucker": 3999,
+   "Liz": 399,
+   "Janna": 2
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "\"A\" IN THE LAW",
+    "THE SPORTING LIFE",
+    "DISTRICTS",
+    "DIFFERING BY ONE LETTER",
+    "THIS & THAT",
+    "LITERARY CHARACTER MASHUP"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 7,
+     "q": "In Latin, it means \"elsewhere\"--do you have one for your whereabouts the night of the 16th?",
+     "a": "an alibi",
+     "right": [
+      "Janna"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "(I'm Mario Andretti.) Over the years I had bad luck at this famous American race, but I caught some breaks in 1969 when I won it in a backup car after a crash during practice",
+     "a": "the Indianapolis 500",
+     "right": [
+      "Janna"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 26,
+     "q": "This state has the largest Congressional district in area, 571,000 square miles",
+     "a": "Alaska",
+     "right": [
+      "Liz"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 16,
+     "q": "A thin-waisted stinging insect & a tuft of hair",
+     "a": "wasp or wisp",
+     "right": [
+      "Janna"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 14,
+     "q": "The Inca orchid hairless is the national dog of this third-largest South American country",
+     "a": "Peru",
+     "right": [
+      "Tucker"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 2,
+     "q": "Goldberry Baggins",
+     "a": "Tolkien",
+     "right": [
+      "Liz"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 8,
+     "q": "This divine phrase refers to a natural event that couldn't have been prevented or foreseen using reasonable care",
+     "a": "an act of God",
+     "right": [
+      "Liz"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 3,
+     "q": "In the 2 styles of this Olympic sport, one is played on sand & the other on a hard surface",
+     "a": "volleyball",
+     "right": [
+      "Tucker"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "The film \"District 9\" was inspired by the apartheid-based clearing out of District 6 in this South African seaport & capital",
+     "a": "Cape Town",
+     "right": [
+      "Liz"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 17,
+     "q": "To deaden sound & to disturb a bird's feathers",
+     "a": "muffle and ruffle",
+     "right": [
+      "Liz"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 15,
+     "q": "From a proper name, it was often excessive zeal in pursuing Communists in 1950s America",
+     "a": "McCarthyism",
+     "right": [
+      "Tucker"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 9,
+     "q": "Nymphadora Slughorn",
+     "a": "J.K. Rowling",
+     "right": [
+      "Tucker"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 11,
+     "q": "This word, also the name of a Triple Crown-winning thoroughbred, is used when agreeing with local court decisions",
+     "a": "affirmed",
+     "right": [
+      "Liz"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 4,
+     "q": "After a loss to the Warriors in the 2016 Western finals, this Thunder stud didn't beat 'em, he joined 'em",
+     "a": "(Kevin) Durant",
+     "right": [
+      "Tucker"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 28,
+     "q": "Ullswater is this geographical feature in the English district of the same name, made famous by Wordsworth",
+     "a": "a lake",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 18,
+     "q": "A tube inserted into a blocked blood vessel & a period of time spent in a job",
+     "a": "a stent and a stint",
+     "right": [
+      "Janna"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 23,
+     "q": "On \"Gilligan's Island\", this character's movie credits included \"Belly Dancers from Bali-Bali\"",
+     "a": "Ginger",
+     "right": [
+      "Tucker"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 10,
+     "q": "Leopold Dedalus",
+     "a": "(James) Joyce",
+     "right": [
+      "Liz"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 12,
+     "q": "These jurors hear all the evidence, but don't have a say in the outcome unless the judge replaces someone",
+     "a": "an alternate",
+     "right": [
+      "Liz"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 5,
+     "q": "Yasiel Puig & Jorge Soler are recent MLB signings from this country",
+     "a": "Cuba",
+     "right": [
+      "Tucker"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "South of the Tenderloin is this city's Mission District, named for Mission Dolores",
+     "a": "San Francisco",
+     "right": [
+      "Janna"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 19,
+     "q": "Slang term for one's sweetheart & a division of a game of bowling",
+     "a": "flame and frame",
+     "right": [
+      "Tucker"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 24,
+     "q": "In ancient times you might send a letter written on this Nile dweller",
+     "a": "papyrus",
+     "right": [
+      "Liz"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 21,
+     "q": "Santiago Ashley",
+     "a": "Hemingway",
+     "right": [
+      "Janna"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 13,
+     "q": "This type of statement is usually signed by a notary & says where it was signed",
+     "a": "an affidavit",
+     "right": [
+      "Janna"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 6,
+     "q": "This Columbus, Ohio NHL team pays homage to Union soldiers with its nickname",
+     "a": "the Blue Jackets",
+     "right": [
+      "Tucker"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 30,
+     "q": "This type of wine, AKA claret, can be classified by 36 districts, which are then divided into communes",
+     "a": "Bordeaux",
+     "right": [
+      "Tucker"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 20,
+     "q": "To scatter & the first little pig's building material",
+     "a": "strew and straw",
+     "right": [
+      "Janna"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 25,
+     "q": "This \"creep\" doesn't mean an unpleasant guy; it's when you pay a higher tax rate due to inflation",
+     "a": "bracket creep",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": true,
+     "order": 22,
+     "q": "Hepzibah Chillingworth",
+     "a": "Nathaniel Hawthorne",
+     "right": [],
+     "wrong": [
+      "Janna"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2000
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "THE PLAYS OF JEAN RACINE",
+    "ROCKS & MINERALS",
+    "FOREIGN WORDS & PHRASES",
+    "\"BAD\" ENTERTAINMENT",
+    "STRIKE!",
+    "THE IRON IS HOT"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 26,
+     "q": "Based on real events in the 1630s, \"Bajazet\" is about an attempt to depose the sultan of this Turkish empire",
+     "a": "the Ottoman Empire",
+     "right": [
+      "Liz"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 6,
+     "q": "Mud & minerals from this body of water 1,400 feet below sea level are used to make facial masks & body wraps",
+     "a": "the Dead Sea",
+     "right": [
+      "Janna"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 14,
+     "q": "In Norwegian this holiday greeting is god jul",
+     "a": "Merry Christmas",
+     "right": [
+      "Tucker"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "In a Disney film, Practical Pig, Fiddler Pig & Fifer Pig wonder \"Who's Afraid Of\" him",
+     "a": "the Big Bad Wolf",
+     "right": [
+      "Janna"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 10,
+     "q": "As a concession to workers during a 1894 railroad strike, President Cleveland created this U.S. holiday",
+     "a": "Labor Day",
+     "right": [
+      "Tucker"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 20,
+     "q": "We're not pulling it over your eyes--set the iron for 300 degrees for this, which has lanolin as a byproduct",
+     "a": "wool",
+     "right": [
+      "Janna"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 27,
+     "q": "In the 1674 play \"Iphigenie\", this Greek king is asked to sacrifice the title character to get fair winds to sail to Troy",
+     "a": "Agamemnon",
+     "right": [],
+     "wrong": [
+      "Tucker",
+      "Liz"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 7,
+     "q": "Kilt Rock on the Isle of Skye is a sea cliff made up of this dark-colored volcanic rock",
+     "a": "basalt",
+     "right": [],
+     "wrong": [
+      "Tucker",
+      "Liz",
+      "Janna"
+     ],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 15,
+     "q": "Your girlfriend will be ecstatic if you send her a billet-doux or \"sweet note\", this alliterative item",
+     "a": "a love letter",
+     "right": [
+      "Janna"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 2,
+     "q": "We learned to love Christopher Mintz-Plasse as McLovin in this comedy",
+     "a": "Superbad",
+     "right": [
+      "Janna"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 11,
+     "q": "A 1947 act named for Robert Taft & this other Republican placed limits on the right to strike",
+     "a": "(Fred) Hartley",
+     "right": [
+      "Liz"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 21,
+     "q": "It should be at 400 degrees for this, a crop declared \"king\" in 1858 by a South Carolina senator",
+     "a": "cotton",
+     "right": [
+      "Liz"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 28,
+     "q": "\"Berenice\" is tragic, all right; its last word is \"hélas\", the French equivalent of this 4-letter English word",
+     "a": "alas",
+     "right": [
+      "Tucker"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": true,
+     "order": 8,
+     "q": "A native sandstone, Roxbury puddingstone is the official rock of this state",
+     "a": "Massachusetts",
+     "right": [],
+     "wrong": [
+      "Janna"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1000
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 16,
+     "q": "If you don't take something too literally, you take it \"cum grano salis\", or this",
+     "a": "with a grain of salt",
+     "right": [
+      "Janna"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 3,
+     "q": "It's the song title (& maybe the only thing) in common to Neil Sedaka & Taylor Swift",
+     "a": "\"Bad Blood\"",
+     "right": [
+      "Janna"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 12,
+     "q": "On John Lindsay's first day as NYC mayor, the workers of this system went on strike",
+     "a": "transport (or transit)",
+     "right": [
+      "Liz"
+     ],
+     "wrong": [
+      "Janna"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 22,
+     "q": "Get the iron hot but not too hot--275 degrees--for this stretchy stuff AKA elastane",
+     "a": "spandex",
+     "right": [
+      "Tucker"
+     ],
+     "wrong": [
+      "Liz"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 29,
+     "q": "Louis XIV was costumer & usher for the Racine play about this Jewish wife of a Persian king",
+     "a": "Esther",
+     "right": [],
+     "wrong": [
+      "Tucker"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 9,
+     "q": "Containing more carbon than other types, this highest ranking coal has a metallic-like luster",
+     "a": "anthracite",
+     "right": [
+      "Liz"
+     ],
+     "wrong": [
+      "Tucker",
+      "Janna"
+     ],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 17,
+     "q": "Brahms' 4th symphony begins in this lively tempo \"non troppo\", Italian for \"don't go overboard\"",
+     "a": "allegro non troppo",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 4,
+     "q": "Leonard Maltin calls it \"the quintessential spaghetti Western\"",
+     "a": "The Good, the Bad and the Ugly",
+     "right": [
+      "Janna"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1200
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 13,
+     "q": "This governor's role in quashing a 1919 Boston police strike helped lead to his 1920 VP nomination",
+     "a": "Coolidge",
+     "right": [
+      "Tucker"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 24,
+     "q": "This flax product likes it really hot--around 445 degrees",
+     "a": "linen",
+     "right": [
+      "Janna"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 30,
+     "q": "In the 1669 play \"Britannicus\", this fifth Roman emperor kills his brother & rival",
+     "a": "Nero",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 19,
+     "q": "The first diamonds to be mined came from this country, especially from the ancient city of Golconda",
+     "a": "India",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 18,
+     "q": "Once the title of the Japanese emperor, it means \"honorable gate\"",
+     "a": "mikado",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 5,
+     "q": "On this song from \"Channel Orange\", Frank Ocean sings to a cab driver of his unrequited love for a man",
+     "a": "\"Bad Religion\"",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 23,
+     "q": "A protest against anti-strike police brutality led to the deadly 1886 Haymarket Riot in this U.S. city",
+     "a": "Chicago",
+     "right": [
+      "Tucker"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 25,
+     "q": "This manmade fiber that starts with a male first name likes the iron around 375 degrees",
+     "a": "rayon",
+     "right": [
+      "Liz"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "GEOGRAPHY",
+  "q": "Cross the Strait of Bonifacio & you go between the 2nd- & 4th-largest Mediterranean islands & between these 2 countries",
+  "a": "Italy & France",
+  "right": [],
+  "wrong": [
+   "Janna",
+   "Tucker",
+   "Liz"
+  ]
+ },
+ "gameId": "5673",
+ "cat_notes": {
+  "J": [
+   "Each answer starts with “A”, and the clues are about In the Law.",
+   "Clues about The Sporting Life.",
+   "Clues about Districts.",
+   "Clues about Differing by One Letter.",
+   "Clues about This and That.",
+   "We want you to name the author who created our..."
+  ],
+  "DJ": [
+   "Clues about The Plays of Jean Racine.",
+   "Clues about Rocks and Minerals.",
+   "Clues about Foreign Words and Phrases.",
+   "Each answer contains the letter group “BAD”, and the clues are about Entertainment.",
+   "The category “STRIKE!” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "Clues about The Iron Is Hot."
+  ],
+  "F": "Clues about Geography."
+ }
+}

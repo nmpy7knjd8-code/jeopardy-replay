@@ -1,0 +1,993 @@
+{
+ "show": "#7390",
+ "aired": "2016-10-28",
+ "note": "",
+ "contestants": [
+  {
+   "name": "Julia Lee",
+   "bio": "a pharmacy student from San Bruno, California",
+   "short": "Julia"
+  },
+  {
+   "name": "Meghan Winch",
+   "bio": "a theater artist from Philadelphia, Pennsylvania",
+   "short": "Meghan"
+  },
+  {
+   "name": "Ken Hirsh",
+   "bio": "a law library director and law professor from Milford, Ohio (whose 1-day cash winnings total $16,001)",
+   "short": "Ken"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Ken": 3900,
+   "Meghan": 4000,
+   "Julia": 5600
+  },
+  "DJ": {
+   "Ken": 9900,
+   "Meghan": 8800,
+   "Julia": 13200
+  },
+  "Final": {
+   "Ken": 2199,
+   "Meghan": 0,
+   "Julia": 6599
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "MASTERS OF SOCKS",
+    "STUFF ABOUT STATES",
+    "INITIALITERATURE",
+    "GARDEN PARTY",
+    "FORE!",
+    "LETTER WORDS"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 11,
+     "q": "The town of Zhuji in this country is known as \"Sock City\" & has produced as many as 17 billion pairs a year",
+     "a": "China",
+     "right": [
+      "Julia"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "Red Lake is the largest of the more than 10,000 lakes within this state",
+     "a": "Minnesota",
+     "right": [
+      "Julia"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 15,
+     "q": "\"L.C.L.\"\nby D.H. Lawrence",
+     "a": "Lady Chatterley's Lover",
+     "right": [
+      "Julia"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 12,
+     "q": "In spring, you can tiptoe through the tulips at the Keukenhof Gardens in this country",
+     "a": "the Netherlands",
+     "right": [
+      "Julia"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 26,
+     "q": "Despite the name, these clubs used for long shots, like the driver, are now usually made of metal or composite",
+     "a": "woods",
+     "right": [
+      "Meghan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 2,
+     "q": "If you think of something to add after you've finished a letter, put it in one of these, abbreviated P.S.",
+     "a": "postscript",
+     "right": [
+      "Ken"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 14,
+     "q": "This president & his family had a pet cat named Socks",
+     "a": "Bill Clinton",
+     "right": [
+      "Ken"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 7,
+     "q": "It ranks second among the states in both population & area",
+     "a": "Texas",
+     "right": [
+      "Ken"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 16,
+     "q": "\"T.P.A.T.P.\"\nby Mark Twain",
+     "a": "The Prince and the Pauper",
+     "right": [
+      "Meghan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 13,
+     "q": "A symbol of friendship between the U.S. & Canada, the International Peace Garden is on the border of N.D. & this province",
+     "a": "Manitoba",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "It's the only one of golf's Grand Slam tournaments that's held at the same course every year",
+     "a": "the Masters",
+     "right": [
+      "Ken"
+     ],
+     "wrong": [
+      "Julia"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 3,
+     "q": "Letter writers must really mean what they say, as they often sign off pairing this 9-letter adverb with \"yours\"",
+     "a": "sincerely",
+     "right": [
+      "Ken"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 23,
+     "q": "This diamond-shaped pattern named for a Scottish clan's tartan is popular for socks",
+     "a": "argyle",
+     "right": [
+      "Ken"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 8,
+     "q": "Rugged beauty abounds at Badlands National Park in this state",
+     "a": "South Dakota",
+     "right": [
+      "Ken"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 17,
+     "q": "\"B.D.\"\nby Stephenie Meyer",
+     "a": "Breaking Dawn",
+     "right": [
+      "Julia"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 18,
+     "q": "Here's one artist's rendering of this ancient wonder",
+     "a": "the Hanging Gardens of Babylon",
+     "right": [
+      "Meghan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 28,
+     "q": "A golfer marks a scorecard with 2 numbers per hole if he has one of these, such as 20",
+     "a": "a handicap",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 4,
+     "q": "This word for the greeting that begins a letter comes from Latin for \"health\"",
+     "a": "salutation",
+     "right": [
+      "Ken"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 24,
+     "q": "Sometimes held in a gym, it's a shoeless school dance",
+     "a": "a sock hop",
+     "right": [
+      "Julia"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": true,
+     "order": 9,
+     "q": "It was the first state to have a chemical element named for it",
+     "a": "California",
+     "right": [
+      "Ken"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1500
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 21,
+     "q": "\"T.S.A.R.\"\nby Ernest Hemingway",
+     "a": "The Sun Also Rises",
+     "right": [
+      "Julia"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 19,
+     "q": "Though the palace was destroyed in 1871, this Parisian garden remains a beloved historical landmark",
+     "a": "the Tuileries",
+     "right": [
+      "Meghan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "This biennial cup has pitted Europe's top golfers against America's best since 1927",
+     "a": "the Ryder Cup",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 5,
+     "q": "With certified mail & this 10-letter type, the postal service provides proof of mailing",
+     "a": "registered",
+     "right": [
+      "Ken"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 25,
+     "q": "Tabi & flip-flop socks have this unique feature",
+     "a": "a separated big toe (a big toe accepted)",
+     "right": [
+      "Meghan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 10,
+     "q": "The words \"Battle Born\" appear on the flag of this state that entered the Union during the Civil War",
+     "a": "Nevada",
+     "right": [],
+     "wrong": [
+      "Ken"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 22,
+     "q": "\"T.P.P.\"\nby Charles Dickens",
+     "a": "The Pickwick Papers",
+     "right": [
+      "Meghan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 20,
+     "q": "Seen here, his \"Water Garden\" was a constant source of inspiration",
+     "a": "(Claude) Monet",
+     "right": [
+      "Julia"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 30,
+     "q": "With 5 wins in 27 tournaments, this American was the top-ranked men's golfer of 2015",
+     "a": "Jordan Spieth",
+     "right": [
+      "Julia"
+     ],
+     "wrong": [
+      "Ken"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 6,
+     "q": "The address & date at a letter's beginning, it's also a word for a ship's direction",
+     "a": "a heading",
+     "right": [
+      "Julia"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "WHO'S THE MRS.?",
+    "LEGAL MATTERS",
+    "HISTORY: HIRED & FIRED",
+    "WEATHER",
+    "RHYME HOLE",
+    "AMERICAN ARTISTS"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "James Brolin",
+     "a": "Barbra Streisand",
+     "right": [
+      "Meghan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 8,
+     "q": "This amendment says you cannot be compelled to be a witness against yourself in a criminal matter",
+     "a": "the Fifth Amendment",
+     "right": [
+      "Ken"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 23,
+     "q": "Captain Smith, you didn't bother to sound a general alarm after this ship hit an iceberg? You're fired!",
+     "a": "the Titanic",
+     "right": [
+      "Julia"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 11,
+     "q": "One of these can travel at a third the speed of light & heat the air in its path to more than 50,000 degrees",
+     "a": "a lightning bolt",
+     "right": [],
+     "wrong": [
+      "Ken",
+      "Meghan"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 14,
+     "q": "Type of \"patch\" seen here",
+     "a": "soul",
+     "right": [
+      "Meghan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 20,
+     "q": "Edgar Leeteg was known as the \"American\" this artist because of his many works featuring Tahitian people",
+     "a": "Gauguin",
+     "right": [
+      "Julia"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 3,
+     "q": "Garth Brooks",
+     "a": "Trisha Yearwood",
+     "right": [
+      "Meghan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 7,
+     "q": "A decision can be reconsidered by \"a court of\" this; in the U.S., the Supreme Court is the final one",
+     "a": "appeals",
+     "right": [
+      "Meghan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 24,
+     "q": "You found paths for the pathfinder John C. Fremont. You're hired! & we'll name Nevada's capital for you!",
+     "a": "(Kit) Carson",
+     "right": [
+      "Julia"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 12,
+     "q": "This state's Kona storms are characterized by strong southerly or southwesterly winds & heavy rains",
+     "a": "Hawaii",
+     "right": [
+      "Julia"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 15,
+     "q": "Bullfrog polliwog",
+     "a": "tadpole",
+     "right": [
+      "Julia"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 19,
+     "q": "Fittingly, his last published work was created for the USA's bicentennial; he died 2 years later",
+     "a": "Norman Rockwell",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 4,
+     "q": "Josh Duhamel",
+     "a": "Fergie",
+     "right": [
+      "Meghan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 1,
+     "q": "Generally inadmissible, this type of evidence that's not directly experienced is also called secondhand evidence",
+     "a": "hearsay",
+     "right": [
+      "Meghan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 25,
+     "q": "Yeah, you could always charm Elizabeth I, but disobeying James I & attacking the Spanish in 1618? Bad move. You're fired",
+     "a": "Sir Walter Raleigh",
+     "right": [],
+     "wrong": [
+      "Ken"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 13,
+     "q": "In 1919 Norwegian meteorologist Jacob Bjerknes announced the discovery of these zones where air masses meet",
+     "a": "fronts",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 16,
+     "q": "To release from captivity under conditions that must be adhered to",
+     "a": "parole",
+     "right": [
+      "Meghan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 21,
+     "q": "Andrew Wyeth said this type of painting using egg yolk \"is not the medium for swiftness\"",
+     "a": "tempera",
+     "right": [
+      "Julia"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 5,
+     "q": "John Krasinski",
+     "a": "Emily Blunt",
+     "right": [
+      "Meghan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 9,
+     "q": "When attorneys confer with the judge out of the jury's earshot, it's this 7-letter type of conference",
+     "a": "sidebar",
+     "right": [
+      "Ken"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 26,
+     "q": "You believed Hitler when he said he'd take no more of Czechoslovakia after 1938? No, prime minister. You're fired!",
+     "a": "(Neville) Chamberlain",
+     "right": [
+      "Julia"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 22,
+     "q": "On the Beaufort scale, this 4-letter wind is stronger than a breeze but not as violent as a storm",
+     "a": "a gale",
+     "right": [
+      "Julia"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1600
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 17,
+     "q": "To alleviate someone's grief & raise their spirits",
+     "a": "console",
+     "right": [
+      "Meghan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 27,
+     "q": "He never completed his most famous painting of George Washington, the \"Athenaeum\" portrait",
+     "a": "(Gilbert) Stuart",
+     "right": [
+      "Ken"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 6,
+     "q": "Dax Shepard",
+     "a": "Kristen Bell",
+     "right": [
+      "Ken"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 10,
+     "q": "The history of the possession of the evidence & where it's been is known as the \"chain of\" this",
+     "a": "custody",
+     "right": [
+      "Ken"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 30,
+     "q": "Byzantine Emperor Justinian, you oversaw a legal code & this \"holy wisdom\" church? Multitasker, you're hired",
+     "a": "the Hagia Sophia",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 28,
+     "q": "Developed in the 1940s, cloud seeding produces rain by saturating clouds with dry ice & this compound, AgI",
+     "a": "silver iodide",
+     "right": [
+      "Ken"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": true,
+     "order": 18,
+     "q": "It's from the Old Norse for \"demon\"",
+     "a": "troll",
+     "right": [],
+     "wrong": [
+      "Meghan"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2000
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 29,
+     "q": "\"Early Sunday Morning\" by Edward Hopper is just 1 masterpiece in this NYC museum dedicated to American art",
+     "a": "the Whitney",
+     "right": [],
+     "wrong": [
+      "Ken",
+      "Meghan"
+     ],
+     "stumper": true,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "SHAKESPEARE",
+  "q": "These 2 title characters who have the same pair of initials both die by stabbing",
+  "a": "Juliet Capulet & Julius Caesar",
+  "right": [],
+  "wrong": [
+   "Meghan",
+   "Ken",
+   "Julia"
+  ]
+ },
+ "gameId": "5446",
+ "cat_notes": {
+  "J": [
+   "Clues about Masters of Socks.",
+   "Clues about Stuff About States.",
+   "Clues about Initialiterature.",
+   "Clues about Garden Party.",
+   "The category “FORE!” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "Clues about Letter Words."
+  ],
+  "DJ": [
+   "We'll give you the mister.",
+   "Clues about Legal Matters.",
+   "Clues about History: Hired and Fired.",
+   "Clues about Weather.",
+   "Each answer is a rhyming word or phrase.",
+   "Clues about American Artists."
+  ],
+  "F": "Clues about Shakespeare."
+ }
+}

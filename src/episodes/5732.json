@@ -1,0 +1,997 @@
+{
+ "show": "#7574",
+ "aired": "2017-07-13",
+ "note": "",
+ "contestants": [
+  {
+   "name": "Jill Staunton",
+   "bio": "an office associate from Springfield, Illinois",
+   "short": "Jill"
+  },
+  {
+   "name": "Terry Hanlon",
+   "bio": "a graduate student from Charlottesville, Virginia",
+   "short": "Terry"
+  },
+  {
+   "name": "Gavin Borchert",
+   "bio": "a writer and editor from Seattle, Washington (whose 1-day cash winnings total $19,600)",
+   "short": "Gavin"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Gavin": 4800,
+   "Terry": 7600,
+   "Jill": 5000
+  },
+  "DJ": {
+   "Gavin": 19800,
+   "Terry": 199,
+   "Jill": 13000
+  },
+  "Final": {
+   "Gavin": 9800,
+   "Terry": 396,
+   "Jill": 0
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "WE'RE TALKING BASEBALL",
+    "AVIAN POETRY",
+    "3 DIMENSIONAL",
+    "WEBBY AWARD WINNERS",
+    "ARGUMENT",
+    "\"-ED\" HOMONYM"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 5,
+     "q": "Even better than a no-hitter, it's the rare feat of pitching the whole game & not allowing a single baserunner",
+     "a": "a perfect game",
+     "right": [
+      "Jill"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "In this poem, Lewis Carroll warned us, \"Beware the jubjub bird, and shun the frumious bandersnatch\"",
+     "a": "\"Jabberwocky\"",
+     "right": [
+      "Gavin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 17,
+     "q": "In the nursery rhyme, the one of the 3 men in a tub who doesn't work in a food-related job",
+     "a": "the candlestick maker",
+     "right": [
+      "Gavin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 6,
+     "q": "Lifetime Achievement, 2016: \nthis satirical newspaper that had already won 27 Webbys",
+     "a": "The Onion",
+     "right": [
+      "Jill"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 13,
+     "q": "According to Plutarch, an argument over who had seen more vultures led Romulus to kill him",
+     "a": "Remus",
+     "right": [
+      "Gavin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 26,
+     "q": "Vocalized like Drake / prepped gifts for Christmas",
+     "a": "rapped/wrapped",
+     "right": [
+      "Gavin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 8,
+     "q": "In September 2014 this Yankee drove in the winning run in his emotional last home game of a 20-year career",
+     "a": "(Derek) Jeter",
+     "right": [
+      "Jill"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "\"A wonderful bird is\" this, \"his bill will hold more than his belican\"",
+     "a": "a pelican",
+     "right": [
+      "Gavin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 19,
+     "q": "This animated trio behind novelty songs, TV shows & movies consists of Alvin, Simon & Theodore",
+     "a": "the Chipmunks",
+     "right": [
+      "Gavin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 7,
+     "q": "Breakout of the Year, 2006: \nthis pioneering social networking site that later got flattened by Facebook",
+     "a": "MySpace",
+     "right": [
+      "Terry"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 14,
+     "q": "Thomas Paine wrote, \"I offer nothing more than simple facts, plain arguments, and\" this title",
+     "a": "Common Sense",
+     "right": [
+      "Jill"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "A word for the cursed / stopped the river from flowing",
+     "a": "damned/dammed",
+     "right": [
+      "Terry"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 10,
+     "q": "The pitcher begins his delivery with one foot touching this part of the mound",
+     "a": "the rubber",
+     "right": [
+      "Terry"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 3,
+     "q": "When first seen, this title bird was \"perched upon a bust of Pallas just above my chamber door\"",
+     "a": "the raven",
+     "right": [
+      "Jill"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 20,
+     "q": "The books that make up the \"Hunger Games\" trilogy are \"The Hunger Games\" & these 2",
+     "a": "Catching Fire and Mockingjay",
+     "right": [
+      "Jill"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 9,
+     "q": "Best Political Website, 2009: this one founded by an Athens-born woman",
+     "a": "The Huffington Post",
+     "right": [
+      "Gavin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": true,
+     "order": 23,
+     "q": "An 1860 debate at Oxford between Bishop Samuel Wilberforce & biologist Thomas Huxley centered on this book",
+     "a": "The Origin of Species",
+     "right": [
+      "Terry"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2000
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 28,
+     "q": "Saw something / quoted from a literary work",
+     "a": "sighted/cited",
+     "right": [
+      "Jill"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 11,
+     "q": "In 2015 this Washington Nationals O.F. nicknamed \"Bam Bam\" hit 42 home runs & was the NL MVP",
+     "a": "Bryce Harper",
+     "right": [
+      "Terry"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 4,
+     "q": "\"And a good south wind sprung up behind\"; it \"did follow, and every day, for food or play, came to the mariner's hollo!\"",
+     "a": "the albatross",
+     "right": [
+      "Terry"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 21,
+     "q": "Demolished in 2001, this venue was formerly home to the Pirates & Steelers",
+     "a": "Three Rivers",
+     "right": [
+      "Terry"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 15,
+     "q": "Best User Experience, 2013: this site with 337 million blogs but no \"E\"",
+     "a": "Tumblr",
+     "right": [
+      "Terry"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 24,
+     "q": "An argument for the separation of political powers was put forth by this future president in The Federalist No. 51",
+     "a": "Madison",
+     "right": [
+      "Gavin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "Turned poker chips back into real money / hid something in a safe spot",
+     "a": "cashed/cached",
+     "right": [
+      "Gavin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 12,
+     "q": "Playing for the Dodgers, Chan Ho Park was the first MLB player from this country",
+     "a": "(South) Korea",
+     "right": [
+      "Gavin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 18,
+     "q": "John Keats called this bird immortal; \"Thou wast not born for death\"",
+     "a": "a nightingale",
+     "right": [
+      "Jill"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 22,
+     "q": "All atoms are composed of these 3 basic types of particles",
+     "a": "protons, neutrons and electrons",
+     "right": [
+      "Terry"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 16,
+     "q": "Person of the Year, 2014: \nthis anonymous one-named man for Instagramming some of his outdoor art",
+     "a": "Banksy",
+     "right": [
+      "Gavin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 25,
+     "q": "In 1713 the fight over who invented calculus was submitted to this society; unluckily for Leibniz, Newton was its president",
+     "a": "the Royal Society",
+     "right": [
+      "Jill"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 30,
+     "q": "A bell sounded / an apple, skinned",
+     "a": "pealed/peeled",
+     "right": [],
+     "wrong": [
+      "Gavin"
+     ],
+     "stumper": true,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "THEIR GAME SHOW HOST GIGS",
+    "HOW INVENTIVE",
+    "12-LETTER WORDS",
+    "IT'S IOWA-ADJACENT",
+    "THAT'S THE SPIRIT!",
+    "\"M\"PORTANT PAINTERS"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 12,
+     "q": "I see in my mind's eye that Vincent Price hosted a show about psychic powers with this 3-letter abbreviated title",
+     "a": "ESP",
+     "right": [
+      "Terry"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 21,
+     "q": "In 1883 Jan Matzeliger created a lasting machine--it stretched a shoe over a form & attached it to this bottom part",
+     "a": "the sole",
+     "right": [
+      "Terry"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 25,
+     "q": "This job is also called dockworker or stevedore, but it contains more letters than either",
+     "a": "longshoreman",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 3,
+     "q": "\"Head\" to the huge national memorial also known as \"The Shrine of Democracy\" in this state",
+     "a": "South Dakota",
+     "right": [
+      "Terry"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 7,
+     "q": "In jalapeno-flavored Stoli Hot",
+     "a": "vodka",
+     "right": [
+      "Gavin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "This painter of the Sistine Chapel was still alive when Vasari wrote a biography of him, a first",
+     "a": "Michelangelo",
+     "right": [
+      "Gavin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 13,
+     "q": "Submitted for your approval, this award-winning writer & producer briefly hosted \"Liar's Club\" in the 1960s",
+     "a": "Rod Serling",
+     "right": [
+      "Gavin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 22,
+     "q": "During WWI he equipped a new lab for antisubmarine research on Eagle Rock Mountain near West Orange, New Jersey",
+     "a": "Edison",
+     "right": [
+      "Terry"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 26,
+     "q": "Jesse Owens & Richard Wright were sons of this kind of rent-paying farmer",
+     "a": "a sharecropper",
+     "right": [
+      "Gavin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 17,
+     "q": "The Mississippi flows 2,350 miles southward from its source, Lake Itasca, in this state",
+     "a": "Minnesota",
+     "right": [
+      "Terry"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": true,
+     "order": 8,
+     "q": "First mentioned in records from Barbados around 1650",
+     "a": "rum",
+     "right": [
+      "Gavin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 3000
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 2,
+     "q": "He left all his works of art to the city of Oslo, which built a museum to house them",
+     "a": "Munch",
+     "right": [
+      "Jill"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 14,
+     "q": "Also famous for \"Diners, Drive-Ins & Dives\", this chef has hosted \"Grocery Games\" & \"Minute to Win It\"",
+     "a": "Guy Fieri",
+     "right": [
+      "Jill"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 23,
+     "q": "In 1959 this corporation introduced the first office copier based on Chester Carlson's instant copying technique",
+     "a": "Xerox",
+     "right": [
+      "Jill"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 27,
+     "q": "Celebs open to contact from fans are called \"very\" this",
+     "a": "approachable",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 18,
+     "q": "Rising nearly 1,800 feet in the Ozark Plateau, Taum Sauk is the highest point in this state",
+     "a": "Missouri",
+     "right": [
+      "Terry"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 9,
+     "q": "Made from various agaves &, unlike tequila, sometimes has a \"worm\" in the bottle",
+     "a": "Mezcal",
+     "right": [
+      "Jill"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 4,
+     "q": "(Alex presents the clue from the Norton Simon Museum in Pasadena, CA.) Very few artists were as expressive in the use of colors as this man, whose \"Odalisque with a Tambourine\" was inspired by a trip to Morocco",
+     "a": "(Henri) Matisse",
+     "right": [
+      "Gavin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 15,
+     "q": "Known for broadcasting & podcasting, in 2016 he started hosting \"The Wall\"",
+     "a": "Chris Hardwick",
+     "right": [
+      "Jill"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 24,
+     "q": "In 1679 Denis Papin invented the steam digester, the forerunner of this very \"P.C.\" kitchen appliance",
+     "a": "a pressure cooker",
+     "right": [
+      "Gavin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 28,
+     "q": "Term for the use of agents like smallpox or Ebola to kill others",
+     "a": "bioterrorism",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 19,
+     "q": "Wahoo! You'll find that city along with Ogallala & Fairbury in this state that dominates Iowa's western border",
+     "a": "Nebraska",
+     "right": [
+      "Gavin"
+     ],
+     "wrong": [
+      "Terry"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 10,
+     "q": "Distilled from wormwood & has a high alcohol content, usually 110 to 144 proof",
+     "a": "absinthe",
+     "right": [
+      "Gavin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 5,
+     "q": "In \"Golconda\" by this Belgian artist, men in overcoats & bowler hats fall from the sky like rain",
+     "a": "Magritte",
+     "right": [
+      "Gavin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 16,
+     "q": "This longtime CBS News anchorman once helmed the game show \"It's News to Me\"",
+     "a": "Walter Cronkite",
+     "right": [],
+     "wrong": [
+      "Gavin",
+      "Terry"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 29,
+     "q": "In 1835 German chemist Justus von Liebig became the first to create a mirror by coating the back of glass with this metal",
+     "a": "silver",
+     "right": [
+      "Terry"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": true,
+     "order": 30,
+     "q": "The Latin for \"cross\" gives us this term for extreme pain",
+     "a": "excruciating",
+     "right": [],
+     "wrong": [
+      "Terry"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 9801
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 20,
+     "q": "The Spoon River of \"Anthology\" fame is a tributary of the river named for this state",
+     "a": "Illinois",
+     "right": [
+      "Jill"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 11,
+     "q": "An apple brandy from the Normandy region of France",
+     "a": "Calvados",
+     "right": [
+      "Gavin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 6,
+     "q": "(Sarah of the Clue Crew shows a wintry painting on the monitor.) You can see the visible world starting to be reduced to lines & rectangles in the \"Gray Tree\" (1911), by this Dutch painter, who soon got into pure abstraction",
+     "a": "(Piet) Mondrian",
+     "right": [
+      "Gavin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "THE ACADEMY AWARDS",
+  "q": "He holds the record for time between acting nominations for the same role, 39 years between 1976 & 2015 films",
+  "a": "Sylvester Stallone",
+  "right": [
+   "Terry"
+  ],
+  "wrong": [
+   "Jill",
+   "Gavin"
+  ]
+ },
+ "gameId": "5732",
+ "cat_notes": {
+  "J": [
+   "Clues about We're Talking Baseball.",
+   "Clues about Avian Poetry.",
+   "Clues about 3 Dimensional.",
+   "Clues about Webby Award Winners.",
+   "Clues about Argument.",
+   "Each answer ends with “-ED”, and the clues are about Homonym."
+  ],
+  "DJ": [
+   "Clues about Their Game Show Host Gigs.",
+   "Clues about How Inventive.",
+   "Each answer is a 12-letter word.",
+   "The category “IT'S IOWA-ADJACENT” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "The category “THAT'S THE SPIRIT!” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "Each answer starts with “M”, and the clues are about Portant Painters."
+  ],
+  "F": "Clues about The Academy Awards."
+ }
+}

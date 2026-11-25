@@ -1,0 +1,984 @@
+{
+ "show": "#7581",
+ "aired": "2017-07-24",
+ "note": "Justin Vossler game 3.",
+ "contestants": [
+  {
+   "name": "Shannon Hindahl",
+   "bio": "a pharmacist from Collinsville, Illinois",
+   "short": "Shannon"
+  },
+  {
+   "name": "Emily Bridges",
+   "bio": "a communications director from Laurel, Maryland",
+   "short": "Emily"
+  },
+  {
+   "name": "Justin Vossler",
+   "bio": "a high school history teacher from Homer, New York (whose 2-day cash winnings total $54,500)",
+   "short": "Justin"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Justin": 400,
+   "Emily": 7200,
+   "Shannon": 2500
+  },
+  "DJ": {
+   "Justin": 14000,
+   "Emily": 11600,
+   "Shannon": 8100
+  },
+  "Final": {
+   "Justin": 18000,
+   "Emily": 0,
+   "Shannon": 16100
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "FAKE NEWS",
+    "THE U.S. OF ATTRACTIONS",
+    "THE PERKS OF AGING",
+    "SHOE NAMES",
+    "FIRST FAMILY FUN & FOLLIES",
+    "DOUBLE \"P\" WORDS"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "For 10 seasons she played tough TV journalist Murphy Brown",
+     "a": "Candice Bergen",
+     "right": [
+      "Shannon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 7,
+     "q": "You'll find Lookout Mountain & the Country Music Hall of Fame in this state",
+     "a": "Tennessee",
+     "right": [
+      "Justin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 19,
+     "q": "Not getting asked for I.D. when I ask for a Glenmorangie single malt from this country",
+     "a": "Scotland",
+     "right": [
+      "Emily"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 11,
+     "q": "They block drains",
+     "a": "clogs",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 26,
+     "q": "Ronald Reagan's daughter Patti, who goes by this last name, once lived with Eagles guitarist Bernie Leadon",
+     "a": "Davis",
+     "right": [
+      "Emily"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 12,
+     "q": "Rivaling the goldfish as the most popular aquarium pet, it's native to Venezuela & adjacent islands",
+     "a": "the guppy",
+     "right": [
+      "Emily"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "Peter Finch was mad as hell as deranged newsman Howard Beale in this 1976 film",
+     "a": "Network",
+     "right": [
+      "Emily"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 8,
+     "q": "The U.S. Astronaut Hall of Fame is at this Florida center",
+     "a": "Cape Kennedy (or Kennedy Space Center)",
+     "right": [
+      "Justin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 20,
+     "q": "This alliterative coercion to make me conform to group standards in order to fit in? Ha!",
+     "a": "peer pressure",
+     "right": [
+      "Justin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 17,
+     "q": "Someone really lazy",
+     "a": "a loafer",
+     "right": [
+      "Shannon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "\"Uncle Cleve\" & \"Frank\" were this couple's pet names for each other",
+     "a": "Grover and Frances Cleveland",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 13,
+     "q": "This highly spiced pork & beef sausage is often used on pizzas",
+     "a": "pepperoni",
+     "right": [
+      "Emily"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 3,
+     "q": "In the \"Harry Potter\" series, Rita Skeeter wields a quill for this daily paper",
+     "a": "The Daily Prophet",
+     "right": [],
+     "wrong": [
+      "Justin"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 6,
+     "q": "The shot seen here is from one of the main tourist attractions of this city",
+     "a": "San Francisco",
+     "right": [
+      "Emily"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 21,
+     "q": "I'm done with these get-acquainted parties in college; to me this word only means a device to combine ingredients",
+     "a": "a mixer",
+     "right": [
+      "Emily"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 18,
+     "q": "Dishonorable gents, similar to cads",
+     "a": "heels",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 28,
+     "q": "Often found blocking White House hallways, Slippers was Teddy Roosevelt's beloved 6-toed this pet",
+     "a": "a cat",
+     "right": [
+      "Shannon"
+     ],
+     "wrong": [
+      "Justin"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 14,
+     "q": "Pliant or limber",
+     "a": "supple",
+     "right": [
+      "Justin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 4,
+     "q": "He created the TV series \"Sports Night\" & \"The Newsroom\"",
+     "a": "Aaron Sorkin",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 9,
+     "q": "Iowa's The Music Man Square isn't in River City but Mason City, this composer's hometown",
+     "a": "Meredith Willson",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 22,
+     "q": "Never again having to worry about the SAT, ACT, LSAT or GRE, short for this exam",
+     "a": "the Graduate Record Examination",
+     "right": [
+      "Shannon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": true,
+     "order": 24,
+     "q": "When an old sailing ship took on water bilge, these kept it afloat",
+     "a": "pumps",
+     "right": [],
+     "wrong": [
+      "Shannon"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1500
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "In 1991 First Lady Barbara Bush broke her leg in a sledding accident at this Maryland presidential retreat",
+     "a": "Camp David",
+     "right": [
+      "Emily"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 15,
+     "q": "One who learns a trade as a member of a labor union",
+     "a": "an apprentice",
+     "right": [
+      "Emily"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 5,
+     "q": "In the original comics, Clark Kent works for this Metropolis newspaper",
+     "a": "The Daily Planet",
+     "right": [
+      "Shannon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 10,
+     "q": "A memorial clock in this big town of the Big Island is set at the time on May 23, 1960 when a tsunami struck",
+     "a": "Hilo",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 23,
+     "q": "Not having to endure crowds & pricey bottled water at these, like Coachella or Bonnaroo",
+     "a": "(music) festivals",
+     "right": [
+      "Shannon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 25,
+     "q": "Sterile animal hybrids",
+     "a": "mules",
+     "right": [
+      "Emily"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 30,
+     "q": "Ruth Stapleton, the younger sister of this president, was a Baptist evangelist & faith healer",
+     "a": "Jimmy Carter",
+     "right": [
+      "Emily"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 16,
+     "q": "Meaning the reestablishment of cordial relations between 2 nations, it's from the French for \"bring together\"",
+     "a": "rapprochement",
+     "right": [
+      "Emily"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "FAKE NEWS",
+    "MUSICAL THEATER",
+    "EUROPEAN GEOGRAPHY",
+    "ANIMAL FARM",
+    "HISTORIC INSULTS",
+    "20th CENTURY WORDS"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 26,
+     "q": "In 2017 Footwear News reported that fakes of this company's LeBron 14 shoe were on the market before the real thing",
+     "a": "Nike",
+     "right": [
+      "Justin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 5,
+     "q": "On January 15, 2017 Frankie Valli took the stage to say a few words at the end of this musical's 11-year run on Broadway",
+     "a": "Jersey Boys",
+     "right": [
+      "Shannon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "Go ahead, hike & ski Vitosha Mountain near this Bulgarian capital & don't worry that it's a volcano",
+     "a": "Sofia",
+     "right": [
+      "Justin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 10,
+     "q": "These animals in the novel are said to represent the masses at large; four legs good, two legs ba-a-a-a-d",
+     "a": "sheep",
+     "right": [
+      "Shannon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 12,
+     "q": "To Andrew Jackson this Kentuckian \"Great Compromiser\" was \"the Judas of the West\"",
+     "a": "(Henry) Clay",
+     "right": [
+      "Emily"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 16,
+     "q": "Before this word was common, some folks used \"radio with pictures\"",
+     "a": "television",
+     "right": [
+      "Justin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 27,
+     "q": "In 2013 a NYC woman was convicted of selling forgeries of this American action painter's drippy work; how could they tell?",
+     "a": "Jackson Pollock",
+     "right": [
+      "Justin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 6,
+     "q": "\"Beautiful\", a bio of this songwriter, features her hits \"You've Got A Friend\" & \"Natural Woman\"",
+     "a": "Carole King",
+     "right": [
+      "Emily"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 2,
+     "q": "This country's northernmost point is a strip of beach on Jutland",
+     "a": "Denmark",
+     "right": [
+      "Justin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 11,
+     "q": "Among the animals' 7 commandments are bans on sleeping in a bed & drinking this",
+     "a": "alcohol",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 13,
+     "q": "Clergyman John Knox described this bloody 16th century queen as the \"cursed Jezebel of England\"",
+     "a": "Mary",
+     "right": [
+      "Emily"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 18,
+     "q": "This word for a labor addict dates to 1947",
+     "a": "a workaholic",
+     "right": [
+      "Emily"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 28,
+     "q": "In 1796 \"Vortigern and Rowena\", purportedly by this man, was laughed off the stage of a London theatre",
+     "a": "Shakespeare",
+     "right": [
+      "Emily"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 7,
+     "q": "Chazz Palminteri made a musical of this \"Tale\" about a NYC borough & Robert De Niro came in to direct",
+     "a": "A Bronx Tale",
+     "right": [],
+     "wrong": [
+      "Emily"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": true,
+     "order": 3,
+     "q": "This capital that shares its name with its country lies about 12 miles inland from Italy's Adriatic coast",
+     "a": "San Marino",
+     "right": [
+      "Justin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1600
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": true,
+     "order": 23,
+     "q": "Each Sunday the animals hoist their hoof & horn flag, which Orwell used to represent this Communist symbol",
+     "a": "the hammer & sickle",
+     "right": [
+      "Justin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2000
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 14,
+     "q": "Dorothy Parker once quipped that this multi-Oscar-winning actress' work ran \"the gamut of emotions from A to B\"",
+     "a": "Katharine Hepburn",
+     "right": [
+      "Emily"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 19,
+     "q": "Samuel Bert invented a machine that made this shaved ice treat at the Texas State Fair",
+     "a": "a sno-cone",
+     "right": [
+      "Shannon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 29,
+     "q": "Arrested as a collaborator, Han Van Meegeren confessed he'd forged a \"Vermeer\" that he sold to this big fat Nazi",
+     "a": "Göring",
+     "right": [
+      "Justin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 8,
+     "q": "\"There's No Place Like Gnome\" is a song in the 2017 musical based on this film about a French waitress",
+     "a": "Amelie",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 4,
+     "q": "The River Thjorsa, this island country's longest, originates in the Hofsjokull Glacier",
+     "a": "Iceland",
+     "right": [
+      "Shannon"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 24,
+     "q": "At a meeting of the animals, this prized \"Old\" boar claims, \"Man is the only real enemy we have\"",
+     "a": "Old Major",
+     "right": [],
+     "wrong": [
+      "Emily"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 15,
+     "q": "A Spanish phrase from a not-so-flattering face on money translates as uglier than Manuel de Falla, famous in this job",
+     "a": "composer",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 20,
+     "q": "\"Chewy\" term coined in the '60s for pop music like The Archies' \"Sugar, Sugar\"",
+     "a": "bubblegum",
+     "right": [
+      "Justin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 30,
+     "q": "In 1961 a sculpture in New York's Met was exposed as modern & not the work of these Roman predecessors",
+     "a": "the Etruscans",
+     "right": [
+      "Justin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 9,
+     "q": "\"Let Me Entertain You\" is the opening number in this musical about a stage mother & her burlesque star daughter",
+     "a": "Gypsy",
+     "right": [
+      "Emily"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 17,
+     "q": "The Rhine River forms the southern & western borders of this large wooded region",
+     "a": "the Black Forest",
+     "right": [
+      "Shannon"
+     ],
+     "wrong": [
+      "Justin"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 25,
+     "q": "After finding the windmill in ruins, Napoleon blames it on this adversary & sentences him to death",
+     "a": "Snowball",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 22,
+     "q": "Pat Buchanan described Bill Clinton's foreign policy experience as \"having had breakfast once at\" this chain",
+     "a": "IHOP",
+     "right": [
+      "Justin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 21,
+     "q": "A spot of light on a radar screen, it appeared in a 1945 issue of Electronic Engineering Magazine",
+     "a": "a blip",
+     "right": [
+      "Justin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "COLLEGES",
+  "q": "When this school opened in 1845, the curriculum for the class of 50 had math & navigation, chemistry & gunnery & steam",
+  "a": "the U.S. Naval Academy",
+  "right": [
+   "Shannon",
+   "Justin"
+  ],
+  "wrong": [
+   "Emily"
+  ]
+ },
+ "gameId": "5749",
+ "cat_notes": {
+  "J": [
+   "Clues about Fake News.",
+   "Clues about The U.S. of Attractions.",
+   "Clues about The Perks of Aging.",
+   "Clues about Shoe Names.",
+   "Clues about First Family Fun and Follies.",
+   "Each answer contains the letter “P”, and the clues are about Double Words."
+  ],
+  "DJ": [
+   "Clues about Fake News.",
+   "Clues about Musical Theater.",
+   "Clues about European Geography.",
+   "Clues about Animal Farm.",
+   "Clues about Historic Insults.",
+   "Clues about 20th Century Words."
+  ],
+  "F": "Clues about Colleges."
+ }
+}

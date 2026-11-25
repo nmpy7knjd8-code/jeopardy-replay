@@ -1,0 +1,994 @@
+{
+ "show": "#7415",
+ "aired": "2016-12-02",
+ "note": "Tim Aten game 1.",
+ "contestants": [
+  {
+   "name": "Tim Aten",
+   "bio": "an editor from Vermilion, Ohio",
+   "short": "Tim"
+  },
+  {
+   "name": "Ryan O'Shea",
+   "bio": "an engineer from Hermosa Beach, California",
+   "short": "Ryan"
+  },
+  {
+   "name": "Asim Modi",
+   "bio": "an attorney from San Francisco, California (whose 1-day cash winnings total $10,399)",
+   "short": "Asim"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Asim": 3000,
+   "Ryan": 5200,
+   "Tim": 6200
+  },
+  "DJ": {
+   "Asim": 4200,
+   "Ryan": 17000,
+   "Tim": 18000
+  },
+  "Final": {
+   "Asim": 8399,
+   "Ryan": 18515,
+   "Tim": 35000
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "THE PACHEBEL CANON IN D",
+    "THE MOVIE/TV STAR",
+    "BREAK-UPS",
+    "ANIMAL COLLECTIVE NOUNS",
+    "REQUIRED READING",
+    "\"Y\"s UP"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 26,
+     "q": "The Pachebel Canon is often played at this type of event & is heard in movies about its planner & crashers",
+     "a": "a wedding",
+     "right": [
+      "Asim"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 9,
+     "q": "\"White Men Can't Jump\", \"True Detective\"",
+     "a": "Woody Harrelson",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "A No. 1 song by this duo said, \"They say our love won't pay the rent\"; after their 1975 divorce, it was \"I Don't Got You, Babe\"",
+     "a": "Sonny & Cher",
+     "right": [
+      "Tim"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 16,
+     "q": "Buffalo & other bovines gather in these",
+     "a": "herds",
+     "right": [
+      "Asim"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 21,
+     "q": "Mary Mapes Dodge penned this guy, \"Or, The Silver skates\"; within her lifetime, the book appeared in more than 100 editions",
+     "a": "Hans Brinker",
+     "right": [
+      "Asim"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 2,
+     "q": "It's the word usually seen on the sign here",
+     "a": "yield",
+     "right": [
+      "Tim"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 30,
+     "q": "The Canon was written for 3 violins & continuo, the 17th c. version of this instrument of Sting, Flea & Paul McCartney",
+     "a": "the bass",
+     "right": [
+      "Tim"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 4,
+     "q": "\"The Imitation Game\", \"Sherlock\"",
+     "a": "(Benedict) Cumberbatch",
+     "right": [
+      "Tim"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 11,
+     "q": "The hardships of the Civil War & the death of daughter Bonnie Blue finally took their toll on this iconic couple of page & screen",
+     "a": "Rhett Butler and Scarlett O'Hara",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 17,
+     "q": "Just as you can have a this \"of roses\", you can also have one of oysters",
+     "a": "a bed",
+     "right": [
+      "Asim"
+     ],
+     "wrong": [
+      "Ryan"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 22,
+     "q": "After leaving Rochester-- the man, not the city--this Bronte title woman finds herself destitute & friendless",
+     "a": "Jane Eyre",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 3,
+     "q": "It was a popular abbreviation for the year 2000",
+     "a": "Y2K",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 28,
+     "q": "This 1980 film with Timothy Hutton as Mary Tyler Moore's troubled son was one of the first to make the Canon a soundtrack fave",
+     "a": "Ordinary People",
+     "right": [
+      "Asim"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 6,
+     "q": "\"Limitless\" (as Eddie Morra), \"Limitless\" (as Senator Eddie Morra)",
+     "a": "Bradley Cooper",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 12,
+     "q": "This plastic couple got together in 1961; they split in 2004, but in 2011 she welcomed him back to her dream house",
+     "a": "Barbie and Ken",
+     "right": [
+      "Asim"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 18,
+     "q": "A stench, sometimes used for a group of these mammals, may be appropriate but seems a bit unfair",
+     "a": "skunks",
+     "right": [
+      "Tim"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 23,
+     "q": "The daydreams of this James Thurber character include being a surgeon & the world's greatest pistol shot",
+     "a": "Walter Mitty",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 5,
+     "q": "George Bernard Shaw supposedly said, this \"is a wonderful thing. What a crime to waste it on children\"",
+     "a": "youth",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 27,
+     "q": "The tune was popularized by a 1968 recording from the Paillard this small-room type of orchestra",
+     "a": "a chamber orchestra",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 7,
+     "q": "\"Knocked Up\", \"Grey's Anatomy\"",
+     "a": "(Katherine) Heigl",
+     "right": [
+      "Asim"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 13,
+     "q": "These Mexican painters wed in 1929 & divorced after a volatile decade; remarried in 1940, they had a rocky 2nd marriage",
+     "a": "(Diego) Rivera and (Frida) Kahlo",
+     "right": [
+      "Tim"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": true,
+     "order": 19,
+     "q": "It's a cloud of grasshoppers & a plague of these relatives",
+     "a": "locusts",
+     "right": [
+      "Tim"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1600
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 24,
+     "q": "\"T.S. Garp cried in the airplane that was bringing him home to be famous in his violent country\", penned this novelist",
+     "a": "(John) Irving",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 10,
+     "q": "This website's stated purpose is \"to connect people with great local businesses\"",
+     "a": "Yelp",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 29,
+     "q": "The Canon shows expert use of this technique in which composers use multiple melodies together",
+     "a": "counterpoint",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 8,
+     "q": "\"9 to 5\", \"Grace and Frankie\"-- both women, please",
+     "a": "Jane Fonda and Lily Tomlin",
+     "right": [],
+     "wrong": [
+      "Asim"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 15,
+     "q": "This couple fell in love while filming \"Cleopatra\"; they wed in '64, divorced after a decade, remarried in 1975--& split again in 1976",
+     "a": "Burton and Elizabeth Taylor",
+     "right": [
+      "Asim"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 20,
+     "q": "Termites & penguins both get collective with this collective name",
+     "a": "colony",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 25,
+     "q": "Though the play did not hit Broadway until 1946, \"The Iceman Cometh\" by him first cameth in 1939",
+     "a": "(Eugene) O'Neill",
+     "right": [
+      "Tim"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 14,
+     "q": "Add 1 letter to a device used to pair draft animals to get this term for a country bumpkin",
+     "a": "a yokel",
+     "right": [
+      "Tim"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "THE TACO BELL CANON IN \"D\"",
+    "PERFECT!",
+    "BROADWAY",
+    "NATIONAL HISTORIC SITES",
+    "HEALTH & MEDICINE",
+    "A RIVER RUNS TO IT"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "You can get these chips as a side or in your Locos Tacos",
+     "a": "Doritos",
+     "right": [
+      "Tim"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 7,
+     "q": "This synonym for perfect refers to how the Virgin Mary was conceived in her mother's womb",
+     "a": "immaculate",
+     "right": [
+      "Tim"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 30,
+     "q": "In July 2016, to a standing ovation, creator & star Lin-Manuel Miranda took his final bow in this smash musical",
+     "a": "Hamilton",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 13,
+     "q": "You'll find the Martin Luther King Jr. national historic site in this state capital",
+     "a": "Atlanta",
+     "right": [
+      "Asim"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 22,
+     "q": "One of the leading causes of school absenteeism is this respiratory disease that often arises from allergies",
+     "a": "asthma",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "The Volga, to this so-called \"sea\"",
+     "a": "the Caspian Sea",
+     "right": [
+      "Asim"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 2,
+     "q": "@tacobell has tweeted that \"It's okay to do\" this double-\"D\" party foul \"with rolled chicken tacos\"",
+     "a": "double-dip",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 8,
+     "q": "When grading the clarity of a diamond, the best is FL, meaning this; I.F. means internally this",
+     "a": "flawless",
+     "right": [
+      "Tim"
+     ],
+     "wrong": [
+      "Asim"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 28,
+     "q": "This current biographical musical ends with a rousing rendition of \"I Feel The Earth Move\"",
+     "a": "Beautiful: The Carole King Musical",
+     "right": [],
+     "wrong": [
+      "Asim",
+      "Ryan"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 14,
+     "q": "A national historic site since 1964, the Allegheny Portage Railroad linked this state's canal system with the West",
+     "a": "Pennsylvania",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 23,
+     "q": "From the Greek for \"half skull\", it may progress through 4 stages: prodrome, aura, headache & postdrome",
+     "a": "a migraine",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 26,
+     "q": "The Po, to this arm of the Mediterranean",
+     "a": "the Adriatic",
+     "right": [
+      "Asim"
+     ],
+     "wrong": [
+      "Ryan"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 3,
+     "q": "The drink menu includes this \"Always one of a kind\" soda",
+     "a": "Dr. Pepper",
+     "right": [
+      "Tim"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": true,
+     "order": 9,
+     "q": "This adjective for perfection is meant to evoke a newly struck coin",
+     "a": "mint",
+     "right": [
+      "Tim"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2600
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 11,
+     "q": "This play that first came to Broadway in 1974 was inspired by a story about a boy who had blinded several horses",
+     "a": "Equus",
+     "right": [
+      "Tim"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": true,
+     "order": 21,
+     "q": "The unusual windows seen here are at the Maryland site named for this woman",
+     "a": "Clara Barton",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true,
+     "ddWager": 3000
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 15,
+     "q": "In this disease, proteins called beta-amyloid & tau damage nerve cells in the brain, causing memory loss",
+     "a": "Alzheimer's disease",
+     "right": [
+      "Asim"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 18,
+     "q": "The Gambia, to this ocean",
+     "a": "the Atlantic Ocean",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 4,
+     "q": "In 2015 Taco Bell partnered with this double \"D\" app, so tap your phone & a quesarito appears",
+     "a": "DoorDash",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 10,
+     "q": "This 6-syllable word means pure or not contaminated; it has nothing to do with the absence of grownups",
+     "a": "unadulterated",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 5,
+     "q": "Robert Morse won a Tony in 1990 for this 3-letter play, a look at 2 nights in the life of writer Capote",
+     "a": "Tru",
+     "right": [
+      "Tim"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 24,
+     "q": "Today a national historic site, Pu'ukohola Heiau, a stone temple in Hawaii, was built by this king in the 1790s",
+     "a": "Kamehameha",
+     "right": [
+      "Asim"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 16,
+     "q": "A tympanoplasty is a surgical procedure to repair a hole in this",
+     "a": "the eardrum",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 19,
+     "q": "The Indus, to this sea",
+     "a": "the Arabian Sea",
+     "right": [
+      "Tim"
+     ],
+     "wrong": [
+      "Asim"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 6,
+     "q": "This plural word follows \"Garden of Earthly\" in a painting title & \"Cinnabon\" in a Taco Bell menu item",
+     "a": "delights",
+     "right": [
+      "Tim"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 12,
+     "q": "If you have no equal, you're this, also the name of those sugar pellets used in cake decoration",
+     "a": "nonpareil",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 29,
+     "q": "This alliterative middle play in Neil Simon's trilogy comes between \"Brighton Beach Memoirs\" & \"Broadway Bound\"",
+     "a": "Biloxi Blues",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 25,
+     "q": "This site 90 miles east of Fresno was a WWII internment camp for Japanese Americans",
+     "a": "Manzanar",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 17,
+     "q": "(Jimmy of the Clue Crew shows an animation of a vein on the monitor.) Healthy blood has plenty of red blood cells to carry oxygen to body tissues; if the number of cells is reduced, causing weakness and fatigue, it may an indication of this condition, from the Greek for \"want of blood\"",
+     "a": "anemia",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 20,
+     "q": "The Loire, to this bay",
+     "a": "the Bay of Biscay",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "MODERN MYTHOLOGY",
+  "q": "A purported image of this subject of legend was published in the Daily Mail newspaper on April 21, 1934",
+  "a": "the Loch Ness monster",
+  "right": [
+   "Asim",
+   "Ryan",
+   "Tim"
+  ],
+  "wrong": []
+ },
+ "gameId": "5481",
+ "cat_notes": {
+  "J": [
+   "Clues about The Pachebel Canon in D.",
+   "Clues about The Movie/tv Star.",
+   "Clues about Break-ups.",
+   "Clues about Animal Collective Nouns.",
+   "Clues about Required Reading.",
+   "Each answer contains the letter “Y”."
+  ],
+  "DJ": [
+   "Each answer starts with “D”, and the clues are about The Taco Bell Canon In.",
+   "The category “PERFECT!” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "Clues about Broadway.",
+   "Clues about National Historic Sites.",
+   "Clues about Health and Medicine.",
+   "Clues about A River Runs to It."
+  ],
+  "F": "Clues about Modern Mythology."
+ }
+}

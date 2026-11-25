@@ -1,0 +1,1000 @@
+{
+ "show": "#7557",
+ "aired": "2017-06-20",
+ "note": "",
+ "contestants": [
+  {
+   "name": "Chris Nadon",
+   "bio": "a college teacher from Claremont, California",
+   "short": "Chris"
+  },
+  {
+   "name": "Melissa Dean",
+   "bio": "a quality assurance auditor from Raleigh, North Carolina",
+   "short": "Melissa"
+  },
+  {
+   "name": "Peter Guekguezian",
+   "bio": "a Ph.D. student in linguistics from Fresno, California (whose 2-day cash winnings total $25,599)",
+   "short": "Peter"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Peter": 8000,
+   "Melissa": 4400,
+   "Chris": 5200
+  },
+  "DJ": {
+   "Peter": 21600,
+   "Melissa": 9600,
+   "Chris": 800
+  },
+  "Final": {
+   "Peter": 19201,
+   "Melissa": 1600,
+   "Chris": 1599
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "WE'RE GIVING YOU A COMMISSION",
+    "GOOD SOURCES OF CALCIUM",
+    "AUTHORS' INITIALS",
+    "10-LETTER VERBS",
+    "THE GAME IS RIGGED",
+    "RETURN TO THE MOVIES"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 21,
+     "q": "The 7 members of the Warren Commission were appointed by this man",
+     "a": "Johnson",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 2,
+     "q": "When made with calcium sulfate, this soybean curd has lots of calcium, though not lots of flavor",
+     "a": "tofu",
+     "right": [
+      "Peter"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 7,
+     "q": "Wove a web about \"some pig\": \nEBW",
+     "a": "E.B. White",
+     "right": [
+      "Peter"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "To take a document off the secret list & make it public",
+     "a": "declassify",
+     "right": [
+      "Melissa"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 12,
+     "q": "A baked potato that comes this way has all the fixins; for dice, it means they've been tampered with",
+     "a": "loaded",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 26,
+     "q": "Gandalf & Aragorn & a host of others fought Sauron's army in this 2003 finale",
+     "a": "Return of the King",
+     "right": [
+      "Peter"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 22,
+     "q": "The Financial Crisis Inquiry Commission scolded the Federal Reserve's pivotal \"failure to stem the flow of toxic\" these",
+     "a": "mortgages",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 3,
+     "q": "This nut that resembles a peach pit has more calcium than any other nut",
+     "a": "an almond",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [
+      "Melissa"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 8,
+     "q": "He told EB she was \"all that is good & kind\": \nRB",
+     "a": "Robert Browning",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 16,
+     "q": "Sorry, ma'am, I need to do this, seize your Subaru to pursue those criminals",
+     "a": "commandeer",
+     "right": [
+      "Peter"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 13,
+     "q": "Bernie Sanders thanked Obama for not putting his thumb on these to influence the nominating process",
+     "a": "the scales",
+     "right": [
+      "Peter"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "It's the subtitle of \"Star Wars\" Episode VI",
+     "a": "Return of the Jedi",
+     "right": [
+      "Peter"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 23,
+     "q": "In 1992 David Dinkins created the Mollen Commission to investigate police corruption in this city",
+     "a": "New York",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 4,
+     "q": "These seeds traditionally used to make halvah are an excellent source of calcium",
+     "a": "sesame",
+     "right": [
+      "Peter"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": true,
+     "order": 9,
+     "q": "He liked to rime: \nSTC",
+     "a": "Samuel Taylor Coleridge",
+     "right": [
+      "Peter"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2000
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 17,
+     "q": "To shed too much light on film while taking a photograph is to do this",
+     "a": "overexpose",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 14,
+     "q": "If they \"keep moving\" these on the gridiron, they're changing the rules mid-game & it's not fair",
+     "a": "goalposts",
+     "right": [
+      "Melissa"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 28,
+     "q": "1968's \"Night of\" these creatures apparently didn't finish them off; 1985 witnessed \"The Return of\" them",
+     "a": "the living dead",
+     "right": [
+      "Melissa"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 24,
+     "q": "In 1961 this 76-year-old former First Lady became the first chair of the President's Commission on the Status of Women",
+     "a": "Eleanor Roosevelt",
+     "right": [
+      "Melissa"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 5,
+     "q": "The curly type of this hearty member of the cabbage family thrives in the cold & is a good source of calcium & iron",
+     "a": "kale",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 10,
+     "q": "He dreamed up \"The Sandman\" & \"Coraline\": \nNG",
+     "a": "Neil Gaiman",
+     "right": [
+      "Peter"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 18,
+     "q": "You need a body part to spell this term for what a gawker does passing a crash scene on the highway",
+     "a": "rubberneck",
+     "right": [
+      "Peter"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 15,
+     "q": "It can mean a cup for coffee, your face, or a sucker, as in \"The stock market is a ____'s game\"",
+     "a": "mug",
+     "right": [
+      "Melissa"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "More scares awaited in \"Halloween 4: The Return of\" this crazed killer",
+     "a": "Michael Myers",
+     "right": [
+      "Melissa"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 25,
+     "q": "In 1954 the Hoover Commission created a committee to spy on this 3-letter U.S. agency established in 1947",
+     "a": "the CIA",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 6,
+     "q": "A spoonful of the blackstrap type of this sweet stuff makes the calcium go down in the most delightful way",
+     "a": "molasses",
+     "right": [
+      "Peter"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 11,
+     "q": "Creator of \"Yentl the Yeshiva Boy\": \nIBS",
+     "a": "Isaac Bashevis Singer",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 19,
+     "q": "When you digest, you break down food; when you do this, you process the resulting chemicals for your body to use",
+     "a": "metabolize",
+     "right": [
+      "Melissa"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 20,
+     "q": "(Jimmy of the Clue Crew deals cards.) As the dealer, I've secretly organized the cards so that I get a great starting hand, an action known by this 3-word phrase",
+     "a": "stack the deck",
+     "right": [
+      "Peter"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 30,
+     "q": "The 1954 western \"River of No Return\" saw Robert Mitchum team up with this sultry screen goddess",
+     "a": "Marilyn Monroe",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "BLOWIN' IN THE WIND",
+    "TANGLED UP IN BLUE",
+    "IT'S ALRIGHT, MA (I'M ONLY BLEEDING)",
+    "THINGS HAVE CHANGED",
+    "FOREVER \"YOUNG\"",
+    "BOB DYLAN"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "With Amarillo No. 1, this state has 4 of the Weather Channel's 10 windiest U.S. cities",
+     "a": "Texas",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 6,
+     "q": "The largest one of these ever measured was a 110-foot female that weighed more than 200 tons",
+     "a": "a blue whale",
+     "right": [
+      "Melissa"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 25,
+     "q": "A spontaneous nosebleed can be exacerbated by severe hypertension, the medical term for this",
+     "a": "high blood pressure",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 20,
+     "q": "The 45th pres. has changed the way the office talks to the public, including the use of this personal Twitter handle",
+     "a": "@RealDonaldTrump",
+     "right": [
+      "Melissa"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 11,
+     "q": "By the 1920s the area of this northeast Ohio city was No. 2 to Pittsburgh in American steel production",
+     "a": "Youngstown",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 16,
+     "q": "Bob was born in Minnesota with this last name",
+     "a": "Zimmerman",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 2,
+     "q": "Safaga on Egypt's east coast is a windsurfing & sailing destination on this sea",
+     "a": "the Red Sea",
+     "right": [
+      "Peter"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 7,
+     "q": "Blu-Ray video technology uses a blue one of these beams instead of the red one used by DVD",
+     "a": "a laser",
+     "right": [
+      "Peter"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 26,
+     "q": "In the show \"Les Miserables\", Fantine coughs up blood because she has this bacterial lung disease",
+     "a": "tuberculosis",
+     "right": [
+      "Melissa"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 21,
+     "q": "In 1960 the 5-year survival rate of this white blood cell cancer averaged just 14%; today it's over 60%",
+     "a": "leukemia",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": true,
+     "order": 12,
+     "q": "The seeds of this disruptive group date back to 1889 with members of the Imperial Medical Academy of Istanbul",
+     "a": "the Young Turks",
+     "right": [],
+     "wrong": [
+      "Chris"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 7200
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 17,
+     "q": "Song that Jann Wenner's magazine ranked the greatest ever",
+     "a": "\"Like A Rolling Stone\"",
+     "right": [
+      "Peter"
+     ],
+     "wrong": [
+      "Chris"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": true,
+     "order": 3,
+     "q": "Speeding up evaporation, winds are strong in many deserts, like this one that's home to most Joshua trees",
+     "a": "the Mojave Desert",
+     "right": [
+      "Peter"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 4400
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 8,
+     "q": "Term for a stock regarded as a safe investment in a large, established & stable company",
+     "a": "blue-chip",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 27,
+     "q": "I am bleeding, so I need a few of these surgical stitches whose name is from the Latin for \"sew\"",
+     "a": "sutures",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 22,
+     "q": "In 1915 Mary was the most popular baby girl name; in 2005 it was Emily & in 2015, this name similar to Emily",
+     "a": "Emma",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [
+      "Melissa"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 13,
+     "q": "Greg Maddux won it 4 times in a row",
+     "a": "a Cy Young",
+     "right": [
+      "Peter"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 18,
+     "q": "Bob's son, who fronted The Wallflowers",
+     "a": "Jakob Dylan",
+     "right": [
+      "Melissa"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 4,
+     "q": "Winds sweep the 300,000 square miles of the Kazakh this vast plain",
+     "a": "the steppes",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 9,
+     "q": "Bergen County, New Jersey has one of the USA's last blue laws, banning retailers from doing this",
+     "a": "selling alcohol on Sundays (or selling anything on a Sunday)",
+     "right": [
+      "Melissa"
+     ],
+     "wrong": [
+      "Chris"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 28,
+     "q": "Bleeding & the blockage called pyloric stenosis are possible complications of a peptic one of these",
+     "a": "an ulcer",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 23,
+     "q": "In the 20th century there were as many as 24 Communist countries; today there are only 5, including these 2 in southeast Asia",
+     "a": "Vietnam and Laos",
+     "right": [
+      "Peter"
+     ],
+     "wrong": [
+      "Chris"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 14,
+     "q": "In 1835 he was named third of the original quorum of the 12 apostles",
+     "a": "Brigham Young",
+     "right": [],
+     "wrong": [
+      "Peter"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 19,
+     "q": "City Bob made news by not being in December 10, 2016",
+     "a": "Stockholm",
+     "right": [
+      "Peter"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 5,
+     "q": "Paros is one of the windiest of these Greek islands that encircle Delos",
+     "a": "the Cyclades",
+     "right": [
+      "Peter"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 10,
+     "q": "Check it out! Like cornflower, it's both a flower an a popular shade of blue for shirts",
+     "a": "periwinkle",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 29,
+     "q": "A collection of blood in unbroken tissue is a bruise, aka this fancy 9-letter word",
+     "a": "contusion",
+     "right": [
+      "Melissa"
+     ],
+     "wrong": [
+      "Chris"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 24,
+     "q": "Beginning in 2017, a record 21 women are now U.S. senators, including this new one from California",
+     "a": "Kamala Harris",
+     "right": [
+      "Peter"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 15,
+     "q": "In a Nathaniel Hawthorne tale, this title Puritan flees a witches' Sabbath",
+     "a": "Young Goodman Brown",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 30,
+     "q": "Folk artist who sang \"Diamonds & Rust\" about her fling with Bob",
+     "a": "Joan Baez",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "SHAKESPEARE TITLES",
+  "q": "The verse from the Sermon on the Mount following \"Judge not, that ye be not judged\" inspired this Bard comedy title",
+  "a": "Measure for Measure",
+  "right": [
+   "Chris"
+  ],
+  "wrong": [
+   "Melissa",
+   "Peter"
+  ]
+ },
+ "gameId": "5695",
+ "cat_notes": {
+  "J": [
+   "The category “WE'RE GIVING YOU A COMMISSION” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "Clues about Good Sources of Calcium.",
+   "Clues about Authors Initials.",
+   "Each answer is a 10-letter word or term related to 10-letter Verbs.",
+   "Clues about The Game Is Rigged.",
+   "Clues about Return to the Movies."
+  ],
+  "DJ": [
+   "Clues about Blowin in the Wind.",
+   "Clues about Tangled Up in Blue.",
+   "The category “IT'S ALRIGHT, MA (I'M ONLY BLEEDING)” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "Clues about Things Have Changed.",
+   "Each answer contains the letter group “YOUNG”, and the clues are about Forever.",
+   "Clues about Bob Dylan."
+  ],
+  "F": "Clues about Shakespeare Titles."
+ }
+}
