@@ -24,6 +24,110 @@ function savePlayed(id,score){
     localStorage.setItem('jr-played',JSON.stringify(all));
   }catch(e){}
 }
+
+/* ---------- in-progress saves (versioned; invalid/old saves are ignored) ---------- */
+const SAVE_VER=1, PROGRESS_KEY='jr-progress';
+const RNG={
+  s:1,
+  seed(n){this.s=((n>>>0)||1)},
+  next(){
+    let t=this.s=(this.s+0x6D2B79F5)>>>0;
+    t=Math.imul(t^(t>>>15),t|1);
+    t^=t+Math.imul(t^(t>>>7),t|61);
+    return((t^(t>>>14))>>>0)/4294967296;
+  }
+};
+function readProgressMap(){try{return JSON.parse(localStorage.getItem(PROGRESS_KEY)||'{}')}catch(e){return{}}}
+function writeProgressMap(all){try{localStorage.setItem(PROGRESS_KEY,JSON.stringify(all))}catch(e){}}
+function validProgress(sv,id){
+  if(!sv||sv.v!==SAVE_VER)return false;
+  if(id&&sv.id!==id)return false;
+  if(!['J','DJ','F'].includes(sv.round))return false;
+  if(!Array.isArray(sv.used)||typeof sv.score!=='number'||!isFinite(sv.score))return false;
+  if(typeof sv.rng!=='number'||!sv.state)return false;
+  if(!sv.used.every(k=>/^[0-5],[0-5]$/.test(k)))return false;
+  return true;
+}
+function readProgress(id){
+  try{
+    const sv=readProgressMap()[id];
+    return validProgress(sv,id)?sv:null;
+  }catch(e){return null}
+}
+function clearProgress(id){
+  if(AUTO||FAST)return;
+  try{const all=readProgressMap();delete all[id];writeProgressMap(all)}catch(e){}
+}
+function inProgress(id){return !!readProgress(id)}
+function progressLabel(sv){
+  const rd=sv.round==='F'?'FJ':sv.round;
+  return `Resume · ${rd} · ${money(sv.score)}`;
+}
+function shouldPersist(){
+  if(AUTO||FAST||!SHOW||!SHOW.gameId)return false;
+  if(G.state==='intro'||G.state==='end')return false;
+  return G.used.size>0||G.round!=='J'||G.score!==0||!!G.roundScores.J||!!G.roundScores.DJ||G.state==='wager'||G.state==='ddsplash'||G.state==='finalwager'||G.state==='roundend';
+}
+function saveStateName(){
+  const st=G.state;
+  if(st==='result')return 'board';
+  if(st==='reading'||st==='open'||st==='answer'||st==='picking')return G.clue?'picking':'board';
+  if(st==='ddsplash')return 'ddsplash';
+  return st;
+}
+function saveProgress(){
+  if(!shouldPersist())return;
+  try{
+    const st=saveStateName();
+    const sv={
+      v:SAVE_VER,id:SHOW.gameId,round:G.round,used:[...G.used],score:G.score,
+      roundScores:Object.assign({},G.roundScores),curCol:G.curCol,stay:G.stay,
+      skipped:G.skipped||null,rng:RNG.s,state:st,
+      clue:G.clue?{c:G.clue.c,r:G.clue.r}:null,
+      wager:G.wager,final:G.final||null,
+      savedAt:new Date().toISOString()
+    };
+    if(!validProgress(sv,SHOW.gameId))return;
+    const all=readProgressMap();all[SHOW.gameId]=sv;writeProgressMap(all);
+  }catch(e){}
+}
+function lookupClue(sv){
+  if(!sv||!sv.clue||sv.round==='F'||!SHOW.rounds[sv.round])return null;
+  return SHOW.rounds[sv.round].clues.find(c=>c.c===sv.clue.c&&c.r===sv.clue.r)||null;
+}
+function resetPlay(){
+  G.score=0;G.roundScores={};G.clue=null;G.pending=null;G.wager=undefined;G.final=null;G.last=null;
+  G.skipped=null;G.history=[];G.used=new Set();G.curCol=-1;G.stay=0;
+  RNG.seed(((Math.random()*0xFFFFFFFF)|0)>>>0||1);
+}
+function applyProgress(sv){
+  G.score=sv.score;G.round=sv.round;G.used=new Set(sv.used);
+  G.curCol=sv.curCol??-1;G.stay=sv.stay||0;
+  G.roundScores=Object.assign({},sv.roundScores||{});
+  G.skipped=sv.skipped||null;G.wager=sv.wager;G.final=sv.final||null;G.last=null;
+  G.pending=null;RNG.seed(sv.rng);G.clue=lookupClue(sv);
+}
+function resumeGame(sv){
+  applyProgress(sv);
+  const st=sv.state;
+  if(st==='roundend'){roundEnd();return}
+  if(G.round==='F'){
+    if(sv.wager!=null&&st!=='finalwager'&&st!=='roundend'){finalClue();return}
+    finalIntro();return;
+  }
+  if((st==='wager'||st==='ddsplash')&&G.clue&&G.clue.dd){
+    if(st==='wager')ddWager(G.clue);else ddSplash(G.clue);
+    return;
+  }
+  if(st==='picking'&&G.clue){
+    renderBoard(G.clue.c+','+G.clue.r);renderHud();setState('picking');
+    G.pending=()=>G.clue.dd?ddSplash(G.clue):showClue(G.clue);
+    later(G.pending,R(700));
+    return;
+  }
+  renderBoard();renderHud();setState('board');
+  later(pickNext,R(800));
+}
 function loadShow(id){
   const meta=CATALOG.find(e=>e.gameId===id)||CATALOG[0];
   return fetch('episodes/'+meta.gameId+'.json').then(r=>{if(!r.ok)throw new Error('episode '+r.status);return r.json()}).then(d=>{SHOW=Object.assign({},meta,d);return SHOW});
@@ -274,7 +378,7 @@ function askLeave(){
   const box=document.createElement('div');box.className='leave';box.setAttribute('role','dialog');box.setAttribute('aria-label','Leave game?');
   box.innerHTML='<div class="leavecard"><div class="leaveq">Leave game?</div><div class="leaverow"><button type="button" class="btn" id="leavey">Yes</button><button type="button" class="btn ghost" id="leaven">No</button></div></div>';
   appEl.appendChild(box);
-  $('#leavey').onclick=()=>{box.remove();clearTimers();setPaused(false);setLights(null);G.pending=null;G.clue=null;G.skipped=null;intro()};
+  $('#leavey').onclick=()=>{saveProgress();box.remove();clearTimers();setPaused(false);setLights(null);G.pending=null;G.clue=null;G.skipped=null;intro()};
   $('#leaven').onclick=()=>box.remove();
 }
 
@@ -374,9 +478,10 @@ function intro(){
   function cardsHtml(){
     const rows=rowsFor(season);
     return rows.map(([e,i])=>{
-      const p=played[e.gameId], did=p&&p.finished;
-      const badge=did?`<span class="played" aria-label="Played, best ${money(p.best)}">✓ ${money(p.best)}</span>`:'';
-      return `<button type="button" class="ep${i===pick?' sel':''}${did?' did':''}" data-i="${i}">
+      const p=played[e.gameId], did=p&&p.finished, mid=readProgress(e.gameId);
+      const badge=mid?`<span class="resume" aria-label="In progress, ${progressLabel(mid)}"><i class="halfc" aria-hidden="true"></i>${esc(progressLabel(mid))}</span>`:
+        (did?`<span class="played" aria-label="Played, best ${money(p.best)}">✓ ${money(p.best)}</span>`:'');
+      return `<button type="button" class="ep${i===pick?' sel':''}${mid?' mid':''}${!mid&&did?' did':''}" data-i="${i}">
         <span class="ed">${esc(e.show)} · ${fmt(e)}</span>
         <span class="en">${e.contestants.map(c=>esc(c.short)).join(' · ')}</span>${badge}</button>`;
     }).join('');
@@ -398,12 +503,40 @@ function intro(){
       <div class="smenu hide" id="smenu" role="listbox">${menuHtml()}</div>
     </div>
     <div class="eps" id="epgrid">${cardsHtml()}</div>
-    <button class="btn" id="go">Start</button></div>`);
+    <div class="actions" id="goactions"></div></div>`);
   const menu=$('#smenu'), sel=$('#ssel');
+  function renderGo(){
+    const mid=readProgress(CATALOG[pick].gameId);
+    const box=$('#goactions');
+    if(mid){
+      box.innerHTML=`<button class="btn" id="go">Resume</button><button class="btn ghost" id="restart" type="button">Restart</button>`;
+    }else{
+      box.innerHTML=`<button class="btn" id="go">Start</button>`;
+    }
+    const begin=(resume)=>{
+      Voice.unlock();
+      const go=$('#go'), rs=$('#restart');
+      if(go)go.disabled=true;if(rs)rs.disabled=true;
+      const id=CATALOG[pick].gameId;
+      const sv=resume?readProgress(id):null;
+      loadShow(id).then(()=>{
+        if(sv&&validProgress(sv,id)){resumeGame(sv);return}
+        if(!resume)clearProgress(id);
+        resetPlay();startRound('J');
+      }).catch(()=>{if(go)go.disabled=false;if(rs)rs.disabled=false});
+    };
+    $('#go').onclick=()=>begin(!!mid);
+    const rs=$('#restart');if(rs)rs.onclick=()=>{clearProgress(CATALOG[pick].gameId);begin(false)};
+  }
   function bindCards(){
-    document.querySelectorAll('.ep').forEach(b=>b.onclick=()=>{pick=+b.dataset.i;SHOW=CATALOG[pick];document.querySelectorAll('.ep').forEach(x=>x.classList.toggle('sel',x===b))});
+    document.querySelectorAll('.ep').forEach(b=>b.onclick=()=>{
+      pick=+b.dataset.i;SHOW=CATALOG[pick];
+      document.querySelectorAll('.ep').forEach(x=>x.classList.toggle('sel',x===b));
+      renderGo();
+    });
   }
   bindCards();
+  renderGo();
   sel.onclick=e=>{e.stopPropagation();const open=menu.classList.toggle('hide');sel.setAttribute('aria-expanded',open?'false':'true')};
   menu.querySelectorAll('.sitem').forEach(b=>b.onclick=e=>{
     e.stopPropagation();
@@ -411,18 +544,18 @@ function intro(){
     const first=CATALOG.findIndex(e=>e.season===season);
     pick=first;SHOW=CATALOG[pick];
     $('#slabel').textContent=headerLabel();$('#smeta').textContent=mark(season);
-    $('#epgrid').innerHTML=cardsHtml();bindCards();
+    $('#epgrid').innerHTML=cardsHtml();bindCards();renderGo();
     menu.querySelectorAll('.sitem').forEach(x=>x.classList.toggle('on',+x.dataset.s===season));
     menu.classList.add('hide');sel.setAttribute('aria-expanded','false');
   });
   if(!intro._close){intro._close=ev=>{const m=document.querySelector('#smenu'),s=document.querySelector('#ssel');if(!m||!s)return;if(!ev.target.closest('.sbar')){m.classList.add('hide');s.setAttribute('aria-expanded','false')}};document.addEventListener('pointerdown',intro._close);}
-  $('#go').onclick=()=>{G.skipped=null;Voice.unlock();const go=$('#go');go.disabled=true;loadShow(CATALOG[pick].gameId).then(()=>startRound('J')).catch(()=>{go.disabled=false})};
 }
 
 /* ---------- rounds & board ---------- */
 function startRound(r){
   clearTimers();G.round=r;G.used=new Set();G.curCol=-1;G.stay=0;
   renderBoard();renderHud();setState('board');
+  saveProgress();
   later(pickNext,R(3600));
 }
 function renderBoard(flashKey){
@@ -481,15 +614,15 @@ function openCatNote(i){
 function choose(){
   const avail=SHOW.rounds[G.round].clues.filter(c=>!G.used.has(c.c+','+c.r));
   const inCol=avail.filter(c=>c.c===G.curCol);
-  let jump=G.curCol<0||inCol.length===0||Math.random()<0.14||G.stay>=5&&Math.random()<0.5;
+  let jump=G.curCol<0||inCol.length===0||RNG.next()<0.14||G.stay>=5&&RNG.next()<0.5;
   const pool=jump?avail.filter(c=>c.c!==G.curCol||avail.length===inCol.length):avail;
   const w=c=>{
     let x=Math.pow(c.r+1,1.6);                         // higher value → heavier
     if(!jump&&c.c===G.curCol) x*=4.5;                   // stay in the same category
-    return x*(0.6+Math.random()*0.8);                   // noise: no tidy top-to-bottom runs
+    return x*(0.6+RNG.next()*0.8);                      // noise: no tidy top-to-bottom runs
   };
   const ws=pool.map(w),tot=ws.reduce((a,b)=>a+b,0);
-  let t=Math.random()*tot;for(let i=0;i<pool.length;i++){t-=ws[i];if(t<=0)return {clue:pool[i],jump}}
+  let t=RNG.next()*tot;for(let i=0;i<pool.length;i++){t-=ws[i];if(t<=0)return {clue:pool[i],jump}}
   return {clue:pool[pool.length-1],jump};
 }
 function skipRound(){
@@ -512,6 +645,7 @@ function pickNext(){
   G.used.add(clue.c+','+clue.r);G.clue=clue;
   renderBoard(clue.c+','+clue.r);renderHud();setState('picking');
   G.pending=()=>clue.dd?ddSplash(clue):showClue(clue);
+  saveProgress();
   later(G.pending,R(1000));
 }
 
@@ -609,11 +743,12 @@ function ddWager(c){
   const go=()=>{
     const n=parseInt(inp.value.replace(/[^\d]/g,''),10);
     if(!(n>=5&&n<=max)){$('#wmsg').innerHTML=`<span class="lock">Wager must be between $5 and ${money(max)}</span>`;return}
-    G.wager=n;ddClue(c);
+    G.wager=n;saveProgress();ddClue(c);
   };
   $('#wgo').onclick=go;inp.addEventListener('keydown',e=>{if(e.key==='Enter')go()});
   document.querySelectorAll('[data-w]').forEach(b=>b.onclick=()=>{inp.value=b.dataset.w;go()});
   G.wagerGo=go;
+  saveProgress();
 }
 function ddClue(c){
   setState('reading');
@@ -712,7 +847,9 @@ function finishClue(c,txt,mode,timedOut){
     G.score+=2*value;G.last.cls='good';G.last.delta=value;
     ov.remove();renderHud();
     const v=$('.verdict');v.className='verdict good';v.textContent='Overruled — correct!';sfx.good();
+    saveProgress();
   };
+  saveProgress();
 }
 function nextAfterResult(){
   if(G.state!=='result')return;
@@ -733,6 +870,7 @@ function roundEnd(){
    <button class="btn" id="cont">${r==='J'?'On to Double Jeopardy!':'On to Final Jeopardy!'}</button></div>`);
   $('#cont').onclick=()=>r==='J'?startRound('DJ'):finalIntro();
   renderHud();
+  saveProgress();
 }
 function finalIntro(){
   clearTimers();G.round='F';setLights(null);setState('finalwager');renderHud();
@@ -743,6 +881,7 @@ function finalIntro(){
       <button class="btn" id="cont">See the results</button></div>`);
     G.wager=0;G.last={mode:'final',skip:true};
     $('#cont').onclick=()=>{G.final={played:false,delta:0};endScreen()};
+    saveProgress();
     return;
   }
   S(`<div class="panel"><div class="logo" style="font-size:min(9vw,14vh)">Final Jeopardy!</div><div class="h1 gold">${esc(F.cat)}</div>
@@ -754,11 +893,12 @@ function finalIntro(){
   const go=()=>{
     const raw=inp.value.replace(/[^\d]/g,'');const n=raw===''?NaN:parseInt(raw,10);
     if(!(n>=0&&n<=G.score)){$('#wmsg').innerHTML=`<span class="lock">Wager must be between $0 and ${money(G.score)}</span>`;return}
-    G.wager=n;finalClue();
+    G.wager=n;saveProgress();finalClue();
   };
   $('#wgo').onclick=go;inp.addEventListener('keydown',e=>{if(e.key==='Enter')go()});
   document.querySelectorAll('[data-w]').forEach(b=>b.onclick=()=>{inp.value=b.dataset.w;go()});
   G.wagerGo=go;
+  saveProgress();
 }
 function finalClue(){
   const F=SHOW.final;setState('reading');
@@ -792,6 +932,7 @@ const ORD=n=>['1st','2nd','3rd','4th'][n-1];
 function endScreen(){
   clearTimers();setState('end');setLights(null);
   G.roundScores.F=G.score;
+  clearProgress(SHOW.gameId);
   savePlayed(SHOW.gameId,G.score);
   const fin=SHOW.scores.Final;
   const people=SHOW.contestants.map(c=>({name:c.name,short:c.short,score:fin[c.short],real:true,j:SHOW.scores.J[c.short],dj:SHOW.scores.DJ[c.short]}));
@@ -878,6 +1019,6 @@ if(AUTO){
     else if(st==='roundend'&&age>600)$('#cont').click();
   },200);
 }
-window.__G=G;window.__startRound=startRound;window.__loadShow=loadShow;window.__savePlayed=savePlayed;window.__readPlayed=readPlayed;window.__setPaused=setPaused;window.__togglePause=togglePause;window.__clearTimers=clearTimers;window.__openCatNote=openCatNote;window.__closeCatNote=closeCatNote;window.__Voice=Voice;
+window.__G=G;window.__startRound=startRound;window.__loadShow=loadShow;window.__savePlayed=savePlayed;window.__readPlayed=readPlayed;window.__setPaused=setPaused;window.__togglePause=togglePause;window.__clearTimers=clearTimers;window.__openCatNote=openCatNote;window.__closeCatNote=closeCatNote;window.__Voice=Voice;window.__RNG=RNG;window.__saveProgress=saveProgress;window.__readProgress=readProgress;window.__clearProgress=clearProgress;window.__resetPlay=resetPlay;window.__resumeGame=resumeGame;
 intro();
 })();

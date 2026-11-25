@@ -320,7 +320,12 @@ body:not([data-st=board]):not([data-st=picking]):not([data-st=ddsplash]) #ff{vis
 .panel.intro .ep .ed{display:block;font-size:max(12px,2.1vmin)!important;letter-spacing:.1em;line-height:1.45;overflow:visible}
 .panel.intro .ep .en{display:block;font:500 max(11px,1.9vmin)/1.45 Oswald,sans-serif!important;letter-spacing:.04em;text-transform:uppercase;color:rgba(230,233,255,.78);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;min-width:0;max-width:100%}
 .panel.intro .ep .played{position:absolute;top:max(6px,0.8vmin);right:max(8px,1.2vmin);font:500 max(11px,1.8vmin)/1 Oswald,sans-serif;letter-spacing:.04em;color:var(--gold);opacity:.9}
+.panel.intro .ep .resume{position:static;display:inline-flex;align-items:center;gap:.35em;max-width:100%;margin-top:.15em;font:500 max(10px,1.65vmin)/1.2 Oswald,sans-serif;letter-spacing:.04em;color:#9eb6ff;opacity:.95;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.panel.intro .ep .resume .halfc{flex:none;width:.7em;height:.7em;border-radius:50%;box-sizing:border-box;border:1.5px solid currentColor;background:linear-gradient(90deg,currentColor 0 50%,transparent 50%)}
 .panel.intro .ep.did{border-color:rgba(232,184,75,.45)!important}
+.panel.intro .ep.mid{border-color:rgba(158,182,255,.55)!important}
+.panel.intro .actions{display:flex;align-items:center;justify-content:center;flex-wrap:wrap;gap:max(8px,1.4vmin);margin-top:max(10px,1.4vmin);z-index:2;flex:none;position:relative}
+.panel.intro .actions .btn{margin-top:0;z-index:2;flex:none}
 .panel.intro .btn{position:relative;margin-top:max(10px,1.4vmin);z-index:2;flex:none}
 @media (orientation:landscape){
   .panel.intro{padding-top:max(8px,1.2vmin)}
