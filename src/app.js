@@ -452,6 +452,37 @@ const ELO={
 };
 ELO.load();
 
+/* Difficulty badge on picker cards. The 1–10 rating itself is computed
+ * at build time (see build.py) as a catalog percentile of:
+ *   40% value-weighted triple-stumper rate,
+ *   25% wrong-answer rate,
+ *   25% (1 − first-responder-correct rate),
+ *   10% inverted combined official Coryat (baseline $34,600).
+ * Higher is harder. Color is a soft green → yellow → red ramp
+ * (1 easy green, 10 hard red), independent of ELO.
+ */
+const DIFF={
+  stops:[{n:1,color:'#9ed4a8'},{n:5.5,color:'#ffe28a'},{n:10,color:'#ff8a7a'}],
+  color(n){
+    const v=Math.max(1,Math.min(10,+n||1));
+    const s=this.stops;
+    if(v<=s[0].n)return ELO.rgb(s[0].color);
+    for(let i=1;i<s.length;i++){
+      if(v<=s[i].n){
+        const span=s[i].n-s[i-1].n;
+        return ELO.lerpHex(s[i-1].color,s[i].color,span?(v-s[i-1].n)/span:1);
+      }
+    }
+    return ELO.rgb(s[s.length-1].color);
+  },
+  badge(n){
+    if(n==null||!isFinite(n))return '';
+    const v=Math.max(1,Math.min(10,Math.round(n)));
+    return `<span class="diff" style="color:${this.color(v)}" title="Difficulty ${v} of 10" aria-label="Difficulty ${v} of 10">${v}</span>`;
+  }
+};
+
+
 
 /* ---------- True Score (head-to-head, same evidence curve as SPEED) ---------- */
 /* On a regular first-right clue, the user is racing a modeled first-buzz
@@ -1133,7 +1164,7 @@ function intro(){
   function cardShell(e,i,extraClass,inner){
     const on=i===pick?' sel':'';
     return `<div class="ep${on}${extraClass}" data-i="${i}" data-id="${e.gameId}" role="button" tabindex="0">
-        <span class="ed">${esc(e.show)} · ${fmt(e)}</span>
+        <span class="ed"><span class="edl">${esc(e.show)} · ${fmt(e)}</span>${DIFF.badge(e.diff)}</span>
         <span class="en">${e.contestants.map(c=>esc(c.short)).join(' · ')}</span>${inner}</div>`;
   }
   function cardsHtml(){
@@ -1861,6 +1892,6 @@ if(AUTO){
     else if(st==='roundend'&&age>600)$('#cont').click();
   },200);
 }
-window.__G=G;window.__startRound=startRound;window.__loadShow=loadShow;window.__savePlayed=savePlayed;window.__readPlayed=readPlayed;window.__setPaused=setPaused;window.__togglePause=togglePause;window.__clearTimers=clearTimers;window.__openCatNote=openCatNote;window.__closeCatNote=closeCatNote;window.__Voice=Voice;window.__SPEED=SPEED;window.__trueAward=trueAward;window.__contestantCoryat=contestantCoryat;window.__contestantTrue=contestantTrue;window.__ELO=ELO;window.__SHOW=SHOW;window.__endScreen=endScreen;window.__finishClue=finishClue;window.__RNG=RNG;window.__saveProgress=saveProgress;window.__readProgress=readProgress;window.__clearProgress=clearProgress;window.__resetPlay=resetPlay;window.__resumeGame=resumeGame;window.__buzzAward=buzzAward;window.__reactionMs=reactionMs;window.__openVoicePicker=openVoicePicker;window.__closeVoicePicker=closeVoicePicker;window.__voiceLabel=voiceLabel;window.__toggleEndRow=toggleEndRow;
+window.__G=G;window.__startRound=startRound;window.__loadShow=loadShow;window.__savePlayed=savePlayed;window.__readPlayed=readPlayed;window.__setPaused=setPaused;window.__togglePause=togglePause;window.__clearTimers=clearTimers;window.__openCatNote=openCatNote;window.__closeCatNote=closeCatNote;window.__Voice=Voice;window.__SPEED=SPEED;window.__trueAward=trueAward;window.__contestantCoryat=contestantCoryat;window.__contestantTrue=contestantTrue;window.__ELO=ELO;window.__SHOW=SHOW;window.__endScreen=endScreen;window.__finishClue=finishClue;window.__RNG=RNG;window.__saveProgress=saveProgress;window.__readProgress=readProgress;window.__clearProgress=clearProgress;window.__resetPlay=resetPlay;window.__resumeGame=resumeGame;window.__buzzAward=buzzAward;window.__reactionMs=reactionMs;window.__openVoicePicker=openVoicePicker;window.__closeVoicePicker=closeVoicePicker;window.__voiceLabel=voiceLabel;window.__toggleEndRow=toggleEndRow;window.__DIFF=DIFF;
 intro();
 })();

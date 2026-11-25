@@ -317,9 +317,11 @@ body:not([data-st=board]):not([data-st=picking]):not([data-st=ddsplash]) #ff{vis
 .sitem .scount{color:var(--gold);letter-spacing:.1em;opacity:.9}
 .panel.intro .eps{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:max(6px,1vmin);width:min(100vmin,94vw);flex:0 1 auto;min-height:0;overflow:auto;-webkit-overflow-scrolling:touch;align-content:start;padding-bottom:max(12px,2vmin);scroll-padding-bottom:max(12px,2vmin)}
 .panel.intro .ep{position:relative;display:flex;flex-direction:column;justify-content:center;align-items:stretch;box-sizing:border-box;padding:max(10px,1.5vmin) max(12px,2vmin)!important;gap:.3em!important;min-height:auto;height:auto;overflow:visible;text-align:left;-webkit-appearance:none;appearance:none}
-.panel.intro .ep .ed{display:block;font-size:max(12px,2.1vmin)!important;letter-spacing:.1em;line-height:1.45;overflow:visible}
+.panel.intro .ep .ed{display:flex;align-items:baseline;justify-content:space-between;gap:.4em;font-size:max(12px,2.1vmin)!important;letter-spacing:.1em;line-height:1.45;overflow:visible;min-width:0}
+.panel.intro .ep .edl{min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.panel.intro .ep .diff{flex:none;font:600 max(10px,1.6vmin)/1 Oswald,sans-serif;letter-spacing:.04em;opacity:.7;text-shadow:0 0 .35em rgba(0,0,0,.35)}
 .panel.intro .ep .en{display:block;font:500 max(11px,1.9vmin)/1.45 Oswald,sans-serif!important;letter-spacing:.04em;text-transform:uppercase;color:rgba(230,233,255,.78);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;min-width:0;max-width:100%}
-.panel.intro .ep .played{position:absolute;top:max(6px,0.8vmin);right:max(8px,1.2vmin);font:500 max(11px,1.8vmin)/1 Oswald,sans-serif;letter-spacing:.04em;color:var(--gold);opacity:.9}
+.panel.intro .ep .played{position:static;margin-top:.15em;align-self:flex-start;font:500 max(11px,1.8vmin)/1 Oswald,sans-serif;letter-spacing:.04em;color:var(--gold);opacity:.9}
 .panel.intro .ep .resume{position:static;display:inline-flex;align-items:center;gap:.35em;max-width:100%;margin-top:.15em;font:500 max(10px,1.65vmin)/1.2 Oswald,sans-serif;letter-spacing:.04em;color:#9eb6ff;opacity:.95;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
 .panel.intro .ep .resume .halfc{flex:none;width:.7em;height:.7em;border-radius:50%;box-sizing:border-box;border:1.5px solid currentColor;background:linear-gradient(90deg,currentColor 0 50%,transparent 50%)}
 .panel.intro .ep.did{border-color:rgba(232,184,75,.45)!important}
