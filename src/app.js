@@ -14,7 +14,7 @@ const epParam=Q.get('ep');
 let SHOW=CATALOG.find(e=>e.gameId===epParam)||CATALOG[+epParam]||CATALOG[0];
 let pick=Math.max(0,CATALOG.findIndex(e=>e.gameId===SHOW.gameId));
 const G={score:0,state:'intro',round:'J',used:new Set(),curCol:-1,stay:0,timers:[],stateAt:0,
- roundScores:{},clue:null,lockedUntil:0,openAt:0,sound:true,history:[],skipped:null,paused:false,pauseAt:0};
+ roundScores:{},clue:null,lockedUntil:0,openAt:0,sound:true,history:[],skipped:null,paused:false,pauseAt:0,voiceMute:(()=>{try{return localStorage.getItem('jr-voice-mute')==='1'}catch(e){return false}})()};
 function readPlayed(){try{return JSON.parse(localStorage.getItem('jr-played')||'{}')}catch(e){return{}}}
 function savePlayed(id,score){
   if(AUTO||FAST)return;
@@ -45,7 +45,108 @@ const sfx={
  dd(){[392,523,659,784,1047].forEach((f,i)=>tone(f,.2,'triangle',.12,i*.09))},
  tick(){tone(1200,.03,'square',.04)}
 };
+
+/* ---------- clue read-aloud (speechSynthesis) ---------- */
+const Voice={
+  tok:0, text:null, onDone:null, active:false, voice:null,
+  enabled(){return !AUTO&&!FAST&&!G.voiceMute&&!!window.speechSynthesis},
+  pick(){
+    if(!window.speechSynthesis)return null;
+    const vs=speechSynthesis.getVoices()||[];
+    const en=vs.filter(v=>/^en([-_]|$)/i.test(v.lang||'')||/english/i.test(v.name||''));
+    const pool=en.length?en:vs;
+    const score=v=>{
+      const n=(v.name||'')+' '+(v.voiceURI||'');
+      if(/premium/i.test(n))return 300;
+      if(/enhanced/i.test(n))return 200;
+      if(/\b(Ava|Zoe|Samantha|Google US English)\b/i.test(n))return 100;
+      if(/en-US/i.test(v.lang))return 50;
+      if(/^en/i.test(v.lang))return 20;
+      return 0;
+    };
+    let best=null,bestS=-1;
+    for(const v of pool){const sc=score(v);if(sc>bestS){best=v;bestS=sc}}
+    this.voice=best||pool[0]||null;return this.voice;
+  },
+  unlock(){
+    if(!window.speechSynthesis)return;
+    try{
+      this.pick();
+      const u=new SpeechSynthesisUtterance(' ');
+      u.volume=0;u.rate=10;if(this.voice)u.voice=this.voice;
+      speechSynthesis.speak(u);speechSynthesis.cancel();
+    }catch(e){}
+  },
+  cancel(){
+    this.tok++;this.text=null;this.onDone=null;this.active=false;
+    try{if(window.speechSynthesis)speechSynthesis.cancel()}catch(e){}
+  },
+  speak(text,onDone){
+    const words=String(text||'').trim().split(/\s+/).filter(Boolean).length;
+    const silentMs=R(1300+words*230);
+    if(!this.enabled()||!String(text||'').trim()){later(onDone,silentMs);return}
+    this.pick();
+    const tok=++this.tok;
+    this.text=text;this.onDone=onDone;this.active=true;
+    const done=()=>{if(tok!==this.tok)return;this.tok++;this.active=false;this.text=null;this.onDone=null;onDone&&onDone()};
+    const fallback=Math.min(25000,Math.max(8000,1500+words*400));
+    const start=()=>{
+      if(tok!==this.tok)return;
+      try{
+        speechSynthesis.cancel();
+        const u=new SpeechSynthesisUtterance(text);
+        if(this.voice){u.voice=this.voice;u.lang=this.voice.lang||'en-US'}else u.lang='en-US';
+        u.rate=1;u.onend=done;u.onerror=done;
+        speechSynthesis.speak(u);
+      }catch(e){done()}
+    };
+    start();
+    later(()=>{if(tok===this.tok){try{speechSynthesis.cancel()}catch(e){}done()}},fallback);
+  },
+  pause(){
+    if(!this.active||!window.speechSynthesis)return;
+    try{if(speechSynthesis.speaking&&!speechSynthesis.paused)speechSynthesis.pause()}catch(e){}
+    const tok=this.tok;
+    setTimeout(()=>{
+      if(tok!==this.tok||!this.active||!G.paused)return;
+      try{
+        if(!speechSynthesis.paused&&speechSynthesis.speaking){speechSynthesis.cancel()}
+      }catch(e){}
+    },80);
+  },
+  resume(){
+    if(!this.active||!window.speechSynthesis)return;
+    try{
+      if(speechSynthesis.paused){speechSynthesis.resume();return}
+    }catch(e){}
+    // pause unsupported or cancel happened: restart the clue
+    if(this.text&&this.onDone){
+      const text=this.text,onDone=this.onDone,tok=this.tok;
+      try{
+        speechSynthesis.cancel();
+        const u=new SpeechSynthesisUtterance(text);
+        if(this.voice){u.voice=this.voice;u.lang=this.voice.lang||'en-US'}else u.lang='en-US';
+        u.rate=1;u.onend=()=>{if(tok!==this.tok)return;this.active=false;this.text=null;this.onDone=null;onDone&&onDone()};
+        u.onerror=u.onend;
+        speechSynthesis.speak(u);
+      }catch(e){}
+    }
+  },
+  setMute(on){
+    G.voiceMute=!!on;
+    try{localStorage.setItem('jr-voice-mute',G.voiceMute?'1':'0')}catch(e){}
+    if(G.voiceMute&&this.active){
+      const cb=this.onDone;this.cancel();cb&&cb();
+    }
+  }
+};
+if(window.speechSynthesis){
+  Voice.pick();
+  speechSynthesis.addEventListener('voiceschanged',()=>Voice.pick());
+}
+
 hud.addEventListener('click',e=>{const m=e.target.closest('#mute');if(m){G.sound=!G.sound;m.innerHTML=G.sound?ICON.snd:ICON.mute;m.blur()}
+  const vm=e.target.closest('#vmute');if(vm){Voice.setMute(!G.voiceMute);vm.innerHTML=G.voiceMute?ICON.vmute:ICON.voice;vm.classList.toggle('on',G.voiceMute);vm.setAttribute('aria-label',G.voiceMute?'Unmute voice':'Mute voice');vm.title=G.voiceMute?'Voice muted':'Voice on';vm.blur();return}
   if(e.target.closest('#pause')){togglePause();const b=e.target.closest('#pause');if(b)b.blur();return}
   if(G.paused)return;
   if(e.target.closest('#ff'))fastForward();if(e.target.closest('#rskip'))skipRound();if(e.target.closest('#home'))askLeave()});
@@ -95,6 +196,7 @@ function thawSched(){
 function clearTimers(){
   for(const rec of sched.splice(0)){if(rec.kind==='to')clearTimeout(rec.id);else clearInterval(rec.id)}
   G.timers.forEach(t=>{clearTimeout(t);clearInterval(t)});G.timers=[];
+  Voice.cancel();
 }
 function setState(s){G.state=s;document.body.dataset.st=s;G.stateAt=performance.now();if(s!=='answer')document.body.classList.remove('typing')}
 function pauseOverlay(){
@@ -116,6 +218,7 @@ function setPaused(on,opts){
   if(G.state==='intro'&&on)return;
   if(on){
     G.pauseAt=performance.now();G.paused=true;freezeSched();
+    Voice.pause();
     if(AC&&AC.state==='running')AC.suspend();
     document.body.dataset.paused='1';
     const el=pauseOverlay();
@@ -127,6 +230,7 @@ function setPaused(on,opts){
     if(G.openAt)G.openAt+=dt;
     if(G.lockedUntil)G.lockedUntil+=dt;
     if(G.stateAt)G.stateAt+=dt;
+    Voice.resume();
     thawSched();
     if(AC&&AC.state==='suspended')AC.resume();
     document.body.removeAttribute('data-paused');
@@ -153,14 +257,16 @@ const ICON={
  next:'<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 6l8.5 6L4 18zM12 6l8.5 6L12 18z" fill="currentColor"/><rect x="20" y="6" width="2" height="12" rx="1" fill="currentColor"/></svg>',
  home:'<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 11.5 12 4l8 7.5V20a1 1 0 0 1-1 1h-5v-6H10v6H5a1 1 0 0 1-1-1z" fill="currentColor"/></svg>',
  pause:'<svg viewBox="0 0 24 24" aria-hidden="true"><rect x="6" y="5" width="4" height="14" rx="1" fill="currentColor"/><rect x="14" y="5" width="4" height="14" rx="1" fill="currentColor"/></svg>',
- play:'<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5.5v13l11-6.5z" fill="currentColor"/></svg>'};
+ play:'<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5.5v13l11-6.5z" fill="currentColor"/></svg>',
+ voice:'<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 4.5h11.5A2.5 2.5 0 0 1 19 7v6.5a2.5 2.5 0 0 1-2.5 2.5H11l-4 3.2V16H5A2.5 2.5 0 0 1 2.5 13.5V7A2.5 2.5 0 0 1 5 4.5z" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/><path d="M8 9h7M8 12h5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg>',
+ vmute:'<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 4.5h11.5A2.5 2.5 0 0 1 19 7v6.5a2.5 2.5 0 0 1-2.5 2.5H11l-4 3.2V16H5A2.5 2.5 0 0 1 2.5 13.5V7A2.5 2.5 0 0 1 5 4.5z" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/><path d="M8 9h7M8 12h5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/><path d="M3.5 5l17 14" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>'};
 function renderHud(){
   hud.classList.remove('hide');
   const rs=G.round==='J'||G.round==='DJ';
   const real=G.skipped&&SHOW.scores[G.skipped]?`<div class="realstrip" aria-label="Real scores at the jump">${SHOW.contestants.map(c=>`${esc(c.short)} ${money(SHOW.scores[G.skipped][c.short])}`).join(' · ')}</div>`:'';
   const atEnd=G.state==='end';
   const pauseLbl=G.paused?'Resume':'Pause';
-  hud.innerHTML=`${real}<div class="corner l"><button id="ff" class="ic" type="button" aria-label="Skip the wait">${ICON.ff}</button><button id="home" class="ic" type="button" aria-label="Back to episodes">${ICON.home}</button></div><div class="hudmid"><button id="pause" class="ic${G.paused?' on':''}" type="button" aria-label="${pauseLbl}" title="${pauseLbl}">${G.paused?ICON.play:ICON.pause}</button><div class="scorebox ${G.score<0?'neg':'pos'}">${money(G.score)}</div><span class="ic-slot" aria-hidden="true"></span></div><div class="corner r"><button id="mute" class="ic" type="button" aria-label="Toggle sound">${G.sound?ICON.snd:ICON.mute}</button><button id="rskip" class="ic" type="button" aria-label="${G.round==='J'?'Skip to Double Jeopardy':'Skip to Final Jeopardy'}" ${rs&&!atEnd?'':'hidden'}>${ICON.next}</button></div>`;
+  hud.innerHTML=`${real}<div class="corner l"><button id="ff" class="ic" type="button" aria-label="Skip the wait">${ICON.ff}</button><button id="home" class="ic" type="button" aria-label="Back to episodes">${ICON.home}</button></div><div class="hudmid"><button id="pause" class="ic${G.paused?' on':''}" type="button" aria-label="${pauseLbl}" title="${pauseLbl}">${G.paused?ICON.play:ICON.pause}</button><div class="scorebox ${G.score<0?'neg':'pos'}">${money(G.score)}</div><button id="vmute" class="ic${G.voiceMute?' on':''}" type="button" aria-label="${G.voiceMute?'Unmute voice':'Mute voice'}" title="${G.voiceMute?'Voice muted':'Voice on'}">${G.voiceMute?ICON.vmute:ICON.voice}</button></div><div class="corner r"><button id="mute" class="ic" type="button" aria-label="Toggle sound">${G.sound?ICON.snd:ICON.mute}</button><button id="rskip" class="ic" type="button" aria-label="${G.round==='J'?'Skip to Double Jeopardy':'Skip to Final Jeopardy'}" ${rs&&!atEnd?'':'hidden'}>${ICON.next}</button></div>`;
 }
 function askLeave(){
   if(G.state==='end'){intro();return}
@@ -310,7 +416,7 @@ function intro(){
     menu.classList.add('hide');sel.setAttribute('aria-expanded','false');
   });
   if(!intro._close){intro._close=ev=>{const m=document.querySelector('#smenu'),s=document.querySelector('#ssel');if(!m||!s)return;if(!ev.target.closest('.sbar')){m.classList.add('hide');s.setAttribute('aria-expanded','false')}};document.addEventListener('pointerdown',intro._close);}
-  $('#go').onclick=()=>{G.skipped=null;const go=$('#go');go.disabled=true;loadShow(CATALOG[pick].gameId).then(()=>startRound('J')).catch(()=>{go.disabled=false})};
+  $('#go').onclick=()=>{G.skipped=null;Voice.unlock();const go=$('#go');go.disabled=true;loadShow(CATALOG[pick].gameId).then(()=>startRound('J')).catch(()=>{go.disabled=false})};
 }
 
 /* ---------- rounds & board ---------- */
@@ -422,11 +528,8 @@ const foot=h=>{$('#foot').innerHTML=h};
 function showClue(c){
   setState('reading');G.lockedUntil=0;
   S(cardHtml(c));setLights('armed');renderHud();
-  const words=c.q.split(/\s+/).length;
-  const readMs=R(1300+words*230);
   footReading();
-  later(openBuzzers,readMs);
-  if(AUTO){/* driver below handles it */}
+  Voice.speak(c.q,()=>openBuzzers());
 }
 function footReading(){
   foot(`<button class="buzz" id="bz">BUZZ</button><div class="bar" style="visibility:hidden"></div><button class="skip" id="skip" type="button">Don’t know · skip</button>`);
@@ -513,9 +616,13 @@ function ddWager(c){
   G.wagerGo=go;
 }
 function ddClue(c){
-  setState('answer');
+  setState('reading');
   S(cardHtml(c,{wager:G.wager}));setLights(null);renderHud();
-  askAnswer(c,{ms:ANSWER_MS,prefix:'',cb:(t,to)=>finishClue(c,t,'dd',to)});
+  Voice.speak(c.q,()=>{
+    if(G.state!=='reading')return;
+    setState('answer');
+    askAnswer(c,{ms:ANSWER_MS,prefix:'',cb:(t,to)=>finishClue(c,t,'dd',to)});
+  });
 }
 
 /* ---------- judging ---------- */
@@ -654,10 +761,13 @@ function finalIntro(){
   G.wagerGo=go;
 }
 function finalClue(){
-  const F=SHOW.final;setState('answer');
+  const F=SHOW.final;setState('reading');
   const c={q:F.q,a:F.a,v:G.wager,img:false};
   S(cardHtml(c,{cat:F.cat,wager:G.wager}));
-  askAnswer(c,{ms:FINAL_MS,prefix:'',cb:(t,to)=>{
+  Voice.speak(F.q,()=>{
+    if(G.state!=='reading')return;
+    setState('answer');
+    askAnswer(c,{ms:FINAL_MS,prefix:'',cb:(t,to)=>{
     clearTimers();
     const ok=t&&judge(t,F.a);const delta=ok?G.wager:-G.wager;G.score+=delta;(ok?sfx.good:sfx.bad)();
     G.final={played:true,delta,txt:t,ok};G.last={mode:'final',cls:ok?'good':'bad',delta,value:G.wager};
@@ -673,7 +783,8 @@ function finalClue(){
      </div>`);
     $('#next').onclick=nextAfterResult;
     const ov=$('#override');if(ov)ov.onclick=()=>{G.score+=2*G.wager;G.final.delta=G.wager;G.final.ok=true;G.last.cls='good';ov.remove();renderHud();const v=$('.verdict');v.className='verdict good';v.textContent='Overruled — correct!';sfx.good()};
-  }});
+    }});
+  });
 }
 
 /* ---------- end ---------- */
@@ -732,7 +843,7 @@ document.addEventListener('keydown',e=>{
     else if(st==='finalwager'&&!$('#wg')&&age>400){e.preventDefault();$('#cont').click()}
   }
 });
-stage.addEventListener('pointerdown',e=>{ if(G.paused)return; if(AC&&AC.state==='suspended')AC.resume() });
+stage.addEventListener('pointerdown',e=>{ if(G.paused)return; if(AC&&AC.state==='suspended')AC.resume(); Voice.unlock() });
 stage.addEventListener('click',e=>{
   const cat=e.target.closest('#set .board .cat');
   if(!cat)return;
@@ -767,6 +878,6 @@ if(AUTO){
     else if(st==='roundend'&&age>600)$('#cont').click();
   },200);
 }
-window.__G=G;window.__startRound=startRound;window.__loadShow=loadShow;window.__savePlayed=savePlayed;window.__readPlayed=readPlayed;window.__setPaused=setPaused;window.__togglePause=togglePause;window.__clearTimers=clearTimers;window.__openCatNote=openCatNote;window.__closeCatNote=closeCatNote;
+window.__G=G;window.__startRound=startRound;window.__loadShow=loadShow;window.__savePlayed=savePlayed;window.__readPlayed=readPlayed;window.__setPaused=setPaused;window.__togglePause=togglePause;window.__clearTimers=clearTimers;window.__openCatNote=openCatNote;window.__closeCatNote=closeCatNote;window.__Voice=Voice;
 intro();
 })();

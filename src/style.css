@@ -330,10 +330,10 @@ body:not([data-st=board]):not([data-st=picking]):not([data-st=ddsplash]) #ff{vis
 }
 @media (max-height:700px){.panel.intro .logo{font-size:min(11vw,8vh)}}
 
-/* pause: button sits beside the score, mirrored slot keeps the score centered */
+/* pause and voice-mute sit on either side of the score, keeping it centered */
 #hud .hudmid{display:flex;align-items:center;justify-content:center;gap:max(8px,1.4vmin);position:relative;z-index:1}
 #hud .hudmid .ic-slot{width:var(--ic);height:var(--ic);flex:none}
-#hud #pause.on{opacity:1;background:rgba(255,255,255,.16)}
+#hud #pause.on,#hud #vmute.on{opacity:1;background:rgba(255,255,255,.16)}
 .pauseov{position:absolute;left:0;right:0;top:0;bottom:0;z-index:15;display:flex;align-items:center;justify-content:center;background:rgba(2,6,40,.58);cursor:pointer;-webkit-tap-highlight-color:transparent}
 .pauseov[hidden]{display:none!important}
 .pauseov.quiet{background:transparent;pointer-events:none}
