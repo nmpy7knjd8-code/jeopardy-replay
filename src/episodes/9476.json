@@ -1,0 +1,995 @@
+{
+ "show": "#9587",
+ "aired": "2026-06-16",
+ "note": "Adam Remsen game 3.",
+ "contestants": [
+  {
+   "name": "Sarah McCleskey",
+   "bio": "an academic librarian from Astoria, New York",
+   "short": "Sarah"
+  },
+  {
+   "name": "Nabil Rahman",
+   "bio": "a government employee originally from Queens, New York",
+   "short": "Nabil"
+  },
+  {
+   "name": "Adam Remsen",
+   "bio": "an attorney and theater producer from Memphis, Tennessee (whose 2-day cash winnings total $35,801)",
+   "short": "Adam"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Adam": 8000,
+   "Nabil": 1600,
+   "Sarah": 3600
+  },
+  "DJ": {
+   "Adam": 28400,
+   "Nabil": 1600,
+   "Sarah": 6000
+  },
+  "Final": {
+   "Adam": 21800,
+   "Nabil": 1625,
+   "Sarah": 3300
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "FONTS: TYPOGRAPHICAL EDITION",
+    "NATURE",
+    "LET'S DUET",
+    "COLORFUL LANGUAGE",
+    "GO WITH THE FLOW",
+    "\"I\" LOVES \"U\""
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 29,
+     "q": "When this seller of furniture & in-store meatballs changed its catalog font to Verdana in 2009, a ruckus ensued among fans of the old font",
+     "a": "IKEA",
+     "right": [
+      "Adam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 20,
+     "q": "Milkweed, including the common type, is known for attracting these butterflies",
+     "a": "monarch butterflies",
+     "right": [
+      "Adam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 22,
+     "q": "Their \"It's Your Love\" was a big crossover hit",
+     "a": "Tim McGraw & Faith Hill",
+     "right": [
+      "Adam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 25,
+     "q": "Bill Clinton jokingly called this residence \"the crown jewel of the federal penal system\"",
+     "a": "the White House",
+     "right": [
+      "Sarah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 26,
+     "q": "Montana's Hell Roaring Creek is no joke--it's the most remote source of this more than 2,000-mile-long river",
+     "a": "Missouri",
+     "right": [
+      "Nabil"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 30,
+     "q": "This astrological sign is thought to be Ganymede, who was abducted by an eagle & became an Olympian cupbearer",
+     "a": "Aquarius",
+     "right": [
+      "Nabil"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 28,
+     "q": "To indicate letters printed without embellishments called serifs, many font names include this 4-letter French word for \"without\"",
+     "a": "sans",
+     "right": [
+      "Nabil"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 21,
+     "q": "It's the whale's equivalent of a nostril; toothed whales have one, while baleens have 2",
+     "a": "a blowhole",
+     "right": [
+      "Sarah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 4,
+     "q": "\"(I've Had) The Time Of My Life\" was Bill Medley & Jennifer Warnes' hit theme song from this film",
+     "a": "Dirty Dancing",
+     "right": [
+      "Adam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 24,
+     "q": "This U.S. Armed Forces honor instituted in 1782 was originally called the Badge of Military Merit",
+     "a": "Purple Heart",
+     "right": [
+      "Adam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 12,
+     "q": "England has a few rivers named this, derived from a Celtic word meaning \"river\"; one is near Stratford",
+     "a": "Avon",
+     "right": [
+      "Sarah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 13,
+     "q": "When one of these opened in a museum in the 1920s, it was described as \"a schoolroom under the vault of heaven\"",
+     "a": "a planetarium",
+     "right": [
+      "Adam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 9,
+     "q": "Typographer Max Miedinger, fittingly born in this country, designed the beloved typeface that later became Helvetica",
+     "a": "Switzerland",
+     "right": [
+      "Adam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 6,
+     "q": "Virginia creeper is often mistaken for this itchy rash-inducing plant but has 5 leaflets instead of 3",
+     "a": "poison ivy",
+     "right": [
+      "Adam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 3,
+     "q": "Her song \"Girl, So Confusing\" seemed aimed at Lorde, but plot twist, she did a version as a duet with Lorde--how brat!",
+     "a": "Charli XCX",
+     "right": [
+      "Sarah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 23,
+     "q": "It's 1970 & you need a plumber or psychic--where to look? An ad campaign said, \"Let your fingers do the walking\" through these",
+     "a": "the Yellow Pages",
+     "right": [
+      "Adam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": true,
+     "order": 17,
+     "q": "The Dong Nai & Ben Cat join this river, which still goes by its original name, unlike the former capital it flows through",
+     "a": "the Saigon River",
+     "right": [],
+     "wrong": [
+      "Nabil"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2200
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 15,
+     "q": "Loosely meaning a \"party of 3\", it describes the situationship of 3 Romans who were more frenemies than besties",
+     "a": "triumvirate",
+     "right": [
+      "Nabil"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 10,
+     "q": "Years before emojis, Microsoft released this emoji-esque font made up of symbols & gave it a Windows-influenced name",
+     "a": "Wingdings",
+     "right": [
+      "Nabil"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 7,
+     "q": "Keeping lemur populations in check, fossas are the largest carnivores on this island",
+     "a": "Madagascar",
+     "right": [
+      "Adam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 27,
+     "q": "The first dance after Jay-Z & Beyoncé wed? This fitting \"Love\" song from 2003 that featured him rapping & her singing",
+     "a": "\"Crazy In Love\"",
+     "right": [
+      "Nabil"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 1,
+     "q": "This nickname of heavyweight champ Joe Louis is inscribed on his headstone at Arlington National Cemetery",
+     "a": "the Brown Bomber",
+     "right": [
+      "Adam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 16,
+     "q": "This \"stately\" river forms part of the borders between Pennsylvania, New York & New Jersey",
+     "a": "Delaware",
+     "right": [
+      "Nabil"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 14,
+     "q": "The Schatzalp is the only one of these treatment centers mentioned by its real name in \"The Magic Mountain\"",
+     "a": "a sanitarium (sanitorium)",
+     "right": [
+      "Adam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 19,
+     "q": "Known as the Dunlap Broadsides, the 1st printed editions of this historic doc use Caslon typeface, ironically of British design",
+     "a": "the Declaration of Independence",
+     "right": [
+      "Sarah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 8,
+     "q": "Like certain animals, some mushrooms also have this ability to create & emit their own light & glow in the dark",
+     "a": "bioluminescence",
+     "right": [
+      "Adam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 5,
+     "q": "Ed Sheeran & Justin Bieber collabed on this ultimate anti-party song",
+     "a": "\"I Don't Care\"",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 2,
+     "q": "It's the name shared by a bloom of the Caryopteris genus seen here & a murderous fellow of a Charles Perrault fairy tale",
+     "a": "bluebeard",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 18,
+     "q": "The region surrounding this Thai river made famous in a 1957 movie is now a vibrant tourist area",
+     "a": "the River Kwai",
+     "right": [
+      "Adam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 11,
+     "q": "These drugs that might make you feel the motion of the ocean in your bladder are also known as \"water pills\"",
+     "a": "diuretics",
+     "right": [
+      "Sarah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "FONTS: BAPTISMAL EDITION",
+    "WRITERS' ALMA MATERS",
+    "WHOSE WHAT?",
+    "5-LETTER ADJECTIVES",
+    "ANCIENT NAMES",
+    "TELE- LIKE IT IS"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 30,
+     "q": "Like the one seen here in Verona, many Christian baptismal fonts have this shape symbolizing seven days of creation plus one of resurrection",
+     "a": "an octagon",
+     "right": [
+      "Sarah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 19,
+     "q": "It was probably inevitable that Stephenie Meyer, from a Mormon family, would attend this univ. where she studied English",
+     "a": "BYU",
+     "right": [
+      "Nabil"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 23,
+     "q": "Ending in slaughter, it took place June 25, 1876 along the banks of a river in southeastern Montana",
+     "a": "Custer's Last Stand",
+     "right": [
+      "Adam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 25,
+     "q": "It can mean not drunk or quiet in demeanor",
+     "a": "sober",
+     "right": [
+      "Adam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "This \"Father of Medicine\" considered olive oil a great healer & used it in many remedies",
+     "a": "Hippocrates",
+     "right": [
+      "Adam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 29,
+     "q": "One of the most popular of all telenovelas was Colombia's \"Yo soy Betty, la fea\", which became this American TV show",
+     "a": "Ugly Betty",
+     "right": [
+      "Sarah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 21,
+     "q": "As in Copenhagen's Church of Our Lady, many churches of this denomination place the font up front to emphasize baptism's importance",
+     "a": "Lutheran",
+     "right": [
+      "Adam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 17,
+     "q": "This \"Color Purple\" author attended Spelman College on a scholarship before transferring to Sarah Lawrence",
+     "a": "(Alice) Walker",
+     "right": [
+      "Nabil"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 22,
+     "q": "The subject of an \"Arrangement\", she had the maiden name Anna McNeill",
+     "a": "Whistler's Mother",
+     "right": [
+      "Adam"
+     ],
+     "wrong": [
+      "Nabil"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 24,
+     "q": "In chemistry it's the opposite of reactive",
+     "a": "inert",
+     "right": [
+      "Adam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 26,
+     "q": "Heads up! It was in a workshop once belonging to court sculptor Thutmose that her iconic bust was discovered in 1912",
+     "a": "Nefertiti",
+     "right": [
+      "Sarah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 28,
+     "q": "Anne Wood & Andrew Davenport originally created the screen-bellied Teletubbies for this network",
+     "a": "the BBC",
+     "right": [
+      "Adam"
+     ],
+     "wrong": [
+      "Nabil"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 20,
+     "q": "Bronze panels on the stunning baptismal font in Siena's Battistero di San Giovanni depict this saint's life over two millennia ago",
+     "a": "John the Baptist",
+     "right": [
+      "Nabil"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 12,
+     "q": "While attending this university to study law, Harper Lee wrote for the school paper The Crimson White",
+     "a": "the University of Alabama",
+     "right": [
+      "Adam"
+     ],
+     "wrong": [
+      "Nabil",
+      "Sarah"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": true,
+     "order": 9,
+     "q": "This Moscow landmark is also known as the Church of the Intercession on the Moat",
+     "a": "St. Basil's Cathedral",
+     "right": [
+      "Adam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 4000
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 4,
+     "q": "Found in a Dickens title, it means stark, dreary or depressing",
+     "a": "bleak",
+     "right": [
+      "Nabil"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 3,
+     "q": "In 399 B.C., by a vote of 280 to 221, he was found guilty of impiety & corrupting the youth of Athens",
+     "a": "Socrates",
+     "right": [
+      "Adam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 15,
+     "q": "In 1949, Hub Schlafly designed this device to help actors & speakers; he used it for the first time in 2008 at his Cable Hall of Fame induction",
+     "a": "a teleprompter",
+     "right": [
+      "Adam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 18,
+     "q": "Galileo was baptized here in the font of Italy's largest baptistry in this city's famous piazza where legend says he later dropped balls",
+     "a": "Pisa",
+     "right": [
+      "Adam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 11,
+     "q": "Pat Conroy's \"The Lords of Discipline\" was partly inspired by his time at this military college in Charleston, South Carolina",
+     "a": "the Citadel",
+     "right": [
+      "Adam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 8,
+     "q": "Unfortunately, there is no cure for this inflammatory condition that commonly affects the small & large intestines",
+     "a": "Crohn's disease",
+     "right": [
+      "Adam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 5,
+     "q": "This colorful adjective is used to describe both a lion's coat & a type of port wine",
+     "a": "tawny",
+     "right": [],
+     "wrong": [
+      "Nabil"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2800
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 2,
+     "q": "The prestigious Fields Medal for mathematics depicts him on one side & his sphere inscribed in a cylinder on the other",
+     "a": "Archimedes",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 14,
+     "q": "Characters in this Reginald Rose teleplay include Guard, Voice of the Judge & Juror No. 8",
+     "a": "12 Angry Men",
+     "right": [
+      "Adam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 16,
+     "q": "The baptismal font at this Dublin cathedral, neighbor to St. Patrick's, is said to contain every type of marble found in Ireland",
+     "a": "Christchurch",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 10,
+     "q": "We wonder if she burned the candle at both ends while studying at Vassar; she graduated in 1917",
+     "a": "Edna St. Vincent Millay",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 7,
+     "q": "Named for a playwright, it's the principle that every element introduced in a story should be relevant to the plot",
+     "a": "Chekhov's gun",
+     "right": [
+      "Adam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 6,
+     "q": "It means relating to the highest rank of British nobility or the territory that goes with it",
+     "a": "ducal",
+     "right": [
+      "Nabil"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 1,
+     "q": "Thucydides recorded & probably rewrote some of the funeral oration by this statesman to honor the dead of the Peloponnesian War",
+     "a": "Pericles",
+     "right": [
+      "Sarah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 13,
+     "q": "A high holiday time tradition in L.A. & beyond is watching the dancing rabbis on the telethon of this Orthodox Jewish movement",
+     "a": "Chabad",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "HOLLYWOOD NAMES",
+  "q": "He's got 12 Oscar nominations & 2 wins & a Henry Mancini Award from ASCAP & in 2018 received the German Order of Merit",
+  "a": "Hans Zimmer",
+  "right": [
+   "Nabil"
+  ],
+  "wrong": [
+   "Sarah",
+   "Adam"
+  ]
+ },
+ "gameId": "9476",
+ "cat_notes": {
+  "J": [
+   "Clues about Fonts: Typographical Edition.",
+   "Clues about Nature.",
+   "The category “LET'S DUET” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "Clues about Colorful Language.",
+   "Clues about Go with the Flow.",
+   "Each response here contains \"I-U\" in that order."
+  ],
+  "DJ": [
+   "Clues about Fonts: Baptismal Edition.",
+   "Clues about Writers Alma Maters.",
+   "The category “WHOSE WHAT?” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "Each answer is a 5-letter word or term related to 5-letter Adjectives.",
+   "Clues about Ancient Names.",
+   "Clues about Tele- Like It Is."
+  ],
+  "F": "Clues about Hollywood Names."
+ }
+}

@@ -1,0 +1,994 @@
+{
+ "show": "#9550",
+ "aired": "2026-04-24",
+ "note": "Jamie Ding game 31.",
+ "contestants": [
+  {
+   "name": "Nicco Martinez",
+   "bio": "an accountant originally from Columbus, Ohio",
+   "short": "Nicco"
+  },
+  {
+   "name": "Zach Pollock",
+   "bio": "a retired logistics executive from Media, Pennsylvania",
+   "short": "Zach"
+  },
+  {
+   "name": "Jamie Ding",
+   "bio": "a bureaucrat and law student from Lawrenceville, New Jersey (whose 30-day cash winnings total $849,603)",
+   "short": "Jamie"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Jamie": 9000,
+   "Zach": 2600,
+   "Nicco": 2400
+  },
+  "DJ": {
+   "Jamie": 33200,
+   "Zach": 6600,
+   "Nicco": 400
+  },
+  "Final": {
+   "Jamie": 33002,
+   "Zach": 7600,
+   "Nicco": 400
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "WORLD CAPITALS",
+    "MY FIRST NAME'S A VERB",
+    "SCI-FI TV",
+    "I WASN'T FAMILIAR WITH YOUR GAME",
+    "DOUBLE TALK",
+    "MARK TWAIN TRACKS"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 30,
+     "q": "In the treasury beneath Rosenborg Castle in this city, you can see the Danish crown jewels",
+     "a": "Copenhagen",
+     "right": [
+      "Nicco"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 23,
+     "q": "To throw:\nA New York senator",
+     "a": "chuck",
+     "right": [
+      "Nicco"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 26,
+     "q": "Kind of living up to its name, this anthology series premiered in 1959 as well as in 1985, 2002 & 2019",
+     "a": "The Twilight Zone",
+     "right": [
+      "Jamie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 29,
+     "q": "In this Hasbro game you have to sink 5 of your opponent's vessels before they sink yours",
+     "a": "Battleship",
+     "right": [
+      "Nicco"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 27,
+     "q": "In 1825 the state of New York spent $20,100 to buy the 130 acres that would become the site for this prison",
+     "a": "Sing Sing",
+     "right": [
+      "Nicco"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 28,
+     "q": "His final words in the book named for him say he's fleeing efforts to \"sivilize me, & I can't stand it. I been there before\"",
+     "a": "Huckleberry Finn",
+     "right": [
+      "Jamie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 25,
+     "q": "When its country reunited in 1990, so did this city, becoming the sole capital",
+     "a": "Berlin",
+     "right": [
+      "Jamie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 24,
+     "q": "To tap gently with your hand:\nBilly the Kid's final foe",
+     "a": "pat",
+     "right": [
+      "Zach"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 9,
+     "q": "Geoffrey Wright said, \"The hosts can't hurt you by design\" in this show; and everything worked out great, right?",
+     "a": "Westworld",
+     "right": [
+      "Jamie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 22,
+     "q": "The traditional Filipino game palo sebo involves climbing up a greased pole made of this treelike grass",
+     "a": "bamboo",
+     "right": [
+      "Jamie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 13,
+     "q": "The name of this North African dish often served with harissa is related to the Arabic for \"to pulverize\"",
+     "a": "couscous",
+     "right": [
+      "Nicco"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 21,
+     "q": "\"'He's good enough for one thing, I should judge--he can outjump any frog in\"' this geographic area",
+     "a": "Calaveras County",
+     "right": [
+      "Zach"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 15,
+     "q": "It's where you'll find the Museum of Cosmonautics",
+     "a": "Moscow",
+     "right": [
+      "Zach"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": true,
+     "order": 5,
+     "q": "To stab:\nA 007 actor",
+     "a": "Pierce Brosnan",
+     "right": [
+      "Jamie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1800
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 19,
+     "q": "From 2004 to 2009 Mary McDonnell was President Laura Roslin on this show that got frakkin' creative with its language",
+     "a": "Battlestar Galactica",
+     "right": [
+      "Zach"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 3,
+     "q": "You'll need 2 jump ropes plus some partners to play this game, & no, they needn't be from Holland",
+     "a": "Double Dutch",
+     "right": [
+      "Zach"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 10,
+     "q": "Double-talk dances include the cha cha & this Parisian one, a type of quadrille",
+     "a": "can-can",
+     "right": [
+      "Jamie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 7,
+     "q": "\"In one place in 'Deerslayer'\", this author \"has scored 114 offences against literary art out of a possible 115. It breaks the record\"",
+     "a": "James Fenimore Cooper",
+     "right": [
+      "Jamie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 1,
+     "q": "Cotopaxi volcano is located about 30 miles south of this capital that's on the slopes of a different volcano",
+     "a": "Quito",
+     "right": [
+      "Jamie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 8,
+     "q": "To move up & down repeatedly:\nJournalist winner of a 1973 Pulitzer Prize",
+     "a": "Bob Woodward",
+     "right": [
+      "Jamie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 17,
+     "q": "Perhaps Sydney Chandler can teach her dad, Kyle, how to get fluent in Xenomorph after starring in this 2025 series",
+     "a": "Alien: Earth",
+     "right": [],
+     "wrong": [
+      "Nicco"
+     ],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 6,
+     "q": "Also the title of a 2022 film, this triple-talk game similar to Mafia has you accusing your friends of murder",
+     "a": "Bodies Bodies Bodies",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 14,
+     "q": "We won't say it softly; this whooshing sound in the heart may cause shortness of breath or your lips to appear blue",
+     "a": "murmur",
+     "right": [
+      "Jamie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 12,
+     "q": "\"Mr. Wilson stood elected... within a week he had lost his first name\"; this one \"took its place\"",
+     "a": "Pudd'nhead",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 4,
+     "q": "A castle overlooking this town is home to the ruling prince of Liechtenstein",
+     "a": "Vaduz",
+     "right": [
+      "Jamie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 18,
+     "q": "British slang for steal:\nBritish actor Mohammed, who got his kicks as Nathan Shelley on \"Ted Lasso\"",
+     "a": "nick",
+     "right": [
+      "Nicco"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 16,
+     "q": "The crew on the Rocinante covered some ground flying from Syfy to Prime Video when this show got saved from cancellation in 2018",
+     "a": "The Expanse",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 11,
+     "q": "An Apple TV show with Anna Sawai shares its name with this Japanese game described as a cross between pinball & a slot machine",
+     "a": "pachinko",
+     "right": [
+      "Jamie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 2,
+     "q": "This Hawaiian dish is meat & fish wrapped in leaves & steamed or baked",
+     "a": "lau lau",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 20,
+     "q": "\"When she found the entire fence whitewashed, and... elaborately coated... her astonishment was almost unspeakable\"",
+     "a": "Aunt Polly",
+     "right": [
+      "Nicco"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "THEY COME TO AMERICA",
+    "\"SMALL\" TALK",
+    "AN INVITATION TO SCIENCE",
+    "FRENCH MOVIES",
+    "CLASSICAL MUSIC",
+    "5-LETTER HISTORY"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 29,
+     "q": "Comedian Maz Jobrani says Iranians like to reassure Americans, actually \"I am\" this, \"like the cat... like the rug\"",
+     "a": "Persian",
+     "right": [
+      "Zach"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 30,
+     "q": "It's what you might say when you run into someone unexpectedly, like at a theme park",
+     "a": "(it's a) small world",
+     "right": [
+      "Jamie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 25,
+     "q": "The bones of the shoulder include this one better known as the shoulder blade",
+     "a": "the scapula",
+     "right": [
+      "Nicco"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 21,
+     "q": "Jean Cocteau's \"La Belle et la Bête\" in 1946 was an adaptation of this fairy tale that was later adapted by Disney",
+     "a": "Beauty and the Beast",
+     "right": [
+      "Zach"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 18,
+     "q": "In Holst's \"The Planets\", this section is subtitled \"The Winged Messenger\"",
+     "a": "Mercury",
+     "right": [
+      "Nicco"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 28,
+     "q": "This term for the South of the United States was popularized by a song written in the 1850s",
+     "a": "Dixie",
+     "right": [
+      "Zach"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 23,
+     "q": "It has been called the USA's largest Mexican area, though Cheech Marin made a movie called \"Born...\" there",
+     "a": "East L.A.",
+     "right": [
+      "Zach"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 26,
+     "q": "No prescription is needed for these, the quantities in which you can proverbially enjoy something you don't really enjoy",
+     "a": "small doses",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 16,
+     "q": "This apparent force caused by Earth's rotation deflects winds to the right in the Northern Hemisphere, to the left in the South",
+     "a": "the Coriolis effect",
+     "right": [
+      "Zach"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 27,
+     "q": "Jean Dujardin starred in this, the first French-produced film to win Best Picture at the Oscars",
+     "a": "The Artist",
+     "right": [
+      "Jamie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 24,
+     "q": "The text of this Handel oratorio was arranged by Charles Jennens from the Bible; Isaiah supplied \"for unto us a child is born\"",
+     "a": "the Messiah",
+     "right": [
+      "Jamie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 20,
+     "q": "India's longest-serving prime minster, he held office from 1947 until his death in 1964",
+     "a": "Nehru",
+     "right": [
+      "Jamie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": true,
+     "order": 10,
+     "q": "In October 2025 the U.S. slashed refugee admissions by over 90% to 7,500 allowed in, most from this country",
+     "a": "South Africa",
+     "right": [],
+     "wrong": [
+      "Nicco"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 3200
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 8,
+     "q": "If it's sympathy you seek, avoid any person playing this 3-word instrument",
+     "a": "the world's smallest violin",
+     "right": [
+      "Nicco"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": true,
+     "order": 3,
+     "q": "Thanks to his 1729 book full of sexy pictures of spores, lichens & fungi, Pier Antonio Micheli has been called the father of this",
+     "a": "mycology",
+     "right": [
+      "Jamie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 3400
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 6,
+     "q": "Before winning an Oscar for playing Édith Piaf, she won a César for \"A Very Long Engagement\"",
+     "a": "Cotillard",
+     "right": [
+      "Jamie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 1,
+     "q": "Richard Strauss' \"Also Sprach Zarathustra\" was a nod to this countryman",
+     "a": "Nietzsche",
+     "right": [
+      "Nicco"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 19,
+     "q": "The first of these wars began in 1839 when British warships destroyed a Chinese blockade of the Pearl River at Hong Kong",
+     "a": "the Opium Wars",
+     "right": [
+      "Nicco"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 4,
+     "q": "Between 1978 & 1997 the U.S. took in 400,000 of these, a 2-word term from the transport they used fleeing Communist Vietnam",
+     "a": "boat people",
+     "right": [
+      "Jamie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 9,
+     "q": "If you're grateful for these, it means a bad situation could have been worse; they are the title of a 2023 Dennis Lehane novel",
+     "a": "small mercies",
+     "right": [],
+     "wrong": [
+      "Nicco"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 12,
+     "q": "DNA is composed of 4 nucleotide bases,\nadenine (A),\ncytosine (C),\nthymine (T) &\nthis (G)",
+     "a": "guanine",
+     "right": [
+      "Zach"
+     ],
+     "wrong": [
+      "Nicco"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 14,
+     "q": "\"Breathless\" & \"The 400 Blows\" are 2 of the most celebrated films of this movement",
+     "a": "the French New Wave",
+     "right": [
+      "Zach"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 2,
+     "q": "King Charles' 2023 coronation featured pomp, circumstance & music too, like from this Brit who was knighted in 1904",
+     "a": "Elgar",
+     "right": [
+      "Jamie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 7,
+     "q": "The first of 8 popes of this name reigned from 222 to 230 during the rule of Emperor Severus Alexander",
+     "a": "Urban",
+     "right": [
+      "Jamie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 11,
+     "q": "Polish American Heritage Month is Oct., death month of both Kosciuszko & this man with a bridge & a skyway named for him",
+     "a": "Pulaski",
+     "right": [
+      "Jamie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 22,
+     "q": "Konstantin Stanislavski often gets credit for this adage said when someone complains about playing third footman, with 1 line",
+     "a": "there are no small parts, only small actors",
+     "right": [
+      "Jamie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 17,
+     "q": "The length of the line reflects magnitude, & the arrow shows direction, for this type of quantity like acceleration",
+     "a": "a vector (quantity)",
+     "right": [
+      "Jamie"
+     ],
+     "wrong": [
+      "Zach"
+     ],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 15,
+     "q": "Her film \"Hors de prix\" was inspired by \"Breakfast at Tiffany's\"; she even has the same first name as that film's star",
+     "a": "Audrey Tautou",
+     "right": [
+      "Jamie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 5,
+     "q": "In 1840 this Hungarian composer created the modern piano recital, playing scores from memory",
+     "a": "Liszt",
+     "right": [
+      "Jamie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 13,
+     "q": "This conservative Israeli political party first came to power in 1977 with Menachem Begin as prime minister",
+     "a": "Likud",
+     "right": [
+      "Jamie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "THE LITERARY YEAR",
+  "q": "In 1954, on the 50th anniversary of this day, a group went to a Martello tower before going on a bender",
+  "a": "Bloomsday",
+  "right": [
+   "Zach"
+  ],
+  "wrong": [
+   "Nicco",
+   "Jamie"
+  ]
+ },
+ "gameId": "9433",
+ "cat_notes": {
+  "J": [
+   "Clues about World Capitals.",
+   "Clues about My First Name's a Verb.",
+   "Clues about Sci-fi TV.",
+   "The category “I WASN'T FAMILIAR WITH YOUR GAME” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "Clues about Double Talk.",
+   "Clues about Mark Twain Tracks."
+  ],
+  "DJ": [
+   "The category “THEY COME TO AMERICA” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "Each answer contains the letter group “SMALL”, and the clues are about Talk.",
+   "Clues about An Invitation to Science.",
+   "Clues about French Movies.",
+   "Clues about Classical Music.",
+   "Each answer is a 5-letter word or term related to 5-letter History."
+  ],
+  "F": "Clues about The Literary Year."
+ }
+}

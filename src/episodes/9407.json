@@ -1,0 +1,995 @@
+{
+ "show": "#9526",
+ "aired": "2026-03-23",
+ "note": "Jamie Ding game 7.",
+ "contestants": [
+  {
+   "name": "Erin Howard",
+   "bio": "a community membership facilitator from Shrewsbury, Massachusetts",
+   "short": "Erin"
+  },
+  {
+   "name": "Max Genecov",
+   "bio": "a clinical psychology Ph.D. student from Philadelphia, Pennsylvania",
+   "short": "Max"
+  },
+  {
+   "name": "Jamie Ding",
+   "bio": "a bureaucrat and law student from Lawrenceville, New Jersey (whose 6-day cash winnings total $162,203)",
+   "short": "Jamie"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Jamie": 11600,
+   "Max": 7200,
+   "Erin": 1800
+  },
+  "DJ": {
+   "Jamie": 28200,
+   "Max": 9800,
+   "Erin": 1400
+  },
+  "Final": {
+   "Jamie": 33000,
+   "Max": 15800,
+   "Erin": 2400
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "A PLACE IN HISTORY",
+    "NATO PHONETIC ALPHABET SUGGESTIONS",
+    "SUPER BOWL ADS",
+    "ANIMAL IDIOMS",
+    "SCIENCE AKAs",
+    "FITTING SPORTS NAMES"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 26,
+     "q": "Biographer Stuart N. Lake called the shootout at this place \"the key to the eminence of Wyatt Earp\"",
+     "a": "the O.K. Corral",
+     "right": [
+      "Erin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 28,
+     "q": "NATO may have an issue when we drop kilo; we gain speed with this maritime unit but the \"K\" being silent? Not optimal",
+     "a": "a knot",
+     "right": [
+      "Jamie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 30,
+     "q": "A 1992 Nike ad starring Michael Jordan & Bugs Bunny, aka \"Hare Jordan\", led to the birth of this movie franchise",
+     "a": "Space Jam",
+     "right": [
+      "Max"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 27,
+     "q": "The very obvious major problem wasn't even discussed, though we all knew it was this enormous herbivore amongst us",
+     "a": "the elephant in the room",
+     "right": [
+      "Jamie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 29,
+     "q": "Dry ice is what we commonly call the solid form of this gas",
+     "a": "carbon dioxide",
+     "right": [
+      "Jamie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 20,
+     "q": "In 2025 star quarterback Nico Iamaleava said I am a-leav-ing this school's Volunteers for UCLA",
+     "a": "Tennessee",
+     "right": [
+      "Erin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 24,
+     "q": "Cemetery Hill was the main site of the Union Army's artillery at this Civil War battle in July 1863",
+     "a": "Gettysburg",
+     "right": [
+      "Max"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 7,
+     "q": "\"L\" used to land in Lima but now touches down in this world capital, home to the Castelo de São Jorge",
+     "a": "Lisbon",
+     "right": [
+      "Max"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 21,
+     "q": "In 2003 this company's ad offered a humorous take on the ending of the movie \"Cast Away\"",
+     "a": "FedEx",
+     "right": [
+      "Max"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 22,
+     "q": "What seemed simple has turned into a complex problem, like one of these containers of annelids",
+     "a": "a can of worms",
+     "right": [
+      "Max"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 23,
+     "q": "Before it was widely used in medicine, nitrous oxide, aka this, was used for fun & recreation",
+     "a": "laughing gas",
+     "right": [
+      "Erin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 25,
+     "q": "In 1998 Kansas state's Nathan Leeper won this event at the NCAA men's outdoor championships with just under 7 1/2'",
+     "a": "the high jump",
+     "right": [
+      "Erin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 16,
+     "q": "Seven popes would reign from this city on the Rhône River after Pope Clement V moved the seat of the papacy there in 1309",
+     "a": "Avignon",
+     "right": [
+      "Max"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 12,
+     "q": "We go from a Greek letter, delta, to this Greek god who was carried to term in the thigh of his dad, Zeus; no wonder he liked wine",
+     "a": "Dionysus",
+     "right": [
+      "Max"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 5,
+     "q": "Oscar winner Taika Waititi directed \"Last Harvest\", a tearjerking 2026 ad for this snack brand",
+     "a": "Lay's",
+     "right": [
+      "Erin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 2,
+     "q": "At the comedy show I was seated in the front row, like this defenseless fowl",
+     "a": "a sitting duck",
+     "right": [
+      "Jamie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 19,
+     "q": "Because of its similar appearance, iron pyrite is also called by this two-word name",
+     "a": "fool's gold",
+     "right": [
+      "Jamie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 15,
+     "q": "How have we aired a dozen clues about this all-time top scorer for the NBA's Spurs & missed that his name is perfect for his sport?",
+     "a": "Duncan",
+     "right": [
+      "Max"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 6,
+     "q": "In 1900 churches & homes of foreign-born people in Beijing were burned during this rebellion",
+     "a": "the Boxer Rebellion",
+     "right": [
+      "Jamie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 1,
+     "q": "Trot off, foxtrot! \"F\" takes to the sea with this flatfish that's born with an eye on each side but soon has one move to the top",
+     "a": "flounder",
+     "right": [
+      "Jamie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 18,
+     "q": "Called the G.O.A.T. of Super Bowl ads, the commercial in which Apple unveiled the Macintosh was inspired by this novel",
+     "a": "1984",
+     "right": [
+      "Max"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": true,
+     "order": 11,
+     "q": "I love it when I get this largest portion of something, as would befit a savanna predator",
+     "a": "the lion's share",
+     "right": [
+      "Jamie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 4200
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 9,
+     "q": "Despite its alternate name, the Seven Sisters, this cluster is actually made up of more than 1,000 stars",
+     "a": "the Pleiades",
+     "right": [
+      "Max"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 3,
+     "q": "It's a good name for a ball player, but as a reporter noted regarding Mr. Bailey of the Reds, not so much for a pitcher",
+     "a": "Homer",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 8,
+     "q": "On an island in the middle of Lake Texcoco, the place then known as this was captured by the Tlaxcaltec & the Spanish in 1521",
+     "a": "Tenochtitlan",
+     "right": [
+      "Jamie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 17,
+     "q": "It used to take \"T\" to tango, but now it's this, a Russian vehicle drawn by 3 horses",
+     "a": "a troika",
+     "right": [
+      "Max"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 13,
+     "q": "Titled \"Brotherhood\", a 2013 ad from Budweiser tracked the bond between a trainer & a horse of this breed",
+     "a": "Clydesdale",
+     "right": [
+      "Max"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 4,
+     "q": "I'm pretty sure he's only skilled in a single area as one of these equines",
+     "a": "a one-trick pony",
+     "right": [
+      "Jamie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 14,
+     "q": "Tetanus is also known as this because of what it does to muscles around the mouth",
+     "a": "lockjaw",
+     "right": [
+      "Jamie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 10,
+     "q": "Played by Christian Bale on film, Ken Miles covered hundreds of miles for this team that beat Ferrari at Le Mans",
+     "a": "Ford",
+     "right": [
+      "Jamie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "HIS WIDOW LIVED ON",
+    "PCI: POP CULTURE INITIALS",
+    "A BIT OF LIT",
+    "MIDDLE \"C\"",
+    "MEXICAN GEOGRAPHY",
+    "FAREWELLS"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 22,
+     "q": "In a 2020 movie Linda Cardellini plays Mae, this gangster's widow, caring for him in his final illness; Mae lived until 1986",
+     "a": "(Al) Capone",
+     "right": [
+      "Max"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 30,
+     "q": "It was the \"A.P.\" in the crabby-teacher sitcom \"A.P. Bio\"",
+     "a": "Advanced Placement",
+     "right": [
+      "Jamie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "Adultery, astrology, gullible carpenters & mooning can all be found in the \"Miller's Tale\" in this 14th century work",
+     "a": "The Canterbury Tales",
+     "right": [
+      "Max"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 28,
+     "q": "It's a legal term for theft, petit ou non",
+     "a": "larceny",
+     "right": [
+      "Jamie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 25,
+     "q": "Three connected ranges of these mountains form a backbone through Mexico",
+     "a": "Sierra Madre",
+     "right": [
+      "Jamie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 29,
+     "q": "Urging isolationism, in September of 1796 this man published his farewell address to the American people",
+     "a": "George Washington",
+     "right": [
+      "Jamie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 20,
+     "q": "\"Samurai Widow\" is a book by the former Judith Jacklin, who met this original \"SNL\" cast member in high school in Wheaton, Illinois",
+     "a": "John Belushi",
+     "right": [
+      "Erin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 23,
+     "q": "You didn't want to get in Harm's way (Harm was played by David James Elliott) on this military law show",
+     "a": "JAG",
+     "right": [
+      "Max"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 21,
+     "q": "The creator of \"Hey Arnold!\" said the show was influenced by this 2-word Latin American literary genre",
+     "a": "magical realism",
+     "right": [
+      "Jamie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 24,
+     "q": "It's a fancy word for chewing",
+     "a": "mastication",
+     "right": [
+      "Jamie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 10,
+     "q": "Mexico's 2 largest peninsulas, they are found on opposite sides of the country",
+     "a": "Baja California & Yucatán",
+     "right": [
+      "Jamie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 26,
+     "q": "In the hilarious 1930s, this other name for Ethiopia was used to say goodbye",
+     "a": "Abyssinia",
+     "right": [
+      "Erin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": true,
+     "order": 11,
+     "q": "Almost 30 yrs. after this author's death, his widow Elaine befriended Bruce Springsteen around when he made \"The Ghost of Tom Joad\"",
+     "a": "Steinbeck",
+     "right": [
+      "Jamie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 4200
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 8,
+     "q": "This 2001 film that's feeling relevant these days was once called \"the best fairy tale Mr. Spielberg has made\"",
+     "a": "A.I. Artificial Intelligence",
+     "right": [
+      "Jamie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 2,
+     "q": "This Elizabethan man wrote of a very forward shepherd asking someone to \"Come live with me & be my love\"",
+     "a": "Christopher Marlowe",
+     "right": [],
+     "wrong": [
+      "Max"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 14,
+     "q": "It's a political philosophy deriving its name from the Latin word for \"a bundle of sticks\"",
+     "a": "fascism",
+     "right": [
+      "Max"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 6,
+     "q": "Showcased in a 2018 movie by Alfonso Cuarón, it's the name for a trendy neighborhood near the center of Mexico City",
+     "a": "Roma",
+     "right": [
+      "Max"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 3,
+     "q": "Juliet follows her \"Good night\" to Romeo with this famous 5-word thought",
+     "a": "Parting is such sweet sorrow",
+     "right": [
+      "Max"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 1,
+     "q": "The former Mary Anna Morrison lost her husband, this Confederate general, after an 1863 battle & defended his honor as late as 1911",
+     "a": "(Stonewall) Jackson",
+     "right": [
+      "Max"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 13,
+     "q": "A reboot of both a '70s TV series & a 2003 film, this acronym-titled drama ran for eight seasons & shared a TV universe with \"The Shield\"",
+     "a": "S.W.A.T.",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 17,
+     "q": "Aldous Huxley used this 4-letter word for a mind-numbing drug in \"Brave New World\"",
+     "a": "soma",
+     "right": [
+      "Jamie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 9,
+     "q": "It's who the old sheriff in town is, vis-à-vis the new sheriff in town",
+     "a": "the predecessor",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 16,
+     "q": "This southern Mexican state is known for the Mayan ruins of Palenque & Bonampak & as the site of the Zapatista uprising",
+     "a": "Chiapas",
+     "right": [],
+     "wrong": [
+      "Max"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 7000
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 4,
+     "q": "A Roman farewell was \"ave atque\" this word, pronounced as 2 syllables",
+     "a": "vale",
+     "right": [
+      "Jamie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 19,
+     "q": "This physicist whose name is a unit of frequency died in his 30s in 1894; his widow lived to be forced to flee Nazi Germany",
+     "a": "Hertz",
+     "right": [
+      "Max"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 15,
+     "q": "Short for \"formerly known as\", the initials in this stage name of singer Tahliah Barnett were added in response to a legal dispute",
+     "a": "FKA Twigs",
+     "right": [
+      "Max"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 7,
+     "q": "\"Dawn\" & \"Adulthood Rites\" are 2 books in the \"Xenogenesis\" series by this Black sci-fi author from Pasadena",
+     "a": "(Octavia) Butler",
+     "right": [
+      "Max"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 5,
+     "q": "Kinda sticky (physically speaking) or kinda icky (aesthetically speaking)",
+     "a": "tacky",
+     "right": [
+      "Jamie"
+     ],
+     "wrong": [
+      "Erin"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 18,
+     "q": "Alphabetically, Mexico's states run from Aguascalientes in the center to this \"Z\" one to the north",
+     "a": "Zacatecas",
+     "right": [],
+     "wrong": [
+      "Max"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 12,
+     "q": "Fan fiction from 1699 about this son of Odysseus romping with a nymph inspired David's painting of their farewell",
+     "a": "Telemachus",
+     "right": [
+      "Jamie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "HISTORIC AMERICANS",
+  "q": "Before taking office in 1801, President Jefferson asked the Army to locate this officer who had \"knowledge of the Western country\"",
+  "a": "(Meriwether) Lewis",
+  "right": [
+   "Erin",
+   "Max",
+   "Jamie"
+  ],
+  "wrong": []
+ },
+ "gameId": "9407",
+ "cat_notes": {
+  "J": [
+   "Clues about A Place in History.",
+   "Clues about Nato Phonetic Alphabet Suggestions.",
+   "Clues about Super Bowl Ads.",
+   "Clues about Animal Idioms.",
+   "Clues about Science Akas.",
+   "Clues about Fitting Sports Names."
+  ],
+  "DJ": [
+   "Clues about His Widow Lived On.",
+   "Clues about Pci: Pop Culture Initials.",
+   "Clues about A Bit of Lit.",
+   "The letter C will be in the exact center of each response here.",
+   "Clues about Mexican Geography.",
+   "Clues about Farewells."
+  ],
+  "F": "Clues about Historic Americans."
+ }
+}

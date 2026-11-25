@@ -1,0 +1,994 @@
+{
+ "show": "#9571",
+ "aired": "2026-05-25",
+ "note": "Chris D'Angelo game 4.",
+ "contestants": [
+  {
+   "name": "Jack Kelly",
+   "bio": "a Ph.D. student from Cambridge, Massachusetts",
+   "short": "Jack"
+  },
+  {
+   "name": "Veronica Matthews",
+   "bio": "an after school science instructor originally from Martinez, California",
+   "short": "Veronica"
+  },
+  {
+   "name": "Chris D'Angelo",
+   "bio": "a content manager from Washington, D.C. (whose 3-day cash winnings total $53,600)",
+   "short": "Chris"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Chris": 8600,
+   "Veronica": 800,
+   "Jack": 1400
+  },
+  "DJ": {
+   "Chris": 25200,
+   "Veronica": 4000,
+   "Jack": 7000
+  },
+  "Final": {
+   "Chris": 30000,
+   "Veronica": 3269,
+   "Jack": 8001
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "\"C\", THE CITY",
+    "BESTSELLERS",
+    "IN STITCHES",
+    "PICTURE THE FILM",
+    "THINGS PEOPLE SAY",
+    "RED, RED WINE"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 20,
+     "q": "An obelisk located in the northeast of this big city memorializes the ancient site of Heliopolis",
+     "a": "Cairo",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [
+      "Veronica"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 30,
+     "q": "Gregory Maguire turned \"Wicked\" into a bestselling 4-book series concluding with the aptly titled \"Out of\" this place",
+     "a": "Oz",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 29,
+     "q": "To close a wound, from trauma or surgery, you might get stitches, which are actually called these, sterile surgical threads",
+     "a": "sutures",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 22,
+     "q": "A 1960s Clint Eastwood Classic",
+     "a": "A Fistful of Dollars",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 24,
+     "q": "Tense situations can be resolved when these, seen here, prevail",
+     "a": "cooler heads",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 27,
+     "q": "Translated as \"chicken with wine\", this French dish is commonly made with a burgundy",
+     "a": "coq au vin",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 19,
+     "q": "If you travel by sea to this, Morocco's main port city, you can take a train from there to Tangier",
+     "a": "Casablanca",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 25,
+     "q": "Walter Isaacson's latest book unpacks the sentence that begins, \"We hold these truths to be self-evident that\" these 5 words",
+     "a": "all men are created equal",
+     "right": [
+      "Jack"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 28,
+     "q": "The hide of a regulation one of these has 108 double stitches, helping with aerodynamics",
+     "a": "a baseball",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 21,
+     "q": "A recent multi-Oscar-winning film",
+     "a": "One Battle After Another",
+     "right": [
+      "Jack"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 23,
+     "q": "A twist on this old simile that changes the meaning is \"last night I\" did this--\"I woke up every 2 hours & cried\"",
+     "a": "slept like a baby",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 26,
+     "q": "You've heard of the \"white\" (actually pink) version of this end-of-the-alphabet wine, but the red is a rich match for meats",
+     "a": "a zinfandel",
+     "right": [
+      "Veronica"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 1,
+     "q": "They're the 2 cities that have served as South Carolina's capital",
+     "a": "Columbia & Charleston",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 13,
+     "q": "Stephen King based the misspelling of this 1983 book title on a sign created by local kids for an animal burial ground near his home",
+     "a": "Pet Sematary",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 18,
+     "q": "\"Stitches\" was a hit off his full-length debut \"Handwritten\", a No. 1 album in 2015 when he was just 16",
+     "a": "(Shawn) Mendes",
+     "right": [
+      "Jack"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 10,
+     "q": "A 2003 comedy with Will Ferrell",
+     "a": "Old School",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 12,
+     "q": "From the snowy slopes, if you \"get out over\" these, you've acted hastily or prematurely",
+     "a": "your skis",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 9,
+     "q": "In \"Sideways\" Paul Giamatti couldn't stomach this wine, saying, \"If anybody orders\" it, \"I'm leaving!\"",
+     "a": "merlot",
+     "right": [
+      "Veronica"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": true,
+     "order": 2,
+     "q": "In Northern Mexico, a capital city, a state & a desert all have this name",
+     "a": "Chihuahua",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1000
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 14,
+     "q": "\"The great fish moved silently through the night water\", begins this classic that celebrated its 50th anniversary in 2024",
+     "a": "Jaws",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 5,
+     "q": "This piece of cloth gets its name because it displays a variety of stitches to show off skill at needlework",
+     "a": "a sampler",
+     "right": [],
+     "wrong": [
+      "Chris",
+      "Veronica"
+     ],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 8,
+     "q": "A dramedy",
+     "a": "Jojo Rabbit",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 4,
+     "q": "A play that dramatically shifts the fortunes in a sporting contest, or a strategy that radically alters the course of a business",
+     "a": "a game changer",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 11,
+     "q": "Try a Spanish Garnacha or Rioja for this fruity wine punch whose name comes from the Spanish for \"blood\"",
+     "a": "sangria",
+     "right": [
+      "Veronica"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 3,
+     "q": "\"Doctor Who\" fans know that this Welsh city is the home base for production",
+     "a": "Cardiff",
+     "right": [
+      "Jack"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 15,
+     "q": "This Charles Frazier novel tells of Inman, a wounded Confederate soldier who takes a long walk home to his beloved",
+     "a": "Cold Mountain",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 16,
+     "q": "This 5-letter word is used for an ancient parchment manuscript; its pages are held together by stitching",
+     "a": "codex",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 7,
+     "q": "It ranks as one of Charlie Chaplin's greatest films",
+     "a": "City Lights",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 6,
+     "q": "A word that implies more in a sentence than it plainly says is \"doing\" this--hope it doesn't injure its back",
+     "a": "some heavy lifting",
+     "right": [],
+     "wrong": [
+      "Chris",
+      "Jack"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 17,
+     "q": "The Gamay grapes that go into this \"nouveau\" are celebrated with a release on the third Thursday of November at 12:01",
+     "a": "Beaujolais",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "PUBLIC HEALTH FIRSTS",
+    "COASTAL TV",
+    "THE BIBLE",
+    "ACRONYMS & INITIALISMS",
+    "PUTTING ON THE \"RIS\"",
+    "RED, RED WHINE"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 29,
+     "q": "In May 2025 the FDA approved the first blood test for adults 55 & up with cognitive decline, a tool for detecting early signs of this",
+     "a": "Alzheimer's",
+     "right": [
+      "Jack"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 30,
+     "q": "This USA series whose title is what lawyers wear & what lawyers file was rebooted for a one-season \"LA\" version on NBC",
+     "a": "Suits",
+     "right": [
+      "Veronica"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "As recounted in Matthew 5, this oration contains the admonition to turn the other cheek & not seek revenge after an injury",
+     "a": "the Sermon on the Mount",
+     "right": [
+      "Jack"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 26,
+     "q": "In 1904 Spain & France were among the founding nations to establish this, soccer's world governing body",
+     "a": "FIFA",
+     "right": [
+      "Veronica"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "Typically made of glass, one of these separates white light into a spectrum",
+     "a": "a prism",
+     "right": [
+      "Veronica"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 28,
+     "q": "We imagine Stalin & his entourage were not happy about the long bathroom lines at this Crimean conference in 1945",
+     "a": "Yalta",
+     "right": [
+      "Jack"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 25,
+     "q": "In November 2025 the Maldives enforced the world's first-ever \"generational ban\", barring anyone born after 2006 from ever doing this",
+     "a": "smoking",
+     "right": [],
+     "wrong": [
+      "Veronica"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 24,
+     "q": "Featuring an epic JWoww meltdown, a Season 1 episode of \"Jersey Shore\" is \"What Happens in AC\", this place",
+     "a": "Atlantic City",
+     "right": [
+      "Veronica"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 1,
+     "q": "Benjamin Netanyahu's Bar Mitzvah portion covered this aged king's sex life in 1 Kings",
+     "a": "King David",
+     "right": [],
+     "wrong": [
+      "Chris"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 23,
+     "q": "SOTU is short for this, though there was nothing short about the one on February 24, 2026 that lasted 1 hour & 47 minutes",
+     "a": "the State of the Union",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 21,
+     "q": "It's Brit speak for a lawyer who's licensed to practice in the higher courts",
+     "a": "barrister",
+     "right": [
+      "Jack"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 20,
+     "q": "During a visit to Southern California, Nikita Khrushchev exploded with anger when he learned he could not visit this magical place",
+     "a": "Disneyland",
+     "right": [
+      "Veronica"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 22,
+     "q": "In 2025, after a years-long effort by Governor Michelle Lujan Grisham, it became the first state to offer free universal childcare",
+     "a": "New Mexico",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 13,
+     "q": "On this Miami-set show, a former Hurricane named Dwayne played an ex-NFL star turned advisor to younger players",
+     "a": "Ballers",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 4,
+     "q": "The progenitors of the Tribes of Israel, Jacob's 12 sons were born to this pair of sisters & their maidservants",
+     "a": "Leah & Rachel",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 7,
+     "q": "Required on all new cars, the Monroney label includes this initialism, how much the automaker recommends charging for the vehicle",
+     "a": "MSRP",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 17,
+     "q": "Some older books may have this 2-word Latin phrase inscribed in them before the name of the previous owner",
+     "a": "ex libris",
+     "right": [
+      "Jack"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 16,
+     "q": "Fidel Castro quit these for a health campaign but whined that he was \"not going to pretend that I stopped dreaming\" about them",
+     "a": "cigars",
+     "right": [
+      "Veronica"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 3,
+     "q": "An alternative to the Pap smear, the Teal Wand is the first device that's FDA-approved to screen at home for this type of cancer",
+     "a": "cervical",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 14,
+     "q": "On this Netflix show the exteriors of the nursing home Ted Danson infiltrates are shot in San Francisco's Nob Hill area",
+     "a": "A Man on the Inside",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 5,
+     "q": "This book whose name means \"expressions of sorrow\" is read on the ninth of Av, a Jewish observance marking the Temples' destruction",
+     "a": "Lamentations",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 4400
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 8,
+     "q": "Haribo, maker of those yummy gummi candies is an acronym for its founder, Hans Riegel of this German city",
+     "a": "Bonn",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 3800
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 12,
+     "q": "Bread & wine are used in this sacrament, from a Greek word meaning \"thanksgiving\"",
+     "a": "Eucharist",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 18,
+     "q": "This man told his allies the North Vietnamese that \"Kissinger is a stinking scholar\" 2 years before meeting him in 1972",
+     "a": "Mao Zedong",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [
+      "Jack"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 11,
+     "q": "Docs in 2025 performed the first-ever transplant of this organ attached to the kidneys, a complex surgery deep inside the pelvis",
+     "a": "bladder",
+     "right": [],
+     "wrong": [
+      "Chris"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 15,
+     "q": "The sitcom \"Best Medicine\" with Josh Charles as Martin Best, newly moved to coastal Maine, is based on this British show",
+     "a": "Doc Martin",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 6,
+     "q": "The book of Luke says that Jesus ascended into heaven at this village outside Jerusalem where his friend Lazarus lived",
+     "a": "Bethany",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 9,
+     "q": "A mental health condition, SAD is an apt acronym for this, arising at certain times of year",
+     "a": "seasonal affective disorder",
+     "right": [
+      "Jack"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 10,
+     "q": "In Greek tragedy this type of excessive pride or self-confidence in defiance of the gods leads to many a hero's downfall",
+     "a": "hubris",
+     "right": [
+      "Jack"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 19,
+     "q": "In 1972, this world leader whined that a concentration of capital in Serbia led to distrust in the five other republics",
+     "a": "Tito",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "SOUTHERN AFRICA",
+  "q": "Called the \"Calendar Lake\" because it's about 365 miles long & 52 miles wide, it shares its name with a country",
+  "a": "Lake Malawi",
+  "right": [
+   "Jack",
+   "Chris"
+  ],
+  "wrong": [
+   "Veronica"
+  ]
+ },
+ "gameId": "9460",
+ "cat_notes": {
+  "J": [
+   "Each answer starts with “C”.",
+   "Clues about Bestsellers.",
+   "Clues in Stitches.",
+   "Clues about Picture the Film.",
+   "Clues about Things People Say.",
+   "Clues about Red, Red Wine."
+  ],
+  "DJ": [
+   "Clues about Public Health Firsts.",
+   "Clues about Coastal TV.",
+   "Clues about The Bible.",
+   "Clues about Acronyms and Initialisms.",
+   "Each answer contains the letter group “RIS”, and the clues are about Putting on The.",
+   "Clues about Red, Red Whine."
+  ],
+  "F": "Clues about Southern Africa."
+ }
+}

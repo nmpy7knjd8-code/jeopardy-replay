@@ -1,0 +1,999 @@
+{
+ "show": "#9426",
+ "aired": "2025-11-03",
+ "note": "",
+ "contestants": [
+  {
+   "name": "Joyelle McSweeney",
+   "bio": "a poet and English professor from South Bend, Indiana",
+   "short": "Joyelle"
+  },
+  {
+   "name": "W.A. Robison",
+   "bio": "a retired educator from Natchitoches, Louisiana",
+   "short": "W.A."
+  },
+  {
+   "name": "Christopher Tillman",
+   "bio": "a pastor from Plover, Wisconsin (whose 2-day cash winnings total $25,600)",
+   "short": "Christopher"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Christopher": 400,
+   "W.A.": 3600,
+   "Joyelle": 4800
+  },
+  "DJ": {
+   "Christopher": 2800,
+   "W.A.": 4800,
+   "Joyelle": 17600
+  },
+  "Final": {
+   "Christopher": 799,
+   "W.A.": 3999,
+   "Joyelle": 17700
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "SPORTS THAT DON'T INVOLVE RUNNING",
+    "WHAT'S THE NAME?",
+    "GOING THE EXTRA MILE",
+    "COMPOUND WORDS",
+    "TO EARN THE SCOUTING MERIT BADGE...",
+    "GOOD MORNING AMERICA: 50 YEARS OF NEWS"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "No running near the pool! Save your energy for this swimming stroke with an insect name; you'll need your legs to dolphin kick",
+     "a": "the butterfly",
+     "right": [
+      "Joyelle"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 18,
+     "q": "Like a cheeseburger, but with onions & on rye bread:\n____ melt",
+     "a": "patty",
+     "right": [
+      "Christopher"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 26,
+     "q": "Make it to Camp III at 23,600 feet on the Lhotse face & you've got about another mile of elevation to go to reach this summit",
+     "a": "Everest",
+     "right": [
+      "W.A."
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 2,
+     "q": "It can mean an overwhelming election victory, or an avalanche",
+     "a": "a landslide",
+     "right": [
+      "Joyelle"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 14,
+     "q": "\"Discuss the differences between the opening, the middle game, & the endgame... explain the 4 rules for castling\"",
+     "a": "chess",
+     "right": [
+      "Christopher"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 21,
+     "q": "(Robin Roberts presents the clue.) In 1996, the craze for this \"Sesame Street\" toy was in full swing, with a Tyco publicist saying, \"By 10 a.m. on Black Friday, every one of them was gone\"",
+     "a": "Tickle Me Elmo",
+     "right": [
+      "Joyelle"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 11,
+     "q": "A rare archery feat in which one arrow splits another that's already lodged in the target is named after this storied outlaw",
+     "a": "Robin Hood",
+     "right": [
+      "Joyelle"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 9,
+     "q": "Ready to go:\n____ on the spot",
+     "a": "Johnny",
+     "right": [
+      "Christopher"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 25,
+     "q": "Attention in the cabin! We've just crossed this river & will be landing at Orly in about a mile",
+     "a": "the Seine",
+     "right": [
+      "Joyelle"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 5,
+     "q": "Comic Sans or Times New Roman, for example",
+     "a": "a typeface",
+     "right": [
+      "Christopher"
+     ],
+     "wrong": [
+      "Joyelle"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 13,
+     "q": "\"Explain what a family tree is & what information would be kept there\"",
+     "a": "genealogy",
+     "right": [
+      "Joyelle"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 22,
+     "q": "(Michael Strahan presents the clue.) On a chilly February morning on February in 2012, I was a guest of honor at this Super Bowl winning team's New York City ticker-tape parade; I'd been there before as a member of the same team in 2008",
+     "a": "the New York Football Giants",
+     "right": [
+      "Christopher"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": true,
+     "order": 10,
+     "q": "olympics.com describes this sport as \"formerly the world's major form of long-distance trade and transport\"",
+     "a": "sailing",
+     "right": [],
+     "wrong": [
+      "Christopher"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2400
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 17,
+     "q": "Act the clown:\n____foolery",
+     "a": "tom",
+     "right": [
+      "Joyelle"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 27,
+     "q": "The 1869 sketch seen here shows European & Asian laborers working to complete the last mile of this",
+     "a": "the transcontinental railroad",
+     "right": [
+      "Christopher"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 6,
+     "q": "From their uniforms, British soldiers during the Revolutionary War were called these",
+     "a": "Redcoats",
+     "right": [
+      "Christopher"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 20,
+     "q": "\"Prepare a 3- to 5-minute talk on a topic of your choice that incorporates body language & visual aids\"",
+     "a": "public speaking",
+     "right": [
+      "Joyelle"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 30,
+     "q": "(Robin Roberts presents the clue.) A 1984 ad that exemplified the Reagan re-election campaign said it's this 4-word phrase that we gotta love at GMA since two of the words are in our show's name",
+     "a": "morning again in America",
+     "right": [],
+     "wrong": [
+      "Joyelle"
+     ],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 8,
+     "q": "Smaller than half a square inch, the triple 20 is the highest-value subsection of the board in this sport",
+     "a": "darts",
+     "right": [
+      "W.A."
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 15,
+     "q": "Totally excellent:\n____ -dandy",
+     "a": "Jim",
+     "right": [
+      "Joyelle"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "\"The Royal Mile\" winds from Holyroodhouse through this city's Old Town to its elevated castle",
+     "a": "Edinburgh",
+     "right": [
+      "W.A."
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 4,
+     "q": "In 2 Kings 2, it's what takes Elijah up to heaven",
+     "a": "a whirlwind",
+     "right": [
+      "W.A."
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 19,
+     "q": "Using a vessel \"with an open cockpit, a sit-on-top\" or an \"inflatable\" model, \"safely capsize & perform a wet exit\"",
+     "a": "kayaking",
+     "right": [],
+     "wrong": [
+      "W.A."
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 24,
+     "q": "(George Stephanopoulos presents the clue.) On the morning of June 29, 1995, the world was in awe as this alphabetically first space shuttle began its docking procedure with the Mir Space Station",
+     "a": "the Atlantis",
+     "right": [
+      "W.A."
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 7,
+     "q": "2024 Olympics fans went nuts for Yusuf Dikeç, a silver medalist in shooting from this country",
+     "a": "Turkey",
+     "right": [
+      "Christopher"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 12,
+     "q": "It hangs from a plumb line:\nplumb ____",
+     "a": "bob",
+     "right": [
+      "W.A."
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 28,
+     "q": "In the 1920s, Chicago began building the soaring stretch of Michigan Avenue known by this grandiloquent & alliterative name",
+     "a": "the Magnificent Mile",
+     "right": [
+      "Joyelle"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 3,
+     "q": "Something very small or a word modifying \"accuracy\"; as 2 words, it's the Georgia hamlet where Clarence Thomas was born",
+     "a": "pinpoint",
+     "right": [
+      "Joyelle"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 16,
+     "q": "\"Find & examine 3 stumps, logs, or core samples that show variations in the growth rate of their ring patterns\"",
+     "a": "forestry",
+     "right": [],
+     "wrong": [
+      "Christopher",
+      "Joyelle"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 23,
+     "q": "(George Stephanopoulos presents the clue.) In the early hours of August 31, 1997, Diana, Princess of Wales, died in a car crash in Paris along with this man, the son of the owner of Harrods department stores",
+     "a": "Dodi Al-Fayed",
+     "right": [
+      "Joyelle"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "17th CENTURY HAPPENINGS",
+    "\"M.W.\"",
+    "AMERICAN AUTHORS",
+    "MARTIAL ARTS",
+    "GREAT SONGS",
+    "THE ANIMAL KINGDOM"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 17,
+     "q": "At age four, this Sun King took the throne",
+     "a": "Louis XIV",
+     "right": [
+      "W.A."
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 12,
+     "q": "The federal one is currently $7.25 an hour",
+     "a": "minimum wage",
+     "right": [
+      "W.A."
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 7,
+     "q": "Appearing in The New Yorker in 1946, his \"Slight Rebellion Off Madison\" featured an early appearance by Holden Caulfield",
+     "a": "Salinger",
+     "right": [
+      "W.A."
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 8,
+     "q": "A Japanese style of fencing, kendo derives from the two-handed fighting methods of these warriors",
+     "a": "the samurai",
+     "right": [
+      "Joyelle"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 11,
+     "q": "Goodness gracious! Right out of the \"Great\" American songbook comes this 1957 hit for Jerry Lee Lewis",
+     "a": "\"Great Balls Of Fire\"",
+     "right": [
+      "Christopher"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 22,
+     "q": "Moms of this North American species with many a quill can hardly chill--they can spend 7 months preggo & 4 months nursing",
+     "a": "porcupine",
+     "right": [
+      "Christopher"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 14,
+     "q": "This founding document was published in \"Mourt's Relation\", an account of the Plymouth settlement",
+     "a": "the Mayflower Compact",
+     "right": [
+      "Christopher"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 1,
+     "q": "This Kraft brand distinguishes itself from mere mayo with the taste of a \"tangy dressing\"",
+     "a": "Miracle Whip",
+     "right": [
+      "Christopher"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 5,
+     "q": "Saying he was robbed earlier of the Pulitzer, he famously declined that honor for \"Arrowsmith\"",
+     "a": "Sinclair Lewis",
+     "right": [
+      "W.A."
+     ],
+     "wrong": [
+      "Joyelle"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 27,
+     "q": "A style of this martial art goes back to China's Shaolin Temple, where monks used it to complement meditation",
+     "a": "kung fu",
+     "right": [
+      "Joyelle"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 25,
+     "q": "Called \"a mini-suite of bangers\" by E.W., this No. 1 single by Travis Scott features 3 movements & Drake",
+     "a": "\"Sicko Mode\"",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 20,
+     "q": "A smack is a group of these invertebrate sea creatures, like the lion's mane or Pacific sea nettle",
+     "a": "jellyfish",
+     "right": [
+      "Christopher"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 13,
+     "q": "Paolo Foscarini mysteriously died soon after the banning of his book defending this Pole's astronomical ideas",
+     "a": "Copernicus",
+     "right": [
+      "W.A."
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 4,
+     "q": "This dictionary brand has been a subsidiary of Encyclopedia Britannica since 1964",
+     "a": "Merriam-Webster",
+     "right": [
+      "Joyelle"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 6,
+     "q": "On the passing of this \"Blood Meridian\" author, Stephen King called him \"maybe the greatest American novelist of my time\"",
+     "a": "Cormac McCarthy",
+     "right": [
+      "Joyelle"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 21,
+     "q": "Fighting techniques employed in mixed martial arts include both Japanese & Brazilian styles of this",
+     "a": "jujitsu",
+     "right": [
+      "Joyelle"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 26,
+     "q": "Robert Plant was said to have read \"The Magic Arts in Celtic Britain\" before penning this song that mentions the May Queen",
+     "a": "\"Stairway To Heaven\"",
+     "right": [
+      "Christopher"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": true,
+     "order": 18,
+     "q": "The loudest of all monkeys, this primate makes itself known in the forests of Central & South America",
+     "a": "the howler monkey",
+     "right": [],
+     "wrong": [
+      "W.A."
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2000
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 16,
+     "q": "When I find myself in Smutnoye Vremya--this 3-word era--Boris Godunov comes to me, czaring just before it, let it be",
+     "a": "times of trouble (time of troubles)",
+     "right": [
+      "Joyelle"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 3,
+     "q": "Sharps, needles & items contaminated by blood or other bodily fluids are what makes up this; it needs to be disposed of properly",
+     "a": "medical waste",
+     "right": [
+      "Christopher"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 9,
+     "q": "She began writing \"The Secret History\" set at a fictional Vermont college while attending Vermont's Bennington College",
+     "a": "Donna Tartt",
+     "right": [
+      "Joyelle"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 23,
+     "q": "This Korean martial art became an Olympic medal sport at the 2000 Games in Sydney",
+     "a": "taekwondo",
+     "right": [],
+     "wrong": [
+      "Christopher"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 5200
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 28,
+     "q": "She really \"had it up to here!\"--Gwen Stefani wrote this hit after her dad got mad at her for staying out late",
+     "a": "\"Just A Girl\"",
+     "right": [
+      "Christopher"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 19,
+     "q": "Named for its tough skin, it's the largest sea turtle in the world; adults can be more than six feet long",
+     "a": "the leatherback",
+     "right": [
+      "Joyelle"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 15,
+     "q": "This English philosopher & statesman published his most celebrated work, the \"Novum Organum\" on nature & knowledge",
+     "a": "Francis Bacon",
+     "right": [],
+     "wrong": [
+      "Joyelle"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 2,
+     "q": "The 341st this is headquartered at Malmstrom Air Force Base in Montana; it's ready to defend the U.S. with ICBMs",
+     "a": "Missile Wing",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 10,
+     "q": "Her short stories include \"Where Is Here?\", \"Where Are You Going, Where Have You Been?\" & \"Where I Lived, and What I Lived For\"",
+     "a": "Joyce Carol Oates",
+     "right": [
+      "Joyelle"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 24,
+     "q": "The enslaved community of Brazil disguised this martial art as a dance, but it was truly a means of self-defense",
+     "a": "capoeira",
+     "right": [
+      "Joyelle"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 29,
+     "q": "We're not sure if Marvin Gaye was talking to a doctor when he sang, \"I can't wait for you to operate\" on this song",
+     "a": "\"Sexual Healing\"",
+     "right": [
+      "Joyelle"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 30,
+     "q": "You might say \"Do I detect vanilla with hints of oak?\" near mound deposits laced with whiffs of castoreum from this mammal",
+     "a": "the beaver",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "THE WESTERN HEMISPHERE",
+  "q": "Officially getting an international border in 1848, this area of land is up to 150 miles wide & has about 2,000 miles of coastline",
+  "a": "Baja California",
+  "right": [
+   "Joyelle"
+  ],
+  "wrong": [
+   "Christopher",
+   "W.A."
+  ]
+ },
+ "gameId": "9303",
+ "cat_notes": {
+  "J": [
+   "That's my favorite kind.",
+   "The category “WHAT'S THE NAME?” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "Clues about Going the Extra Mile.",
+   "Clues about Compound Words.",
+   "Clues to Earn the Scouting Merit Badge.",
+   "(Michael: I'm Michael Strahan--Good Morning America is celebrating our 50th birthday; that's more than 18,000 mornings, and we'll have clues about some of the historic ones.)."
+  ],
+  "DJ": [
+   "Clues about 17th Century Happenings.",
+   "Each answer is formed from the initials M.W.",
+   "Clues about American Authors.",
+   "Clues about Martial Arts.",
+   "Clues about Great Songs.",
+   "Clues about The Animal Kingdom."
+  ],
+  "F": "Clues about The Western Hemisphere."
+ }
+}

@@ -1,0 +1,984 @@
+{
+ "show": "#9429",
+ "aired": "2025-11-06",
+ "note": "Allegra Kuney game 2.",
+ "contestants": [
+  {
+   "name": "Alan Pyke",
+   "bio": "a communications director originally from Middletown, Connecticut",
+   "short": "Alan"
+  },
+  {
+   "name": "Molly Murray",
+   "bio": "a professor from New York, New York",
+   "short": "Molly"
+  },
+  {
+   "name": "Allegra Kuney",
+   "bio": "a Ph.D. candidate from New Brunswick, New Jersey (whose 1-day cash winnings total $26,600)",
+   "short": "Allegra"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Allegra": 3400,
+   "Molly": 5400,
+   "Alan": 3600
+  },
+  "DJ": {
+   "Allegra": 21400,
+   "Molly": 19200,
+   "Alan": 4400
+  },
+  "Final": {
+   "Allegra": 38401,
+   "Molly": 27200,
+   "Alan": 819
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "WHAT A PLEASURE",
+    "TV CHARACTERS",
+    "SUITING YOU TO A MIDDLE T",
+    "TRAVELS BY TWAIN",
+    "FOLLOWING THE EQUATOR",
+    "ROUGHING IT"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 19,
+     "q": "The Swedish type of this employs kneading movements called petrissage",
+     "a": "massage",
+     "right": [
+      "Allegra"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 27,
+     "q": "In 2025 Ellen Pompeo marked 20 years of playing this doctor & starred on \"Good American Family\" as a suburban mom",
+     "a": "Meredith Grey",
+     "right": [
+      "Allegra"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 10,
+     "q": "Proverbial place you don't want to be left at on your wedding day",
+     "a": "the altar",
+     "right": [
+      "Allegra"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 28,
+     "q": "At the Church of the Holy Sepulchre's supposed burial site of this Genesis 1-4 guy, MT said it was touching to find the grave of a relative",
+     "a": "Adam",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 30,
+     "q": "This Asian place made more popular by \"Crazy Rich Asians\" is at about 1 degree north latitude, 90 miles from the equator",
+     "a": "Singapore",
+     "right": [
+      "Allegra"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 26,
+     "q": "Saying bye to YouTube in 2025, Luke of the Outdoor Boys showed us how to avoid freezing to death in this state that has hit -80",
+     "a": "Alaska",
+     "right": [
+      "Alan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 16,
+     "q": "If you enjoy Senior's Run on Palmyra Peak at Telluride, you're into this--& really good, & crazy",
+     "a": "skiing",
+     "right": [
+      "Allegra"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 14,
+     "q": "She's tormented by infertility & ends up adopting",
+     "a": "Betty Rubble",
+     "right": [
+      "Molly"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 6,
+     "q": "Nationality of one from Port-au-Prince",
+     "a": "Haitian",
+     "right": [
+      "Molly"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 29,
+     "q": "In Honolulu, Twain saw what he had \"so longed to\"--this \"dance that was wont to set the passions of men ablaze in the old heathen days\"",
+     "a": "the hula",
+     "right": [
+      "Molly"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 22,
+     "q": "Being close to the equator makes Kiribati an ideal spot for launching these via rocket, as the company Sea Launch once did",
+     "a": "satellites",
+     "right": [
+      "Alan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 25,
+     "q": "Roughin' it in Glacier Natl. Park? Be sure to pack a can of this 2-word repellent; Griz Guard sells one with capsaicin",
+     "a": "bear spray",
+     "right": [
+      "Alan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 1,
+     "q": "As the name suggests, evaporated milk, condensed milk & whole milk go into this Latin American treat",
+     "a": "tres leches cake",
+     "right": [
+      "Allegra"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 11,
+     "q": "'60s character with many memorable lines like \"I'm trying to thank you, you pointed-eared hobgoblin!\"",
+     "a": "Dr. McCoy",
+     "right": [],
+     "wrong": [
+      "Alan"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 3,
+     "q": "A house of ill repute also goes by this shorter synonym",
+     "a": "a brothel",
+     "right": [
+      "Alan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 7,
+     "q": "An Italian chapter wonders what people \"see in\" them, the honored painters of centuries past--\"all the horses look like bladders on legs\"",
+     "a": "the Old Masters",
+     "right": [
+      "Molly"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": true,
+     "order": 20,
+     "q": "Uhuru is the summit of this peak that's about 200 miles south of the equator",
+     "a": "Kilimanjaro",
+     "right": [],
+     "wrong": [
+      "Allegra"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2000
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 13,
+     "q": "For overnight hikes, take along one of these, MREs for short; Sure-Pak sells vegetarian options",
+     "a": "meals ready to eat",
+     "right": [
+      "Alan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 2,
+     "q": "Pure perfume (or parfum) contains up to 40% scented ingredients; EDP, this, contains 15-20%",
+     "a": "eau de parfum",
+     "right": [
+      "Molly"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 12,
+     "q": "Sister Knight, played by Regina King, was a masked hero on this HBO show",
+     "a": "Watchmen",
+     "right": [
+      "Allegra"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 4,
+     "q": "It's the lowest rank of a British police officer",
+     "a": "constable",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 8,
+     "q": "Twain saw \"Lohengrin\" in Germany & wrote of a woman saying you must get to know this composer's work; no sale",
+     "a": "Wagner",
+     "right": [
+      "Allegra"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 21,
+     "q": "Similar to the Magellanic, the Galapagos type of this bird is one of the rarest & the one living nearest the equator",
+     "a": "the penguin",
+     "right": [
+      "Molly"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 15,
+     "q": "A nonprofit org. dedicated to this 3-word practice includes as one of its core principles \"dispose of waste properly\"",
+     "a": "leave no trace",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 17,
+     "q": "Classical music fans enjoy the sound of the oboe relative called the cor anglais or this",
+     "a": "the English horn",
+     "right": [
+      "Allegra"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 18,
+     "q": "William Stewart Halsted, a great surgeon who battled addiction, inspired the main character of this series about a New York city hospital",
+     "a": "The Knick",
+     "right": [
+      "Molly"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 5,
+     "q": "A wolf?! Where?! It's the delusion of one who believes they're a wolf",
+     "a": "lycanthropy",
+     "right": [
+      "Molly"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 9,
+     "q": "The forts & mosques at Delhi are great, but pale beside this, \"the most celebrated construction in the earth\"",
+     "a": "the Taj Mahal",
+     "right": [
+      "Alan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 23,
+     "q": "The names of the 2 main islands that make up this equatorial nation mean \"St. Thomas & Prince\"",
+     "a": "São Tomé and Príncipe",
+     "right": [
+      "Allegra"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 24,
+     "q": "You can park & sleep up to 14 days in most designated public areas run by the BLM, short for this agency",
+     "a": "the Bureau of Land Management",
+     "right": [
+      "Alan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "GREAT BRITS",
+    "1940s LITERATURE",
+    "YOU'RE RUINING THE RUINS",
+    "GO FOR \"GOLD\"",
+    "STORIES BEHIND THE SONGS",
+    "A LITTLE ALLITERATION"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 25,
+     "q": "He had high praise for Eddie Redmayne's portrayal of him, saying, \"At times, I thought he was me\"",
+     "a": "Stephen Hawking",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 26,
+     "q": "This inquisitive primate who debuted early in the decade \"Takes a Job\" in a later book, from cleaning windows to acting in a movie",
+     "a": "Curious George",
+     "right": [
+      "Allegra"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 30,
+     "q": "Stop complaining about the heat on our walking tour of Pompeii; just be glad temps are lower than in 79 A.D. when this volcano blew",
+     "a": "Vesuvius",
+     "right": [
+      "Allegra"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 29,
+     "q": "\"The Ballad Of Jed Clampett\" offers this synonym for \"Texas tea\" that fits the category",
+     "a": "black gold",
+     "right": [
+      "Alan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "This song by Jay-Z about having nearly 100 complications took the title & hook from an Ice-T song",
+     "a": "\"99 Problems\"",
+     "right": [
+      "Alan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 28,
+     "q": "Mutual ill will, or a Taylor Swift chart-topper",
+     "a": "bad blood",
+     "right": [
+      "Allegra"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 12,
+     "q": "At Oxford in the 1940s, this future prime minister studied chemistry under future Nobel Prize winner Dorothy Hodgkin",
+     "a": "Thatcher",
+     "right": [
+      "Molly"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 15,
+     "q": "C.S. Lewis tried \"reconciling human suffering with... a god who loves\" in the alliteratively titled \"The Problem of\" this",
+     "a": "Pain",
+     "right": [
+      "Allegra"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 24,
+     "q": "Reaching the end of the Inca Trail at this ancient site is tough enough without you complaining about all the stairs",
+     "a": "Machu Picchu",
+     "right": [
+      "Allegra"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 20,
+     "q": "He's the Phoenix native who ran for president against LBJ in 1964",
+     "a": "Goldwater",
+     "right": [
+      "Allegra"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 21,
+     "q": "Who knew? The Hanson Brothers explained that this nonsense title reflects the inexorable passing of time",
+     "a": "\"MMMBop\"",
+     "right": [
+      "Allegra"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 6,
+     "q": "Ability bestowed on the eloquent & persuasive",
+     "a": "the gift of gab",
+     "right": [
+      "Allegra"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": true,
+     "order": 10,
+     "q": "Watching the ceremony from London via TV, this 88-year-old was made an honorary U.S. citizen in 1963",
+     "a": "Winston Churchill",
+     "right": [
+      "Molly"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1200
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 13,
+     "q": "This folk singer & activist's \"Bound For Glory\" was a portrait of the Depression years seen through his eyes",
+     "a": "Woody Guthrie",
+     "right": [
+      "Molly"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 18,
+     "q": "Stop insisting that this country's Antonine Wall, once the Roman Empire's northern border, is jankier than Hadrian's Wall",
+     "a": "Scotland",
+     "right": [
+      "Allegra"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 7,
+     "q": "Despite a myth that it is a major culprit in hay fever, it's the state flower of Nebraska & Kentucky",
+     "a": "goldenrod",
+     "right": [
+      "Allegra"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 2,
+     "q": "This song came about after a pal of Sean Lennon told Billy Joel that the 1950s were a boring time to grow up",
+     "a": "\"We Didn't Start The Fire\"",
+     "right": [
+      "Allegra"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 1,
+     "q": "Perfectly transparent, like some varieties of quartz",
+     "a": "crystal clear",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 11,
+     "q": "In 1913, polar explorers Roald Amunsen, Robert Peary & this Brit were honored at a reception in Philadelphia",
+     "a": "Shackleton",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 14,
+     "q": "The title of this Mexico-set Malcolm Lowry novel refers to both Popocatépetl & Iztaccihuatl",
+     "a": "Under the Volcano",
+     "right": [
+      "Molly"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 5000
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 19,
+     "q": "We might have beaten the crowds to this ancient Maya city near Pisté, Mexico, home to the pyramid El Castillo, had you not slept until noon",
+     "a": "Chichén Itzá",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 8,
+     "q": "The spot where the Earth is, just right for liquid water to exist, is called the habitable or this zone",
+     "a": "the Goldilocks zone",
+     "right": [
+      "Allegra"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 3,
+     "q": "This hit was written for a British singer & originally had lyrics like \"hopped off the plane at LAX / with my tea & my cardigan\"",
+     "a": "\"Party In The U.S.A.\"",
+     "right": [
+      "Allegra"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 5,
+     "q": "Fashionable term for a synthetic version of a controlled substance with an altered molecular structure",
+     "a": "a designer drug",
+     "right": [
+      "Molly"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 16,
+     "q": "In 1820 he helped found the Royal Astronomical Society but didn't have it use the calculating machine he designed",
+     "a": "Babbage",
+     "right": [
+      "Allegra"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 23,
+     "q": "A tale of love & independence in Paris, \"Gigi\" by this French novelist eventually came to the big screen with Leslie Caron",
+     "a": "Colette",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 22,
+     "q": "I know this ancient monastic settlement off Ireland's Kerry coast was in \"Star Wars\", but selfies with a light saber was a little extra",
+     "a": "Skellig Michael",
+     "right": [
+      "Allegra"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 9,
+     "q": "In 1964 ornithologist James Bond met Ian Fleming at this Jamaican estate possibly named for Ian's WWII spy operation",
+     "a": "GoldenEye",
+     "right": [
+      "Molly"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 4,
+     "q": "He only had a mattress & a piano in his house when he began working on the viral hit \"Beautiful Things\"",
+     "a": "Benson Boone",
+     "right": [
+      "Molly"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 17,
+     "q": "Something purchased without inspection, like a swine in an old-time sack",
+     "a": "a pig in a poke",
+     "right": [
+      "Allegra"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "FUN & GAMES",
+  "q": "A 2022 article titled this \"At 50: The Video Game 'That Changed the World\"' also said, \"it may be 'the most boring... game of all time'\"",
+  "a": "Pong",
+  "right": [
+   "Molly",
+   "Allegra"
+  ],
+  "wrong": [
+   "Alan"
+  ]
+ },
+ "gameId": "9306",
+ "cat_notes": {
+  "J": [
+   "Clues about What a Pleasure.",
+   "Clues about TV Characters.",
+   "Because the letter \"T\" is in the exact center of each correct response.",
+   "Clues about Travels by Twain.",
+   "Clues about Following the Equator.",
+   "Clues about Roughing It."
+  ],
+  "DJ": [
+   "Clues about Great Brits.",
+   "Clues about 1940s Literature.",
+   "Clues about You're Ruining the Ruins.",
+   "Each answer contains the letter group “GOLD”, and the clues are about Go For.",
+   "Clues about Stories Behind the Songs.",
+   "Each answer is alliterative — its main words start with the same sound."
+  ],
+  "F": "Clues about Fun and Games."
+ }
+}

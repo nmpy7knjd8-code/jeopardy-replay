@@ -1,0 +1,994 @@
+{
+ "show": "#9446",
+ "aired": "2025-12-01",
+ "note": "Harrison Whitaker game 15.",
+ "contestants": [
+  {
+   "name": "Libby Jones",
+   "bio": "a recruiter from Davenport, Florida",
+   "short": "Libby"
+  },
+  {
+   "name": "Brendan Thomas",
+   "bio": "a historian from Fayetteville, Arkansas",
+   "short": "Brendan"
+  },
+  {
+   "name": "Harrison Whitaker",
+   "bio": "a researcher originally from Terre Haute, Indiana (whose 14-day cash winnings total $373,999)",
+   "short": "Harrison"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Harrison": 6600,
+   "Brendan": 2800,
+   "Libby": 3000
+  },
+  "DJ": {
+   "Harrison": 21000,
+   "Brendan": 3600,
+   "Libby": 17200
+  },
+  "Final": {
+   "Harrison": 7599,
+   "Brendan": 7199,
+   "Libby": 24801
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "STATE DEPT. NO-GOs",
+    "TELEVISION",
+    "A STACK OF \"LEE\"",
+    "GET SOME REST",
+    "PLENTY OF FLUIDS",
+    "A SICK DAY"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 28,
+     "q": "On Feb. 24, 2022 Putin announced a \"special military operation\" in this country, so it may be best to steer clear for a bit",
+     "a": "Ukraine",
+     "right": [
+      "Libby"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 19,
+     "q": "In its run this show has followed the professional growth of Meredith from her intern days to chief of general surgery",
+     "a": "Grey's Anatomy",
+     "right": [
+      "Libby"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 27,
+     "q": "Wool, or to steal",
+     "a": "fleece",
+     "right": [
+      "Libby"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 30,
+     "q": "This day of holiness & rest observed by Jews begins at sunset each Friday",
+     "a": "the Sabbath",
+     "right": [
+      "Brendan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 26,
+     "q": "A deep black & waterproof, this \"Asian\" ink is known for its permanence & is used in drawing & calligraphy",
+     "a": "India ink",
+     "right": [
+      "Libby"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 29,
+     "q": "Fatal once you've got symptoms, this disease transmitted by animal bites has an awareness day on Sept. 28",
+     "a": "rabies",
+     "right": [
+      "Harrison"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 22,
+     "q": "Carjacking & kidnapping are sadly common in Haiti, with the airport in this city \"a focal point for armed activity\"",
+     "a": "Port-au-Prince",
+     "right": [
+      "Libby"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 9,
+     "q": "This queen of rap played the title role in \"Bessie\", a TV movie about \"Empress of the Blues\" Bessie Smith",
+     "a": "Queen Latifah",
+     "right": [
+      "Brendan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 20,
+     "q": "In recent slang \"on\" this means your makeup, hair, nails, face & just whole vibe look amazing",
+     "a": "fleek",
+     "right": [
+      "Harrison"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 24,
+     "q": "Completes the Noël Coward lyric \"Hindus & Argentines sleep firmly from 12 to 1, but Englishmen detest a...\"",
+     "a": "siesta",
+     "right": [
+      "Brendan"
+     ],
+     "wrong": [
+      "Libby"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 23,
+     "q": "Bette Nesmith Graham invented \"Mistake Out\" but fittingly, corrected that with this new name that tells you it's a fluid",
+     "a": "Liquid Paper",
+     "right": [
+      "Harrison"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 25,
+     "q": "May 2 is Awareness Day for this, which afflicted olden sailors & still pops up in places that can't get fresh fruit easily",
+     "a": "scurvy",
+     "right": [
+      "Libby"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 21,
+     "q": "Dennis Rodman & the Harlem Globetrotters truly globetrotted with a controversial visit to this country in 2013, but you won't",
+     "a": "the DPRK (North Korea)",
+     "right": [
+      "Harrison"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 10,
+     "q": "After Ken Osmond played ingratiating teenager Eddie Haskell on this 1950s family sitcom, he became a cop with the LAPD",
+     "a": "Leave It to Beaver",
+     "right": [
+      "Brendan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 17,
+     "q": "The alma mater of Keir Starmer & Mark Knopfler is this city's university",
+     "a": "Leeds",
+     "right": [
+      "Harrison"
+     ],
+     "wrong": [
+      "Brendan"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 14,
+     "q": "Some rest stops honor lawmen of this force with a type of road in its name like Dale Krings (I-280, Ca.) & Roy Caffey (I-26, S.C.)",
+     "a": "Highway Patrol",
+     "right": [
+      "Harrison"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 7,
+     "q": "Boil it all down 3 times & you'll get blackstrap, a grade of this sugarcane product",
+     "a": "molasses",
+     "right": [
+      "Harrison"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 5,
+     "q": "Feb. 28 is Rare Diseases Day & there are many, like hypohidrotic ectodermal dysplasia, affecting these cooling glands",
+     "a": "sweat glands",
+     "right": [
+      "Harrison"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 6,
+     "q": "Crime, landmines & the terrorist group Ansarallah, \"commonly referred to as\" them, are reasons to steer clear of Yemen",
+     "a": "the Houthis",
+     "right": [
+      "Harrison"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 11,
+     "q": "Hacking itself, a security robot starts struggling with human emotions on this sci-fi show from Apple TV+",
+     "a": "Murderbot",
+     "right": [
+      "Brendan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 3,
+     "q": "It's an internal organ associated with melancholy",
+     "a": "the spleen",
+     "right": [
+      "Harrison"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": true,
+     "order": 1,
+     "q": "Latin for \"gap\" or \"yawn\", it can be a break in work, often for TV productions over summer",
+     "a": "a hiatus",
+     "right": [],
+     "wrong": [
+      "Harrison"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1000
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 8,
+     "q": "The car that won the USA's first official auto race in 1895 used this late-in-the-alphabet motor oil named for the parts it lubricates",
+     "a": "Valvoline",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 16,
+     "q": "Chagas Disease Day is April 14, the 1909 date Carlos Chagas first diagnosed it in Minas Gerais state in this South American country",
+     "a": "Brazil",
+     "right": [
+      "Libby"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 13,
+     "q": "Though you may have had your heart set on a trip to its capital of Bamako, this landlocked nation gets a no from State",
+     "a": "Mali",
+     "right": [
+      "Brendan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 12,
+     "q": "Olivia Colman & David Tennant starred in this Brit-dram about a shocking crime in a small seaside town full of secrets",
+     "a": "Broadchurch",
+     "right": [
+      "Harrison"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 4,
+     "q": "A special year of special grace in the Catholic Church",
+     "a": "a jubilee",
+     "right": [
+      "Harrison"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 2,
+     "q": "Hamlet gives us some basic music theory in these, his last words",
+     "a": "the rest is silence",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 15,
+     "q": "Used to prepare animal hides, much of this acid comes from South American quebracho trees",
+     "a": "tannic acid",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 18,
+     "q": "This condition of loss of melanin, a more noticeable issue for those with dark skin, has its own day on June 25",
+     "a": "vitiligo",
+     "right": [
+      "Libby"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "A BOATLOAD OF TROUBLE",
+    "PLAYS BY CHARACTERS",
+    "HODGEPODGE",
+    "GEOGRAPHIC FILM TITLES",
+    "A COURSE OF HORSES",
+    "TIMELY WORDS"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 26,
+     "q": "The body of Wallace Hartley, band leader aboard this vessel, was recovered fully dressed; his violin later surfaced & was sold for $1.5 million",
+     "a": "the Titanic",
+     "right": [
+      "Harrison"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 29,
+     "q": "Mitch Mitchell,\nEunice,\nStanley Kowalski",
+     "a": "A Streetcar Named Desire",
+     "right": [
+      "Brendan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 28,
+     "q": "Born near Warsaw, he composed \"Twelve Études\", Opus 10, in 1833",
+     "a": "Chopin",
+     "right": [
+      "Libby"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 19,
+     "q": "Before \"The Banshees of Inisherin\", Brendan Gleeson & Colin Farrell found themselves \"In\" this Belgian city",
+     "a": "Bruges",
+     "right": [
+      "Harrison"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 30,
+     "q": "To be recognized as one of these, a horse must be descended from one of 3 stallions of 17th & 18th century England",
+     "a": "a Thoroughbred",
+     "right": [
+      "Harrison"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "A period of 1,000 years; some of you kids were probably born around the end of the last one",
+     "a": "a millennium",
+     "right": [
+      "Libby"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 22,
+     "q": "A Netflix doc called \"Trainwreck: Poop Cruise\" told of an ill-fated 2013 trip from this cruise line, not the party its name suggests",
+     "a": "Carnival",
+     "right": [
+      "Harrison"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 17,
+     "q": "Angus,\nDonalbain,\nMalcolm",
+     "a": "Macbeth",
+     "right": [
+      "Brendan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 23,
+     "q": "There are 4 species of this type of venomous snake: one black & 3 green",
+     "a": "a mamba",
+     "right": [
+      "Harrison"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 18,
+     "q": "The high point of this 1993 romcom is some 2,500 miles from the title, on the observation deck of the Empire State Building",
+     "a": "Sleepless in Seattle",
+     "right": [
+      "Libby"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 24,
+     "q": "In legend, she went naked on a nag to reduce taxes imposed by her husband Leofric",
+     "a": "Godiva",
+     "right": [
+      "Harrison"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 25,
+     "q": "Literally meaning \"the science of time\", today it more commonly means a timeline of events",
+     "a": "chronology",
+     "right": [
+      "Brendan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 21,
+     "q": "The crew of the doomed fishing boat Andrea Gail is the focus of this nonfiction bestseller, later a George Clooney film",
+     "a": "The Perfect Storm",
+     "right": [
+      "Libby"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 4,
+     "q": "Honey,\nMartha,\nGeorge",
+     "a": "Who's Afraid of Virginia Woolf?",
+     "right": [
+      "Libby"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 14,
+     "q": "Stomach pain & nausea are symptoms of these peptic issues, which are often caused by the H. pylori bacterium",
+     "a": "ulcers",
+     "right": [
+      "Harrison"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": true,
+     "order": 1,
+     "q": "It's the only James Bond film with a country in its title",
+     "a": "From Russia with Love",
+     "right": [],
+     "wrong": [
+      "Brendan"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2800
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 6,
+     "q": "A palomino horse named Bamboo Harvester played this TV title role from 1961 to 1966",
+     "a": "Mister Ed",
+     "right": [
+      "Harrison"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 9,
+     "q": "An adjective meaning \"time-related\", it also describes an area of the cerebral cortex",
+     "a": "temporal",
+     "right": [
+      "Harrison"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 11,
+     "q": "An 1898 court of inquiry said it was \"unable to obtain evidence fixing the responsibility for the destruction of\" this",
+     "a": "the (U.S.S.) Maine",
+     "right": [
+      "Libby"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 3000
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 3,
+     "q": "Ethel Rosenberg,\nRoy Cohn,\nPrior Walter",
+     "a": "Angels in America",
+     "right": [
+      "Brendan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 7,
+     "q": "A wing of the Louvre is named for this man, nicknamed \"The Red Eminence\"",
+     "a": "Richelieu",
+     "right": [
+      "Harrison"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 2,
+     "q": "In this action film Kurt Russell was a trucker named Jack Burton, facing down Lo Pan, a 2,000-year-old evil magician",
+     "a": "Big Trouble in Little China",
+     "right": [
+      "Libby"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 15,
+     "q": "Enjoyed in the summer in Ulaanbaatar, airag is a fermented mare's milk in this country",
+     "a": "Mongolia",
+     "right": [
+      "Harrison"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 10,
+     "q": "A place where things are joined, or a point in time in the phrase \"at this\" this",
+     "a": "juncture",
+     "right": [
+      "Libby"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 16,
+     "q": "After being torpedoed by a German U-boat in May 1915, this liner sank with a loss of about 1,200 lives",
+     "a": "Lusitania",
+     "right": [
+      "Libby"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 5,
+     "q": "Sister James,\nFather Flynn,\nMrs. Muller",
+     "a": "Doubt",
+     "right": [
+      "Libby"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 8,
+     "q": "This word follows Mohorovicic in the name of the boundary between the Earth's crust & mantle",
+     "a": "discontinuity",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 12,
+     "q": "Sydney Pollack directed this 1985 film that went on to win the Oscar for Best Picture",
+     "a": "Out of Africa",
+     "right": [
+      "Harrison"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 20,
+     "q": "A cowboy tames a wild horse in this Frederic Remington sculpture that was copyrighted in 1895",
+     "a": "Bronco Buster",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 13,
+     "q": "William Blake wrote of holding \"infinity in the palm of your hand\" & this vast period \"in an hour\"",
+     "a": "eternity",
+     "right": [
+      "Harrison"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "POSTAGE STAMPS",
+  "q": "A 1959 4-cent stamp depicts an eagle & a maple leaf beneath the name of this project",
+  "a": "the St. Lawrence Seaway",
+  "right": [
+   "Brendan",
+   "Libby"
+  ],
+  "wrong": [
+   "Harrison"
+  ]
+ },
+ "gameId": "9324",
+ "cat_notes": {
+  "J": [
+   "Clues about State Dept No-gos.",
+   "Clues about Television.",
+   "Each answer contains the letter group “LEE”, and the clues are about A Stack Of.",
+   "Clues about Get Some Rest.",
+   "Clues about Plenty of Fluids.",
+   "Clues about A Sick Day."
+  ],
+  "DJ": [
+   "Clues about A Boatload of Trouble.",
+   "Clues about Plays by Characters.",
+   "A mixed bag of clues with no single topic.",
+   "Clues about Geographic Film Titles.",
+   "Clues about A Course of Horses.",
+   "Clues about Timely Words."
+  ],
+  "F": "Clues about Postage Stamps."
+ }
+}
