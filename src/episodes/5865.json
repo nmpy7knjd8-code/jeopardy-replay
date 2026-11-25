@@ -1,0 +1,988 @@
+{
+ "show": "#7661",
+ "aired": "2017-12-25",
+ "note": "",
+ "contestants": [
+  {
+   "name": "Charlie Harless",
+   "bio": "a procurement analyst from Washington, D.C.",
+   "short": "Charlie"
+  },
+  {
+   "name": "Natalie Ballas",
+   "bio": "a dentist from Tualatin, Oregon",
+   "short": "Natalie"
+  },
+  {
+   "name": "Donna Brown",
+   "bio": "a customer service representative from Seattle, Washington (whose 1-day cash winnings total $45,600)",
+   "short": "Donna"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Donna": 8600,
+   "Natalie": 5400,
+   "Charlie": 1000
+  },
+  "DJ": {
+   "Donna": 21400,
+   "Natalie": 12400,
+   "Charlie": 6000
+  },
+  "Final": {
+   "Donna": 11400,
+   "Natalie": 12400,
+   "Charlie": 8500
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "DOONESBURY POLITICAL SYMBOLS",
+    "MOUNTAINS NAMED FOR PEOPLE",
+    "BROTHERS",
+    "ONE-WORD BOOK TITLES",
+    "THE CITRUS BOWL",
+    "THE BEST VOCABULARY"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "This president, with a healthy appetite and rapidly changing views, was a symbolic foodstuff",
+     "a": "Bill Clinton",
+     "right": [],
+     "wrong": [
+      "Donna",
+      "Natalie"
+     ],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 22,
+     "q": "He was just a candidate for president when William Dickey renamed an Alaska mountain for him",
+     "a": "McKinley",
+     "right": [
+      "Charlie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 9,
+     "q": "Finn & Kurt became stepbros on this TV show after their parents got hitched; at the wedding, the cast sang & sang",
+     "a": "Glee",
+     "right": [
+      "Natalie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 2,
+     "q": "James Joyce's 15 stories about the metropolitan Irish around 1900",
+     "a": "Dubliners",
+     "right": [
+      "Charlie"
+     ],
+     "wrong": [
+      "Donna"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 4,
+     "q": "Valencia & Seville",
+     "a": "oranges",
+     "right": [
+      "Natalie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 14,
+     "q": "Pre-steak sauce, this alphanumeric term meant \"first class\" for ships at Lloyd's of London",
+     "a": "A1",
+     "right": [
+      "Natalie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 25,
+     "q": "Here's this 1990s Speaker of the House, funny pages style",
+     "a": "Newt Gingrich",
+     "right": [
+      "Charlie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 23,
+     "q": "A chap named Peter got his name on this tallest mountain in Washington state",
+     "a": "Rainier",
+     "right": [
+      "Natalie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 10,
+     "q": "In a 1996 movie Chris Farley was this title colorful animal, screwing up his brother's gubernatorial race",
+     "a": "black sheep",
+     "right": [
+      "Donna"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 3,
+     "q": "The ex-Mrs. Butler rekindles her romance with Rhett",
+     "a": "Scarlett",
+     "right": [
+      "Natalie"
+     ],
+     "wrong": [
+      "Charlie"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 5,
+     "q": "Persian & Key",
+     "a": "limes",
+     "right": [
+      "Natalie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 15,
+     "q": "A payment to an insurance company; as an adjective, it means \"more expensive\"",
+     "a": "a premium",
+     "right": [
+      "Natalie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 26,
+     "q": "An asterisk under a Roman warrior helmet indicated this president",
+     "a": "George W. Bush",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 24,
+     "q": "Aoraki is another name for Mount Cook on this country's South Island",
+     "a": "New Zealand",
+     "right": [
+      "Charlie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 11,
+     "q": "On \"Game of Thrones\", Gregor Clegane is \"The Mountain\" & his brother Sandor is known as this",
+     "a": "the Hound",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": true,
+     "order": 19,
+     "q": "Astrophysicists build a machine to talk back to aliens from Vega that have reached out to Earthlings",
+     "a": "Contact",
+     "right": [
+      "Donna"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 3000
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 6,
+     "q": "Eureka & Meyer",
+     "a": "lemons",
+     "right": [
+      "Donna"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 16,
+     "q": "This 5-letter prefix can be followed by -dor, -did, -diforous, or, in a sweetener, -da",
+     "a": "splen-",
+     "right": [
+      "Donna"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 27,
+     "q": "Reagan was depicted as Ron Headrest, a play on this virtual '80s character played by Matt Frewer",
+     "a": "Max Headroom",
+     "right": [
+      "Donna"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "The name of this Oregon mountain honors a British admiral",
+     "a": "Mount Hood",
+     "right": [
+      "Natalie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 12,
+     "q": "In \"Adaptation\" this actor plays both Kaufman brothers",
+     "a": "Nicolas Cage",
+     "right": [
+      "Donna"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 20,
+     "q": "In 18th century Scotland, David Balfour seeks the return of his stolen inheritance",
+     "a": "Kidnapped",
+     "right": [
+      "Donna"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 7,
+     "q": "Rio Red & Star Ruby",
+     "a": "grapefruits",
+     "right": [
+      "Natalie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 17,
+     "q": "Your social standing could be described as this, the uppermost part of the cabinet or dresser",
+     "a": "top shelf (or top drawer)",
+     "right": [
+      "Natalie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 28,
+     "q": "Rather than draw a caricature, Garry Trudeau used a feather in place of this one-term vice president",
+     "a": "Dan Quayle",
+     "right": [
+      "Donna"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 30,
+     "q": "The presidential range in the White Mountains, mainly in this state, has peaks named for Washington, Jefferson & Adams",
+     "a": "New Hampshire",
+     "right": [],
+     "wrong": [
+      "Donna"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 13,
+     "q": "Howard Keel, Russ Tamblyn & their 5 male siblings yearn for wedlock in this 1954 MGM musical",
+     "a": "Seven Brides for Seven Brothers",
+     "right": [
+      "Natalie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 21,
+     "q": "1516 Thomas More work about a place governed by reason",
+     "a": "Utopia",
+     "right": [
+      "Donna"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 8,
+     "q": "The bite-sized Nagami & Meiwa",
+     "a": "kumquats",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 18,
+     "q": "This \"P\" word can mean an example of excellence--like one \"of virtue\"",
+     "a": "paragon",
+     "right": [
+      "Donna"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "TITANIC",
+    "MY HEART WILL GO ON",
+    "I'M THE KING OF THE WORLD",
+    "ROSE",
+    "\"JACK\"",
+    "THERE IS ROOM ON THAT BOARD!"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 6,
+     "q": "Describing her divorce from this director, Linda Hamilton said, \"'Titanic' was the mistress he left me for\"",
+     "a": "James Cameron",
+     "right": [
+      "Charlie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 11,
+     "q": "Your heart will go on, & your lungs & kidneys too if you're an organ donor, indicated in California by a pink sticker on this",
+     "a": "your driver's license",
+     "right": [
+      "Natalie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 16,
+     "q": "His reign lasted 72 years",
+     "a": "Louis XIV",
+     "right": [
+      "Donna"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 24,
+     "q": "Around 1904 this painter's Blue Period gave way to his Rose Period",
+     "a": "Picasso",
+     "right": [
+      "Donna"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "The personification of icy cold",
+     "a": "Jack Frost",
+     "right": [
+      "Natalie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 19,
+     "q": "If you want to join the board of directors, we need to put your name in for a vote by these people",
+     "a": "the shareholders",
+     "right": [
+      "Donna"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 7,
+     "q": "Reba McEntire was first offered this unsinkable role; Kathy Bates eventually played her",
+     "a": "Molly Brown",
+     "right": [
+      "Donna"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 12,
+     "q": "You won't become a heart donor until this other organ of yours has zero function",
+     "a": "your brain",
+     "right": [
+      "Natalie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 17,
+     "q": "This czar was known as the \"Father of the Russian Navy\"; the birth happened at the end of the 1600s",
+     "a": "Peter the Great",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 25,
+     "q": "The pinkish hue of the precious metal with this name is achieved by increasing the copper-colored alloys in the mix",
+     "a": "rose gold",
+     "right": [
+      "Natalie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 2,
+     "q": "Here's a statue of this mythical creature",
+     "a": "the jackalope",
+     "right": [
+      "Donna"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 20,
+     "q": "There should be 5 people on the board & we only have 2! One more is needed to hit this Latin-named majority",
+     "a": "quorum",
+     "right": [
+      "Natalie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 8,
+     "q": "A 3-D version of \"Titanic\" was released in this year for the 100th anniversary of the real Titanic disaster",
+     "a": "2012",
+     "right": [
+      "Donna"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 13,
+     "q": "Donated hearts have extended the lives of Democrats like Governor Robert Casey & Republicans like this vice president",
+     "a": "Dick Cheney",
+     "right": [
+      "Natalie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 18,
+     "q": "David Kalakaua, the last king of Hawaii, was succeeded on the throne by this sister",
+     "a": "Lili'uokalani",
+     "right": [],
+     "wrong": [
+      "Natalie"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 26,
+     "q": "It was called the Battle of Flowers when it was first held on January 1, 1890",
+     "a": "the Tournament of Roses Parade",
+     "right": [],
+     "wrong": [
+      "Natalie",
+      "Charlie"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 3,
+     "q": "The name of this snack brand is 1890s slang for \"excellent\"",
+     "a": "Cracker Jack",
+     "right": [
+      "Charlie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 21,
+     "q": "Last name of cereal heiress Marjorie, one of the first women for whom a major corp. made room on its board",
+     "a": "Post",
+     "right": [
+      "Donna"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 9,
+     "q": "The only 3 of the 14 Oscar nominations \"Titanic\" didn't convert were for makeup, Kate Winslet & this actress",
+     "a": "Gloria Stewart",
+     "right": [
+      "Charlie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 14,
+     "q": "If your heart goes to someone else, it must fit neatly into this 2-word structure formed by 24 bones",
+     "a": "your rib cage",
+     "right": [
+      "Natalie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 5000
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 29,
+     "q": "This portrait is one of many Velazquez did of the fourth Spanish king of this name",
+     "a": "Philip",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 27,
+     "q": "Rose of Lima is not only the patron saint of Latin America but of this Asian island nation as well",
+     "a": "the Philippines",
+     "right": [
+      "Donna"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 4,
+     "q": "In a thriller by Frederick Forsyth, an assassin has this nickname",
+     "a": "the Jackal",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 22,
+     "q": "We need another body on this alliterative committee to figure out who much to pay the CEO",
+     "a": "the compensation committee",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": true,
+     "order": 10,
+     "q": "The single highest grossing day for \"Titanic\" was this holiday, a Saturday 58 days after the film's December opening",
+     "a": "Valentine's Day",
+     "right": [
+      "Charlie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 3000
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 15,
+     "q": "In 1967 the heart of young Denise Darvall went on as this surgeon performed the first human heart transplant",
+     "a": "Christiaan Barnard",
+     "right": [
+      "Donna"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 30,
+     "q": "Fuad I was the first modern-day king of this country following its independence from Great Britain",
+     "a": "Egypt",
+     "right": [
+      "Donna"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 28,
+     "q": "You can read his book \"The Name of the Rose\" as just a murder mystery, but there's a lot more to it",
+     "a": "(Umberto) Eco",
+     "right": [
+      "Donna"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 5,
+     "q": "The sport of birling developed in the camps of these people",
+     "a": "lumberjacks",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 23,
+     "q": "If you're the vice president or chief justice, there's a spot for you on this D.C. institution's Board of Regents",
+     "a": "the Smithsonian",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "AUTHORS",
+  "q": "A prefatory poem he wrote to one of his novels tells of \"the dream-child moving through a land of wonders wild and new\"",
+  "a": "Lewis Carroll",
+  "right": [
+   "Charlie",
+   "Natalie"
+  ],
+  "wrong": [
+   "Donna"
+  ]
+ },
+ "gameId": "5865",
+ "cat_notes": {
+  "J": [
+   "Clues about Doonesbury Political Symbols.",
+   "Clues about Mountains Named for People.",
+   "Clues about Brothers.",
+   "Clues about One-word Book Titles.",
+   "Clues about The Citrus Bowl.",
+   "Clues about The Best Vocabulary."
+  ],
+  "DJ": [
+   "Now, this year is the 20th anniversary of the film...",
+   "Clues about My Heart Will Go On.",
+   "The category “I'M THE KING OF THE WORLD” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "Clues about Rose.",
+   "Each answer contains the letter group “JACK”.",
+   "The category “THERE IS ROOM ON THAT BOARD!” sets the theme — the clues follow that idea and any wordplay suggested by the title."
+  ],
+  "F": "Clues about Authors."
+ }
+}

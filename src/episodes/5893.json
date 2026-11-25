@@ -1,0 +1,985 @@
+{
+ "show": "#7684",
+ "aired": "2018-01-25",
+ "note": "Rachel Lindgren game 5.",
+ "contestants": [
+  {
+   "name": "Jeff Machusko",
+   "bio": "a data analyst from Centennial, Colorado",
+   "short": "Jeff"
+  },
+  {
+   "name": "Rosie Jonker",
+   "bio": "a literary agent from New York, New York",
+   "short": "Rosie"
+  },
+  {
+   "name": "Rachel Lindgren",
+   "bio": "a fire lookout from Bend, Oregon (whose 4-day cash winnings total $65,199)",
+   "short": "Rachel"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Rachel": 5200,
+   "Rosie": 2800,
+   "Jeff": -800
+  },
+  "DJ": {
+   "Rachel": 10800,
+   "Rosie": 13800,
+   "Jeff": 5200
+  },
+  "Final": {
+   "Rachel": 10800,
+   "Rosie": 5999,
+   "Jeff": 2200
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "THE QUOTABLE WILL ROGERS",
+    "3-LETTER WORDS",
+    "BAND OF BROTHERS & SISTERS",
+    "TRAIN TIME",
+    "FOUND MY PLACE IN THE BOOK",
+    "CRAYOLA COLORS"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 26,
+     "q": "\"My ancestors didn't come over\" on this, \"but they met the boat\"",
+     "a": "the Mayflower",
+     "right": [
+      "Rosie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "Term for an angry crowd in the street",
+     "a": "a mob",
+     "right": [
+      "Rosie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 12,
+     "q": "Brian, Carl & Dennis Wilson",
+     "a": "The Beach Boys",
+     "right": [
+      "Rosie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 11,
+     "q": "Before this term meant 2 sports games played back to back, it meant a train pulled by 2 locomotives together",
+     "a": "a double-header",
+     "right": [
+      "Rosie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 21,
+     "q": "Jhumpa Lahiri's novel \"The Namesake\" follows a family moving from Calcutta to this collegey Boston-area city",
+     "a": "Cambridge",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 6,
+     "q": "In 1993 consumers were asked to name new colors & came up with this \"mountains' majesty\"",
+     "a": "purple mountains' majesty",
+     "right": [
+      "Rachel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": true,
+     "order": 27,
+     "q": "This then 96-member institution \"opens with a prayer and closes with an investigation\"",
+     "a": "the United States Senate",
+     "right": [],
+     "wrong": [
+      "Rosie"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2000
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "It's the deadly species seen here, notorious since ancient times",
+     "a": "an asp",
+     "right": [
+      "Rachel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 13,
+     "q": "Ann & Nancy Wilson",
+     "a": "Heart",
+     "right": [
+      "Rosie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 15,
+     "q": "Richard Nixon grew up dreaming of being a train engineer; in 1970 he signed this national railroad into existence",
+     "a": "Amtrak",
+     "right": [
+      "Rosie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 22,
+     "q": "This author left her familiar prairie settings for New Mexico in \"Death Comes for the Archbishop\"",
+     "a": "Willa Cather",
+     "right": [
+      "Rosie"
+     ],
+     "wrong": [
+      "Jeff"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 7,
+     "q": "In 1996 the 100 billionth Crayola was molded in this color, the top prize at many a state fair",
+     "a": "blue ribbon",
+     "right": [
+      "Rosie"
+     ],
+     "wrong": [
+      "Jeff"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 28,
+     "q": "A frequent opening line, \"All I know is\" this",
+     "a": "\"All I know is what I read in the papers\"",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 3,
+     "q": "A church bench",
+     "a": "a pew",
+     "right": [
+      "Rachel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 14,
+     "q": "Kevin, Joe & Nick",
+     "a": "the Jonas Brothers",
+     "right": [
+      "Rachel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 18,
+     "q": "In the 1800s inventions like this man's improved steam engine were adapted for trains",
+     "a": "James Watt",
+     "right": [],
+     "wrong": [
+      "Jeff"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 23,
+     "q": "\"Snow Falling in Spring\" is Moying Li's memoir of growing up in China during this late 1960s tumult",
+     "a": "the Cultural Revolution",
+     "right": [
+      "Rachel"
+     ],
+     "wrong": [
+      "Rosie"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 8,
+     "q": "In 1990 Crayola retired this color, a synonym for \"corn\"",
+     "a": "maize",
+     "right": [
+      "Jeff"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "\"The country is bigger than\" this financial center--\"if they don't believe it, show 'em the map\"",
+     "a": "Wall Street",
+     "right": [
+      "Rosie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 4,
+     "q": "This popular Jamaican music stye from the late 1950s predates reggae",
+     "a": "ska",
+     "right": [
+      "Rosie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 16,
+     "q": "Country music's Kimberly, Reid & Neil",
+     "a": "The Band Perry",
+     "right": [
+      "Rosie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 19,
+     "q": "World War II aircraft engineer Tadanao Miki later designed the Shinkansen, AKA this train",
+     "a": "the bullet train",
+     "right": [
+      "Rosie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 24,
+     "q": "(Jimmy of the Clue Crew shows a map on the monitor.) A Patricia Highsmith novel takes us all around Rome--here's where Freddie Miles is killed, & here, at the Europa hotel, is where this \"Talented\" title character hides out as Dickie Greenleaf",
+     "a": "the talented Mr. Ripley",
+     "right": [
+      "Rosie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 9,
+     "q": "The original 1903 box of 8 crayons contained black, brown, blue, red, violet, yellow, green & this fruit",
+     "a": "orange",
+     "right": [
+      "Rachel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 30,
+     "q": "\"I never met\" one of these",
+     "a": "\"I never met a man I didn't like\"",
+     "right": [],
+     "wrong": [
+      "Jeff"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 5,
+     "q": "This verb means to fit a vessel with sails, Cap'n",
+     "a": "rig",
+     "right": [
+      "Rachel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 17,
+     "q": "Scottish twins Craig & Charlie Reid, who \"would walk 500 miles\"",
+     "a": "The Proclaimers",
+     "right": [
+      "Rachel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 20,
+     "q": "In 1873, Eli Janney patented the knuckle version of this special semi-automatic train car connector",
+     "a": "a coupler",
+     "right": [],
+     "wrong": [
+      "Rosie"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 25,
+     "q": "\"Even Silence Has an End\" by Ingrid Betancourt tells of 6 years as a captive of the FARC organization in this country",
+     "a": "Colombia",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 10,
+     "q": "Burnt umber was discontinued; burnt this was spared in 2003 thanks to votes from thousands of fans",
+     "a": "sienna",
+     "right": [
+      "Jeff"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "3-NAME THE AUTHOR",
+    "HISTORIC BOYCOTTS",
+    "RHYMING TERMS",
+    "THE PRODUCERS",
+    "HEAVENS",
+    "TIBET SEE"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 3,
+     "q": "\"Kidnapped\"",
+     "a": "Robert Louis Stevenson",
+     "right": [
+      "Rachel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 26,
+     "q": "Her 1955 arrest led to a boycott in Montgomery that left buses running three-quarter empty for over a year",
+     "a": "Rosa Parks",
+     "right": [
+      "Rachel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "Rhyming phrase for a hairstyle that looks like it's a result of just waking up",
+     "a": "bed head",
+     "right": [
+      "Jeff"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 16,
+     "q": "T Bone Burnett produced music for this TV series created by his wife Callie Khouri about rival country stars",
+     "a": "Nashville",
+     "right": [
+      "Rosie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 6,
+     "q": "Happiness due to the ignorance of your problems puts you in this person's \"paradise\"",
+     "a": "the fool's paradise",
+     "right": [
+      "Rosie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 19,
+     "q": "Here is a different kind of string cheese--cheese from this local bovine is sometimes served rock hard",
+     "a": "a yak",
+     "right": [
+      "Rachel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 12,
+     "q": "\"The Deerslayer\"",
+     "a": "James Fenimore Cooper",
+     "right": [
+      "Rosie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "The Soviet invasion of Afghanistan led the U.S. & 60 other nations to boycott the summer Olympics of this year",
+     "a": "1980",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 2,
+     "q": "In his play \"Geneva\", George Bernard Shaw used this hyphenated term for illicit or surreptitious sexual activity",
+     "a": "hanky-panky",
+     "right": [
+      "Rosie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 17,
+     "q": "The 2005 biography \"Lion of Hollywood\" tells the story of this legendary producer, the second \"M\" in MGM",
+     "a": "(Louis B.) Mayer",
+     "right": [
+      "Jeff"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 7,
+     "q": "A Pennsylvania rescue farm with this alliterative name rescues hoofed animals, porcine or not",
+     "a": "Hog Heaven",
+     "right": [
+      "Rachel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 20,
+     "q": "Here's a view of this Tibetan capital city, about 12,000 feet above sea level",
+     "a": "Lhasa",
+     "right": [],
+     "wrong": [
+      "Rachel"
+     ],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": true,
+     "order": 13,
+     "q": "\"Jo's Boys, and How They Turned Out\"",
+     "a": "Louisa May Alcott",
+     "right": [
+      "Rosie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 3000
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 25,
+     "q": "After the shah gave a British company a monopoly in 1891 Iranians boycotted this vice",
+     "a": "tobacco",
+     "right": [
+      "Rosie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 4,
+     "q": "It instructs, \"You put your right foot in, you put your right foot out\"",
+     "a": "the hokey-pokey",
+     "right": [
+      "Jeff"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 18,
+     "q": "In 2017 Shawn Ryan, creator of the L.A. cop show \"The Shield\", produced this CBS reboot with Shemar Moore",
+     "a": "S.W.A.T.",
+     "right": [
+      "Rachel"
+     ],
+     "wrong": [
+      "Rosie"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 9,
+     "q": "Fats Domino sang, \"Just Molly & me, & baby makes 3, we're happy in\" this place",
+     "a": "my blue heaven",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 21,
+     "q": "Inside Tibetan prayer wheels are scrolls of om mani padme hum, one of these repeated Sanskrit prayers",
+     "a": "a mantra",
+     "right": [
+      "Rachel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 14,
+     "q": "\"The Maine Woods\", published posthumously in 1864",
+     "a": "Henry David Thoreau",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 30,
+     "q": "In 1894 the U.S. transport system slowed as the American Railway Union supported a boycott of this company",
+     "a": "Pullman",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 5,
+     "q": "Greek term for the unwashed masses",
+     "a": "the hoi polloi",
+     "right": [
+      "Jeff"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2000
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 23,
+     "q": "\"You be illin'\" if you don't know that in 1986 Rick Rubin produced a Top 5 hit for this rap trio with \"Walk This Way\"",
+     "a": "Run-DMC",
+     "right": [
+      "Jeff"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 10,
+     "q": "These heavenly gates are one route to climb Oregon's Mount Hood",
+     "a": "the Pearly Gates",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 22,
+     "q": "Tibetans can spend weeks making these circular diagrams of the cosmos in sand, then they sweep it all up",
+     "a": "a mandala",
+     "right": [
+      "Rosie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 15,
+     "q": "\"The Magician of Lublin\"",
+     "a": "Isaac Bashevis Singer",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 28,
+     "q": "The 1767 Townshend Acts taxed imports to America from Britain; a boycott by colonists got the taxes lifted on everything but this",
+     "a": "tea",
+     "right": [
+      "Rosie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 8,
+     "q": "This phrase meaning \"raring to go\" could describe a horse that's warmed up & ready to run",
+     "a": "hot to trot",
+     "right": [
+      "Rachel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 24,
+     "q": "After leaving Amblin Entertainment, Frank Marshall & this wife produced \"Seabiscuit\" & \"The Bourne Identity\"",
+     "a": "Kathleen Kennedy",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 11,
+     "q": "The Heavens, a gabled section above the stage, provides shade & allows for overhead effects in this theatre",
+     "a": "the Globe",
+     "right": [
+      "Rosie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 27,
+     "q": "The Tashi Lhunpo monastery is headed by this lama, traditionally number two to the Dalai Lama",
+     "a": "the Panchen Lama",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "19th CENTURY EUROPEANS",
+  "q": "In an 1889 letter to his brother, he wrote, “I wouldn’t exactly have chosen madness if there had been a choice”",
+  "a": "Vincent van Gogh",
+  "right": [],
+  "wrong": [
+   "Jeff",
+   "Rachel",
+   "Rosie"
+  ]
+ },
+ "gameId": "5893",
+ "cat_notes": {
+  "J": [
+   "Clues about The Quotable Will Rogers.",
+   "Each answer is a 3-letter word.",
+   "Clues about Band of Brothers and Sisters.",
+   "Clues about Train Time.",
+   "Clues about Found My Place in the Book.",
+   "Clues about Crayola Colors."
+  ],
+  "DJ": [
+   "Clues about 3-name the Author.",
+   "Clues about Historic Boycotts.",
+   "Clues about Rhyming Terms.",
+   "Clues about The Producers.",
+   "Clues about Heavens.",
+   "Clues about Tibet See."
+  ],
+  "F": "Clues about 19th Century Europeans."
+ }
+}

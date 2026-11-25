@@ -1,0 +1,984 @@
+{
+ "show": "#7605",
+ "aired": "2017-10-06",
+ "note": "Austin Rogers game 9.",
+ "contestants": [
+  {
+   "name": "Diana McInnis",
+   "bio": "an editor from Playa Vista, California",
+   "short": "Diana"
+  },
+  {
+   "name": "Rebekah Smith",
+   "bio": "a library associate from Washington, D.C.",
+   "short": "Rebekah"
+  },
+  {
+   "name": "Austin Rogers",
+   "bio": "a bartender from New York, New York (whose 8-day cash winnings total $306,900)",
+   "short": "Austin"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Austin": 600,
+   "Rebekah": 400,
+   "Diana": 6600
+  },
+  "DJ": {
+   "Austin": 15500,
+   "Rebekah": 6600,
+   "Diana": 12600
+  },
+  "Final": {
+   "Austin": 25500,
+   "Rebekah": 6000,
+   "Diana": 9600
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "MOST INSTAGRAMMED PLACES BY STATE",
+    "SCHOOLED!",
+    "ROUND HOUSE",
+    "AUSSIE SLANG",
+    "\"B\"USINESS",
+    "BROADWAY, BABY"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 17,
+     "q": "In California: \nthis theme park",
+     "a": "Disneyland",
+     "right": [
+      "Diana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 14,
+     "q": "It's a convenient truth that this future veep studied at Vanderbilt in the 1970s",
+     "a": "Al Gore",
+     "right": [
+      "Diana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 22,
+     "q": "It's a word for many round objects, including those seen here",
+     "a": "a wheel",
+     "right": [
+      "Rebekah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "When you throw a shrimp here, make sure it's not the doll",
+     "a": "a barbie",
+     "right": [
+      "Austin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 9,
+     "q": "It's the method of trading in which goods or services are exchanged without the use of money",
+     "a": "barter",
+     "right": [
+      "Austin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 3,
+     "q": "In 2017 Grizabella & Rum Tum Tugger prowled the Great White Way once more in this musical",
+     "a": "Cats",
+     "right": [
+      "Austin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 18,
+     "q": "In this state: \nLambeau Field",
+     "a": "Wisconsin",
+     "right": [
+      "Austin"
+     ],
+     "wrong": [
+      "Rebekah"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 15,
+     "q": "This MSNBC host has recalled life as one of the only 2 \"out\" students at Stanford in the early 1990s",
+     "a": "Rachel Maddow",
+     "right": [
+      "Diana"
+     ],
+     "wrong": [
+      "Austin"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 23,
+     "q": "Bedivere, Gawain & Perceval were 3 of this fabled group named for a piece of furniture",
+     "a": "the Knights of the Round Table",
+     "right": [
+      "Austin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "To earn a living is to \"make a\" this (minus the pro quo)",
+     "a": "a quid",
+     "right": [
+      "Diana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 10,
+     "q": "Some see a decline in this \"loyalty\"; used to be when Grandma bought Charmin once, she'd dang well keep buying Charmin",
+     "a": "brand loyalty",
+     "right": [
+      "Austin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 5,
+     "q": "In 2016 the circus came to town; specifically, this circus that made its Broadway debut in \"Paramour\"",
+     "a": "Cirque du Soleil",
+     "right": [
+      "Diana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 19,
+     "q": "In Minnesota: \nthis shopping mecca",
+     "a": "the Mall of America",
+     "right": [
+      "Austin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 16,
+     "q": "Sadly, Yo-Yo Ma & Robin Williams just missed overlapping at this NYC fine arts school",
+     "a": "Juilliard",
+     "right": [
+      "Austin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 24,
+     "q": "In a kid song's first lyric, \"She'll be\" doing this \"when she comes\", \"she'll be\" doing this \"when she comes\"",
+     "a": "coming around the mountain",
+     "right": [
+      "Diana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 4,
+     "q": "A stubby is a small bottle of this; cheers!",
+     "a": "beer",
+     "right": [
+      "Rebekah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 11,
+     "q": "\"BOGOF\" is an abbreviation for this promotion that means a 50% savings",
+     "a": "buy one, get one free",
+     "right": [
+      "Austin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 6,
+     "q": "Let's paint the picture: \nJake Gyllenhaal worked Sundays on Broadway in this revival",
+     "a": "Sunday in the Park with George",
+     "right": [
+      "Diana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 20,
+     "q": "In this state: \nPike Place Market",
+     "a": "Washington",
+     "right": [
+      "Austin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 28,
+     "q": "Before getting cuckoo with his Merry Pranksters, this alliterative author walked like a duck at the Univ. of Oregon",
+     "a": "Ken Kesey",
+     "right": [
+      "Austin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 25,
+     "q": "Seen here, this nation's standard depicts a round blue chakra with 24 spokes",
+     "a": "India",
+     "right": [
+      "Austin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": true,
+     "order": 26,
+     "q": "Jumbuck is an Aussie term for this animal, of which there are a lot Down Under",
+     "a": "sheep",
+     "right": [],
+     "wrong": [
+      "Austin"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 4000
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 12,
+     "q": "It sounds like a small, high-end shop, but in business, it's a specialty investment banker",
+     "a": "boutique",
+     "right": [
+      "Diana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 7,
+     "q": "\"The Glass Menagerie\" rebroke on B'way & this Oscar winner hoped fans would really like her as Amanda Wingfield",
+     "a": "Sally Field",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 21,
+     "q": "In this state: \nRed Rocks Park & Amphitheatre",
+     "a": "Colorado",
+     "right": [
+      "Austin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 29,
+     "q": "An army of ambassadors has studied intl. affairs at the Fletcher School of this univ. in Medford, Mass.",
+     "a": "Tufts",
+     "right": [],
+     "wrong": [
+      "Rebekah"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 30,
+     "q": "Calculate the volume of one of these with 4/3 x πr3",
+     "a": "a sphere",
+     "right": [
+      "Rebekah"
+     ],
+     "wrong": [
+      "Austin"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 27,
+     "q": "Tommy Roe might know that this \"Sweet Little\" name is Aussie slang for a girl or woman",
+     "a": "Sheila",
+     "right": [
+      "Diana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 13,
+     "q": "Henry Luce said, \"There are men who can write poetry, and there are men who can read\" these pages of assets & liabilities",
+     "a": "balance sheet",
+     "right": [
+      "Diana"
+     ],
+     "wrong": [
+      "Austin"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 8,
+     "q": "In the revival of \"The Little Foxes\", Laura Linney alternated roles with this actress",
+     "a": "Cynthia Nixon",
+     "right": [
+      "Diana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "19th CENTURY WOMEN AUTHORS",
+    "WORDPLAY",
+    "YOUR FILM & TV WAIT STAFF",
+    "CHEMISTRY",
+    "PRESIDENTS BORN WEST OF THE MISSISSIPPI",
+    "\"UR\" THE TOP!"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 6,
+     "q": "Martha Finley wrote 28 novels about Elsie, a virtuous Southern girl who lives on these including the Oaks & Roselands",
+     "a": "plantations",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "\"Wheel of Fortune\" uses an adapted version of this game in which players guess the hidden letters of a word",
+     "a": "hangman",
+     "right": [
+      "Austin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 9,
+     "q": "Max Black & Caroline Channing serve as this CBS title duo in a diner",
+     "a": "2 Broke Girls",
+     "right": [
+      "Austin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 18,
+     "q": "Gallium turns to liquid slightly above this temperature sometimes given as 72 degrees Fahrenheit",
+     "a": "room temperature",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 16,
+     "q": "The first to be born west of the Mississippi (hope it didn't cause a Depression)",
+     "a": "Hoover",
+     "right": [
+      "Austin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 14,
+     "q": "To the ancient Greeks, he was really tops--he personified heaven",
+     "a": "Uranus",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": true,
+     "order": 7,
+     "q": "Johanna Spyri spent summers in the Swiss Alps & used her memories in this book about an orphan girl sent to live there",
+     "a": "Heidi",
+     "right": [
+      "Rebekah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1000
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 2,
+     "q": "Strict usage distinguished initialisms such as \"FBI\" & \"NSA\" from these such as \"NASA\" & \"NATO\"",
+     "a": "acronyms",
+     "right": [
+      "Austin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 10,
+     "q": "One of Lucy Liu's earliest roles was addressing diners at the Peach Pit on this '90s drama",
+     "a": "Beverly Hills, 90210",
+     "right": [
+      "Austin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 19,
+     "q": "In biology, an insectivore; in chemistry, a measuring unit of very small things",
+     "a": "a mole",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 20,
+     "q": "Of the 8 presidents born west of the Mississippi River, the one born farthest west",
+     "a": "Barack Obama",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 15,
+     "q": "A 2016 report said that per capita, this country's citizens were the world's top eaters of beef",
+     "a": "Uruguay",
+     "right": [
+      "Austin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 8,
+     "q": "Henrik Ibsen was influenced by Camilla Collett, a 19th c. novelist & women's rights advocate in this, their home country",
+     "a": "Norway",
+     "right": [
+      "Austin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 3,
+     "q": "Malcolm X often used the device called chiasmus, as in \"We didn't land on Plymouth Rock; the rock was\" this",
+     "a": "landed on us",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 11,
+     "q": "A sunglasses-clad John Belushi wants wine, 5 shrimp cocktails & some bread from Paul Reubens in this film",
+     "a": "The Blues Brothers",
+     "right": [
+      "Austin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 28,
+     "q": "(Sarah of the Clue Crew presents the clue.) The structural formula for water is HOH; HOOH is the formula for this solution that you might keep in your bathroom or first aid kit",
+     "a": "hydrogen peroxide",
+     "right": [
+      "Austin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 21,
+     "q": "The one born farthest west in the continental U.S.",
+     "a": "Richard Nixon",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 23,
+     "q": "Alioth & Dubhe are its brightest stars",
+     "a": "Ursa Major",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 26,
+     "q": "Her \"Silas Marner\" is subtitled \"The Weaver of Raveloe\"",
+     "a": "George Eliot",
+     "right": [
+      "Rebekah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 4,
+     "q": "A rebus is a word puzzle & this answer to the one seen here means you get it\n\nSTAND\nI",
+     "a": "I understand",
+     "right": [
+      "Rebekah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 12,
+     "q": "Before getting into shenanigans as Marvel's merc with a mouth, this actor served it up at Shenaniganz in a 2005 film",
+     "a": "Ryan Reynolds",
+     "right": [
+      "Austin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 30,
+     "q": "2 letters longer than \"activity\", this is high in the halogen elements, so they're not naturally found uncombined",
+     "a": "reactivity",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 17,
+     "q": "Of those on the list, he's the most recent from a state that borders the Mississippi",
+     "a": "Bill Clinton",
+     "right": [
+      "Austin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 4500
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 24,
+     "q": "The peak of Mount Yamantau is the top of the southern section of this mountain range",
+     "a": "the Urals",
+     "right": [
+      "Austin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 27,
+     "q": "This 3-named \"Little Lord Fauntleroy\" author also penned \"A Little Princess\"",
+     "a": "Frances Hodgson Burnett",
+     "right": [
+      "Diana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 5,
+     "q": "The 2017 U.K. Pun Championships produced gems like \"Pakistani pirates.\" This language \"they think they argh?\"",
+     "a": "Urdu they think they argh?",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 13,
+     "q": "Lorna Thayer was the waitress whom this actor wants to hold the chicken (between her knees) in \"Five Easy Pieces\"",
+     "a": "Jack Nicholson",
+     "right": [
+      "Diana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 29,
+     "q": "The hollow carbon molecule seen here is called a buckyball & was named for this non-chemist",
+     "a": "Buckminster Fuller",
+     "right": [
+      "Rebekah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 22,
+     "q": "The one who served the shortest time as president",
+     "a": "Gerald Ford",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 25,
+     "q": "You're supremely suave & courteous, this adjective",
+     "a": "urbane",
+     "right": [
+      "Diana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "COUNTRIES OF THE WORLD",
+  "q": "They begin with the same 3 letters: the most densely populated country in Europe & the least densely populated in Asia",
+  "a": "Monaco and Mongolia",
+  "right": [
+   "Austin"
+  ],
+  "wrong": [
+   "Rebekah",
+   "Diana"
+  ]
+ },
+ "gameId": "5795",
+ "cat_notes": {
+  "J": [
+   "Clues about Most Instagrammed Places by State.",
+   "The category “SCHOOLED!” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "Clues about Round House.",
+   "Clues about Aussie Slang.",
+   "Each answer starts with “B”, and the clues are about Usiness.",
+   "Clues about Broadway, Baby."
+  ],
+  "DJ": [
+   "Clues about 19th Century Women Authors.",
+   "Clues about Wordplay.",
+   "Clues about Your Film and TV Wait Staff.",
+   "Clues about Chemistry.",
+   "Clues about Presidents Born West of the Mississippi.",
+   "Those two letters, \"U-R\", coming up in each correct response."
+  ],
+  "F": "Clues about Countries of the World."
+ }
+}

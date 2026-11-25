@@ -1,0 +1,983 @@
+{
+ "show": "#7689",
+ "aired": "2018-02-01",
+ "note": "Ryan Fenster game 4.",
+ "contestants": [
+  {
+   "name": "Justin Earnshaw",
+   "bio": "an English teacher from Cheyenne, Wyoming",
+   "short": "Justin"
+  },
+  {
+   "name": "Sara Helmers",
+   "bio": "an attorney from Washington, D.C.",
+   "short": "Sara"
+  },
+  {
+   "name": "Ryan Fenster",
+   "bio": "a banker from SeaTac, Washington (whose 3-day cash winnings total $67,399)",
+   "short": "Ryan"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Ryan": 8200,
+   "Sara": 3000,
+   "Justin": 2600
+  },
+  "DJ": {
+   "Ryan": 11400,
+   "Sara": 6600,
+   "Justin": 12200
+  },
+  "Final": {
+   "Ryan": 22799,
+   "Sara": 100,
+   "Justin": 1200
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "TALKIN' FOOTBALL",
+    "LITERARY TERMS",
+    "\"F\" STOP",
+    "INTRODUCTION TO FILM",
+    "GEOGRAPHY 101",
+    "EASY COURSE LOAD"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 26,
+     "q": "Your choice: do or don't name this play in which the QB runs the ball & can choose to pitch it to another back",
+     "a": "option play",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 9,
+     "q": "Shorter word for \"non-poetry\"; a Moliere character is amazed that he's been speaking it his whole life",
+     "a": "prose",
+     "right": [
+      "Justin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 15,
+     "q": "Easing of anxiety, or what a late-inning pitcher provides to ease a manager's anxiety",
+     "a": "relief",
+     "right": [
+      "Sara"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 6,
+     "q": "1962:\n\"Introducing Peter O'Toole\"",
+     "a": "Lawrence of Arabia",
+     "right": [],
+     "wrong": [
+      "Ryan",
+      "Justin"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 5,
+     "q": "As you cross into San Francisco from the north on U.S. 101, you're on this structure",
+     "a": "Golden Gate Bridge",
+     "right": [
+      "Sara"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 7,
+     "q": "Half a deviled egg with crispy bacon serves as this light appetizer from the French for \"mouth pleaser\"",
+     "a": "amuse-bouche",
+     "right": [
+      "Sara"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "Tom Landry perfected the shotgun formation with this team",
+     "a": "Dallas Cowboys",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 10,
+     "q": "A century-old series from Oxford University Press is \"World's\" these timeless works",
+     "a": "classics",
+     "right": [
+      "Sara"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 14,
+     "q": "A boat dock that is built out over the water",
+     "a": "wharf",
+     "right": [
+      "Sara"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 19,
+     "q": "1978:\n\"Introducing Jamie Lee Curtis as Laurie\"",
+     "a": "Halloween",
+     "right": [
+      "Justin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "U.S. Hwy 101 once stretched from Washington to Mexico; now its southern end is in this city's Boyle Heights area",
+     "a": "Los Angeles",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [
+      "Justin"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 8,
+     "q": "Lima beans, corn & tomatoes are the key ingredients of this \"sufferin\"' side dish",
+     "a": "succotash",
+     "right": [
+      "Justin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 28,
+     "q": "By signaling for one of these, a returner can reel in a kick without fear of getting tackled",
+     "a": "fair catch",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 11,
+     "q": "From the Italian, it's another word for a verse of poetry",
+     "a": "stanza",
+     "right": [
+      "Sara"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 16,
+     "q": "Title adjective for \"Three Billy Goats\" in a folktale",
+     "a": "Gruff",
+     "right": [
+      "Justin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 21,
+     "q": "\"And introducing Ke Huy Quan as Short Round\" in this 1984 action sequel",
+     "a": "Indiana Jones and the Temple of Doom",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 2,
+     "q": "Seaside, Oregon marks the spot where members of the Lewis & Clark expedition boiled sea water to make 28 gallons of this",
+     "a": "salt",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 23,
+     "q": "Also on the plate, this bulgur treat using parsley, mint, tomato, and lemon",
+     "a": "tabbouleh",
+     "right": [],
+     "wrong": [
+      "Ryan"
+     ],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "These \"penalties\" are simultaneous violations by the offense & defense that cancel each other out",
+     "a": "offsetting penalties",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 12,
+     "q": "What's my this? The reason characters do the things they do in a story",
+     "a": "motivation",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 17,
+     "q": "A defendant's accuser in a court case",
+     "a": "plaintiff",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 20,
+     "q": "A 1976 remake:\n\"Introducing Jessica Lange\"",
+     "a": "King Kong",
+     "right": [
+      "Justin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 3,
+     "q": "You have found it! The Carson Mansion in this port city and seat of Humboldt County",
+     "a": "Eureka",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 24,
+     "q": "Dirt cake doesn't sound like the best dessert, but the \"soil\" is Oreos & the \"worms\" are this kind",
+     "a": "Gummies",
+     "right": [
+      "Justin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 30,
+     "q": "(Jimmy of the Clue Crew presents the clue from U.S. Bank Stadium in Minneapolis.) As Minneapolis' U.S. Bank Stadium prepares to host Super Bowl LII, I'm looking at the Ring of Honor, with names from this defensive line that took the Vikings to four Super Bowls",
+     "a": "the Purple People Eaters",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": true,
+     "order": 13,
+     "q": "3 types of conflict are man against man, man against himself & this title of an anthology with Hemingway & Heyerdahl",
+     "a": "Man against Nature",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2000
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 18,
+     "q": "Ouzo is this, as it's drunk before a meal to stimulate the appetite",
+     "a": "aperitif",
+     "right": [
+      "Sara"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 22,
+     "q": "A 1994 Jim Carrey film:\n\"And introducing Cameron Diaz\"",
+     "a": "The Mask",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 4,
+     "q": "In Washington State, U.S. 101 skirts this National Park and its lush rainforests",
+     "a": "Olympic National Park",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 25,
+     "q": "To end the meal, let's take wing with this, a series of single-ounce servings of fine wines or whiskeys",
+     "a": "a flight",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "BLACK HISTORY NOTABLES",
+    "ADJECTIVES",
+    "TV SHOWS IN OTHER WORDS",
+    "TOTALLY METAL, DUDE",
+    "CIVIL LAW",
+    "STAG, YOU'RE IT"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "His blindness by age 7, possibly from glaucoma, never got in the way of his success",
+     "a": "Ray Charles",
+     "right": [
+      "Justin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "An adjective despite ending in -ly, it precedes \"pear\", botanically--get the point?",
+     "a": "prickly",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 26,
+     "q": "\"3 Pairs of Tootsies Down Below\"",
+     "a": "Six Feet Under",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 16,
+     "q": "Hi-yo, \"liquid silver\"! Big producers of this element include Chile & Kyrgyzstan",
+     "a": "mercury",
+     "right": [
+      "Justin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 7,
+     "q": "In German civil law you can have a holographic one of these, that bears the testator's signature",
+     "a": "will",
+     "right": [
+      "Sara"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 12,
+     "q": "A spectral white stag is the patronus form of this young title character",
+     "a": "Harry Potter",
+     "right": [
+      "Sara"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 3,
+     "q": "He's the author & very visible man seen here",
+     "a": "Ralph Ellison",
+     "right": [
+      "Justin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 22,
+     "q": "Mr. Burns' \"superior\" 1-word catchphrase",
+     "a": "\"Excellent!\"",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 27,
+     "q": "\"Hospital Caregiver Mrs. Onassis\"",
+     "a": "Nurse Jackie",
+     "right": [
+      "Sara"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 17,
+     "q": "Of all metals, it has the greatest ductility & reflects heat rays the best, so yeah, it's a pretty valuable thing to have",
+     "a": "gold",
+     "right": [
+      "Justin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 8,
+     "q": "This 1804 code contained French civil law",
+     "a": "Napoleonic Code",
+     "right": [
+      "Justin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 13,
+     "q": "This liquor with a stag on the label offers a stag's head pourer that fits on its bottles",
+     "a": "Jägermeister",
+     "right": [
+      "Justin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 4,
+     "q": "In 1957, she became the first African-American to win a singles title at Wimbledon",
+     "a": "Althea Gibson",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 23,
+     "q": "This 8-letter word describes the journey of the \"Man of La Mancha\"",
+     "a": "quixotic",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 28,
+     "q": "\"Yankee Terror Tale\"",
+     "a": "American Horror Story",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 19,
+     "q": "The lower layer of the earth's outer crust is called the sima because it's composed of silica & this metallic element",
+     "a": "magnesium",
+     "right": [
+      "Sara"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 9,
+     "q": "The Swiss civil code of 1907 superseded some of the laws of these districts of the federation",
+     "a": "a canton",
+     "right": [
+      "Sara"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 14,
+     "q": "Here's Actaeon about to be caught by his own dogs after this Greek goddess of the hunt turned him into a stag",
+     "a": "Artemis",
+     "right": [
+      "Sara"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 5,
+     "q": "He was a longtime assistant to Robert E. Peary, and a co-discoverer of the North Pole",
+     "a": "Matthew Henson",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 24,
+     "q": "Neither donkey nor elephant, the Congressional Budget Office says it offers this type of objective analysis",
+     "a": "nonpartisan",
+     "right": [],
+     "wrong": [
+      "Sara"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 29,
+     "q": "\"Homely Boop\"",
+     "a": "Ugly Betty",
+     "right": [],
+     "wrong": [
+      "Ryan"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 4000
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 20,
+     "q": "A beam of cesium is a prime component of this extremely accurate device; the first experimental one was built in 1949",
+     "a": "atomic clock",
+     "right": [],
+     "wrong": [
+      "Sara"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2000
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 10,
+     "q": "In some civil-law countries, these \"public\" legal authenticators have significant educational requirements",
+     "a": "notary",
+     "right": [
+      "Justin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 15,
+     "q": "This baron, a teller of tall tales, shot a stag with a cherry pit & found a tree growing from its head",
+     "a": "(Baron von) Munchausen",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 6,
+     "q": "The subject of a TV movie and a Rockwell painting, in 1960 she made history by integrating an all-white school in New Orleans",
+     "a": "(Ruby) Bridges",
+     "right": [
+      "Sara"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 25,
+     "q": "If you can't pay certain fees, a court may declare you this synonym for needy",
+     "a": "indigent (destitute accepted)",
+     "right": [
+      "Justin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 30,
+     "q": "\"a decade or less shy of two score years old\"",
+     "a": "thirtysomething",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 21,
+     "q": "It's atomic number 22 in your program but number 1 in your heart when an alloy is used in a pacemaker",
+     "a": "titanium",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 11,
+     "q": "The U.S. Justice Dept. says that in countries with civil law, the judge can act more like this \"p\"erson in our system",
+     "a": "prosecutor",
+     "right": [
+      "Justin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 18,
+     "q": "A famous 19th century image by Edwin Landseer is \"Stag at\" this, referring to being trapped, not the body of water",
+     "a": "bay",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "U.S. AUTHORS",
+  "q": "In his 1958 essay \"Essentials of Spontaneous Prose\", he compared a writing technique to a jazz musician's style",
+  "a": "Jack Kerouac",
+  "right": [
+   "Ryan"
+  ],
+  "wrong": [
+   "Sara",
+   "Justin"
+  ]
+ },
+ "gameId": "5898",
+ "cat_notes": {
+  "J": [
+   "Clues about Talkin Football.",
+   "Clues about Literary Terms.",
+   "Each correct response will end with that letter of the alphabet.",
+   "Clues about Introduction to Film.",
+   "Clues about Geography 101.",
+   "And, of course, it's an..."
+  ],
+  "DJ": [
+   "Clues about Black History Notables.",
+   "Clues about Adjectives.",
+   "Clues about TV Shows in Other Words.",
+   "Clues about Totally Metal, Dude.",
+   "Clues about Civil Law.",
+   "Clues about Stag, You're It."
+  ],
+  "F": "Clues about U.S. Authors."
+ }
+}

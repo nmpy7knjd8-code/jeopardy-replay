@@ -1,0 +1,994 @@
+{
+ "show": "#7805",
+ "aired": "2018-07-13",
+ "note": "The Final Jeopardy! screen displays the clue incorrectly in the studio, disadvantaging a challenger and resulting in him being invited back later in the year.",
+ "contestants": [
+  {
+   "name": "Bryan Rucker",
+   "bio": "a writer from Los Angeles, California",
+   "short": "Bryan"
+  },
+  {
+   "name": "Vincent Valenzuela",
+   "bio": "an internal customer service manager from Wheaton, Illinois",
+   "short": "Vincent"
+  },
+  {
+   "name": "Michelle Cabral",
+   "bio": "an elementary school music teacher from Toronto, Ontario, Canada (whose 1-day cash winnings total $18,400)",
+   "short": "Michelle"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Michelle": 3400,
+   "Vincent": 2400,
+   "Bryan": 4600
+  },
+  "DJ": {
+   "Michelle": 14200,
+   "Vincent": 15200,
+   "Bryan": 11800
+  },
+  "Final": {
+   "Michelle": 18200,
+   "Vincent": 1999,
+   "Bryan": 11800
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "FIRST LINES FROM NOVELS",
+    "OUT IN LEFT FIELD",
+    "THE HUMAN BODY",
+    "CROSSWORD CLUES \"P\"",
+    "A STREETCAR",
+    "NAME DESIRED"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "1884:\n\"You don't know about me without you have read a book by the name of 'The Adventures of Tom Sawyer'\"",
+     "a": "Huckleberry Finn",
+     "right": [
+      "Vincent"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 17,
+     "q": "Despite his nickname, this left fielder for the 1919 Chicago \"Black Sox\" didn't usually play barefoot",
+     "a": "Shoeless Joe",
+     "right": [
+      "Michelle"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 2,
+     "q": "Hair emerges from this tiny pore in the skin",
+     "a": "follicles",
+     "right": [
+      "Bryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 6,
+     "q": "To sulk\n(4)",
+     "a": "to pout",
+     "right": [
+      "Michelle"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 9,
+     "q": "This city isn't just about cable cars; its classic Muni streetcars run past the historic piers",
+     "a": "San Francisco",
+     "right": [
+      "Vincent"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 10,
+     "q": "This name won a 1966 contest in the New Orleans States-Item newspaper for the city's new NFL team",
+     "a": "the Saints",
+     "right": [
+      "Bryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 3,
+     "q": "1859: \n\"It was the best of times, it was the worst of times\"",
+     "a": "A Tale of Two Cities",
+     "right": [
+      "Michelle"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "HOFer Ralph Kiner became an announcer known for quotes like \"McReynolds stops at\" this base \"and he scores\"",
+     "a": "third",
+     "right": [
+      "Bryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 8,
+     "q": "From the Latin for \"little key\", it's another name for the collarbone",
+     "a": "clavicle",
+     "right": [
+      "Bryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 18,
+     "q": "Crab claws\n(7)",
+     "a": "pincers",
+     "right": [
+      "Michelle"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 13,
+     "q": "The Sun Link streetcars that take you to the U. of Arizona in this city are among the first U.S.-made ones in 60 years",
+     "a": "Tucson",
+     "right": [],
+     "wrong": [
+      "Michelle"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 11,
+     "q": "This \"colorful\" conservation group asked the internet to name a humpback whale & we got Mr. Splashy Pants",
+     "a": "Greenpeace",
+     "right": [
+      "Bryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 4,
+     "q": "Page 001 (not 007): \n\"The scent and smoke and sweat of a casino are nauseating at three in the morning\"",
+     "a": "Casino Royale",
+     "right": [
+      "Michelle"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 28,
+     "q": "A 37-foot wall with this nickname looms over left field in Fenway Park",
+     "a": "the Green Monster",
+     "right": [
+      "Michelle"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": true,
+     "order": 12,
+     "q": "It's the junction between neurons; let's hope yours are firing now",
+     "a": "synapses",
+     "right": [
+      "Bryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1000
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 19,
+     "q": "Describing supernatural phenomena \n(10)",
+     "a": "paranormal",
+     "right": [
+      "Bryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 14,
+     "q": "If you are from west this city, born & raised, you've seen its restored SEPTA streetcar on Route 15",
+     "a": "Philadelphia",
+     "right": [
+      "Michelle"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 24,
+     "q": "After a NASA naming contest, the COLBERT, named for late night host Stephen, was a treadmill usable aboard this",
+     "a": "the International Space Station",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 5,
+     "q": "1878: \n\"All happy families are alike, each unhappy family is unhappy in its own way\"",
+     "a": "Anna Karenina",
+     "right": [
+      "Bryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "From 1941 to 1963 Stan \"The Man\" Musial patrolled left in this city's Sportsman's Park & Busch Stadium",
+     "a": "St. Louis",
+     "right": [
+      "Vincent"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 15,
+     "q": "Swallowing or yawning can equalize the pressure in this, also called the auditory tube",
+     "a": "the Eustachian tube",
+     "right": [
+      "Vincent"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 20,
+     "q": "Rice field\n(5)",
+     "a": "paddy",
+     "right": [
+      "Bryan"
+     ],
+     "wrong": [
+      "Vincent"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 22,
+     "q": "In 2001 this City of Roses got the USA's first new streetcar line since WWII & it'll take you to the Rose Quarter",
+     "a": "Portland",
+     "right": [
+      "Bryan"
+     ],
+     "wrong": [
+      "Vincent"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 25,
+     "q": "After letting the internet vote on the name of 2 moons circling Pluto, SETI chose Kerberos & this river",
+     "a": "Styx",
+     "right": [
+      "Michelle"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 7,
+     "q": "1952: \n\"Roy Hobbs pawed at the glass before thinking to prick a match with his thumbnail\"",
+     "a": "The Natural",
+     "right": [
+      "Vincent"
+     ],
+     "wrong": [
+      "Bryan"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 30,
+     "q": "Some weren't happy CEO Derek Jeter & this team traded young left fielder Marcell Ozuna after his great 2017 season",
+     "a": "the Miami Marlins",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 16,
+     "q": "(Kelly of the Clue Crew shows a model of the knee on the monitor.) These two ligaments, one posterior & one anterior, stabilize the knee & get their name from the fact that they cross in a \"X\" shape",
+     "a": "cruciate ligaments",
+     "right": [
+      "Vincent"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 21,
+     "q": "Eastern tiered tower\n(6)",
+     "a": "pagoda",
+     "right": [],
+     "wrong": [
+      "Bryan"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 23,
+     "q": "A vintage trolley in Denver travels a short distance along this river to Mile High Stadium",
+     "a": "the South Platte River",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 26,
+     "q": "Boaty McBoatface won a poll for the name of a big polar ship, but instead, the name chosen honors this British naturalist",
+     "a": "(David) Attenborough",
+     "right": [
+      "Bryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "MY AUTOBIOGRAPHY THAT I WROTE",
+    "SHADY CHARACTERS",
+    "IRISH HISTORY",
+    "THE SOCIAL NETWORK",
+    "WORLD HERITAGE IN DANGER",
+    "PARTING WORDS"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 10,
+     "q": "Only this ex-76er & TNT analyst could say he was misquoted in his own 1992 autobiography, \"Outrageous!\"",
+     "a": "Charles Barkley",
+     "right": [
+      "Vincent"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 5,
+     "q": "Kevin Bacon gets some cents drilled into him by Magneto in this group \"First Class\"",
+     "a": "the X-Men",
+     "right": [
+      "Michelle"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 26,
+     "q": "Between 1844 & 1851, Ireland's population dropped more than 20% as a result of this disaster",
+     "a": "the potato famine",
+     "right": [
+      "Michelle"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 15,
+     "q": "Ship captains rely on this group; for Mardi Gras, it's spelled with a \"K\" at the start & an extra \"E\" at the end",
+     "a": "a crew/krewe",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "Far from any mosque, one of these prayer towers rises above the Hari River in remote central Afghanistan",
+     "a": "a minaret",
+     "right": [
+      "Michelle"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 18,
+     "q": "In bowling, a 3-10 or 2-7 is called a baby this",
+     "a": "a split",
+     "right": [
+      "Vincent"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 11,
+     "q": "The title of this memoir by Maya Angleou comes from a poem that says, \"When he beats his bars and he would be free\"",
+     "a": "I Know Why the Caged Bird Sings",
+     "right": [
+      "Bryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 6,
+     "q": "Christoph Waltz exudes evil charm as Hans Landa in this WWII-set film",
+     "a": "Inglourious Basterds",
+     "right": [
+      "Vincent"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 27,
+     "q": "Irish herpetophobes are still grateful to the raiders who kidnapped this 16-year-old Brit in the 5th century",
+     "a": "St. Patrick",
+     "right": [
+      "Vincent"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 16,
+     "q": "A community for fans of the Cleveland Indians can be found online at www.letsgo this 5-letter word",
+     "a": "tribe",
+     "right": [
+      "Michelle"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 2,
+     "q": "The only U.S. site on the list is this national park that's home to endangered species such as the manatee",
+     "a": "Everglades National Park",
+     "right": [
+      "Vincent"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 19,
+     "q": "This geometry term is what the middle line has done to the angle",
+     "a": "bisect",
+     "right": [
+      "Vincent"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 12,
+     "q": "\"It's Too Late Now\" looked back at how his son's stuffed animals were the genesis of this Brit writer's beloved characters",
+     "a": "A.A. Milne",
+     "right": [
+      "Michelle"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 7,
+     "q": "As Clubber Lang in \"Rocky III\", this actor got to say his \"I pity the fool\" catchphrase",
+     "a": "Mr. T",
+     "right": [
+      "Michelle"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": true,
+     "order": 28,
+     "q": "The Protestant society called this color \"Order\" is named for the king who defeated Catholic James II in Ireland in 1690",
+     "a": "orange",
+     "right": [
+      "Vincent"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 6800
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 17,
+     "q": "To law enforcement, KA's are known these, potential accomplices the suspected bad guys hang out with",
+     "a": "known associates",
+     "right": [],
+     "wrong": [
+      "Vincent"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 3,
+     "q": "The historic docklands of this northern England port city were added to the list in 2012",
+     "a": "Liverpool",
+     "right": [
+      "Bryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 20,
+     "q": "This other word for a butcher's knife has a word for \"divide\" in it",
+     "a": "a cleaver",
+     "right": [
+      "Michelle"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 13,
+     "q": "His \"Gifted Hands\" pointed him toward neurosurgery; later, he entered politics",
+     "a": "(Ben) Carson",
+     "right": [
+      "Michelle"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1200
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 8,
+     "q": "Rosamund Pike coolly nixes NPH in this alliterative 2014 adaptation",
+     "a": "Gone Girl",
+     "right": [
+      "Bryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 29,
+     "q": "It was created in 1919 as a successor to a militant group called the Irish volunteers",
+     "a": "the IRA",
+     "right": [
+      "Vincent"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 24,
+     "q": "Under this 3-letter word, a \"Dictionary of American Regionalisms\" has \"Family, relations. 'He ain't no ____ of mine'\"",
+     "a": "kin",
+     "right": [
+      "Bryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 4,
+     "q": "The BBRRS, the \"Belize\" this \"Reserve System\", is threatened by oil & gas exploration & overfishing",
+     "a": "barrier reef",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 21,
+     "q": "This type of issue is brought up to divide a political party, not to hold the door open",
+     "a": "a wedge",
+     "right": [
+      "Vincent"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 14,
+     "q": "Vol. 2 of Buzz Aldrin's look back is \"Magnificent\" this synonym for barrenness, a memorable Buzz quote on the moon",
+     "a": "desolation",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 9,
+     "q": "Robert Patrick was this alphanumeric baddie in \"Terminator 2: Judgment Day\"",
+     "a": "the T-1000",
+     "right": [
+      "Michelle"
+     ],
+     "wrong": [
+      "Vincent"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 30,
+     "q": "Dublin's main thoroughfare commemorates this last name of 19th century Irish nationalist Daniel",
+     "a": "O'Connell",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 25,
+     "q": "A hot beverage & the German for \"gossip\" give us this term for a gathering of minds",
+     "a": "a coffee klatsch",
+     "right": [
+      "Vincent"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 23,
+     "q": "Sadly, 6 sites in this civil war-torn country were added to the list in 2013, including the fortress of Saladin",
+     "a": "Syria",
+     "right": [
+      "Bryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 22,
+     "q": "Common prayer says of marriages, \"Those whom God hath joined together let no man put\" this 7-letter word",
+     "a": "asunder",
+     "right": [
+      "Michelle"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "MODERN LANGUAGE",
+  "q": "This slang term for an environmentalist is literally true of groups that used passive resistance vs. deforestation, as in India in 1973",
+  "a": "a tree hugger",
+  "right": [
+   "Bryan",
+   "Michelle"
+  ],
+  "wrong": [
+   "Vincent"
+  ]
+ },
+ "gameId": "6053",
+ "cat_notes": {
+  "J": [
+   "Clues about First Lines from Novels.",
+   "Clues about Out in Left Field.",
+   "Clues about The Human Body.",
+   "Crossword-style clues; each answer contains “P”.",
+   "Clues about A Streetcar.",
+   "Clues about Name Desired."
+  ],
+  "DJ": [
+   "The category “MY AUTOBIOGRAPHY THAT I WROTE” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "Clues about Shady Characters.",
+   "Clues about Irish History.",
+   "Clues about The Social Network.",
+   "Then, from the official UNESCO list of 54 endangered World Heritage sites...",
+   "Clues about Parting Words."
+  ],
+  "F": "Clues about Modern Language."
+ }
+}

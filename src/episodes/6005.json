@@ -1,0 +1,1002 @@
+{
+ "show": "#7780",
+ "aired": "2018-06-08",
+ "note": "",
+ "contestants": [
+  {
+   "name": "John Fassola",
+   "bio": "an attorney from Homer Glen, Illinois",
+   "short": "John"
+  },
+  {
+   "name": "David Kleinman",
+   "bio": "a student from Sharon, Massachusetts",
+   "short": "David"
+  },
+  {
+   "name": "Mirza Gluhic",
+   "bio": "a transcriber from Toronto, Ontario, Canada (whose 1-day cash winnings total $28,200)",
+   "short": "Mirza"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Mirza": 5400,
+   "David": 4000,
+   "John": 2200
+  },
+  "DJ": {
+   "Mirza": 13000,
+   "David": 16800,
+   "John": 8600
+  },
+  "Final": {
+   "Mirza": 25000,
+   "David": 31600,
+   "John": 300
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "ITALY BEFORE THE ROMANS",
+    "POP CULTURE SQUIRRELS",
+    "THIS CATEGORY WILL BLOW YOU AWAY",
+    "STATE OF THE NEWSPAPER",
+    "SAILING LIT",
+    "TONGUE-TWISTER PROTAGONISTS"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "Prehistoric Villanovans in the 700s B.C. cremated their dead, created geometric art & made use of this alloy",
+     "a": "bronze",
+     "right": [
+      "David"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 9,
+     "q": "Sandy Cheeks wears a space suit & helmet underwater so she can hang out with this title guy",
+     "a": "SpongeBob SquarePants",
+     "right": [
+      "Mirza"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 16,
+     "q": "Don't try it at home, but it's the art form being practiced here",
+     "a": "glassblowing",
+     "right": [
+      "Mirza"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 3,
+     "q": "The Hartford Courant",
+     "a": "Connecticut",
+     "right": [
+      "Mirza"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 24,
+     "q": "The vessel in Lothar-Gunther Buchheim's claustrophobic World War II novel \"Das Boot\" is one of these",
+     "a": "a U-boat",
+     "right": [
+      "John"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 21,
+     "q": "A groundhog, under this alias",
+     "a": "a woodchuck",
+     "right": [
+      "David"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 4,
+     "q": "For 1,000 years before the Romans, the Nuragic culture built stone fortresses on this \"fishy\" island",
+     "a": "Sardinia",
+     "right": [
+      "Mirza"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 10,
+     "q": "Scrat is the nutty, acorn-obsessed saber-toothed squirrel in this series of movies",
+     "a": "Ice Age",
+     "right": [
+      "Mirza"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 17,
+     "q": "In this play Oberon tells Puck, \"I know a bank where the wild thyme blows\"",
+     "a": "A Midsummer Night's Dream",
+     "right": [
+      "David"
+     ],
+     "wrong": [
+      "Mirza"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 12,
+     "q": "The Columbus Dispatch",
+     "a": "Ohio",
+     "right": [
+      "John"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 25,
+     "q": "For poet John Masefield, \"All I ask is a tall ship and\" this \"to steer her by\"",
+     "a": "a star",
+     "right": [
+      "Mirza"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 8,
+     "q": "A beachside vendor of these",
+     "a": "seashells",
+     "right": [
+      "John"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": true,
+     "order": 5,
+     "q": "Around 600 B.C. the Insubres, a tribe in northern Italy, founded Mediolanum, today this city",
+     "a": "Milan",
+     "right": [
+      "Mirza"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1000
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 11,
+     "q": "Twiggy the squirrel is a cultural sensation for expertly doing this aquatic activity",
+     "a": "water-ski",
+     "right": [
+      "John"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 20,
+     "q": "Usually made from a ram's horn, it's traditionally blown during the Jewish high holiday of Rosh Hashanah",
+     "a": "a shofar",
+     "right": [
+      "John"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 13,
+     "q": "The Rapid City Journal",
+     "a": "South Dakota",
+     "right": [],
+     "wrong": [
+      "Mirza",
+      "John"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 26,
+     "q": "\"My purpose holds to sail beyond the sunset\", he says in a Tennyson poem that bears his name, set after a Homer epic",
+     "a": "Ulysses",
+     "right": [],
+     "wrong": [
+      "Mirza",
+      "David"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 2,
+     "q": "A man with this first name also applied to a male turkey (he threw Tim three thumbtacks)",
+     "a": "Tom",
+     "right": [
+      "John"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 6,
+     "q": "According to legend, refugees of this 1200 B.C. conflict first fled to Thrace, then north Africa & finally Italy",
+     "a": "the Trojan War",
+     "right": [
+      "Mirza"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 18,
+     "q": "June Foray gave voice to this high-flying resident of Frostbite Falls--again!",
+     "a": "Rocky (the Flying Squirrel)",
+     "right": [
+      "Mirza"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 22,
+     "q": "In November 1605 he was caught red-handed in a cellar getting ready to blow up England's Parliament",
+     "a": "Guy Fawkes",
+     "right": [
+      "Mirza"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 14,
+     "q": "The Bainbridge Island Review",
+     "a": "Washington",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 27,
+     "q": "A strange ship called the Demeter brings this character to England, but its crew is gone & the captain is dead!",
+     "a": "Count Dracula",
+     "right": [
+      "Mirza"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "This boy who selected vine fruits from the brine",
+     "a": "Peter Piper",
+     "right": [
+      "David"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 7,
+     "q": "The colonies of Magna Graecia included Croton, home of Milo & many other victors in these regular competitions",
+     "a": "the Olympics",
+     "right": [
+      "David"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 19,
+     "q": "Slappy & Skippy Squirrel were characters in this cartoon series that also starred Wakko, Yakko & Dot",
+     "a": "the Animaniacs",
+     "right": [
+      "David"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 23,
+     "q": "Sound the trumpets! In 1961 \"Come Blow Your Horn\" was his first comedy produced on Broadway",
+     "a": "Neil Simon",
+     "right": [
+      "Mirza"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 15,
+     "q": "The Brattleboro Reformer",
+     "a": "Vermont",
+     "right": [],
+     "wrong": [
+      "David"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 28,
+     "q": "The third Narnia book is \"The Voyage of\" this ship that sails through magic waters to the end of the world",
+     "a": "the Dawn Treader",
+     "right": [
+      "David"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 30,
+     "q": "This husband of Zipporah in the Old Testament",
+     "a": "Moses",
+     "right": [
+      "David"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "O YE OF LITTLE FAITH",
+    "SCRAMBLED WORLD CAPITALS",
+    "GOLFER IN CHIEF",
+    "SONG TIME",
+    "PSYCHOLOGY",
+    "\"U\" KNOW IT!"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "Atheists disavow the existence of a god; these people, from the Greek for \"unknowable\", say they aren't sure",
+     "a": "agnostics",
+     "right": [
+      "John"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 11,
+     "q": "Northern Europe: \nMOCK SLOTH",
+     "a": "Stockholm",
+     "right": [
+      "John"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 26,
+     "q": "When this president played, he often invoked \"Billigans\" after misplayed balls",
+     "a": "Bill Clinton",
+     "right": [
+      "David"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 16,
+     "q": "\"It's 9 o'clock on a Saturday, the regular crowd shuffles in\", begins this Billy Joel signature song",
+     "a": "\"Piano Man\"",
+     "right": [
+      "John"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 25,
+     "q": "From the Old English for \"treasure\", this disorder is characterized by the inability to discard things",
+     "a": "hoarding",
+     "right": [
+      "David"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 10,
+     "q": "Wanting to emulate Thomas More, H.G. Wells wrote of a \"modern\" one",
+     "a": "utopia",
+     "right": [
+      "Mirza"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 2,
+     "q": "\"Secular\" these follow the teachings of \"the Awakened One\" but reject the supernatural elements",
+     "a": "Buddhism",
+     "right": [
+      "Mirza"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 12,
+     "q": "Way, way down south in the Pacific:\nNO GENT WILL",
+     "a": "Wellington",
+     "right": [
+      "Mirza"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 27,
+     "q": "John F. Kennedy played on the freshman golf team at this university",
+     "a": "Harvard",
+     "right": [
+      "John"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 17,
+     "q": "This one-named hitmaker's raps include \"5 A.M. in Toronto\", \"9 A.M. in Dallas\" & \"6 P.M. in New York\"",
+     "a": "Drake",
+     "right": [
+      "Mirza"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 24,
+     "q": "Ten images, like the one seen here, are used in this psychological test, first introduced in 1921",
+     "a": "a Rorschach",
+     "right": [
+      "David"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 7,
+     "q": "Stretchy uniform for dancers that leaves little to the imagination",
+     "a": "a unitard",
+     "right": [
+      "John"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": true,
+     "order": 3,
+     "q": "In Nietzsche's \"The Parable of the Madman\", \"and we have killed him\" follows this famous 3-word sentence",
+     "a": "\"God is dead\"",
+     "right": [],
+     "wrong": [
+      "Mirza"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2000
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 13,
+     "q": "South America; \nSERIOUS BEAN",
+     "a": "Buenos Aires",
+     "right": [
+      "John"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 28,
+     "q": "This president who on occasion would clumsily wing a spectator joked, \"People...should stay behind us\"",
+     "a": "Gerald Ford",
+     "right": [
+      "John"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 18,
+     "q": "A tipsy dial from Lady Antebellum: \"It's a ____ after one, I'm a little drunk and I need you now\"",
+     "a": "quarter",
+     "right": [
+      "David"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": true,
+     "order": 21,
+     "q": "It's genetics or upbringing in this classic debate of 2 words with the same second syllable",
+     "a": "nature versus nurture",
+     "right": [
+      "David"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2400
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 6,
+     "q": "\"Extreme\" final sacrament for a Catholic",
+     "a": "unction",
+     "right": [
+      "John"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 4,
+     "q": "In 2016 Nat Geo reported that this European country once home to the papacy would soon have a secular majority",
+     "a": "France",
+     "right": [
+      "Mirza"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 14,
+     "q": "The Middle East: \nA DRY HI",
+     "a": "Riyadh",
+     "right": [
+      "Mirza"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 29,
+     "q": "The 45th president enjoys time at Trump National in Bedminster in this state, where he watched the 2017 U.S. Women's Open",
+     "a": "New Jersey",
+     "right": [
+      "Mirza"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 19,
+     "q": "The title of this 1970 Chicago hit is a little snappier than \"3:35 or 3:34\"",
+     "a": "\"25 or 6 to 4\"",
+     "right": [],
+     "wrong": [
+      "John"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 22,
+     "q": "In 2013 the American Psychiatric Assoc. dropped subtypes including \"paranoid\" for this mental disorder",
+     "a": "schizophrenia",
+     "right": [
+      "David"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 8,
+     "q": "The 1713 treaty of this Dutch city granted large parts of Canada to the Brits from the French",
+     "a": "Utrecht",
+     "right": [
+      "John"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 5,
+     "q": "This Oxford biologist's 2006 bestseller \"The God Delusion\" argues that \"there almost certainly is no god\"",
+     "a": "(Richard) Dawkins",
+     "right": [
+      "David"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 15,
+     "q": "In Indochina: \nAN INVITEE",
+     "a": "Vientiane",
+     "right": [
+      "Mirza"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 30,
+     "q": "That's avid golfer Ike practicing on this area of the White House grounds called \"the president's backyard\"",
+     "a": "the South Lawn",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 20,
+     "q": "Rob Thomas of this group sang, \"Baby, it's 3 A.M., I must be lonely\"",
+     "a": "Matchbox Twenty",
+     "right": [
+      "David"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 23,
+     "q": "1908s M.I.T. researchers found that carbs must be consumed for this mood-elevating neurotransmitter to be released",
+     "a": "serotonin",
+     "right": [
+      "David"
+     ],
+     "wrong": [
+      "Mirza"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 9,
+     "q": "Dad to King Arthur",
+     "a": "Uther Pendragon",
+     "right": [
+      "Mirza"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "LITERARY SETTINGS",
+  "q": "Ashdown Forest in Sussex inspired this fictional setting for a 1926 collection of stories for children",
+  "a": "the Hundred Acre Wood",
+  "right": [
+   "Mirza",
+   "David"
+  ],
+  "wrong": [
+   "John"
+  ]
+ },
+ "gameId": "6005",
+ "cat_notes": {
+  "J": [
+   "The category “ITALY BEFORE THE ROMANS” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "Clues about Pop Culture Squirrels.",
+   "The category “THIS CATEGORY WILL BLOW YOU AWAY” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "Clues about State of the Newspaper.",
+   "Clues about Sailing Lit.",
+   "Clues about Tongue-twister Protagonists."
+  ],
+  "DJ": [
+   "Clues about O Ye of Little Faith.",
+   "Each answer is formed by rearranging letters from a word or name in the clue.",
+   "Clues about Golfer in Chief.",
+   "Clues about Song Time.",
+   "Clues about Psychology.",
+   "Each answer contains the letter “U”."
+  ],
+  "F": "Clues about Literary Settings."
+ }
+}

@@ -1,0 +1,999 @@
+{
+ "show": "#7715",
+ "aired": "2018-03-09",
+ "note": "",
+ "contestants": [
+  {
+   "name": "Mark Ashton",
+   "bio": "a software engineer from Elmhurst, Illinois",
+   "short": "Mark"
+  },
+  {
+   "name": "Megan Durazo",
+   "bio": "a librarian from Playa Del Rey, California",
+   "short": "Megan"
+  },
+  {
+   "name": "Lane Flynn",
+   "bio": "a business owner from Atlanta, Georgia (whose 2-day cash winnings total $38,399)",
+   "short": "Lane"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Lane": 7000,
+   "Megan": -600,
+   "Mark": 7800
+  },
+  "DJ": {
+   "Lane": 23000,
+   "Megan": 7400,
+   "Mark": 14600
+  },
+  "Final": {
+   "Lane": 14601,
+   "Megan": 7400,
+   "Mark": 29100
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "AROUND THE CATHEDRAL",
+    "OUR SOLAR SYSTEM",
+    "CHESS PIECES IN DISGUISE",
+    "INTO THE \"WOOD\"S",
+    "BRITAIN'S INDUSTRIAL REVOLUTION",
+    "THE FLINTSTONES"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 16,
+     "q": "A calvary is an often life-size sculpture depicting this event",
+     "a": "the crucifixion",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "Differing by 2 days, the sidereal & synodic types of these are determined by the Moon",
+     "a": "periods (or months)",
+     "right": [
+      "Lane"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 20,
+     "q": "Let's sea... it precedes clam, crab & mackerel",
+     "a": "king",
+     "right": [
+      "Lane"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 6,
+     "q": "To stave off bad luck, use your knuckles & do this",
+     "a": "knock on wood",
+     "right": [
+      "Megan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 11,
+     "q": "George & Robert Stephenson developed the \"rocket\", an early practical one of these train pullers",
+     "a": "a locomotive",
+     "right": [
+      "Lane"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 26,
+     "q": "Apollo 7 commander Wally Schirra exclaimed this happy Fred Flintstone line from space in 1968",
+     "a": "yabba-dabba-doo",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 17,
+     "q": "A small room for prayer; St. John the Divine has several such as St. James & St. Savior",
+     "a": "a chapel",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "(Jimmy of the Clue Crew shows an astronomical animation on the monitor.) Asteroid 2010 TK7 flew into an area that normally would cause it to orbit unstably, but it hit just the right spot where gravity holds it steady in Earth's orbit, making it this type of asteroid that shares its name with an ancient Greek war",
+     "a": "a Trojan",
+     "right": [
+      "Lane"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 21,
+     "q": "An item deposited as security is in this",
+     "a": "pawn",
+     "right": [
+      "Lane"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 7,
+     "q": "On Aug. 15, 1969 Richie Havens kicked off this 4-day festival",
+     "a": "Woodstock",
+     "right": [
+      "Lane"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 12,
+     "q": "Parliament's Factory Act of 1819 reduced the working hours for these to a maximum of 12 hours a day",
+     "a": "children",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "Fred first met this purple creature while on a hunting trip & took him home as a pet",
+     "a": "Dino",
+     "right": [
+      "Megan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": true,
+     "order": 18,
+     "q": "The mensa is the top slab or surface of one of these",
+     "a": "the altar",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2800
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 3,
+     "q": "This very hot planet sorta has snow--metals like galena are vaporized & settle as mist on the mountains",
+     "a": "Venus",
+     "right": [
+      "Lane"
+     ],
+     "wrong": [
+      "Mark"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 22,
+     "q": "Singer Gladys or Hoops coach Bob",
+     "a": "a Knight",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 8,
+     "q": "Founded around the 1870s gold rush, this entire South Dakota city has been named a national historic landmark",
+     "a": "Deadwood",
+     "right": [
+      "Megan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 13,
+     "q": "In the 18th century the word factory gained popularity, dropping these first 4 letters it used to have",
+     "a": "M, A, N & U",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 28,
+     "q": "After this voice of Barney (& Bugs Bunny) was injured in a car accident, he recorded much of season 2 in his bedroom",
+     "a": "(Mel) Blanc",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 19,
+     "q": "A benitier is a basin for this special liquid",
+     "a": "holy water",
+     "right": [
+      "Lane"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 4,
+     "q": "(Sarah of the Clue Crew shows an astronomical animation on the monitor.) Uranus' severe tilt & 84-year orbit mean that the decades-long seasons are extreme; most of the time, one-half is in total darkness or light, but during this 2007 event, every part of the planet saw some sunlight",
+     "a": "the autumnal equinox",
+     "right": [],
+     "wrong": [
+      "Lane",
+      "Megan"
+     ],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 24,
+     "q": "To swindle someone",
+     "a": "rook",
+     "right": [
+      "Lane"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 9,
+     "q": "In Appalachia this rodent is known as a whistle pig",
+     "a": "a woodchuck",
+     "right": [
+      "Lane"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 14,
+     "q": "In the 1800s it was an industry of recycling wool for cheap blankets & such; today it's an adjective for poor workmanship",
+     "a": "shoddy",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "One street the Flintstones lived on in this town was Cobblestone Way",
+     "a": "Bedrock",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 23,
+     "q": "A sacristy has this other name, from its use to store clerical garments",
+     "a": "a vestry",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 5,
+     "q": "This big moon of Saturn has rain & lakes; don't get excited--they are made of methane",
+     "a": "Titan",
+     "right": [
+      "Lane"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 25,
+     "q": "Author of \"The Roman Hat Mystery\"",
+     "a": "Ellery Queen",
+     "right": [],
+     "wrong": [
+      "Megan"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 10,
+     "q": "It was once the place where an unruly child was sent to receive his punishment",
+     "a": "a woodshed",
+     "right": [
+      "Lane"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 15,
+     "q": "Revolutionizing construction, this man's \"process\" was the first large-scale method for producing steel",
+     "a": "Bessemer",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 30,
+     "q": "In a very special episode, when the Rubbles' efforts to adopt this boy almost fail, Barney considers suicide",
+     "a": "Bamm-Bamm",
+     "right": [
+      "Lane"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "JEEPARDY",
+    "MEDICAL SPECIALTIES",
+    "SNAKES ON A BOOK",
+    "FOREIGN PHRASES",
+    "TAKE ME TO YOUR LEADER",
+    "ENTER-TEEN-MENT"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 3,
+     "q": "Designed in 1940 in just 75 days, the prototype Jeep was delivered to the U.S. Army on this appropriate November day",
+     "a": "November 11th",
+     "right": [
+      "Megan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 16,
+     "q": "When you have skin problems like acne or rosacea, you go to this type of doctor",
+     "a": "a dermatologist",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 18,
+     "q": "This Milton poem has the lines \"so talked the spirited sly snake; and Eve, yet more amazed, unwary thus replied\"",
+     "a": "Paradise Lost",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "If you're pampered in Perugia, you're living this, Italian for \"the sweet life\"",
+     "a": "la dolce vita",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 11,
+     "q": "Beit Aghion, the current Israeli prime minister's residence, is in this city, not Tel Aviv",
+     "a": "Jerusalem",
+     "right": [
+      "Lane"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 24,
+     "q": "These yellow sidekicks of the once-despicable Gru got this own origin story film in 2015",
+     "a": "Minions",
+     "right": [
+      "Lane"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 7,
+     "q": "He's seen here riding in a Jeep on Leyte Island in November 1944, shortly after his return to the Philippines",
+     "a": "MacArthur",
+     "right": [
+      "Lane"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 19,
+     "q": "The name of this field dealing with the care & diseases of newborns & premature babies dates to only about 1960",
+     "a": "neonatology",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 22,
+     "q": "In the Harry Potter books, Nagini is this man's serpentine servant",
+     "a": "Voldemort",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 2,
+     "q": "An eighteenth-century Spanish singer was known as this; her name became an exclamation & we put \"Ay!\" before it",
+     "a": "Caramba",
+     "right": [
+      "Lane"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": true,
+     "order": 12,
+     "q": "You will find this country's leader at Carthage Presidential Palace, near an archaeological site",
+     "a": "Tunisia",
+     "right": [
+      "Lane"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 6000
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 25,
+     "q": "She returned to television in 2017 as \"The Sinner\"",
+     "a": "Jessica Biel",
+     "right": [
+      "Megan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 8,
+     "q": "In 1944 \"Old Faithful\", the first Marine Corps Jeep on Guadalcanal, got one of these medals for its bullet wounds",
+     "a": "a Purple Heart",
+     "right": [
+      "Lane"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 20,
+     "q": "This specialty is devoted to treating diseases of the joints, muscles & tissues, including gout & arthritis",
+     "a": "rheumatology",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 23,
+     "q": "Asmodeus Poisonteeth in \"Redwall\" is a giant one of these \"calculating\" snakes",
+     "a": "an adder",
+     "right": [
+      "Lane"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 4,
+     "q": "Voltaire said the English sometimes execute an admiral \"pour encourager les autres\", literally this",
+     "a": "to encourage the others",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 13,
+     "q": "You can see why Cheong Wa Dae, home to this country's leader, is known as the Blue House",
+     "a": "South Korea",
+     "right": [
+      "Lane"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 26,
+     "q": "Bruno Mars sings, \"Ooh, I love that dress, but you won't need it anymore\" in this designer tune",
+     "a": "\"Versace On The Floor\"",
+     "right": [
+      "Megan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 9,
+     "q": "After World War II, Jeeps were sold to farmers as \"The All-Around Farm Work\" this; one Jeep could do the work of 2",
+     "a": "a horse",
+     "right": [],
+     "wrong": [
+      "Lane"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 21,
+     "q": "A subspecialty of internal medicine, it deals with conditions that affect the lungs & respiratory tract",
+     "a": "pulmonology",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 29,
+     "q": "Cadmus kills a giant serpent but later turns into one himself in this work by Ovid",
+     "a": "The Metamorphoses",
+     "right": [
+      "Mark"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 5,
+     "q": "German for \"ladies & gentlemen\" is \"Meine Damen und\" these, as in the \"Cabaret\" number \"Willkommen\"",
+     "a": "Herren",
+     "right": [
+      "Lane"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 14,
+     "q": "The Canadian PM can be found at 24 Sussex Drive, which has a beautiful view of this river",
+     "a": "Ottawa",
+     "right": [],
+     "wrong": [
+      "Mark"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 27,
+     "q": "In 2017 he announced his engagement to co-star Rose Leslie",
+     "a": "Kit Harington",
+     "right": [
+      "Megan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 10,
+     "q": "Jeeps by the thousands came off the assembly line of this original maker, giving the Axis the...",
+     "a": "Willys",
+     "right": [
+      "Lane"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 17,
+     "q": "If you need a root canal, your dentist may refer you to this person who specializes in diseases of the dental pulp",
+     "a": "an endodontist",
+     "right": [
+      "Megan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 30,
+     "q": "In \"The Jungle Book\" (not the movie), this 100-year-old python is Mowgli's protector",
+     "a": "Kaa",
+     "right": [],
+     "wrong": [
+      "Lane"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": true,
+     "order": 6,
+     "q": "This 3-word Latin phrase means \"retroactively\"",
+     "a": "ex post facto",
+     "right": [
+      "Lane"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 4000
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 15,
+     "q": "How chic! There are shoe stores right across the street from this palace, home to the French president",
+     "a": "the Élysée Palace",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 28,
+     "q": "A Netflix documentary about Lady Gaga has this subtitle, a reference to height",
+     "a": "Five Foot Two",
+     "right": [
+      "Megan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "BIG BUSINESS",
+  "q": "Bill Fernandez, who in 1971 introduced to each other the 2 founders of this California company, became its first full-time employee in 1977",
+  "a": "Apple",
+  "right": [
+   "Megan",
+   "Mark"
+  ],
+  "wrong": [
+   "Lane"
+  ]
+ },
+ "gameId": "5930",
+ "cat_notes": {
+  "J": [
+   "Clues about Around the Cathedral.",
+   "Clues about Our Solar System.",
+   "Clues about Chess Pieces in Disguise.",
+   "Each answer contains the letter group “WOOD”, and the clues are about Into the S.",
+   "Clues about Britain's Industrial Revolution.",
+   "Clues about The Flintstones."
+  ],
+  "DJ": [
+   "Clues about Jeepardy.",
+   "Clues about Medical Specialties.",
+   "Clues about Snakes on a Book.",
+   "Clues about Foreign Phrases.",
+   "Clues about Take Me to Your Leader.",
+   "Clues about Enter-teen-ment."
+  ],
+  "F": "Clues about Big Business."
+ }
+}

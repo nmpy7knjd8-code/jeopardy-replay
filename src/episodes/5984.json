@@ -1,0 +1,995 @@
+{
+ "show": "#7767",
+ "aired": "2018-05-22",
+ "note": "Josh Hill game 5.",
+ "contestants": [
+  {
+   "name": "Andrew Lai",
+   "bio": "a medical student from East Lansing, Michigan",
+   "short": "Andrew"
+  },
+  {
+   "name": "Hermine Vermeij",
+   "bio": "a librarian from Tarzana, California",
+   "short": "Hermine"
+  },
+  {
+   "name": "Josh Hill",
+   "bio": "a network engineer from North Little Rock, Arkansas (whose 4-day cash winnings total $102,530)",
+   "short": "Josh"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Josh": 8400,
+   "Hermine": 3800,
+   "Andrew": 3800
+  },
+  "DJ": {
+   "Josh": 21995,
+   "Hermine": 14600,
+   "Andrew": 11400
+  },
+  "Final": {
+   "Josh": 14789,
+   "Hermine": 6399,
+   "Andrew": 0
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "ILLINOIS AT 200",
+    "MUSICAL GROUPS",
+    "NAMING MY BABY GIRL FOR GRANDPA",
+    "I READ YOU LOUD & CLEAR!",
+    "IT'S CHAOS",
+    "BE KIND"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 7,
+     "q": "Illinois has 63 miles of coastline along this Great Lake",
+     "a": "Lake Michigan",
+     "right": [
+      "Josh"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "They've got Method Man: \nThe Wu-Tang ____",
+     "a": "Clan",
+     "right": [
+      "Hermine"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 6,
+     "q": "If this is Grandpa's name, Charlotte & Caroline are female versions",
+     "a": "Charles",
+     "right": [
+      "Andrew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 8,
+     "q": "\"Tarzan... placed his foot upon the neck of his vanquished enemy, and... loud through the forest rang the fierce, wild cry\"",
+     "a": "Burroughs",
+     "right": [
+      "Josh"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 9,
+     "q": "A haphazard mix of voices, or the Biblical tower noted for that",
+     "a": "Babel",
+     "right": [
+      "Josh"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 10,
+     "q": "This redheaded royal co-founded an AIDS charity in Lesotho as a tribute to his late mother",
+     "a": "Prince Harry",
+     "right": [
+      "Josh"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 12,
+     "q": "Completed in 1973, it was the world's tallest building until 1996",
+     "a": "Willis Tower (or Sears Tower)",
+     "right": [
+      "Josh"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "Full of \"Everyday People\": \nSly & the ____ Stone",
+     "a": "Family",
+     "right": [
+      "Hermine"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 14,
+     "q": "Grandpa is Vernon, so try this name (TV partner to Shirley) possibly derived from it",
+     "a": "Laverne",
+     "right": [
+      "Andrew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 16,
+     "q": "\"'What remains?' cried Ivanhoe. 'Glory, maiden, glory!'\"",
+     "a": "(Sir Walter) Scott",
+     "right": [
+      "Josh"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 11,
+     "q": "This unsystematic political system is from the Greek for \"without a ruler\"",
+     "a": "anarchy",
+     "right": [
+      "Andrew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 20,
+     "q": "Aid for wounded & mentally ill post-9/11 combat vets is given by the fund named for this shortened U.S. Marine Corps motto",
+     "a": "Semper Fi",
+     "right": [
+      "Josh"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": true,
+     "order": 13,
+     "q": "This official slogan of Illinois honors a man who moved there at age 21",
+     "a": "the land of Lincoln",
+     "right": [
+      "Josh"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1200
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 3,
+     "q": "Don't fear them:\nBlue Oyster ____",
+     "a": "Cult",
+     "right": [
+      "Hermine"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 17,
+     "q": "This name! This name! This name! This '70s sitcom name came from the same source Mark did",
+     "a": "Marcia",
+     "right": [
+      "Josh"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 19,
+     "q": "\"'It's a wonderful knocker!--here's the turkey, hallo! Whoop! How are you! Merry Christmas!'\"",
+     "a": "Dickens",
+     "right": [
+      "Josh"
+     ],
+     "wrong": [
+      "Hermine"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 23,
+     "q": "It's pure this in here! This, being where all demons live, not cute black-&-white bamboo eaters",
+     "a": "pandemonium",
+     "right": [
+      "Hermine"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 26,
+     "q": "To aid the homeless, give to key-shaped \"parking meters\" on the aptly named Wisconsin Avenue in this city",
+     "a": "Milwaukee",
+     "right": [
+      "Josh"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 15,
+     "q": "Nauvoo briefly became Illinois' largest city after this Mormon leader & his followers began settling there in 1839",
+     "a": "(Joseph) Smith",
+     "right": [
+      "Josh"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 4,
+     "q": "Rap group with Luther Campbell: \n2 Live ____",
+     "a": "Crew",
+     "right": [
+      "Hermine"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 21,
+     "q": "This first name of model Nemcova works if Grandpa is Peter",
+     "a": "Petra",
+     "right": [
+      "Hermine"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 27,
+     "q": "\"'Objection!' shouted Mitty's attorney. 'We have shown that the defendant could not have fired the shot'\"",
+     "a": "(James) Thurber",
+     "right": [
+      "Josh"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 24,
+     "q": "To muddle up, or a RWDO EZPZUL created in 1954",
+     "a": "a Jumble",
+     "right": [
+      "Andrew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 28,
+     "q": "This org.'s red kettle began in 1891 as a repurposed crab pot at a ferry landing in San Francisco",
+     "a": "the Salvation Army",
+     "right": [
+      "Josh"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 18,
+     "q": "In 1942 at the University of Chicago, this Italian-American achieved the first controlled nuclear chain reaction",
+     "a": "Enrico Fermi",
+     "right": [
+      "Josh"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 5,
+     "q": "It was a reality that they gave us a \"Rock 'n' Roll Fantasy\": \nBad ____",
+     "a": "Company",
+     "right": [
+      "Hermine"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 22,
+     "q": "If his name is this, French for \"reborn\", just add an extra \"E\" at the end",
+     "a": "René",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 29,
+     "q": "\"'Only two kinds of daughters,' she shouted in Chinese. 'Those who are obedient and those who follow their own mind!'\"",
+     "a": "Tan",
+     "right": [
+      "Andrew"
+     ],
+     "wrong": [
+      "Josh"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 25,
+     "q": "A scene of wild confusion, perhaps in the asylum dating back to the early 1400s",
+     "a": "bedlam",
+     "right": [
+      "Andrew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 30,
+     "q": "Be generous when tossing coins into this fountain--it guarantees a return to Rome & is collected & donated to charity",
+     "a": "Trevi Fountain",
+     "right": [
+      "Josh"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "QUESTIONABLE TELEVISION",
+    "SCIENCE",
+    "ART & ARTISTS",
+    "FOREIGN FORMER FORTS",
+    "GARDENING",
+    "\"END\" GAME"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "In the 1960s N.Y. police car 54 & Scooby-Doo were asked this question in show titles",
+     "a": "\"Where are you?\"",
+     "right": [
+      "Josh"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 3,
+     "q": "Dispersion is the breaking of light via a prism into these visible wavelengths",
+     "a": "colors",
+     "right": [
+      "Josh"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "This word for an artwork made of 3 panels comes from the Greek for \"three tablets\"",
+     "a": "a triptych",
+     "right": [
+      "Andrew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 9,
+     "q": "This Manitoba city was Fort Rouge, Fort Gibraltar & Fort Garry before they just gave up & named it for the nearby lake",
+     "a": "Winnipeg",
+     "right": [
+      "Andrew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 4,
+     "q": "Herbs like basil will grow in soil that's lightly acidic or lightly alkaline, but it's best if this level is between 5.5 & 6.5",
+     "a": "the pH",
+     "right": [
+      "Josh"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 5,
+     "q": "One of a pair is seen here",
+     "a": "a bookend",
+     "right": [
+      "Hermine"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 18,
+     "q": "On a PBS game show for kids, this title question was sung a cappella at the beginning of every episode--did they ever find her?",
+     "a": "\"Where in the world is Carmen Sandiego?\"",
+     "right": [
+      "Hermine"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 13,
+     "q": "The seif type of this sand formation develops parallel to the prevailing wind",
+     "a": "a sand dune",
+     "right": [
+      "Josh"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 14,
+     "q": "Whistler gave musical titles to his paintings; twilight & night scenes were called this, from the French for \"night\"",
+     "a": "a Nocturne",
+     "right": [
+      "Josh"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 10,
+     "q": "Bangalore in this country began as a mud fort, later upgraded to stone",
+     "a": "India",
+     "right": [
+      "Andrew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 17,
+     "q": "Available at most gardening stores, these beneficial beetles can help rid your garden of aphids & other destructive insects",
+     "a": "ladybugs",
+     "right": [
+      "Hermine"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 6,
+     "q": "These hormones released by the brain act as natural painkillers & can also bring about feelings of euphoria",
+     "a": "endorphins",
+     "right": [
+      "Hermine"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 19,
+     "q": "On NBC & then TLC, a genealogy show has asked celebrities this title question",
+     "a": "\"Who do you think you are?\"",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": true,
+     "order": 22,
+     "q": "A unit of atomic mass, a dalton is defined as 1/12th the mass of the \"12\" isotope of this element",
+     "a": "carbon",
+     "right": [
+      "Andrew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 4000
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 30,
+     "q": "An 1876 review in Le Figaro called an exhibit of this movement \"an appalling spectacle\" & the artists \"lunatics\"",
+     "a": "Impressionism",
+     "right": [
+      "Hermine"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 11,
+     "q": "A fort named Khadzhibey on this sea became the Ukrainian city of Odessa",
+     "a": "the Black Sea",
+     "right": [
+      "Hermine"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 25,
+     "q": "Bigger than seeds, they store plants' food in winter; plant some in fall & you'll see snowdrops in spring",
+     "a": "bulbs",
+     "right": [
+      "Hermine"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 7,
+     "q": "Completes the proverb \"What can't be cured must be ____\"",
+     "a": "endured",
+     "right": [
+      "Hermine"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 20,
+     "q": "Contestants on this game show didn't forget their dialogue--they were asking panelists to guess their occupations",
+     "a": "What's My Line?",
+     "right": [
+      "Hermine"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 23,
+     "q": "(Kelly of the Clue Crew demonstrates.) Dropping a penny into an already full glass of water doesn't cause it to spill because this elastic property at the rim contains the displaced volume",
+     "a": "surface tension",
+     "right": [
+      "Josh"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 24,
+     "q": "A category in the World Beard & Moustache Championships honors this 20th century artist's 'stache",
+     "a": "Salvador Dali",
+     "right": [],
+     "wrong": [
+      "Josh"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 5
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 15,
+     "q": "Fort Faithful on the Silk Road became Almaty, once capital of this country--very nice!",
+     "a": "Kazakhstan",
+     "right": [
+      "Josh"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 26,
+     "q": "This flower with an avian name is a colorful addition to any garden",
+     "a": "a bird-of-paradise",
+     "right": [
+      "Hermine"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 8,
+     "q": "It means native to a particular people or place",
+     "a": "endemic",
+     "right": [
+      "Josh"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 21,
+     "q": "John Quiñones asks this title question on ABC by taping staged hypothetical situations with hidden cameras",
+     "a": "\"What would you do?\"",
+     "right": [
+      "Andrew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 28,
+     "q": "A meteor about as bright as Venus in the sky has this 8-letter incendiary name",
+     "a": "a fireball",
+     "right": [
+      "Josh"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 29,
+     "q": "Jean-Francois Millet gave dignity to the peasantry in works like the one seen here, called this, a person who strews seed",
+     "a": "The Sower",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 16,
+     "q": "The French fort Lamy was upgraded to N'Djamena after this country became independent",
+     "a": "Chad",
+     "right": [
+      "Josh"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 27,
+     "q": "Divide your orchids to do this, from the Latin for \"multiply from layers\"",
+     "a": "propagate",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 12,
+     "q": "In math you find the difference by subtracting the subtrahend from this",
+     "a": "the minuend",
+     "right": [
+      "Josh"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "FAMOUS RUSSIANS",
+  "q": "In November 1836 this writer got a letter naming him to the Most Serene Order of Cuckolds; in February 1837 he was dead",
+  "a": "Alexander Pushkin",
+  "right": [],
+  "wrong": [
+   "Andrew",
+   "Hermine",
+   "Josh"
+  ]
+ },
+ "gameId": "5984",
+ "cat_notes": {
+  "J": [
+   "Clues about Illinois at 200.",
+   "Clues about Musical Groups.",
+   "Clues about Naming My Baby Girl for Grandpa.",
+   "You have to identify the novelist, uh, who wrote the words that I will be reading to you loud and clear.",
+   "The category “IT'S CHAOS” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "Clues about Be Kind."
+  ],
+  "DJ": [
+   "Clues about Questionable Television.",
+   "Clues about Science.",
+   "Clues about Art and Artists.",
+   "Clues about Foreign Former Forts.",
+   "Clues about Gardening.",
+   "Each answer contains the letter group “END”, and the clues are about Game."
+  ],
+  "F": "Clues about Famous Russians."
+ }
+}

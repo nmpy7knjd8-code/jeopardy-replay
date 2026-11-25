@@ -1,0 +1,1003 @@
+{
+ "show": "#7781",
+ "aired": "2018-06-11",
+ "note": "",
+ "contestants": [
+  {
+   "name": "Catherine Ono",
+   "bio": "a software developer from Santa Clara, California",
+   "short": "Catherine"
+  },
+  {
+   "name": "Tracey Lazareth",
+   "bio": "a teacher and librarian from Mississauga, Ontario, Canada",
+   "short": "Tracey"
+  },
+  {
+   "name": "David Kleinman",
+   "bio": "a student from Sharon, Massachusetts (whose 1-day cash winnings total $31,600)",
+   "short": "David"
+  }
+ ],
+ "scores": {
+  "J": {
+   "David": 2400,
+   "Tracey": 4400,
+   "Catherine": 4800
+  },
+  "DJ": {
+   "David": 7600,
+   "Tracey": 11600,
+   "Catherine": 17400
+  },
+  "Final": {
+   "David": 15198,
+   "Tracey": 11600,
+   "Catherine": 23201
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "AROUND THE U.S.A.",
+    "TV QUOTES",
+    "TEDDY BEARS",
+    "LITERARY SONS & DAUGHTERS",
+    "THE ITALIAN JOB",
+    "MONDAY IS FUN DAY"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 16,
+     "q": "The 2018 Super Bowl victory parade ended at the museum steps made famous in this 1976 movie",
+     "a": "Rocky",
+     "right": [
+      "Tracey"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 10,
+     "q": "Bartlett's lists \"Me want cookie!\" under its memorable quotes from this TV show",
+     "a": "Sesame Street",
+     "right": [
+      "Tracey"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 24,
+     "q": "Duffy the Disney bear is big in Japan; he even has the outline of this character on his face",
+     "a": "Mickey Mouse",
+     "right": [
+      "David"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 4,
+     "q": "The offspring of this \"boy who lived\" sport names like Albus Severus & Lily Luna",
+     "a": "Harry Potter",
+     "right": [
+      "Tracey"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 29,
+     "q": "Cuoco",
+     "a": "cook",
+     "right": [
+      "David"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 11,
+     "q": "The U.S. celebrates this holiday on the first Monday in September",
+     "a": "Labor Day",
+     "right": [
+      "Tracey"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 17,
+     "q": "See the Montana legislature in session, January to April of odd-numbered years, at the capitol in this city",
+     "a": "Helena",
+     "right": [
+      "Tracey"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 9,
+     "q": "On this show Don Draper shut down an angry employee with the epic \"I don't think about you at all\"",
+     "a": "Mad Men",
+     "right": [
+      "Tracey"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 23,
+     "q": "In a Don Freeman children's book, a teddy bear named for this ribbed fabric searches for his lost button",
+     "a": "corduroy",
+     "right": [
+      "Tracey"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 5,
+     "q": "Dostoyevsky work that centers on the murder of Fyodor, father of Alyosha, Dmitry & Ivan",
+     "a": "The Brothers Karamazov",
+     "right": [
+      "Catherine"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 28,
+     "q": "Prete",
+     "a": "a priest",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 12,
+     "q": "Named for its online bargains, it's the Monday after Thanksgiving",
+     "a": "Cyber Monday",
+     "right": [
+      "David"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 18,
+     "q": "You can look over the Rio Grande while relaxing in Ralph Edwards Park in Truth or Consequences in this state",
+     "a": "New Mexico",
+     "right": [
+      "Catherine"
+     ],
+     "wrong": [
+      "David"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": true,
+     "order": 1,
+     "q": "In season 6 of \"Game of Thrones\", a white raven brings this news, one word different from the show's tagline",
+     "a": "\"Winter is here\"",
+     "right": [
+      "David"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1000
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 20,
+     "q": "This Rowan Atkinson character imaginatively calls his teddy bear & best friend \"Teddy\"",
+     "a": "Mr. Bean",
+     "right": [
+      "David"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 6,
+     "q": "\"Alack, what trouble was I then to you!\" she says to her father Prospero in \"The Tempest\"",
+     "a": "Miranda",
+     "right": [
+      "David"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 26,
+     "q": "Fornaio or Panettiere",
+     "a": "baker",
+     "right": [
+      "David"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 13,
+     "q": "This familial pop group hit No. 1 in 1966 with \"Monday, Monday\"",
+     "a": "The Mamas & the Papas",
+     "right": [
+      "Tracey"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 19,
+     "q": "The Tides Inn resort hotel in Virginia is on a private peninsula by this bay",
+     "a": "the Chesapeake",
+     "right": [
+      "David"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 2,
+     "q": "This AMC spin-off featured the line \"Slippin' Jimmy with a law degree is like a chimp with a machine gun\"",
+     "a": "Better Call Saul",
+     "right": [
+      "David"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 21,
+     "q": "This mall \"Workshop\" has been turning the teddy bear manufacturing over to you for more than 20 years",
+     "a": "Build-A-Bear",
+     "right": [
+      "Tracey"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 7,
+     "q": "A post-Fleming tale features James Bond's son James, from his hookup with Kissy Suzuki in this Japan-set novel",
+     "a": "You Only Live Twice",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 25,
+     "q": "Marinaio",
+     "a": "sailor",
+     "right": [
+      "David"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 14,
+     "q": "oprah.com lists 15 happy Monday events including the July 1, 1907 introduction of these bite-size Hershey products",
+     "a": "Kisses",
+     "right": [
+      "Catherine"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 30,
+     "q": "The only national park entirely within Wyoming is this one just south of Yellowstone",
+     "a": "Grand Teton",
+     "right": [
+      "Catherine"
+     ],
+     "wrong": [
+      "David"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 3,
+     "q": "Explaining away a perceived infidelity on \"Friends\", Ross often reminded Rachel, \"We were on\" one of these",
+     "a": "a break",
+     "right": [
+      "Tracey"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 22,
+     "q": "Snuggle is a bear who represents this type of laundry product that makes snuggling more pleasant",
+     "a": "fabric softener",
+     "right": [
+      "Catherine"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 8,
+     "q": "Rhett & Scarlett name their daughter Eugenie, but her nickname is this, also the name of a Confederate flag",
+     "a": "Bonnie Blue",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 27,
+     "q": "Pittore--Italy has produced many famous ones",
+     "a": "painter",
+     "right": [],
+     "wrong": [
+      "David"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 15,
+     "q": "In the Eastern Orthodox church, Mondays are days on which these beings are celebrated",
+     "a": "angels",
+     "right": [
+      "Catherine"
+     ],
+     "wrong": [
+      "David"
+     ],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "INSTANT GRATIFICATION",
+    "BEST SONG OSCARS",
+    "NOTABLE AMERICAN WOMEN",
+    "\"C\" IT NOW",
+    "SCIENCE & TECHNOLOGY BOOKS",
+    "OBLAST FROM THE PAST"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 16,
+     "q": "Around 1910 an immigrant named George Washington marketed the USA's first successful instant type of this hot drink",
+     "a": "coffee",
+     "right": [
+      "Catherine"
+     ],
+     "wrong": [
+      "David"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 14,
+     "q": "\"Whatever Will Be, Will Be\" also known by this Spanish title, won the Oscar",
+     "a": "\"Que Sera, Sera\"",
+     "right": [
+      "David"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 8,
+     "q": "Ex-slave & conductor on the Underground Railroad who served as a spy for the Union in the Civil War",
+     "a": "Harriet Tubman",
+     "right": [
+      "David"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "The front section of a semi where the driver sits",
+     "a": "a cab",
+     "right": [
+      "David"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 21,
+     "q": "The technology of a galaxy far, far away is the subject of Patrick Johnson's \"The Physics of\" this film series",
+     "a": "Star Wars",
+     "right": [
+      "Catherine"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 26,
+     "q": "St. Petersburg is in this oblast, or Russian province, that didn't seem to get the name-change memo",
+     "a": "Leningrad",
+     "right": [
+      "Catherine"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 15,
+     "q": "In 1998 this I.T. company bought ICQ, a program that launched large-scale instant messaging",
+     "a": "AOL",
+     "right": [
+      "David"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 17,
+     "q": "Sung by Celine Dion, it was a \"Titanic\" hit, winning a 1997 Oscar",
+     "a": "\"My Heart Will Go On\"",
+     "right": [
+      "David"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 10,
+     "q": "This artist began living in New Mexico in the 1930s, eventually buying a hacienda in Abiquiu with a large garden",
+     "a": "Georgia O'Keeffe",
+     "right": [
+      "Catherine"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 3,
+     "q": "This word for a school ground is from Latin for \"field\"",
+     "a": "campus",
+     "right": [
+      "Catherine"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 22,
+     "q": "\"Hunting Monsters\" takes a scientific look at the myths behind creatures like Bigfoot, dragons & this \"plesiosaur\"",
+     "a": "the Loch Ness Monster",
+     "right": [
+      "David"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 27,
+     "q": "During WWII a vodka factory in Moscow oblast made these \"cocktails\" for military use, with some of its peace-time ingredients",
+     "a": "Molotov cocktails",
+     "right": [
+      "Catherine"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 6,
+     "q": "1 Corinthians is where you'll find the dead being raised & the phrase \"in the twinkling of\" one of these",
+     "a": "an eye",
+     "right": [
+      "David"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 18,
+     "q": "The 1939 Oscar went to this song with music by Harold Arlen",
+     "a": "\"Somewhere Over The Rainbow\"",
+     "right": [
+      "Tracey"
+     ],
+     "wrong": [
+      "David"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 11,
+     "q": "\"Always, Rachel\" is a collection of letters by this author of \"Silent Spring\"",
+     "a": "(Rachel) Carson",
+     "right": [
+      "Catherine"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 1,
+     "q": "Get out the blowtorch--it's time to make this custard dessert",
+     "a": "creme brulee",
+     "right": [
+      "Tracey"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 23,
+     "q": "In his memoir \"Endurance\", NASA astronaut Scott Kelly recounts his one year here",
+     "a": "the International Space Station",
+     "right": [
+      "Catherine"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 28,
+     "q": "Part of the Sakhalin oblast was acquired from this country in 1947",
+     "a": "Japan",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 7,
+     "q": "This brand of modified pressure cooker combines several kitchen appliances in one",
+     "a": "an Instant Pot",
+     "right": [
+      "Catherine"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 19,
+     "q": "\"Talk To The Animals\", from this 1967 film, was a winner",
+     "a": "Doctor Dolittle",
+     "right": [
+      "Tracey"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 12,
+     "q": "A 1917 Carnegie Hall audience heard her defend birth control, saying she was 1 of 11 kids, causing her mom to die young",
+     "a": "Margaret Sanger",
+     "right": [
+      "Tracey"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 4,
+     "q": "A judge in his private chamber, not in open court, is said to be \"in\" this",
+     "a": "in camera",
+     "right": [
+      "Tracey"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 24,
+     "q": "Recalibrating our emotions & restocking our immune systems are 2 good reasons \"Why We\" do this in a recent title",
+     "a": "sleep",
+     "right": [
+      "Catherine"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 3000
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 29,
+     "q": "The Kursk oblast is home to the Kursk magnetic anomaly, which over the years has yielded vast amounts of this ore",
+     "a": "iron ore",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 9,
+     "q": "The main action of an Ambrose Bierce short story takes place in the instant of a hanging on this bridge",
+     "a": "Owl Creek Bridge",
+     "right": [
+      "Catherine"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 20,
+     "q": "Songs from both \"The Towering Inferno\" & this maritime disaster movie won Oscars in the early 1970s",
+     "a": "The Poseidon Adventure",
+     "right": [
+      "Tracey"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": true,
+     "order": 13,
+     "q": "She coined the term \"Lost Generation\" for expatriate writers like Ernest Hemingway",
+     "a": "Gertrude Stein",
+     "right": [],
+     "wrong": [
+      "Tracey"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2000
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 5,
+     "q": "It's the typical sailors' & pirates' weapon seen here",
+     "a": "a cutlass",
+     "right": [
+      "David"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 25,
+     "q": "Pick a home or when to marry with these series of steps \"to Live By: The Computer Science of Human Decisions\"",
+     "a": "algorithms",
+     "right": [
+      "Catherine"
+     ],
+     "wrong": [
+      "David"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 30,
+     "q": "The Potsdam Agreement gave Russia the Kaliningrad oblast bordered by Lithuania & this country",
+     "a": "Poland",
+     "right": [
+      "David"
+     ],
+     "wrong": [
+      "Catherine"
+     ],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "BRASS INSTRUMENTS",
+  "q": "In playing this instrument whose early version was called a sackbut, it's about 6\" from A to B, about 7\" from C to D",
+  "a": "a trombone",
+  "right": [
+   "David",
+   "Tracey",
+   "Catherine"
+  ],
+  "wrong": []
+ },
+ "gameId": "6007",
+ "cat_notes": {
+  "J": [
+   "Clues about Around the U.S.A..",
+   "Clues about TV Quotes.",
+   "Clues about Teddy Bears.",
+   "Clues about Literary Sons and Daughters.",
+   "Clues about The Italian Job.",
+   "Clues about Monday Is Fun Day."
+  ],
+  "DJ": [
+   "Clues about Instant Gratification.",
+   "Clues about Best Song Oscars.",
+   "Clues about Notable American Women.",
+   "Each answer contains the letter “C”, and the clues are about It Now.",
+   "Clues about Science and Technology Books.",
+   "Clues about Oblast from the Past."
+  ],
+  "F": "Clues about Brass Instruments."
+ }
+}

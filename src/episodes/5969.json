@@ -1,0 +1,991 @@
+{
+ "show": "#7752",
+ "aired": "2018-05-01",
+ "note": "",
+ "contestants": [
+  {
+   "name": "Geoff Brousseau",
+   "bio": "an epidemiologist from Centennial, Colorado",
+   "short": "Geoff"
+  },
+  {
+   "name": "Jan Brown",
+   "bio": "an air traffic controller from Warwick, Rhode Island",
+   "short": "Jan"
+  },
+  {
+   "name": "Osman Syed",
+   "bio": "a student from Jamesville, New York (whose 1-day cash winnings total $33,333)",
+   "short": "Osman"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Osman": 2400,
+   "Jan": 4200,
+   "Geoff": 6400
+  },
+  "DJ": {
+   "Osman": 13900,
+   "Jan": 9800,
+   "Geoff": 13600
+  },
+  "Final": {
+   "Osman": 4900,
+   "Jan": 2800,
+   "Geoff": 7599
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "THE ANCIENT GREEKS",
+    "I'LL BE THE JUDGE OF THAT",
+    "NOVEL TITLE CHARACTERS",
+    "NAME THE MOVIE SPORT",
+    "SHUT UP",
+    "TAKE MY MONEY!"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "The first event in history recorded by the ancient Greeks were these contests that took place in 776 B.C.",
+     "a": "the Olympics",
+     "right": [
+      "Geoff"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 19,
+     "q": "About this, your formal statement of opposition that needs my immediate ruling... overruled!",
+     "a": "an objection",
+     "right": [
+      "Osman"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 11,
+     "q": "Part of the sub-title of the book about this man is he \"lived eight and twenty years, all alone in an uninhabited island\"",
+     "a": "Robinson Crusoe",
+     "right": [
+      "Jan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 6,
+     "q": "\"Cool Runnings\"",
+     "a": "bobsledding",
+     "right": [
+      "Geoff"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 17,
+     "q": "This 4-letter button on your phone prevents your coughing from affecting the conference call",
+     "a": "mute",
+     "right": [
+      "Geoff"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 23,
+     "q": "If your order is C.O.D., you pay at the time of this \"D\"",
+     "a": "delivery",
+     "right": [
+      "Geoff"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "To the Greeks the \"navel of the world\" was in this town where the oracle of Apollo spoke",
+     "a": "Delphi",
+     "right": [
+      "Geoff"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 20,
+     "q": "So, you fled over the state border, got caught & were sent back via the 1878 clause regarding this; welcome home!",
+     "a": "the extradition clause",
+     "right": [],
+     "wrong": [
+      "Osman"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 12,
+     "q": "Ow, she's a Wood...house! Her beau is Knightley Knightley, just lettin' it all hang out",
+     "a": "Emma",
+     "right": [
+      "Geoff"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 7,
+     "q": "Starring Will Ferrell: \n\"Blades of Glory\"",
+     "a": "figure skating",
+     "right": [
+      "Geoff"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 10,
+     "q": "We once said \"button your lip\"; now we use a slide fastener to hush people with this phrase",
+     "a": "zip it",
+     "right": [
+      "Jan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 22,
+     "q": "A payment at the start of a poker hand; add \"up\" to mean \"do your share!\"",
+     "a": "ante",
+     "right": [
+      "Jan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 3,
+     "q": "Impiety toward the gods & corrupting the young were on this philosopher's final rap sheet",
+     "a": "Socrates",
+     "right": [
+      "Geoff"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": true,
+     "order": 26,
+     "q": "You actively impeded the investigation by giving the FBI false info! That's this 3-word crime & a very, very big deal",
+     "a": "obstruction of justice",
+     "right": [],
+     "wrong": [
+      "Geoff"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2000
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 13,
+     "q": "\"Food consumed today\" by her includes \"2 Bloody Marys (count as food as contain Worcester sauce and tomatoes)\"",
+     "a": "Bridget Jones",
+     "right": [
+      "Jan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 8,
+     "q": "Featuring Ellen Page:\n\"Whip It\"",
+     "a": "roller derby",
+     "right": [
+      "Geoff"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 15,
+     "q": "On your neck, this makes it less cold; on your car, it makes it less noisy",
+     "a": "muffler",
+     "right": [
+      "Jan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 24,
+     "q": "\"Shut up & take my money!\" was said by Fry on this sci-fi animated show when told about problems with a gadget he's buying",
+     "a": "Futurama",
+     "right": [
+      "Geoff"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 4,
+     "q": "In 335 B.C. he brought many more than seven against Thebes when it foolishly rose against his leadership",
+     "a": "Alexander the Great",
+     "right": [],
+     "wrong": [
+      "Osman"
+     ],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 21,
+     "q": "I rule that we'll have to do this to your wages, from Old French for \"to prepare\"",
+     "a": "garnish",
+     "right": [
+      "Geoff"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 14,
+     "q": "This character began traveling around in a large fruit in 1961",
+     "a": "James",
+     "right": [
+      "Osman"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 9,
+     "q": "With Will Ferrell:\n\"Kicking & Screaming\"",
+     "a": "soccer",
+     "right": [
+      "Osman"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 18,
+     "q": "To put a stop to noise, or a type of car on Amtrak trains where you lower your voice & don't talk on the phone",
+     "a": "quiet",
+     "right": [
+      "Osman"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 25,
+     "q": "Owned by PayPal, this 5-letter app allows you to send money to friends, making group dinners less stressful",
+     "a": "Venmo",
+     "right": [
+      "Geoff"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 5,
+     "q": "In his comedy \"The Clouds\", this playwright poked fun at intellectuals like the sophists",
+     "a": "Aristophanes",
+     "right": [
+      "Geoff"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 27,
+     "q": "So you're trying to establish the defendant's M.O., short for this Latin term; please proceed",
+     "a": "modus operandi",
+     "right": [
+      "Geoff"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 16,
+     "q": "This orphan was written into existence just after the passing of the Poor Law of 1834",
+     "a": "Oliver Twist",
+     "right": [
+      "Jan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 28,
+     "q": "\"Blue Crush\"",
+     "a": "surfing",
+     "right": [
+      "Geoff"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 29,
+     "q": "To put a stop to noise, or a state of \"S\"tillness that \"gives consent\" in an old idiom",
+     "a": "silence",
+     "right": [
+      "Osman"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 30,
+     "q": "Depositing this 5-figure amount of cash or more in the bank requires form 8300 & that the IRS be notified",
+     "a": "$10,000",
+     "right": [
+      "Jan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "SCIENCE FRICTION",
+    "DOUBLE \"L\" WORDS",
+    "WE'RE AN AMERICAN LAND",
+    "THE NAME OF THE JAMES",
+    "WORLD MUSIC GRAMMYS",
+    "POTENT MEASUREMENTS"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 9,
+     "q": "Pope Urban VIII originally approved this man writing about heliocentric theory, but not defending it",
+     "a": "Galileo",
+     "right": [
+      "Osman"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "You can't make s'mores without this confection",
+     "a": "a marshmallow",
+     "right": [
+      "Osman"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 4,
+     "q": "This Caribbean island that became a commonwealth in 1952 covers more than 3,400 square miles",
+     "a": "Puerto Rico",
+     "right": [
+      "Geoff"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 23,
+     "q": "In 1881 circus impresario James A. Bailey merged his operation with this former competitor's",
+     "a": "P.T. Barnum",
+     "right": [
+      "Jan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 14,
+     "q": "2001 & 2012: \nThis Indian grandmaster of the sitar",
+     "a": "Shankar",
+     "right": [
+      "Geoff"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 30,
+     "q": "This 3-letter word that rhymes with sip once meant a half-pint of ale",
+     "a": "a nip",
+     "right": [
+      "Geoff"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": true,
+     "order": 10,
+     "q": "In a 19th c. spat in this field, O.C. Marsh won a round when it turned out E.D. Cope had put an elasmosaurus skull on the tail",
+     "a": "paleontology",
+     "right": [
+      "Osman"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2800
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 3,
+     "q": "Often translated into English, \"Schlaf, Kindlein, Schlaf\" is this type of song",
+     "a": "a lullaby",
+     "right": [
+      "Geoff"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 1,
+     "q": "2,300 miles SW of Hawaii, this territory that has \"American\" in its name is administered by the Interior Dept.",
+     "a": "(American) Samoa",
+     "right": [
+      "Jan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 24,
+     "q": "James Lovell dealt with an oxygen tank explosion as commander of this 1970 mission",
+     "a": "Apollo 13",
+     "right": [
+      "Osman"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 15,
+     "q": "2002: \nPanama's Ruben Blades, for an album appropriately titled this, \"world\" in his native tongue",
+     "a": "Mundo",
+     "right": [
+      "Osman"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 28,
+     "q": "In the U.S. ABV, or alcohol by volume, is half of this traditional measure of alcohol concentration",
+     "a": "proof",
+     "right": [
+      "Osman"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 11,
+     "q": "Atomists like Robert Boyle said the space where atoms aren't is this 4-letter term for emptiness; Spinoza scoffed",
+     "a": "the void",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 6,
+     "q": "Title shared by the heads of government of Austria & Germany & the chief administrator of a university",
+     "a": "a chancellor",
+     "right": [
+      "Jan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 5,
+     "q": "This became a territory on Aug. 1, 1950 & the focus of a possible nuclear confrontation in 2017",
+     "a": "Guam",
+     "right": [
+      "Osman"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 12,
+     "q": "Chess Records' first major female star, this R&B singer hit the charts with \"At Last\" & \"Tell Mama\"",
+     "a": "Etta James",
+     "right": [
+      "Jan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 18,
+     "q": "1991: Mickey Hart, one of the drummers for this legendary San Francisco rock band, for \"Planet Drum\"",
+     "a": "The Grateful Dead",
+     "right": [
+      "Osman"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 26,
+     "q": "Armand de Brignac offers a Midas bottle size that contains 30 liters of the brut gold type of this",
+     "a": "champagne",
+     "right": [
+      "Osman"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 13,
+     "q": "Isaac Newton feuded for decades with this German over who had invented calculus",
+     "a": "Leibniz",
+     "right": [
+      "Geoff"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 7,
+     "q": "It's another name for the esophagus",
+     "a": "the gullet",
+     "right": [],
+     "wrong": [
+      "Osman"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 16,
+     "q": "This term that precedes \"Guinea\" is also found before \"Islands\" that include U.S. possessions like Kingman Reef",
+     "a": "equatorial",
+     "right": [
+      "Jan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 20,
+     "q": "Deposed in 1688 in the \"Glorious Revolution\", King James II was the last British king of this house",
+     "a": "Stuart",
+     "right": [
+      "Geoff"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 21,
+     "q": "1992, not '66: him, for \"Brasileiro\"",
+     "a": "Sergio Mendes",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 27,
+     "q": "This \"equestrian\" measure is equal to one ounce of booze",
+     "a": "a pony",
+     "right": [],
+     "wrong": [
+      "Jan"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 17,
+     "q": "This chemist was guillotined after doubting French Revolution leader Marat's theories on magical fluids",
+     "a": "Lavoisier",
+     "right": [
+      "Geoff"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 8,
+     "q": "This bird is often hard to spot, but its song is easy to recognize",
+     "a": "a whippoorwill",
+     "right": [
+      "Jan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": true,
+     "order": 19,
+     "q": "Annexed in 1867, this island may be only 2 square miles but a 1942 battle there proved to be a key moment in the Pacific in WWII",
+     "a": "Midway",
+     "right": [
+      "Osman"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 5500
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 25,
+     "q": "This former Maine senator & Secretary of State narrowly lost the 1884 presidential election to Grover Cleveland",
+     "a": "James G. Blaine",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 22,
+     "q": "1996: \nThese Irish instrumental wizards were the bosses",
+     "a": "The Chieftains",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 29,
+     "q": "In the 19th century, the U.K. designated 14 ounces as the size bearing the name of this ship",
+     "a": "a schooner",
+     "right": [],
+     "wrong": [
+      "Osman"
+     ],
+     "stumper": true,
+     "img": true
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "FASHION BRANDS",
+  "q": "Translated from Roman numerals, \"55\" appears in luggage & watch product names from a company founded by this man",
+  "a": "Louis Vuitton",
+  "right": [],
+  "wrong": [
+   "Jan",
+   "Geoff",
+   "Osman"
+  ]
+ },
+ "gameId": "5969",
+ "cat_notes": {
+  "J": [
+   "Clues about The Ancient Greeks.",
+   "Clues about I'll Be the Judge of That.",
+   "Clues about Novel Title Characters.",
+   "Clues about Name the Movie Sport.",
+   "Clues about Shut Up.",
+   "The category “TAKE MY MONEY!” sets the theme — the clues follow that idea and any wordplay suggested by the title."
+  ],
+  "DJ": [
+   "Clues about Science Friction.",
+   "Each answer contains the letter “L”, and the clues are about Double Words.",
+   "Clues about We're an American Land.",
+   "Clues about The Name of the James.",
+   "Clues about World Music Grammys.",
+   "Clues about Potent Measurements."
+  ],
+  "F": "Clues about Fashion Brands."
+ }
+}

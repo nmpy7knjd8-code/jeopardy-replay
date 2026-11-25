@@ -1,0 +1,982 @@
+{
+ "show": "#7595",
+ "aired": "2017-09-22",
+ "note": "",
+ "contestants": [
+  {
+   "name": "Ivan Plis",
+   "bio": "a magazine editor from Washington, D.C.",
+   "short": "Ivan"
+  },
+  {
+   "name": "Lauren Cusitello",
+   "bio": "a criminal and immigration defense lawyer from San Diego, California",
+   "short": "Lauren"
+  },
+  {
+   "name": "Betsy Knudson",
+   "bio": "an attorney from Salt Lake City, Utah (whose 3-day cash winnings total $61,402)",
+   "short": "Betsy"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Betsy": 4800,
+   "Lauren": 3200,
+   "Ivan": 6800
+  },
+  "DJ": {
+   "Betsy": 0,
+   "Lauren": 14400,
+   "Ivan": 18200
+  },
+  "Final": {
+   "Betsy": 0,
+   "Lauren": 18400,
+   "Ivan": 23200
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "TIME FOR A DRINK",
+    "ANIMALS WITH BEASTLY NAMES",
+    "KIDDY LIT",
+    "OMAR'S COMIN'!",
+    "4-SYLLABLE WORDS",
+    "I'M NO QUITTER"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 12,
+     "q": "It's early, so I'll start with some O.J.--& champagne, this sparkling cocktail",
+     "a": "a mimosa",
+     "right": [
+      "Betsy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "Some species of this creature with a mythic beast in its name can reach speeds of 30 miles per hour",
+     "a": "a dragonfly",
+     "right": [
+      "Ivan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 7,
+     "q": "She drank the cup of poison Captain Hook had intended for Peter Pan",
+     "a": "Tinker Bell",
+     "right": [
+      "Lauren"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 16,
+     "q": "Going Noriega before Noriega, Omar Torrijos led the 1968 coup in this country & ended up as its dictatorial leader",
+     "a": "Panama",
+     "right": [
+      "Lauren"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 2,
+     "q": "Exactly the same",
+     "a": "identical",
+     "right": [
+      "Lauren"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 23,
+     "q": "Ranked as low as 141st & splitting with Brooke Shields, he won the French Open in 1999",
+     "a": "(Andre) Agassi",
+     "right": [
+      "Lauren"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 13,
+     "q": "I'm gonna party like it's 44 \"B.C.\"! Mix me one of these, a Bloody Mary with clamato rather than tomato juice",
+     "a": "a Bloody Caesar",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 9,
+     "q": "These rodents of the American West don't just bark; their sounds can tell the colony, \"Tall human in blue shirt approaching\"",
+     "a": "a prairie dog",
+     "right": [
+      "Lauren"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 8,
+     "q": "He hatches the egg of Mayzie, a lazy, good-for-nothing bird who flies off to Palm Beach",
+     "a": "Horton",
+     "right": [
+      "Ivan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 19,
+     "q": "Wise words from Omar Little on this Baltimore-set HBO show: \"You come at the king, you best not miss\"",
+     "a": "The Wire",
+     "right": [
+      "Ivan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 3,
+     "q": "Parallel to level ground",
+     "a": "horizontal",
+     "right": [
+      "Betsy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 24,
+     "q": "Well after many figured this longtime Packer would call it quits, he joined the rival Vikings in 2009",
+     "a": "Brett Favre",
+     "right": [
+      "Lauren"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 14,
+     "q": "Vodka, peach schnapps, cranberry & orange juices, quick! I need this, like Burt Lancaster & Deborah Kerr",
+     "a": "Sex on the Beach",
+     "right": [
+      "Lauren"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 28,
+     "q": "This tree-dwelling carnivore of Asia combines ursine and feline creatures in its name",
+     "a": "a cat-bear (or bear-cat)",
+     "right": [
+      "Ivan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": true,
+     "order": 10,
+     "q": "In 2000 Robin McKinley retold this classic fairy tale in \"Spindle's End\"",
+     "a": "\"Sleeping Beauty\"",
+     "right": [],
+     "wrong": [
+      "Lauren"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1400
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 20,
+     "q": "The last name of this 11th century Persian poet & astronomer means \"tentmaker\" & may be derived from his father's trade",
+     "a": "(Omar) Khayyam",
+     "right": [
+      "Ivan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 4,
+     "q": "Brown v. Board of Education of Topeka, Kansas ended the school type of it",
+     "a": "segregation",
+     "right": [
+      "Betsy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 25,
+     "q": "This pitcher's ulnar injury was supposed to be career-ending, but a new type of surgery in 1974 changed that",
+     "a": "Tommy John",
+     "right": [
+      "Lauren"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 17,
+     "q": "It'll have one of these pub concoctions, beer mixed with lemonade--& hold the Tristram",
+     "a": "a shandy",
+     "right": [
+      "Betsy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "The horned toad of the Americas isn't a toad at all, nor even a frog, but one of these reptiles",
+     "a": "a lizard",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 11,
+     "q": "The Manning, South Carolina statue seen here represents this literal-minded housekeeper created by native Peggy Parish",
+     "a": "Amelia Bedelia",
+     "right": [
+      "Ivan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 21,
+     "q": "This 1960s film legend died at age 83 in Cairo in 2015",
+     "a": "Omar Sharif",
+     "right": [
+      "Ivan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 5,
+     "q": "This word meaning \"compulsory\" or \"obligatory\" comes from the Latin for \"command\"",
+     "a": "mandatory",
+     "right": [
+      "Lauren"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 26,
+     "q": "Austrian driver Niki Lauda's amazing comeback from a horrific crash is told in this Ron Howard film",
+     "a": "Rush",
+     "right": [
+      "Betsy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 18,
+     "q": "I see you have the traditional mug for it, so make me this, with lime juice, vodka & ginger beer",
+     "a": "a Moscow Mule",
+     "right": [
+      "Ivan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 30,
+     "q": "Not actually swine but rodents, they may be pets, lab research subjects or food, depending where you are",
+     "a": "guinea pigs",
+     "right": [
+      "Betsy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 15,
+     "q": "This Beatrix Potter squirrel \"had a brother called Twinkleberry and a great many cousins\"",
+     "a": "Nutkin",
+     "right": [
+      "Ivan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 22,
+     "q": "In 1944 he was given command of the U.S. First Army",
+     "a": "Omar Bradley",
+     "right": [
+      "Ivan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 6,
+     "q": "A meteorologist uses this word to describe showers that start & stop randomly throughout the day",
+     "a": "intermittent",
+     "right": [
+      "Lauren"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 27,
+     "q": "This disgraced track star made a comeback as a player in the WNBA with the Tulsa Shock",
+     "a": "Marion Jones",
+     "right": [
+      "Betsy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "BELLY UP TO THE ZANZIBAR",
+    "INVESTING",
+    "A JOINT EFFORT",
+    "THAT'S ENTERTAINMENT",
+    "\"GEO\" PARTY",
+    "I'M NO ACQUITTER"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 17,
+     "q": "The island of Zanzibar puts the second syllable in the name of this country",
+     "a": "Tanzania",
+     "right": [
+      "Lauren"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 18,
+     "q": "Investors want to maximize this rate of return on a stock, also a type of street sign",
+     "a": "yield",
+     "right": [
+      "Lauren"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 11,
+     "q": "A saddle joint allows for a circling movement, as in the one at the base of this digit",
+     "a": "the thumb",
+     "right": [
+      "Lauren"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 12,
+     "q": "Tracy Morgan, on this Tina Fey sitcom: \"Heavy is the head that eats the crayons\"",
+     "a": "30 Rock",
+     "right": [
+      "Lauren"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 6,
+     "q": "19th century Russian Nikolay Lobachevsky founded non-Euclidean this field",
+     "a": "geometry",
+     "right": [
+      "Lauren"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "Sometime after his chat with Jesus, this prefect was ordered back to Rome for executing men without proper trials",
+     "a": "Pontius Pilate",
+     "right": [
+      "Lauren"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 20,
+     "q": "The island is called Unguja in this main language spoken there",
+     "a": "Swahili",
+     "right": [
+      "Ivan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 19,
+     "q": "There's a double \"M\" in this word for any food, metal or other substance commonly traded for",
+     "a": "a commodity",
+     "right": [
+      "Ivan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 25,
+     "q": "Wrenching a joint may tear a tendon or this band of tissue that connects the 2 bones",
+     "a": "a ligament",
+     "right": [
+      "Lauren"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 13,
+     "q": "This band had a 1993 hit singing, \"But I'm a creep, I'm a weirdo, what the hell am I doing here? I don't belong here\"",
+     "a": "Radiohead",
+     "right": [
+      "Ivan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 7,
+     "q": "For Nebraska, it's the 2-word term for a spot 10 miles northwest of the town of Broken Bow",
+     "a": "geographic center",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 2,
+     "q": "George Jeffreys judged & executed scores of rebels in 1685 but died in this London locale when political winds shifted",
+     "a": "the Tower of London",
+     "right": [
+      "Lauren"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 21,
+     "q": "Zanzibar fell under Portuguese domination shortly after this explorer visited in 1499",
+     "a": "Vasco da Gama",
+     "right": [
+      "Lauren"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 22,
+     "q": "There are short & long types of this futures contract, what you do to \"your bets\" to minimize risk",
+     "a": "a hedge",
+     "right": [
+      "Lauren"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 26,
+     "q": "(Sarah of the Clue Crew shows a joint on the monitor.) Often affecting the weight-bearing joints, like the knee, osteoarthritis is especially painful as this rubbery tissue deteriorates, allowing bone to rub against bone",
+     "a": "cartilage",
+     "right": [
+      "Ivan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 14,
+     "q": "Dirk Benedict played Starbuck on this sci-fi show in 1978; Katee Sackhoff took the character in a new direction in 2003",
+     "a": "Battlestar Galactica",
+     "right": [
+      "Ivan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 8,
+     "q": "Heat from the interior of the Earth",
+     "a": "geothermal heat",
+     "right": [
+      "Lauren"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 3,
+     "q": "In 1883 Judge Isaac Parker sentenced this female outlaw & her husband Sam to the federal pen for horse stealing",
+     "a": "Belle Starr",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 27,
+     "q": "Many Zanzibar residents have Mideastern roots, practice Islam & call themselves Shirazi, after a city in this country",
+     "a": "Iran",
+     "right": [
+      "Ivan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 3000
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 23,
+     "q": "It's the \"N\" in NEC, Japan's first joint venture with foreign investment; today, you can invest in the company too",
+     "a": "Nippon",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 29,
+     "q": "The only movable joints of the head, the TM joints connect the skull & this lower bone of the jaw",
+     "a": "the mandible",
+     "right": [
+      "Betsy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 15,
+     "q": "In the 1985 hit \"Smooth Operator\", this one-named singer crooned, \"Coast to coast, L.A. to Chicago\"... huh?!",
+     "a": "Sade",
+     "right": [
+      "Ivan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 9,
+     "q": "Rudolf Kjellen coined this term that involves the influence of coasts & borders on international relations",
+     "a": "geopolitics",
+     "right": [
+      "Lauren"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 4,
+     "q": "When he was \"the law west of the Pecos\", he fined a corpse $40 for having a concealed weapon",
+     "a": "Judge Roy Bean",
+     "right": [],
+     "wrong": [
+      "Betsy"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 28,
+     "q": "Zanzibar & nearby isles, leaders in clove production, claim the title of these islands, also applied to the Moluccas",
+     "a": "the Spice Islands",
+     "right": [
+      "Lauren"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 24,
+     "q": "The base interest rate, the minimum investors demand of a non-treasury security, also has this other \"B\" name",
+     "a": "the benchmark",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": true,
+     "order": 30,
+     "q": "Glenohumeral is the medical name for this joint with greater range than any other in humans",
+     "a": "the shoulder",
+     "right": [],
+     "wrong": [
+      "Betsy"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 4800
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 16,
+     "q": "This standup comic & \"Ride Along\" star said, \"Lying ruined my marriage... that's a lie. I cheated\"",
+     "a": "Kevin Hart",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 10,
+     "q": "With exciting centers, they've been called the Tootsie Pops of rock hunting",
+     "a": "geodes",
+     "right": [
+      "Ivan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 5,
+     "q": "\"Hanging judge\" Matthew Begbie dished out justice in this Canadian province back when New Westminster was the capital",
+     "a": "British Columbia",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "POETS",
+  "q": "In an 1855 poem he wrote, \"I guess it must be the flag of my disposition, out of hopeful green stuff woven\"",
+  "a": "Walt Whitman",
+  "right": [
+   "Lauren",
+   "Ivan"
+  ],
+  "wrong": []
+ },
+ "gameId": "5785",
+ "cat_notes": {
+  "J": [
+   "Clues about drinks.",
+   "Clues about Animals with Beastly Names.",
+   "Clues about Kiddy Lit.",
+   "The category “OMAR'S COMIN'!” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "The category “4-SYLLABLE WORDS” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "The category “I'M NO QUITTER” sets the theme — the clues follow that idea and any wordplay suggested by the title."
+  ],
+  "DJ": [
+   "Clues about Belly Up to the Zanzibar.",
+   "Clues about Investing.",
+   "Clues about A Joint Effort.",
+   "Clues about That's Entertainment.",
+   "Each answer starts with “GEO”, and the clues are about Party.",
+   "The category “I'M NO ACQUITTER” sets the theme — the clues follow that idea and any wordplay suggested by the title."
+  ],
+  "F": "Clues about Poets."
+ }
+}

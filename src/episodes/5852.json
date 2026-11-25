@@ -1,0 +1,993 @@
+{
+ "show": "#7650",
+ "aired": "2017-12-08",
+ "note": "",
+ "contestants": [
+  {
+   "name": "Ben Raphel",
+   "bio": "a healthcare data analyst from Boston, Massachusetts",
+   "short": "Ben"
+  },
+  {
+   "name": "Laura Miller",
+   "bio": "an attorney from Arlington, Virginia",
+   "short": "Laura"
+  },
+  {
+   "name": "Kyle Becker",
+   "bio": "a research scientist from Nashville, Tennessee (whose 4-day cash winnings total $63,802)",
+   "short": "Kyle"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Kyle": 4200,
+   "Laura": 5200,
+   "Ben": 4200
+  },
+  "DJ": {
+   "Kyle": 12600,
+   "Laura": 9600,
+   "Ben": 15600
+  },
+  "Final": {
+   "Kyle": 9599,
+   "Laura": 19199,
+   "Ben": 25201
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "THE FOOD CHAIN",
+    "STATELY BODIES OF WATER",
+    "HAMMER",
+    "FROM B TO C",
+    "I SING THE BODY",
+    "ELECTRIC"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 16,
+     "q": "The $6 Footlong Sub of the Day",
+     "a": "Subway",
+     "right": [
+      "Kyle"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "It forms the Arizona-California border before emptying into the Gulf of California in Mexico",
+     "a": "the Colorado River",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 4,
+     "q": "The Troemner reflex hammer is mainly used to tap this; Troemner said why not use the handle as a tongue depressor",
+     "a": "the knee",
+     "right": [
+      "Kyle"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 7,
+     "q": "Hollywood slang for a movie that tells the story of a real person's life",
+     "a": "a biopic",
+     "right": [
+      "Kyle"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 22,
+     "q": "The Weeknd explores the numbing effects of love in this No. 1 hit",
+     "a": "\"Can't Feel My Face\"",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 11,
+     "q": "In addition to moving earth, Caterpillar is a major supplier of these units to supply backup power to hospitals",
+     "a": "generators",
+     "right": [
+      "Kyle"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 17,
+     "q": "The 1,090-calorie Dave's Triple",
+     "a": "Wendy's",
+     "right": [
+      "Kyle"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": true,
+     "order": 2,
+     "q": "The bay of Green Bay lies at its northwestern corner",
+     "a": "Lake Michigan",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1000
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 9,
+     "q": "Legend says this sport originated when Celtic hero Cu Chulainn swung a chariot over his head & let it go",
+     "a": "the hammer throw",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [
+      "Laura"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 8,
+     "q": "Quarterback Jameis Winston, or any other member of the NFL's Tampa Bay team",
+     "a": "Buc",
+     "right": [
+      "Laura"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 23,
+     "q": "Some of the anatomy John Mayer lauds in this song: skin like porcelain, candy lips & a bubblegum tongue",
+     "a": "\"Your Body Is A Wonderland\"",
+     "right": [
+      "Laura"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 21,
+     "q": "An oscilloscope displays wave forms to show voltage and this electric flow measured in amperes",
+     "a": "currents",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 18,
+     "q": "The Banana Split Blizzard",
+     "a": "Dairy Queen",
+     "right": [
+      "Kyle"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 3,
+     "q": "Cities located on its banks include Fort Smith & Little Rock",
+     "a": "the Arkansas River",
+     "right": [
+      "Laura"
+     ],
+     "wrong": [
+      "Kyle"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 14,
+     "q": "This sea dweller has a funny-shaped head called a cephalofoil",
+     "a": "the hammerhead shark",
+     "right": [
+      "Laura"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 10,
+     "q": "In the name of a rodeo riding event, it follows saddle",
+     "a": "bronc",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 24,
+     "q": "It's the truth that Shakira had one of the biggest hits of summer 2006 with this No. 1 song",
+     "a": "\"Hips Don't Lie\"",
+     "right": [
+      "Kyle"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 25,
+     "q": "Around 1908 William Coolidge improved upon this tungsten wire thread, making it bendable & the modern light bulb was born",
+     "a": "the filament",
+     "right": [
+      "Kyle"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 19,
+     "q": "The 1,520-calorie Tour of Italy, with lasagna, chicken parmigiana & fettuccine Alfredo",
+     "a": "the Olive Garden",
+     "right": [
+      "Laura"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 5,
+     "q": "Prince William Sound is a large inlet of this even larger inlet of the Pacific",
+     "a": "the Gulf of Alaska",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 15,
+     "q": "Judas Priest's song \"Between The Hammer &\" this is an idiom for equally unpleasant choices",
+     "a": "the anvil",
+     "right": [],
+     "wrong": [
+      "Ben"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 12,
+     "q": "Seen here are two pairs of this pear",
+     "a": "Bosc",
+     "right": [
+      "Laura"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "\"Look but don't make your eyes strain\", raps Cypress Hill in a Top 20 tune about going this",
+     "a": "insane in the brain",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 26,
+     "q": "The common duplex receptacle that you plug your blow dryer into has 2 outlets, each of this many volts",
+     "a": "120",
+     "right": [
+      "Kyle"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 20,
+     "q": "Orange chicken (since 1987), honey walnut shrimp (2010)",
+     "a": "Panda Express",
+     "right": [
+      "Kyle"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 6,
+     "q": "This river is formed by the junction of the Des Plaines & Kankakee Rivers",
+     "a": "the Illinois River",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 28,
+     "q": "The hammers on most pianos are covered with this soft 4-letter material",
+     "a": "felt",
+     "right": [
+      "Laura"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 13,
+     "q": "This temporary military encampment is often set up without shelter or protection from enemy fire",
+     "a": "a bivouac",
+     "right": [
+      "Laura"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 30,
+     "q": "This Top 10 hit by Sam Hunt says, \"Could drive it with my eyes closed, I know every curve like the back of my hand\"",
+     "a": "\"Body Like A Back Road\"",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 27,
+     "q": "This phenomenon of zero resistance occurs in certain metals cooled to near absolute zero",
+     "a": "superconductivity",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "ASIAN CULTURE",
+    "14-LETTER WORDS",
+    "STATE DEPARTMENT HISTORY",
+    "WRITERS & WRITING",
+    "FOSSIL FUELS",
+    "STAGE NAME'S THE SAME"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 11,
+     "q": "This classic story collection that developed over several centuries includes the tales of Aladdin & Ali Baba",
+     "a": "The Arabian Nights",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 13,
+     "q": "It's observing a potential military opponent to assess his position & strengths",
+     "a": "reconnaissance",
+     "right": [
+      "Laura"
+     ],
+     "wrong": [
+      "Kyle"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "This nickname for the State Department comes from its once nebulous location",
+     "a": "Foggy Bottom",
+     "right": [
+      "Kyle"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 18,
+     "q": "This author of the letter \"J'accuse\", which sparked the exoneration of Alfred Dreyfus, died of carbon monoxide poisoning",
+     "a": "(Émile) Zola",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 23,
+     "q": "The U.S. has produced the most oil in history, but this South American nation has the world's largest store",
+     "a": "Venezuela",
+     "right": [
+      "Kyle"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 6,
+     "q": "Funnyman directory Melvin Kaminsky & funnyman director Albert Einstein",
+     "a": "Brooks",
+     "right": [
+      "Laura"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 12,
+     "q": "After women were banned from performing in 1629, men took over in this traditional Japanese dance drama",
+     "a": "kabuki",
+     "right": [
+      "Kyle"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 14,
+     "q": "You can win an Oscar for this specialty, the art & science of filming a motion picture",
+     "a": "cinematography",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 2,
+     "q": "In 1789 Thomas Jefferson was appointed the first Secretary of State while serving as minister to this country",
+     "a": "France",
+     "right": [
+      "Kyle"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 19,
+     "q": "1820's \"Melmoth the Wanderer\" by a great-uncle of Oscar Wilde was in this spooky genre of the Romantic novel",
+     "a": "gothic",
+     "right": [
+      "Laura"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 24,
+     "q": "Crude oil is found in underground areas called these, just like water stored in large artificial lakes",
+     "a": "reservoirs",
+     "right": [
+      "Laura"
+     ],
+     "wrong": [
+      "Kyle",
+      "Ben"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 7,
+     "q": "'70s TV star John Sanford & \"Beat Shazam\" host Eric Bishop",
+     "a": "Foxx",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": true,
+     "order": 15,
+     "q": "Depicting stories of daily life & from folklore, water puppetry in this country began in the Red River delta in the 11th century",
+     "a": "Vietnam",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true,
+     "ddWager": 3000
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 28,
+     "q": "You'll follow anyone's lead because you're young & this adjective meaning easily influenced",
+     "a": "impressionable",
+     "right": [
+      "Kyle"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 3,
+     "q": "In 1980 Secretary Cyrus Vance resigned over the decision to order an ultimately failed military op in this country",
+     "a": "Iran",
+     "right": [
+      "Kyle"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 20,
+     "q": "Born in 1812, this writer of limericks was the 20th of 21 children",
+     "a": "Edward Lear",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 25,
+     "q": "Fossil fuels include not only oil & coal, but also this partially carbonized moss found in bogs",
+     "a": "peat",
+     "right": [
+      "Kyle"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 8,
+     "q": "Guitar whiz Lester Polfuss & (acting) meth whiz Aaron Sturtevant",
+     "a": "Paul",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 16,
+     "q": "The woman here is performing the legong, a traditional dance of this Indonesian island",
+     "a": "Bali",
+     "right": [],
+     "wrong": [
+      "Ben"
+     ],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 29,
+     "q": "This restoration to health is the specialty of the V.A.'s polytrauma centers",
+     "a": "rehabilitation",
+     "right": [
+      "Kyle"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 4,
+     "q": "Created in 2009, the AVC is the department bureau that deals with \"Arms Control, Verification &\" this",
+     "a": "compliance",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 21,
+     "q": "Paula Hawkins' follow-up to \"The Girl on the Train\", it concerns a creepy \"drowning pool\"",
+     "a": "Into the Water",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 26,
+     "q": "Nearly all of the anthracite coal in the U.S. comes from this second state",
+     "a": "Pennsylvania",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 9,
+     "q": "Tall comedian Brad Gerstenfeld & '70s teen idol Leif Per Nervik",
+     "a": "Garrett",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 17,
+     "q": "The first non-European to win a Nobel Literature Prize, Rabindranath Tagore wrote mostly in this Asian language",
+     "a": "Bengali",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": true,
+     "order": 30,
+     "q": "The Great Depression gave rise to this, the study of income & output on a national scale",
+     "a": "macroeconomics",
+     "right": [
+      "Kyle"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2000
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 5,
+     "q": "After WWII the U.S. adopted this policy of controlling Soviet expansion, a term used by dept. official George Kennan",
+     "a": "containment",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 22,
+     "q": "The title of a work by Aldous Huxley inspired the name of this 1960s L.A. rock band",
+     "a": "The Doors",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 27,
+     "q": "A type of natural gas is named for this 5-letter rock, one of the most common types of sedimentary rock",
+     "a": "shale",
+     "right": [
+      "Laura"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 10,
+     "q": "Screen legend Lucille LeSueur & Broadway legend Michael Dumbell-Smith",
+     "a": "Crawford",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "PRIMETIME TV ACTRESSES",
+  "q": "On the beat since 1999, she plays the longest-running female character currently on TV in a primetime non-animated series",
+  "a": "Mariska Hargitay",
+  "right": [
+   "Laura",
+   "Ben"
+  ],
+  "wrong": [
+   "Kyle"
+  ]
+ },
+ "gameId": "5852",
+ "cat_notes": {
+  "J": [
+   "Clues about The Food Chain.",
+   "Clues about Stately Bodies of Water.",
+   "Clues about Hammer.",
+   "Clues from B to C.",
+   "The category “I SING THE BODY” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "Clues about Electric."
+  ],
+  "DJ": [
+   "Clues about Asian Culture.",
+   "Each answer is a 14-letter word.",
+   "Clues about State Department History.",
+   "Clues about Writers and Writing.",
+   "Clues about Fossil Fuels.",
+   "Give us the same last name that both people use professionally."
+  ],
+  "F": "Clues about Primetime TV Actresses."
+ }
+}

@@ -1,0 +1,993 @@
+{
+ "show": "#7606",
+ "aired": "2017-10-09",
+ "note": "Austin Rogers game 10. \r The dividers between the players used during Final Jeopardy! are now retractable. \r Players now stay at their lecterns for the closing credits.",
+ "contestants": [
+  {
+   "name": "Rain Dunaway",
+   "bio": "a medical student from Louisville, Kentucky",
+   "short": "Rain"
+  },
+  {
+   "name": "Rich Coble",
+   "bio": "an attorney from Philadelphia, Pennsylvania",
+   "short": "Rich"
+  },
+  {
+   "name": "Austin Rogers",
+   "bio": "a bartender from New York, New York (whose 9-day cash winnings total $332,400)",
+   "short": "Austin"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Austin": 5400,
+   "Rich": 0,
+   "Rain": 4600
+  },
+  "DJ": {
+   "Austin": 24000,
+   "Rich": 1600,
+   "Rain": 7400
+  },
+  "Final": {
+   "Austin": 33000,
+   "Rich": 1,
+   "Rain": 3400
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "VIDEO GAMES",
+    "STATES BY COLORFUL LOCALES",
+    "THIRD TIME'S A \"CHA\"RM",
+    "LAW SLAW",
+    "TRANSLATE THE NOTED PAIR",
+    "CLASSICS ON AUDIBLE"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "Kids! keep the playroom neat & play this brand's \"worlds\", where all the bricks are virtual",
+     "a": "LEGO",
+     "right": [
+      "Austin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 6,
+     "q": "Greenbelt &\nSilver Spring",
+     "a": "Maryland",
+     "right": [
+      "Austin"
+     ],
+     "wrong": [
+      "Rich"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 15,
+     "q": "The World War II-era military phonetic alphabet went Able, Baker, this first name",
+     "a": "Charlie",
+     "right": [
+      "Austin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 26,
+     "q": "Connecticut's rules for this group of 12 say don't look up any words you hear in court in a dictionary",
+     "a": "a jury",
+     "right": [
+      "Rich"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 21,
+     "q": "Spanish:\nvida & muerte",
+     "a": "life & death",
+     "right": [
+      "Rich"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 10,
+     "q": "In a 2005 film adaptation, eldest sister Jane was played by Rosamund Pike, heard here reading this classic novel\n\n\"Her spirits were very differently affected, when, to her utter amazement, she saw Mr. Darcy walk into the room\"",
+     "a": "Pride and Prejudice",
+     "right": [
+      "Rain"
+     ],
+     "wrong": [
+      "Austin"
+     ],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "\"The Dog Policeman\" is the theme that lets you know it's time for this game--don't croak!",
+     "a": "Frogger",
+     "right": [
+      "Austin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 7,
+     "q": "Brownsville & White Settlement",
+     "a": "Texas",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 17,
+     "q": "Those joining a monastic order abide by the 3 evangelical counsels: poverty, obedience & of course this",
+     "a": "chastity",
+     "right": [
+      "Rich"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "This 7-letter word can mean legal advice or a lawyer, such as a leading or general one",
+     "a": "counsel",
+     "right": [
+      "Austin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 22,
+     "q": "French:\nsoleil & lune",
+     "a": "sun & moon",
+     "right": [
+      "Rain"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 11,
+     "q": "The wit & irony of this satiric novel are captured by David Hyde Pierce\n\n\"As the common size of the natives is somewhat under six inches, so there is an exact proportion in all other animals\"",
+     "a": "Gulliver's Travels",
+     "right": [
+      "Austin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 3,
+     "q": "In 2016 Minecraft became the second-bestselling video game of all time--No. 1 is this other \"blocky\" game",
+     "a": "Tetris",
+     "right": [
+      "Austin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 8,
+     "q": "Red Hook &\nWhite Plains",
+     "a": "New York",
+     "right": [
+      "Austin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 18,
+     "q": "North Carolina's Research Triangle is Durham, Raleigh & this place",
+     "a": "Chapel Hill",
+     "right": [
+      "Rain"
+     ],
+     "wrong": [
+      "Rich"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 30,
+     "q": "In some states even after doing the time, you can get a felony conviction reduced to this other major type",
+     "a": "misdemeanor",
+     "right": [
+      "Austin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 23,
+     "q": "Portuguese:\ngato & cao, which is not a bovine",
+     "a": "cat & dog",
+     "right": [
+      "Austin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 12,
+     "q": "Kenneth Branagh captures the horror of this story\n\n\"There were rumors that a very important station was in jeopardy, and its chief, Mr. Kurtz, was ill\"",
+     "a": "Heart of Darkness",
+     "right": [
+      "Austin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 4,
+     "q": "Try to settle the world as one of dozens of cultures in the 6th version of this Sid Meier game",
+     "a": "Civilization",
+     "right": [
+      "Austin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 9,
+     "q": "Brownsboro Village &\nBowling Green but not\nYellow Springs",
+     "a": "Kentucky",
+     "right": [
+      "Rain"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 19,
+     "q": "Champagne is mainly made of 3 grapes: pinot noir, pinot meunier & this white one",
+     "a": "chardonnay",
+     "right": [],
+     "wrong": [
+      "Austin"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "Louisiana's first-in-the-nation law making cop-killing a hate crime is known as these \"lives matter\"",
+     "a": "blue",
+     "right": [
+      "Rain"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 24,
+     "q": "Latin:\ndulcis & acidus",
+     "a": "sweet & sour",
+     "right": [
+      "Austin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 13,
+     "q": "Who better to narrate \"To the Lighthouse\" than this actress, who won an Oscar for playing Virginia Woolf\n\n\"For her husband, with his caustic saying that it would not be fine, had dashed his spirits she could see\"",
+     "a": "Nicole Kidman",
+     "right": [
+      "Rain"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": true,
+     "order": 5,
+     "q": "Impossible architecture is found in this \"valley\", a mobile game that shares a name with a place in Utah & Arizona",
+     "a": "Monument",
+     "right": [],
+     "wrong": [
+      "Austin"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2000
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 16,
+     "q": "Black Oak &\nBlue Eye",
+     "a": "Arkansas",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 20,
+     "q": "The 3 great examples of French Gothic architecture are the cathedrals of Amiens, Reims & this town",
+     "a": "Chartres",
+     "right": [
+      "Austin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 28,
+     "q": "To get a legal verb meaning \"stop someone from bringing certain claims\", put this letter before \"stop\"",
+     "a": "E",
+     "right": [
+      "Rich"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 25,
+     "q": "Russian:\npozhaluysta & spasibo",
+     "a": "please & thank you",
+     "right": [
+      "Rain"
+     ],
+     "wrong": [
+      "Rich"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 14,
+     "q": "This Gothic novel has multiple narrators, including Alan Cumming as Dr. Seward\n\n\"The first thing Van Helsing said to me when we met at Liverpool Street was, 'Have you said anything to our young friend the lover of her?'\"",
+     "a": "Dracula",
+     "right": [
+      "Austin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "SOMETHING ABOUT MARY",
+    "ENDS IN \"ING\"",
+    "FOODS FOR THOUGHT",
+    "CHECK, PLEASE",
+    "NAUGHTY BY NATURE",
+    "BOND BOMBSHELLS"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 11,
+     "q": "An 1875 hearing resulted in this ex-First Lady being committed to a sanatorium for months",
+     "a": "Mary Todd Lincoln",
+     "right": [
+      "Austin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "To shield spectators from the sun, the Colosseum had a retractable velarium, which we call this",
+     "a": "awning",
+     "right": [
+      "Austin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 16,
+     "q": "When followed by \"away\", this word for a small deep-fried cake, often apple, means to squander",
+     "a": "fritter",
+     "right": [
+      "Rich"
+     ],
+     "wrong": [
+      "Rain"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 6,
+     "q": "Similar to a cashier's check, it's a check that bears a bank officer's promise that it's good",
+     "a": "a certified check",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 19,
+     "q": "Don't curse the yellow-bellied sapsucker, a type of this bird; he isn't trying to make your headache worse",
+     "a": "woodpecker",
+     "right": [
+      "Rich"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 26,
+     "q": "In 1962 Ursula Andress was in a state of relative undress in the film about this title physician",
+     "a": "Dr. No",
+     "right": [
+      "Rain"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 12,
+     "q": "4 signers of the Declaration of Independence were alumni of this school chartered in the 17th century",
+     "a": "William & Mary",
+     "right": [
+      "Austin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 2,
+     "q": "This old British coin was equal to 12 pence",
+     "a": "shilling",
+     "right": [
+      "Rich"
+     ],
+     "wrong": [
+      "Austin",
+      "Rain"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 17,
+     "q": "A tete is the classic shape of this French-named bread, as seen here",
+     "a": "brioche",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 7,
+     "q": "Invented by American Express, they've declined in use now that there are ATMs everywhere",
+     "a": "a traveler's check",
+     "right": [
+      "Austin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 20,
+     "q": "Just like the bird, cuckoo wasps are so named because they do this in the nests of other insects, like bees",
+     "a": "lay their eggs",
+     "right": [
+      "Austin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 27,
+     "q": "When you were young & your heart was an open book, you knew Jane Seymour was Solitaire in this classic Bond film",
+     "a": "Live and Let Die",
+     "right": [
+      "Austin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": true,
+     "order": 13,
+     "q": "Mary Mallon, the first known carrier of this disease in the U.S., was confined to a hospital for her final 20 years",
+     "a": "typhoid",
+     "right": [
+      "Austin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 5000
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 3,
+     "q": "Here's a bit of the music from this ballet composed by Aaron Copland",
+     "a": "Appalachian Spring",
+     "right": [
+      "Austin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 18,
+     "q": "Gouda & this cheese coated in red wax are the 2 most exported from the Netherlands",
+     "a": "edam",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 8,
+     "q": "Like old bread, a check presented to the bank more than 6 months after it's written is considered this & needn't be honored",
+     "a": "stale",
+     "right": [
+      "Austin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 21,
+     "q": "urbancarnivores.com says in the L.A. area, these canines mostly eat fruits & small wild mammals, hardly any pets",
+     "a": "coyotes",
+     "right": [
+      "Austin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 30,
+     "q": "Maybe it was catlike reflexes that earned this Honor Blackman character her \"Goldfinger\" name",
+     "a": "Pussy Galore",
+     "right": [
+      "Austin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 14,
+     "q": "Mary Baker Eddy founded this religion to \"reinstate primitive Christianity and its lost element of healing\"",
+     "a": "Christian Science",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 4,
+     "q": "An example of the coulomb force is this 2-word phenomenon, as when garments gather a charge & stick to each other",
+     "a": "static cling",
+     "right": [
+      "Austin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 24,
+     "q": "Acai berries are South American; here are these other 4-letter berries grown in China & also said to be a superfood",
+     "a": "goji berries",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 9,
+     "q": "Illegally shifting money between accounts is doing this \"soaring\" term with checks",
+     "a": "kiting",
+     "right": [],
+     "wrong": [
+      "Austin"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 22,
+     "q": "Built on ravines, Toronto is full up & fed up with these trash can menaces the mayor called \"a huge nuisance\"",
+     "a": "raccoons",
+     "right": [
+      "Rain"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 29,
+     "q": "Lois Chiles was Holly Goodhead, who had an outer space fling with Roger Moore in this flick",
+     "a": "Moonraker",
+     "right": [
+      "Austin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 15,
+     "q": "In 1959 Mary Leakey found a 1.75-million-year-old skull in Olduvai Gorge in what's now this country",
+     "a": "Tanzania",
+     "right": [
+      "Austin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 5,
+     "q": "It's the cotton fabric used to make the pennant flags seen here",
+     "a": "bunting",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 25,
+     "q": "Tofu is made from curdled soy milk; this is fermented soybean cake",
+     "a": "tempeh",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 10,
+     "q": "Mitsubishi saved Morgan Stanley by cutting a check for $9 billion in this year",
+     "a": "2008",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": true,
+     "order": 23,
+     "q": "There's a 17-year & a 13-year type of this noisy insect that has multiple different calls to annoy you",
+     "a": "cicadas",
+     "right": [
+      "Rain"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2000
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 28,
+     "q": "Diana Rigg ran out of all the time in the world after becoming Mrs. Bond to this man in his 1-shot role as Mr. Bond",
+     "a": "George Lazenby",
+     "right": [
+      "Austin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "HISTORICAL AREAS",
+  "q": "An ancient quote mentions this area & 3 population groups, the Belgae, Aquitani & Celts",
+  "a": "Gaul",
+  "right": [
+   "Austin"
+  ],
+  "wrong": [
+   "Rich",
+   "Rain"
+  ]
+ },
+ "gameId": "5796",
+ "cat_notes": {
+  "J": [
+   "Sounds like fun.",
+   "Clues about States by Colorful Locales.",
+   "\"C-H-A\" coming up in each correct response.",
+   "Clues about Law Slaw.",
+   "Clues about Translate the Noted Pair.",
+   "Clues about Classics on Audible."
+  ],
+  "DJ": [
+   "Clues about Something About Mary.",
+   "Each answer ends with “ING”.",
+   "Clues about Foods for Thought.",
+   "Clues about Check, Please.",
+   "Clues about Naughty by Nature.",
+   "Clues about Bond Bombshells."
+  ],
+  "F": "Clues about Historical Areas."
+ }
+}

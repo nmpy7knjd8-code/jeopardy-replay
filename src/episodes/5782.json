@@ -1,0 +1,987 @@
+{
+ "show": "#7592",
+ "aired": "2017-09-19",
+ "note": "",
+ "contestants": [
+  {
+   "name": "Farhad Mahmoudi",
+   "bio": "a client services director from Encinitas, California",
+   "short": "Farhad"
+  },
+  {
+   "name": "Betsy Knudson",
+   "bio": "an attorney from Salt Lake City, Utah",
+   "short": "Betsy"
+  },
+  {
+   "name": "Angela Ward",
+   "bio": "a family assessment writer from Longview, Texas (whose 1-day cash winnings total $11,800)",
+   "short": "Angela"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Angela": 1200,
+   "Betsy": 8600,
+   "Farhad": 3600
+  },
+  "DJ": {
+   "Angela": 8400,
+   "Betsy": 21200,
+   "Farhad": 15400
+  },
+  "Final": {
+   "Angela": 15000,
+   "Betsy": 29200,
+   "Farhad": 21201
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "MEN IN HATS",
+    "RIGHT ON Q",
+    "SONNETS",
+    "BRAND NAME MEANINGS",
+    "SUPER BOWL HALFTIME SHOWS",
+    "DITLOIDS"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 6,
+     "q": "People spent a lot of time on his couch",
+     "a": "Freud",
+     "right": [
+      "Angela"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 16,
+     "q": "He's the older of the acting Quaid brothers",
+     "a": "Randy",
+     "right": [
+      "Betsy"
+     ],
+     "wrong": [
+      "Angela"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 11,
+     "q": "Sonnet 43 by Elizabeth Barrett Browning begins with this question",
+     "a": "\"How do I love thee?\"",
+     "right": [
+      "Angela"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "The name of this fresh fruit brand is Spanish for \"little girl\"",
+     "a": "Chiquita",
+     "right": [
+      "Farhad"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 26,
+     "q": "With Radio City Music Hall producing the show in 1988, it's no surprise that it featured these dancers",
+     "a": "the Rockettes",
+     "right": [
+      "Angela"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 21,
+     "q": "The end of an at-bat:\n3 S & Y O",
+     "a": "three strikes and you're out",
+     "right": [
+      "Farhad"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 7,
+     "q": "He's the cat in the top hat",
+     "a": "Winston Churchill",
+     "right": [
+      "Farhad"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 17,
+     "q": "A quiche made with bacon is named for this area of northeast France",
+     "a": "Lorraine",
+     "right": [
+      "Betsy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 12,
+     "q": "The first part of a sonnet can pose a problem in an 8-line stanza called this, also a musical term",
+     "a": "an octet (or octave)",
+     "right": [
+      "Betsy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "This music app is named for the mythological woman to whom Apollo gave the gift of music",
+     "a": "Pandora",
+     "right": [
+      "Farhad"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "In 1998 Smokey Robinson & The Temptations took part in the 40th anniversary salute to this record label",
+     "a": "Motown",
+     "right": [
+      "Angela"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 22,
+     "q": "These hit the pharaoh hard in Exodus: \n10 P of E",
+     "a": "the ten plagues of Egypt",
+     "right": [
+      "Betsy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 8,
+     "q": "This British admiral and naval hero looked quite dashing in his uniform",
+     "a": "Lord Nelson",
+     "right": [
+      "Betsy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 18,
+     "q": "Born Dana Owens, on her road to royal rap stardom, she put in time as the human beat box for \"Ladies Fresh\"",
+     "a": "Queen Latifah",
+     "right": [
+      "Farhad"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 13,
+     "q": "Shakespeare wrote, \"My mistress' eyes are nothing like\" this heavenly body",
+     "a": "the sun",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 3,
+     "q": "The name of this shampoo brand means \"smoothly agreeable\"",
+     "a": "Suave",
+     "right": [
+      "Angela"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 28,
+     "q": "She lit up the halftime show in 2015 with a \"Firework\" finale as she shot across the sky",
+     "a": "Katy Perry",
+     "right": [
+      "Betsy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 23,
+     "q": "A jolly good film: \n4 W & a F",
+     "a": "Four Weddings and a Funeral",
+     "right": [
+      "Betsy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 9,
+     "q": "Oh, tell us the name of this Italian operatic composer",
+     "a": "(Giuseppe) Verdi",
+     "right": [
+      "Farhad"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 19,
+     "q": "Quincy, Massachusetts was once part of this smart-sounding town",
+     "a": "Braintree",
+     "right": [
+      "Betsy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 14,
+     "q": "John Donne grappled with mortality in his Holy Sonnet 10, which starts with these 4 words",
+     "a": "\"Death be not proud\"",
+     "right": [
+      "Angela"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": true,
+     "order": 4,
+     "q": "This gas brand gets its name from a badge used in heraldry",
+     "a": "Chevron",
+     "right": [],
+     "wrong": [
+      "Angela"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1000
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "They started the halftime show in 2006 with \"Start Me Up\"",
+     "a": "The Rolling Stones",
+     "right": [
+      "Betsy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 24,
+     "q": "Where Remus & his brother got started: \n7 H of R",
+     "a": "the seven hills of Rome",
+     "right": [
+      "Betsy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 10,
+     "q": "He's the Dubliner seen here",
+     "a": "(James) Joyce",
+     "right": [
+      "Farhad"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 20,
+     "q": "It may ring a bell that this Italian with a \"Q\" name won the Nobel Prize for Literature in 1959",
+     "a": "Salvatore Quasimodo",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 15,
+     "q": "This 14th century Italian poet mastered the art of the sonnet writing about his love for Laura",
+     "a": "Petrarch",
+     "right": [
+      "Betsy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 5,
+     "q": "Latin for \"snow\" gives us the name of this snow white skin cream",
+     "a": "Nivea",
+     "right": [
+      "Betsy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 30,
+     "q": "Many of the early shows including the first one featured this Louisiana school's famous marching band",
+     "a": "Grambling",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 25,
+     "q": "Geometry fact: \n180 D in a T",
+     "a": "180 degrees in a triangle",
+     "right": [
+      "Betsy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "THE REVOLUTION",
+    "IT'S A WIRED WORLD",
+    "ORCHESTRA",
+    "FISHY CINEMA",
+    "TRANSYLVANIA",
+    "\"VEL\"COME"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 13,
+     "q": "In 2011 the spirit of revolt in the Arab world came to visit Muammar al-Qaddafi, in power in this country since 1969",
+     "a": "Libya",
+     "right": [
+      "Farhad"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 23,
+     "q": "In 2017 Brazil removed the tax on these hyphenated items, so bibliophiles from Rio to Recife can Kindle away",
+     "a": "an e-book",
+     "right": [
+      "Farhad"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 26,
+     "q": "The Liverpool Philharmonic is this country's oldest continuing professional symphony orchestra",
+     "a": "England (or United Kingdom)",
+     "right": [
+      "Farhad"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "Joe Alves designed the shark for this 1975 film",
+     "a": "Jaws",
+     "right": [
+      "Farhad"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "Transylvania is a historical region located in what is today the central part of this nation",
+     "a": "Romania",
+     "right": [
+      "Betsy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 7,
+     "q": "It is expressed in distance & time, such as miles per hour or meters per second",
+     "a": "velocity",
+     "right": [
+      "Angela"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 14,
+     "q": "England's \"Glorious Revolution\" of 1688 chased James II out & these 2 monarchs in",
+     "a": "William and Mary",
+     "right": [
+      "Farhad"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 24,
+     "q": "In 2017 hackers hijacked Dutch Twitter accounts & posted in support of this country's President Erdogan",
+     "a": "Turkey",
+     "right": [
+      "Betsy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 30,
+     "q": "\"The Art of\" playing this reed instrument says the designation \"clown of the orchestra\" is an insult",
+     "a": "the bassoon",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 12,
+     "q": "Flounder the fish & Sebastian the crab are Ariel's sidekicks in this animated favorite",
+     "a": "The Little Mermaid",
+     "right": [
+      "Farhad"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 3,
+     "q": "Count Dracula was inspired in part by a 15th century Transylvanian ruler, the III of this name",
+     "a": "Vlad",
+     "right": [
+      "Betsy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 8,
+     "q": "Drop the last letter from something you mail a letter in to get this verb meaning \"to wrap up in\"",
+     "a": "envelop",
+     "right": [
+      "Angela"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 15,
+     "q": "In 1916 during the Mexican Revolution, this bandit leader raided New Mexico & killed 17 Americans",
+     "a": "Pancho Villa",
+     "right": [
+      "Farhad"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 25,
+     "q": "Your smartphone isn't literally attached to you, unlike this type of \"smart\" product such as Samsung's Gear line",
+     "a": "a smartwatch",
+     "right": [
+      "Betsy"
+     ],
+     "wrong": [
+      "Farhad"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 29,
+     "q": "The former Electric Light Orchestra, now billed as this singer's ELO, appeared with an actual orchestra on its 2016 tour",
+     "a": "Jeff Lynne",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 18,
+     "q": "This type of carnivorous fish menaces the folks at Lost River Lake in a 1978 film",
+     "a": "piranha",
+     "right": [
+      "Angela"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 4,
+     "q": "Transylvania is home to wolves, brown bears, and this wild feline, Europe's version of the bobcat",
+     "a": "the lynx",
+     "right": [
+      "Betsy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 9,
+     "q": "It's a sports arena with a banked oval track used for bicycle racing",
+     "a": "a velodrome",
+     "right": [
+      "Betsy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 16,
+     "q": "Mao used these \"colorful\" militant student groups to launch China's Cultural Revolution",
+     "a": "the Red Guard",
+     "right": [
+      "Angela"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 22,
+     "q": "Olivetti once made these, used by Raymond Chandler & others; now it provides cloud services & identity management",
+     "a": "typewriters",
+     "right": [
+      "Angela"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 28,
+     "q": "In 1977 the Cincinnati Symphony created the Cincinnati this Orchestra to play lighter classics in less formal attire",
+     "a": "the Cincinnati Pops",
+     "right": [
+      "Farhad"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 5000
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 19,
+     "q": "Willem Dafoe voiced a Moorish idol fish named Gill in this 2003 animated movie",
+     "a": "Finding Nemo",
+     "right": [
+      "Angela"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 5,
+     "q": "To the north & east, Transylvania is bounded by these mountains that are a continuation of the Alps",
+     "a": "the Carpathian Mountains",
+     "right": [
+      "Betsy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 3000
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 10,
+     "q": "Throwing this is an event in both the men's decathlon & the women's heptathlon",
+     "a": "the javelin",
+     "right": [
+      "Farhad"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 17,
+     "q": "Pridi Phanamyong was among the \"Promoters\" who ended this SE Asian country's absolute monarchy in 1932",
+     "a": "Thailand",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 21,
+     "q": "Japan's K computer was the first to reach 10 of these units of processing speeds, one of which equals 1,000 teraflops",
+     "a": "a petaflop",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 27,
+     "q": "In Disney's \"Fantasia\", this conductor of the Philadelphia Orchestra pals around with Mickey Mouse",
+     "a": "Leopold Stokowski",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 20,
+     "q": "Kevin Kline shoves French fries up Michael Palin's nose & eats Palin's beloved tropical fish in this film",
+     "a": "A Fish Called Wanda",
+     "right": [
+      "Farhad"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 6,
+     "q": "Take the Y off a German state to get the name of this Germanic people who built fortified churches in Transylvania",
+     "a": "the Saxons",
+     "right": [
+      "Betsy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 11,
+     "q": "In 1650 this Spanish artist painted his slave, Juan de Pareja, whom he soon freed",
+     "a": "Velazquez",
+     "right": [
+      "Betsy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "POTENT & NONPOTENT POTABLES",
+  "q": "Reverse the 2 words in the name of this Canadian whisky brand & you get the name of a cola",
+  "a": "Crown Royal or Royal Crown",
+  "right": [
+   "Angela",
+   "Farhad",
+   "Betsy"
+  ],
+  "wrong": []
+ },
+ "gameId": "5782",
+ "cat_notes": {
+  "J": [
+   "Clues about Men in Hats.",
+   "Clues about Right on Q.",
+   "Clues about Sonnets.",
+   "Clues about Brand Name Meanings.",
+   "Clues about Super Bowl Halftime Shows.",
+   "Now, let me give you an example of a ditloid clue: If we said, \"N 10 D S\", \"What is Number 10 Downing Street?\"."
+  ],
+  "DJ": [
+   "Clues about The Revolution.",
+   "The category “IT'S A WIRED WORLD” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "Clues about Orchestra.",
+   "Clues about Fishy Cinema.",
+   "Clues about Transylvania.",
+   "Each answer contains the letter group “VEL”, and the clues are about Come."
+  ],
+  "F": "Clues about Potent and Nonpotent Potables."
+ }
+}

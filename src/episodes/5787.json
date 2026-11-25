@@ -1,0 +1,1011 @@
+{
+ "show": "#7597",
+ "aired": "2017-09-26",
+ "note": "Austin Rogers game 1.",
+ "contestants": [
+  {
+   "name": "Austin Rogers",
+   "bio": "a bartender from New York, New York",
+   "short": "Austin"
+  },
+  {
+   "name": "Tina Doppler",
+   "bio": "a small business owner from Crown Point, Indiana",
+   "short": "Tina"
+  },
+  {
+   "name": "Dennis Fawcett",
+   "bio": "a painter and handyman from San Diego, California (whose 1-day cash winnings total $24,000)",
+   "short": "Dennis"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Dennis": 3000,
+   "Tina": 1400,
+   "Austin": 4200
+  },
+  "DJ": {
+   "Dennis": 3400,
+   "Tina": 6600,
+   "Austin": 26000
+  },
+  "Final": {
+   "Dennis": 836,
+   "Tina": 6000,
+   "Austin": 36000
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "18th CENTURY AMERICA",
+    "ENTERTAINMENT AWARDS",
+    "FOOD STUFF",
+    "DOUBLE DOUBLE LETTERS",
+    "CAPITAL CITIES",
+    "MISREMEMBERED HARRY POTTER BOOK TITLES"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 8,
+     "q": "Just like the Constitution, the Articles of Confederation had one of these introductory statements",
+     "a": "a preamble",
+     "right": [
+      "Austin"
+     ],
+     "wrong": [
+      "Dennis"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 29,
+     "q": "A 24-karat gold-plated tone arm is part of this award that weighs 5 pounds",
+     "a": "a Grammy",
+     "right": [
+      "Dennis"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 13,
+     "q": "It's the cereal that goes \"snap, crackle, pop\"",
+     "a": "Rice Krispies",
+     "right": [
+      "Austin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "A period of 1,000 years",
+     "a": "a millennium",
+     "right": [
+      "Tina"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 7,
+     "q": "\"City of Angels, the Great City, the Residence of the Emerald Buddha\" is just the start of the official name of this Thai capital",
+     "a": "Bangkok",
+     "right": [
+      "Austin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 24,
+     "q": "\"Harry Potter &\" these poultry innards \"of Fire\"",
+     "a": "giblets",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 3,
+     "q": "In the 1770s George Washington enlarged this house by adding smaller wings & erecting many outbuildings",
+     "a": "Mount Vernon",
+     "right": [
+      "Austin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 30,
+     "q": "Richard Pryor was the first recipient of this prize for American humor that's named for a 19th century novelist",
+     "a": "Mark Twain",
+     "right": [
+      "Austin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 17,
+     "q": "One of these tropical fruits of the genus Musa has only about 110 calories, 0 mg cholesterol & 400 mg potassium",
+     "a": "a banana",
+     "right": [
+      "Tina"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "How about a nice cup of this?",
+     "a": "a cappuccino",
+     "right": [
+      "Austin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 11,
+     "q": "The Ataturk Mausoleum & the Museum of Anatolian Civilizations are both in this capital",
+     "a": "Ankara",
+     "right": [
+      "Tina"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 25,
+     "q": "\"Harry Potter & the Sorcerer's\" this beer mug with a hinged lid",
+     "a": "a stein",
+     "right": [
+      "Tina"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 4,
+     "q": "\"African Slavery in America\", a 1770s article by this noted pamphleteer, railed against the practice",
+     "a": "Thomas Paine",
+     "right": [
+      "Austin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 16,
+     "q": "This director was the first recipient of the honorary Golden Globe that's named for him",
+     "a": "Cecil B. DeMille",
+     "right": [
+      "Dennis"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 18,
+     "q": "Fusilli & rotini are both traditional pastas in this shape",
+     "a": "a spiral",
+     "right": [
+      "Dennis"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 21,
+     "q": "To the Beatles, it's \"a warm gun\"; to Charles Schulz, \"a warm puppy\"",
+     "a": "happiness",
+     "right": [
+      "Dennis"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 10,
+     "q": "Its location among oases & its natural fertility earned this Saudi capital its name, from the Arabic for \"meadows\"",
+     "a": "Riyadh",
+     "right": [
+      "Dennis"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 26,
+     "q": "\"Harry Potter & the Deathly\" these braided breads for the Jewish Sabbath",
+     "a": "challahs",
+     "right": [
+      "Dennis"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 5,
+     "q": "In the 1780s this Kentucky frontiersman began serving in several offices, including sheriff & deputy surveyor",
+     "a": "Daniel Boone",
+     "right": [
+      "Dennis"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 14,
+     "q": "The Moonman is the statuette coveted at these MTV awards",
+     "a": "the VMAs (or the Video Music Awards)",
+     "right": [
+      "Austin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 19,
+     "q": "A classic beverage of Peru is chicha de jora, a brew made from this grain that's been fermented",
+     "a": "corn",
+     "right": [],
+     "wrong": [
+      "Dennis"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 22,
+     "q": "Locusts are actually short-horned ones of these insects",
+     "a": "grasshoppers",
+     "right": [
+      "Tina"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 9,
+     "q": "Former U.S. Secretary of State Madeleine Albright was born in this world capital",
+     "a": "Prague",
+     "right": [
+      "Dennis"
+     ],
+     "wrong": [
+      "Tina"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 27,
+     "q": "\"Harry Potter & the Prisoner of\" this Mexican Pacific Ocean resort city of Sinaloa state",
+     "a": "Mazatlán",
+     "right": [],
+     "wrong": [
+      "Dennis"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 6,
+     "q": "This southernmost colony was the only one not represented at the First Continental Congress in 1774",
+     "a": "Georgia",
+     "right": [
+      "Dennis"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 15,
+     "q": "This top prize of the Cannes Film Festival pays tribute to the city's coat of arms",
+     "a": "the Palme d'Or",
+     "right": [
+      "Austin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 20,
+     "q": "To change the president's opinion, in 1990 Campbell's relaunched cream of this soup with a recipe contest",
+     "a": "broccoli",
+     "right": [
+      "Tina"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": true,
+     "order": 23,
+     "q": "Belgium has 2 main ethnic groups, the Flemings & this French-speaking people",
+     "a": "the Walloons",
+     "right": [],
+     "wrong": [
+      "Tina"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2000
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 12,
+     "q": "It replaced Rawalpindi as a national capital",
+     "a": "Islamabad",
+     "right": [],
+     "wrong": [
+      "Dennis"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 28,
+     "q": "\"Harry Potter &\" this Arizona-based online school that has had over 200,000 students at one time",
+     "a": "University of Phoenix",
+     "right": [
+      "Tina"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "\"O\" YES, OPERA!",
+    "INSECTS",
+    "SPORTS ABBREV.",
+    "EPONYMS",
+    "DEFINING OUR RELATIONSHIP",
+    "LET'S SET SOME BOUNDARIES"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 11,
+     "q": "Rossini operized this Shakespeare play about a jealous lover",
+     "a": "Othello",
+     "right": [
+      "Tina"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 16,
+     "q": "Mantis religiosa is a scientific name for this insect",
+     "a": "the praying mantis",
+     "right": [
+      "Austin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "In the 2005-06 season, LeBron James averaged 42.5 MPG--that's not miles per gallon but this",
+     "a": "minutes per game",
+     "right": [
+      "Tina"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 10,
+     "q": "This toy we throw around was based on a tin pie plate made by & named for a Connecticut baker",
+     "a": "Frisbee",
+     "right": [
+      "Austin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 21,
+     "q": "What Ares was to Zeus",
+     "a": "son",
+     "right": [
+      "Dennis"
+     ],
+     "wrong": [
+      "Austin"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 28,
+     "q": "The Phoenicians put silver columns on this \"rock\" & on the African shore to mark the Mediterranean's safe boundary",
+     "a": "the Rock of Gibraltar",
+     "right": [
+      "Austin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 12,
+     "q": "Citrus growers competed to advertise at the premiere of \"The Love for Three\" these",
+     "a": "For the Love of Three Oranges",
+     "right": [
+      "Austin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 17,
+     "q": "Seen here, it's the stage of moth development between larva & adult",
+     "a": "a pupa",
+     "right": [
+      "Dennis"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 2,
+     "q": "In hockey, PP is this situation in which a penalty gives one team more players than the other",
+     "a": "power play",
+     "right": [
+      "Austin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": true,
+     "order": 9,
+     "q": "Leo Hirschfield named this oblong chewy candy after what he called his daughter Clara",
+     "a": "a Tootsie Roll",
+     "right": [
+      "Austin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 6500
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 22,
+     "q": "Regan to Cordelia",
+     "a": "sister",
+     "right": [
+      "Tina"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 30,
+     "q": "A 1988 presidential order extended the boundary of these waters belonging to the U.S. from 3 miles to 12 miles offshore",
+     "a": "the territorial waters",
+     "right": [
+      "Tina"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 13,
+     "q": "A comic operetta by Offenbach tells the story of this hero of myth \"in the Underworld\"",
+     "a": "Orpheus",
+     "right": [
+      "Austin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 18,
+     "q": "The Aedes genus of this insect carries dengue & encephalitis",
+     "a": "a mosquito",
+     "right": [
+      "Austin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 3,
+     "q": "Jim Courier & Steffi Graf are members of the ITHF, this",
+     "a": "the International Tennis Hall of Fame",
+     "right": [
+      "Austin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 7,
+     "q": "In the 1950s an Israeli army captain won a competition by creating this submachine gun named for him",
+     "a": "an Uzi",
+     "right": [
+      "Austin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 23,
+     "q": "Junior Soprano to Tony Soprano",
+     "a": "uncle",
+     "right": [
+      "Tina"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 29,
+     "q": "George H.W. Bush metaphorically drew one of these boundaries in 1990 prior to the first Gulf War conflict",
+     "a": "a line in the sand",
+     "right": [
+      "Austin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 14,
+     "q": "In 1727 Vivaldi made this man \"Furioso\"",
+     "a": "Orlando",
+     "right": [
+      "Dennis"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 19,
+     "q": "To avoid predators, a type of cockroach glows green to mimic the click type of this--why not just click?",
+     "a": "a beetle",
+     "right": [
+      "Dennis"
+     ],
+     "wrong": [
+      "Austin"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 4,
+     "q": "Mariano Rivera & Goose Gossage are among those who have been charged with BS, \"blown\" this",
+     "a": "saves",
+     "right": [
+      "Tina"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 6,
+     "q": "This scarf worn as a tie is French for a Croatian; Croatians serving France wore them in the 30 Years' War",
+     "a": "a cravat",
+     "right": [
+      "Austin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 24,
+     "q": "Charlotte Haze to Lolita",
+     "a": "mother",
+     "right": [],
+     "wrong": [
+      "Austin"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 26,
+     "q": "The Mason-Dixon Line was originally the boundary between these 2 states",
+     "a": "Pennsylvania & Maryland",
+     "right": [
+      "Austin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 6500
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 15,
+     "q": "Oh boy! The title role in Verdi's first opera is an Italian count who shares his name with this sausage & jerky maker",
+     "a": "Oberto",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 20,
+     "q": "Some birds put ants in their feathers, maybe because the ants spray this caustic acid, killing parasites",
+     "a": "formic acid",
+     "right": [
+      "Dennis"
+     ],
+     "wrong": [
+      "Austin"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 5,
+     "q": "In cricket, a batsman can be dismissed (that's cricket talk for \"out\") for LBW, \"leg before\" this",
+     "a": "leg before wicket",
+     "right": [
+      "Austin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 8,
+     "q": "This word for boastful swagger isn't from Italian but from a character in \"The Faerie Queene\"",
+     "a": "braggadocio",
+     "right": [],
+     "wrong": [
+      "Dennis"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 25,
+     "q": "Kublai Khan to Genghis Khan",
+     "a": "grandson",
+     "right": [
+      "Austin"
+     ],
+     "wrong": [
+      "Dennis",
+      "Tina"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 27,
+     "q": "The PBL, or planetary boundary layer, is a region of this lowest part of the Earth's atmosphere",
+     "a": "the troposphere",
+     "right": [
+      "Tina"
+     ],
+     "wrong": [
+      "Dennis"
+     ],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "FICTIONAL CHARACTERS",
+  "q": "At the Women in I.T. Awards in 2017, the head of MI-6 said today the real version of the character known by this letter is female",
+  "a": "Q",
+  "right": [
+   "Austin"
+  ],
+  "wrong": [
+   "Dennis",
+   "Tina"
+  ]
+ },
+ "gameId": "5787",
+ "cat_notes": {
+  "J": [
+   "Clues about 18th Century America.",
+   "Clues about Entertainment Awards.",
+   "Clues about Food Stuff.",
+   "...in each correct response.",
+   "Clues about Capital Cities.",
+   "We don't want the title that you know. We want the title that fits our clue."
+  ],
+  "DJ": [
+   "Each answer is a person or name associated with the letter “O”.",
+   "Clues about Insects.",
+   "Clues about Sports Abbrev.",
+   "Clues about Eponyms.",
+   "Clues about Defining Our Relationship.",
+   "The category “LET'S SET SOME BOUNDARIES” sets the theme — the clues follow that idea and any wordplay suggested by the title."
+  ],
+  "F": "Clues about Fictional Characters."
+ }
+}

@@ -1,0 +1,981 @@
+{
+ "show": "#7620",
+ "aired": "2017-10-27",
+ "note": "",
+ "contestants": [
+  {
+   "name": "Anand Kandaswamy",
+   "bio": "an economist from Washington, D.C.",
+   "short": "Anand"
+  },
+  {
+   "name": "Ashley Phillips",
+   "bio": "a homemaker and home-schooling mom from Lantana, Texas",
+   "short": "Ashley"
+  },
+  {
+   "name": "Erica Irving",
+   "bio": "a web developer from Washington, D.C. (whose 1-day cash winnings total $18,801)",
+   "short": "Erica"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Erica": 7800,
+   "Ashley": 400,
+   "Anand": 4200
+  },
+  "DJ": {
+   "Erica": 16300,
+   "Ashley": 3200,
+   "Anand": 11300
+  },
+  "Final": {
+   "Erica": 9999,
+   "Ashley": 1,
+   "Anand": 10001
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "YOU GOT SOME REAL BIRTHSTONES, MAN",
+    "CONTEMPORARIES",
+    "LA LA LAND",
+    "MODERN LINGO",
+    "MUSEUMS",
+    "THAT MOVIE HAD NO SEQUEL"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "For June, it's these before swine (& they look lovely on you, dear!)",
+     "a": "pearls",
+     "right": [
+      "Anand"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 14,
+     "q": "The last Mamluk sultan of Egypt was hanged in 1517, the same year he is said to have hung his 95 theses on a church door",
+     "a": "Martin Luther",
+     "right": [
+      "Anand"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 21,
+     "q": "(Los Angeles mayor Eric Garcetti presents the clue.) Muscle Beach is on the Venice Beach boardwalk; before he was California's governor from 2003 to 2011 he helped make the place famous, with his outdoor workouts",
+     "a": "Schwarzenegger",
+     "right": [
+      "Ashley"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 26,
+     "q": "FOMO is fear of doing this; its corollary is JOMO, joy of it",
+     "a": "missing out",
+     "right": [
+      "Ashley"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 13,
+     "q": "Check out the 1903 Wright Flyer & an Apollo lunar module at this Smithsonian spot",
+     "a": "the Air and Space Museum",
+     "right": [
+      "Anand"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 6,
+     "q": "\"Bridget Jones's Diary\",\n\"Lara Croft: Tomb Raider\",\n\"Driving Miss Daisy\"",
+     "a": "Driving Miss Daisy",
+     "right": [
+      "Erica"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 7,
+     "q": "Auntie Em! This July birthstone matches my new slippers!",
+     "a": "ruby",
+     "right": [
+      "Ashley"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 15,
+     "q": "When John Stuart Mill was publishing \"On Liberty\", John Brown lost his liberty after raiding this arsenal",
+     "a": "Harpers Ferry",
+     "right": [
+      "Erica"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 22,
+     "q": "After years with no NFL team, we got our second as this team announced its move north in 2017",
+     "a": "the Chargers",
+     "right": [
+      "Ashley"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "Merriam-Webster's newer terms for subtly expressing scorn include \"side-eye\" & \"throw\" this",
+     "a": "shade",
+     "right": [
+      "Erica"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 9,
+     "q": "Geek out over the Polaroid historical collection & slide rule collection at this Mass. school's museum",
+     "a": "MIT",
+     "right": [],
+     "wrong": [
+      "Anand"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "\"L.A. Confidential\", \n\"Escape from New York\",\n\"Beverly Hills Cop\"",
+     "a": "L.A. Confidential",
+     "right": [
+      "Anand"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 8,
+     "q": "For April, these gems are forever, hold one up & then caress it, touch it, stroke it & undress it",
+     "a": "diamonds",
+     "right": [
+      "Anand"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 18,
+     "q": "Insane George III was replaced by a regent in 1811, the year Jane Austen published this novel about the Dashwood sisters",
+     "a": "Sense and Sensibility",
+     "right": [
+      "Erica"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 23,
+     "q": "This famed amphitheater has been dishing out performances since 1922",
+     "a": "the Hollywood Bowl",
+     "right": [
+      "Anand"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 28,
+     "q": "This 3-letter word means \"amazing\"; in a Rae Sremmurd song title, it precedes \"Like Bic\"",
+     "a": "\"Lit Like Bic\"",
+     "right": [],
+     "wrong": [
+      "Anand"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 10,
+     "q": "In 2001 the Taliban purged this country's National Museum of pre-Islamic statues",
+     "a": "Afghanistan",
+     "right": [
+      "Anand"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 3,
+     "q": "\"Bridesmaids,\",\n\"Father of the Bride\",\n\"My Big Fat Greek Wedding\"",
+     "a": "Bridesmaids",
+     "right": [
+      "Anand"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 16,
+     "q": "October gives you a choice of tourmaline or this \"O\" gem",
+     "a": "opal",
+     "right": [
+      "Erica"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 19,
+     "q": "In 1787 Alexander Hamilton was occupied with the Constitutional convention; he was busy composing \"Don Giovanni\"",
+     "a": "Mozart",
+     "right": [
+      "Anand"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 24,
+     "q": "11-letter term for a place 2 highways meet; the one at the 110 & 105 was the location for the \"La La Land\" opening number",
+     "a": "interchange",
+     "right": [
+      "Erica"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": true,
+     "order": 30,
+     "q": "This action signals a definitive end; it followed \"Obama out\" at the 2016 White House Correspondents Dinner",
+     "a": "mic drop",
+     "right": [
+      "Erica"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1000
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 11,
+     "q": "The St. Petersburg, Florida museum devoted to this Spanish artist features one of his lobster telephones",
+     "a": "(Salvador) Dali",
+     "right": [
+      "Erica"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 4,
+     "q": "\"The Fly\", \n\"Kung Fu Panda\",\n\"Snakes on a Plane\"",
+     "a": "Snakes on a Plane",
+     "right": [
+      "Erica"
+     ],
+     "wrong": [
+      "Ashley"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 17,
+     "q": "Latin granatum, \"pomegranate\", gave us the name of this January gem; it looks like a red pomegranate seed",
+     "a": "garnet",
+     "right": [
+      "Erica"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 20,
+     "q": "In the late 1400s Platina produced the first printed cookbook; in Spain this Grand Inquisitor cooked up punishments",
+     "a": "Torquemada",
+     "right": [
+      "Anand"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 25,
+     "q": "(Los Angeles mayor Eric Garcetti presents the clue.) In downtown LA & named for philanthropists Edythe & Eli this $140 million art museum uses a \"veil-&-vault\" concept; the fiber-reinforced concrete facade is the veil, with the vault within",
+     "a": "the Broad Museum",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 29,
+     "q": "The portmanteau word stan, like the obsessed guy in the Eminem song, is derived from these 2 other words",
+     "a": "stalker and fan",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 12,
+     "q": "The National Civil Rights Museum is located in this former Memphis motel",
+     "a": "the Lorraine Motel",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 5,
+     "q": "\"The Godfather\",\n\"The Bodyguard\",\n\"The Terminator\"",
+     "a": "The Bodyguard",
+     "right": [
+      "Erica"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "AMERICAN AUTHORS",
+    "BOTANY",
+    "COLLEGES & UNIVERSITIES",
+    "1970s ALBUMS",
+    "\"T\"4",
+    "THE TILLERSON"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 11,
+     "q": "He set \"For Whom the Bell Tolls\" during the Spanish Civil War, which he had covered as a war correspondent",
+     "a": "Hemingway",
+     "right": [
+      "Ashley"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 16,
+     "q": "(Kelly of the Clue Crew shows images of plants on the monitor.) Virginia creeper's leaves are often mistaken for a more toxic plant; one way to tell the difference is that Virginia creeper usually has 5 leaves, while this harmful shrub always has 3",
+     "a": "poison ivy",
+     "right": [
+      "Anand"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 6,
+     "q": "This university has 150,000-plus students at its 4-year campuses, which include Eau Claire & Oshkosh",
+     "a": "the University of Wisconsin",
+     "right": [
+      "Anand"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 17,
+     "q": "\"Don't Stop 'Til You Get Enough\" of his 1979 \"Off the Wall\" album",
+     "a": "Michael Jackson",
+     "right": [
+      "Anand"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "This brass instrument takes so long to produce sound that its players have to anticipate the conductor",
+     "a": "the tuba",
+     "right": [
+      "Ashley"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 26,
+     "q": "Rex Tillerson became Secretary of State after 40 years at this company, rising to CEO",
+     "a": "ExxonMobil",
+     "right": [
+      "Anand"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 12,
+     "q": "This Jack of many trades sought fortune in the 1897 Klondike gold rush & used the experience in his books",
+     "a": "Jack London",
+     "right": [
+      "Anand"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 22,
+     "q": "Collectively, these on a flower make up the corolla",
+     "a": "the petals",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 7,
+     "q": "This California University is home to the Hoover Institution on War, Revolution & Peace",
+     "a": "Stanford",
+     "right": [
+      "Anand"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 18,
+     "q": "Featuring \"The Long And Winding Road\", it was the Beatles' last studio album to be released",
+     "a": "Let It Be",
+     "right": [
+      "Anand"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 2,
+     "q": "Use your head-- it's French for head",
+     "a": "tête",
+     "right": [
+      "Ashley"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 27,
+     "q": "Tillerson said the first serious situation the new administration confronted was over this Asian country's nukes",
+     "a": "North Korea",
+     "right": [
+      "Anand"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 13,
+     "q": "A stamp collector herself, this \"Atlas Shrugged\" author appeared on a 1999 stamp",
+     "a": "(Ayn) Rand",
+     "right": [
+      "Erica"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": true,
+     "order": 23,
+     "q": "Perfect for a drought-tolerant garden, the plants seen here are this type that store water in their fleshy leaves",
+     "a": "succulents",
+     "right": [
+      "Erica"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true,
+     "ddWager": 2500
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 8,
+     "q": "To stand out from other schools with George's name, Washington University added \"in\" this Midwest city to its name",
+     "a": "St. Louis",
+     "right": [
+      "Erica"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 19,
+     "q": "It was on his \"Tea for the Tillerman\" album that he first sang, \"Oh, Baby, Baby, It's a Wild World\"",
+     "a": "Cat Stevens",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 3,
+     "q": "This tropical tuber is also called the dasheen",
+     "a": "taro",
+     "right": [
+      "Ashley"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 28,
+     "q": "Earning applause on his first visit to its HQ, Rex said, \"The president supports\" this alliance",
+     "a": "NATO",
+     "right": [
+      "Anand"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 14,
+     "q": "A permanent expatriate, this \"Black Boy\" author died in France in 1960",
+     "a": "Richard Wright",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 24,
+     "q": "This plant whose name comes from Italian for \"beautiful lady\" is a source of the drug atropine",
+     "a": "belladonna",
+     "right": [
+      "Erica"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 9,
+     "q": "What was the Norfolk division of the College of William & Mary took this \"venerable\" name",
+     "a": "Old Dominion",
+     "right": [
+      "Anand"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 20,
+     "q": "Their \"Eat a Peach\" was dedicated to guitarist Duane, who died in a motorcycle accident months before the release",
+     "a": "the Allman Brothers Band",
+     "right": [
+      "Anand"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 4,
+     "q": "It's the yellow fishy seen here",
+     "a": "tang",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 29,
+     "q": "\"I am a native Texan\" Rex remarked on his not-perfectly-harmonious first official visit to this country",
+     "a": "Mexico",
+     "right": [],
+     "wrong": [
+      "Anand"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 15,
+     "q": "She dedicated her short story \"Where Are You Going, Where Have You Been?\" to Bob Dylan",
+     "a": "Joyce Carol Oates",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 25,
+     "q": "(Sarah of the Clue Crew shows a plant bending toward light on the monitor.) Especially at the beginning at the of the life cycle, the bending of a plant towards a light source is known as this type of response, from the Greek for \"light\" and \"turning\"",
+     "a": "phototropism",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": true,
+     "order": 10,
+     "q": "The Red Stick International Digital Festival is an annual event at this university",
+     "a": "LSU",
+     "right": [],
+     "wrong": [
+      "Anand"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2500
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 21,
+     "q": "Queen followed up \"A Night at the Opera\" with this 1976 album, also the title of a Marx Brothers film",
+     "a": "A Day at the Races",
+     "right": [
+      "Erica"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 5,
+     "q": "It's the masculine name for the type of jug seen here",
+     "a": "a Toby",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 30,
+     "q": "In 2017 Rex lunched with the ministers of ASEAN, the assoc. of this region's nations, as it marked its 50th anniversary",
+     "a": "Southeast Asia",
+     "right": [
+      "Anand"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "THE WESTERN HEMISPHERE",
+  "q": "The Mopan River flows about 20 miles from the capital of this country",
+  "a": "Belize",
+  "right": [],
+  "wrong": [
+   "Ashley",
+   "Anand",
+   "Erica"
+  ]
+ },
+ "gameId": "5813",
+ "cat_notes": {
+  "J": [
+   "The category “YOU GOT SOME REAL BIRTHSTONES, MAN” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "Clues about Contemporaries.",
+   "Clues about LA LA Land.",
+   "Clues about Modern Lingo.",
+   "Clues about Museums.",
+   "We'll give you three movies. You tell us which of the three never had a sequel."
+  ],
+  "DJ": [
+   "Clues about American Authors.",
+   "Clues about Botany.",
+   "Clues about Colleges and Universities.",
+   "Clues about 1970s Albums.",
+   "Each answer contains the letter “T”.",
+   "Clues about The Tillerson."
+  ],
+  "F": "Clues about The Western Hemisphere."
+ }
+}
