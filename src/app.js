@@ -14,7 +14,7 @@ const epParam=Q.get('ep');
 let SHOW=CATALOG.find(e=>e.gameId===epParam)||CATALOG[+epParam]||CATALOG[0];
 let pick=Math.max(0,CATALOG.findIndex(e=>e.gameId===SHOW.gameId));
 const G={score:0,rawScore:0,coryat:0,trueScore:0,stole:new Set(),state:'intro',round:'J',used:new Set(),curCol:-1,stay:0,timers:[],stateAt:0,
- roundScores:{},clue:null,lockedUntil:0,openAt:0,sound:true,history:[],skipped:null,paused:false,pauseAt:0,voiceMute:(()=>{try{return localStorage.getItem('jr-voice-mute')==='1'}catch(e){return false}})()};
+ roundScores:{},clue:null,lockedUntil:0,openAt:0,sound:true,history:[],skipped:null,paused:false,pauseAt:0,voiceEndedAt:0,voiceMute:(()=>{try{return localStorage.getItem('jr-voice-mute')==='1'}catch(e){return false}})()};
 function migratePlayed(rec){
   if(!rec||typeof rec!=='object')return rec;
   if(Array.isArray(rec.plays)&&rec.plays.length)return summarizePlayed(rec);
@@ -332,6 +332,34 @@ const SPEED={
   }
 };
 
+/* Correct buzz awards. SPEED.award itself still follows the survival
+ * curve (including a true $0 after cutoff). A correct buzz, though,
+ * should never pay $0: late-but-in-window answers floor at $100, and
+ * invalid timing (null, NaN, negative, or a missing buzzer-open
+ * timestamp) is treated as a grace-window buzz and pays face value.
+ * True Score still uses the field-time race: slower than the median
+ * first-buzz is $0 there, which is a recap comparison, not the HUD.
+ */
+function buzzAward(face,t,tau){
+  face=+face||0;
+  if(t==null||!isFinite(+t)||+t<0)return face;
+  const a=SPEED.award(face,+t,tau);
+  return a>0?a:SPEED.step;
+}
+function reactionMs(){
+  const now=performance.now();
+  const open=G.openAt;
+  if(!open||!isFinite(open)||open<=0)return null;
+  let start=open;
+  // Buzzers may open at host-pace while TTS is still going. A player
+  // who waits for the voice, or buzzes during it, is on time.
+  if(Voice.active) start=now;
+  else if(G.voiceEndedAt&&isFinite(G.voiceEndedAt)&&G.voiceEndedAt>open) start=G.voiceEndedAt;
+  const ms=now-start;
+  if(!isFinite(ms)||ms<0)return null;
+  return Math.round(ms);
+}
+
 /* ---------- visual-only ELO (does not scale buzz speed) ---------- */
 /* Formula (documented as 'ELO' here, on the end screen title/aria, and
  * in config comments; the number next to a name has no visible label).
@@ -450,9 +478,10 @@ function trueAward(c,ok,mode,t){
   const face=c.v||0;
   if(mode==='dd'||mode==='final') return ok? (G.wager||0) : -(G.wager||0);
   if(!ok) return (mode==='buzz')?-face:0;
+  if(mode==='buzz'&&(t==null||!isFinite(t)||t<0)) t=0;
   const tau=SPEED.tau(c);
-  if(!isRaceClue(c)) return SPEED.award(face,t,tau);
-  return (t<SPEED.fieldTime(tau))?SPEED.award(face,t,tau):0;
+  if(!isRaceClue(c)) return buzzAward(face,t,tau);
+  return (t<SPEED.fieldTime(tau))?buzzAward(face,t,tau):0;
 }
 function contestantCoryat(short){
   let n=0;
@@ -516,7 +545,7 @@ const sfx={
  * skip, and the mute button still cancel, as a leave of the clue.
  */
 const Voice={
-  tok:0, text:null, onDone:null, active:false, voice:null,
+  tok:0, sid:0, text:null, onDone:null, active:false, voice:null, ready:false,
   read:{
     hostWps:2.7,
     early:0.12,
@@ -524,6 +553,14 @@ const Voice={
     minRate:0.85,
     maxRate:1.5
   },
+  // Preferred English names (iOS Premium / Enhanced and common system).
+  // We can only use a voice that speechSynthesis.getVoices() actually
+  // returns — a name like Jamie cannot be selected if it is missing
+  // from that list. iOS often hides downloaded Premium/Enhanced voices
+  // from web pages (Safari, Chrome, and home-screen PWAs all go through
+  // WebKit). The picker lists every voice the browser exposes so you
+  // can see whether yours is there.
+  preferred:/premium|enhanced|\b(Jamie|Ava|Zoe|Evan|Nathan|Noelle|Samantha)\b/i,
   wordCount(text){
     return String(text||'').trim().split(/\s+/).filter(Boolean).length;
   },
@@ -538,36 +575,113 @@ const Voice={
     return Math.max(this.read.minRate, Math.min(this.read.maxRate, r));
   },
   enabled(){return !AUTO&&!FAST&&!G.voiceMute&&!!window.speechSynthesis},
-  pick(){
-    if(!window.speechSynthesis)return null;
-    const vs=speechSynthesis.getVoices()||[];
+  voices(){return (window.speechSynthesis&&speechSynthesis.getVoices())||[]},
+  quality(v,vs){
+    const n=(v&&(v.name||'')+' '+(v.voiceURI||''))||'';
+    let q='';
+    if(/premium/i.test(n))q='Premium';
+    else if(/enhanced/i.test(n))q='Enhanced';
+    else if(/compact/i.test(n))q='Compact';
+    else if(/siri/i.test(n))q='Siri';
+    const allDef=vs&&vs.length&&vs.every(x=>x.default);
+    if(!q&&v&&v.default&&!allDef)q='Default';
+    const lang=(v&&v.lang)||'';
+    const nonEn=lang&&!/^en([-_]|$)/i.test(lang);
+    if(q&&nonEn)return q+' · '+lang;
+    if(q)return q;
+    return lang;
+  },
+  score(v){
+    const n=(v.name||'')+' '+(v.voiceURI||'');
+    let s=0;
+    if(/premium/i.test(n))s+=300;
+    else if(/enhanced/i.test(n))s+=200;
+    if(this.preferred.test(n))s+=120;
+    if(/en-US/i.test(v.lang||''))s+=50;
+    else if(/^en([-_]|$)/i.test(v.lang||''))s+=20;
+    else if(/english/i.test(n))s+=10;
+    if(/google us english/i.test(n))s+=40;
+    return s;
+  },
+  pref(){
+    try{
+      const raw=localStorage.getItem('jr-voice');
+      if(!raw)return null;
+      if(raw.charAt(0)==='{'){const o=JSON.parse(raw);if(o&&(o.uri||o.name))return o;return null}
+      return {uri:raw,name:raw};
+    }catch(e){return null}
+  },
+  savePref(v){
+    try{
+      if(!v) localStorage.removeItem('jr-voice');
+      else localStorage.setItem('jr-voice',JSON.stringify({uri:v.voiceURI||'',name:v.name||''}));
+    }catch(e){}
+  },
+  match(vs,pref){
+    if(!pref||!vs||!vs.length)return null;
+    return vs.find(v=>pref.uri&&v.voiceURI===pref.uri)||vs.find(v=>pref.name&&v.name===pref.name)||null;
+  },
+  auto(vs){
     const en=vs.filter(v=>/^en([-_]|$)/i.test(v.lang||'')||/english/i.test(v.name||''));
     const pool=en.length?en:vs;
-    const score=v=>{
-      const n=(v.name||'')+' '+(v.voiceURI||'');
-      if(/premium/i.test(n))return 300;
-      if(/enhanced/i.test(n))return 200;
-      if(/\b(Ava|Zoe|Samantha|Google US English)\b/i.test(n))return 100;
-      if(/en-US/i.test(v.lang))return 50;
-      if(/^en/i.test(v.lang))return 20;
-      return 0;
-    };
     let best=null,bestS=-1;
-    for(const v of pool){const sc=score(v);if(sc>bestS){best=v;bestS=sc}}
-    this.voice=best||pool[0]||null;return this.voice;
+    for(const v of pool){const sc=this.score(v);if(sc>bestS){best=v;bestS=sc}}
+    return best||pool[0]||null;
+  },
+  pick(){
+    if(!window.speechSynthesis){this.voice=null;return null}
+    const vs=this.voices();
+    if(!vs.length)return this.voice;
+    const hit=this.match(vs,this.pref());
+    this.voice=hit||this.auto(vs);
+    return this.voice;
+  },
+  setChoice(v){
+    this.savePref(v||null);
+    this.voice=v||this.auto(this.voices());
+    return this.voice;
+  },
+  whenVoices(cb){
+    const go=()=>{this.ready=true;this.pick();cb&&cb(this.voices())};
+    if(!window.speechSynthesis){this.ready=true;cb&&cb([]);return}
+    if(this.voices().length){go();return}
+    let done=false;
+    const finish=()=>{if(done)return;done=true;try{speechSynthesis.removeEventListener('voiceschanged',onCh)}catch(e){};if(poll)clearInterval(poll);go()};
+    const onCh=()=>finish();
+    try{speechSynthesis.addEventListener('voiceschanged',onCh)}catch(e){}
+    const poll=setInterval(()=>{if(this.voices().length)finish()},50);
+    setTimeout(finish,800);
+  },
+  apply(u){
+    this.pick();
+    if(this.voice){
+      u.voice=this.voice;
+      u.lang=this.voice.lang||'en-US';
+    }else u.lang='en-US';
   },
   unlock(){
     if(!window.speechSynthesis)return;
     try{
       this.pick();
       const u=new SpeechSynthesisUtterance(' ');
-      u.volume=0;u.rate=10;if(this.voice)u.voice=this.voice;
+      u.volume=0;u.rate=10;this.apply(u);
       speechSynthesis.speak(u);speechSynthesis.cancel();
     }catch(e){}
+    this.whenVoices(()=>{});
   },
   cancel(){
-    this.tok++;this.text=null;this.onDone=null;this.active=false;
+    this.tok++;this.sid++;this.text=null;this.onDone=null;this.active=false;
     try{if(window.speechSynthesis)speechSynthesis.cancel()}catch(e){}
+  },
+  _utter(text,tok){
+    const sid=++this.sid;
+    const u=new SpeechSynthesisUtterance(text);
+    this.apply(u);
+    u.rate=this.rateFor(text);
+    u.onend=()=>{if(tok!==this.tok||sid!==this.sid)return;this.active=false;if(this.text===text)this.text=null;if(!G.voiceEndedAt)G.voiceEndedAt=performance.now()};
+    u.onerror=()=>{if(tok!==this.tok||sid!==this.sid)return;this.active=false};
+    speechSynthesis.speak(u);
+    return u;
   },
   speak(text,onDone){
     const hostMs=this.hostMs(text);
@@ -580,28 +694,28 @@ const Voice={
       arm();
       return;
     }
-    this.pick();
     this.active=true;
-    const rate=this.rateFor(text);
-    try{
-      // Drop a leftover utterance from a previous clue only — never
-      // cancel this clue's speech to open the buzzers.
-      speechSynthesis.cancel();
-      const u=new SpeechSynthesisUtterance(text);
-      if(this.voice){u.voice=this.voice;u.lang=this.voice.lang||'en-US'}else u.lang='en-US';
-      u.rate=rate;
-      u.onend=()=>{if(tok!==this.tok)return;this.active=false;if(this.text===text)this.text=null};
-      u.onerror=()=>{if(tok!==this.tok)return;this.active=false};
-      speechSynthesis.speak(u);
-    }catch(e){this.active=false}
+    // Drop a leftover utterance from a previous clue now, before we
+    // wait for voices — never cancel this clue's speech to open the
+    // buzzers (and never cancel again once this read has started).
+    try{speechSynthesis.cancel()}catch(e){}
     arm();
+    const start=()=>{
+      if(tok!==this.tok)return;
+      try{this._utter(text,tok)}
+      catch(e){if(tok===this.tok)this.active=false}
+    };
+    // Wait for voiceschanged only on the first read, so utterance.voice
+    // can be set before we start. Later reads start immediately.
+    if(this.voices().length||this.ready){this.pick();start()}
+    else this.whenVoices(start);
   },
   pause(){
     if(!this.active||!window.speechSynthesis)return;
     try{if(speechSynthesis.speaking&&!speechSynthesis.paused)speechSynthesis.pause()}catch(e){}
-    const tok=this.tok;
+    const tok=this.tok,sid=this.sid;
     setTimeout(()=>{
-      if(tok!==this.tok||!this.active||!G.paused)return;
+      if(tok!==this.tok||sid!==this.sid||!this.active||!G.paused)return;
       try{
         if(!speechSynthesis.paused&&speechSynthesis.speaking){speechSynthesis.cancel()}
       }catch(e){}
@@ -613,17 +727,13 @@ const Voice={
       if(speechSynthesis.paused){speechSynthesis.resume();return}
     }catch(e){}
     // pause unsupported or cancel happened: restart the clue, keep the
-    // already-running host timer (same tok).
+    // already-running host timer (same tok). sid bumps so a cancelled
+    // utterance's onend cannot mark the read as finished.
     if(this.text&&this.onDone){
       const text=this.text,tok=this.tok;
       try{
         speechSynthesis.cancel();
-        const u=new SpeechSynthesisUtterance(text);
-        if(this.voice){u.voice=this.voice;u.lang=this.voice.lang||'en-US'}else u.lang='en-US';
-        u.rate=this.rateFor(text);
-        u.onend=()=>{if(tok!==this.tok)return;this.active=false;if(this.text===text)this.text=null};
-        u.onerror=()=>{if(tok!==this.tok)return;this.active=false};
-        speechSynthesis.speak(u);
+        this._utter(text,tok);
       }catch(e){}
     }
   },
@@ -634,17 +744,38 @@ const Voice={
       // Stop talking, but do not skip the remaining host-pace wait and
       // do not cut the utterance off the timer — tok stays so arm() still fires.
       this.active=false;this.text=null;
+      this.sid++;
       try{if(window.speechSynthesis)speechSynthesis.cancel()}catch(e){}
     }
   }
 };
 if(window.speechSynthesis){
   Voice.pick();
-  speechSynthesis.addEventListener('voiceschanged',()=>Voice.pick());
+  speechSynthesis.addEventListener('voiceschanged',()=>{Voice.pick();refreshVoicePicker()});
+  Voice.whenVoices(()=>{});
 }
 
+let vhold=0,vheld=false;
+function vmuteTitle(){return (G.voiceMute?'Voice muted':'Voice on')+' · hold to choose voice'}
+function refreshVmute(){
+  const vm=$('#vmute');if(!vm)return;
+  vm.innerHTML=G.voiceMute?ICON.vmute:ICON.voice;
+  vm.classList.toggle('on',G.voiceMute);
+  vm.setAttribute('aria-label',vmuteTitle());
+  vm.title=vmuteTitle();
+}
+hud.addEventListener('pointerdown',e=>{
+  const vm=e.target.closest('#vmute');if(!vm)return;
+  vheld=false;clearTimeout(vhold);
+  vhold=setTimeout(()=>{vheld=true;openVoicePicker(vm)},450);
+});
+hud.addEventListener('pointerup',()=>clearTimeout(vhold));
+hud.addEventListener('pointercancel',()=>clearTimeout(vhold));
 hud.addEventListener('click',e=>{const m=e.target.closest('#mute');if(m){G.sound=!G.sound;m.innerHTML=G.sound?ICON.snd:ICON.mute;m.blur()}
-  const vm=e.target.closest('#vmute');if(vm){Voice.setMute(!G.voiceMute);vm.innerHTML=G.voiceMute?ICON.vmute:ICON.voice;vm.classList.toggle('on',G.voiceMute);vm.setAttribute('aria-label',G.voiceMute?'Unmute voice':'Mute voice');vm.title=G.voiceMute?'Voice muted':'Voice on';vm.blur();return}
+  const vm=e.target.closest('#vmute');if(vm){
+    if(vheld){vheld=false;vm.blur();return}
+    Voice.setMute(!G.voiceMute);refreshVmute();vm.blur();return
+  }
   if(e.target.closest('#pause')){togglePause();const b=e.target.closest('#pause');if(b)b.blur();return}
   if(G.paused)return;
   if(e.target.closest('#ff'))fastForward();if(e.target.closest('#rskip'))skipRound();if(e.target.closest('#home'))askLeave()});
@@ -725,7 +856,8 @@ function setPaused(on,opts){
   }else{
     const dt=performance.now()-(G.pauseAt||performance.now());
     G.paused=false;G.pauseAt=0;
-    if(G.openAt)G.openAt+=dt;
+    if(G.state==='open'&&isFinite(G.openAt)&&G.openAt>0)G.openAt+=dt;
+    if(G.voiceEndedAt&&isFinite(G.voiceEndedAt)&&G.voiceEndedAt>0)G.voiceEndedAt+=dt;
     if(G.lockedUntil)G.lockedUntil+=dt;
     if(G.stateAt)G.stateAt+=dt;
     Voice.resume();
@@ -764,8 +896,102 @@ function renderHud(){
   const real=G.skipped&&SHOW.scores[G.skipped]?`<div class="realstrip" aria-label="Real scores at the jump">${SHOW.contestants.map(c=>`${esc(c.short)} ${money(SHOW.scores[G.skipped][c.short])}`).join(' · ')}</div>`:'';
   const atEnd=G.state==='end';
   const pauseLbl=G.paused?'Resume':'Pause';
-  hud.innerHTML=`${real}<div class="corner l"><button id="ff" class="ic" type="button" aria-label="Skip the wait">${ICON.ff}</button><button id="home" class="ic" type="button" aria-label="Back to episodes">${ICON.home}</button></div><div class="hudmid"><button id="pause" class="ic${G.paused?' on':''}" type="button" aria-label="${pauseLbl}" title="${pauseLbl}">${G.paused?ICON.play:ICON.pause}</button><div class="scorebox ${G.score<0?'neg':'pos'}">${money(G.score)}${(G.used&&G.used.size)||G.trueScore?`<small class="truescore" title="True Score ${money(G.trueScore||0)}">${money(G.trueScore||0)}</small>`:''}</div><button id="vmute" class="ic${G.voiceMute?' on':''}" type="button" aria-label="${G.voiceMute?'Unmute voice':'Mute voice'}" title="${G.voiceMute?'Voice muted':'Voice on'}">${G.voiceMute?ICON.vmute:ICON.voice}</button></div><div class="corner r"><button id="mute" class="ic" type="button" aria-label="Toggle sound">${G.sound?ICON.snd:ICON.mute}</button><button id="rskip" class="ic" type="button" aria-label="${G.round==='J'?'Skip to Double Jeopardy':'Skip to Final Jeopardy'}" ${rs&&!atEnd?'':'hidden'}>${ICON.next}</button></div>`;
+  hud.innerHTML=`${real}<div class="corner l"><button id="ff" class="ic" type="button" aria-label="Skip the wait">${ICON.ff}</button><button id="home" class="ic" type="button" aria-label="Back to episodes">${ICON.home}</button></div><div class="hudmid"><button id="pause" class="ic${G.paused?' on':''}" type="button" aria-label="${pauseLbl}" title="${pauseLbl}">${G.paused?ICON.play:ICON.pause}</button><div class="scorebox ${G.score<0?'neg':'pos'}">${money(G.score)}${(G.used&&G.used.size)||G.trueScore?`<small class="truescore" title="True Score ${money(G.trueScore||0)}">${money(G.trueScore||0)}</small>`:''}</div><button id="vmute" class="ic${G.voiceMute?' on':''}" type="button" aria-label="${vmuteTitle()}" title="${vmuteTitle()}">${G.voiceMute?ICON.vmute:ICON.voice}</button></div><div class="corner r"><button id="mute" class="ic" type="button" aria-label="Toggle sound">${G.sound?ICON.snd:ICON.mute}</button><button id="rskip" class="ic" type="button" aria-label="${G.round==='J'?'Skip to Double Jeopardy':'Skip to Final Jeopardy'}" ${rs&&!atEnd?'':'hidden'}>${ICON.next}</button></div>`;
 }
+function voiceMenuHtml(){
+  const vs=Voice.voices();
+  const pref=Voice.pref();
+  const cur=Voice.voice;
+  const auto=!pref;
+  const bits=[];
+  if(pref&&vs.length&&!Voice.match(vs,pref)){
+    bits.push(`<div class="vnote">${esc(pref.name||'Saved voice')} isn’t in this browser’s list. iOS often hides Premium voices from web apps. Pick another.</div>`);
+  }
+  bits.push(`<button type="button" class="sitem vitem${auto?' on':''}" data-auto="1" role="option" aria-selected="${auto?'true':'false'}"><span class="vname">Automatic</span><span class="vqual">Best available</span></button>`);
+  if(!vs.length){
+    bits.push('<div class="vnote">No voices loaded yet. If this stays empty, the browser hasn’t exposed any.</div>');
+    return bits.join('');
+  }
+  vs.forEach((v,i)=>{
+    const on=!auto&&cur&&cur.voiceURI===v.voiceURI&&cur.name===v.name;
+    const q=Voice.quality(v,vs);
+    bits.push(`<button type="button" class="sitem vitem${on?' on':''}" data-i="${i}" role="option" aria-selected="${on?'true':'false'}"><span class="vname">${esc(v.name||'Voice')}</span><span class="vqual">${esc(q)}</span></button>`);
+  });
+  return bits.join('');
+}
+function voiceLabel(){
+  Voice.pick();
+  const pref=Voice.pref();
+  const vs=Voice.voices();
+  if(pref){
+    const hit=Voice.match(vs,pref);
+    if(hit) return hit.name||'Voice';
+    return (pref.name||'Voice')+' (unavailable)';
+  }
+  return (Voice.voice&&Voice.voice.name)||(vs.length?'Automatic':'Voice');
+}
+function closeVoicePicker(){
+  const sh=$('#vsheet');if(!sh)return;
+  sh.classList.add('hide');sh.hidden=true;
+  document.querySelectorAll('#vsel').forEach(b=>b.setAttribute('aria-expanded','false'));
+}
+function refreshVoicePicker(){
+  const sh=$('#vsheet');if(!sh||sh.classList.contains('hide')){
+    const lab=$('#vlabel');if(lab)lab.textContent='Voice · '+voiceLabel();
+    return;
+  }
+  const body=sh.querySelector('.vmenu');if(body)body.innerHTML=voiceMenuHtml();
+  bindVoiceItems(sh);
+  const lab=$('#vlabel');if(lab)lab.textContent='Voice · '+voiceLabel();
+}
+function bindVoiceItems(root){
+  root.querySelectorAll('.vitem').forEach(b=>{
+    b.onclick=e=>{
+      e.preventDefault();e.stopPropagation();
+      if(b.dataset.auto){Voice.setChoice(null)}
+      else{
+        const vs=Voice.voices();
+        const v=vs[+b.dataset.i];
+        if(v) Voice.setChoice(v);
+      }
+      closeVoicePicker();
+      const lab=$('#vlabel');if(lab)lab.textContent='Voice · '+voiceLabel();
+    };
+  });
+}
+function voiceSheet(){
+  let el=$('#vsheet');
+  if(!el){
+    el=document.createElement('div');
+    el.id='vsheet';el.className='vsheet hide';el.hidden=true;
+    el.innerHTML='<div class="vcard" role="dialog" aria-label="Choose a voice"><div class="vhead">Choose a voice</div><div class="vmenu smenu" role="listbox"></div><button type="button" class="btn ghost" id="vclose">Close</button></div>';
+    el.addEventListener('click',e=>{if(e.target===el)$('#vclose')&&$('#vclose').click()});
+    appEl.appendChild(el);
+  }
+  return el;
+}
+function openVoicePicker(anchor){
+  Voice.whenVoices(()=>{
+    const el=voiceSheet();
+    const menu=el.querySelector('.vmenu');
+    menu.innerHTML=voiceMenuHtml();
+    bindVoiceItems(el);
+    const closer=el.querySelector('#vclose');
+    if(closer)closer.onclick=()=>closeVoicePicker();
+    el.classList.remove('hide');el.hidden=false;
+    document.querySelectorAll('#vsel').forEach(b=>b.setAttribute('aria-expanded','true'));
+    const first=el.querySelector('.vitem.on')||el.querySelector('.vitem');
+    if(first)try{first.focus()}catch(e){}
+  });
+}
+function bindIntroVoice(){
+  const btn=$('#vsel');if(!btn)return;
+  btn.onclick=e=>{e.preventDefault();e.stopPropagation();
+    const open=!$('#vsheet')||$('#vsheet').classList.contains('hide');
+    if(open)openVoicePicker(btn);else closeVoicePicker();
+  };
+}
+
 function askLeave(){
   if(G.state==='end'){intro();return}
   if($('.leave'))return;
@@ -962,8 +1188,12 @@ function intro(){
       <div class="smenu hide" id="smenu" role="listbox">${menuHtml()}</div>
     </div>
     <div class="eps" id="epgrid">${gridHtml()}</div>
+    <div class="vbar" id="vbar">
+      <button type="button" class="ssel vsel" id="vsel" aria-haspopup="dialog" aria-expanded="false"><span id="vlabel">Voice · ${esc(voiceLabel())}</span><span class="chev" aria-hidden="true">▾</span></button>
+    </div>
     <div class="actions" id="goactions"></div></div>`);
   const menu=$('#smenu'), sel=$('#ssel');
+  bindIntroVoice();
   function renderGo(){
     const mid=readProgress(CATALOG[pick].gameId);
     const box=$('#goactions');
@@ -1089,7 +1319,11 @@ function intro(){
     menu.querySelectorAll('.sitem').forEach(x=>x.classList.toggle('on',+x.dataset.s===season));
     menu.classList.add('hide');sel.setAttribute('aria-expanded','false');
   });
-  if(!intro._close){intro._close=ev=>{const m=document.querySelector('#smenu'),s=document.querySelector('#ssel');if(!m||!s)return;if(!ev.target.closest('.sbar')){m.classList.add('hide');s.setAttribute('aria-expanded','false')}};document.addEventListener('pointerdown',intro._close);}
+  if(!intro._close){intro._close=ev=>{
+      const m=document.querySelector('#smenu'),s=document.querySelector('#ssel');
+      if(m&&s&&!ev.target.closest('.sbar')){m.classList.add('hide');s.setAttribute('aria-expanded','false')}
+      if(!ev.target.closest('#vsheet')&&!ev.target.closest('#vsel')&&!ev.target.closest('#vmute')) closeVoicePicker();
+    };document.addEventListener('pointerdown',intro._close);}
 }
 
 /* ---------- rounds & board ---------- */
@@ -1201,7 +1435,7 @@ function cardHtml(c,opts={}){
 const foot=h=>{$('#foot').innerHTML=h};
 
 function showClue(c){
-  setState('reading');G.lockedUntil=0;
+  setState('reading');G.lockedUntil=0;G.openAt=0;G.voiceEndedAt=0;G.reaction=null;
   S(cardHtml(c));setLights('armed');renderHud();
   footReading();
   Voice.speak(c.q,()=>openBuzzers());
@@ -1233,9 +1467,10 @@ function buzz(){
   }
   if(G.state==='open'){
     if(now<G.lockedUntil)return;
-    const rt=Math.round(now-G.openAt);
+    const rt=reactionMs();
     G.reaction=rt;clearTimers();setState('answer');setLights(null);sfx.buzz();
-    askAnswer(G.clue,{ms:ANSWER_MS,prefix:`You buzzed in <b>${rt} ms</b> after the lights. `,cb:(txt,to)=>finishClue(G.clue,txt,'buzz',to)});
+    const when=rt==null?'':`You buzzed in <b>${rt} ms</b> after the lights. `;
+    askAnswer(G.clue,{ms:ANSWER_MS,prefix:when,cb:(txt,to)=>finishClue(G.clue,txt,'buzz',to)});
   }
 }
 function askAnswer(c,o){
@@ -1362,8 +1597,8 @@ function finishClue(c,txt,mode,timedOut){
   else if(mode==='skip'){verdict='Skipped';cls='meh';}
   else{
     const ok=txt&&judge(txt,c.a);
-    const t=(mode==='buzz'&&G.reaction!=null)?G.reaction/1000:0;
-    const awarded=(ok&&mode==='buzz')?SPEED.award(value,t,SPEED.tau(c)):value;
+    const t=(mode==='buzz')?(G.reaction==null?null:G.reaction/1000):0;
+    const awarded=(ok&&mode==='buzz')?buzzAward(value,t,SPEED.tau(c)):value;
     delta=ok?awarded:-value;
     verdict=ok?'Correct!':(timedOut&&!(txt||'').trim()?'Time’s up!':'Incorrect');cls=ok?'good':'bad';
     G.rawScore=(G.rawScore||0)+(ok?value:-value);
@@ -1394,8 +1629,8 @@ function finishClue(c,txt,mode,timedOut){
   $('#next').onclick=nextAfterResult;
   const ov=$('#override');
   if(ov)ov.onclick=()=>{
-    const t=(G.last.mode==='buzz'&&G.reaction!=null)?G.reaction/1000:0;
-    const awarded=G.last.mode==='buzz'?SPEED.award(value,t,SPEED.tau(c)):value;
+    const t=(G.last.mode==='buzz')?(G.reaction==null?null:G.reaction/1000):0;
+    const awarded=G.last.mode==='buzz'?buzzAward(value,t,SPEED.tau(c)):value;
     G.score+=value+awarded;G.rawScore=(G.rawScore||0)+2*value;
     G.coryat=(G.coryat||0)+2*(c.v||value);
     const td=trueAward(c,true,G.last.mode,t);
@@ -1531,6 +1766,9 @@ function endScreen(){
 document.addEventListener('keydown',e=>{
   const st=G.state,age=performance.now()-G.stateAt;
   const inField=e.target&&e.target.tagName==='INPUT';
+  if($('#vsheet')&&!$('#vsheet').classList.contains('hide')){
+    if(e.key==='Escape'){e.preventDefault();closeVoicePicker();return}
+  }
   if($('#catpop')){
     if(e.key==='Escape'||e.key==='Enter'||e.key==='p'||e.key==='P'||e.code==='Space'||e.key===' '){e.preventDefault();closeCatNote()}
     return;
@@ -1585,6 +1823,6 @@ if(AUTO){
     else if(st==='roundend'&&age>600)$('#cont').click();
   },200);
 }
-window.__G=G;window.__startRound=startRound;window.__loadShow=loadShow;window.__savePlayed=savePlayed;window.__readPlayed=readPlayed;window.__setPaused=setPaused;window.__togglePause=togglePause;window.__clearTimers=clearTimers;window.__openCatNote=openCatNote;window.__closeCatNote=closeCatNote;window.__Voice=Voice;window.__SPEED=SPEED;window.__trueAward=trueAward;window.__contestantCoryat=contestantCoryat;window.__contestantTrue=contestantTrue;window.__ELO=ELO;window.__SHOW=SHOW;window.__endScreen=endScreen;window.__finishClue=finishClue;window.__RNG=RNG;window.__saveProgress=saveProgress;window.__readProgress=readProgress;window.__clearProgress=clearProgress;window.__resetPlay=resetPlay;window.__resumeGame=resumeGame;
+window.__G=G;window.__startRound=startRound;window.__loadShow=loadShow;window.__savePlayed=savePlayed;window.__readPlayed=readPlayed;window.__setPaused=setPaused;window.__togglePause=togglePause;window.__clearTimers=clearTimers;window.__openCatNote=openCatNote;window.__closeCatNote=closeCatNote;window.__Voice=Voice;window.__SPEED=SPEED;window.__trueAward=trueAward;window.__contestantCoryat=contestantCoryat;window.__contestantTrue=contestantTrue;window.__ELO=ELO;window.__SHOW=SHOW;window.__endScreen=endScreen;window.__finishClue=finishClue;window.__RNG=RNG;window.__saveProgress=saveProgress;window.__readProgress=readProgress;window.__clearProgress=clearProgress;window.__resetPlay=resetPlay;window.__resumeGame=resumeGame;window.__buzzAward=buzzAward;window.__reactionMs=reactionMs;window.__openVoicePicker=openVoicePicker;window.__closeVoicePicker=closeVoicePicker;window.__voiceLabel=voiceLabel;
 intro();
 })();

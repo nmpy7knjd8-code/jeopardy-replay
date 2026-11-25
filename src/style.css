@@ -335,6 +335,23 @@ body:not([data-st=board]):not([data-st=picking]):not([data-st=ddsplash]) #ff{vis
 }
 @media (max-height:700px){.panel.intro .logo{font-size:min(11vw,8vh)}}
 
+
+/* voice picker: same pill / sheet language as the season menu */
+.panel.intro .vbar{position:relative;width:min(100vmin,94vw);flex:none;z-index:3}
+.panel.intro .vsel{padding:max(8px,1.1vmin) max(14px,2.2vmin)}
+.panel.intro .vsel #vlabel{flex:1;min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;text-transform:none;letter-spacing:.06em}
+@media (orientation:landscape){.panel.intro .vbar{width:min(150vmin,94vw)}}
+.vsheet{position:fixed;inset:0;z-index:20;display:flex;align-items:flex-end;justify-content:center;background:rgba(0,0,0,.45);padding:max(12px,env(safe-area-inset-bottom)) 3vmin;box-sizing:border-box}
+.vsheet.hide{display:none}
+.vcard{width:min(100vmin,94vw);max-height:min(70vh,520px);display:flex;flex-direction:column;background:#07106a;border:var(--bw) solid var(--ghost-bd);border-radius:16px;padding:10px 8px 12px;box-shadow:0 12px 32px rgba(0,0,0,.5)}
+.vhead{font:500 max(14px,2.4vmin)/1.2 Oswald,sans-serif;letter-spacing:.1em;text-transform:uppercase;color:var(--gold);padding:4px 12px 8px}
+.vcard .vmenu{position:static;left:auto;right:auto;top:auto;max-height:min(50vh,380px);overflow:auto;border:0;border-radius:0;box-shadow:none;padding:0;width:auto;-webkit-overflow-scrolling:touch}
+.vitem{text-transform:none}
+.vitem .vname{min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;text-align:left}
+.vitem .vqual{flex:none;color:var(--gold);letter-spacing:.08em;opacity:.85;font-size:.86em;text-transform:uppercase}
+.vnote{padding:8px 12px 10px;color:rgba(230,233,255,.78);font:500 max(12px,1.9vmin)/1.4 Oswald,sans-serif;letter-spacing:.04em}
+.vcard .btn{align-self:center;margin-top:8px;position:relative;z-index:2}
+
 /* picker tabs: same pill as the season control, gold text when active */
 .ptabs{width:min(100vmin,94vw);display:flex;align-items:stretch;flex:none;z-index:3;box-sizing:border-box;background:var(--ghost-bg);border:var(--bw) solid var(--ghost-bd);border-radius:var(--pill);padding:3px;gap:0}
 .ptab{flex:1;min-width:0;background:transparent;border:0;border-radius:var(--pill);color:rgba(230,233,255,.78);font:500 max(12px,1.9vmin)/1 Oswald,sans-serif;letter-spacing:.08em;text-transform:uppercase;padding:max(8px,1.1vmin) max(6px,0.8vmin);cursor:pointer;display:flex;align-items:center;justify-content:center;gap:.35em;-webkit-tap-highlight-color:transparent}
