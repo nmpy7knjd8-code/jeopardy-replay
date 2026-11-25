@@ -44,7 +44,7 @@ body{font-family:'Oswald','Arial Narrow',sans-serif;font-weight:500;user-select:
 .cell.flash{animation:flash .22s steps(2) 4}
 @keyframes flash{0%{background:#fff;color:#000;text-shadow:none}100%{background:var(--blue)}}
 /* generic panels */
-.panel{flex:1;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;padding:3vmin 5vmin;gap:2.4vmin;min-height:0;overflow:auto}
+.panel{flex:1;display:flex;flex-direction:column;align-items:center;justify-content:safe center;text-align:center;padding:3vmin 5vmin;gap:2.4vmin;min-height:0;overflow:auto}
 .logo{font-family:Anton,Impact,sans-serif;font-size:min(14vw,22vh);letter-spacing:.04em;line-height:1;color:var(--gold);text-shadow:.7vmin .8vmin 0 #000;text-transform:uppercase}
 .sub{font-size:max(13px,3vmin);letter-spacing:.2em;text-transform:uppercase;color:#cfd2ff}
 .h1{font-family:Anton,Impact,sans-serif;font-size:min(9vw,15vh);text-transform:uppercase;color:#fff;text-shadow:.6vmin .7vmin 0 #000;line-height:1.05;letter-spacing:.03em}
@@ -400,7 +400,7 @@ body[data-paused="1"] #stage{filter:brightness(.62)}
 .catpopcard .btn{min-height:40px;font-size:max(15px,2.6vmin)}
 
 .endwrap{width:min(120vmin,94vw);max-width:100%;overflow-x:auto;-webkit-overflow-scrolling:touch}
-.endwrap table.cmp.end{width:100%}
+.endwrap table.cmp.end{width:100%;border-spacing:0 .45vmin}
 @media (max-width:520px){
   table.cmp.end{font-size:max(12px,3.3vw)}
   table.cmp.end td,table.cmp.end th{padding:.9vmin 1.1vmin}
@@ -411,6 +411,23 @@ body[data-paused="1"] #stage{filter:brightness(.62)}
 
 /* ELO: unlabeled colored number next to a contestant name */
 table.cmp td .elo{display:inline-block;margin-left:.45em;font:600 max(12px,2.1vmin)/1 Oswald,sans-serif;letter-spacing:.06em;vertical-align:0.08em;text-shadow:0 0 .4em rgba(0,0,0,.35)}
+
+.scorebox small.truescore{letter-spacing:.08em;color:rgba(210,218,255,.48);font-size:max(8px,1.45vmin);margin-top:.15em}
+table.cmp th.subh{color:rgba(170,176,255,.7);font-size:.92em;letter-spacing:.1em}
+table.cmp td.subc{opacity:.78;font-size:.92em}
+@media (max-width:520px){
+  table.cmp.end th:nth-child(7),table.cmp.end th:nth-child(8){font-size:max(9px,2.3vw)}
+}
+
+table.cmp td small.tsline{margin-top:.12em;letter-spacing:.08em;text-transform:none;opacity:.7;color:inherit;font-size:max(9px,1.6vmin)}
+table.cmp tr.me td small.tsline{opacity:.7;color:#4a3a10}
+
+/* End screen: keep True/Coryat lines and the Play Again button from colliding on short desktops */
+.panel.endpanel{justify-content:flex-start;gap:max(8px,1.2vmin);padding-top:max(10px,1.4vmin);padding-bottom:max(8px,1vmin)}
+.panel.endpanel .endwrap{flex:0 1 auto;min-height:0}
+.panel.endpanel .contestants{flex:none}
+@media (min-height:900px){.panel.endpanel{justify-content:center}}
+@media (max-width:520px) and (min-height:700px){.panel.endpanel{justify-content:center;padding-top:3vmin}}
 
 </style>
 </head>
@@ -439,7 +456,7 @@ const CATALOG=EPISODES;
 const epParam=Q.get('ep');
 let SHOW=CATALOG.find(e=>e.gameId===epParam)||CATALOG[+epParam]||CATALOG[0];
 let pick=Math.max(0,CATALOG.findIndex(e=>e.gameId===SHOW.gameId));
-const G={score:0,rawScore:0,coryat:0,state:'intro',round:'J',used:new Set(),curCol:-1,stay:0,timers:[],stateAt:0,
+const G={score:0,rawScore:0,coryat:0,trueScore:0,stole:new Set(),state:'intro',round:'J',used:new Set(),curCol:-1,stay:0,timers:[],stateAt:0,
  roundScores:{},clue:null,lockedUntil:0,openAt:0,sound:true,history:[],skipped:null,paused:false,pauseAt:0,voiceMute:(()=>{try{return localStorage.getItem('jr-voice-mute')==='1'}catch(e){return false}})()};
 function migratePlayed(rec){
   if(!rec||typeof rec!=='object')return rec;
@@ -553,7 +570,7 @@ function saveProgress(){
   try{
     const st=saveStateName();
     const sv={
-      v:SAVE_VER,id:SHOW.gameId,round:G.round,used:[...G.used],score:G.score,rawScore:G.rawScore||0,coryat:G.coryat||0,
+      v:SAVE_VER,id:SHOW.gameId,round:G.round,used:[...G.used],score:G.score,rawScore:G.rawScore||0,coryat:G.coryat||0,trueScore:G.trueScore||0,stole:[...((G.stole&&G.stole.values)?G.stole:[])],
       roundScores:Object.assign({},G.roundScores),curCol:G.curCol,stay:G.stay,
       skipped:G.skipped||null,rng:RNG.s,state:st,
       clue:G.clue?{c:G.clue.c,r:G.clue.r}:null,
@@ -569,12 +586,12 @@ function lookupClue(sv){
   return SHOW.rounds[sv.round].clues.find(c=>c.c===sv.clue.c&&c.r===sv.clue.r)||null;
 }
 function resetPlay(){
-  G.score=0;G.rawScore=0;G.coryat=0;G.roundScores={};G.clue=null;G.pending=null;G.wager=undefined;G.final=null;G.last=null;
+  G.score=0;G.rawScore=0;G.coryat=0;G.trueScore=0;G.stole=new Set();G.roundScores={};G.clue=null;G.pending=null;G.wager=undefined;G.final=null;G.last=null;
   G.skipped=null;G.history=[];G.used=new Set();G.curCol=-1;G.stay=0;
   RNG.seed(((Math.random()*0xFFFFFFFF)|0)>>>0||1);
 }
 function applyProgress(sv){
-  G.score=sv.score;G.rawScore=sv.rawScore!=null?sv.rawScore:sv.score;G.coryat=sv.coryat||0;G.round=sv.round;G.used=new Set(sv.used);
+  G.score=sv.score;G.rawScore=sv.rawScore!=null?sv.rawScore:sv.score;G.coryat=sv.coryat||0;G.trueScore=sv.trueScore||0;G.stole=new Set(sv.stole||[]);G.round=sv.round;G.used=new Set(sv.used);
   G.curCol=sv.curCol??-1;G.stay=sv.stay||0;
   G.roundScores=Object.assign({},sv.roundScores||{});
   G.skipped=sv.skipped||null;G.wager=sv.wager;G.final=sv.final||null;G.last=null;
@@ -735,6 +752,13 @@ const SPEED={
     if(v<=this.zeroAt||t>=this.cutoff)return 0;
     return this.step*Math.ceil((v-1e-9)/this.step);
   },
+  // Median first-buzz time for a field with this tau: P(T > t) = 0.5
+  // on the same survival curve every contestant is scored against.
+  // Used by True Score; not ELO-adjusted.
+  fieldTime(tau){
+    if(!isFinite(tau))return Infinity;
+    return Math.min(this.cutoff, this.grace+tau*Math.LN2);
+  },
   // Time the award drops TO each lower $100 multiple, and to $0.
   steps(face,tau){
     face=+face||0;
@@ -824,6 +848,63 @@ const ELO={
   }
 };
 ELO.load();
+
+
+/* ---------- True Score (head-to-head, same evidence curve as SPEED) ---------- */
+/* On a regular first-right clue, the user is racing a modeled first-buzz
+ * at the median of the survival curve (grace + tau·ln 2), using the same
+ * row / rebound / stumper / contest-factor tau as speed-adjusted scoring
+ * — never ELO. If the user buzzes correctly before that instant they take
+ * the clue (paid in $100 steps) and the contestant who actually got it
+ * loses that clue's face value on the end-screen recap. If the field
+ * would have been faster, the user gets $0 for the clue even if right.
+ * Being slow never costs the user; only a wrong answer does (full face).
+ * Rebounds and triple stumpers are not races: a correct answer pays the
+ * (possibly rebound-decayed) award, and the original contestant keeps
+ * their result. Daily Doubles stay with their original owner; the user's
+ * own Daily Double and Final Jeopardy apply the wager the usual way.
+ */
+function clueKey(c,round){return (round||G.round)+','+c.c+','+c.r}
+function isRaceClue(c){
+  if(!c||c.dd||c.stumper)return false;
+  if((c.wrong||[]).length)return false;
+  if(!(c.right||[]).length)return false;
+  return isFinite(SPEED.tau(c));
+}
+function trueAward(c,ok,mode,t){
+  const face=c.v||0;
+  if(mode==='dd'||mode==='final') return ok? (G.wager||0) : -(G.wager||0);
+  if(!ok) return (mode==='buzz')?-face:0;
+  const tau=SPEED.tau(c);
+  if(!isRaceClue(c)) return SPEED.award(face,t,tau);
+  return (t<SPEED.fieldTime(tau))?SPEED.award(face,t,tau):0;
+}
+function contestantCoryat(short){
+  let n=0;
+  for(const rnd of ['J','DJ']){
+    const clues=(SHOW.rounds[rnd]&&SHOW.rounds[rnd].clues)||[];
+    for(const c of clues){
+      const v=c.v||0;
+      if((c.right||[]).includes(short))n+=v;
+      else if((c.wrong||[]).includes(short))n-=v;
+    }
+  }
+  return n;
+}
+function contestantTrue(short){
+  let n=(SHOW.scores.Final||{})[short];
+  if(n==null)n=0;
+  const stole=G.stole||new Set();
+  for(const rnd of ['J','DJ']){
+    const clues=(SHOW.rounds[rnd]&&SHOW.rounds[rnd].clues)||[];
+    for(const c of clues){
+      if(!isRaceClue(c))continue;
+      if(!(c.right||[]).includes(short))continue;
+      if(stole.has(rnd+','+c.c+','+c.r)) n-=(c.v||0);
+    }
+  }
+  return n;
+}
 
 function loadShow(id){
 
@@ -1108,7 +1189,7 @@ function renderHud(){
   const real=G.skipped&&SHOW.scores[G.skipped]?`<div class="realstrip" aria-label="Real scores at the jump">${SHOW.contestants.map(c=>`${esc(c.short)} ${money(SHOW.scores[G.skipped][c.short])}`).join(' · ')}</div>`:'';
   const atEnd=G.state==='end';
   const pauseLbl=G.paused?'Resume':'Pause';
-  hud.innerHTML=`${real}<div class="corner l"><button id="ff" class="ic" type="button" aria-label="Skip the wait">${ICON.ff}</button><button id="home" class="ic" type="button" aria-label="Back to episodes">${ICON.home}</button></div><div class="hudmid"><button id="pause" class="ic${G.paused?' on':''}" type="button" aria-label="${pauseLbl}" title="${pauseLbl}">${G.paused?ICON.play:ICON.pause}</button><div class="scorebox ${G.score<0?'neg':'pos'}">${money(G.score)}</div><button id="vmute" class="ic${G.voiceMute?' on':''}" type="button" aria-label="${G.voiceMute?'Unmute voice':'Mute voice'}" title="${G.voiceMute?'Voice muted':'Voice on'}">${G.voiceMute?ICON.vmute:ICON.voice}</button></div><div class="corner r"><button id="mute" class="ic" type="button" aria-label="Toggle sound">${G.sound?ICON.snd:ICON.mute}</button><button id="rskip" class="ic" type="button" aria-label="${G.round==='J'?'Skip to Double Jeopardy':'Skip to Final Jeopardy'}" ${rs&&!atEnd?'':'hidden'}>${ICON.next}</button></div>`;
+  hud.innerHTML=`${real}<div class="corner l"><button id="ff" class="ic" type="button" aria-label="Skip the wait">${ICON.ff}</button><button id="home" class="ic" type="button" aria-label="Back to episodes">${ICON.home}</button></div><div class="hudmid"><button id="pause" class="ic${G.paused?' on':''}" type="button" aria-label="${pauseLbl}" title="${pauseLbl}">${G.paused?ICON.play:ICON.pause}</button><div class="scorebox ${G.score<0?'neg':'pos'}">${money(G.score)}${(G.used&&G.used.size)||G.trueScore?`<small class="truescore" title="True Score ${money(G.trueScore||0)}">${money(G.trueScore||0)}</small>`:''}</div><button id="vmute" class="ic${G.voiceMute?' on':''}" type="button" aria-label="${G.voiceMute?'Unmute voice':'Mute voice'}" title="${G.voiceMute?'Voice muted':'Voice on'}">${G.voiceMute?ICON.vmute:ICON.voice}</button></div><div class="corner r"><button id="mute" class="ic" type="button" aria-label="Toggle sound">${G.sound?ICON.snd:ICON.mute}</button><button id="rskip" class="ic" type="button" aria-label="${G.round==='J'?'Skip to Double Jeopardy':'Skip to Final Jeopardy'}" ${rs&&!atEnd?'':'hidden'}>${ICON.next}</button></div>`;
 }
 function askLeave(){
   if(G.state==='end'){intro();return}
@@ -1682,6 +1763,9 @@ function finishClue(c,txt,mode,timedOut){
     G.lastBuzzT=t;
     const face=c.v||value;
     G.coryat=(G.coryat||0)+(ok?face:-face);
+    const td=trueAward(c,ok,mode,t);
+    G.trueScore=(G.trueScore||0)+td;
+    if(ok&&isRaceClue(c)&&td>0){ (G.stole||(G.stole=new Set())).add(clueKey(c)); }
   }
   G.last={c,delta,value,txt,mode,cls};
   const wasRight=cls==='good';
@@ -1706,6 +1790,12 @@ function finishClue(c,txt,mode,timedOut){
     const awarded=G.last.mode==='buzz'?SPEED.award(value,t,SPEED.tau(c)):value;
     G.score+=value+awarded;G.rawScore=(G.rawScore||0)+2*value;
     G.coryat=(G.coryat||0)+2*(c.v||value);
+    const td=trueAward(c,true,G.last.mode,t);
+    // undo the wrong-answer true penalty (buzz: −face; dd: −wager) then apply the correct award
+    const penalty=trueAward(c,false,G.last.mode,t);
+    G.trueScore=(G.trueScore||0)-penalty+td;
+    if(isRaceClue(c)&&td>0){ (G.stole||(G.stole=new Set())).add(clueKey(c)); }
+    else if(G.stole) G.stole.delete(clueKey(c));
     G.last.cls='good';G.last.delta=awarded;
     ov.remove();renderHud();
     const v=$('.verdict');v.className='verdict good';v.textContent='Overruled — correct!';sfx.good();
@@ -1773,7 +1863,7 @@ function finalClue(){
     setState('answer');
     askAnswer(c,{ms:FINAL_MS,prefix:'',cb:(t,to)=>{
     clearTimers();
-    const ok=t&&judge(t,F.a);const delta=ok?G.wager:-G.wager;G.score+=delta;G.rawScore=(G.rawScore||0)+delta;(ok?sfx.good:sfx.bad)();
+    const ok=t&&judge(t,F.a);const delta=ok?G.wager:-G.wager;G.score+=delta;G.rawScore=(G.rawScore||0)+delta;G.trueScore=(G.trueScore||0)+delta;(ok?sfx.good:sfx.bad)();
     G.final={played:true,delta,txt:t,ok};G.last={mode:'final',cls:ok?'good':'bad',delta,value:G.wager};
     setState('result');renderHud();
     S(`<div class="panel"><div class="sub">${esc(F.cat)} · your wager ${money(G.wager)}</div>
@@ -1786,7 +1876,7 @@ function finalClue(){
      <div class="contestants" style="gap:2vmin">${ok?'':'<button class="btn ghost" id="override">I was right (override)</button>'}<button class="btn" id="next">See the final results ▸</button></div>
      </div>`);
     $('#next').onclick=nextAfterResult;
-    const ov=$('#override');if(ov)ov.onclick=()=>{G.score+=2*G.wager;G.rawScore=(G.rawScore||0)+2*G.wager;G.final.delta=G.wager;G.final.ok=true;G.last.cls='good';ov.remove();renderHud();const v=$('.verdict');v.className='verdict good';v.textContent='Overruled — correct!';sfx.good()};
+    const ov=$('#override');if(ov)ov.onclick=()=>{G.score+=2*G.wager;G.rawScore=(G.rawScore||0)+2*G.wager;G.trueScore=(G.trueScore||0)+2*G.wager;G.final.delta=G.wager;G.final.ok=true;G.last.cls='good';ov.remove();renderHud();const v=$('.verdict');v.className='verdict good';v.textContent='Overruled — correct!';sfx.good()};
     }});
   });
 }
@@ -1801,9 +1891,9 @@ function endScreen(){
   const fin=SHOW.scores.Final;
   const people=SHOW.contestants.map((c,i)=>{
     const id=ELO.idFor(SHOW,i);
-    return {name:c.name,short:c.short,score:fin[c.short],raw:fin[c.short],adj:fin[c.short],real:true,j:SHOW.scores.J[c.short],dj:SHOW.scores.DJ[c.short],elo:ELO.rating(id,SHOW.gameId)};
+    return {name:c.name,short:c.short,score:fin[c.short],raw:fin[c.short],adj:fin[c.short],trueScore:contestantTrue(c.short),coryat:contestantCoryat(c.short),real:true,j:SHOW.scores.J[c.short],dj:SHOW.scores.DJ[c.short],elo:ELO.rating(id,SHOW.gameId)};
   });
-  const me={name:'You',score:G.score,raw:G.rawScore||0,adj:G.score,real:false,j:G.roundScores.J??0,dj:G.roundScores.DJ??0};
+  const me={name:'You',score:G.score,raw:G.rawScore||0,adj:G.score,trueScore:G.trueScore||0,coryat:G.coryat||0,real:false,j:G.roundScores.J??0,dj:G.roundScores.DJ??0};
   const all=[...people,me].sort((a,b)=>b.score-a.score||(a.real?-1:1)); // ties: the real contestant keeps the nod
   const place=all.indexOf(me)+1;
   const winner=all[0];
@@ -1816,17 +1906,17 @@ function endScreen(){
   const lost=people.filter(p=>p.score>=me.score).map(p=>p.name.split(' ')[0]);
   const detail=place===1?`You finished ahead of ${beat.join(', ')}.`:
     (beat.length?`You finished ahead of ${beat.join(' and ')}, but behind ${lost.join(' and ')}.`:`${lost.join(', ')} finished ahead of you.`);
-  S(`<div class="panel" style="gap:1.6vmin"><div class="sub">${esc(SHOW.show)} · ${new Date(SHOW.aired+'T12:00:00').toLocaleDateString('en-US',{month:'short',day:'numeric',year:'numeric'})}</div>
-   <div class="h1" style="font-size:min(8vw,12vh)">${place===1?'You <span class="gold">win!</span>':headline}</div>
+  S(`<div class="panel endpanel"><div class="sub">${esc(SHOW.show)} · ${new Date(SHOW.aired+'T12:00:00').toLocaleDateString('en-US',{month:'short',day:'numeric',year:'numeric'})}</div>
+   <div class="h1" style="font-size:min(7vw,8.5vh)">${place===1?'You <span class="gold">win!</span>':headline}</div>
    <div class="sub" style="letter-spacing:.08em;text-transform:none;font-size:max(13px,2.6vmin)">${detail}</div>
    <div class="endwrap"><table class="cmp end"><tr><th>#</th><th>Contestant</th><th>After J!</th><th>After DJ!</th><th>Raw</th><th>Speed-adj</th></tr>
-   ${all.map((p,i)=>`<tr class="${p.real?'':'me'}"><td>${i+1}</td><td>${esc(p.name)}${p.real?ELO.badge(p.elo):''}${p.real?`<small>${esc(remarks[p.short])}</small>`:'<small>your game</small>'}</td>
+   ${all.map((p,i)=>`<tr class="${p.real?'':'me'}"><td>${i+1}</td><td>${esc(p.name)}${p.real?ELO.badge(p.elo):''}${p.real?`<small>${esc(remarks[p.short])}</small>`:'<small>your game</small>'}<small class="tsline">True ${money(p.trueScore||0)} · Coryat ${money(p.coryat||0)}</small></td>
      <td class="${p.j<0?'neg':''}">${money(p.j)}</td><td class="${p.dj<0?'neg':''}">${money(p.dj)}</td>
      <td class="${(p.raw??p.score)<0?'neg':''}">${money(p.raw??p.score)}</td><td class="${(p.adj??p.score)<0?'neg':''}">${money(p.adj??p.score)}</td></tr>`).join('')}</table></div>
    <div class="contestants"><button class="btn" id="again">Play again</button></div></div>`);
   $('#again').onclick=()=>{location.reload()};
   renderHud();
-  window.__result={place,score:G.score,raw:G.rawScore||0,adj:G.score};
+  window.__result={place,score:G.score,raw:G.rawScore||0,adj:G.score,trueScore:G.trueScore||0,coryat:G.coryat||0};
 }
 
 /* ---------- input ---------- */
@@ -1887,7 +1977,7 @@ if(AUTO){
     else if(st==='roundend'&&age>600)$('#cont').click();
   },200);
 }
-window.__G=G;window.__startRound=startRound;window.__loadShow=loadShow;window.__savePlayed=savePlayed;window.__readPlayed=readPlayed;window.__setPaused=setPaused;window.__togglePause=togglePause;window.__clearTimers=clearTimers;window.__openCatNote=openCatNote;window.__closeCatNote=closeCatNote;window.__Voice=Voice;window.__SPEED=SPEED;window.__ELO=ELO;window.__SHOW=SHOW;window.__endScreen=endScreen;window.__finishClue=finishClue;window.__RNG=RNG;window.__saveProgress=saveProgress;window.__readProgress=readProgress;window.__clearProgress=clearProgress;window.__resetPlay=resetPlay;window.__resumeGame=resumeGame;
+window.__G=G;window.__startRound=startRound;window.__loadShow=loadShow;window.__savePlayed=savePlayed;window.__readPlayed=readPlayed;window.__setPaused=setPaused;window.__togglePause=togglePause;window.__clearTimers=clearTimers;window.__openCatNote=openCatNote;window.__closeCatNote=closeCatNote;window.__Voice=Voice;window.__SPEED=SPEED;window.__trueAward=trueAward;window.__contestantCoryat=contestantCoryat;window.__contestantTrue=contestantTrue;window.__ELO=ELO;window.__SHOW=SHOW;window.__endScreen=endScreen;window.__finishClue=finishClue;window.__RNG=RNG;window.__saveProgress=saveProgress;window.__readProgress=readProgress;window.__clearProgress=clearProgress;window.__resetPlay=resetPlay;window.__resumeGame=resumeGame;
 intro();
 })();
 
