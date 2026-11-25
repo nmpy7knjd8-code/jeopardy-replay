@@ -1,0 +1,994 @@
+{
+ "show": "#7883",
+ "aired": "2018-12-12",
+ "note": "",
+ "contestants": [
+  {
+   "name": "Elana Schor",
+   "bio": "a journalist from Washington, D.C.",
+   "short": "Elana"
+  },
+  {
+   "name": "Andy Greeley",
+   "bio": "an elections administrator from Seattle, Washington",
+   "short": "Andy"
+  },
+  {
+   "name": "Nicole Cocklin",
+   "bio": "a travel agent from Fort Wayne, Indiana (whose 1-day cash winnings total $20,001)",
+   "short": "Nicole"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Nicole": 2400,
+   "Andy": 8200,
+   "Elana": 6200
+  },
+  "DJ": {
+   "Nicole": 7600,
+   "Andy": 23600,
+   "Elana": 15600
+  },
+  "Final": {
+   "Nicole": 7600,
+   "Andy": 15999,
+   "Elana": 23601
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "FAMOUS WOMEN",
+    "21st CENTURY FILMS",
+    "TOOLS ARE CONFUSING",
+    "3 WORDS FOR 3 LETTERS",
+    "READ IT",
+    "A.M.A."
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 6,
+     "q": "The records this sprinter set in the 100 & 200 meters in 1988 still stand today",
+     "a": "Flo-Jo",
+     "right": [],
+     "wrong": [
+      "Elana"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "A waste-collecting robot helps save Earth in this Pixar film",
+     "a": "Wall-E",
+     "right": [
+      "Nicole"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 27,
+     "q": "A hammer has a specific striking zone while this tool delivers more even pounding (& works great in croquet)",
+     "a": "a mallet",
+     "right": [
+      "Nicole"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 22,
+     "q": "Veiled religious sister",
+     "a": "nun",
+     "right": [
+      "Nicole"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 11,
+     "q": "This novel in which the Pequod sinks in the last chapter--read it",
+     "a": "Moby Dick",
+     "right": [
+      "Andy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 30,
+     "q": "Journals from the A.M.A. are devoted to fields like psychiatry & this other \"P\" field that deals with kids",
+     "a": "pediatrics",
+     "right": [
+      "Nicole"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 14,
+     "q": "The first Latina on the Supreme Court, she says watching \"Perry Mason\" as a kid inspired her to become a lawyer",
+     "a": "Sonia Sotomayor",
+     "right": [
+      "Elana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "Agent Smith is even more powerful in this 2003 first sequel to \"The Matrix\"",
+     "a": "The Matrix Reloaded",
+     "right": [
+      "Elana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 26,
+     "q": "Used in drafting to measure distances, a divider has 2 sharp points; this similar item has one sharp point & a pencil",
+     "a": "a compass",
+     "right": [
+      "Nicole"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 19,
+     "q": "Needle threading point",
+     "a": "the eye",
+     "right": [
+      "Elana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 10,
+     "q": "The Yorkshire dialect makes this Bronte classic a tough read; I prefer the film with Olivier as Heathcliff",
+     "a": "Wuthering Heights",
+     "right": [
+      "Nicole"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 29,
+     "q": "The A.M.A. strives to lower this for over 100 million Americans in the program called Target: BP",
+     "a": "blood pressure",
+     "right": [
+      "Andy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 15,
+     "q": "This Ms. & feminist icon co-founded Ms. magazine in 1971",
+     "a": "(Gloria) Steinem",
+     "right": [
+      "Andy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 3,
+     "q": "Director Rian Johnson said Laura Dern could not resist saying \"Pew!\" every time she fired her blaster in this film",
+     "a": "The Last Jedi",
+     "right": [
+      "Elana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 25,
+     "q": "A rasp is a coarser type of this other 4-letter tool",
+     "a": "a file",
+     "right": [
+      "Andy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 16,
+     "q": "Tiny, in Edinburgh",
+     "a": "wee",
+     "right": [
+      "Elana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 9,
+     "q": "Woodward & Bernstein changed America with this book, nonfiction that read like a spy thriller",
+     "a": "All the President's Men",
+     "right": [
+      "Elana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 12,
+     "q": "The task force devoted to this epidemic advocates prescribing naloxone to those at risk of overdose",
+     "a": "the opioid epidemic",
+     "right": [
+      "Andy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 17,
+     "q": "On her second mission in space, she went up with childhood friend & fellow astronaut Kathryn Sullivan",
+     "a": "Sally Ride",
+     "right": [
+      "Elana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 4,
+     "q": "An action-packed 2017 for Karen Gillan, planet hopping as Nebula in \"Guardians 2\" & jungle jumping as Martha in this film",
+     "a": "Jumanji",
+     "right": [
+      "Elana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 24,
+     "q": "Generally a screw is driven into a surface while this other threaded item is affixed with a matching nut",
+     "a": "bolt",
+     "right": [
+      "Andy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 20,
+     "q": "To spread seed",
+     "a": "sow",
+     "right": [
+      "Elana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": true,
+     "order": 7,
+     "q": "This first mystery novel with Philip Marlowe--too convoluted & kind of a snooze (pun intended)",
+     "a": "The Big Sleep",
+     "right": [
+      "Andy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1000
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 13,
+     "q": "The first code of these the A.M.A. adopted in 1847 was influenced by doctor & philosopher Thomas Percival",
+     "a": "ethics",
+     "right": [
+      "Nicole"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 18,
+     "q": "After her death, it was revealed that she'd had leukemia for 12 years, including her time as Israel's prime minister",
+     "a": "Golda Meir",
+     "right": [
+      "Andy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 5,
+     "q": "Emile Hirsch lost 40 pounds from his 155-pound frame to get back to nature as Chris McCandless in this 2007 film",
+     "a": "Into the Wild",
+     "right": [
+      "Andy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 23,
+     "q": "This small kind of gardening spade is shaped more like a scoop",
+     "a": "a trowel",
+     "right": [
+      "Andy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 21,
+     "q": "One gear tooth",
+     "a": "a cog",
+     "right": [
+      "Andy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 8,
+     "q": "Jhumpa Lahiri's writing is exquisite in her short story collection called \"Interpreter of\" these",
+     "a": "maladies",
+     "right": [
+      "Elana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 28,
+     "q": "In 2018 the AMA told doctors to prepare for these cards redesigned to stop identity theft, going out to 60 million people",
+     "a": "Medicare cards",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "SEVEN DEADLY SYNONYMS",
+    "WORLD CAPITALS",
+    "THE ARTS",
+    "THINGS ARE GETTING BETTER",
+    "A POP \"UP\" CATEGORY",
+    "HODGEPODGE"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "Type of error that causes a program to abort, or of attraction that caused Michael Douglas to notice Glenn Close",
+     "a": "fatal",
+     "right": [
+      "Elana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 29,
+     "q": "If you really, really want to visit North Korea, you'll probably fly into this city's Sunan Intl. Airport",
+     "a": "Pyongyang",
+     "right": [
+      "Elana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 30,
+     "q": "The name of this leading ballet company means \"great ballet\" in Russian",
+     "a": "Bolshoi",
+     "right": [
+      "Nicole"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 28,
+     "q": "Medical miracles march on: guinea worm, which in 1985 had 3 million cases on this continent, is on the verge of eradication",
+     "a": "Africa",
+     "right": [
+      "Nicole"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 25,
+     "q": "A song by the late Avicii says, \"So\" do this \"when it's all over, whem I'm wiser and I'm older\"",
+     "a": "wake me up",
+     "right": [
+      "Elana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 26,
+     "q": "This automaker automakes the Focus ST",
+     "a": "Ford",
+     "right": [
+      "Elana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 2,
+     "q": "Often found before \"maniac\", this word refers to a murderer",
+     "a": "homicidal",
+     "right": [
+      "Nicole"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 14,
+     "q": "In 1749 the French laid out this Caribbean capital in a grid pattern & called it L'Hopital",
+     "a": "Port-au-Prince",
+     "right": [
+      "Elana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": true,
+     "order": 27,
+     "q": "Here is Eugene Delacroix's depiction of the death of this Shakespeare character",
+     "a": "Ophelia",
+     "right": [
+      "Elana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true,
+     "ddWager": 7000
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 10,
+     "q": "A bestseller by Steven Pinker about the joys of progress is called this 18th century era of reason \"Now\"",
+     "a": "Enlightenment",
+     "right": [
+      "Andy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 24,
+     "q": "Joe Cocker & Jennifer Warnes took this love theme from \"An Officer and a Gentleman\" to No. 1",
+     "a": "\"Up Where We Belong\"",
+     "right": [
+      "Elana"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 23,
+     "q": "It's the largest U.S. state in area that borders the Pacific Ocean",
+     "a": "Alaska",
+     "right": [
+      "Nicole"
+     ],
+     "wrong": [
+      "Elana"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 3,
+     "q": "A substance that tends to cause cancer is deemed this 12-letter word",
+     "a": "carcinogenic",
+     "right": [
+      "Andy"
+     ],
+     "wrong": [
+      "Nicole"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": true,
+     "order": 5,
+     "q": "It's continental Europe's westernmost national capital",
+     "a": "Lisbon",
+     "right": [
+      "Andy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 4600
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 7,
+     "q": "Erato, the muse of love poetry, is depicted holding this harp-like instrument",
+     "a": "a lyre",
+     "right": [
+      "Nicole"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 11,
+     "q": "As Dr. King put it, \"The arc of the moral universe is long, but it bends toward\" this quality",
+     "a": "justice",
+     "right": [
+      "Andy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 22,
+     "q": "Andra Day said this inspirational song started as \"sort of a prayer\" after a friend was diagnosed with cancer",
+     "a": "\"Rise Up\"",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 21,
+     "q": "It's the number of strings on a standard guitar",
+     "a": "six",
+     "right": [
+      "Nicole"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 16,
+     "q": "This type of wound that kills you comes from the Latin for \"death\"",
+     "a": "mortal",
+     "right": [
+      "Nicole"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 4,
+     "q": "This South American capital is the only city planned & built in the 20th century to be made a World Heritage site",
+     "a": "Brasilia",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 8,
+     "q": "Here's a poster by Czech artist Alphonse Mucha in this style that flourished from about 1880 to 1910",
+     "a": "Art Nouveau",
+     "right": [],
+     "wrong": [
+      "Andy"
+     ],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 12,
+     "q": "The 1964 exhibit \"Progressland\" was sponsored by this giant power-&-more company",
+     "a": "General Electric",
+     "right": [
+      "Andy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 18,
+     "q": "In 2018 Drake rapped about feeling this, \"Hundred thousand on my head, it's disrespect\"",
+     "a": "\"Upset\"",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 20,
+     "q": "It's the heat needed to raise the temperature of a gram of water one degree Celsius",
+     "a": "a calorie",
+     "right": [
+      "Andy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 15,
+     "q": "This adjective from the word \"virus\" can describe a deadly strain of a disease",
+     "a": "virulent",
+     "right": [
+      "Andy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 6,
+     "q": "Thimphu, capital of this Himalayan kingdom, is said to be the only world capital without traffic lights",
+     "a": "Bhutan",
+     "right": [
+      "Andy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 9,
+     "q": "Denzel Washington \"arrived\" on Broadway as Hickey in a 2018 revival of this drama by Eugene O'Neill",
+     "a": "The Iceman Cometh",
+     "right": [
+      "Andy"
+     ],
+     "wrong": [
+      "Nicole"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 13,
+     "q": "In the 1933 utopian work \"Life in\" this kind of -ocracy run by scientists, every citizen gets a yearly energy allotment in ergs",
+     "a": "technocracy",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 17,
+     "q": "\"And if this old world starts getting you down, there's room enough for two\" here",
+     "a": "\"Up On The Roof\"",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 19,
+     "q": "This is a blank page at the beginning or end of a book, not a spot for bugs to gather on a plant",
+     "a": "a flyleaf",
+     "right": [
+      "Nicole"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "SCI-FI TV",
+  "q": "One of the twin planets this alien race called home was Remus",
+  "a": "the Romulans",
+  "right": [
+   "Nicole",
+   "Elana"
+  ],
+  "wrong": [
+   "Andy"
+  ]
+ },
+ "gameId": "6169",
+ "cat_notes": {
+  "J": [
+   "Clues about Famous Women.",
+   "Clues about 21st Century Films.",
+   "Clues about Tools Are Confusing.",
+   "Each clue will be three words. Each correct response will be three letters only.",
+   "Clues about Read It.",
+   "Clues about A.M.A.."
+  ],
+  "DJ": [
+   "Clues about Seven Deadly Synonyms.",
+   "Clues about World Capitals.",
+   "Clues about The Arts.",
+   "Clues about Things Are Getting Better.",
+   "Each answer contains the letter group “UP”, and the clues are about A Pop Category.",
+   "A mixed bag of clues with no single topic."
+  ],
+  "F": "Clues about Sci-fi TV."
+ }
+}

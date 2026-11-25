@@ -1,0 +1,1000 @@
+{
+ "show": "#7965",
+ "aired": "2019-04-05",
+ "note": "James Holzhauer game 2.",
+ "contestants": [
+  {
+   "name": "Marshall Shelburne",
+   "bio": "a computer programmer from Los Angeles, California",
+   "short": "Marshall"
+  },
+  {
+   "name": "Satish Chandrasekhar",
+   "bio": "a medical student from Jupiter, Florida",
+   "short": "Satish"
+  },
+  {
+   "name": "James Holzhauer",
+   "bio": "a professional sports gambler from Las Vegas, Nevada (whose 1-day cash winnings total $43,680)",
+   "short": "James"
+  }
+ ],
+ "scores": {
+  "J": {
+   "James": 5200,
+   "Satish": 6800,
+   "Marshall": 4400
+  },
+  "DJ": {
+   "James": 29114,
+   "Satish": 18800,
+   "Marshall": 4000
+  },
+  "Final": {
+   "James": 38926,
+   "Satish": 12600,
+   "Marshall": 2445
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "BODIES OF WATER",
+    "LEGAL TERMS",
+    "MAKE TIME FOR TIME",
+    "JAMES BOND & FRIENDS",
+    "\"Q\"",
+    "MONET-PUNNY"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 25,
+     "q": "The Gulf of Taranto makes up the arch in this country's \"boot\"",
+     "a": "Italy",
+     "right": [
+      "Satish"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 27,
+     "q": "In early law, this wasn't a crime if it was to your own house; now, burning your place for insurance is a no-no",
+     "a": "arson",
+     "right": [
+      "Satish"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 30,
+     "q": "This short span of time comes before \"messaging\" or \"coffee\"",
+     "a": "instant",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 28,
+     "q": "In the Bond novels, Miss Moneypenny does this job assisting Bond's boss; Loelia Ponsonby does it for Bond",
+     "a": "secretary",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 23,
+     "q": "It's the type of musical work being performed here",
+     "a": "a quintet",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 29,
+     "q": "The color of Monet? In 1905 the artist wrote that there were only 6, including cadmium yellow & cobalt this",
+     "a": "blue",
+     "right": [
+      "Marshall"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 22,
+     "q": "Chesapeake Bay is natural; Druid Lake & all other lakes in this state are man-made",
+     "a": "Maryland",
+     "right": [
+      "Marshall"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 26,
+     "q": "You took property worth more than $100, so that's grand this, which is ironic, 'cause what you stole is worth about a grand",
+     "a": "larceny",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 24,
+     "q": "This date is AKA Bissextile Day",
+     "a": "February 29th",
+     "right": [
+      "Marshall"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 11,
+     "q": "In the 1979 movie \"Moonraker\", a metal-mouthed Bond foe-turned-ally has this name, the title of another '70s movie",
+     "a": "Jaws",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 14,
+     "q": "To shake, or what an archer keeps his arrows in",
+     "a": "a quiver",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 20,
+     "q": "With 100 works, more than any other museum, the Marmottan Museum in this capital is rolling in Monet",
+     "a": "Paris",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 16,
+     "q": "Seen here is a marker at Cape Agulhas at the tip of this continent",
+     "a": "Africa",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 18,
+     "q": "Yeah, there was no intention to kill or do grievous bodily harm, so we'll plead to this \"2\", the negligent or involuntary type",
+     "a": "manslaughter",
+     "right": [
+      "Marshall"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 21,
+     "q": "It's the fixed time designated by authority by which citizens must be inside at night",
+     "a": "curfew",
+     "right": [
+      "Satish"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 5,
+     "q": "Bond bud Bill Tanner is chief of staff at this alphanumeric British foreign intelligence service",
+     "a": "MI6",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 8,
+     "q": "The California valley type of this is California's state bird",
+     "a": "a quail",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 19,
+     "q": "A common sight was walking around Monet who worked outdoors, as in a cliff walk in this Channel-side French region",
+     "a": "Normandy",
+     "right": [],
+     "wrong": [
+      "James",
+      "Marshall"
+     ],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 12,
+     "q": "Old unfaithful! Steamboat Geyser in this national park went 50 years without a major eruption & erupted 29 times in one year",
+     "a": "Yellowstone",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 17,
+     "q": "Using political office to collect unlawful fees is this; \"Futurama\" was right! The \"X\" does make it sound cool",
+     "a": "extortion",
+     "right": [
+      "Marshall"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 13,
+     "q": "It's how you say \"tomorrow\" in Madrid",
+     "a": "mañana",
+     "right": [
+      "Marshall"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 4,
+     "q": "A groundskeeper named Kincade helps Bond fight Javier Bardem at the titular lodge in this 2012 film",
+     "a": "Skyfall",
+     "right": [
+      "Satish"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 7,
+     "q": "Robert Frost ended a poem, \"I had a lover's\" this \"with the world\"",
+     "a": "a quarrel",
+     "right": [
+      "Marshall"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 15,
+     "q": "Dealers often applied this glossy material, also a floor covering, so now conservators do some Monet laundering",
+     "a": "varnish",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 9,
+     "q": "Canada's Spotted Lake is found over the border from Washington in this province",
+     "a": "British Columbia",
+     "right": [
+      "Satish"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": true,
+     "order": 10,
+     "q": "You appeared to be adversaries, but had a secret pact with your pal to make illegal gains; you're guilty of this 9-letter crime",
+     "a": "collusion",
+     "right": [
+      "Satish"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2000
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 6,
+     "q": "Trust Brother Alex--it's the plural word for the time of evensong prayers, or for the prayers themselves",
+     "a": "vespers",
+     "right": [
+      "Marshall"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 3,
+     "q": "Jack Lord & Jeffrey Wright are 2 of the 8 actors who have played this American CIA agent & 007 ally",
+     "a": "Felix Leiter",
+     "right": [
+      "Satish"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 2,
+     "q": "Made from the bark of a tree, it was once the only effective treatment for malaria",
+     "a": "quinine",
+     "right": [
+      "Satish"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 1,
+     "q": "It's not just canvas--there's paper Monet, like a drawing of this city known for its cathedral & for the death of Joan of Arc",
+     "a": "Rouen",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "COLLEGES & UNIVERSITIES",
+    "BOOK TITLE NAMES",
+    "SOME KIND OF WONDERFUL",
+    "WHICH TALL CHIEF?",
+    "18th CENTURY SCIENCE",
+    "ACM AWARDS"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 24,
+     "q": "Phi Beta Kappa, America's oldest Greek-letter society, was founded in 1776 at this Virginia college",
+     "a": "William & Mary",
+     "right": [
+      "Satish"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 30,
+     "q": "High school is complicated for \"Me and\" him \"and the Dying Girl\"",
+     "a": "Earl",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 29,
+     "q": "Often found before \"keen\", this fruity word also describes a bellini cocktail",
+     "a": "peachy",
+     "right": [
+      "Marshall"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 26,
+     "q": "After more than 150 years, he's still the tallest president in U.S. history",
+     "a": "Lincoln",
+     "right": [
+      "Marshall"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 25,
+     "q": "Years before Darwin, Charles Bonnet used this word for the idea that catastrophes lead to higher life forms",
+     "a": "evolution",
+     "right": [
+      "Satish"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 28,
+     "q": "We're on a first name basis with this bubbly redhead who has hosted the awards more times than any other artist\n\n\"Welcome to the ACM Awards, and it's great to be back as your host!\"",
+     "a": "Reba McEntire",
+     "right": [
+      "Satish"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 23,
+     "q": "The main campus for Middlebury College is located in the Champlain Valley of this state",
+     "a": "Vermont",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 22,
+     "q": "The title character of this E.B. White book is born 2 inches long, with a tail & whiskers",
+     "a": "Stuart Little",
+     "right": [
+      "Satish"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 21,
+     "q": "A cut of diamond, or anything wonderful",
+     "a": "brilliant",
+     "right": [
+      "Marshall"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 19,
+     "q": "This \"Great\" Russian czar was more than 6'6\"",
+     "a": "Peter the Great",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 8,
+     "q": "Though he didn't live to see it, he accurately predicted that a comet seen previously would return in 1758",
+     "a": "Halley",
+     "right": [
+      "Marshall"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 27,
+     "q": "At the 2011 awards Steven Tyler duetted with Carrie Underwood on this group's classic \"Walk This Way\"",
+     "a": "Aerosmith",
+     "right": [
+      "Marshall"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 15,
+     "q": "While attending this school, George W. Bush was a member of its Skull & Bones secret society",
+     "a": "Yale",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 10,
+     "q": "A Joseph Conrad novel was partly based on James Lingrad, a petty potentate on Borneo given this noble nickname",
+     "a": "Lord Jim",
+     "right": [
+      "Marshall"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 20,
+     "q": "Wonderful adjective preceding \"Mrs. Maisel\" or \"Marvin Hagler\"",
+     "a": "marvelous",
+     "right": [
+      "Satish"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 18,
+     "q": "The National Park Service says that based on this Hawaiian king's feathered cape, he'd have been about 7 feet tall",
+     "a": "Kamehameha",
+     "right": [
+      "Satish"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": true,
+     "order": 7,
+     "q": "Next time you grab a soda, you can thank Joseph Priestley, who dissolved this gas in water in 1768, making it fizzy",
+     "a": "carbon dioxide",
+     "right": [
+      "Satish"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 4000
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 1,
+     "q": "In 1976 she went from \"Coal Miner's Daughter\" to the first woman to win ACM Entertainer of the Year\n\n\"I sure am proud! I want to thank all of you!\"",
+     "a": "Loretta Lynn",
+     "right": [
+      "Marshall"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 14,
+     "q": "Nicknamed \"Sadie Lou\", this New York college dropped the words \"for Women\" from its name in 1947",
+     "a": "Sarah Lawrence",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 11914
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 9,
+     "q": "Last name of Ramona, the title 8-year-old in a novel by Beverly Cleary",
+     "a": "Quimby",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 12,
+     "q": "Lorenzo de Medici was dubbed \"Lorenzo the\" this word emblazoning his great deeds",
+     "a": "magnificent",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 17,
+     "q": "Milo Đukanović, of this former Yugoslav republic named for its mountainousness, towers over other leaders",
+     "a": "Montenegro",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 6,
+     "q": "British physician David Pitcairn was the first to notice a link between rheumatic fever & serious damage to this organ",
+     "a": "the heart",
+     "right": [
+      "Satish"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 2,
+     "q": "In 2018 she won 3 awards including Song of the Year for \"Tin Man\", for a total of 32, the most of any artist in ACM history",
+     "a": "Miranda Lambert",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 13,
+     "q": "This Jesuit university not far from L.A.'s international airport is known as LMU for short",
+     "a": "Loyola Marymount",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 4,
+     "q": "\"I spit on your happiness!\" is a line from this Jean Anouilh tragedy about a daughter of Oedipus",
+     "a": "Antigone",
+     "right": [
+      "Satish"
+     ],
+     "wrong": [
+      "Marshall"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 11,
+     "q": "From the Latin for \"quake\" comes the word for something outstanding",
+     "a": "tremendous",
+     "right": [],
+     "wrong": [
+      "Satish",
+      "Marshall"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 16,
+     "q": "This 6'5\" French president was nicknamed \"The Big Asparagus\"",
+     "a": "Charles de Gaulle",
+     "right": [],
+     "wrong": [
+      "Marshall"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 5,
+     "q": "In 1787, but not on a midsummer night, William Herschel discovered these 2 largest moons of Uranus",
+     "a": "Oberon and Titania",
+     "right": [
+      "Satish"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 3,
+     "q": "At the 2007 awards Taylor Swift met this superstar for the first time after performing her debut single that's named for him\n\n\"Hi, I'm Taylor.\"",
+     "a": "Tim McGraw",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "EUROPEAN CAPITALS",
+  "q": "Remove 2 letters from within the 6-letter name of this capital & you get the name of a capital from a neighboring country",
+  "a": "Berlin",
+  "right": [
+   "James"
+  ],
+  "wrong": [
+   "Marshall",
+   "Satish"
+  ]
+ },
+ "gameId": "6257",
+ "cat_notes": {
+  "J": [
+   "Clues about Bodies of Water.",
+   "Clues about Legal Terms.",
+   "Clues about Make Time for Time.",
+   "Clues about James Bond and Friends.",
+   "Each answer contains the letter “Q”.",
+   "Clues about Monet-punny."
+  ],
+  "DJ": [
+   "Clues about Colleges and Universities.",
+   "Clues about Book Title Names.",
+   "Clues about Some Kind of Wonderful.",
+   "The category “WHICH TALL CHIEF?” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "Clues about 18th Century Science.",
+   "They air this Sunday, live from Las Vegas: The Academy of Country Music Awards."
+  ],
+  "F": "Clues about European Capitals."
+ }
+}

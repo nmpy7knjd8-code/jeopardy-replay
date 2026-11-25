@@ -1,0 +1,999 @@
+{
+ "show": "#8032",
+ "aired": "2019-07-09",
+ "note": "Ryan Bilger game 4.",
+ "contestants": [
+  {
+   "name": "Kevin Paquette",
+   "bio": "a math teacher from Charlottesville, Virginia",
+   "short": "Kevin"
+  },
+  {
+   "name": "Hannah Safford",
+   "bio": "an engineering Ph.D. student from Davis, California",
+   "short": "Hannah"
+  },
+  {
+   "name": "Ryan Bilger",
+   "bio": "a student from Macungie, Pennsylvania (whose 3-day cash winnings total $96,650)",
+   "short": "Ryan"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Ryan": 1000,
+   "Hannah": -400,
+   "Kevin": 7600
+  },
+  "DJ": {
+   "Ryan": 17600,
+   "Hannah": 8800,
+   "Kevin": 12400
+  },
+  "Final": {
+   "Ryan": 10399,
+   "Hannah": 8800,
+   "Kevin": 7199
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "STATE OF THE COUNTIES",
+    "SECOND BOOK IN THE SERIES",
+    "A LABYRINTHINE CATEGORY",
+    "FAMOUS AMERICAN WOMEN",
+    "SONGS IN ANIMATED MOVIES",
+    "WHO'S IN CHARGE?"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 7,
+     "q": "There's Marlboro country--er, county--along with Greenville & Sumter",
+     "a": "South Carolina",
+     "right": [
+      "Kevin"
+     ],
+     "wrong": [
+      "Ryan"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 21,
+     "q": "In \"The Marvelous Land of Oz\", he's the ruler of the Emerald City & is still full of straw",
+     "a": "the Scarecrow",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 26,
+     "q": "In one modern definition a labyrinth has a fairly clear path to this point & back; it's not a maze that tries to confuse you",
+     "a": "the center",
+     "right": [],
+     "wrong": [
+      "Ryan"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 17,
+     "q": "Secretary of State 2005-2009, she was named to the college football playoff selection committee in 2013",
+     "a": "Condoleezza Rice",
+     "right": [
+      "Kevin"
+     ],
+     "wrong": [
+      "Hannah"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "In this 2005 movie the lemur King Julien sings, \"I like to move it, move it\"",
+     "a": "Madagascar",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 6,
+     "q": "Gynarchy",
+     "a": "a woman",
+     "right": [
+      "Kevin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 8,
+     "q": "Take in the united colors of Bennington, party in Orleans, then go to Rutland",
+     "a": "Vermont",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [
+      "Hannah"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 22,
+     "q": "Stieg Larsson's second novel about Lisbeth Salander was \"The Girl Who Played With\" this",
+     "a": "fire",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "Some scholars believe medieval labyrinths like Chartres Cathedral's were meant to simulate pilgrimage to this city",
+     "a": "Jerusalem",
+     "right": [
+      "Kevin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 16,
+     "q": "In the early 1920s she toured the vaudeville circuit where she told her life story translated by Anne Sullivan",
+     "a": "Helen Keller",
+     "right": [
+      "Hannah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "The only Oscar nomination for \"The Lego Movie\" was for this ridiculously catchy tune",
+     "a": "\"Everything Is Awesome\"",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 10,
+     "q": "Gerontocracy",
+     "a": "the elderly",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 9,
+     "q": "Nez Perce County is on its west side & Teton County, on the east",
+     "a": "Idaho",
+     "right": [],
+     "wrong": [
+      "Ryan",
+      "Hannah",
+      "Kevin"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 23,
+     "q": "In \"Second Summer of the Sisterhood\", Bridget, Lena, Carmen & Tibby get more wear out of these title jeans",
+     "a": "the traveling pants",
+     "right": [
+      "Kevin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 28,
+     "q": "In \"Labyrinth\", she plays the worst babysitter ever--her baby bro is taken by David Bowie as the Goblin King",
+     "a": "Jennifer Connelly",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 18,
+     "q": "In 2016, this animal expert & autism spokesperson was inducted into the American Academy of Arts and Sciences",
+     "a": "Temple Grandin",
+     "right": [
+      "Hannah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 3,
+     "q": "Shakira's \"Try Everything\" was a great choice for this film about an ideal animal world",
+     "a": "Zootopia",
+     "right": [
+      "Kevin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 11,
+     "q": "Anarchy",
+     "a": "nobody",
+     "right": [
+      "Kevin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 14,
+     "q": "Here are 3 of its 5 counties: \nBristol,\nKent & \nNewport",
+     "a": "Rhode Island",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 24,
+     "q": "This character's \"Supremacy\" reigned following his \"Identity\"",
+     "a": "Jason Bourne",
+     "right": [
+      "Kevin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "What's been called the world's largest labyrinth is the 1,500 miles of tunnels under Odessa, Ukraine in this system",
+     "a": "catacombs",
+     "right": [],
+     "wrong": [
+      "Ryan"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 19,
+     "q": "In 1777 the Pennsylvania State Navy Board paid her for making \"ship's colours, &c\"",
+     "a": "Betsy Ross",
+     "right": [
+      "Kevin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 4,
+     "q": "Also in the 1967 movie, \"I Wan'na Be Like You\" made the cut for Jon Favreau's recent version of this movie",
+     "a": "The Jungle Book",
+     "right": [
+      "Hannah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 12,
+     "q": "Mesocracy (this class)",
+     "a": "the middle class",
+     "right": [
+      "Kevin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 15,
+     "q": "Enjoy the Great Divide, get held for Ransom, then pick up Grand Forks",
+     "a": "North Dakota",
+     "right": [],
+     "wrong": [
+      "Hannah"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 25,
+     "q": "The second book in the Frank Herbert \"Dune\" series was titled \"Dune\" this word for a prophesied savior",
+     "a": "messiah",
+     "right": [
+      "Kevin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": true,
+     "order": 30,
+     "q": "The 4 famous labyrinths mentioned by Pliny the Elder were in Italy, Egypt, Lemnos & of course, this Greek island",
+     "a": "Crete",
+     "right": [
+      "Kevin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1000
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 20,
+     "q": "In addition to owning the company, she was the publisher of the Watergate-era Washington Post",
+     "a": "Katharine Graham",
+     "right": [
+      "Kevin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 5,
+     "q": "\"Origami Birds\" & \"Monkey's Story\" are tunes in this 2016 movie that references a musical instrument",
+     "a": "Kubo and the Two Strings",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 13,
+     "q": "Ergatocracy",
+     "a": "the workers",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "NEW TV",
+    "FROM THE BIG-BOX STORE",
+    "65\"",
+    "PLASMA",
+    "\"H.D.\"",
+    "PICTURE IN PICTURE"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 19,
+     "q": "Season 2 of this Georgia-set series was subtitled \"Robbin' Season\"",
+     "a": "Atlanta",
+     "right": [
+      "Hannah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 12,
+     "q": "This superstore's Redcard can be a debit or a credit card",
+     "a": "Target",
+     "right": [
+      "Hannah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 6,
+     "q": "She confirmed that she was 5'5\" shortly before becoming British prime minister in 1979",
+     "a": "Margaret Thatcher",
+     "right": [
+      "Hannah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 21,
+     "q": "In physics, plasma, ionized gas with little or no electrical charge, is often called the 4th state of this",
+     "a": "matter",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "Appetizers served before a main meal",
+     "a": "an hors d'oeuvre",
+     "right": [
+      "Kevin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 25,
+     "q": "Hubert Robert helped plan the opening of this museum to the public in 1793 & painted his idea of how it should look",
+     "a": "the Louvre",
+     "right": [
+      "Hannah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 15,
+     "q": "In 2018 he could be seen on both \"The Conners\" & \"Black Earth Rising\"",
+     "a": "(John) Goodman",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 11,
+     "q": "This warehouse store got its start as Price Club",
+     "a": "Costco",
+     "right": [
+      "Kevin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 7,
+     "q": "In a 1962 biopic 6'2\" Peter O'Toole portrayed this 5'5\" man whose height may have been stunted by mumps in childhood",
+     "a": "Lawrence of Arabia",
+     "right": [],
+     "wrong": [
+      "Ryan"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 22,
+     "q": "Blood plasma contains protective proteins called gamma or immuno- these",
+     "a": "globulin",
+     "right": [
+      "Kevin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 1,
+     "q": "Adjective for a carriage pulled by a team",
+     "a": "horse-driven (or horse-drawn)",
+     "right": [
+      "Hannah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 26,
+     "q": "(Sarah of the Clue Crew shows a painting on the monitor.) 17th-century artist David Teniers the Younger was the curator of an archduke's collection & painted it, showing himself & dozens of artworks, including this Biblical heroine before the king of Persia",
+     "a": "Esther",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 13,
+     "q": "\"Are you hiring actors to play wrestler, or are we the wrestlers?\" is a line from this Netflix show",
+     "a": "GLOW",
+     "right": [
+      "Hannah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 8,
+     "q": "Best Buy offers this \"Squad\" to help you install your latest gadget",
+     "a": "the Geek Squad",
+     "right": [
+      "Kevin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 16,
+     "q": "She used her 5'5\" frame to speak out for democracy in Myanmar starting in the late '80s, leading to years under house arrest",
+     "a": "Aung San Suu Kyi",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 23,
+     "q": "Blood plasma circulates these important current-conducting substances like sodium & magnesium",
+     "a": "electrolytes",
+     "right": [
+      "Hannah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 3,
+     "q": "Some believe this nursery rhyme fella was based on a cannon that crashed on the ground during the English Civil War",
+     "a": "Humpty Dumpty",
+     "right": [
+      "Hannah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": true,
+     "order": 27,
+     "q": "The Antwerp museum of this Flemish artist has a depiction of the collection of his friend Cornelis van der Geest",
+     "a": "Rubens",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true,
+     "ddWager": 7000
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 14,
+     "q": "This 3-named actress stars in \"Westworld\"",
+     "a": "Evan Rachel Wood",
+     "right": [
+      "Hannah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 9,
+     "q": "In 2018 Lowe's began selling this tool brand once owned by Sears",
+     "a": "Craftsman",
+     "right": [
+      "Kevin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 17,
+     "q": "\"Me Talk Pretty One Day\" is a book by this 5'5\" humorist",
+     "a": "David Sedaris",
+     "right": [
+      "Hannah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 24,
+     "q": "Most of the visible universe, like the Sun & stars, is plasma; on Earth you'll see it in lightning & these polar spectacles",
+     "a": "the auroras",
+     "right": [],
+     "wrong": [
+      "Hannah"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2000
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 4,
+     "q": "A residential area in which the dwellings have all been planned & built around the same time",
+     "a": "a housing development",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 28,
+     "q": "In \"Las Meninas\", this painter depicted himself in front of a huge canvas, perhaps at work on \"Las Meninas\"",
+     "a": "Diego Velazquez",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 20,
+     "q": "Cress Williams plays the titular African-American electrical superhero on this CW series",
+     "a": "Black Lightning",
+     "right": [
+      "Kevin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 10,
+     "q": "Don't let the logo for this 5-letter store fool you--it sells products for other animals as well",
+     "a": "Petco",
+     "right": [
+      "Hannah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 18,
+     "q": "It was world news when this 5'5\" passionate amateur marine biologist died in Tokyo Jan. 7, 1989",
+     "a": "Emperor Hirohito",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 30,
+     "q": "To make a Red Cross plasma donation, it's great if you have this, the fourth major blood group discovered",
+     "a": "AB",
+     "right": [],
+     "wrong": [
+      "Kevin"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 5,
+     "q": "2-word term meaning to take shelter in a defensive position, perhaps from a storm",
+     "a": "hunker down",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 29,
+     "q": "One of Johan Zoffany's masterpieces is a depiction of the many masterpieces in this former Medici gallery",
+     "a": "the Uffizi",
+     "right": [
+      "Ryan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "ANCIENT TIMES",
+  "q": "In 1955 King Paul of Greece unveiled a statue of this hero near the cliffs where he died in the 5th century B.C.",
+  "a": "Leonidas",
+  "right": [],
+  "wrong": [
+   "Hannah",
+   "Kevin",
+   "Ryan"
+  ]
+ },
+ "gameId": "6364",
+ "cat_notes": {
+  "J": [
+   "Clues about State of the Counties.",
+   "Clues about Second Book in the Series.",
+   "Clues about A Labyrinthine Category.",
+   "Clues about Famous American Women.",
+   "Clues about Songs in Animated Movies.",
+   "You have to name those running the government in..."
+  ],
+  "DJ": [
+   "Clues about New TV.",
+   "Clues from the Big-box Store.",
+   "Clues about 65\".",
+   "Clues about Plasma.",
+   "Each answer is formed from the initials H.D.",
+   "Clues about Picture in Picture."
+  ],
+  "F": "Clues about Ancient Times."
+ }
+}

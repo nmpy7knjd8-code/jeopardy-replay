@@ -1,0 +1,996 @@
+{
+ "show": "#7981",
+ "aired": "2019-04-29",
+ "note": "James Holzhauer game 18.",
+ "contestants": [
+  {
+   "name": "Adam Levin",
+   "bio": "a sports information director from Ashland, Massachusetts",
+   "short": "Adam"
+  },
+  {
+   "name": "Jasmine Leonas",
+   "bio": "a social media specialist from Chicago, Illinois",
+   "short": "Jasmine"
+  },
+  {
+   "name": "James Holzhauer",
+   "bio": "a professional sports gambler from Las Vegas, Nevada (whose 17-day cash winnings total $1,275,587)",
+   "short": "James"
+  }
+ ],
+ "scores": {
+  "J": {
+   "James": 6200,
+   "Jasmine": 3800,
+   "Adam": 5000
+  },
+  "DJ": {
+   "James": 33517,
+   "Jasmine": 7800,
+   "Adam": 27000
+  },
+  "Final": {
+   "James": 54017,
+   "Jasmine": 7800,
+   "Adam": 53999
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "WAIT, SOMETHING'S \"OFF\"",
+    "PUP CULTURE",
+    "MOVIE STORES",
+    "LODGEPODGE",
+    "POTENT PORTABLES",
+    "BREAKS & LIVERS"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 14,
+     "q": "Workers may get dismissed from their jobs in a mass this",
+     "a": "layoff",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 17,
+     "q": "Time to play around with the Pomeranian, Japanese chin & Maltese, breeds in this AKC group",
+     "a": "toy",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 27,
+     "q": "Let's just say a store's dress fitting for a wedding does not go well for Kristen Wiig & friends in this 2011 film",
+     "a": "Bridesmaids",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 28,
+     "q": "AMC's \"Lodge 49\" was created by ex-\"Jeopardy!\" staffer Jim Gavin & stars Wyatt Russell, son of Goldie Hawn & this actor",
+     "a": "Kurt Russell",
+     "right": [
+      "Adam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 29,
+     "q": "Amazon's Fire Tablet 7 comes preloaded with this assistant & her soothing voice",
+     "a": "Alexa",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 30,
+     "q": "One of the most commonly broken bones is this one that serves as a strut to support the shoulder",
+     "a": "a clavicle (or collarbone)",
+     "right": [
+      "Adam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 25,
+     "q": "A fashion copy not made by its originator can be a cheap this 8-letter word",
+     "a": "a knockoff",
+     "right": [
+      "Adam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 26,
+     "q": "Sometimes before coming home, you gotta lay down for just a sec, like this agile herding breed here",
+     "a": "a collie",
+     "right": [
+      "Jasmine"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 20,
+     "q": "Some forces were beyond control as Natalie Portman managed this 243-year-old character's \"Wonder Emporium\"",
+     "a": "Mr. Magorium",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 10,
+     "q": "JFK defeated Henry Cabot Lodge for the Senate in 1952 & again in 1960 when Henry was this man's running mate",
+     "a": "Nixon",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 24,
+     "q": "Sony's portable Bluetooth XB10 one of these boasts the \"power of extra bass\"",
+     "a": "a speaker",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 23,
+     "q": "Each day your liver secretes about a quart of this liquid that helps you digest fats",
+     "a": "bile",
+     "right": [
+      "Adam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 18,
+     "q": "It describes a game-winning home run hit in the bottom of the 9th",
+     "a": "a walk-off",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 16,
+     "q": "Formal breeding of the Alaskan type of this 8-letter northern dog began in 1926",
+     "a": "a malamute",
+     "right": [
+      "Adam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 19,
+     "q": "In this film Catherine Keener, Steve Carell's long-awaited love, has a store where you can only buy its stuff on eBay",
+     "a": "40-Year-Old Virgin",
+     "right": [
+      "Jasmine"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 9,
+     "q": "The California civil code's definition of a lodger mentions this proverbial pair, a place to sleep & some food to eat",
+     "a": "room and board",
+     "right": [
+      "Adam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 21,
+     "q": "iBose makes a portable charger with 4 of these that unfold to soak up some rays & power your electronics",
+     "a": "solar panels",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 22,
+     "q": "From the Greek for \"bone\" & \"passage\", this condition in older folks can lead to more fragile, brittle bones",
+     "a": "osteoporosis",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 13,
+     "q": "The name of this beef dish topped with a sour cream sauce honors a Russian diplomat",
+     "a": "(beef) stroganoff",
+     "right": [
+      "Adam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 15,
+     "q": "There it is--it being this breed, the emblem of the Westminster Kennel Club & seen here in its classic pose",
+     "a": "a pointer",
+     "right": [
+      "Jasmine"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 6,
+     "q": "A Chinatown antique store has certain rules about post-purchase mogwais in this 1984 film",
+     "a": "Gremlins",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 8,
+     "q": "Muskrats build lodges or sometimes squat in the lodges built by these other rodents",
+     "a": "beavers",
+     "right": [
+      "Adam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 11,
+     "q": "The Inspiron line is from this Texas-based company that's been making laptops since 1989",
+     "a": "Dell",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 12,
+     "q": "A common sign of impaired liver function is this condition, yellowness of the eyes & skin",
+     "a": "jaundice",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 5,
+     "q": "Anything given up as pointless, or specifically, an account given up as a loss",
+     "a": "a write-off",
+     "right": [
+      "Jasmine"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 7,
+     "q": "Newfoundlands rescued from a shipwreck off Maryland led to the retriever breed named for this body of water",
+     "a": "Chesapeake Bay",
+     "right": [
+      "Jasmine"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 4,
+     "q": "In \"The Shop Around the Corner\", Margaret Sullavan & this actor bicker at work but are sweethearts by letter",
+     "a": "Jimmy Stewart",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 3,
+     "q": "In Lakota culture, Inipi is this structure seen here, where steam is used for purification",
+     "a": "a sweat lodge",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 2,
+     "q": "SanDisk makes a 500-gig external SSD, short for this kind of \"drive\" that can help you with storage",
+     "a": "solid state",
+     "right": [
+      "Adam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": true,
+     "order": 1,
+     "q": "The portal vein brings venous blood to the liver, while this artery brings oxygenated arterial blood",
+     "a": "the hepatic",
+     "right": [],
+     "wrong": [
+      "James"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1000
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "STATE OF THE STATE PARK",
+    "ALLITERATIVE PHRASES",
+    "FACTS ABOUT POETS",
+    "WHEELY GOOD",
+    "CONTROVERSIAL TV",
+    "THE SPANISH CIVIL WAR"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 25,
+     "q": "Hearst San Simeon State Park",
+     "a": "California",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 26,
+     "q": "It's unlikely you'll ever meet one of these friends, but you still write to each other",
+     "a": "a pen pal",
+     "right": [
+      "Adam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 29,
+     "q": "From what he wrote about himself in \"The Divine Comedy\", we know that he was born in 1265 & that he was a Gemini",
+     "a": "Dante",
+     "right": [
+      "Adam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 30,
+     "q": "All the numbers on a standard roulette wheel total up to this \"number of the Beast\"",
+     "a": "666",
+     "right": [
+      "Adam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 24,
+     "q": "When this Kiefer Sutherland show debuted in 2001, the tortured hero became the torturing hero",
+     "a": "24",
+     "right": [
+      "Jasmine"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 23,
+     "q": "The war began in 1936 as a military uprising in what was called \"Spanish\" this African country",
+     "a": "Morocco",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 12,
+     "q": "Yuma Territorial Prison State Historical Park",
+     "a": "Arizona",
+     "right": [
+      "Jasmine"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 21,
+     "q": "Someone who makes all the decisions appoints himself as these 2 jobs; \"executioner\" is sometimes added",
+     "a": "judge and jury",
+     "right": [
+      "Adam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 22,
+     "q": "This poet went to Columbia University & became friends with Jack Kerouac & William S. Burroughs",
+     "a": "(Allen) Ginsberg",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 18,
+     "q": "Wooden wheels with hanging seats had been popular since c. 1600, but the 1st giant such wheel was built by this man in 1893",
+     "a": "Ferris",
+     "right": [
+      "Adam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 2,
+     "q": "The \"Roseanne\" reboot gave way to this Roseanne-less spinoff",
+     "a": "The Conners",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 7,
+     "q": "Pablo Picasso forbade this work depicting the war's horrors from being shown in Spain until the fascists were gone",
+     "a": "Guernica",
+     "right": [
+      "Adam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 9,
+     "q": "Platte River State Park",
+     "a": "Nebraska",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 13,
+     "q": "This phrase can refer to whatever means necessary, or the 2 possibilities for a ball hit down the line in baseball",
+     "a": "fair or foul",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": true,
+     "order": 14,
+     "q": "Seamus Heaney's 1999 translation of this 1,200-year-old epic poem was a surprise bestseller",
+     "a": "Beowulf",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 10117
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 16,
+     "q": "These toy cars from Mattel have been satisfying kids' needs for speed since 1968",
+     "a": "Hot Wheels",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 1,
+     "q": "In 2018 this Brit returned to fool more U.S. politicians on \"Who is America?\"",
+     "a": "Sacha Baron Cohen",
+     "right": [
+      "Jasmine"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 3,
+     "q": "As fascist troops neared Madrid, Francisco Franco became commander in chief, or this word, \"general\" + 6 letters",
+     "a": "generalissimo",
+     "right": [
+      "Adam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 10,
+     "q": "James River State Park",
+     "a": "Virginia",
+     "right": [
+      "Jasmine"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 19,
+     "q": "\"La Francais est la langue d'amour\" translates as \"French is\" this",
+     "a": "the language of love",
+     "right": [
+      "Adam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 28,
+     "q": "This \"Trees\" poet was born in New Brunswick & attended Rutgers",
+     "a": "Joyce Kilmer",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 15,
+     "q": "In a car's engine, this \"shaft\" converts the up-&-down motion of the pistons into rotational power for the wheels",
+     "a": "the crankshaft",
+     "right": [
+      "Adam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 4,
+     "q": "Adorable nickname of young pageant contestant Alana Thompson",
+     "a": "Honey Boo Boo",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 5,
+     "q": "Some 800 American volunteers died fighting for the Loyalists, many as part of a battalion named for this 19th c. president",
+     "a": "the Abraham Lincoln battalion",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 11,
+     "q": "Franconia Notch State Park",
+     "a": "New Hampshire",
+     "right": [
+      "Adam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": true,
+     "order": 20,
+     "q": "Ships of yore masked their nationality with these, now a term for any covert act designed to make another entity look guilty",
+     "a": "a false flag",
+     "right": [
+      "Adam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 12000
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 27,
+     "q": "The line \"My candle burns at both ends\" comes from her poem \"First Fig\"",
+     "a": "Edna St. Vincent Millay",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 17,
+     "q": "Martyred by the Romans in the 4th century, this female Catholic saint is the patron saint of wheelwrights",
+     "a": "Catherine",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 8,
+     "q": "In 1969 CBS fired these politically outspoken comedy brothers from their own show",
+     "a": "Smothers",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 6,
+     "q": "This Spanish poet & playwright of the tragedy \"Blood Wedding\" was executed by a Nationalist firing squad",
+     "a": "Garcia Lorca",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "ORGANIZATIONS",
+  "q": "The oldest of these business booster groups, formed in Marseille in 1599, uses \"de\" instead of \"of\" in the name",
+  "a": "a chamber of commerce",
+  "right": [
+   "Adam",
+   "James"
+  ],
+  "wrong": [
+   "Jasmine"
+  ]
+ },
+ "gameId": "6274",
+ "cat_notes": {
+  "J": [
+   "Each answer ends with “OFF”, and the clues are about Wait, Something's.",
+   "Clues about Pup Culture.",
+   "Clues about Movie Stores.",
+   "Clues about Lodgepodge.",
+   "Clues about Potent Portables.",
+   "Clues about Breaks and Livers."
+  ],
+  "DJ": [
+   "Clues about State of the State Park.",
+   "Clues about Alliterative Phrases.",
+   "Clues about Facts About Poets.",
+   "Clues about Wheely Good.",
+   "Clues about Controversial TV.",
+   "Clues about The Spanish Civil War."
+  ],
+  "F": "Clues about Organizations."
+ }
+}

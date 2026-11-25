@@ -1,0 +1,997 @@
+{
+ "show": "#7978",
+ "aired": "2019-04-24",
+ "note": "James Holzhauer game 15.",
+ "contestants": [
+  {
+   "name": "Wayne Erxleben",
+   "bio": "an engineer from Fort Wayne, Indiana",
+   "short": "Wayne"
+  },
+  {
+   "name": "Silvija Ozols",
+   "bio": "a copy editor from Astoria, New York",
+   "short": "Silvija"
+  },
+  {
+   "name": "James Holzhauer",
+   "bio": "a professional sports gambler from Las Vegas, Nevada (whose 14-day cash winnings total $1,061,554)",
+   "short": "James"
+  }
+ ],
+ "scores": {
+  "J": {
+   "James": 20000,
+   "Silvija": 3200,
+   "Wayne": 2200
+  },
+  "DJ": {
+   "James": 49621,
+   "Silvija": 2400,
+   "Wayne": 12400
+  },
+  "Final": {
+   "James": 73621,
+   "Silvija": 2400,
+   "Wayne": 19999
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "WHERE AM I?",
+    "SNAKE, BIRD OR MONKEY",
+    "CAR TALK",
+    "WOMEN ON TV",
+    "TIME CAPSULE TIME",
+    "GIVE ME A \"MINUTE\""
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 30,
+     "q": "(Jimmy of the Clue Crew presents.) I'm at the Shuvalov Palace, now home to the Fabergé Museum in this city that was called Leningrad from 1924 to 1991",
+     "a": "St. Petersburg",
+     "right": [
+      "Wayne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 29,
+     "q": "The adder",
+     "a": "a snake",
+     "right": [
+      "Wayne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 24,
+     "q": "Ferdinand Porsche & his son designed the first model of this \"people's car\"",
+     "a": "the Volkswagen",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 26,
+     "q": "She turned the world on with her smile as Laura Petrie & later, on her own eponymous shows",
+     "a": "Mary Tyler Moore",
+     "right": [
+      "Silvija"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 27,
+     "q": "One of these \"as fresh as the day it was rolled\" gave the smell of tobacco to a 1900 capsule opened in Pennsylvania in 2013",
+     "a": "a cigar",
+     "right": [
+      "Wayne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 23,
+     "q": "It tells you when it's quarter till or half past",
+     "a": "the minute hand",
+     "right": [
+      "Wayne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 13,
+     "q": "(Sarah of the Clue Crew presents.) I'm outside South Africa's oldest building, the Castle of Good Hope in this city, named for its location on a peninsula",
+     "a": "Cape Town",
+     "right": [
+      "Silvija"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 28,
+     "q": "The stilt",
+     "a": "a bird",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 7,
+     "q": "The song \"Baby Got Back\" mentions a Benz & a turbo Vette & rhymes this car make with \"anaconda\"",
+     "a": "Honda",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 25,
+     "q": "In 1992 Dan Quayle criticized this reporter played by Candice Bergen for having a baby out of wedlock",
+     "a": "Murphy Brown",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 15,
+     "q": "A 1993 capsule opened in Virginia in 2018 included a music recital recorded on this format, but no Walkman to play it",
+     "a": "cassette",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 22,
+     "q": "A piece of thin, quickly cooked beef",
+     "a": "a minute steak",
+     "right": [
+      "Wayne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 12,
+     "q": "(Sarah of the Clue Crew presents.) I'm in the Nyhavn area of this capital--it looks like a fairy tale setting, & fairy tales like \"The Princess and the Pea\" were written here",
+     "a": "Copenhagen",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 21,
+     "q": "The hognose",
+     "a": "a snake",
+     "right": [
+      "Silvija"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 19,
+     "q": "I'd like to ride coast to coast in this classic Lincoln model",
+     "a": "Continental",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 16,
+     "q": "In 2018 she became the new permanent co-anchor of the \"Today\" show",
+     "a": "(Hoda) Kotb",
+     "right": [
+      "Silvija"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 10,
+     "q": "A 1913 \"century chest\" opened in 2013 included a pen used by this president to sign the 1900 Oklahoma Free Homes bill",
+     "a": "McKinley",
+     "right": [
+      "Silvija"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 17,
+     "q": "Near the end of the second & fourth quarters of an NFL game, a timeout for both teams accompanies this",
+     "a": "the two-minute warning",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 8,
+     "q": "(Sarah of the Clue Crew presents.) I'm here on this spectacular island, the largest in all of French Polynesia",
+     "a": "Tahiti",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 20,
+     "q": "The tamarin",
+     "a": "a monkey",
+     "right": [
+      "Silvija"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": true,
+     "order": 18,
+     "q": "The 2015 50th anniversary edition of this pony car was limited to a production run of 1,964",
+     "a": "the Mustang",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 9200
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 14,
+     "q": "This Oscar-nominated actress plays a dedicated mom on \"Speechless\"",
+     "a": "Minnie Driver",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 9,
+     "q": "In 2015 Boston opened a 1795 capsule from Sam Adams & this guy, including a silver plate he's thought to have made",
+     "a": "Paul Revere",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 11,
+     "q": "In 1774 the Pennsylvania Gazette reported these \"each...should be immediately equipped with an effective fire-arm\"",
+     "a": "minutemen",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 5,
+     "q": "(Jimmy of the Clue Crew presents.) I'm at the Estonian Open Air Museum in this capital city",
+     "a": "Tallinn",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 6,
+     "q": "The killdeer",
+     "a": "a bird",
+     "right": [
+      "Wayne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 4,
+     "q": "Introduced in the 1980s, this Ferrari model has a name that means \"red head\"",
+     "a": "the Testarossa",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 3,
+     "q": "She played Dr. Izzie Stevens on \"Grey's Anatomy\", & beginning in 2018, she's set the bar high as Samantha Wheeler on \"Suits\"",
+     "a": "Katherine Heigl",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 1,
+     "q": "A capsule created for this event in Queens, N.Y. is scheduled to be opened in 6939, 5,000 years after it closed",
+     "a": "the World's Fair",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 2,
+     "q": "A 1914 book on parliamentary practice says after roll call \"the secretary will\" do this",
+     "a": "read the minutes",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "POSSESSIVE BOOK TITLES",
+    "ROMAN NAMES",
+    "SCIENCE CENTRAL",
+    "SMORGAS-WORD",
+    "WHAT DAY IS THAT SONG?",
+    "GROSS CONFESSIONS"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 29,
+     "q": "Brobdingnagian, meaning \"of huge size\", comes from this satire by Jonathan Swift",
+     "a": "Gulliver's Travels",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 17,
+     "q": "In 27 B.C. Octavian was awarded this title meaning \"revered one\", & it became part of his name",
+     "a": "Augustus",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 4,
+     "q": "Seismically speaking, put these 3 letters before \"center\" to get the spot on the surface above the rupture in the crust",
+     "a": "epi-",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 26,
+     "q": "Starts with 3 consonants: \nAsk Atlas--this type of motion conveys indifference",
+     "a": "shrug",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 14,
+     "q": "\"Goodbye\" this title of a No. 1 hit by the Rolling Stones",
+     "a": "\"Ruby Tuesday\"",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 30,
+     "q": "This actress said, \"I hated wearing that outfit & sitting there rigid straight, & I couldn't wait to kill\" Jabba the Hutt",
+     "a": "Carrie Fisher",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 20,
+     "q": "Meryl Streep played the title woman when this William Styron novel became a movie",
+     "a": "Sophie's Choice",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": true,
+     "order": 9,
+     "q": "If Libertus were part of your name, you were previously one of these",
+     "a": "a slave",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 10021
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 3,
+     "q": "A 2017 study by astronomers shows that this part of our sun rotates 4 times as fast as the surface",
+     "a": "the core",
+     "right": [
+      "Wayne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 25,
+     "q": "Retronyms: \nBefore the electric guitar, we had what's now known as this 8-letter kind",
+     "a": "acoustic",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 13,
+     "q": "\"There's many lost, but tell me who has won?\" asks this U2 song",
+     "a": "\"Sunday Bloody Sunday\"",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 28,
+     "q": "After an accident, this author learned his nurses had been told by their boss \"in no uncertain terms, don't make any 'Misery' jokes\"",
+     "a": "Stephen King",
+     "right": [
+      "Wayne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 19,
+     "q": "Wragby Hall is a setting in this controversial novel by D.H. Lawrence",
+     "a": "Lady Chatterley's Lover",
+     "right": [
+      "Wayne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 7,
+     "q": "The name of this rebel who died in 71 B.C honors a Greek city",
+     "a": "Spartacus",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": true,
+     "order": 2,
+     "q": "The nucleolus is really central as the most prominent structure in the nucleus of this",
+     "a": "a cell",
+     "right": [
+      "Wayne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2200
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 24,
+     "q": "Portmanteaus: \nTo air a program at the same time on TV & radio led to this portmanteau",
+     "a": "simulcast",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 12,
+     "q": "Sam Cooke faced \"Another\" one",
+     "a": "\"Saturday Night\"",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 27,
+     "q": "Learning archery \"changed (her) body\"; by \"Catching Fire\", \"my shoulders were 2\" broader, my right arm is 1\" longer than my left\"",
+     "a": "(Jennifer) Lawrence",
+     "right": [
+      "Silvija"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 21,
+     "q": "Somerset Maugham made himself a character in this novel with a sharp title",
+     "a": "The Razor's Edge",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 5,
+     "q": "Publius Cornelius Scipio got the honorific Africanus due to his success in the second of these wars",
+     "a": "the Punic Wars",
+     "right": [
+      "Wayne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 1,
+     "q": "In 1916 the great chemist Gilbert Lewis called the central part of an atom this, a word we use for the seed in an apricot pit",
+     "a": "the kernel",
+     "right": [],
+     "wrong": [
+      "James"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 23,
+     "q": "Same first & last letter: \nThis type of \"arrest\" means your body's main pump isn't working",
+     "a": "cardiac",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 11,
+     "q": "Boomtown Rats song in which \"I want to shoot the whole day down\"",
+     "a": "\"I Don't Like Mondays\"",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 16,
+     "q": "He said an ad on his Swift boat service \"was skillfully done as an attack ad... if I heard that ad, I wouldn't vote for me\"",
+     "a": "(John) Kerry",
+     "right": [
+      "Wayne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 18,
+     "q": "This work by Norman Mailer tells of convicted killer Gary Gilmore, who chose death by firing squad",
+     "a": "The Executioner's Song",
+     "right": [
+      "Wayne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 8,
+     "q": "His surname meaning \"chickpea\", this orator had the image of one inscribed on a ceremonial plate in place of his name",
+     "a": "Cicero",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 6,
+     "q": "The 1880s observation that tall parents have shorter kids than you'd expect is an example of RTM, \"regression to\" this",
+     "a": "the mean",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 22,
+     "q": "Almost BEFORE & AFTER:\n\"Ne m'oubliez pas\" flowers bloom as a \"Dallas\" TV spinoff",
+     "a": "forget-me-Knots Landing",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 10,
+     "q": "Rebecca Black went viral with this song",
+     "a": "\"Friday\"",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 15,
+     "q": "This \"In the Night Kitchen\" author was childless, but would've preferred a daughter; \"if I had a son, I'd leave him at the A & P\"",
+     "a": "Maurice Sendak",
+     "right": [
+      "James"
+     ],
+     "wrong": [
+      "Silvija"
+     ],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "GEOGRAPHIC NICKNAMES",
+  "q": "This term for an area of the Atlantic originated in 1964 in Argosy, a pulp magazine",
+  "a": "the Bermuda Triangle",
+  "right": [
+   "Silvija",
+   "Wayne",
+   "James"
+  ],
+  "wrong": []
+ },
+ "gameId": "6271",
+ "cat_notes": {
+  "J": [
+   "The category “WHERE AM I?” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "Clues about Snake, Bird or Monkey.",
+   "Clues about Car Talk.",
+   "Clues about Women on TV.",
+   "Clues about Time Capsule Time.",
+   "That word coming up in each correct response."
+  ],
+  "DJ": [
+   "Clues about Possessive Book Titles.",
+   "Clues about Roman Names.",
+   "Clues about Science Central.",
+   "Clues about Smorgas-word.",
+   "Clues about days, riffing on the title “WHAT DAY IS THAT SONG?”.",
+   "People interviewed by Terry Gross of NPR's Fresh Air."
+  ],
+  "F": "Clues about Geographic Nicknames."
+ }
+}

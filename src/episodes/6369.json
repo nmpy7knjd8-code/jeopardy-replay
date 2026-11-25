@@ -1,0 +1,980 @@
+{
+ "show": "#8035",
+ "aired": "2019-07-12",
+ "note": "Sam Kavanaugh game 3.",
+ "contestants": [
+  {
+   "name": "Heather Ringman",
+   "bio": "an engineer from Houston, Texas",
+   "short": "Heather"
+  },
+  {
+   "name": "Justin Burden",
+   "bio": "an alcohol lawyer from West Hollywood, California",
+   "short": "Justin"
+  },
+  {
+   "name": "Sam Kavanaugh",
+   "bio": "a teacher from Minneapolis, Minnesota (whose 2-day cash winnings total $46,000)",
+   "short": "Sam"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Sam": 4600,
+   "Justin": 3200,
+   "Heather": 4800
+  },
+  "DJ": {
+   "Sam": 17200,
+   "Justin": 6800,
+   "Heather": 14800
+  },
+  "Final": {
+   "Sam": 29601,
+   "Justin": 13300,
+   "Heather": 100
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "WHAT'S THAT IN YOUR EAR?",
+    "3-LETTER READING",
+    "LET'S MAKE A NEW DEAL",
+    "MEN IN BLACK",
+    "PITTSBURGH",
+    "VOWEL FLOP"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 6,
+     "q": "The website for these hyphenated cottony ear swabbers has a page full of life hacks",
+     "a": "Q-tips",
+     "right": [
+      "Justin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 21,
+     "q": "A division of a play: Noel Coward's \"The Better Half\" has just one",
+     "a": "an act",
+     "right": [
+      "Sam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "In a 1932 speech he introduced \"a New deal\"",
+     "a": "FDR",
+     "right": [
+      "Justin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 19,
+     "q": "I know the men in black haunted Mulder on this TV show--I played one of them!",
+     "a": "The X-Files",
+     "right": [
+      "Sam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 11,
+     "q": "William Pitt the elder, for whom Pittsburgh is named, lived in this century",
+     "a": "the 18th century",
+     "right": [
+      "Justin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 14,
+     "q": "A helmsman of the Enterprise has his U's turned into O's & becomes this other space pilot",
+     "a": "Solo",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 7,
+     "q": "Great for nap time, a foam type from Flents is called \"Quiet Please\"",
+     "a": "an earplug",
+     "right": [
+      "Sam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 20,
+     "q": "The first paragraph of \"Great Expectations\" says, \"So, I called myself\" this",
+     "a": "Pip",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "The Federal Theater Project mounted an all-African-American version of this Shakespeare play set in Haiti instead of Scotland",
+     "a": "Macbeth",
+     "right": [
+      "Justin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 25,
+     "q": "19th century artist Hokusai is credited with the first image of these stealthy warriors wearing black",
+     "a": "a ninja",
+     "right": [
+      "Sam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 12,
+     "q": "Jim Delligatti is credited with inventing this iconic sandwich at his Pittsburgh area McDonald's franchise in 1967",
+     "a": "a Big Mac",
+     "right": [
+      "Sam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 15,
+     "q": "The \"Poker Face\" lady swaps her A's for I's & becomes this Oscar-winning movie",
+     "a": "Gigi",
+     "right": [
+      "Sam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 8,
+     "q": "The binaural type of this used by doctors to listen to your innards has 2 earpieces",
+     "a": "a stethoscope",
+     "right": [
+      "Justin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 22,
+     "q": "Madonna bestseller",
+     "a": "Sex",
+     "right": [
+      "Heather"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 3,
+     "q": "This 2019 resolution calls for renewable energy, healthy food, high-speed rail & help for the poor, elderly & homeless",
+     "a": "the Green New Deal",
+     "right": [
+      "Sam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 26,
+     "q": "Josh Brolin played a younger version of this actor in \"Men in Black 3\"",
+     "a": "Tommy Lee Jones",
+     "right": [
+      "Heather"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 13,
+     "q": "Director George Romero worked for this Pittsburgh kids' TV legend, who came to the \"Night of the Living Dead\" premiere",
+     "a": "Mr. Rogers",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 16,
+     "q": "Netanyahu's nickname trades its I's for A's to become this rum cake",
+     "a": "baba",
+     "right": [
+      "Sam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 9,
+     "q": "Styles of these helpers include BTE, behind the ear, & CIC, completely in the canal",
+     "a": "hearing aids",
+     "right": [
+      "Justin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 23,
+     "q": "Typical poem by ancient Greek poet Pindar",
+     "a": "an ode",
+     "right": [
+      "Heather"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 4,
+     "q": "1935's Wagner Act established the National Labor Relations Board & strengthened collective this",
+     "a": "bargaining",
+     "right": [
+      "Sam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 27,
+     "q": "\"Go Away White\" is the 2008 reunion album by this Peter Murphy band that wore black & led many gloomy teens to do the same",
+     "a": "Bauhaus",
+     "right": [
+      "Heather"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "Located where its 3 rivers meet, Pittsburgh's business district is AKA \"The Golden\" this",
+     "a": "triangle",
+     "right": [
+      "Justin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 17,
+     "q": "Hawaii's state bird swaps its vowels for A's & turns into this relative",
+     "a": "nana",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 10,
+     "q": "Of the 3 bones in the ear, the one that sounds like it's best suited for horse riding",
+     "a": "a stirrup",
+     "right": [
+      "Sam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 24,
+     "q": "\"The Kitchen God's Wife\" author",
+     "a": "Amy Tan",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": true,
+     "order": 5,
+     "q": "In the NRA of the 1930s New Deal, the \"R\" stood for this",
+     "a": "recovery",
+     "right": [],
+     "wrong": [
+      "Sam"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1400
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 28,
+     "q": "This Oscar-winning actor is all sorts of bad as the man in black in \"The Dark Tower\", based on the Stephen King novels",
+     "a": "Matthew McConaughey",
+     "right": [
+      "Heather"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 30,
+     "q": "The University of Pittsburgh's Cathedral of Learning is in the architectural style known as this revival",
+     "a": "Gothic",
+     "right": [
+      "Heather"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 18,
+     "q": "An affectionate name for your mother switches its vowels & becomes this nickname of Mariah Carey",
+     "a": "Mimi",
+     "right": [
+      "Sam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "DESERT-POURRI",
+    "ACRONYMS & ABBREVS.",
+    "THE OLYMPIC GAMES",
+    "SECOND LETTER \"Y\"",
+    "ALIEN INVASION!",
+    "TAKE ME TO YOUR LIEDER"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "Ernest Giles' journal of crossing Australia's deserts says, \"Oh, would that I had\" these! \"What are horses in such a region?\"",
+     "a": "camels",
+     "right": [
+      "Heather"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 26,
+     "q": "B.C. stands for \"before Christ\", B.C.E. stands for \"before\" this",
+     "a": "before common era",
+     "right": [
+      "Heather"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "Before the Olympics went all-metric, the 1904 games had events like the 880 of these units freestyle swim",
+     "a": "yards",
+     "right": [
+      "Justin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 28,
+     "q": "Blake Carrington is the patriarch on this 1980s primetime soap rebooted in 2017",
+     "a": "Dynasty",
+     "right": [
+      "Justin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 29,
+     "q": "The Asian tiger type of this insect found throughout the U.S. can transmit diseases like the Zika & West Nile viruses",
+     "a": "the mosquito",
+     "right": [
+      "Sam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 30,
+     "q": "Typically, 19th century lieder, or songs, were arranged for 1 vocalist & 1 accompanist on this instrument",
+     "a": "a piano",
+     "right": [
+      "Sam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 2,
+     "q": "The nomadic Tuareg people speak a Berber-related dialect & call this desert home",
+     "a": "the Sahara",
+     "right": [
+      "Heather"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 14,
+     "q": "The slang term PDA is short for this, like smooching at the movies",
+     "a": "public displays of affection",
+     "right": [
+      "Sam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 10,
+     "q": "In 1994 Oksana Baiul edged out this famously injured American for figure skating gold",
+     "a": "Nancy Kerrigan",
+     "right": [
+      "Justin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 20,
+     "q": "It describes futuristic novels full of doom & gloom & oppressive societies like \"The Hunger Games\" series",
+     "a": "dystopian",
+     "right": [
+      "Sam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 7,
+     "q": "Able to grow to more than 20 feet in length, the Burmese type of this snake is now widespread in Florida's wetlands",
+     "a": "a python",
+     "right": [
+      "Heather"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 18,
+     "q": "Lieder date back to the 12th century but really hit their stride during this emotional musical era that began in the 18th century",
+     "a": "the Romantic era",
+     "right": [
+      "Sam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 3,
+     "q": "Dry doesn't mean dull with sites like the rocks of Rainbow Valley in this country's Atacama Desert",
+     "a": "Chile",
+     "right": [
+      "Sam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 15,
+     "q": "Take a deep dive & tell us what SCUBA is an acronym for",
+     "a": "self-contained underwater breathing apparatus",
+     "right": [
+      "Heather"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 13,
+     "q": "The 1924 Olympics played backdrop to this film about 2 British runners",
+     "a": "Chariots of Fire",
+     "right": [
+      "Heather"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 19,
+     "q": "Constantine the Great is considered the first emperor of this empire",
+     "a": "Byzantine",
+     "right": [
+      "Sam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 6,
+     "q": "This variety of fruit fly invaded California in the 1980s & led to U.S. quarantine laws",
+     "a": "the Mediterranean fruit fly",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 23,
+     "q": "The French followed the Germans' lied with a form called melodie, like Henri Duparc's this French word for song \"Triste\"",
+     "a": "chanson",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 4,
+     "q": "In 1990 protecting Saudi Arabia from Iraqi troops was dubbed Operation this; Desert Storm soon followed",
+     "a": "Desert Shield",
+     "right": [
+      "Sam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 16,
+     "q": "Seen on pay stubs, FICA is short for these 2 words \"Contributions Act\"",
+     "a": "federal insurance",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 12,
+     "q": "The 1968 Olympics in Grenoble were dubbed the \"Killympics\" after the exploits of a man in this sport",
+     "a": "skier",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 21,
+     "q": "They're the showy blooms seen here",
+     "a": "hydrangeas",
+     "right": [
+      "Heather"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 8,
+     "q": "This predator with a feline name has expanded from the Pacific to coastal areas of the Atlantic & Caribbean as well",
+     "a": "the lionfish",
+     "right": [
+      "Heather"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 24,
+     "q": "Discovered in 2017, \"Lied vom Weissen Käse\", or \"Song of the White Cheese\", is by this composer who often worked with Bertolt Brecht",
+     "a": "Kurt Weill",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": true,
+     "order": 5,
+     "q": "This sea is the western border of the Arabian Desert",
+     "a": "the Red Sea",
+     "right": [
+      "Sam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 7400
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 17,
+     "q": "The \"C\" in ASCII, used in computing, stands for this",
+     "a": "code",
+     "right": [
+      "Heather"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 11,
+     "q": "A field event, the long jump favors athletes with track star speed, like this U.S. man who won 4 straight golds in the event",
+     "a": "Carl Lewis",
+     "right": [
+      "Justin"
+     ],
+     "wrong": [
+      "Sam"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 22,
+     "q": "This jellylike substance that fills the cells of an organism contains mitochondria & ribosomes",
+     "a": "cytoplasm",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 9,
+     "q": "Apis mellifera scutellata is best known by this scary name & came from Africa to Brazil to the United States",
+     "a": "killer bees",
+     "right": [
+      "Heather"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": true,
+     "order": 25,
+     "q": "This Vienna-born composer was only 17 when he wrote \"Gretchen at the Spinning Wheel\" & changed the lieder game in 1814",
+     "a": "Franz Schubert",
+     "right": [],
+     "wrong": [
+      "Heather"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2000
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "WORD ORIGINS",
+  "q": "19th c. boots made with India rubber made one quieter, leading to this slang term for one whose job involves surveillance",
+  "a": "a gumshoe",
+  "right": [
+   "Justin",
+   "Sam"
+  ],
+  "wrong": [
+   "Heather"
+  ]
+ },
+ "gameId": "6369",
+ "cat_notes": {
+  "J": [
+   "The category “WHAT'S THAT IN YOUR EAR?” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "Each answer is a 3-letter word or term related to 3-letter Reading.",
+   "The category “LET'S MAKE A NEW DEAL” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "Clues about Men in Black.",
+   "Clues about Pittsburgh.",
+   "The category “VOWEL FLOP” sets the theme — the clues follow that idea and any wordplay suggested by the title."
+  ],
+  "DJ": [
+   "A mixed potpourri of Desert-related clues.",
+   "Clues about Acronyms and Abbrevs.",
+   "Clues about The Olympic Games.",
+   "Each answer contains the letter “Y”, and the clues are about Second Letter.",
+   "The category “ALIEN INVASION!” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "Clues about Take Me to Your Lieder."
+  ],
+  "F": "Clues about Word Origins."
+ }
+}

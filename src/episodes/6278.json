@@ -1,0 +1,999 @@
+{
+ "show": "#7985",
+ "aired": "2019-05-03",
+ "note": "James Holzhauer game 22.",
+ "contestants": [
+  {
+   "name": "Carol Hansen",
+   "bio": "a retired database administrator from San Francisco, California",
+   "short": "Carol"
+  },
+  {
+   "name": "Pete Vanderhyden",
+   "bio": "an airline pilot from Murrieta, California",
+   "short": "Pete"
+  },
+  {
+   "name": "James Holzhauer",
+   "bio": "a professional sports gambler from Las Vegas, Nevada (whose 21-day cash winnings total $1,608,627)",
+   "short": "James"
+  }
+ ],
+ "scores": {
+  "J": {
+   "James": 13200,
+   "Pete": 1400,
+   "Carol": 1800
+  },
+  "DJ": {
+   "James": 47381,
+   "Pete": 4600,
+   "Carol": 5800
+  },
+  "Final": {
+   "James": 82381,
+   "Pete": 0,
+   "Carol": 2399
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "TV SHOWS BY COUPLE",
+    "BEGINS & ENDS WITH \"W\"",
+    "CLASSIC LITERATURE",
+    "SCI-FI STUFF",
+    "NOBODY EXPECTS",
+    "THE SPINACH ACQUISITION"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 30,
+     "q": "Monica & Chandler",
+     "a": "Friends",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 29,
+     "q": "To take money out of an account",
+     "a": "withdraw",
+     "right": [
+      "Pete"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 25,
+     "q": "\"The horror! The horror!\" are Mr. Kurtz' dying words in this novella",
+     "a": "Heart of Darkness",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 28,
+     "q": "(Sarah of the Clue Crew presents from Profiles in History in Calabasas, California.) The latex prosthetic ears worn by this \"Star Trek\" actor in the late '60s even have some residual makeup left on them",
+     "a": "Leonard Nimoy",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 24,
+     "q": "It's a hoot the first time a kid gets surprised by the clown emerging from this windup toy",
+     "a": "a jack-in-the-box",
+     "right": [
+      "Pete"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 27,
+     "q": "A sailor man might acquire the brand of spinach named for this comic book mariner",
+     "a": "Popeye",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 22,
+     "q": "Carrie & Mr. Big",
+     "a": "Sex and the City",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 21,
+     "q": "It's the interval during which conditions are suitable for the safe launch of a spacecraft",
+     "a": "a window",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 20,
+     "q": "From this French novel: \"'But you're one against four!' cried Jussac. 'Stop fighting! I order you to stop fighting!'\"",
+     "a": "The Three Musketeers",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 19,
+     "q": "(Jimmy of the Clue Crew presents from Profiles in History in Calabasas, California.) The piece here is really green cast resin in crystal form, but in \"Superman III\", it was called this, & appeared onscreen with Christopher Reeve",
+     "a": "kryptonite",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 23,
+     "q": "Surprise is key in this baseball play with a deadly name that aims to score a runner from third",
+     "a": "a suicide squeeze",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 26,
+     "q": "Spinach & beets are part of this alphanumeric drink from Campbell's",
+     "a": "V8",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 17,
+     "q": "Jim Halpert & Pam Beesly, who hooked up at work",
+     "a": "The Office",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 7,
+     "q": "Native to northern temperate zones, this tree of the genus Salix is valued for shade & erosion control",
+     "a": "weeping willow",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 16,
+     "q": "He wrote such classics as \"The Bostonians\", \"The Portrait of a Lady\" & \"The Wings of the Dove\"",
+     "a": "Henry James",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 18,
+     "q": "(Sarah of the Clue Crew presents from Profiles in History in Calabasas, California.) Seen in Dr. Zaius' private chambers, the Lawgiver statue from this 1968 film looks to be stone, but is actually made of cast & carved rigid polyfoam",
+     "a": "Planet of the Apes",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 15,
+     "q": "David Niven & the audience were taken unawares when one of these rushed the Oscars stage in 1974",
+     "a": "a streaker",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 13,
+     "q": "Get spinach because it's high in the beta-carotene form of this vitamin AKA retinol",
+     "a": "A",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 8,
+     "q": "Luke & Lorelai",
+     "a": "Gilmore Girls",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 3,
+     "q": "It's someone's global perspective or philosophy of life",
+     "a": "worldview",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 9,
+     "q": "This tale by Robert Louis Stevenson says, \"I learned to recognize the thorough and primitive duality of man\"",
+     "a": "Dr. Jekyll and Mr. Hyde",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 14,
+     "q": "(Sarah of the Clue Crew presents from Profiles in History in Calabasas, California.) This maquette was a model for the alien queen who in a classic movie moment faces off against this character, played so powerfully by Sigourney Weaver",
+     "a": "(Ellen) Ripley",
+     "right": [
+      "Pete"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 12,
+     "q": "People were surprised when Kadovar volcano erupted in 2018, as it was considered this, from the Latin for \"sleep\"",
+     "a": "dormant",
+     "right": [
+      "Carol"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 11,
+     "q": "Each day Berghoff's restaurant in Chicago makes a giant cauldron of delicious spinach in this form",
+     "a": "creamed spinach",
+     "right": [],
+     "wrong": [
+      "Pete"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 4,
+     "q": "Cory & Topanga, the first time around",
+     "a": "Boy Meets World",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 2,
+     "q": "A good boss knows how to manage this, the process of handling tasks",
+     "a": "workflow",
+     "right": [
+      "Pete"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": true,
+     "order": 1,
+     "q": "Part one of \"Les Miserables\" is \"Fantine\"; part two is named for this daughter of hers",
+     "a": "Cosette",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1000
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 5,
+     "q": "(Sarah of the Clue Crew presents from Profiles in History in Calabasas, California.) Repurposed black, padded hockey gloves were part of a Cylon from this '70s sci-fi show, but balancing out the cool factor, the helmet is outfitted with the awesome red Cyclops eye",
+     "a": "Battlestar Galactica",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 6,
+     "q": "This head of state was surprised to receive a back rub from George W. Bush at the 2006 G8 summit",
+     "a": "Merkel",
+     "right": [
+      "Carol"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 10,
+     "q": "Order a dish prepared this way, after a city in Italy, & you should get some spinach",
+     "a": "Florentine",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "CLASSICAL DANCE MIX",
+    "GOVERNMENT & POLITICS",
+    "WORLD CITIES",
+    "A BUNCH OF HOOEY!",
+    "THINGS THAT HAPPENED",
+    "GETTING ALL SCIENCE \"E\""
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 30,
+     "q": "\"Waltz of the Flowers\" is from this holiday ballet by Tchaikovsky",
+     "a": "The Nutcracker",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 29,
+     "q": "Starting in the 1930s, Elmo Roper was the first to develop the scientific use of these in political forecasting",
+     "a": "polls",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 6,
+     "q": "This capital is conveniently located near Spain's exact geographic center",
+     "a": "Madrid",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 28,
+     "q": "The Mandinka term Maamajomboo was corrupted as this rhyming term",
+     "a": "mumbo-jumbo",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "In the mid-19th century, the U.S. Army imported these creatures from Africa as pack animals--it didn't last",
+     "a": "camels",
+     "right": [],
+     "wrong": [
+      "Pete",
+      "Carol"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "This type of plant keeps its leaves all year, as the name implies",
+     "a": "evergreen",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 16,
+     "q": "His Opus 72 is \"Norwegian Peasant Dances\"",
+     "a": "Grieg",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 20,
+     "q": "Keeping silent is one way to avoid this political speaking \"disease\", a pun on a real disease of cattle",
+     "a": "foot-in-mouth disease",
+     "right": [
+      "Pete"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 5,
+     "q": "Home to more than 1.4 million people, Novosibirsk is the main city in this 5-million-square-mile region of Russia",
+     "a": "Siberia",
+     "right": [
+      "Carol"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 25,
+     "q": "This 3-letter word for decay or decomposition is also a very British way to say \"hooey\"",
+     "a": "rot",
+     "right": [
+      "Pete"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 10,
+     "q": "In 1536 Henry VIII fell from a horse; the shock made this second wife miscarry & soon, still sonless, she was executed",
+     "a": "Anne Boleyn",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 26,
+     "q": "This branch of zoology that focuses on insects emerged as a distinct field of study in the early 19th century",
+     "a": "entomology",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 15,
+     "q": "\"Chatterbox\" by Josef Strauss is this type of lively dance later to be featured by Lawrence Welk",
+     "a": "polka",
+     "right": [
+      "Carol"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": true,
+     "order": 19,
+     "q": "He became U.S. Attorney General in 2019, 27 years after taking the job for the first time",
+     "a": "(William) Barr",
+     "right": [
+      "Carol"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2000
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 4,
+     "q": "If you're into bridges, this city has more than 400 of 'em, including the Rialto that crosses the Grand Canal",
+     "a": "Venice",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 22,
+     "q": "Worthless opinions, or the edible stomach lining of ruminants",
+     "a": "tripe",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 8,
+     "q": "A Russian team showed up too late to the 1908 Olympics because they were still using this calendar",
+     "a": "the Julian",
+     "right": [
+      "James"
+     ],
+     "wrong": [
+      "Carol"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": true,
+     "order": 12,
+     "q": "Proprioception is a synonym for this sense of balance",
+     "a": "equilibrium",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 11381
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 14,
+     "q": "In the 1840s Henryk Szopowicz wrote a collection of mazurkas \"a la\" this composer",
+     "a": "Chopin",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 18,
+     "q": "From the Latin for \"bring back\", it's a direct vote by the people; in 2019 Britons contemplated a second Brexit one",
+     "a": "a referendum",
+     "right": [
+      "Carol"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 2,
+     "q": "If you're gonna lie in the heart of something, make it the gold field of the Witwatersrand, like this huge South African city",
+     "a": "Johannesburg",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 21,
+     "q": "\"Stuff and\" this is an idiom to be interjected when you hear something untrue",
+     "a": "stuff and nonsense",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 7,
+     "q": "Alfred Nobel wrote that it was \"the irony of fate\" to be prescribed this for his angina late in life",
+     "a": "nitroglycerin",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 11,
+     "q": "It's the one-word name for a red blood cell",
+     "a": "erythrocyte",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 13,
+     "q": "One movement of Mendelssohn's \"Italian\" symphony evokes this dance with an Italian name meaning an arachnid",
+     "a": "tarantella",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 17,
+     "q": "The USA's second-longest of these lasted 21 days in 1995-96, over budgets & social program spending",
+     "a": "a government shutdown",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 3,
+     "q": "Lesser-known conquistador Pedro de Alvarado founded this capital that's named for Jesus",
+     "a": "San Salvador",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 24,
+     "q": "Just like it sounds, this rhyming word really once meant \"applause enticement\"",
+     "a": "claptrap",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 9,
+     "q": "This Central Asian conqueror who died in 1405 was exhumed in Uzbekistan in 1941; his lameness was confirmed",
+     "a": "Tamerlane (or Timur the Lame)",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 23,
+     "q": "Hello...hello...hello...it's an ultrasound image of the heart used to diagnose congenital heart disease",
+     "a": "a echocardiogram",
+     "right": [
+      "Pete"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "WORDS OF THE 2000s",
+  "q": "In 2008 Time magazine described this new practice as \"one part social networking and one part capital accumulation\"",
+  "a": "crowdfunding",
+  "right": [
+   "James"
+  ],
+  "wrong": [
+   "Pete",
+   "Carol"
+  ]
+ },
+ "gameId": "6278",
+ "cat_notes": {
+  "J": [
+   "Clues about TV Shows by Couple.",
+   "Each answer ends with “W”.",
+   "Clues about Classic Literature.",
+   "And then in honor of tomorrow's date, \"May the 4th be with you\"...",
+   "Clues about Nobody Expects.",
+   "Clues about The Spinach Acquisition."
+  ],
+  "DJ": [
+   "Clues about Classical Dance Mix.",
+   "Clues about Government and Politics.",
+   "Clues about World Cities.",
+   "The category “A BUNCH OF HOOEY!” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "Clues about Things That Happened.",
+   "Each correct response will begin with that letter of the alphabet."
+  ],
+  "F": "Ah, vocabulary."
+ }
+}

@@ -1,0 +1,1004 @@
+{
+ "show": "#7836",
+ "aired": "2018-10-08",
+ "note": "",
+ "contestants": [
+  {
+   "name": "Lee Glazer",
+   "bio": "a director of a college research center from Waterville, Maine",
+   "short": "Lee"
+  },
+  {
+   "name": "Alex Schmidt",
+   "bio": "a writer and comedian from Pasadena, California",
+   "short": "Alex"
+  },
+  {
+   "name": "Adam Francois Watkins",
+   "bio": "a stay-at-home dad and lawyer from Atlanta, Georgia (whose 1-day cash winnings total $25,706)",
+   "short": "Adam"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Adam": 6000,
+   "Alex": 7800,
+   "Lee": 4600
+  },
+  "DJ": {
+   "Adam": 20000,
+   "Alex": 18600,
+   "Lee": 8200
+  },
+  "Final": {
+   "Adam": 2799,
+   "Alex": 20798,
+   "Lee": 16399
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "FORT NIGHT",
+    "AT LEAST 20 MILLION TWITTER FOLLOWERS",
+    "LET US FLOAT SOMETHING BY YOU",
+    "TRAVEL BOOKS",
+    "THIS IS \"EZ\"",
+    "HERE'S THE HARD STUFF"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 19,
+     "q": "The 1814 bombardment of this Maryland fort almost made it to a second night, but the flag was still there",
+     "a": "Fort McHenry",
+     "right": [
+      "Alex"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 29,
+     "q": "102 million: \nHis Twitter bio is just 4 words--\"Dad, husband, president, citizen\"",
+     "a": "Barack Obama",
+     "right": [
+      "Lee"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 12,
+     "q": "Perhaps a budding entomologist, Muhammad Ali used this 4-word phrase before \"sting like a bee\"",
+     "a": "float like a butterfly",
+     "right": [
+      "Alex"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "Bill Bryson's \"In a Sunburned Country\" takes us to this continent with its unique animals & friendly people too",
+     "a": "Australia",
+     "right": [
+      "Alex"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 3,
+     "q": "In slang, it follows \"easy peasy lemon\"",
+     "a": "squeezy",
+     "right": [
+      "Lee"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 8,
+     "q": "It's the good stuff--I mean the hard stuff--in a classic daiquiri",
+     "a": "rum",
+     "right": [
+      "Alex"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 20,
+     "q": "Before this war had even started, Austrians took a Serbian fortress in a midnight attack in July 1914",
+     "a": "World War I",
+     "right": [
+      "Adam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 30,
+     "q": "22 million: \nHi! My name is... what? My name is... who? My name is this Detroit rapper",
+     "a": "Eminem",
+     "right": [
+      "Alex"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 13,
+     "q": "The two elements seen here make up a reportedly 130-year-old one of these discovered in 2018",
+     "a": "a letter in a bottle",
+     "right": [
+      "Adam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "Modern travel book writing got a boost in 1977 with Bruce Chatwin's account of his trip \"In\" this southern Argentine region",
+     "a": "Patagonia",
+     "right": [
+      "Lee"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 4,
+     "q": "To breathe with difficulty & with a whistling sound",
+     "a": "wheeze",
+     "right": [
+      "Adam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 28,
+     "q": "It's a special birthday; let's celebrate with a glass of 30-year-old this from Glenfiddich",
+     "a": "(single-malt) Scotch",
+     "right": [
+      "Lee"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 16,
+     "q": "In 1756 only 23 of the 146 British soldiers survived the night in the \"black hole\" of Fort William in this Indian city",
+     "a": "Calcutta",
+     "right": [
+      "Alex"
+     ],
+     "wrong": [
+      "Adam"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 15,
+     "q": "46 million: \nThe fight against malaria is a big topic for this Seattle tweeter worth many billions",
+     "a": "Bill Gates",
+     "right": [
+      "Adam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 26,
+     "q": "This brand of soap was advertised, \"It floats\"",
+     "a": "Ivory",
+     "right": [
+      "Lee"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 5,
+     "q": "\"Letters from Egypt\" is a book of this future British nurse's letter while traveling on the Nile in 1850",
+     "a": "(Florence) Nightingale",
+     "right": [
+      "Adam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 9,
+     "q": "Call me this derisive term for an elderly man & see what happens",
+     "a": "a geezer",
+     "right": [
+      "Alex"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 21,
+     "q": "I'll have a Tom Collins, hold the seltzer, lemon juice & syrup--heck, just give me a glass of this",
+     "a": "gin",
+     "right": [
+      "Adam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 17,
+     "q": "David Farragut sent 1,500 soldiers in a nighttime assault on Fort Gaines to begin the Civil War battle of this bay",
+     "a": "Mobile",
+     "right": [
+      "Adam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 18,
+     "q": "29 million: \nThis \"Harry Potter\" actress is a champion for women both on & off screen",
+     "a": "Emma Watson",
+     "right": [
+      "Lee"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 14,
+     "q": "It's said that one of these \"lifts all boats\"",
+     "a": "a rising tide",
+     "right": [
+      "Adam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 6,
+     "q": "He wrote about a bus trip & other kinds of trips in 1968's \"The Electric Kool-Aid Acid Test\"",
+     "a": "(Tom) Wolfe",
+     "right": [
+      "Alex"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 10,
+     "q": "From the name of a movie monster, it's a woman who is obsessive about wedding planning",
+     "a": "a bridezilla",
+     "right": [
+      "Alex"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 22,
+     "q": "Dilute my bourbon with vermouth? Go straight to Hell's Kitchen! I didn't ask for one of these cocktails",
+     "a": "a Manhattan",
+     "right": [
+      "Alex"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 24,
+     "q": "In 1779 this \"Mad\" revolutionary led a daring midnight raid to take the fort at Stony Point",
+     "a": "(Anthony) Wayne",
+     "right": [
+      "Alex"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": true,
+     "order": 25,
+     "q": "27 million: \nThis rapper expanded \"Mr. 305\" (Miami's area code) to \"Mr. Worldwide\"",
+     "a": "Pitbull",
+     "right": [
+      "Alex"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2000
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 27,
+     "q": "Ask Robinson Crusoe--the dessert seen here is known as a floating this",
+     "a": "floating island",
+     "right": [
+      "Lee"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 7,
+     "q": "Alfred Lansing wrote \"Endurance\", about this man's 1915 escape from Antarctica",
+     "a": "Shackleton",
+     "right": [
+      "Adam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 11,
+     "q": "Containing a small scroll, it's put on door frames in Jewish homes",
+     "a": "a mezuzah",
+     "right": [
+      "Lee"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 23,
+     "q": "If you can handle this Italian stuff made from distilled grape seeds & skins, you're a better man than I am",
+     "a": "grappa",
+     "right": [
+      "Adam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "ASTRONOMY",
+    "FORMER SOVIET REPUBLICS",
+    "2018 HAPPENINGS",
+    "BRITISH PLAYS & PLAYWRIGHTS",
+    "MOVIE MUSIC",
+    "THE SHUSH DOCTRINE"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 19,
+     "q": "(Kelly of the Clue Crew shows Sagittarius on the monitor.) The constellation Sagittarius represents an archer, but its eight brightest stars are often depicted as one of these, with the Milky Way as the steam rising from the spout",
+     "a": "a teapot",
+     "right": [
+      "Alex"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 18,
+     "q": "It shares its name with a U.S. state",
+     "a": "Georgia",
+     "right": [
+      "Adam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 23,
+     "q": "A reported $600,000 fell out the back of a Brink's truck on the interstate in this Indiana capital, causing 1 or 2 traffic issues",
+     "a": "Indianapolis",
+     "right": [
+      "Adam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 25,
+     "q": "The working class characters in a 1957 John Osbourne play \"Look Back\" this title way at British society",
+     "a": "in anger",
+     "right": [
+      "Alex"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 26,
+     "q": "Last name of Carmine, who provided music for all 3 \"Godfather\" films--he may have had an in with the director",
+     "a": "Coppola",
+     "right": [
+      "Alex"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "There's a bivalve mollusk in this 2-word idiom meaning to become silent",
+     "a": "clam up",
+     "right": [
+      "Lee"
+     ],
+     "wrong": [
+      "Alex"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 20,
+     "q": "The first close-up images sent back to Earth from another planet were from a Russian probe on this planet in 1975",
+     "a": "Venus",
+     "right": [
+      "Adam"
+     ],
+     "wrong": [
+      "Alex"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 6,
+     "q": "Check it out--it's the national library of this country, which opened its doors in Minsk in 2006",
+     "a": "Belarus",
+     "right": [
+      "Adam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 16,
+     "q": "In the highest-scoring FIFA World Cup final in 52 years, this country prevailed 4-2",
+     "a": "France",
+     "right": [
+      "Alex"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 12,
+     "q": "A psychiatrist works to bring a young man back from the brink of madness in this beastly Peter Shaffer play",
+     "a": "Equus",
+     "right": [
+      "Alex"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 11,
+     "q": "Since 1974 John Williams has scored more than 25 films from this \"Minority Report\" director",
+     "a": "Spielberg",
+     "right": [
+      "Alex"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 2,
+     "q": "If you're reticent to speak, you \"wouldn't say\" this word meant to scare",
+     "a": "boo",
+     "right": [
+      "Adam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": true,
+     "order": 7,
+     "q": "This Zodiac constellation has only one bright star, Hamal--Arabic for \"sheep\"",
+     "a": "Aries",
+     "right": [
+      "Adam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 4000
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 3,
+     "q": "After Russia, this \"stan\" is the largest republic in area",
+     "a": "Kazakhstan",
+     "right": [
+      "Alex"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 17,
+     "q": "In 2018 this \"Sex & the City\" actress made a bid for New York governor",
+     "a": "Cynthia Nixon",
+     "right": [
+      "Adam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 13,
+     "q": "Peter Morgan's \"Frost/Nixon\" takes place during interviews in this year, 3 years after Nixon's resignation",
+     "a": "1977",
+     "right": [
+      "Alex"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 8,
+     "q": "This movie series featured the 4-note mockingjay call heard here",
+     "a": "The Hunger Games",
+     "right": [
+      "Alex"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 27,
+     "q": "A British WWII slogan punned, \"Be like Dad, keep\" this word for quiet",
+     "a": "mum",
+     "right": [
+      "Lee"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 21,
+     "q": "The 2 main types of optical telescopes are reflectors & these, which use lenses to magnify objects",
+     "a": "refractors",
+     "right": [
+      "Adam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 4,
+     "q": "The first republic alphabetically, it also claims to have been the first country to adopt Christianity as its official religion",
+     "a": "Armenia",
+     "right": [
+      "Alex"
+     ],
+     "wrong": [
+      "Adam"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 24,
+     "q": "Caught up in a sex scandal, the Swedish Academy announced it would not give this Nobel Prize in 2018",
+     "a": "Literature",
+     "right": [
+      "Alex"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 14,
+     "q": "In this Noel Coward play, a man's life is upended by the jealous ghost of his first wife",
+     "a": "Blithe Spirit",
+     "right": [],
+     "wrong": [
+      "Alex"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2000
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 9,
+     "q": "Mark Mothersbaugh of this \"Whip It\" group wrote the 1980s-sounding music for \"Thor: Ragnarok\"",
+     "a": "Devo",
+     "right": [
+      "Alex"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 28,
+     "q": "A sign on some restaurant tables, or a noncommunicative disposition",
+     "a": "reserved",
+     "right": [
+      "Adam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 22,
+     "q": "Undetected until the 1990s, this belt is a zone of space past 30 A.U. & home to objects like dwarf planets & icy centaurs",
+     "a": "the Kuiper Belt",
+     "right": [
+      "Adam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 5,
+     "q": "Kaunas & Marijampole are 2 of the counties or administrative divisions of this country",
+     "a": "Lithuania",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 29,
+     "q": "This major figure of Iran-Contra--actually, a lt. colonel figure--was named president of the NRA",
+     "a": "Oliver North",
+     "right": [
+      "Adam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 15,
+     "q": "You can see the second king of this name as a prince in \"Braveheart\", or see his downfall in a Christopher Marlowe play",
+     "a": "Edward",
+     "right": [
+      "Alex"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 10,
+     "q": "The director of \"The Third Man\" was entranced by a local playing this instrument & hired him to compose the score",
+     "a": "the zither",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 30,
+     "q": "This game, a forerunner of bridge, is also an interjection meaning \"Hush!\"",
+     "a": "whist",
+     "right": [
+      "Lee"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "U.S. CAPITOL ART",
+  "q": "Of the 23 lawgivers depicted on marble portraits over doors in the U.S. House chamber, he's the only one in the Bible",
+  "a": "Moses",
+  "right": [
+   "Lee",
+   "Alex"
+  ],
+  "wrong": [
+   "Adam"
+  ]
+ },
+ "gameId": "6120",
+ "cat_notes": {
+  "J": [
+   "Clues about Fort Night.",
+   "Clues at Least 20 Million Twitter Followers.",
+   "Clues about Let Us Float Something by You.",
+   "Clues about Travel Books.",
+   "Each answer contains the letter group “EZ”, and the clues are about This Is.",
+   "Clues about Here's the Hard Stuff."
+  ],
+  "DJ": [
+   "Clues about Astronomy.",
+   "Clues about Former Soviet Republics.",
+   "Clues about 2018 Happenings.",
+   "Clues about British Plays and Playwrights.",
+   "Clues about Movie Music.",
+   "Clues about The Shush Doctrine."
+  ],
+  "F": "Clues about U.S. Capitol Art."
+ }
+}

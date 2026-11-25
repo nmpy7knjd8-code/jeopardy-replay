@@ -1,0 +1,990 @@
+{
+ "show": "#7821",
+ "aired": "2018-09-17",
+ "note": "Kyle Jones game 4.",
+ "contestants": [
+  {
+   "name": "Reese Wallace",
+   "bio": "an editor from Orlando, Florida",
+   "short": "Reese"
+  },
+  {
+   "name": "Christine O'Donnell",
+   "bio": "a philanthropic advisor from Elmwood Park, New Jersey",
+   "short": "Christine"
+  },
+  {
+   "name": "Kyle Jones",
+   "bio": "a music teacher from Aurora, Colorado (whose 3-day cash winnings total $58,800)",
+   "short": "Kyle"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Kyle": 8800,
+   "Christine": 3600,
+   "Reese": 3200
+  },
+  "DJ": {
+   "Kyle": 17600,
+   "Christine": 9000,
+   "Reese": 12400
+  },
+  "Final": {
+   "Kyle": 24801,
+   "Christine": 2,
+   "Reese": 0
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "LETTUCE BEGIN",
+    "A BIT O' BRIT LIT",
+    "SHOW BOATS",
+    "COMPAN\"EE\"S",
+    "REGIONAL VOCABULARY",
+    "STATE SONGS"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 21,
+     "q": "We'll begin by washing the lettuce & drying it in this alliterative item",
+     "a": "a salad spinner",
+     "right": [
+      "Christine"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 26,
+     "q": "An alternate title of this Agatha Christie mystery was \"Murder in the Calais Coach\"",
+     "a": "Murder on the Orient Express",
+     "right": [
+      "Reese"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 16,
+     "q": "The S.S. Minnow, not long afloat",
+     "a": "Gilligan's Island",
+     "right": [
+      "Reese"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 11,
+     "q": "Ice cream compan\"ee\"s include Tastee Freez, Fosters Freeze & this regal one founded in 1940",
+     "a": "Dairy Queen",
+     "right": [
+      "Kyle"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 6,
+     "q": "In parts of the South, bapsousing means to do this by dunking",
+     "a": "baptizing",
+     "right": [
+      "Reese"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "\"The skyline piercing Providence, the state house dome so rare\"",
+     "a": "Rhode Island",
+     "right": [
+      "Kyle"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 22,
+     "q": "Lettuce begin with a wedge salad, traditionally made with a hunk of this crisp, cold lettuce",
+     "a": "iceberg",
+     "right": [
+      "Christine"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "This 14th century poet created the oft-widowed wife of Bath",
+     "a": "Chaucer",
+     "right": [
+      "Christine"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 17,
+     "q": "Sonny Crockett's boat, the St. Vitus Dance",
+     "a": "Miami Vice",
+     "right": [
+      "Christine"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 12,
+     "q": "A 1995 merger added \"Martin\" to the name of this aerospace company",
+     "a": "Lockheed",
+     "right": [
+      "Kyle"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 7,
+     "q": "In some places you ditch or skip; in Utah sluff is what you do if you don't go to this",
+     "a": "school",
+     "right": [
+      "Christine"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "\"God, in his great love and wisdom, made the rugged Granite State\"",
+     "a": "New Hampshire",
+     "right": [
+      "Kyle"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 23,
+     "q": "We'll dress our lettuce with extra virgin olive oil & this vinegar from Modena, Italy",
+     "a": "balsamic",
+     "right": [
+      "Kyle"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 28,
+     "q": "In a Thomas Hardy novel, this \"Obscure\" guy is warned that \"the Fawleys were not made for wedlock\"",
+     "a": "Jude",
+     "right": [
+      "Kyle"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 18,
+     "q": "A reality show debuting in 2005: \nA bunch of boats operating out of Dutch Harbor, Alaska",
+     "a": "the Deadliest Catch",
+     "right": [
+      "Kyle"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 13,
+     "q": "This chain's first drugstore opened in Chicago in 1901",
+     "a": "Walgreens",
+     "right": [
+      "Kyle"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 8,
+     "q": "A big-in-Wisconsin alternative to \"yard sale\" or \"garage sale\", it implies that you pick through the offerings",
+     "a": "rummage sale",
+     "right": [
+      "Kyle"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 3,
+     "q": "\"I love your old gray missions, love your vineyards stretching far\"",
+     "a": "California",
+     "right": [
+      "Kyle"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 24,
+     "q": "The owner of the Brown Derby in Hollywood got his name on this salad with lettuce, bacon, chicken, eggs & blue cheese",
+     "a": "a Cobb salad",
+     "right": [
+      "Kyle"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "In 1907 this Bombay-born Englishman who celebrated the empire won the Nobel Prize for Literature",
+     "a": "Kipling",
+     "right": [
+      "Reese"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 19,
+     "q": "The USS Nathan James, whose crew has survived a global pandemic",
+     "a": "The Last Ship",
+     "right": [
+      "Reese"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 14,
+     "q": "This seed seller says it never has & never will sell GMOs",
+     "a": "Burpee",
+     "right": [
+      "Christine"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 9,
+     "q": "In the Plains states, a black blizzard was one of these storms",
+     "a": "a dust storm",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": true,
+     "order": 4,
+     "q": "\"In its fair western home, may the columbine bloom til our great mountain rivers run dry\"",
+     "a": "Colorado",
+     "right": [
+      "Kyle"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1200
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 25,
+     "q": "Here's a bunch of this lettuce named for its soft texture",
+     "a": "butter lettuce",
+     "right": [
+      "Reese"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 30,
+     "q": "Arrr! He's the leader of the pirates in Robert Louis Stevenson's \"Treasure Island\"",
+     "a": "Long John Silver",
+     "right": [
+      "Kyle"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 20,
+     "q": "The Pacific Princess, exciting & new in 1977",
+     "a": "The Love Boat",
+     "right": [
+      "Christine"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 15,
+     "q": "In 1933 R.G. Dun & Company merged with this rival",
+     "a": "Bradstreet",
+     "right": [
+      "Christine"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 10,
+     "q": "Folks in Portland, Oregon may not go to the beach or to the shore but to this--presumably the left one",
+     "a": "the coast",
+     "right": [
+      "Kyle"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 5,
+     "q": "\"Tell me of that Treasure State, story always new, tell of its beauties grand and its hearts so true\"",
+     "a": "Montana",
+     "right": [],
+     "wrong": [
+      "Christine"
+     ],
+     "stumper": true,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "SPECIFIC GENERAL HISTORY",
+    "MAMMALS",
+    "RHYMING TERMS STARTING WITH \"H\"",
+    "STRIPES ON THE FLAG",
+    "JUST FOR REFERENCE",
+    "REINSTATE SONGS"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "A brigadier gen. at 23, he distinguished himself at Gettysburg, but things didn't go as well for him in the Montana territory",
+     "a": "Custer",
+     "right": [
+      "Reese"
+     ],
+     "wrong": [
+      "Kyle"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 26,
+     "q": "Beware of dog, especially this wild predator of Australia",
+     "a": "a dingo",
+     "right": [
+      "Reese"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 16,
+     "q": "The long-haired flower children of the 1960s were sometimes described this way",
+     "a": "hippie-dippie",
+     "right": [
+      "Christine"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 11,
+     "q": "The Gambia's flag has stripes of red, green & this color that represents the Gambia River",
+     "a": "blue",
+     "right": [
+      "Reese"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 4,
+     "q": "The history of this judicial body's work is on view at oyez.org",
+     "a": "the Supreme Court",
+     "right": [
+      "Christine"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 21,
+     "q": "In the title of a 1979 No. 1, Peaches & Herb were this, like East & West Germany 11 years later",
+     "a": "\"Reunited\"",
+     "right": [
+      "Christine"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 2,
+     "q": "This general got his 5th star in December 1944, but that wouldn't be his last government job",
+     "a": "Eisenhower",
+     "right": [
+      "Christine"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 27,
+     "q": "This largest South American member of the camel family makes a good guard animal for sheep & other livestock",
+     "a": "a llama",
+     "right": [
+      "Reese"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 17,
+     "q": "A magician might say these magic words",
+     "a": "hocus-pocus",
+     "right": [
+      "Kyle"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": true,
+     "order": 12,
+     "q": "Stripes were added for Vermont & Kentucky, so the star-spangled banner that flew over Fort McHenry had this many",
+     "a": "15",
+     "right": [
+      "Reese"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 3200
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 5,
+     "q": "This music trade magazine that dates back to 1894 has an online database of historical record charts",
+     "a": "Billboard",
+     "right": [
+      "Reese"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 22,
+     "q": "\"Oh, baby, give me one more chance\", the Jackson 5 sang in this plea, their first No. 1 hit",
+     "a": "\"I Want You Back\"",
+     "right": [
+      "Reese"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": true,
+     "order": 3,
+     "q": "Known by a \"colorful\" nickname, he got the rank of General of the Armies of the U.S. in September 1919",
+     "a": "\"Black Jack\" Pershing",
+     "right": [],
+     "wrong": [
+      "Christine"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1000
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 28,
+     "q": "In the 1920s the University of Michigan tried using a live pair of these as its mascots; not a great idea",
+     "a": "a wolverine",
+     "right": [
+      "Reese"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 18,
+     "q": "If the camera is moving around way too much, the image is said to be this; I'm getting sick",
+     "a": "herky-jerky",
+     "right": [
+      "Christine"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 13,
+     "q": "It's 3 times the fun--the flags of these 3 Baltic states all have 3 stripes",
+     "a": "Latvia, Lithuania, and Estonia",
+     "right": [
+      "Kyle"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 6,
+     "q": "In 2010 a reference work by this naturalist with 435 hand-colored prints sold for a record $11.5 million",
+     "a": "(John James) Audubon",
+     "right": [
+      "Kyle"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 24,
+     "q": "1, 2, 3, they gonna run back to her: \nElle King's former lovers all wanted to be reinstated in this 2015 hit",
+     "a": "\"Ex's and Oh's\"",
+     "right": [
+      "Reese"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 9,
+     "q": "In March 2018 this 3-star general advised the nation he'd no longer serve as national security advisor",
+     "a": "H.R. McMaster",
+     "right": [],
+     "wrong": [
+      "Reese"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 29,
+     "q": "Found at high elevations, it's the 4-letter rabbit & hare relative seen here",
+     "a": "a pika",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 19,
+     "q": "Quit looking at me that way! It's creepy & it's giving me these",
+     "a": "the heebie-jeebies",
+     "right": [
+      "Reese"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 14,
+     "q": "Used since 1790, France's tricolor may stand for the colors of Paris & this royal house",
+     "a": "house of Bourbon",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 7,
+     "q": "Examine 250,000 research studies on conditions from asthma to Zika at thesetrials.gov",
+     "a": "clinical",
+     "right": [
+      "Christine"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 23,
+     "q": "\"I just called to say I love you, come back home\", she duetted with Kid Rock in the 2002 hit \"Picture\"",
+     "a": "Sheryl Crow",
+     "right": [
+      "Christine"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 10,
+     "q": "He said overseeing writing of the war history in Europe in 1945 was like being an \"undertaker at my own funeral\"; it wasn't far off",
+     "a": "Patton",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 30,
+     "q": "Sadly, less than 30 years after it was discovered, Steller's this aquatic mammal was hunted to extinction",
+     "a": "a sea cow",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 20,
+     "q": "An adjective for a gadget that's extra useful & convenient",
+     "a": "handy-dandy",
+     "right": [
+      "Kyle"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 15,
+     "q": "Head toward central Asia & the far end of the alphabet to get to this former Soviet republic & now independent nation",
+     "a": "Uzbekistan",
+     "right": [
+      "Kyle"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 8,
+     "q": "What's another word for lexicon? Look one up in this landmark book of synonyms from 1852",
+     "a": "Roget's Thesaurus",
+     "right": [
+      "Kyle"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 25,
+     "q": "\"Got him back in my arms again, so satisfied\", sang this trio in a 1965 chart-topper",
+     "a": "The Supremes",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "20th CENTURY NOVELS",
+  "q": "\"I've killed my brother\" is said near the end of this 1952 book with a Biblical title & a plot echoing a Biblical story",
+  "a": "East of Eden",
+  "right": [
+   "Kyle"
+  ],
+  "wrong": [
+   "Christine",
+   "Reese"
+  ]
+ },
+ "gameId": "6102",
+ "cat_notes": {
+  "J": [
+   "Clues about Lettuce Begin.",
+   "Clues about A Bit O Brit Lit.",
+   "We'll give you the boat. You tell us the show.",
+   "Each answer contains the letter group “EE”, and the clues are about Compan S.",
+   "Clues about Regional Vocabulary.",
+   "And we want you, of course, to identify the state."
+  ],
+  "DJ": [
+   "Clues about Specific General History.",
+   "Clues about Mammals.",
+   "Each answer contains the letter “H”, and the clues are about Rhyming Terms Starting With.",
+   "Clues about Stripes on the Flag.",
+   "Clues about Just for Reference.",
+   "Clues about Reinstate Songs."
+  ],
+  "F": "Clues about 20th Century Novels."
+ }
+}

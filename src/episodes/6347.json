@@ -1,0 +1,994 @@
+{
+ "show": "#8026",
+ "aired": "2019-07-01",
+ "note": "",
+ "contestants": [
+  {
+   "name": "Debbie Kauffman",
+   "bio": "a university professor from Greeley, Colorado",
+   "short": "Debbie"
+  },
+  {
+   "name": "Josh Levit",
+   "bio": "a union organizer from Brighton, Massachusetts",
+   "short": "Josh"
+  },
+  {
+   "name": "E.J. Wolborsky",
+   "bio": "a freelance project manager from Brooklyn, New York (whose 3-day cash winnings total $66,700)",
+   "short": "E.J."
+  }
+ ],
+ "scores": {
+  "J": {
+   "E.J.": 4200,
+   "Josh": 7300,
+   "Debbie": 5000
+  },
+  "DJ": {
+   "E.J.": 13000,
+   "Josh": 17100,
+   "Debbie": 11800
+  },
+  "Final": {
+   "E.J.": 0,
+   "Josh": 8199,
+   "Debbie": 0
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "COMPLETES THE NONFICTION TITLE",
+    "WHIPS & CHAINS",
+    "NAME THAT \"OON\"",
+    "DANES",
+    "PATINKIN",
+    "HOMELAND"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 2,
+     "q": "By Mitch Albom: \n\"Tuesdays with ____\"",
+     "a": "Morrie",
+     "right": [
+      "E.J."
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 21,
+     "q": "Me-ouch! It's the implement seen here",
+     "a": "cat o' nine tails",
+     "right": [
+      "Debbie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 10,
+     "q": "It's a synonym for mogul or magnate",
+     "a": "a tycoon",
+     "right": [
+      "Josh"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 7,
+     "q": "In 1741 this man died on the island that would be named for him in the sea that would be named for him in the N. Pacific",
+     "a": "(Vitus) Bering",
+     "right": [
+      "Josh"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 26,
+     "q": "In this film Mandy Patinkin has the memorable lines \"Hello. My name is Inigo Montoya. You killed my father. Prepare to die\"",
+     "a": "The Princess Bride",
+     "right": [
+      "Debbie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 16,
+     "q": "South Africa is home to the Afrikaners, descendants of these people, from a Dutch word for \"farmer\"",
+     "a": "a Boer",
+     "right": [
+      "Josh"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 3,
+     "q": "Anthony Bourdain's \"Adventures in the Culinary Underbelly\": \n\"Kitchen ____\"",
+     "a": "confidential",
+     "right": [
+      "Debbie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 22,
+     "q": "Nuclear fission is an example of this type of self-sustaining process",
+     "a": "a chain reaction",
+     "right": [
+      "Debbie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 13,
+     "q": "A popular tourist spot, here's Iceland's Blue this",
+     "a": "lagoon",
+     "right": [
+      "Josh"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 8,
+     "q": "In 2017 Margrethe II knighted this Metallica drummer with the Order of the Dannebrog",
+     "a": "Lars Ulrich",
+     "right": [
+      "E.J."
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "Mandy Patinkin created the role of Che on Broadway in this musical set in Argentina",
+     "a": "Evita",
+     "right": [
+      "Debbie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 17,
+     "q": "It's the homeland of the Flemings & the Walloons",
+     "a": "Belgium",
+     "right": [
+      "Josh"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 4,
+     "q": "By James Watson, about the discovery of the structure of DNA: \n\"Double ____\"",
+     "a": "helix",
+     "right": [
+      "Debbie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 23,
+     "q": "With pathologist Howard Florey, biochemist Ernst Chain isolated & purified this antibiotic for general clinical use",
+     "a": "penicillin",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 14,
+     "q": "Various forms of this word appear more than 250 times in the novel \"Moby-Dick\"",
+     "a": "harpoon",
+     "right": [
+      "Debbie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 9,
+     "q": "Comedian Victor Borge's inflationary words turn this phrase into \"You look twoderful threenight\"",
+     "a": "you look wonderful tonight",
+     "right": [
+      "Debbie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 28,
+     "q": "Mandy won an Emmy for playing Dr. Jeffrey Geiger on this medical drama set in the city of his birth",
+     "a": "Chicago Hope",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 18,
+     "q": "The Maori, the first people to settle this country, make up only about 15% of the population today",
+     "a": "New Zealand",
+     "right": [
+      "Josh"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 5,
+     "q": "First published in 1972: \n\"Dr. ____ Diet Revolution\"",
+     "a": "Atkins",
+     "right": [
+      "Josh"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 24,
+     "q": "Whip & hip whip are maneuvers in this sport portrayed in the movie \"Whip It\"",
+     "a": "roller derby",
+     "right": [
+      "Debbie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 1,
+     "q": "This country flies the flag seen here",
+     "a": "Cameroon",
+     "right": [
+      "Debbie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 11,
+     "q": "We're just \"Mads\" for this actor who played a villain opposite Doctor Strange",
+     "a": "Mads Mikkelsen",
+     "right": [
+      "E.J."
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "Mandy played George in the original Broadway production of this musical with sets & costumes based on a Seurat painting",
+     "a": "Sunday in the Park with George",
+     "right": [
+      "E.J."
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": true,
+     "order": 19,
+     "q": "The Sinhalese are the majority people of this island nation",
+     "a": "Sri Lanka",
+     "right": [
+      "Josh"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2500
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 6,
+     "q": "A Pulitzer Prize-winning \"Biography of Cancer\": \n\"The Emperor of All ____\"",
+     "a": "maladies",
+     "right": [],
+     "wrong": [
+      "Debbie"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 25,
+     "q": "Bitcoin uses this technology as its transaction record",
+     "a": "blockchain",
+     "right": [
+      "E.J."
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 15,
+     "q": "If you insist on chewin' that tobacco, make sure to expel it into this bowl",
+     "a": "a spittoon",
+     "right": [
+      "Debbie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 12,
+     "q": "For this 19th century philosopher, \"Subjectivity... is truth\"",
+     "a": "Kierkegaard",
+     "right": [
+      "Josh"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 30,
+     "q": "Auggie, a boy with facial differences, goes to the school where Mandy is the kindhearted principal in this 2017 film",
+     "a": "Wonder",
+     "right": [
+      "Josh"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 20,
+     "q": "You'll spot a lot of non-canine Dalmatians in Dalmatia, mostly along the coast of this country",
+     "a": "Croatia",
+     "right": [
+      "E.J."
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "ACTION MOVIE STARS",
+    "5-LETTER WORDS",
+    "HOW ANGELIC",
+    "VILE QUOTES",
+    "\"V\" IN SCIENCE",
+    "QUEENS RULE!"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 10,
+     "q": "In this film, gunfighter Steve McQueen joins up with 6 others to defend a Mexican village from bandits",
+     "a": "The Magnificent Seven",
+     "right": [
+      "Josh"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 15,
+     "q": "A funeral song, or any mournful sound",
+     "a": "a dirge",
+     "right": [
+      "E.J."
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 26,
+     "q": "MLB's Angels aren't based in Los Angeles but in this nearby city",
+     "a": "Anaheim",
+     "right": [
+      "Josh"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 21,
+     "q": "In the book of this much-suffering Biblical man, he \"answered the Lord, and said, behold, I am vile\"",
+     "a": "Job",
+     "right": [
+      "Josh"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 11,
+     "q": "(Sarah of the Clue Crew holds two containers.) While it might appear that there's more fluid in the test tube than in the beaker, they actually have the exact same this--the amount of space they occupy",
+     "a": "volume",
+     "right": [
+      "Josh"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 4,
+     "q": "On October 1st, 1553 this \"Bloody\" monarch was crowned queen of England",
+     "a": "Mary I",
+     "right": [
+      "E.J."
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 3,
+     "q": "As Snake Plissken, this actor had to \"Escape from\" New York & Los Angeles",
+     "a": "(Kurt) Russell",
+     "right": [
+      "Josh"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 16,
+     "q": "Collective term for the style of furnishings of a home's interior",
+     "a": "decor",
+     "right": [
+      "E.J."
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 27,
+     "q": "On this continent's Kerepakupai Meru River, Angel Falls plummets 3,212 feet",
+     "a": "South America",
+     "right": [
+      "Debbie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 22,
+     "q": "This poetic lord wrote of \"vile assignations, and adulterous beds, elopements, broken vows, and hearts, and heads\"",
+     "a": "(Lord) Byron",
+     "right": [
+      "Debbie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 12,
+     "q": "Xylem & phloem in plants are part of this system dealing with food & water transportation",
+     "a": "vascular",
+     "right": [
+      "Josh"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 5,
+     "q": "Joan I was a 13th c. queen of Navarre, a land that controlled vital passes in these Franco-Spanish mountains",
+     "a": "the Pyrenees",
+     "right": [
+      "Debbie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 2,
+     "q": "This actor returns as Peter Parker in \"Spider-Man: Far From Home\", trying to enjoy a vacation while battling new foes in Europe",
+     "a": "Tom Holland",
+     "right": [],
+     "wrong": [
+      "E.J.",
+      "Josh"
+     ],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": true,
+     "order": 17,
+     "q": "Term for a feudal Anglo-Saxon or Scottish lord; Macbeth was one \"of Cawdor\"",
+     "a": "thane",
+     "right": [],
+     "wrong": [
+      "E.J."
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2000
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 28,
+     "q": "These 6-winged angels of the Bible are the highest ranked, above cherubim",
+     "a": "seraphim",
+     "right": [
+      "Debbie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 23,
+     "q": "An 18th c. quote says, \"A man who could make so vile\" this 3-letter play on words \"would not scruple to pick a pocket\"",
+     "a": "a pun",
+     "right": [
+      "Josh"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 13,
+     "q": "In vertebrate anatomy, it's the opposite of dorsal & means \"on the tummy side\"",
+     "a": "ventral",
+     "right": [
+      "Debbie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 6,
+     "q": "She reigned as queen of Castile from 1474 until her death in 1504",
+     "a": "Isabella",
+     "right": [
+      "E.J."
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 1,
+     "q": "It was Riggs, Murtaugh & Chris Rock as Detective Lee Butters in film number 4 in this series",
+     "a": "Lethal Weapon",
+     "right": [
+      "E.J."
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 18,
+     "q": "Worn in public by some Muslim women, it's a long, loose garment covering the body from head to feet",
+     "a": "a burka",
+     "right": [
+      "E.J."
+     ],
+     "wrong": [
+      "Debbie"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 29,
+     "q": "This German actress immortalized the song \"Falling In Love Again\" on screen in 1930's \"The Blue Angel\"",
+     "a": "Marlene Dietrich",
+     "right": [
+      "Debbie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 24,
+     "q": "In a 1941 speech, Churchill referred to a \"a vile race of\" these traitors, from the name of a Norwegian one",
+     "a": "quislings",
+     "right": [
+      "Josh"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 3000
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 14,
+     "q": "Eclipsing binaries are these types of stars that fluctuate in brightness",
+     "a": "variable",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 7,
+     "q": "Before she married France's Louis XVI & became queen, Marie-Antoinette was an archduchess of this country",
+     "a": "Austria",
+     "right": [
+      "Josh"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 9,
+     "q": "This actress' role in \"Salt\" as an accused spy for Russia was originally written for Tom Cruise",
+     "a": "Angelina Jolie",
+     "right": [
+      "E.J."
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 19,
+     "q": "It's a shallow bay; there's one of Benin",
+     "a": "the bight",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 30,
+     "q": "Something of a self-portrait, Eugene Gant is the hero of this 1929 Thomas Wolfe novel",
+     "a": "Look Homeward, Angel",
+     "right": [
+      "E.J."
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 25,
+     "q": "In \"A Passage to India\" by him, Adela thought \"Tears vile, a degradation more subtle than anything endured in the Marabar\"",
+     "a": "E.M. Forster",
+     "right": [
+      "Debbie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 20,
+     "q": "The outermost region of an atom where electron transfers occur is called this \"shell\"",
+     "a": "the valence",
+     "right": [
+      "Josh"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 8,
+     "q": "Born in Catania in the 14th century, Queen Maria of this island lost her kingdom but returned with a fleet & took it back",
+     "a": "Sicily",
+     "right": [
+      "E.J."
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "ON THE MAP",
+  "q": "9-letter name for an area of 10 million square miles--4/5 the size of Africa--but only about 120,000 square miles of it is dry land",
+  "a": "Polynesia",
+  "right": [],
+  "wrong": [
+   "Debbie",
+   "E.J.",
+   "Josh"
+  ]
+ },
+ "gameId": "6347",
+ "cat_notes": {
+  "J": [
+   "Clues about Completes the Nonfiction Title.",
+   "Clues about Whips and Chains.",
+   "Each answer ends with “OON”, and the clues are about Name That.",
+   "Clues about Danes.",
+   "Clues about Patinkin.",
+   "Clues about Homeland."
+  ],
+  "DJ": [
+   "Clues about Action Movie Stars.",
+   "Each answer is a 5-letter word.",
+   "Clues about How Angelic.",
+   "Clues about Vile Quotes.",
+   "Each answer contains the letter “V”, and the clues are about In Science.",
+   "The category “QUEENS RULE!” sets the theme — the clues follow that idea and any wordplay suggested by the title."
+  ],
+  "F": "Clues on the Map."
+ }
+}

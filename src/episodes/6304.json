@@ -1,0 +1,999 @@
+{
+ "show": "#8006",
+ "aired": "2019-06-03",
+ "note": "James Holzhauer game 33.  \r Emma Boettcher game 1. \r Emma Boettcher ends James's streak before he can break Ken Jennings's cash winnings total record.",
+ "contestants": [
+  {
+   "name": "Emma Boettcher",
+   "bio": "a user experience librarian from Chicago, Illinois",
+   "short": "Emma"
+  },
+  {
+   "name": "Jay Sexton",
+   "bio": "a senior research engineer from Atlanta, Georgia",
+   "short": "Jay"
+  },
+  {
+   "name": "James Holzhauer",
+   "bio": "a professional sports gambler from Las Vegas, Nevada (whose 32-day cash winnings total $2,462,216)",
+   "short": "James"
+  }
+ ],
+ "scores": {
+  "J": {
+   "James": 9000,
+   "Jay": 2600,
+   "Emma": 6400
+  },
+  "DJ": {
+   "James": 23400,
+   "Jay": 11000,
+   "Emma": 26600
+  },
+  "Final": {
+   "James": 24799,
+   "Jay": 17000,
+   "Emma": 46801
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "PICTURE THE IDIOM",
+    "LITERATURE",
+    "NESTS",
+    "JUKEBOX MUSICALS",
+    "NIXON SAID IT",
+    "I AM NOT A COOK"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 25,
+     "q": "For an optimistic view of things, take a look through these",
+     "a": "rose-colored glasses",
+     "right": [
+      "Emma"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 26,
+     "q": "Melville's \"Bartleby the Scrivener\" is subtitled \"A Story of\" this street of finance",
+     "a": "Wall Street",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 27,
+     "q": "Ahoy! It's a lookout perch atop a high mast",
+     "a": "a crow's nest",
+     "right": [
+      "Emma"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 28,
+     "q": "\"Escape to Margaritaville\":\nHim",
+     "a": "Jimmy Buffett",
+     "right": [
+      "Emma"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 29,
+     "q": "\"The American people don't believe anything's real until they see it\" here",
+     "a": "television",
+     "right": [
+      "Jay"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 30,
+     "q": "I'm not a cook, but I can sure toast up these Kellogg Company breakfast treats with the best of them",
+     "a": "Pop-Tarts",
+     "right": [
+      "Jay"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 24,
+     "q": "If you have these, it means you're well-organized",
+     "a": "your ducks in a row",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 23,
+     "q": "In a 1923 book by Kahlil Gibran, Almustafa is this mystical title character",
+     "a": "the Prophet",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 22,
+     "q": "Made in a series of varying sizes to fit one inside each other, matryoshka are \"nesting\" these from Russia",
+     "a": "dolls",
+     "right": [
+      "Jay"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 21,
+     "q": "\"Jersey Boys\":\nThem",
+     "a": "The Four Seasons",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 20,
+     "q": "Of his 1972 trip to this country, Nixon echoed the famous line \"We came in peace for all mankind\"",
+     "a": "China",
+     "right": [
+      "Emma"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 19,
+     "q": "I hum one of his country songs as I pop one of his protein-packed breakfast bowls into the microwave",
+     "a": "Jimmy Dean",
+     "right": [
+      "Jay"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 7,
+     "q": "It's what's going on here",
+     "a": "comparing apples & oranges",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 15,
+     "q": "In \"Charlotte's Web\", Templeton is this creature",
+     "a": "a rat",
+     "right": [
+      "Jay"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 16,
+     "q": "The creature that provides the marquee ingredient of this Chinese delicacy is endangered",
+     "a": "bird's nest soup",
+     "right": [
+      "Emma"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 14,
+     "q": "\"Beautiful\":\nThis singer-songwriter",
+     "a": "Carole King",
+     "right": [
+      "Emma"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 17,
+     "q": "In a 1960 debate Nixon said this man \"has asked for my advice... Sometimes my advice has been taken. Sometimes it has not\"",
+     "a": "Eisenhower (the President)",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 18,
+     "q": "I can't bake or mash a potato, so this alliterative Ore-Ida spud product that dates back to 1953 is a godsend to me",
+     "a": "tater tots",
+     "right": [
+      "Emma"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 6,
+     "q": "Greenhouse gas emission due to human activity leaves behind this",
+     "a": "a carbon footprint",
+     "right": [
+      "Jay"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 3,
+     "q": "In a novel Simone de Beauvoir depicted herself as Anne & this author of \"The Stranger\" as Henri",
+     "a": "(Albert) Camus",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 13,
+     "q": "Danny DeVito & Christopher Lloyd both had small parts as mental hospital inmates in this 1975 film",
+     "a": "One Flew Over the Cuckoo's Nest",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 12,
+     "q": "\"Movin' Out\":\nThis keyboard guy",
+     "a": "Billy Joel",
+     "right": [
+      "Emma"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 11,
+     "q": "In 1969 Nixon asked for the support of a \"silent majority of my fellow Americans\" in regard to this foreign affairs issue",
+     "a": "the Vietnam War",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 10,
+     "q": "I'm a wizard at breakfast with this cereal that now features a new marshmallow shaped like a magical unicorn",
+     "a": "Lucky Charms",
+     "right": [
+      "Emma"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 4,
+     "q": "Note the lovely weather; it means to take advantage of an opportunity",
+     "a": "make hay while the sun shines",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": true,
+     "order": 1,
+     "q": "The title peak of this Thomas Mann novel is home to a Swiss sanatorium",
+     "a": "The Magic Mountain",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1000
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 2,
+     "q": "Doesn't sound comfy, but several birds make nests in the giant saguaro cactus, including the Gila variety of this headbanger",
+     "a": "a woodpecker",
+     "right": [
+      "Emma"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 5,
+     "q": "\"Ain't Too Proud\":\nThis Motown group",
+     "a": "The Temptations",
+     "right": [
+      "Emma"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 8,
+     "q": "In his 1977 interviews with this British journalist, Richard Nixon said, \"I have impeached myself\"",
+     "a": "(David) Frost",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 9,
+     "q": "You don't want vegetables cooked by me--have them raw, as this French-named appetizer",
+     "a": "crudités",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "CAPITAL \"A\"",
+    "SCIENCE",
+    "POLITICAL PHILOSOPHY",
+    "SOMEWHAT HISTORICAL TV",
+    "SOVIETS NOT BORN IN RUSSIA",
+    "PLAYING A 3-4"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 26,
+     "q": "Add \"La Vella\" to the name of this Pyrenees country to get the full name of its capital",
+     "a": "Andorra",
+     "right": [
+      "Emma"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "This triangular object can make a mini-rainbow because different colors in light travel at different speeds in it",
+     "a": "a prism",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 28,
+     "q": "Paternalism is restricting freedom in our (supposed) best interests, like state taxes on these, which began in Iowa in 1921",
+     "a": "cigarettes",
+     "right": [],
+     "wrong": [
+      "Jay"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 23,
+     "q": "The premiere of this Netflix series sees Philip renounce his foreign titles & agree to a new one, Duke of Edinburgh",
+     "a": "The Crown",
+     "right": [
+      "Jay"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 29,
+     "q": "Lithuanian Sarunas Marciulionis was the first Soviet in this league when he joined the Warriors",
+     "a": "the NBA",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 30,
+     "q": "Proponents of this type of diet say cooking kills nutrients",
+     "a": "raw food",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": true,
+     "order": 4,
+     "q": "It's home to the annual United States Sailboat Show",
+     "a": "Annapolis",
+     "right": [
+      "Emma"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 7600
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 24,
+     "q": "(Mad?) scientists tried to make a frost-resistant tomato by adding a modified one of these taken from an Arctic flounder",
+     "a": "a gene",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 25,
+     "q": "Remove 2 letters from \"equality\" to get this, the idea of giving remedies to the less fortunate to ensure equality",
+     "a": "equity",
+     "right": [
+      "Jay"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 22,
+     "q": "This History Channel show finds the title northerners raiding Paris, which did happen back in the day",
+     "a": "Vikings",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 21,
+     "q": "In 2010 Gori, Georgia took down a statue honoring this once favorite son & moved it into a museum",
+     "a": "Stalin",
+     "right": [
+      "Emma"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 20,
+     "q": "It describes a management style where everything flows from the boss, or perhaps a ride in a convertible",
+     "a": "top-down",
+     "right": [
+      "Emma"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 3,
+     "q": "In 1664 the English changed its name from Beverwyck to this to honor James, Duke of it",
+     "a": "Albany",
+     "right": [
+      "Emma"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 8,
+     "q": "New solar & wind farms could bring this to the north of Africa, just like the song from Toto says",
+     "a": "rain",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 18,
+     "q": "Samuel Pufendorf, he's your friend when things get rough & in 1673 said a nation needs this document; the USA's founders listened",
+     "a": "a Constitution",
+     "right": [
+      "Emma"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 10,
+     "q": "Horror aside, \"The Terror\" tells of the HMS Terror, a real ship searching for this seafaring route",
+     "a": "the Northwest Passage",
+     "right": [
+      "Jay"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 16,
+     "q": "This man is born in Riga, Latvia in 1898--cut to him directing \"Battleship Potemkin\" less than 30 years later",
+     "a": "Eisenstein",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 19,
+     "q": "This style of design marked by geometric motifs & streamlined forms was all the rage in the 1920s & 1930s",
+     "a": "Art Deco",
+     "right": [
+      "Jay"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 2,
+     "q": "Called City of Churches, this capital of South Australia has the country's oldest Catholic cathedral",
+     "a": "Adelaide",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 6,
+     "q": "Some scientists think more than 95% of the universe is made up of what's called this \"energy\" & this \"matter\"",
+     "a": "dark",
+     "right": [
+      "Emma"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 17,
+     "q": "St. Augustine's \"City of God\" asks, without this quality of fairness, \"What are kingdoms but great bands of robbers?\"",
+     "a": "justice",
+     "right": [
+      "Jay"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 9,
+     "q": "Wyatt & Morgan Earp showed up on this HBO series & Wyatt told Seth Bullock of his lawman days in Dodge City",
+     "a": "Deadwood",
+     "right": [
+      "Jay"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 13,
+     "q": "Chess master Garry Kasparov's first move was made in Baku, now in this country",
+     "a": "Azerbaijan",
+     "right": [
+      "Emma"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 15,
+     "q": "A groaner from this family member--hey, what did the grape do when stepped on? It let out a little wine",
+     "a": "a dad joke",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 1,
+     "q": "The Dutch colonized this national capital in the 17th century, but the Dutch were Ghana by 1872",
+     "a": "Accra",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 7,
+     "q": "Nerve cells in your body have axons that are covered by what is called this sheath",
+     "a": "myelin",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": true,
+     "order": 14,
+     "q": "On book covers from GOP lawmakers Jason Chaffetz & Mike Lee is this phrase for the bureaucracy said to be working against democracy",
+     "a": "the deep state",
+     "right": [
+      "Emma"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 3000
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 5,
+     "q": "The final season of this FX series begins with episodes set before Reagan & Gorbachev's 1987 meeting",
+     "a": "The Americans",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 11,
+     "q": "This Ukrainian-born composer created \"Peter and the Wolf\"",
+     "a": "Prokofiev",
+     "right": [
+      "Jay"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 12,
+     "q": "This powerful type of adhesive is often dispensed with a gun",
+     "a": "hot glue",
+     "right": [
+      "Emma"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "SHAKESPEARE'S TIME",
+  "q": "The line \"a great reckoning in a little room\" in \"As You Like It\" is usually taken to refer to this author's premature death",
+  "a": "Christopher Marlowe",
+  "right": [
+   "Jay",
+   "James",
+   "Emma"
+  ],
+  "wrong": []
+ },
+ "gameId": "6304",
+ "cat_notes": {
+  "J": [
+   "Clues about Picture the Idiom.",
+   "Clues about Literature.",
+   "Clues about Nests.",
+   "Name the artist whose songs are the focus of each musical.",
+   "Clues about Nixon Said It.",
+   "The category “I AM NOT A COOK” sets the theme — the clues follow that idea and any wordplay suggested by the title."
+  ],
+  "DJ": [
+   "Each correct response will begin with that letter.",
+   "Clues about Science.",
+   "Clues about Political Philosophy.",
+   "Clues about Somewhat Historical TV.",
+   "Clues about Soviets Not Born in Russia.",
+   "Each correct response will be two words. The first word will have three letters. The second word will have four letters."
+  ],
+  "F": "Clues about Shakespeare's Time."
+ }
+}

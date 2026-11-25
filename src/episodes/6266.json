@@ -1,0 +1,992 @@
+{
+ "show": "#7973",
+ "aired": "2019-04-17",
+ "note": "James Holzhauer game 10. \r James sets a new single-day cash winnings record of $131,127.",
+ "contestants": [
+  {
+   "name": "Lorelle Anderson",
+   "bio": "a law librarian from Sanford, Florida",
+   "short": "Lorelle"
+  },
+  {
+   "name": "Hannah Pierson-Compeau",
+   "bio": "an IT product manager from Washington, D.C.",
+   "short": "Hannah"
+  },
+  {
+   "name": "James Holzhauer",
+   "bio": "a professional sports gambler from Las Vegas, Nevada (whose 9-day cash winnings total $566,660)",
+   "short": "James"
+  }
+ ],
+ "scores": {
+  "J": {
+   "James": 11400,
+   "Hannah": 1400,
+   "Lorelle": 3000
+  },
+  "DJ": {
+   "James": 71114,
+   "Hannah": 5000,
+   "Lorelle": 5400
+  },
+  "Final": {
+   "James": 131127,
+   "Hannah": 1000,
+   "Lorelle": 10700
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "PRESIDENTS BY DOG",
+    "POTATO SALAD",
+    "IN THE MIDDLE",
+    "CHILDREN'S BOOKS",
+    "MOVIE & TV TERMS",
+    "RHYME TIME"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 30,
+     "q": "His service dog Sully was seen by his casket in the U.S. Capitol in December 2018",
+     "a": "Bush 41",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 29,
+     "q": "Potato news is often found in the Idaho Statesman, this capital's newspaper since 1864",
+     "a": "Boise",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 28,
+     "q": "If you tally it up in sequence, this Bible book is between Leviticus & Deuteronomy",
+     "a": "Numbers",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 27,
+     "q": "(Sarah of the Clue Crew presents from the Eric Carle Museum in Amherst, MA.) The Eric Carle Museum displays \"The Wolf and the Dog\", one of the illustrations in Carle's book \"Twelve Tales from\" this ancient Greek author of fables",
+     "a": "Aesop",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 25,
+     "q": "It can be the sailors on a boat or the people working on a movie or TV show",
+     "a": "crew",
+     "right": [
+      "Hannah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 26,
+     "q": "A nursery rhyme pumpkin eater's units of measure",
+     "a": "Peter's meters",
+     "right": [
+      "Hannah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 22,
+     "q": "He had a dog named Grits he liked to skritch",
+     "a": "(Jimmy) Carter",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 21,
+     "q": "It's the anatomical name for the undeveloped buds on a potato's skin",
+     "a": "eyes",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 20,
+     "q": "In the name of a metropolitan statistical area, it's between Tampa & Clearwater",
+     "a": "St. Petersburg",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 14,
+     "q": "\"A God Buys Us Cheeseburgers\" is a chapter in \"The Lightning Thief\", book 1 about this kid \"& the Olympians\"",
+     "a": "Percy Jackson",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 24,
+     "q": "Collective term for the actors' costumes & the department that handles them",
+     "a": "wardrobe",
+     "right": [
+      "Lorelle"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 19,
+     "q": "Paddy grain cost",
+     "a": "rice price",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 15,
+     "q": "Buddy, his Lab, was struck & killed by a car in New York in 2002",
+     "a": "Clinton",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 16,
+     "q": "It's believed this explorer introduced potatoes into Ireland around 1585, the year he was knighted",
+     "a": "(Sir Walter) Raleigh",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 17,
+     "q": "Middle name of aviator Francis Powers or filmmaker F. Gray",
+     "a": "Gary",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": true,
+     "order": 13,
+     "q": "Dr. Seuss books with rhyming titles include \"Fox in Socks\" & this one that also has the line \"Dad is sad\"",
+     "a": "Hop on Pop",
+     "right": [
+      "Hannah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1000
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 23,
+     "q": "11-letter word for selecting an actor based only on appearance or previous roles",
+     "a": "typecasting",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 18,
+     "q": "An overconfident thoroughbred rider",
+     "a": "a cocky jockey",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 10,
+     "q": "This manly guy's dogs included Pete, a bull-y terrier",
+     "a": "Theodore Roosevelt",
+     "right": [
+      "Lorelle"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 11,
+     "q": "Heels in, heels out, repeat; that's the way to do this craze of a dance from the early 1960s",
+     "a": "the Mashed Potato",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 9,
+     "q": "After some back & forth, let's stipulate that it's traditionally No. 3 in Kubler-Ross' 5 stages of grief",
+     "a": "bargaining",
+     "right": [
+      "James"
+     ],
+     "wrong": [
+      "Hannah"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 12,
+     "q": "Crockett Johnson colored our world with his tale of this boy \"and the Purple Crayon\"",
+     "a": "Harold",
+     "right": [
+      "Hannah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 7,
+     "q": "Sounds fishy, but it's just the minimum pay approved by a union for a specific job",
+     "a": "scale",
+     "right": [
+      "Lorelle"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 8,
+     "q": "A tin pot for cooking or boiling water",
+     "a": "a metal kettle",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 1,
+     "q": "His Airedale, Laddie Boy, had his own chair at Cabinet meetings (Laddie kept his nose clean during Teapot Dome)",
+     "a": "(Warren) Harding",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 2,
+     "q": "Gary Sheffield's 509 taters aren't potatoes but slang for these",
+     "a": "home runs",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 3,
+     "q": "It was the \"E\" in H.E.W., the Cabinet department created in 1953",
+     "a": "Education",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 4,
+     "q": "A series of kids' books features this third grader with a rhyming name; her last name also hints at her many emotions",
+     "a": "Judy Moody",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 6,
+     "q": "Ordinal term for the group that shoots crowd scenes, exteriors or other footage usually without the actors or director",
+     "a": "second unit",
+     "right": [
+      "Lorelle"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 5,
+     "q": "Ms. Doe without her makeup",
+     "a": "plain Jane",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "IT'S GOOD TO SEE YOU!",
+    "ABBREVIATED MAGAZINES",
+    "BRAVING THE ELEMENTS",
+    "5, 5",
+    "MUSIC \"MAN\"",
+    "TROUBLE IN RIVER CITY"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 30,
+     "q": "Before his untimely death, he helped popularize martial arts movies",
+     "a": "Bruce Lee",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 29,
+     "q": "With sections called \"Leading Off\" & \"Scorecard\": \nSI",
+     "a": "Sports Illustrated",
+     "right": [
+      "Lorelle"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 28,
+     "q": "The Latin word for iron gives it this elemental symbol",
+     "a": "Fe",
+     "right": [
+      "Hannah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 25,
+     "q": "Wonder bakes loaves of this, also an adjective meaning bland",
+     "a": "white bread",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 26,
+     "q": "25 years after Percy Sledge, Michael Bolton also had a No. 1 hit with this song",
+     "a": "\"When A Man Loves A Woman\"",
+     "right": [
+      "Lorelle"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "Early in 2018, Paris was on alert as this river's banks became swollen with flood waters",
+     "a": "the Seine",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 15,
+     "q": "Here's this film producer introducing two dog characters--a mutt & a cocker spaniel",
+     "a": "Walt Disney",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 23,
+     "q": "Decorating & household tips, recipes & more from the woman who knows it all: \nMSL",
+     "a": "Martha Stewart Living",
+     "right": [
+      "Hannah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 9,
+     "q": "Bearing the name of a Greek god, this radioactive element was the second transuranium element discovered",
+     "a": "plutonium",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 24,
+     "q": "Traffic signal term that also means permission to proceed on a project",
+     "a": "green light",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": true,
+     "order": 20,
+     "q": "Tammy Wynette said she spent 15 minutes writing this song about devotion & a lifetime defending it",
+     "a": "\"Stand By Your Man\"",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 25000
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 5,
+     "q": "Even though pollution levels are high, Kolkata residents bathe in the Hugli, an arm of this holy river of Hinduism",
+     "a": "the Ganges",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 10,
+     "q": "Here's a playful photo of this author of \"Breakfast at Tiffany's\"",
+     "a": "(Truman) Capote",
+     "right": [
+      "Hannah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 1,
+     "q": "Showcasing innovative homes & design since 1920: \nAD",
+     "a": "Architectural Digest",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 6,
+     "q": "Nuclear fission was confirmed when this element, symbol Ba, was produced by zapping uranium with neutrons",
+     "a": "barium",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 13,
+     "q": "Mus musculus--it's the rhyming name of the rodent seen here",
+     "a": "house mouse",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 17,
+     "q": "Johnny Cash wrote this song to explain his sartorial choices",
+     "a": "\"Man In Black\"",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 2,
+     "q": "\"Blue\" in a Strauss waltz, in reality it's a different hue altogether when it reaches Budapest",
+     "a": "the Danube",
+     "right": [
+      "Hannah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 11,
+     "q": "He was the earliest president to be photographed, though by then he was serving in Congress",
+     "a": "John Quincy Adams",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 22,
+     "q": "It celebrates the culture, cuisine & beauty of Dixieland:\nSL",
+     "a": "Southern Living",
+     "right": [
+      "Lorelle"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 7,
+     "q": "Used to make lenses, lutetium is one of these \"uncommmon\" metals",
+     "a": "rare earth",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 14,
+     "q": "It's the smart-sounding name for a group of experts who serve unofficially as advisers; FDR had his own",
+     "a": "brain trust",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 11914
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 18,
+     "q": "This song by Salt-n-Pepa says their fella has \"a body like Arnold with a Denzel face\"",
+     "a": "\"Whatta Man\"",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 3,
+     "q": "This Southwest city is rehabilitating the wetlands of the Tres Rios area (the Gila, the Salt & the Agua Fria) just to its west",
+     "a": "Phoenix",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 12,
+     "q": "Prior to the Battle of the Little Bighorn, this Sioux chief had a vision of soldiers falling like grasshoppers",
+     "a": "Sitting Bull",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 21,
+     "q": "It's the top resource for all things Xbox, Wii, Playstation, etc: \nGI",
+     "a": "Game Informer",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 8,
+     "q": "It was identified in 1828 & named for a Norse deity, long before it was found to be a nuclear fuel",
+     "a": "thorium",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 16,
+     "q": "This software program for formatting movie & TV scripts has been around since 1990",
+     "a": "Final Draft",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 19,
+     "q": "A Pearl Jam song says, \"She lies and says she's in love with him, can't find a\" this, the song's title",
+     "a": "\"Better Man\"",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 4,
+     "q": "Herodotus said this river originated near Feneos in Greece; Dante placed in the fifth circle",
+     "a": "the Styx",
+     "right": [
+      "James"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "20th CENTURY LITERARY CHARACTERS",
+  "q": "His first name refers to the ancient district in which you'd find the Greek capital; his surname is a bird",
+  "a": "Atticus Finch",
+  "right": [
+   "Lorelle",
+   "James"
+  ],
+  "wrong": [
+   "Hannah"
+  ]
+ },
+ "gameId": "6266",
+ "cat_notes": {
+  "J": [
+   "We'll give you the dog.",
+   "Clues about Potato Salad.",
+   "Clues in the Middle.",
+   "Clues about Children's Books.",
+   "Clues about Movie and TV Terms.",
+   "Each answer is a rhyming word or phrase."
+  ],
+  "DJ": [
+   "The category “IT'S GOOD TO SEE YOU!” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "Clues about Abbreviated Magazines.",
+   "Clues about Braving the Elements.",
+   "Each response is made up of two 5-letter words.",
+   "Each answer contains the letter group “MAN”, and the clues are about Music.",
+   "Clues about Trouble in River City."
+  ],
+  "F": "Clues about 20th Century Literary Characters."
+ }
+}

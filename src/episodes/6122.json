@@ -1,0 +1,1005 @@
+{
+ "show": "#7838",
+ "aired": "2018-10-10",
+ "note": "",
+ "contestants": [
+  {
+   "name": "Chris Wong",
+   "bio": "a software engineer from Alexandria, Virginia",
+   "short": "Chris"
+  },
+  {
+   "name": "Mary Adolph",
+   "bio": "a behavior analyst from Austin, Texas",
+   "short": "Mary"
+  },
+  {
+   "name": "Alex Schmidt",
+   "bio": "a writer and comedian from Pasadena, California (whose 2-day cash winnings total $39,679)",
+   "short": "Alex"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Alex": 8200,
+   "Mary": 1800,
+   "Chris": 3400
+  },
+  "DJ": {
+   "Alex": 25200,
+   "Mary": 5400,
+   "Chris": 7800
+  },
+  "Final": {
+   "Alex": 25200,
+   "Mary": 50,
+   "Chris": 10960
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "HELLO!",
+    "I COMPOSED IT",
+    "\"M\" & EMMYS",
+    "COMPOUND WORDS",
+    "HISTORY",
+    "BIG PHARMA"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 20,
+     "q": "Logically, this is the Spanish-language version of the British magazine \"Hello!\"",
+     "a": "¡Hola!",
+     "right": [
+      "Mary"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 6,
+     "q": "Published in 1725, \"The Four Seasons\"",
+     "a": "Vivaldi",
+     "right": [
+      "Alex"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "Show creator Diane English won an Emmy for writing the pilot of this series that starred Candice Bergen",
+     "a": "Murphy Brown",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 12,
+     "q": "It's the term for the municipality where you were born & raised",
+     "a": "hometown",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [
+      "Alex",
+      "Mary"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 11,
+     "q": "The Equal Franchise Act of 1928 allowed this right to all British women 21 & over",
+     "a": "suffrage (or voting)",
+     "right": [
+      "Mary"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 30,
+     "q": "Pfounded in 1849, this pharma giant was added to the Dow Jones Industrial Average in 2004",
+     "a": "Pfizer",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 21,
+     "q": "A doorbell begins \"Hello!\", the opening number for this hit 2011 religious-themed Broadway musical",
+     "a": "Book of Mormon",
+     "right": [
+      "Mary"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 7,
+     "q": "\"Swan Lake\", the first of 3 ballets with my music",
+     "a": "Tchaikovsky",
+     "right": [
+      "Mary"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "In 2000 & again in 2006, she won for her supporting role on \"Will & Grace\"",
+     "a": "Megan Mullally",
+     "right": [
+      "Mary"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 13,
+     "q": "Jeff Foxworthy might say you're one of these if you think Sherlock Holmes is a secure housing area",
+     "a": "a redneck",
+     "right": [
+      "Mary"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 16,
+     "q": "In 1931 the only dirigible to dock at this NYC building had a rough time, ending that idea",
+     "a": "the Empire State Building",
+     "right": [
+      "Alex"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 25,
+     "q": "TV hasn't been the same since this government agency relaxed its rules on prescription drug marketing in 1997",
+     "a": "the FDA",
+     "right": [
+      "Alex"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 22,
+     "q": "Created in 1974, this Japanese character epitomizes the cuteness culture called \"Kawaii\"",
+     "a": "Hello Kitty",
+     "right": [
+      "Alex"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 8,
+     "q": "Piano compositions with ethnic pride: \n\"Hungarian Rhapsodies\", 19 of them",
+     "a": "Liszt",
+     "right": [
+      "Alex"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 3,
+     "q": "Co-creator Paul Reiser went home empty-handed, but TV wife Helen Hunt won 4 Emmys for this '90s sitcom",
+     "a": "Mad About You",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 14,
+     "q": "This type of traffic lane is fairly new to China, hence the motorcycle cops keeping an eye on it",
+     "a": "a carpool lane",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 17,
+     "q": "In 1949 the Kuomintang party fled mainland China for this island",
+     "a": "Taiwan",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 26,
+     "q": "The Eli who founded this big pharma biggie in 1876 was a former Union army colonel",
+     "a": "Lilly",
+     "right": [
+      "Alex"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 23,
+     "q": "This co. that has let people say \"hello\" for almost 140 years now has a youthful social media studio called Hello Lab",
+     "a": "AT&T",
+     "right": [],
+     "wrong": [
+      "Alex"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 9,
+     "q": "The 1904 opera \"Madama Butterfly\"",
+     "a": "Puccini",
+     "right": [
+      "Alex"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 4,
+     "q": "She did a great job playing Mary Richards, winning 4 Emmys",
+     "a": "Mary Tyler Moore",
+     "right": [
+      "Alex"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 15,
+     "q": "The stuff you'll gradually learn about a movie or TV character's prior life; flashbacks can fill it in",
+     "a": "a backstory",
+     "right": [
+      "Alex"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 18,
+     "q": "In the 1600s this Japanese class largely became bureaucrats, but still got to carry 2 swords",
+     "a": "the samurais",
+     "right": [
+      "Alex"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 27,
+     "q": "A drug in development from big pharma is \"in\" this word that's also an object used by big oil",
+     "a": "in the pipeline",
+     "right": [],
+     "wrong": [
+      "Alex"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 29,
+     "q": "Co-created by Zooey Deschanel, this lifestyle website had the last laugh in 2015 when Time, Inc. bought it out",
+     "a": "HelloGiggles",
+     "right": [
+      "Alex"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 10,
+     "q": "Commissioned by England's King George II, \"Music for the Royal Fireworks\"",
+     "a": "Handel",
+     "right": [
+      "Alex"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": true,
+     "order": 5,
+     "q": "In 2014 Allison Janney won 2 Emmys: one for this sitcom & one for this drama about Masters & Johnson",
+     "a": "Mom and Masters of Sex",
+     "right": [
+      "Alex"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1000
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 24,
+     "q": "Compound word you're wearing if you've put on a Tag Heuer Connected Modular",
+     "a": "smartwatch",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 19,
+     "q": "Born in Italy, he helped prep the ships for Columbus' second & third voyagers before setting to sea himself",
+     "a": "Vespucci",
+     "right": [
+      "Mary"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 28,
+     "q": "Biotech giant Amgen was founded in 1980 as Applied Molecular this",
+     "a": "genetics",
+     "right": [
+      "Alex"
+     ],
+     "wrong": [
+      "Mary"
+     ],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "TO START WITH, GET \"OUT\"",
+    "AVIATION",
+    "JACK & THE FIEND STALK",
+    "THE END OF THE ROAD",
+    "MOVIE BY MacGUFFIN",
+    "BIG FARMER"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 11,
+     "q": "A power failure",
+     "a": "an outage",
+     "right": [
+      "Alex"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 15,
+     "q": "It was a Sea Knight one of these that left Saigon with Ambassador Martin, ending U.S. involvement in Vietnam",
+     "a": "a helicopter",
+     "right": [
+      "Alex"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 6,
+     "q": "In this book Jack is the fiend who uses fear of an unknown beast to manipulate the other kids on the island",
+     "a": "Lord of the Flies",
+     "right": [
+      "Alex"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 30,
+     "q": "The west end of U.S. Interstate 10 is in this state",
+     "a": "California",
+     "right": [
+      "Mary"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "Alfred Hitchcock defined the MacGuffin as the item everyone is after, like the microfilm in this Cary Grant film",
+     "a": "North by Northwest",
+     "right": [
+      "Alex"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 29,
+     "q": "Around 1900 strongman Louis Cyr held 2 of these pulling in opposite directions; one later came to work on his farm",
+     "a": "horses",
+     "right": [],
+     "wrong": [
+      "Mary"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 12,
+     "q": "An eruption or epidemic",
+     "a": "an outbreak",
+     "right": [
+      "Alex"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 28,
+     "q": "The oldest method of launching these soaring craft also called sailplanes is with the bungee, a sort of catapult",
+     "a": "a glider",
+     "right": [
+      "Alex"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 7,
+     "q": "A man trying to blow up the Red October sub from within does not fare well against this Tom Clancy hero",
+     "a": "Jack Ryan",
+     "right": [
+      "Mary"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 27,
+     "q": "The east end of U.S. Interstate 10 is in this state",
+     "a": "Florida",
+     "right": [
+      "Alex"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 2,
+     "q": "1994: \nMarsellus Wallace's briefcase",
+     "a": "Pulp Fiction",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 26,
+     "q": "Imposing farmer Lee Jones promotes sustainability clad in red bow tie & of course, this classic farmer's garment",
+     "a": "overalls",
+     "right": [
+      "Mary"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 13,
+     "q": "Type of portable motor at the stern of a boat",
+     "a": "an outboard motor",
+     "right": [
+      "Alex"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": true,
+     "order": 21,
+     "q": "The \"A\" in the plane called the A380 is for this company with a more terrestrial type of transport in its name",
+     "a": "Airbus",
+     "right": [],
+     "wrong": [
+      "Mary"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2000
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 8,
+     "q": "Buck the sled dog finds the Yeehat Indians who killed his master & takes vengeance in this Jack London tale",
+     "a": "Call of the Wild",
+     "right": [],
+     "wrong": [
+      "Alex"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 17,
+     "q": "This arch is at the southeast end of Paris' Avenue de la Grande-Armee",
+     "a": "Arc de Triomphe",
+     "right": [
+      "Alex"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 3,
+     "q": "2016: \nThe heart of Te Fiti, stolen by Maui",
+     "a": "Moana",
+     "right": [
+      "Mary"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 20,
+     "q": "6'3\", 320-lb. Jason Brown made news in 2012 when he quit this lucrative career to farm sweet potatoes",
+     "a": "football player",
+     "right": [
+      "Mary"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 14,
+     "q": "Aussie tourism officials want you to know \"you haven't been Down Under till you've been\" here",
+     "a": "the Outback",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 22,
+     "q": "This Soviet-era design bureau that gave its name to the USSR's first jet fighter is still building planes",
+     "a": "MiG",
+     "right": [
+      "Alex"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 9,
+     "q": "In \"Worth Dying For\", this 6'5\", 250-lb. Lee Child action hero makes life very difficult for the evil Duncan boys",
+     "a": "Jack Reacher",
+     "right": [
+      "Alex"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 18,
+     "q": "On the east, London's Horse Guards Avenue ends at the embankment named for her",
+     "a": "Victoria",
+     "right": [
+      "Alex"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 4,
+     "q": "1942: \nLetters of transit through Nazi-guarded territory",
+     "a": "Casablanca",
+     "right": [
+      "Mary"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 23,
+     "q": "He was known as \"Long Tom\" & also as \"The Worst Farmer in Virginia\" for his constant failed efforts to grow new crops",
+     "a": "Thomas Jefferson",
+     "right": [
+      "Alex"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1000
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 16,
+     "q": "In \"Through the Looking-Glass\", Mome Raths do it",
+     "a": "outgrabe",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 25,
+     "q": "The B-17 bomber was known by this alliterative term, battling anti-aircraft fire to deliver its payload",
+     "a": "the Flying Fortress",
+     "right": [
+      "Alex"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 10,
+     "q": "Captain Jack Aubrey takes on the slave trade in the Gulf of Guinea in \"The Commodore\" by this author",
+     "a": "(Patrick) O'Brian",
+     "right": [
+      "Alex"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 19,
+     "q": "The south end of Frankfurt's Schutzenstrasse takes you to this river, a Rhine tributary",
+     "a": "the Main",
+     "right": [],
+     "wrong": [
+      "Mary"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 5,
+     "q": "A 2007 Coen brothers film: \n$2 million from a drug deal gone bad in west Texas",
+     "a": "No Country for Old Men",
+     "right": [
+      "Mary"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 24,
+     "q": "This tall Army sergeant who became a WWI hero was presented with a farm by the state of Tennessee",
+     "a": "(Alvin) York",
+     "right": [
+      "Alex"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "MYTHOLOGICAL HEROES",
+  "q": "The second half of his service to Eurystheus took him to 6 different places, like Crete, Thrace & the Underworld",
+  "a": "Hercules",
+  "right": [
+   "Chris",
+   "Alex"
+  ],
+  "wrong": [
+   "Mary"
+  ]
+ },
+ "gameId": "6122",
+ "cat_notes": {
+  "J": [
+   "The category “HELLO!” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "The category “I COMPOSED IT” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "Each answer starts with “M”, and the clues are about And Emmys.",
+   "Clues about Compound Words.",
+   "Clues about History.",
+   "Clues about Big Pharma."
+  ],
+  "DJ": [
+   "\"OUT\" will begin each correct response.",
+   "Clues about Aviation.",
+   "Clues about Jack and the Fiend Stalk.",
+   "Clues about The End of the Road.",
+   "Clues about Movie by Macguffin.",
+   "Clues about Big Farmer."
+  ],
+  "F": "Clues about Mythological Heroes."
+ }
+}
