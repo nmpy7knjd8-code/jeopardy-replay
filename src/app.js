@@ -13,17 +13,61 @@ const CATALOG=EPISODES;
 const epParam=Q.get('ep');
 let SHOW=CATALOG.find(e=>e.gameId===epParam)||CATALOG[+epParam]||CATALOG[0];
 let pick=Math.max(0,CATALOG.findIndex(e=>e.gameId===SHOW.gameId));
-const G={score:0,rawScore:0,state:'intro',round:'J',used:new Set(),curCol:-1,stay:0,timers:[],stateAt:0,
+const G={score:0,rawScore:0,coryat:0,state:'intro',round:'J',used:new Set(),curCol:-1,stay:0,timers:[],stateAt:0,
  roundScores:{},clue:null,lockedUntil:0,openAt:0,sound:true,history:[],skipped:null,paused:false,pauseAt:0,voiceMute:(()=>{try{return localStorage.getItem('jr-voice-mute')==='1'}catch(e){return false}})()};
-function readPlayed(){try{return JSON.parse(localStorage.getItem('jr-played')||'{}')}catch(e){return{}}}
-function savePlayed(id,score,raw){
+function migratePlayed(rec){
+  if(!rec||typeof rec!=='object')return rec;
+  if(Array.isArray(rec.plays)&&rec.plays.length)return summarizePlayed(rec);
+  const adj=rec.last!=null?rec.last:rec.best;
+  if(adj==null&&!rec.finished)return rec;
+  const raw=rec.lastRaw!=null?rec.lastRaw:(rec.bestRaw!=null?rec.bestRaw:adj);
+  rec.plays=[{date:rec.date||new Date().toISOString(),raw,adj,trueScore:rec.lastTrue??null,coryat:rec.lastCoryat??null}];
+  return summarizePlayed(rec);
+}
+function summarizePlayed(rec){
+  const plays=(rec.plays||[]).slice();
+  let best=null,bestRaw=null,bestTrue=null,bestCoryat=null;
+  for(const p of plays){
+    if(p.adj!=null)best=best==null?p.adj:Math.max(best,p.adj);
+    if(p.raw!=null)bestRaw=bestRaw==null?p.raw:Math.max(bestRaw,p.raw);
+    if(p.trueScore!=null)bestTrue=bestTrue==null?p.trueScore:Math.max(bestTrue,p.trueScore);
+    if(p.coryat!=null)bestCoryat=bestCoryat==null?p.coryat:Math.max(bestCoryat,p.coryat);
+  }
+  const latest=[...plays].sort((a,b)=>(b.date||'').localeCompare(a.date||''))[0];
+  return Object.assign({},rec,{
+    finished:true,plays,
+    last:latest?latest.adj:rec.last,lastRaw:latest?latest.raw:rec.lastRaw,
+    lastTrue:latest&&latest.trueScore!=null?latest.trueScore:null,
+    lastCoryat:latest&&latest.coryat!=null?latest.coryat:null,
+    best,bestRaw,bestTrue,bestCoryat,
+    date:latest?latest.date:rec.date
+  });
+}
+function readPlayed(){
+  try{
+    const all=JSON.parse(localStorage.getItem('jr-played')||'{}');
+    let changed=false;
+    for(const id of Object.keys(all)){
+      const p=all[id];
+      if(!p||typeof p!=='object')continue;
+      if(!Array.isArray(p.plays)){all[id]=migratePlayed(p);changed=true}
+    }
+    if(changed)try{localStorage.setItem('jr-played',JSON.stringify(all))}catch(e){}
+    return all;
+  }catch(e){return{}}
+}
+function savePlayed(id,score,raw,more){
   if(AUTO||FAST)return;
   try{
-    const all=readPlayed(),prev=all[id]||{};
-    const best=prev.best!=null?Math.max(prev.best,score):score;
     const rawV=raw==null?score:raw;
-    const bestRaw=prev.bestRaw!=null?Math.max(prev.bestRaw,rawV):rawV;
-    all[id]={last:score,best,lastRaw:rawV,bestRaw,date:new Date().toISOString(),finished:true};
+    const play={
+      date:new Date().toISOString(),raw:rawV,adj:score,
+      trueScore:more&&more.trueScore!=null?more.trueScore:(G.trueScore!=null?G.trueScore:null),
+      coryat:more&&more.coryat!=null?more.coryat:(G.coryat!=null?G.coryat:null)
+    };
+    const all=readPlayed(),prev=migratePlayed(all[id]||{})||{};
+    const plays=(prev.plays||[]).concat([play]);
+    all[id]=summarizePlayed(Object.assign({},prev,{plays,finished:true}));
     localStorage.setItem('jr-played',JSON.stringify(all));
   }catch(e){}
 }
@@ -83,7 +127,7 @@ function saveProgress(){
   try{
     const st=saveStateName();
     const sv={
-      v:SAVE_VER,id:SHOW.gameId,round:G.round,used:[...G.used],score:G.score,rawScore:G.rawScore||0,
+      v:SAVE_VER,id:SHOW.gameId,round:G.round,used:[...G.used],score:G.score,rawScore:G.rawScore||0,coryat:G.coryat||0,
       roundScores:Object.assign({},G.roundScores),curCol:G.curCol,stay:G.stay,
       skipped:G.skipped||null,rng:RNG.s,state:st,
       clue:G.clue?{c:G.clue.c,r:G.clue.r}:null,
@@ -99,12 +143,12 @@ function lookupClue(sv){
   return SHOW.rounds[sv.round].clues.find(c=>c.c===sv.clue.c&&c.r===sv.clue.r)||null;
 }
 function resetPlay(){
-  G.score=0;G.rawScore=0;G.roundScores={};G.clue=null;G.pending=null;G.wager=undefined;G.final=null;G.last=null;
+  G.score=0;G.rawScore=0;G.coryat=0;G.roundScores={};G.clue=null;G.pending=null;G.wager=undefined;G.final=null;G.last=null;
   G.skipped=null;G.history=[];G.used=new Set();G.curCol=-1;G.stay=0;
   RNG.seed(((Math.random()*0xFFFFFFFF)|0)>>>0||1);
 }
 function applyProgress(sv){
-  G.score=sv.score;G.rawScore=sv.rawScore!=null?sv.rawScore:sv.score;G.round=sv.round;G.used=new Set(sv.used);
+  G.score=sv.score;G.rawScore=sv.rawScore!=null?sv.rawScore:sv.score;G.coryat=sv.coryat||0;G.round=sv.round;G.used=new Set(sv.used);
   G.curCol=sv.curCol??-1;G.stay=sv.stay||0;
   G.roundScores=Object.assign({},sv.roundScores||{});
   G.skipped=sv.skipped||null;G.wager=sv.wager;G.final=sv.final||null;G.last=null;
@@ -618,9 +662,14 @@ function intro(){
   closeCatNote();clearTimers();setPaused(false);setState('intro');setLights(null);hud.classList.add('hide');
   const played=readPlayed();
   const fmt=e=>new Date(e.aired+'T12:00:00').toLocaleDateString('en-US',{month:'short',day:'numeric'});
+  const fmtPlay=iso=>{
+    try{return new Date(iso).toLocaleDateString('en-US',{month:'short',day:'numeric',year:'numeric'})}catch(e){return ''}
+  };
   const seasons=[...new Set(CATALOG.map(e=>e.season))].sort((a,b)=>b-a);
   if(pick==null || pick>=CATALOG.length) pick=0;
   let season=CATALOG[pick].season;
+  let tab=(()=>{try{const t=localStorage.getItem('jr-picker-tab');if(t==='progress'||t==='finished'||t==='all')return t}catch(e){}return 'all'})();
+  function saveTab(t){tab=t;try{localStorage.setItem('jr-picker-tab',t)}catch(e){}}
   function rowsFor(s){
     return CATALOG.map((e,i)=>[e,i]).filter(([e])=>e.season===s);
   }
@@ -628,16 +677,67 @@ function intro(){
     const rows=rowsFor(s), n=rows.filter(([e])=>played[e.gameId]&&played[e.gameId].finished).length;
     return n?`✓ ${n}/${rows.length}`:`${rows.length}`;
   }
+  function progressRows(){
+    return CATALOG.map((e,i)=>({e,i,sv:readProgress(e.gameId)}))
+      .filter(x=>x.sv)
+      .sort((a,b)=>(b.sv.savedAt||'').localeCompare(a.sv.savedAt||''));
+  }
+  function finishedRows(){
+    return CATALOG.map((e,i)=>({e,i,p:played[e.gameId]}))
+      .filter(x=>x.p&&x.p.finished)
+      .sort((a,b)=>(b.p.date||'').localeCompare(a.p.date||''));
+  }
+  function progressStatus(sv){
+    const rd=sv.round==='F'?'Final Jeopardy':sv.round==='DJ'?'Double Jeopardy':'Jeopardy';
+    return `${rd} · ${money(sv.score)}`;
+  }
+  function playSubs(pl){
+    const bits=[];
+    if(pl.raw!=null&&pl.raw!==pl.adj)bits.push(`raw ${money(pl.raw)}`);
+    if(pl.trueScore!=null)bits.push(`True ${money(pl.trueScore)}`);
+    if(pl.coryat!=null)bits.push(`Coryat ${money(pl.coryat)}`);
+    return bits.join(' · ');
+  }
+  function playlistHtml(p){
+    const plays=[...(p.plays||[])].sort((a,b)=>(b.date||'').localeCompare(a.date||''));
+    return `<ul class="playlist hide">${plays.map(pl=>{
+      const sub=playSubs(pl);
+      return `<li><span class="pd">${esc(fmtPlay(pl.date))}</span><span class="ps">${money(pl.adj)}</span>${sub?`<span class="psub">${esc(sub)}</span>`:''}</li>`;
+    }).join('')}</ul>`;
+  }
+  function cardShell(e,i,extraClass,inner){
+    const on=i===pick?' sel':'';
+    return `<div class="ep${on}${extraClass}" data-i="${i}" role="button" tabindex="0">
+        <span class="ed">${esc(e.show)} · ${fmt(e)}</span>
+        <span class="en">${e.contestants.map(c=>esc(c.short)).join(' · ')}</span>${inner}</div>`;
+  }
   function cardsHtml(){
     const rows=rowsFor(season);
     return rows.map(([e,i])=>{
       const p=played[e.gameId], did=p&&p.finished, mid=readProgress(e.gameId);
       const badge=mid?`<span class="resume" aria-label="In progress, ${progressLabel(mid)}"><i class="halfc" aria-hidden="true"></i>${esc(progressLabel(mid))}</span>`:
         (did?`<span class="played" aria-label="Played, best ${money(p.best)}">✓ ${money(p.best)}</span>`:'');
-      return `<button type="button" class="ep${i===pick?' sel':''}${mid?' mid':''}${!mid&&did?' did':''}" data-i="${i}">
-        <span class="ed">${esc(e.show)} · ${fmt(e)}</span>
-        <span class="en">${e.contestants.map(c=>esc(c.short)).join(' · ')}</span>${badge}</button>`;
+      return cardShell(e,i,`${mid?' mid':''}${!mid&&did?' did':''}`,badge);
     }).join('');
+  }
+  function progressHtml(){
+    const rows=progressRows();
+    if(!rows.length)return `<div class="empty">No games in progress.</div>`;
+    return rows.map(({e,i,sv})=>cardShell(e,i,' mid',`<span class="estatus">${esc(progressStatus(sv))}</span>`)).join('');
+  }
+  function finishedHtml(){
+    const rows=finishedRows();
+    if(!rows.length)return `<div class="empty">No finished games yet.</div>`;
+    return rows.map(({e,i,p})=>{
+      const n=(p.plays||[]).length;
+      const main=`<span class="finline"><span class="playedline" aria-label="Best ${money(p.best)}">✓ ${money(p.best)}</span>${p.bestRaw!=null&&p.bestRaw!==p.best?`<span class="rawbit">raw ${money(p.bestRaw)}</span>`:''}${n>1?`<button type="button" class="playtog" aria-expanded="false" aria-label="${n} plays">×${n}<span class="chev" aria-hidden="true">▾</span></button>`:''}</span>`;
+      return cardShell(e,i,' did',main+(n>1?playlistHtml(p):''));
+    }).join('');
+  }
+  function gridHtml(){
+    if(tab==='progress')return progressHtml();
+    if(tab==='finished')return finishedHtml();
+    return cardsHtml();
   }
   function menuHtml(){
     return seasons.map(s=>{
@@ -649,13 +749,22 @@ function intro(){
     const meta=CATALOG.find(e=>e.season===season);
     return `Season ${season} · ${meta.seasonYears}`;
   }
-  S(`<div class="panel intro">
+  function tabCounts(){
+    return {all:CATALOG.length,progress:progressRows().length,finished:finishedRows().length};
+  }
+  const cnt=tabCounts();
+  S(`<div class="panel intro" data-tab="${tab}">
     <div class="logo">Jeopardy!</div>
-    <div class="sbar">
+    <div class="ptabs" role="tablist" aria-label="Game lists">
+      <button type="button" class="ptab${tab==='all'?' on':''}" role="tab" data-tab="all" aria-selected="${tab==='all'}">All <span class="pcnt">${cnt.all}</span></button>
+      <button type="button" class="ptab${tab==='progress'?' on':''}" role="tab" data-tab="progress" aria-selected="${tab==='progress'}">In Progress <span class="pcnt">${cnt.progress}</span></button>
+      <button type="button" class="ptab${tab==='finished'?' on':''}" role="tab" data-tab="finished" aria-selected="${tab==='finished'}">Finished <span class="pcnt">${cnt.finished}</span></button>
+    </div>
+    <div class="sbar" ${tab==='all'?'':'hidden'}>
       <button type="button" class="ssel" id="ssel" aria-haspopup="listbox" aria-expanded="false"><span id="slabel">${headerLabel()}</span><span class="scount" id="smeta">${mark(season)}</span><span class="chev" aria-hidden="true">▾</span></button>
       <div class="smenu hide" id="smenu" role="listbox">${menuHtml()}</div>
     </div>
-    <div class="eps" id="epgrid">${cardsHtml()}</div>
+    <div class="eps" id="epgrid">${gridHtml()}</div>
     <div class="actions" id="goactions"></div></div>`);
   const menu=$('#smenu'), sel=$('#ssel');
   function renderGo(){
@@ -681,23 +790,72 @@ function intro(){
     $('#go').onclick=()=>begin(!!mid);
     const rs=$('#restart');if(rs)rs.onclick=()=>{clearProgress(CATALOG[pick].gameId);begin(false)};
   }
+  function selectCard(i){
+    pick=+i;SHOW=CATALOG[pick];
+    document.querySelectorAll('.ep').forEach(x=>x.classList.toggle('sel',+x.dataset.i===pick));
+    renderGo();
+  }
   function bindCards(){
-    document.querySelectorAll('.ep').forEach(b=>b.onclick=()=>{
-      pick=+b.dataset.i;SHOW=CATALOG[pick];
-      document.querySelectorAll('.ep').forEach(x=>x.classList.toggle('sel',x===b));
-      renderGo();
+    document.querySelectorAll('.ep').forEach(b=>{
+      b.onclick=e=>{
+        if(e.target.closest('.playtog'))return;
+        selectCard(b.dataset.i);
+      };
+      b.onkeydown=e=>{
+        if(e.target.closest('.playtog'))return;
+        if(e.key==='Enter'||e.key===' '){e.preventDefault();selectCard(b.dataset.i)}
+      };
     });
+    document.querySelectorAll('.playtog').forEach(btn=>{
+      btn.onclick=e=>{
+        e.preventDefault();e.stopPropagation();
+        const card=btn.closest('.ep');
+        const open=!card.classList.contains('open');
+        card.classList.toggle('open',open);
+        btn.setAttribute('aria-expanded',open?'true':'false');
+        const list=card.querySelector('.playlist');
+        if(list)list.classList.toggle('hide',!open);
+      };
+    });
+  }
+  function ensurePickVisible(){
+    const visible=[...document.querySelectorAll('.ep')].map(x=>+x.dataset.i);
+    if(visible.length&&!visible.includes(pick))selectCard(visible[0]);
+    else renderGo();
+  }
+  function showTab(next){
+    saveTab(next);
+    const panel=document.querySelector('.panel.intro');
+    panel.dataset.tab=tab;
+    document.querySelectorAll('.ptab').forEach(b=>{
+      const on=b.dataset.tab===tab;
+      b.classList.toggle('on',on);
+      b.setAttribute('aria-selected',on?'true':'false');
+    });
+    const bar=document.querySelector('.sbar');
+    if(bar)bar.hidden=tab!=='all';
+    if(tab==='all'){
+      season=CATALOG[pick].season;
+      const sl=$('#slabel'), sm=$('#smeta');
+      if(sl)sl.textContent=headerLabel();
+      if(sm)sm.textContent=mark(season);
+      document.querySelectorAll('.sitem').forEach(x=>x.classList.toggle('on',+x.dataset.s===season));
+    }
+    $('#epgrid').innerHTML=gridHtml();
+    bindCards();
+    ensurePickVisible();
   }
   bindCards();
   renderGo();
-  sel.onclick=e=>{e.stopPropagation();const open=menu.classList.toggle('hide');sel.setAttribute('aria-expanded',open?'false':'true')};
-  menu.querySelectorAll('.sitem').forEach(b=>b.onclick=e=>{
+  document.querySelectorAll('.ptab').forEach(b=>b.onclick=()=>showTab(b.dataset.tab));
+  if(sel)sel.onclick=e=>{e.stopPropagation();const open=menu.classList.toggle('hide');sel.setAttribute('aria-expanded',open?'false':'true')};
+  if(menu)menu.querySelectorAll('.sitem').forEach(b=>b.onclick=e=>{
     e.stopPropagation();
     season=+b.dataset.s;
     const first=CATALOG.findIndex(e=>e.season===season);
     pick=first;SHOW=CATALOG[pick];
     $('#slabel').textContent=headerLabel();$('#smeta').textContent=mark(season);
-    $('#epgrid').innerHTML=cardsHtml();bindCards();renderGo();
+    $('#epgrid').innerHTML=gridHtml();bindCards();renderGo();
     menu.querySelectorAll('.sitem').forEach(x=>x.classList.toggle('on',+x.dataset.s===season));
     menu.classList.add('hide');sel.setAttribute('aria-expanded','false');
   });
@@ -981,6 +1139,8 @@ function finishClue(c,txt,mode,timedOut){
     G.rawScore=(G.rawScore||0)+(ok?value:-value);
     G.score+=delta;(ok?sfx.good:sfx.bad)();
     G.lastBuzzT=t;
+    const face=c.v||value;
+    G.coryat=(G.coryat||0)+(ok?face:-face);
   }
   G.last={c,delta,value,txt,mode,cls};
   const wasRight=cls==='good';
@@ -1004,6 +1164,7 @@ function finishClue(c,txt,mode,timedOut){
     const t=(G.last.mode==='buzz'&&G.reaction!=null)?G.reaction/1000:0;
     const awarded=G.last.mode==='buzz'?SPEED.award(value,t,SPEED.tau(c)):value;
     G.score+=value+awarded;G.rawScore=(G.rawScore||0)+2*value;
+    G.coryat=(G.coryat||0)+2*(c.v||value);
     G.last.cls='good';G.last.delta=awarded;
     ov.remove();renderHud();
     const v=$('.verdict');v.className='verdict good';v.textContent='Overruled — correct!';sfx.good();
