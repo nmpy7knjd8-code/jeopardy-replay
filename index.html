@@ -374,6 +374,16 @@ body[data-paused="1"] #stage{filter:brightness(.62)}
 .catpopbody{font:500 max(14px,2.2vmin)/1.45 Oswald,sans-serif;color:#e3e6ff;text-transform:none;letter-spacing:.03em;margin-bottom:max(14px,2.2vmin)}
 .catpopcard .btn{min-height:40px;font-size:max(15px,2.6vmin)}
 
+.endwrap{width:min(120vmin,94vw);max-width:100%;overflow-x:auto;-webkit-overflow-scrolling:touch}
+.endwrap table.cmp.end{width:100%}
+@media (max-width:520px){
+  table.cmp.end{font-size:max(12px,3.3vw)}
+  table.cmp.end td,table.cmp.end th{padding:.9vmin 1.1vmin}
+  table.cmp.end th:nth-child(5),table.cmp.end th:nth-child(6){font-size:max(10px,2.6vw)}
+}
+
+.h1 .of{font-size:.45em;font-weight:500;letter-spacing:.04em;opacity:.8;text-transform:none}
+
 </style>
 </head>
 <body>
@@ -401,14 +411,17 @@ const CATALOG=EPISODES;
 const epParam=Q.get('ep');
 let SHOW=CATALOG.find(e=>e.gameId===epParam)||CATALOG[+epParam]||CATALOG[0];
 let pick=Math.max(0,CATALOG.findIndex(e=>e.gameId===SHOW.gameId));
-const G={score:0,state:'intro',round:'J',used:new Set(),curCol:-1,stay:0,timers:[],stateAt:0,
+const G={score:0,rawScore:0,state:'intro',round:'J',used:new Set(),curCol:-1,stay:0,timers:[],stateAt:0,
  roundScores:{},clue:null,lockedUntil:0,openAt:0,sound:true,history:[],skipped:null,paused:false,pauseAt:0,voiceMute:(()=>{try{return localStorage.getItem('jr-voice-mute')==='1'}catch(e){return false}})()};
 function readPlayed(){try{return JSON.parse(localStorage.getItem('jr-played')||'{}')}catch(e){return{}}}
-function savePlayed(id,score){
+function savePlayed(id,score,raw){
   if(AUTO||FAST)return;
   try{
-    const all=readPlayed(),prev=all[id]||{},best=prev.best!=null?Math.max(prev.best,score):score;
-    all[id]={last:score,best,date:new Date().toISOString(),finished:true};
+    const all=readPlayed(),prev=all[id]||{};
+    const best=prev.best!=null?Math.max(prev.best,score):score;
+    const rawV=raw==null?score:raw;
+    const bestRaw=prev.bestRaw!=null?Math.max(prev.bestRaw,rawV):rawV;
+    all[id]={last:score,best,lastRaw:rawV,bestRaw,date:new Date().toISOString(),finished:true};
     localStorage.setItem('jr-played',JSON.stringify(all));
   }catch(e){}
 }
@@ -468,7 +481,7 @@ function saveProgress(){
   try{
     const st=saveStateName();
     const sv={
-      v:SAVE_VER,id:SHOW.gameId,round:G.round,used:[...G.used],score:G.score,
+      v:SAVE_VER,id:SHOW.gameId,round:G.round,used:[...G.used],score:G.score,rawScore:G.rawScore||0,
       roundScores:Object.assign({},G.roundScores),curCol:G.curCol,stay:G.stay,
       skipped:G.skipped||null,rng:RNG.s,state:st,
       clue:G.clue?{c:G.clue.c,r:G.clue.r}:null,
@@ -484,12 +497,12 @@ function lookupClue(sv){
   return SHOW.rounds[sv.round].clues.find(c=>c.c===sv.clue.c&&c.r===sv.clue.r)||null;
 }
 function resetPlay(){
-  G.score=0;G.roundScores={};G.clue=null;G.pending=null;G.wager=undefined;G.final=null;G.last=null;
+  G.score=0;G.rawScore=0;G.roundScores={};G.clue=null;G.pending=null;G.wager=undefined;G.final=null;G.last=null;
   G.skipped=null;G.history=[];G.used=new Set();G.curCol=-1;G.stay=0;
   RNG.seed(((Math.random()*0xFFFFFFFF)|0)>>>0||1);
 }
 function applyProgress(sv){
-  G.score=sv.score;G.round=sv.round;G.used=new Set(sv.used);
+  G.score=sv.score;G.rawScore=sv.rawScore!=null?sv.rawScore:sv.score;G.round=sv.round;G.used=new Set(sv.used);
   G.curCol=sv.curCol??-1;G.stay=sv.stay||0;
   G.roundScores=Object.assign({},sv.roundScores||{});
   G.skipped=sv.skipped||null;G.wager=sv.wager;G.final=sv.final||null;G.last=null;
@@ -516,9 +529,159 @@ function resumeGame(sv){
   renderBoard();renderHud();setState('board');
   later(pickNext,R(800));
 }
+
+/* ---------- speed-adjusted scoring ----------
+ * After buzzers open (end of the read, or end of the mute/show delay), a
+ * correct regular-clue buzz is worth face × survival(t), paid in discrete
+ * $100 steps — not a smooth value rounded only at the end. Daily Doubles
+ * and Final Jeopardy are not buzzer races, so they keep full wager value.
+ * Wrong answers still cost the full face amount. Triple stumpers stay at
+ * full value: no one on the show got there first.
+ *
+ *   survival(t) = 1                     t <= grace
+ *               = exp(-(t-grace)/tau)   grace < t < cutoff
+ *               = 0                     t >= cutoff
+ *
+ * For each clue we precompute the times when that curve hits the next
+ * lower $100 multiple, and award whatever step the buzz lands in. The
+ * last step drops to $0 when the curve falls to $50 (half a step) or at
+ * cutoff, whichever is first — otherwise a $200 clue would keep paying
+ * $100 until 5s, which overvalues a late buzz.
+ *
+ * Constants are from published buzzer timing and from stumper/rebound
+ * rates in this catalog (609 games, 36,540 clues). Tune from measured
+ * first-buzz times if those become available.
+ */
+const SPEED={
+  // Full value this long after the lights. Official lockout is 0.25s
+  // (Jeopardy.com, “How Does the Jeopardy! Buzzer Work?”, 2017). Typical
+  // winning/average contestant reaction times are ~0.13–0.23s: Holznagel
+  // trained from 228 ms to 126 ms (Secrets of the Buzzer; Vulture, 2020);
+  // he called 216 ms “very average” (Jeopardy E3 transcript); Lynn Yu
+  // cites a 0.225s contestant average; Brad Rutter described the race as
+  // “hundredths of a second” (Vulture, 2020). 0.30s covers that window
+  // plus a little home-device lag without paying full value past the
+  // “narrow sweet spot” (Ken Jennings FAQ).
+  grace:0.30,
+
+  // Hard zero. The show’s familiar 5-second clock is the time to *answer*
+  // after you’re recognized, not to buzz (Wikipedia / Jeopardy! rules).
+  // There is no official buzz deadline — if no one rings in, the host
+  // reveals the response — but by 5s the curve is already ~2% even on a
+  // hard $1000 clue (tau 1.25). Floor to $0 here.
+  cutoff:5.0,
+
+  // Seconds, Jeopardy/DJ rows 0–4 (low to high dollar). Easy first-right
+  // clues are three-way reflex races: in our data row 0 is 90.6% first-
+  // right and only 4.4% stumpers, so after the grace window survival
+  // should fall quickly without going off a cliff. 0.65s is a hair slower
+  // than 0.6s: at 0.5s an easy $200 is still full value ($147 continuous,
+  // held at $200 until the $100 step at 0.75s); at 2s it is already $0.
+  // Harder rows are slower recalls, not slower thumbs — stumper rates
+  // rise 4.4% → 9.7% → 14.1% → 18.9% → 28.4% and first-right falls to
+  // 67.3% on row 4 — so tau scales about 2×, from 0.65 to 1.25.
+  tauByRow:[0.65,0.80,0.95,1.10,1.25],
+
+  // After a miss the system is re-armed for the other two (Jeopardy.com).
+  // Rebound rate is a flat ~5% across rows in our data. Less of a three-
+  // way slap; 1.5s as requested, applied as max(row tau, this).
+  tauRebound:1.50,
+
+  step:100,
+  // Drop to $0 when the continuous value falls to half a step.
+  zeroAt:50,
+
+  // Per-game contest factor: multiplies tau (grace is left alone — that's
+  // a reaction-time window, not a field-tightness knob). More buzzing in
+  // the actual game → steeper curve (smaller tau); a quiet board → a
+  // gentler tail. Not ELO-based; the same evidence curve is scaled for
+  // every contestant in the game.
+  //
+  // Activity is (correct + incorrect responses) / buzz-able clues (J!+DJ
+  // minus Daily Doubles), blended with the three players' combined Coryat
+  // so a knowledge-heavy game also tightens slightly. In this catalog
+  // (609 games): response rate median 0.982 / mean 0.977; combined Coryat
+  // median $34,600 / mean $34,224. factor = clamp(1 - k*(activity-1)),
+  // activity = (1-w)*(rate/rateBaseline) + w*(coryat/coryatBaseline).
+  // k=1.8 puts a typical p10 quiet game (~0.90 responses/clue) near 1.15
+  // and a p90 busy one (~1.05) near 0.87; only the tails hit the clamps.
+  contest:{
+    min:0.80,
+    max:1.25,
+    rateBaseline:0.98,
+    coryatBaseline:34600,
+    coryatWeight:0.25,
+    k:1.8
+  },
+  gameFactor:1,
+
+  activity(show){
+    let avail=0,responses=0,coryat=0;
+    const rounds=(show&&show.rounds)||{};
+    for(const rnd of ['J','DJ']){
+      const clues=(rounds[rnd]&&rounds[rnd].clues)||[];
+      for(const c of clues){
+        if(c.dd)continue;
+        avail++;
+        const nr=(c.right||[]).length,nw=(c.wrong||[]).length,v=c.v||0;
+        responses+=nr+nw;
+        coryat+=v*nr-v*nw;
+      }
+    }
+    return {avail,responses,coryat,rate:avail?responses/avail:this.contest.rateBaseline};
+  },
+  contestFactor(show){
+    const cfg=this.contest,a=this.activity(show);
+    const w=cfg.coryatWeight;
+    const activity=(1-w)*(a.rate/cfg.rateBaseline)+w*((a.coryat||0)/cfg.coryatBaseline);
+    const f=1-cfg.k*(activity-1);
+    return Math.max(cfg.min,Math.min(cfg.max,f));
+  },
+  setGame(show){
+    this.gameFactor=show?this.contestFactor(show):1;
+    return this.gameFactor;
+  },
+
+  tau(clue){
+    if(!clue||clue.dd)return Infinity;
+    const right=clue.right||[];
+    if(clue.stumper||!right.length)return Infinity;
+    const row=Math.max(0,Math.min(4,clue.r|0));
+    let tau=this.tauByRow[row];
+    if((clue.wrong||[]).length) tau=Math.max(tau,this.tauRebound);
+    return tau*this.gameFactor;
+  },
+  continuous(face,t,tau){
+    face=+face||0;t=+t||0;
+    if(!isFinite(tau))return face;
+    if(t>=this.cutoff)return 0;
+    if(t<=this.grace)return face;
+    return face*Math.exp(-(t-this.grace)/tau);
+  },
+  award(face,t,tau){
+    const v=this.continuous(face,t,tau);
+    if(v<=this.zeroAt||t>=this.cutoff)return 0;
+    return this.step*Math.ceil((v-1e-9)/this.step);
+  },
+  // Time the award drops TO each lower $100 multiple, and to $0.
+  steps(face,tau){
+    face=+face||0;
+    const out=[{t:0,value:face}];
+    if(!face||!isFinite(tau))return out;
+    for(let amt=face-this.step;amt>=this.step;amt-=this.step){
+      const t=this.grace+tau*Math.log(face/amt);
+      if(t>=this.cutoff)break;
+      out.push({t,value:amt});
+    }
+    const t0=Math.min(this.cutoff,this.grace+tau*Math.log(face/this.zeroAt));
+    out.push({t:t0,value:0});
+    return out;
+  }
+};
+
 function loadShow(id){
   const meta=CATALOG.find(e=>e.gameId===id)||CATALOG[0];
-  return fetch('episodes/'+meta.gameId+'.json').then(r=>{if(!r.ok)throw new Error('episode '+r.status);return r.json()}).then(d=>{SHOW=Object.assign({},meta,d);return SHOW});
+  return fetch('episodes/'+meta.gameId+'.json').then(r=>{if(!r.ok)throw new Error('episode '+r.status);return r.json()}).then(d=>{SHOW=Object.assign({},meta,d);window.__SHOW=SHOW;SPEED.setGame(SHOW);return SHOW});
 }
 
 /* ---------- sound (tiny WebAudio blips) ---------- */
@@ -1060,7 +1223,7 @@ function footReading(){
 }
 function openBuzzers(){
   if(G.state!=='reading')return;
-  setState('open');G.openAt=performance.now();setLights('on');sfx.open();
+  setState('open');G.openAt=performance.now();G.reaction=null;setLights('on');sfx.open();
   foot(`<button class="buzz live" id="bz">BUZZ!</button><div class="bar"><i id="bar"></i></div><button class="skip" id="skip" type="button">Don’t know · skip</button>`);
   $('#bz').addEventListener('pointerdown',e=>{e.preventDefault();buzz()});
   $('#skip').onclick=skipClue;
@@ -1209,9 +1372,13 @@ function finishClue(c,txt,mode,timedOut){
   else if(mode==='skip'){verdict='Skipped';cls='meh';}
   else{
     const ok=txt&&judge(txt,c.a);
-    delta=ok?value:-value;
+    const t=(mode==='buzz'&&G.reaction!=null)?G.reaction/1000:0;
+    const awarded=(ok&&mode==='buzz')?SPEED.award(value,t,SPEED.tau(c)):value;
+    delta=ok?awarded:-value;
     verdict=ok?'Correct!':(timedOut&&!(txt||'').trim()?'Time’s up!':'Incorrect');cls=ok?'good':'bad';
+    G.rawScore=(G.rawScore||0)+(ok?value:-value);
     G.score+=delta;(ok?sfx.good:sfx.bad)();
+    G.lastBuzzT=t;
   }
   G.last={c,delta,value,txt,mode,cls};
   const wasRight=cls==='good';
@@ -1220,7 +1387,7 @@ function finishClue(c,txt,mode,timedOut){
   S(`<div class="panel">
     <div class="sub">${esc(catName())} · ${money(mode==='dd'?G.wager:c.v)}${mode==='dd'?' · Daily Double':''}</div>
     <div class="verdict ${cls}">${verdict}</div>
-    ${delta?`<div class="h1 ${delta>0?'gold':''}" style="font-size:min(7vw,10vh)">${delta>0?'+':'−'}${money(Math.abs(delta)).replace('-','')}</div>`:''}
+    ${delta?`<div class="h1 ${delta>0?'gold':''}" style="font-size:min(7vw,10vh)">${delta>0?'+':'−'}${money(Math.abs(delta)).replace('-','')}${cls==='good'&&delta>0&&delta!==value?` <span class="of">of ${money(value)}</span>`:''}</div>`:''}
     ${txt!==null&&txt!==undefined?`<div class="typed">You answered: <b>${esc(txt.trim()||'(nothing)')}</b></div>`:''}
     <div class="sub">Correct response</div>
     <div class="serif" style="font-size:max(20px,5vmin);color:var(--gold-b);text-shadow:.3vmin .35vmin 0 #000">${esc(c.a)}</div>
@@ -1232,9 +1399,14 @@ function finishClue(c,txt,mode,timedOut){
   $('#next').onclick=nextAfterResult;
   const ov=$('#override');
   if(ov)ov.onclick=()=>{
-    G.score+=2*value;G.last.cls='good';G.last.delta=value;
+    const t=(G.last.mode==='buzz'&&G.reaction!=null)?G.reaction/1000:0;
+    const awarded=G.last.mode==='buzz'?SPEED.award(value,t,SPEED.tau(c)):value;
+    G.score+=value+awarded;G.rawScore=(G.rawScore||0)+2*value;
+    G.last.cls='good';G.last.delta=awarded;
     ov.remove();renderHud();
     const v=$('.verdict');v.className='verdict good';v.textContent='Overruled — correct!';sfx.good();
+    const h=$('.h1');if(h)h.innerHTML=`+${money(awarded)}${awarded!==value?` <span class="of">of ${money(value)}</span>`:''}`;
+    if(h)h.classList.add('gold');
     saveProgress();
   };
   saveProgress();
@@ -1297,7 +1469,7 @@ function finalClue(){
     setState('answer');
     askAnswer(c,{ms:FINAL_MS,prefix:'',cb:(t,to)=>{
     clearTimers();
-    const ok=t&&judge(t,F.a);const delta=ok?G.wager:-G.wager;G.score+=delta;(ok?sfx.good:sfx.bad)();
+    const ok=t&&judge(t,F.a);const delta=ok?G.wager:-G.wager;G.score+=delta;G.rawScore=(G.rawScore||0)+delta;(ok?sfx.good:sfx.bad)();
     G.final={played:true,delta,txt:t,ok};G.last={mode:'final',cls:ok?'good':'bad',delta,value:G.wager};
     setState('result');renderHud();
     S(`<div class="panel"><div class="sub">${esc(F.cat)} · your wager ${money(G.wager)}</div>
@@ -1310,7 +1482,7 @@ function finalClue(){
      <div class="contestants" style="gap:2vmin">${ok?'':'<button class="btn ghost" id="override">I was right (override)</button>'}<button class="btn" id="next">See the final results ▸</button></div>
      </div>`);
     $('#next').onclick=nextAfterResult;
-    const ov=$('#override');if(ov)ov.onclick=()=>{G.score+=2*G.wager;G.final.delta=G.wager;G.final.ok=true;G.last.cls='good';ov.remove();renderHud();const v=$('.verdict');v.className='verdict good';v.textContent='Overruled — correct!';sfx.good()};
+    const ov=$('#override');if(ov)ov.onclick=()=>{G.score+=2*G.wager;G.rawScore=(G.rawScore||0)+2*G.wager;G.final.delta=G.wager;G.final.ok=true;G.last.cls='good';ov.remove();renderHud();const v=$('.verdict');v.className='verdict good';v.textContent='Overruled — correct!';sfx.good()};
     }});
   });
 }
@@ -1321,10 +1493,10 @@ function endScreen(){
   clearTimers();setState('end');setLights(null);
   G.roundScores.F=G.score;
   clearProgress(SHOW.gameId);
-  savePlayed(SHOW.gameId,G.score);
+  savePlayed(SHOW.gameId,G.score,G.rawScore||0);
   const fin=SHOW.scores.Final;
-  const people=SHOW.contestants.map(c=>({name:c.name,short:c.short,score:fin[c.short],real:true,j:SHOW.scores.J[c.short],dj:SHOW.scores.DJ[c.short]}));
-  const me={name:'You',score:G.score,real:false,j:G.roundScores.J??0,dj:G.roundScores.DJ??0};
+  const people=SHOW.contestants.map(c=>({name:c.name,short:c.short,score:fin[c.short],raw:fin[c.short],adj:fin[c.short],real:true,j:SHOW.scores.J[c.short],dj:SHOW.scores.DJ[c.short]}));
+  const me={name:'You',score:G.score,raw:G.rawScore||0,adj:G.score,real:false,j:G.roundScores.J??0,dj:G.roundScores.DJ??0};
   const all=[...people,me].sort((a,b)=>b.score-a.score||(a.real?-1:1)); // ties: the real contestant keeps the nod
   const place=all.indexOf(me)+1;
   const winner=all[0];
@@ -1340,13 +1512,14 @@ function endScreen(){
   S(`<div class="panel" style="gap:1.6vmin"><div class="sub">${esc(SHOW.show)} · ${new Date(SHOW.aired+'T12:00:00').toLocaleDateString('en-US',{month:'short',day:'numeric',year:'numeric'})}</div>
    <div class="h1" style="font-size:min(8vw,12vh)">${place===1?'You <span class="gold">win!</span>':headline}</div>
    <div class="sub" style="letter-spacing:.08em;text-transform:none;font-size:max(13px,2.6vmin)">${detail}</div>
-   <table class="cmp end"><tr><th>#</th><th>Contestant</th><th>After J!</th><th>After DJ!</th><th>Final</th></tr>
+   <div class="endwrap"><table class="cmp end"><tr><th>#</th><th>Contestant</th><th>After J!</th><th>After DJ!</th><th>Raw</th><th>Speed-adj</th></tr>
    ${all.map((p,i)=>`<tr class="${p.real?'':'me'}"><td>${i+1}</td><td>${esc(p.name)}${p.real?`<small>${esc(remarks[p.short])}</small>`:'<small>your game</small>'}</td>
-     <td class="${p.j<0?'neg':''}">${money(p.j)}</td><td class="${p.dj<0?'neg':''}">${money(p.dj)}</td><td class="${p.score<0?'neg':''}">${money(p.score)}</td></tr>`).join('')}</table>
+     <td class="${p.j<0?'neg':''}">${money(p.j)}</td><td class="${p.dj<0?'neg':''}">${money(p.dj)}</td>
+     <td class="${(p.raw??p.score)<0?'neg':''}">${money(p.raw??p.score)}</td><td class="${(p.adj??p.score)<0?'neg':''}">${money(p.adj??p.score)}</td></tr>`).join('')}</table></div>
    <div class="contestants"><button class="btn" id="again">Play again</button></div></div>`);
   $('#again').onclick=()=>{location.reload()};
   renderHud();
-  window.__result={place,score:G.score};
+  window.__result={place,score:G.score,raw:G.rawScore||0,adj:G.score};
 }
 
 /* ---------- input ---------- */
@@ -1407,7 +1580,7 @@ if(AUTO){
     else if(st==='roundend'&&age>600)$('#cont').click();
   },200);
 }
-window.__G=G;window.__startRound=startRound;window.__loadShow=loadShow;window.__savePlayed=savePlayed;window.__readPlayed=readPlayed;window.__setPaused=setPaused;window.__togglePause=togglePause;window.__clearTimers=clearTimers;window.__openCatNote=openCatNote;window.__closeCatNote=closeCatNote;window.__Voice=Voice;window.__RNG=RNG;window.__saveProgress=saveProgress;window.__readProgress=readProgress;window.__clearProgress=clearProgress;window.__resetPlay=resetPlay;window.__resumeGame=resumeGame;
+window.__G=G;window.__startRound=startRound;window.__loadShow=loadShow;window.__savePlayed=savePlayed;window.__readPlayed=readPlayed;window.__setPaused=setPaused;window.__togglePause=togglePause;window.__clearTimers=clearTimers;window.__openCatNote=openCatNote;window.__closeCatNote=closeCatNote;window.__Voice=Voice;window.__SPEED=SPEED;window.__SHOW=SHOW;window.__endScreen=endScreen;window.__finishClue=finishClue;window.__RNG=RNG;window.__saveProgress=saveProgress;window.__readProgress=readProgress;window.__clearProgress=clearProgress;window.__resetPlay=resetPlay;window.__resumeGame=resumeGame;
 intro();
 })();
 
