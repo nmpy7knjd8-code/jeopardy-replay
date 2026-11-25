@@ -1,0 +1,988 @@
+{
+ "show": "#5838",
+ "aired": "2010-01-20",
+ "note": "Jason Zollinger game 7.",
+ "contestants": [
+  {
+   "name": "Ted Ahern",
+   "bio": "a health care application consultant from Lafayette Hill, Pennsylvania",
+   "short": "Ted"
+  },
+  {
+   "name": "Bern Samko",
+   "bio": "a Ph.D. student in linguistics originally from Worcester, Massachusetts",
+   "short": "Bern"
+  },
+  {
+   "name": "Jason Zollinger",
+   "bio": "an engine assembler from South Dayton, New York (whose 6-day cash winnings total $148,404)",
+   "short": "Jason"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Jason": 8400,
+   "Bern": 1800,
+   "Ted": 6000
+  },
+  "DJ": {
+   "Jason": 15800,
+   "Bern": 6600,
+   "Ted": 13000
+  },
+  "Final": {
+   "Jason": 5599,
+   "Bern": 13100,
+   "Ted": 15801
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "THE 20th CENTURY",
+    "CELEBRITY BLOGS",
+    "ABBREVIATED MAGAZINES",
+    "\"CROSS\" TALK",
+    "HR",
+    "RUSSIAN STUFF"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "In May 1977 Kenya limited the shooting on safaris to people using these",
+     "a": "cameras",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 26,
+     "q": "In March 2009 this ex of Kid Rock & Tommy Lee blogged on her views about stem cell research",
+     "a": "Pam Anderson",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 21,
+     "q": "Tennis, anyone? How about golf, football, baseball...:\nSI",
+     "a": "Sports Illustrated",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 4,
+     "q": "An old proverb says not to do this \"until you come to it\"",
+     "a": "cross a bridge",
+     "right": [
+      "Ted"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 8,
+     "q": "If you hit an HR in MLB, you're going to have to run this many feet to get home",
+     "a": "360",
+     "right": [
+      "Ted"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 11,
+     "q": "Alexander II's Edict of Emancipation freed these workers whose status was similar to slaves",
+     "a": "serfs",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [
+      "Ted"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "When he reached the North Pole in May 1989, Robert Swan became the first to reach both poles in this manner",
+     "a": "on foot",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "He may have rapped \"U Can't Touch This\" but U can read his blog on blogspot.com",
+     "a": "M.C. Hammer",
+     "right": [
+      "Ted"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 22,
+     "q": "It's been around since 1883:\nLHJ",
+     "a": "Ladies' Home Journal",
+     "right": [
+      "Ted"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 5,
+     "q": "In sewing & embroidery, it forms an \"X\"",
+     "a": "a cross-stitch",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 9,
+     "q": "Hr. corresponds to this German title of respect",
+     "a": "Herr",
+     "right": [
+      "Ted"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 12,
+     "q": "This Moscow landmark has served as the official residence of the president since 1991",
+     "a": "the Kremlin",
+     "right": [
+      "Ted"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 3,
+     "q": "This broke 10,000 for the first time March 29, 1999, making some brokers richer",
+     "a": "the Dow Jones Industrial Average",
+     "right": [
+      "Ted"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 28,
+     "q": "His bloggings included \"The 3 D's of real estate\" & \"Why I selected Dennis Rodman\" for his TV show",
+     "a": "(Donald) Trump",
+     "right": [
+      "Ted"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 23,
+     "q": "Covering movies, TV, books...:\nEW",
+     "a": "Entertainment Weekly",
+     "right": [
+      "Ted"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 15,
+     "q": "The Vasa race in Sweden, an event in this winter sport, takes place over a 56-mile course",
+     "a": "cross-country skiing",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 10,
+     "q": "This business services & tax prep company also operates under the brand RSM McGladrey",
+     "a": "H&R Block",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 16,
+     "q": "In 1908 this Siberian mystic brought some comfort to Alexis, the hemophiliac heir to the Russian throne",
+     "a": "Rasputin",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 6,
+     "q": "(Jimmy of the Clue Crew trains with the Navy SEALs of Boat Team 12 in an inflatable boat at the Naval Amphibious Base in Coronado, CA.) Naval special warfare boat teams trace their origins back to the \"Brown Water\" Navy that patrolled rivers during this war",
+     "a": "the Vietnam War",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "This actress' ex, Paul Simon, \"would sing me to sleep, which was... sweet or... annoying, depending on the album\"",
+     "a": "Carrie Fisher",
+     "right": [
+      "Ted"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 24,
+     "q": "For science, technology, automotive & more:\nPM",
+     "a": "Popular Mechanics",
+     "right": [
+      "Ted"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 19,
+     "q": "This weapon was outlawed by the Lateran council of 1139",
+     "a": "the crossbow",
+     "right": [
+      "Ted"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 13,
+     "q": "The American recovery & reinvestment act of 2009 was H.R. 1; the \"H.R.\" stood for this",
+     "a": "House of Representatives",
+     "right": [
+      "Bern"
+     ],
+     "wrong": [
+      "Jason"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 17,
+     "q": "It's how you say \"goodbye\" in Russian",
+     "a": "do svidaniya",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 7,
+     "q": "In May 1938 the League of Nations recognized this country as absolutely neutral",
+     "a": "Switzerland",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 30,
+     "q": "Go to huffingtonpost.com for the blogging of this \"30 Rock\" Emmy winner",
+     "a": "Alec Baldwin",
+     "right": [
+      "Bern"
+     ],
+     "wrong": [
+      "Ted"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 25,
+     "q": "You could profit from this magazine:\nBW",
+     "a": "BusinessWeek",
+     "right": [
+      "Ted"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 20,
+     "q": "At the 1896 DNC, William Jennings Bryan told delegates, \"you shall not crucify mankind on\" one of these",
+     "a": "a cross of gold",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 14,
+     "q": "Hertzsprung-Russell, or HR, diagrams are used in, & named for 2 men in, this scientific field",
+     "a": "astronomy",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": true,
+     "order": 18,
+     "q": "The basin of this river that empties into the Caspian Sea contains almost half of the Russian Republic's population",
+     "a": "the Volga",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 3000
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "SCIENTISTS",
+    "MR. & MS. ROBOTO",
+    "FAMILY DRAMA",
+    "FOR GOOD MEASURE",
+    "MUSICAL A TO Z",
+    "WHEEL OF PROVERBS!"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "The first woman to teach at the Sorbonne, she published a treatise on radioactivity in 1910",
+     "a": "Marie Curie",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 10,
+     "q": "Starscream, Frenzy & Bumblebee are but a few of the metalheads in this 2007 Michael Bay movie",
+     "a": "Transformers",
+     "right": [
+      "Ted"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 26,
+     "q": "His \"All My Sons\" centers on Joe Keller, whose shoddy plane parts led to the death of his son & other pilots in WWII",
+     "a": "Arthur Miller",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 6,
+     "q": "In the U.S. one of these cotton units is almost 500 pounds",
+     "a": "a bale",
+     "right": [
+      "Ted"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 5,
+     "q": "\"V\" is for this Italian term, a technique or effect created by a violinist's shaking arm",
+     "a": "vibrato",
+     "right": [
+      "Ted"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 17,
+     "q": "You might want to slow things down\n\n_AST_\nMA__S\nWAST_",
+     "a": "Haste makes waste",
+     "right": [
+      "Bern"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 2,
+     "q": "Einstein said this 17th & 18th c. physicist \"stands before us, strong, certain and alone\"",
+     "a": "Isaac Newton",
+     "right": [
+      "Bern"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 11,
+     "q": "Keanu gets upstaged by Gort, a silent, expressionless mechanical giant, in this 2008 remake",
+     "a": "The Day the Earth Stood Still",
+     "right": [
+      "Ted"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 27,
+     "q": "The title character of this Ibsen play is revolted to discover she's pregnant & commits suicide with her father's pistol",
+     "a": "Hedda Gabler",
+     "right": [
+      "Ted"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 7,
+     "q": "28.35 grams equals one of these units of weight",
+     "a": "an ounce",
+     "right": [
+      "Ted"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 18,
+     "q": "\"O\" is for this interval between a note & its first overtone",
+     "a": "an octave",
+     "right": [
+      "Ted"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 19,
+     "q": "Come join us--it'll be fun\n\nT__ M_R_\nT__\nM_RR__R",
+     "a": "The more the merrier",
+     "right": [
+      "Bern"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 3,
+     "q": "The Dept. of the Interior has an annual lecture named for this biologist; she worked for the Dept. in the 1940s",
+     "a": "Rachel Carson",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 12,
+     "q": "At the beginning of a 1999 sequel, this title hero discovers that his new wife Vanessa is actually a fembot",
+     "a": "Austin Powers",
+     "right": [
+      "Ted"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 28,
+     "q": "The Pollitts get together to celebrate Big Daddy's 65th birthday in this play; family drama ensues",
+     "a": "Cat on a Hot Tin Roof",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 8,
+     "q": "It was made of gopher wood & measured 50 cubits wide",
+     "a": "the Ark",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 20,
+     "q": "\"U\" is for one of these, with which a conductor may begin a piece",
+     "a": "an upbeat",
+     "right": [
+      "Bern"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 23,
+     "q": "Don't be a hypocrite, do this\n\nPR_CT_C_\n___T ___\nPR__C_",
+     "a": "Practice what you preach",
+     "right": [
+      "Ted"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 4,
+     "q": "The surname of this 16th century Polish astronomer means \"one who works with copper\"",
+     "a": "Copernicus",
+     "right": [
+      "Ted"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 13,
+     "q": "Introduced in 1977, this robot got his name from the map coordinates of a post office",
+     "a": "C-3PO",
+     "right": [],
+     "wrong": [
+      "Ted"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 3000
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 29,
+     "q": "This Lorraine Hansberry play focuses on the Younger family & the drama of buying a new house",
+     "a": "A Raisin in the Sun",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 15,
+     "q": "Cosmic, dude! A parsec is equal to 3.26 of these enormous lengths",
+     "a": "a light year",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 21,
+     "q": "\"C\" is for this musical passage added at the end of a movement for a fitting conclusion or climax",
+     "a": "a coda",
+     "right": [
+      "Bern"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 24,
+     "q": "We learn by doing\n\nE__ERIE_CE\nI_ T_E\n_E_T\nTE_C_ER",
+     "a": "Experience is the best teacher",
+     "right": [
+      "Ted"
+     ],
+     "wrong": [
+      "Jason"
+     ],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": true,
+     "order": 9,
+     "q": "In WWII this Danish physicist worked on the Manhattan Project under the assumed name Nicholas Baker for security reasons",
+     "a": "Niels Bohr",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 3800
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 14,
+     "q": "At the end of this 1927 film, Maria & her robot twin are stalked by mobs as disaster strikes the title city",
+     "a": "Metropolis",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 30,
+     "q": "In an August Wilson play, Troy Maxson builds these title structures around the family home",
+     "a": "Fences",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 16,
+     "q": "\"I have measured out my life with coffee spoons\", he wrote in \"The Love Song of J. Alfred Prufrock\"",
+     "a": "T.S. Eliot",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 22,
+     "q": "\"F\" is for this polyphonic composition sung by several voices in turn",
+     "a": "a fugue",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 25,
+     "q": "It's better to know what's coming\n\nF_R_W_R__D\n__\nF_R__RM_D",
+     "a": "Forewarned is forearmed",
+     "right": [
+      "Jason"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "CITIES IN ENGLAND",
+  "q": "The Roman name for this city was Aquae Sulis",
+  "a": "Bath",
+  "right": [
+   "Bern",
+   "Ted"
+  ],
+  "wrong": [
+   "Jason"
+  ]
+ },
+ "gameId": "3287",
+ "cat_notes": {
+  "J": [
+   "Clues about The 20th Century.",
+   "Clues about Celebrity Blogs.",
+   "Clues about Abbreviated Magazines.",
+   "Each answer contains the letter group “CROSS”, and the clues are about Talk.",
+   "Clues about Hr.",
+   "Clues about Russian Stuff."
+  ],
+  "DJ": [
+   "Clues about Scientists.",
+   "Clues about Mr and Ms Roboto.",
+   "Clues about Family Drama.",
+   "Clues for Good Measure.",
+   "Clues about Musical a to Z.",
+   "The category “WHEEL OF PROVERBS!” sets the theme — the clues follow that idea and any wordplay suggested by the title."
+  ],
+  "F": "Clues about Cities in England."
+ }
+}

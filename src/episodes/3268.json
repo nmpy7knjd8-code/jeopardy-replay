@@ -1,0 +1,985 @@
+{
+ "show": "#5826",
+ "aired": "2010-01-04",
+ "note": "Ask Alex #24: Prizes.",
+ "contestants": [
+  {
+   "name": "Charles Soule",
+   "bio": "an attorney from Brooklyn, New York",
+   "short": "Charles"
+  },
+  {
+   "name": "Jennifer Broders",
+   "bio": "a junior high school social studies teacher from Stockton, Iowa",
+   "short": "Jennifer"
+  },
+  {
+   "name": "Neel Varde",
+   "bio": "a food scientist from St. Charles, Illinois (whose 1-day cash winnings total $30,001)",
+   "short": "Neel"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Neel": 3800,
+   "Jennifer": 9400,
+   "Charles": 2800
+  },
+  "DJ": {
+   "Neel": 7000,
+   "Jennifer": 18600,
+   "Charles": 16200
+  },
+  "Final": {
+   "Neel": 7100,
+   "Jennifer": 32401,
+   "Charles": 30001
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "BRITISH HISTORY DATEBOOK",
+    "TV's SUPPORTING CASTS",
+    "POTPOURRI",
+    "THE WHISKEY TRAIL",
+    "\"ARD\" STUFF",
+    "RHETT-ORIC"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 11,
+     "q": "January 20, 1265:\nThis political body meets for the first time",
+     "a": "the Parliament",
+     "right": [
+      "Neel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "Katrina Bowden as Cerie, Liz Lemon's assistant",
+     "a": "30 Rock",
+     "right": [
+      "Jennifer"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 15,
+     "q": "In 1993 the FCC required analog TVs sold in the U.S. to display this to help the deaf & the non-English speaking",
+     "a": "closed captions",
+     "right": [
+      "Jennifer"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 6,
+     "q": "Old Rip Van Winkle is among the fine brands of this whiskey type made in Kentucky",
+     "a": "bourbon",
+     "right": [
+      "Jennifer"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 21,
+     "q": "A large drinking vessel with a single handle & often a hinged cover",
+     "a": "a tankard",
+     "right": [
+      "Charles"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 26,
+     "q": "Rhett Butler tells a weeping Scarlett, \"Never in any crisis of your life have I known you to have\" one of these handy",
+     "a": "a hankie (or handkerchief)",
+     "right": [
+      "Jennifer"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 12,
+     "q": "October 4, 1535:\nThe first complete modern English version of this is published",
+     "a": "the Bible",
+     "right": [
+      "Jennifer"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "Michael Urie as Marc St. James, an assistant at Mode magazine",
+     "a": "Ugly Betty",
+     "right": [
+      "Neel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 17,
+     "q": "By definition, it's what you do at an ingress",
+     "a": "enter",
+     "right": [
+      "Charles"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 7,
+     "q": "Opened in 1923, Yamazaki Distillery was this country's first",
+     "a": "Japan",
+     "right": [
+      "Charles"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 22,
+     "q": "Payment offered & made for the return of lost property",
+     "a": "a reward",
+     "right": [
+      "Charles"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "On honeymoon Rhett says, \"Forget about Atlanta. I brought you to\" this city \"to have fun\"",
+     "a": "New Orleans",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 13,
+     "q": "September 2, 1666:\nThis deadly conflagration begins",
+     "a": "the Great Fire of London",
+     "right": [
+      "Jennifer"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 3,
+     "q": "Kunal Nayyar as Caltech scientist Rajesh Koothrappali",
+     "a": "The Big Bang Theory",
+     "right": [
+      "Neel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 18,
+     "q": "Timbo the elephant lived at Shambala, the retreat of this former Hitchcock movie actress, & liked when she fed him Clorets",
+     "a": "Tippi Hedren",
+     "right": [
+      "Jennifer"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 8,
+     "q": "After moving across the Detroit River, this brand was forced by the U.S. to put its country of origin in its name",
+     "a": "Canadian Club",
+     "right": [
+      "Jennifer"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 23,
+     "q": "7-letter word for a grove of fruit or nut trees",
+     "a": "orchard",
+     "right": [
+      "Neel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 28,
+     "q": "Skeptical of the South's chances, Rhett notes that \"There's not a cannon factory south of\" this line",
+     "a": "the Mason-Dixon Line",
+     "right": [
+      "Jennifer"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 14,
+     "q": "December 12, 1189:\nThis monarch leaves England for the Crusades",
+     "a": "Richard the Lionhearted",
+     "right": [
+      "Charles"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 4,
+     "q": "Amanda Righetti as Grace Van Pelt, a rookie member of the California Bureau of Investigation",
+     "a": "The Mentalist",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 19,
+     "q": "If Simon LeBon had stomach acid going up his esophagus & causing heartburn, he'd be suffering this",
+     "a": "acid reflux",
+     "right": [
+      "Jennifer"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 9,
+     "q": "Bushmill's & Tullamore Dew come from this island",
+     "a": "Ireland",
+     "right": [
+      "Charles"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 24,
+     "q": "Clumsy, or hard to handle",
+     "a": "awkward",
+     "right": [
+      "Charles"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": true,
+     "order": 29,
+     "q": "The movie added this adverb to Rhett's famous final line",
+     "a": "frankly",
+     "right": [
+      "Jennifer"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2000
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 16,
+     "q": "January 9, 1806:\nThe state funeral for this naval war hero is conducted",
+     "a": "Nelson",
+     "right": [
+      "Neel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 5,
+     "q": "T.J. Thyne as Dr. Jack Hodgins, an expert on insects, spores & minerals at the Jeffersonian Institute",
+     "a": "Bones",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 20,
+     "q": "8-letter term for a jug of Pooh's favorite stuff, or for the wax structure that a queen bee builds to store her nectar",
+     "a": "honeypot",
+     "right": [
+      "Jennifer"
+     ],
+     "wrong": [
+      "Charles"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 10,
+     "q": "The tiny town of Penderyn houses this U.K. nation's only whisky distillery",
+     "a": "Wales",
+     "right": [
+      "Jennifer"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 25,
+     "q": "An explosive device used to break down a wall; you might be \"hoisted with your own\" if you're unlucky",
+     "a": "a petard",
+     "right": [
+      "Neel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 30,
+     "q": "Rhett: \"You've turned me out while you chased\" him, \"while you dreamed of\" him--not tonight",
+     "a": "Ashley Wilkes",
+     "right": [
+      "Jennifer"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "U.S. CITIES",
+    "THE SECOND TIME AROUND",
+    "LANGUAGE",
+    "ABLE ANIMALS",
+    "STAMP COLLECTING",
+    "RHETORIC"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 3,
+     "q": "This city's Haight-Ashbury District emerged in the 1960s as a mecca of the counterculture scene",
+     "a": "San Francisco",
+     "right": [
+      "Charles"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "\"Groovy Kind Of Love\":\nThe Mindbenders in 1966, this man in 1988",
+     "a": "Phil Collins",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 8,
+     "q": "Fur is spoken in this troubled westernmost province of Sudan",
+     "a": "Darfur",
+     "right": [
+      "Neel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 13,
+     "q": "When a snake sticks out its tongue, it's not tasting but using this sense",
+     "a": "smell",
+     "right": [
+      "Jennifer"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 18,
+     "q": "She's the subject of the world's first postage stamp, seen here & issued in 1840",
+     "a": "Queen Victoria",
+     "right": [
+      "Neel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 24,
+     "q": "5-letter word for when the intended meaning is different from the literal meaning",
+     "a": "irony",
+     "right": [
+      "Charles"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 4,
+     "q": "Yes, dear, this insurance center is the largest city in the Connecticut River Valley",
+     "a": "Hartford",
+     "right": [
+      "Jennifer"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 2,
+     "q": "\"Barbara Ann\":\nThe Regents in 1961, this group in 1966",
+     "a": "The Beach Boys",
+     "right": [
+      "Jennifer"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 9,
+     "q": "The lead singer of the band Dengue Fever is from this country & often sings in Khmer",
+     "a": "Cambodia",
+     "right": [
+      "Charles"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 14,
+     "q": "Cats have tapetum lucidum membranes in this body part, so they have 2 chances to catch photons",
+     "a": "their eyes",
+     "right": [
+      "Charles"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 19,
+     "q": "(Kelly of the Clue Crew shows a stamp on the monitor.) In the authentication process of certain stamps, detection fluid is applied to the back, revealing this type of transparent impression",
+     "a": "a watermark",
+     "right": [
+      "Jennifer"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 25,
+     "q": "\"To be or not to be\" is not a thesis but an example of this, also meaning \"the opposite\"",
+     "a": "antithesis",
+     "right": [],
+     "wrong": [
+      "Neel"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 5,
+     "q": "The American Friends Service Committee, a Quaker peace group, is headquartered in this city",
+     "a": "Philadelphia",
+     "right": [
+      "Jennifer"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 21,
+     "q": "\"Don't Let The Sun Go Down On Me\":\nElton John in 1974, this man & Elton in 1992",
+     "a": "George Michael",
+     "right": [
+      "Charles"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": true,
+     "order": 10,
+     "q": "Tok Pisin, spoken on New Guinea, is this type of blended language & Tok Pisin literally means \"talk\" this",
+     "a": "pidgin",
+     "right": [
+      "Charles"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 3000
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 15,
+     "q": "Rats have poor vision but can enhance their perception by using these, also called vibrissae",
+     "a": "whiskers",
+     "right": [
+      "Jennifer"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": true,
+     "order": 20,
+     "q": "The U.S. stopped issuing this type of stamp in the 1970s, when most domestic mail was being sent that way anyway",
+     "a": "airmail",
+     "right": [
+      "Jennifer"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2000
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 26,
+     "q": "As well as cell division, meiosis means this 14-letter term, like \"LeBron James is a decent player\"",
+     "a": "understatement",
+     "right": [
+      "Neel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 6,
+     "q": "\"Midnight in the Garden of Good and Evil\" is a nonfiction book about events in this Georgia city",
+     "a": "Savannah",
+     "right": [
+      "Charles"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 22,
+     "q": "\"This Old Heart Of Mine\":\nThe Isley Brothers in 1966, this man in 1990",
+     "a": "Rod Stewart",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 11,
+     "q": "Formed in 1906, the party to represent speakers of this language in Finland is still going strong",
+     "a": "Swedish",
+     "right": [],
+     "wrong": [
+      "Neel"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 16,
+     "q": "Some moths are able to detect chemical love signals called these up to 7 miles away",
+     "a": "pheromones",
+     "right": [
+      "Neel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 29,
+     "q": "From the Latin for \"remind\", it's a stamp, like the civil rights one seen here, issued to honor a person, place or event",
+     "a": "a commemorative stamp",
+     "right": [
+      "Charles"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 28,
+     "q": "Interrogatio is the classical name for this device that, unlike our clue, requires no response",
+     "a": "a rhetorical question",
+     "right": [
+      "Charles"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 7,
+     "q": "Texas' \"Sun City\", it's a sister city of Ciudad Juarez, Mexico",
+     "a": "El Paso, Texas",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 23,
+     "q": "\"You Don't Have To Say You Love Me\":\nThis woman in 1966, Elvis in 1970",
+     "a": "Dusty Springfield",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 12,
+     "q": "In ancient times, the Phoenician language spread to this city, where it became known as Punic",
+     "a": "Carthage",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 17,
+     "q": "This fish seen here has a rod & bait on top of its head to lure & catch prey",
+     "a": "an anglerfish",
+     "right": [
+      "Charles"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 30,
+     "q": "The postmark on the stamp & envelope indicates it's one of these collectibles mailed on the day it was originally issued",
+     "a": "a first day issue (a first day edition accepted)",
+     "right": [
+      "Jennifer"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 27,
+     "q": "Excursus is another term for this drift into a tangential or unrelated topic, from the Latin for \"to go aside\"",
+     "a": "digression",
+     "right": [
+      "Neel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "AUTHORS' QUOTATIONS",
+  "q": "\"I had no idea of originating an American flapper... I simply took girls whom I knew very well\" & \"used them for my heroines\"",
+  "a": "F. Scott Fitzgerald",
+  "right": [
+   "Neel",
+   "Charles",
+   "Jennifer"
+  ],
+  "wrong": []
+ },
+ "gameId": "3268",
+ "cat_notes": {
+  "J": [
+   "Clues about British History Datebook.",
+   "Clues about Tv's Supporting Casts.",
+   "A mixed potpourri of Pot-related clues.",
+   "Clues about The Whiskey Trail.",
+   "Each answer ends with “ARD”.",
+   "Rhett Butler's lines from the book or the film. It could be either one."
+  ],
+  "DJ": [
+   "Clues about U.S. Cities.",
+   "We're talking about songs that were hits twice.",
+   "Clues about Language.",
+   "Clues about Able Animals.",
+   "Clues about Stamp Collecting.",
+   "Clues about Rhetoric."
+  ],
+  "F": "Clues about Authors Quotations."
+ }
+}

@@ -1,0 +1,1002 @@
+{
+ "show": "#5937",
+ "aired": "2010-06-08",
+ "note": "",
+ "contestants": [
+  {
+   "name": "Jessica Freeman",
+   "bio": "an insurance claims examiner from San Angelo, Texas",
+   "short": "Jessica"
+  },
+  {
+   "name": "Peter Hall",
+   "bio": "a teaching artist at a museum from Brooklyn, New York",
+   "short": "Peter"
+  },
+  {
+   "name": "J.R. Lind",
+   "bio": "a newspaper reporter from Murfreesboro, Tennessee (whose 2-day cash winnings total $52,801)",
+   "short": "J.R."
+  }
+ ],
+ "scores": {
+  "J": {
+   "J.R.": 3600,
+   "Peter": 5000,
+   "Jessica": 3400
+  },
+  "DJ": {
+   "J.R.": 11200,
+   "Peter": 31800,
+   "Jessica": 10200
+  },
+  "Final": {
+   "J.R.": 20401,
+   "Peter": 36800,
+   "Jessica": 20201
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "I LOVE A SHOW TUNE",
+    "FOOD GLORIOUS FOOD",
+    "OLD DEUTERONOMY",
+    "YOU'RE A GRAND OLD FLAG",
+    "IF I WERE A RICH MAN...",
+    "\"S\"WONDERFUL"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 20,
+     "q": "Professor 'Enry 'Iggins sings, \"I've grown accustomed to her face\" in a song from this show",
+     "a": "My Fair Lady",
+     "right": [
+      "Peter"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 9,
+     "q": "Usually roasted, squab is a young one of these birds",
+     "a": "a pigeon",
+     "right": [],
+     "wrong": [
+      "J.R.",
+      "Peter",
+      "Jessica"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 14,
+     "q": "A series of these ill wishes includes one on \"he that taketh reward to slay an innocent person\"",
+     "a": "curses",
+     "right": [
+      "J.R."
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "This present country's red, white & green tricolor got a boost from an 1848 decree by the king of Sardinia",
+     "a": "Italy",
+     "right": [
+      "J.R."
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 17,
+     "q": "I'd say $47,500 for the 2009-10 term at this school in New Haven? No prob!",
+     "a": "Yale",
+     "right": [
+      "Jessica"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 4,
+     "q": "Here's the church; here's the high tower rising above it that's usually capped with a spire",
+     "a": "a steeple",
+     "right": [
+      "Jessica"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 23,
+     "q": "\"I feel pretty, oh so pretty, I feel pretty and witty and bright\" in a song from this musical",
+     "a": "West Side Story",
+     "right": [
+      "J.R."
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 10,
+     "q": "In a variation of Beef Wellington, Rachael Ray bakes meat, spinach & feta cheese in this Greek dough",
+     "a": "phyllo",
+     "right": [
+      "Jessica"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "\"Hear, O Israel: the Lord our God is one Lord\" from Deuteronomy is part of Maariv, evening these",
+     "a": "prayers",
+     "right": [
+      "J.R."
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "The blue on Panama's flag symbolizes the Pacific Ocean and this sea",
+     "a": "the Caribbean",
+     "right": [
+      "Peter"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 18,
+     "q": "I'd want &/or desire to buy this item seen here; it's about 45 carats, doc",
+     "a": "the Hope Diamond",
+     "right": [
+      "J.R."
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 5,
+     "q": "This Georgia city, home to the Bonaventure cemetery & statues, has been called \"America's most haunted\"",
+     "a": "Savannah",
+     "right": [
+      "Peter"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 24,
+     "q": "One of this title character's big numbers is \"The Music Of The Night\", which he sings to Christine",
+     "a": "the Phantom of the Opera",
+     "right": [
+      "Jessica"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 11,
+     "q": "Sheboygan, Wisconsin began its annual festival of this sausage in 1953",
+     "a": "bratwurst",
+     "right": [],
+     "wrong": [
+      "Peter"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 28,
+     "q": "Though its name is derived from the Greek for \"two\", Deuteronomy is this book of the Bible",
+     "a": "fifth",
+     "right": [],
+     "wrong": [
+      "J.R.",
+      "Peter"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": true,
+     "order": 3,
+     "q": "The yellow stripe on Sao Tome & Principe's flag represents this crop; you'd think it would be chocolate brown",
+     "a": "cocoa (or cacao)",
+     "right": [
+      "Peter"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1000
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 19,
+     "q": "I'd get a round-trip \"Upper Class\" ticket from NYC to Hong Kong on this man's Virgin Atlantic Airways; only $12,500!",
+     "a": "Branson",
+     "right": [
+      "Peter"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 6,
+     "q": "The buzz is that rocker Gordon Sumner got this nickname from wearing a favorite yellow & black sweater",
+     "a": "Sting",
+     "right": [
+      "Jessica"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 25,
+     "q": "A song from this show says, \"Won't forget, can't regret, what I did for love\"",
+     "a": "A Chorus Line",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 12,
+     "q": "A nutritious snack & fun to pop from their pods, green soybeans go by this Japanese name",
+     "a": "edamame",
+     "right": [
+      "Jessica"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "These dietary rules are detailed in Deuteronomy, like salting to remove blood",
+     "a": "kosher rules",
+     "right": [
+      "Peter"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 15,
+     "q": "This South Pacific island nation's flag was based on an idea from King George Tupou I",
+     "a": "Tonga",
+     "right": [
+      "J.R."
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 21,
+     "q": "I'd say to this \"Mouth of the South\", you gave the U.N. $1 billion in 1997? I'm givin' 'em 10!",
+     "a": "Ted Turner",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 7,
+     "q": "A wonderful vaccine largely for older people can help prevent this disease carried by the same virus as chicken pox",
+     "a": "shingles",
+     "right": [
+      "Jessica"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 26,
+     "q": "He wrote the song from \"The Gay Divorcee\" that says, \"Night and day, you are the one\"",
+     "a": "Cole Porter",
+     "right": [
+      "J.R."
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 13,
+     "q": "Made of coconut or almond paste, these drop cookies are especially popular at Passover",
+     "a": "macaroons",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 30,
+     "q": "Verses from Deuteronomy are contained in the Mezuzah, which you can usually find on this part of the house",
+     "a": "the doorway",
+     "right": [
+      "Peter"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 16,
+     "q": "Kenya's flag features an emblem depicting a shield & spears from this tribe",
+     "a": "the Masai tribe",
+     "right": [
+      "Peter"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 22,
+     "q": "I wouldn't have paid this Dallas Mavericks owner & his pals $5.7 bil. for broadcast.com like Yahoo! did in '99; maybe 5.6 tops",
+     "a": "Mark Cuban",
+     "right": [
+      "J.R."
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 8,
+     "q": "A blushing crow rather than a crushing blow is an example of this play on words",
+     "a": "a spoonerism",
+     "right": [
+      "Peter"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "ART HEISTS",
+    "WOODY ALLEN MOVIE SYNOPSES",
+    "LAKE POET-RY",
+    "HUEY, DEWEY OR LOUIS",
+    "LISTED IN THE WORLD ALMANAC",
+    "ALL YOU NEED IS \"LOVE\""
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 10,
+     "q": "After this painting went missing from the Louvre in 1911, people lined up just to view the empty space",
+     "a": "the Mona Lisa",
+     "right": [
+      "J.R."
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 13,
+     "q": "The arrival of a Spanish woman causes problems for a man & his relationships with 2 American girls",
+     "a": "Vicky Cristina Barcelona",
+     "right": [
+      "Jessica"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 6,
+     "q": "That time of year thou may'st in me behold /\nThe easternmost Great Lake, so we are told",
+     "a": "(Lake) Ontario",
+     "right": [
+      "J.R."
+     ],
+     "wrong": [
+      "Peter"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 16,
+     "q": "Despite the Chicago Tribune headline, he didn't defeat Truman",
+     "a": "Thomas Dewey",
+     "right": [
+      "J.R."
+     ],
+     "wrong": [
+      "Peter"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 24,
+     "q": "Born in 1982, this famous son is second in line to the British throne",
+     "a": "Prince William",
+     "right": [
+      "J.R."
+     ],
+     "wrong": [
+      "Peter"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "Rawlings makes them for ballplayers",
+     "a": "gloves",
+     "right": [
+      "J.R."
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 12,
+     "q": "In 2009 \"Landscape with Peasants\" by Flemish painter Jan Brueghel was stolen in Namur of this country--Interpol's on it",
+     "a": "Belgium",
+     "right": [
+      "J.R."
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": true,
+     "order": 20,
+     "q": "Abused wife seeks refuge in movie theater, falls for the fictional leading man",
+     "a": "The Purple Rose of Cairo",
+     "right": [
+      "Peter"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 6000
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 7,
+     "q": "In the room the women come and go /\nTalking of this largest Central American lake, amigo",
+     "a": "Lake Nicaragua",
+     "right": [
+      "J.R."
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 17,
+     "q": "\"The Shadow Riders\" & \"The Quick and the Dead\" are 2 of the many novels of the Old West by this author",
+     "a": "Louis L'Amour",
+     "right": [
+      "J.R."
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 30,
+     "q": "World Almanac lists his birth name (Paul David Hewson) & calls him a \"musician, social activist, and philanthropist\"",
+     "a": "Bono",
+     "right": [
+      "Jessica"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 2,
+     "q": "Split, like some hooves",
+     "a": "cloven",
+     "right": [
+      "Jessica"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 14,
+     "q": "In 1978 2 of his studies in bronze for his \"Burghers of Calais\" were stolen from a St. Louis museum",
+     "a": "Rodin",
+     "right": [
+      "Peter"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 21,
+     "q": "Bodyguard kills his boss' girlfriend so that the show can go on",
+     "a": "Bullets Over Broadway",
+     "right": [
+      "Peter"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 8,
+     "q": "It was many & many a year ago in a kingdom by this \"sea\" /\nThe 2nd & 4th largest lakes combined, can't compete with thee",
+     "a": "the Caspian Sea",
+     "right": [
+      "J.R."
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 18,
+     "q": "In 1935 Dr. Carl Weiss allegedly killed him in Louisiana",
+     "a": "Huey Long",
+     "right": [
+      "Peter"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 29,
+     "q": "The Almanac notes that the Reverend Sun Myung Moon was the founder of this church",
+     "a": "the Unification Church",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 3,
+     "q": "It seceded from Yugoslavia in 1991",
+     "a": "Slovenia",
+     "right": [
+      "Jessica"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 15,
+     "q": "His \"Poppies Near Vetheuil\" was discovered in the back seat of a car a week after it was stolen in Zurich",
+     "a": "Monet",
+     "right": [
+      "J.R."
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 22,
+     "q": "Ditzy prostitute is set up with boxer while Greek chorus weighs in on protagonist's fate",
+     "a": "Mighty Aphrodite",
+     "right": [
+      "Peter"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 9,
+     "q": "I hate to be a kicker, I don't want to start a fracas /\nIt's 50 miles from Tovar & 300 from Caracas",
+     "a": "Lake Maracaibo",
+     "right": [
+      "Peter"
+     ],
+     "wrong": [
+      "J.R."
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 27,
+     "q": "\"Pops\", a 2009 biography of this trumpeter, breaks the stories of his run-ins with Chicago gangsters & President Eisenhower",
+     "a": "Louis Armstrong",
+     "right": [
+      "Jessica"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 28,
+     "q": "The World Almanac says she's the \"American-born widow of Jordan's King Hussein\"",
+     "a": "Queen Noor",
+     "right": [
+      "Peter"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 4,
+     "q": "Careless or untidy",
+     "a": "slovenly",
+     "right": [
+      "Peter"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": true,
+     "order": 19,
+     "q": "In 1976 she sued for the return of 3 paintings, claiming they'd been stolen from Alfred Stieglitz' gallery in 1946",
+     "a": "Georgia O'Keeffe",
+     "right": [
+      "Peter"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 6000
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 23,
+     "q": "\"Sugary\" biography of pimp turned jazz guitar hero; he likes to shoot rats",
+     "a": "Sweet and Lowdown",
+     "right": [
+      "Peter"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 11,
+     "q": "Do not go gentle into this \"ursine\" Canadian lake /\nRage, rage against the cold; it can be just too much to take",
+     "a": "Great Bear Lake",
+     "right": [
+      "Peter"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 26,
+     "q": "This oversized cartoon duckling debuted in the 1950 release \"Quack a Doodle Doo\"",
+     "a": "Baby Huey",
+     "right": [
+      "J.R."
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 25,
+     "q": "Gerry Adams, born in Belfast, is listed as a leader of this political organization, \"We Ourselves\"",
+     "a": "Sinn Féin",
+     "right": [
+      "Peter"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 5,
+     "q": "A common name for trefoil",
+     "a": "clover",
+     "right": [
+      "Jessica"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "U.S. MILITARY HISTORY",
+  "q": "This general commanded the first official American force to fight on the European continent",
+  "a": "John Pershing",
+  "right": [
+   "Jessica",
+   "J.R.",
+   "Peter"
+  ],
+  "wrong": []
+ },
+ "gameId": "3408",
+ "cat_notes": {
+  "J": [
+   "The category “I LOVE A SHOW TUNE” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "Clues about Food Glorious Food.",
+   "Clues about Old Deuteronomy.",
+   "Clues about You're a Grand Old Flag.",
+   "The category “IF I WERE A RICH MAN...” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "Each answer contains the letter “S”, and the clues are about Wonderful."
+  ],
+  "DJ": [
+   "Clues about Art Heists.",
+   "Clues about Woody Allen Movie Synopses.",
+   "Clues about lakes, riffing on the title “LAKE POET-RY”.",
+   "In this category, [*] we're going to need more than just one of those names.",
+   "Clues about Listed in the World Almanac.",
+   "Each answer contains the letter group “LOVE”."
+  ],
+  "F": "Clues about U.S. Military History."
+ }
+}

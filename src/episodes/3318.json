@@ -1,0 +1,1002 @@
+{
+ "show": "#5857",
+ "aired": "2010-02-16",
+ "note": "",
+ "contestants": [
+  {
+   "name": "Christy Brown",
+   "bio": "a residence hall director from Austin, Texas",
+   "short": "Christy"
+  },
+  {
+   "name": "Jeremy Apsley",
+   "bio": "a bartender from Cleveland, Ohio",
+   "short": "Jeremy"
+  },
+  {
+   "name": "Yevgeny Shrago",
+   "bio": "a research assistant originally from Rochester, New York (whose 1-day cash winnings total $24,600)",
+   "short": "Yevgeny"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Yevgeny": 11000,
+   "Jeremy": 1600,
+   "Christy": 3600
+  },
+  "DJ": {
+   "Yevgeny": 26800,
+   "Jeremy": 15400,
+   "Christy": 8800
+  },
+  "Final": {
+   "Yevgeny": 22799,
+   "Jeremy": 30400,
+   "Christy": 2199
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "COUNTRY OF ORIGIN",
+    "WOMEN'S SPORTS HISTORY",
+    "THE \"S\" FILES",
+    "SEWARD'S FOLLIES",
+    "ALASKA",
+    "ASSEMBLY LINE"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "San Pellegrino, as in sparkling natural mineral water",
+     "a": "Italy",
+     "right": [
+      "Christy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 12,
+     "q": "Around 1875, this woman beats her future husband, marksman Frank Butler, in a shooting match",
+     "a": "Annie Oakley",
+     "right": [
+      "Jeremy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 16,
+     "q": "This plant is one of the symbols of Ireland",
+     "a": "the shamrock",
+     "right": [
+      "Jeremy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 22,
+     "q": "In 1867 William Seward negotiated the purchase of Alaska from this nation for $7.2 million",
+     "a": "Russia",
+     "right": [
+      "Yevgeny"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 6,
+     "q": "About half of Alaska's 600,000 residents live within this city's metropolitan area",
+     "a": "Anchorage",
+     "right": [
+      "Yevgeny"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 11,
+     "q": "(Alex looks over the assembly line at the Ford Motor Company in Dearborn, MI.) I know it looks like a scene from a sci-fi film, but these robots are doing this important but hazardous job that helps keep some of the metal parts together",
+     "a": "welding",
+     "right": [
+      "Christy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "Birkenstock, as in shoes",
+     "a": "Germany",
+     "right": [
+      "Jeremy"
+     ],
+     "wrong": [
+      "Yevgeny"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 13,
+     "q": "1950:\n12 year-old Kathryn Johnston becomes the first girl to play in this sports organization",
+     "a": "Little League (Baseball)",
+     "right": [
+      "Yevgeny"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 17,
+     "q": "Augustin Edouard was a prolific French artist specializing in this type of picture seen here",
+     "a": "a silhouette",
+     "right": [
+      "Yevgeny"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 23,
+     "q": "Seward was elected to the Senate in 1848 as a member of this now-defunct political party",
+     "a": "the Whigs",
+     "right": [
+      "Yevgeny"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 7,
+     "q": "They're the Canadian province & the Canadian territory that border Alaska",
+     "a": "British Columbia & the Yukon Territory",
+     "right": [
+      "Christy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "(Alex walks the assembly line at the Ford Motor Company in Dearborn, MI.) This Ford plant turns out one vehicle every minute; Henry Ford's original streamlined plant in the early 1900s turned out one of this famous model every 90 minutes",
+     "a": "the Model T",
+     "right": [
+      "Christy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 3,
+     "q": "Baccarat, as in crystal",
+     "a": "France",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": true,
+     "order": 14,
+     "q": "1567:\nShe is said to have been the first woman to play golf",
+     "a": "Mary, Queen of Scots",
+     "right": [
+      "Yevgeny"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1600
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 19,
+     "q": "It's believed that this highly infectious disease killed Pocahontas",
+     "a": "smallpox",
+     "right": [
+      "Yevgeny"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 24,
+     "q": "Devout abolitionists, Seward & his wife sheltered fugitive slaves as a part of this network",
+     "a": "the underground railroad",
+     "right": [
+      "Jeremy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 8,
+     "q": "This archipelago of more than 300 islands stretches 1,200 miles from Alaska towards the Kamchatka Peninsula",
+     "a": "the Aleutians",
+     "right": [
+      "Yevgeny"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 28,
+     "q": "(Jimmy of the Clue Crew reports from the assembly line at the Ford Motor Company in Dearborn, MI.) In 2009, Ford's Dearborn truck assembly line added an extra shift of workers to restock inventories depleted by the success of this federal program",
+     "a": "Cash for Clunkers",
+     "right": [
+      "Christy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 4,
+     "q": "Burberry, as in fashion",
+     "a": "Britain",
+     "right": [
+      "Yevgeny"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 15,
+     "q": "1937:\nEntering a mostly male domain, Conchita Cintron begins her career as one of these in Mexico",
+     "a": "a bullfighter",
+     "right": [
+      "Christy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 20,
+     "q": "Bordering Arizona, it's Mexico's second largest state in area",
+     "a": "Sonora",
+     "right": [
+      "Yevgeny"
+     ],
+     "wrong": [
+      "Jeremy"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 25,
+     "q": "Seward served both Lincoln & Johnson in this cabinet post",
+     "a": "Secretary of State",
+     "right": [
+      "Yevgeny"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 9,
+     "q": "More than half of all fish consumed in the U.S. are caught in this sea between Siberia & Alaska",
+     "a": "the Bering Sea",
+     "right": [
+      "Yevgeny"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "(Alex leans against a partly completed car at the Ford Motor Company in Dearborn, MI.) Here's something you definitely want to have in your home workshop--it's a power assist arm to do the heavy lifting; today it's being used to install over 100 pound instrument clusters; it also helps prevent job-related injuries like RSS, which is this kind of stress syndrome",
+     "a": "repetitive",
+     "right": [
+      "Yevgeny"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 5,
+     "q": "CITGO, as in gas (go south)",
+     "a": "Venezuela",
+     "right": [
+      "Yevgeny"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 18,
+     "q": "1932:\nAt the AAU National Track & Field Meet, she wins the team championship single-handedly",
+     "a": "(Babe Didrikson) Zaharias",
+     "right": [
+      "Yevgeny"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 21,
+     "q": "(Jimmy of the Clue Crew shows an illustration of a prism.) When light passes through a prism & is bent by refraction, it splits into its various colors, the visible one of these",
+     "a": "the spectrum",
+     "right": [
+      "Jeremy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 26,
+     "q": "Before his time on the national stage, Seward was born in, attended Union College in & was governor of this state",
+     "a": "New York",
+     "right": [
+      "Christy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 10,
+     "q": "Northeast Alaska is dominated by ANWR, short for the Arctic this, which covers 19 million acres",
+     "a": "the National Wildlife Refuge",
+     "right": [
+      "Yevgeny"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 30,
+     "q": "(Alex reports from the line at the Ford Motor Company in Dearborn, MI.) To increase manufacturing efficiency, the engine will fit not only the truck here, but a whole variety of others, which makes it this kind of interchangeable part, from the Latin for \"unit of measurement\"",
+     "a": "modular",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "THE UNITED NATIONS",
+    "DIRECT TV",
+    "BOOK OF...",
+    "MEN OF SCIENCE",
+    "FOOD NAMED FOR PEOPLE",
+    "ANTONYMS"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 5,
+     "q": "The 1st formal U.N. peacekeeping force was formed in 1956 to deal with a dispute over this Middle Eastern waterway",
+     "a": "the Suez Canal",
+     "right": [
+      "Jeremy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 11,
+     "q": "Cast members Mike Farrell & David Ogden Stiers both directed episodes of this hit show",
+     "a": "M*A*S*H",
+     "right": [
+      "Jeremy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "A 19th century Egyptologist gave the title \"Book of\" this to a collection of spells written to be put in tombs",
+     "a": "The Book of the Dead",
+     "right": [
+      "Jeremy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 16,
+     "q": "In 1986 Dr. Alec Jeffreys became the first scientist to use this to identify suspected criminals",
+     "a": "DNA",
+     "right": [
+      "Christy"
+     ],
+     "wrong": [
+      "Jeremy"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 26,
+     "q": "This lettuce is named for the horticulturist, not the garment that protects babies from spills",
+     "a": "Bibb",
+     "right": [
+      "Christy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 21,
+     "q": "Paired antonyms in a rhyme mandating wedding attire",
+     "a": "something old, something new",
+     "right": [
+      "Yevgeny"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 6,
+     "q": "On the United Nations' flag, a wreath of these symbolizes peace",
+     "a": "olive branches",
+     "right": [
+      "Jeremy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 12,
+     "q": "Richard Schiff directed 2 episodes of this political series on which he played Toby Ziegler",
+     "a": "The West Wing",
+     "right": [
+      "Jeremy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 2,
+     "q": "E.L. Doctorow wrote a novel titled \"The Book of\" him, like a biblical book set in Babylon",
+     "a": "Daniel",
+     "right": [
+      "Yevgeny"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 17,
+     "q": "Albert Hoffman, who died aged 102 in 2008, was best known for synthesizing this 3-letter hallucinogen",
+     "a": "LSD",
+     "right": [
+      "Jeremy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 27,
+     "q": "This fettucine dish became famous when Mary Pickford & Douglas Fairbanks crowned the chef the King of the Noodles",
+     "a": "fettucine Alfredo",
+     "right": [
+      "Jeremy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 22,
+     "q": "Resource-conscious fishermen practice catch & this",
+     "a": "release",
+     "right": [
+      "Yevgeny"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 7,
+     "q": "Meeting at The Hague, it's the U.N.'s judicial organ",
+     "a": "the World Court",
+     "right": [
+      "Jeremy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 13,
+     "q": "Pamela Fryman directed \"A Lungful of Alan\", an episode of this sitcom that co-stars Jon Cryer",
+     "a": "Two and a Half Men",
+     "right": [
+      "Christy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": true,
+     "order": 3,
+     "q": "First published in 1830, it tells of a migration from Jerusalem to America led by the prophet Lehi",
+     "a": "The Book of Mormon",
+     "right": [
+      "Yevgeny"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 3800
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 18,
+     "q": "Rocket pioneer Robert Goddard discovered the best liquid fuel was a combination of gasoline and this, aka LOx",
+     "a": "liquid oxygen",
+     "right": [
+      "Yevgeny"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 28,
+     "q": "In the late 1800s a doctor created this ground steak, which he said was a prescription for good health",
+     "a": "Salisbury",
+     "right": [
+      "Yevgeny"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 23,
+     "q": "This cheese-shredding son of Zebedee was taller than St. James the Less",
+     "a": "St. James the Greater",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 8,
+     "q": "The newest member of the United Nations is this country that separated from Serbia in 2006",
+     "a": "Montenegro",
+     "right": [
+      "Yevgeny"
+     ],
+     "wrong": [
+      "Christy"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 14,
+     "q": "Both parts of the 2004 pilot of this enigmatic ABC show were directed by creator J.J. Abrams",
+     "a": "Lost",
+     "right": [
+      "Christy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 4,
+     "q": "Once almost as popular as the Bible was John Foxe's \"Book of\" these people who suffered for their (Protestant) faith",
+     "a": "The Book of Martyrs",
+     "right": [
+      "Christy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 19,
+     "q": "The flask that this British scientist invented in the 1890s was a predecessor of the Thermos",
+     "a": "James Dewar",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 29,
+     "q": "Escoffier created & named an exceedingly thin & dry toast for this Australian opera singer",
+     "a": "(Nellie) Melba",
+     "right": [
+      "Jeremy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 24,
+     "q": "This 4-letter antonym of \"deranged\" comes from the Latin for \"healthy\"",
+     "a": "sane",
+     "right": [
+      "Christy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 10,
+     "q": "The signing of the U.N. Charter took place in this West Coast city in June 1945",
+     "a": "San Francisco",
+     "right": [
+      "Yevgeny"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 15,
+     "q": "\"The Nerdvana Annihilation\" & \"The Loobenfeld Decay\" episodes of this sitcom were directed by Mark Cendrowski",
+     "a": "Big Bang Theory",
+     "right": [
+      "Yevgeny"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 9,
+     "q": "In 1528 Castiglione described the perfect royal attendant in \"Libro del Cortegiano\", \"Book of\" this person",
+     "a": "(the) Courtier",
+     "right": [
+      "Yevgeny"
+     ],
+     "wrong": [
+      "Christy"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 20,
+     "q": "The first mention of this scientist's theoretical cat was in 1935's \"The Present Situation in Quantum Physics\"",
+     "a": "Schrödinger",
+     "right": [
+      "Christy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": true,
+     "order": 30,
+     "q": "This raw, thinly sliced beef is named for a Renaissance painter whose red colors were deep & rich",
+     "a": "Carpaccio",
+     "right": [
+      "Jeremy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 5000
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 25,
+     "q": "A Hemingway character says he went bankrupt \n\"gradually and then\" this way",
+     "a": "suddenly",
+     "right": [
+      "Jeremy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "THE AFI's 50 GREATEST FILM HEROES",
+  "q": "Of the 50 on the list, the only character that wasn't portrayed by a human",
+  "a": "Lassie",
+  "right": [
+   "Jeremy"
+  ],
+  "wrong": [
+   "Christy",
+   "Yevgeny"
+  ]
+ },
+ "gameId": "3318",
+ "cat_notes": {
+  "J": [
+   "Clues about Country of Origin.",
+   "Clues about Women's Sports History.",
+   "Each answer contains the letter “S”.",
+   "Clues about Seward's Follies.",
+   "Clues about Alaska.",
+   "We're on the [*] at Ford's Dearborn truck plant. It's a lot different than in Henry's day."
+  ],
+  "DJ": [
+   "Clues about The United Nations.",
+   "Clues about Direct TV.",
+   "Clues about Book Of.",
+   "Clues about Men of Science.",
+   "Clues about Food Named for People.",
+   "Clues about Antonyms."
+  ],
+  "F": "--American Film Institute's--."
+ }
+}

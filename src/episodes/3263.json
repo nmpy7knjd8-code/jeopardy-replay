@@ -1,0 +1,994 @@
+{
+ "show": "#5822",
+ "aired": "2009-12-29",
+ "note": "Stephen Weingarten game 4.",
+ "contestants": [
+  {
+   "name": "Breanne Reinhard Smith",
+   "bio": "a writer from Arcola, Illinois",
+   "short": "Breanne"
+  },
+  {
+   "name": "Chris Gleason",
+   "bio": "a purchasing agent originally from San Diego, California",
+   "short": "Chris"
+  },
+  {
+   "name": "Stephen Weingarten",
+   "bio": "a paraeducator from Portland, Oregon (whose 3-day cash winnings total $78,298)",
+   "short": "Stephen"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Stephen": 3600,
+   "Chris": 7400,
+   "Breanne": 4800
+  },
+  "DJ": {
+   "Stephen": 9200,
+   "Chris": 14200,
+   "Breanne": 12800
+  },
+  "Final": {
+   "Stephen": 18392,
+   "Chris": 1200,
+   "Breanne": 5000
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "THE SMITHS",
+    "BIBLE BOOKS BY QUOTATION",
+    "YOU'RE ALL WET",
+    "JAVA, THE HUT",
+    "NAME THAT SPORT",
+    "I CAN DO IT IN 5 \"NOTE\"S"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 15,
+     "q": "Explorer said to have been saved by Pocahontas",
+     "a": "John Smith",
+     "right": [
+      "Stephen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 18,
+     "q": "\"And God remembered Noah, and every living thing, and all the cattle that was with him in the ark\"",
+     "a": "Genesis",
+     "right": [
+      "Breanne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "To see the tides in the Bay of Fundy at their highest, visit Minas Basin in this country",
+     "a": "Canada",
+     "right": [
+      "Stephen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 26,
+     "q": "This restaurant's new McCafe offers iced coffee as well as the hot stuff",
+     "a": "McDonald's",
+     "right": [
+      "Breanne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 5,
+     "q": "PGA",
+     "a": "golf",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 10,
+     "q": "Letter-perfect slang for a $100 bill",
+     "a": "a C-note",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 17,
+     "q": "Howdy Doody, seen here as a bobblehead, was created by this man, his TV costar",
+     "a": "Buffalo Bob Smith",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 22,
+     "q": "\"And God spake unto Moses, and said unto him, I am the lord\"",
+     "a": "Exodus",
+     "right": [
+      "Breanne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "Wisconsin honeymooners may visit Big Manitou, at 165 feet one of the highest of these east of the Rockies",
+     "a": "a waterfall",
+     "right": [
+      "Stephen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "The Coffee Bean & Tea Leaf offers herbal infusions like lemon chamomile that are \"100%\" this \"-free\"",
+     "a": "caffeine",
+     "right": [
+      "Stephen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 6,
+     "q": "MLS",
+     "a": "soccer",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 11,
+     "q": "The late author David Foster Wallace was known for using these at the bottoms of pages",
+     "a": "footnotes",
+     "right": [
+      "Breanne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": true,
+     "order": 19,
+     "q": "Founded a church in 1830, murdered 14 years later",
+     "a": "Joseph Smith",
+     "right": [
+      "Breanne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1200
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 23,
+     "q": "\"So they took up (him), and cast him forth into the sea\"",
+     "a": "Jonah",
+     "right": [
+      "Breanne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 3,
+     "q": "3 streams, the Jordan, Bear & Weber, flow in, but there are no streams that empty this large U.S. lake",
+     "a": "the Great Salt Lake",
+     "right": [
+      "Stephen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 28,
+     "q": "This coffee company's logo features 2 stars & a twin-tailed mermaid",
+     "a": "Starbucks",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 7,
+     "q": "USTA, founded in 1881",
+     "a": "tennis",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 12,
+     "q": "Barack Obama delivered this speech at the 2004 Democratic National Convention",
+     "a": "keynote",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 20,
+     "q": "Leading blues singer of the 1920s who recorded nearly 200 songs",
+     "a": "Bessie Smith",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 24,
+     "q": "\"Then Satan answered the Lord, and said, doth (this man) fear God for nought?\"",
+     "a": "Job",
+     "right": [
+      "Breanne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 4,
+     "q": "(Jimmy of the Clue Crew shows an animated map of the Atlantic on the monitor.) The fusion of the north & south equatorial currents along with water from the Gulf of Mexico form this warm current",
+     "a": "the Gulf Stream",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "Try a Kaffe Kreme at this shop where their coffee is as good as their doughnuts",
+     "a": "Krispy Kreme",
+     "right": [
+      "Stephen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 8,
+     "q": "USAV",
+     "a": "volleyball",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 13,
+     "q": "It's the fractional music item seen here",
+     "a": "a half-note",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 21,
+     "q": "Rhodesian politician who declared independence from Great Britain",
+     "a": "Ian Smith",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 25,
+     "q": "\"And when he had opened the seventh seal, there was silence in heaven about the space of half an hour\"",
+     "a": "Revelation",
+     "right": [
+      "Stephen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 16,
+     "q": "The name of this ocean is derived from the name of a Titan in Greek myth who was a brother of Prometheus",
+     "a": "the Atlantic",
+     "right": [
+      "Stephen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 30,
+     "q": "Have some joe at cafes named for this fictional Colombian who represents more than 500,000 coffee growers",
+     "a": "Juan Valdez",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 9,
+     "q": "PBA, founded in 1958",
+     "a": "bowling",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 14,
+     "q": "To signify certain ideas in addition to the explicit meaning",
+     "a": "connote",
+     "right": [
+      "Breanne"
+     ],
+     "wrong": [
+      "Stephen"
+     ],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "UNCIVIL UNREST",
+    "ACTORS & THEIR ROLES",
+    "MEALTIME LIT",
+    "BRAND \"X\"",
+    "WE HAWK OLD INVENTIONS",
+    "LITTLE-USED WORDS"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 11,
+     "q": "\"This is the farewell kiss, you dog\", said Muntader al-Zaidi as he threw both of these at Pres. Bush in Dec. 2008",
+     "a": "his shoes",
+     "right": [
+      "Stephen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 6,
+     "q": "Colonel Claus von Stauffenberg & Ron Kovic",
+     "a": "Tom Cruise",
+     "right": [
+      "Stephen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "Perhaps Mr. Capote feasted on French toast while writing this 1958 tale of Miss Golightly",
+     "a": "Breakfast at Tiffany's",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 3,
+     "q": "This brand's packages were originally labeled \"sanitary cold cream remover\"",
+     "a": "Kleenex",
+     "right": [],
+     "wrong": [
+      "Breanne"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 19,
+     "q": "He got movable type moving, & there are only about 40 of his 1450s Bible left! Act now!",
+     "a": "Gutenberg",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "A malison is a curse; a benison is this",
+     "a": "a blessing",
+     "right": [
+      "Breanne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 12,
+     "q": "The decidedly misnamed Avenue of Eternal Peace on this square was the site of deadly protests in 1989",
+     "a": "Tiananmen Square",
+     "right": [
+      "Stephen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 7,
+     "q": "Tinkerbell & Erin Brockovich",
+     "a": "Julia Roberts",
+     "right": [
+      "Breanne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 22,
+     "q": "William Inge may have needed bug repellent while writing this 1953 play",
+     "a": "Picnic",
+     "right": [],
+     "wrong": [
+      "Stephen"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 4,
+     "q": "Pursue perfection with this make of car whose logo is seen here",
+     "a": "Lexus",
+     "right": [
+      "Stephen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 26,
+     "q": "In December 1877 editors of Sci. American checked out his cylinder phonograph; the sentimental value alone is huge!",
+     "a": "Edison",
+     "right": [
+      "Stephen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 18,
+     "q": "The cholesterol-conscious may order a glair omelet, glair meaning this",
+     "a": "egg-white",
+     "right": [
+      "Stephen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 13,
+     "q": "Seen here is an illustration of this 1773 protest",
+     "a": "the Boston Tea Party",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 8,
+     "q": "Larry Gigli & George Reeves",
+     "a": "Ben Affleck",
+     "right": [
+      "Breanne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 23,
+     "q": "Anne Tyler sported a full menu when she wrote the bestselling \"Dinner at\" this \"Restaurant\"",
+     "a": "Dinner at the Homesick Restaurant",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 5,
+     "q": "This Mars candy bar is 2 fingers of cookie, caramel & chocolate",
+     "a": "Twix",
+     "right": [
+      "Breanne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 27,
+     "q": "We have a certain \"view\" of this guy who 1st perfected his \"quick freeze machine\" for fish in 1926; enjoy our 1/2-priced halibut!",
+     "a": "(Clarence) Birdseye",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": true,
+     "order": 20,
+     "q": "An horologe is any device that gives you this information",
+     "a": "time",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 3600
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 14,
+     "q": "Washington, D.C. & Seattle have been targets of heated protests against the World Bank & the IMF, short for this",
+     "a": "International Monetary Fund",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 9,
+     "q": "Elizabeth Swann & Elizabeth Bennet",
+     "a": "Keira Knightley",
+     "right": [
+      "Breanne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 24,
+     "q": "After \"The Hitchhiker's Guide to the Galaxy\", he served up \"The Long Dark Tea-Time of the Soul\"",
+     "a": "Douglas Adams",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 16,
+     "q": "This company's Jack Kilby created the first integrated circuit back in 1958",
+     "a": "Texas Instruments",
+     "right": [],
+     "wrong": [
+      "Stephen"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 28,
+     "q": "Within 10 years of inventing the steel plow in 1837, he was producing 1,000 annually; nothing runs like...",
+     "a": "John Deere",
+     "right": [
+      "Breanne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 21,
+     "q": "Dundrearies are long these worn with a hairless chin",
+     "a": "sideburns",
+     "right": [
+      "Breanne"
+     ],
+     "wrong": [
+      "Chris"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 15,
+     "q": "These 1886 Chicago riots involved strikers from the McCormick Reaper Works",
+     "a": "the Haymarket Riots",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 10,
+     "q": "Wyatt Earp & Snake Plissken",
+     "a": "Kurt Russell",
+     "right": [
+      "Stephen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 29,
+     "q": "We hope William S. Burroughs was clothed while writing this tale of a trip to the \"interzone\"",
+     "a": "Naked Lunch",
+     "right": [
+      "Stephen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": true,
+     "order": 17,
+     "q": "Lesney Products, a London die-casting business, introduced this toy brand in 1953",
+     "a": "Matchbox",
+     "right": [],
+     "wrong": [
+      "Chris"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 3600
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 30,
+     "q": "You can't put a price on this German's scale for classifying the relative hardness of minerals--but we can!",
+     "a": "(Friedrich) Mohs",
+     "right": [
+      "Chris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 25,
+     "q": "One of these may have shapely futtocks: a futtock is a curved timber in its frame",
+     "a": "a ship",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "AMERICAN MUSIC",
+  "q": "The brilliance of Anne Brown, a soprano, changed the title of a 1935 opera that was to be called simply this one name",
+  "a": "Porgy",
+  "right": [
+   "Stephen"
+  ],
+  "wrong": [
+   "Breanne",
+   "Chris"
+  ]
+ },
+ "gameId": "3263",
+ "cat_notes": {
+  "J": [
+   "Clues about The Smiths.",
+   "Clues about Bible Books by Quotation.",
+   "Clues about You're All Wet.",
+   "Clues about Java, the Hut.",
+   "Clues about Name That Sport.",
+   "Each answer contains the letter group “NOTE”."
+  ],
+  "DJ": [
+   "Clues about Uncivil Unrest.",
+   "Clues about Actors and Their Roles.",
+   "Clues about Mealtime Lit.",
+   "Each correct response will contain an \"X\".",
+   "The category “WE HAWK OLD INVENTIONS” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "Clues about Little-used Words."
+  ],
+  "F": "Clues about American Music."
+ }
+}

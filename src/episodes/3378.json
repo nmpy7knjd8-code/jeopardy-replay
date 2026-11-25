@@ -1,0 +1,990 @@
+{
+ "show": "#5908",
+ "aired": "2010-04-28",
+ "note": "Buddy Wright game 1.",
+ "contestants": [
+  {
+   "name": "Alexandra Helprin",
+   "bio": "an art history graduate student from New York, New York",
+   "short": "Alexandra"
+  },
+  {
+   "name": "Buddy Wright",
+   "bio": "an operations engineer from Fort Worth, Texas",
+   "short": "Buddy"
+  },
+  {
+   "name": "Randall Johnson",
+   "bio": "an enologist from Seattle, Washington (whose 2-day cash winnings total $18,400)",
+   "short": "Randall"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Randall": 5200,
+   "Buddy": 7400,
+   "Alexandra": 3000
+  },
+  "DJ": {
+   "Randall": 13600,
+   "Buddy": 14400,
+   "Alexandra": 13400
+  },
+  "Final": {
+   "Randall": 3600,
+   "Buddy": 27201,
+   "Alexandra": 26400
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "WHERE THERE'S A WILL SHAKESPEARE",
+    "SPORTS EQUIPMENT",
+    "AT THE DRUGSTORE",
+    "THE COUGAR",
+    "IN A MUSICAL MOOD",
+    "PLAYING BY \"EAR\""
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 3,
+     "q": "Shakespeare survived this deadly scourge that killed more than 30,000 in London alone in 1603",
+     "a": "the bubonic plague",
+     "right": [
+      "Randall"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "When rollerblading, wear safety gear, including knee & elbow pads & one of these, required for motorcyclists",
+     "a": "a helmet",
+     "right": [
+      "Randall"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 8,
+     "q": "It's the \"nighttime, sniffling, sneezing, coughing, aching, fever, sleep better to feel better medicine\"",
+     "a": "NyQuil",
+     "right": [
+      "Buddy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 26,
+     "q": "In 2008 police shot a 125-lb. cougar running loose on this toddlin' town's north side",
+     "a": "Chicago",
+     "right": [
+      "Buddy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 21,
+     "q": "A barcarole is a traditional song of a gondolier of this city",
+     "a": "Venice",
+     "right": [
+      "Buddy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 16,
+     "q": "Long pointed rod used as a weapon",
+     "a": "a spear",
+     "right": [
+      "Buddy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 4,
+     "q": "Shakespeare was spelled more than 14 different ways & there are only 6 or 7 known specimens of this",
+     "a": "his signature",
+     "right": [
+      "Buddy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "(Sarah of the Clue Crew reports from Trek Bicycle Corporation in Wisconsin.) Trek Bikes has a place of honor for one of the first of these bikes, made by Gary Fisher, who took to the hills after being kicked out of bike racing for having long hair",
+     "a": "mountain bikes",
+     "right": [
+      "Alexandra"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 9,
+     "q": "No need to be embarrassed by this condition--try Selsun Blue or Sebulex on aisle 5",
+     "a": "dandruff",
+     "right": [
+      "Alexandra"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "The primary habitat of the subspecies Felis concolor azteca includes parts of the U.S. & this country",
+     "a": "Mexico",
+     "right": [
+      "Randall"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 22,
+     "q": "Squeezebox is another name for this instrument",
+     "a": "an accordion",
+     "right": [
+      "Buddy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 17,
+     "q": "The Martian one lasts 687 days",
+     "a": "a year",
+     "right": [
+      "Buddy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 5,
+     "q": "Term for a resident of a certain English town, or a person who thinks Shakespeare really did write \"Hamlet\", etc.",
+     "a": "Stratfordian",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 13,
+     "q": "It can be a type of shoe or a type of golf club for lofting the ball, especially out of sand traps",
+     "a": "a wedge",
+     "right": [
+      "Randall"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 10,
+     "q": "Big bright smiles for this brand of Whitestrips that first hit shelves nationally in 2001",
+     "a": "Crest",
+     "right": [
+      "Randall"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 28,
+     "q": "The cougar's range overlaps with that of this slightly larger central & South American cousin",
+     "a": "the jaguar",
+     "right": [
+      "Alexandra"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 23,
+     "q": "\"What Do We Do With The Drunken Sailor?\" is a popular one of these maritime work songs",
+     "a": "a chanty",
+     "right": [
+      "Buddy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 18,
+     "q": "To char the surface of meat on a grill",
+     "a": "to sear",
+     "right": [
+      "Randall"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": true,
+     "order": 6,
+     "q": "Right on, Willy! The phrase \"right on\" appears in Act III of this Shakespeare play that takes place in 44 B.C.",
+     "a": "Julius Caesar",
+     "right": [
+      "Buddy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1000
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 14,
+     "q": "Also called a birdie, it's the object that's struck back & forth in a game of badminton",
+     "a": "a shuttlecock",
+     "right": [
+      "Randall"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 11,
+     "q": "Like Dramamine, Bonine is designed to prevent nausea & dizziness caused by this",
+     "a": "motion sickness",
+     "right": [
+      "Buddy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "The cougar is also called the mountain lion, the panther, the catamount & this, like a track shoe",
+     "a": "the puma",
+     "right": [
+      "Alexandra"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 24,
+     "q": "To sing in this \"chapel\" style is to sing without instrumental backing",
+     "a": "a cappella",
+     "right": [
+      "Alexandra"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 19,
+     "q": "8-letter word for what you do when you eavesdrop",
+     "a": "overhear",
+     "right": [
+      "Randall"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 7,
+     "q": "In 1957 this giant of theater started staging Shakespeare in Central Park",
+     "a": "Joseph Papp",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 15,
+     "q": "This brand makes bats & racquets too, but since the movie \"Cast Away\" came out, it may be best known for volleyballs",
+     "a": "Wilson",
+     "right": [
+      "Buddy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 12,
+     "q": "According to its logo, this brand of medicated powders has been \"healing since 1908\"",
+     "a": "Gold Bond",
+     "right": [
+      "Randall"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 30,
+     "q": "The only large population of cougars in the southeastern U.S. is in this state, where they're called panthers",
+     "a": "Florida",
+     "right": [
+      "Buddy"
+     ],
+     "wrong": [
+      "Randall"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 25,
+     "q": "This paired musical instrument heard here is popular throughout Asia & the Middle East",
+     "a": "the tabla",
+     "right": [
+      "Randall"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 20,
+     "q": "Behind in payments or late fulfilling a duty",
+     "a": "in arrears",
+     "right": [
+      "Buddy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "AROUND THE WORLD",
+    "MOVIE TITLE OBJECTS",
+    "MY ART WILL GO ON",
+    "NICE SAUSAGE!",
+    "SUPREME COURTSHIP",
+    "\"C\" HERE"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 8,
+     "q": "This country is part of the U.K., but not part of Great Britain",
+     "a": "Northern Ireland",
+     "right": [],
+     "wrong": [
+      "Buddy"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 6,
+     "q": "\"Soylent Green\"",
+     "a": "people (or food)",
+     "right": [
+      "Randall"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "1890s paintings by him include \"Melancholy\", \"Jealousy\" & \"The Scream\"; maybe it's just me, but I'm sensing a theme",
+     "a": "(Edvard) Munch",
+     "right": [
+      "Randall"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 11,
+     "q": "As its name implies, Bockwurst is traditionally served in Germany with this beverage",
+     "a": "(Bock) beer",
+     "right": [
+      "Buddy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 26,
+     "q": "She married John in 1952, 29 years before Reagan appointed her to the Supreme Court",
+     "a": "(Sandra Day) O'Connor",
+     "right": [
+      "Buddy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 21,
+     "q": "It's the main stimulant in coffee & tea",
+     "a": "caffeine",
+     "right": [
+      "Buddy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 9,
+     "q": "Surprisingly, this mountainous Western European country didn't fully grant women the right to vote until 1971",
+     "a": "Switzerland",
+     "right": [
+      "Randall"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 7,
+     "q": "\"Silver Streak\"",
+     "a": "a train",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 2,
+     "q": "This caricaturist added a number to his signature to show how many times he wove his daughter Nina's name into a piece",
+     "a": "Al Hirschfeld",
+     "right": [],
+     "wrong": [
+      "Alexandra"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 12,
+     "q": "Genoa salami is traditionally studded with white these 3-syllable spices, while cotto gets the black type",
+     "a": "peppercorns",
+     "right": [
+      "Randall"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 30,
+     "q": "He married Virginia Lamp in 1987; in 1991, he was hit by Hurricane Anita... Hill",
+     "a": "Clarence Thomas",
+     "right": [
+      "Alexandra"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 22,
+     "q": "To move along making loud noises, or to drink a glass of liquid quickly",
+     "a": "to chug",
+     "right": [
+      "Randall"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 10,
+     "q": "Of the 5 largest countries in area, the one in South America",
+     "a": "Brazil",
+     "right": [
+      "Buddy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 15,
+     "q": "\"Fat Man & Little Boy\"",
+     "a": "atomic bombs",
+     "right": [
+      "Randall"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 3,
+     "q": "In 1921 this \"Nude Descending a Staircase\" artist put out 1 issue of New York Dada magazine with Man Ray",
+     "a": "Duchamp",
+     "right": [
+      "Alexandra"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 18,
+     "q": "Boudin is a type of Cajun sausage stuffed with pork & this grain",
+     "a": "rice",
+     "right": [
+      "Buddy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": true,
+     "order": 29,
+     "q": "He wed Marion Stearns in 1946, 8 years after he led he NFL in rushing",
+     "a": "Byron \"Whizzer\" White",
+     "right": [],
+     "wrong": [
+      "Buddy"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1000
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 23,
+     "q": "The illegal taking of someone else's land that he has already staked out",
+     "a": "claimjump",
+     "right": [
+      "Buddy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 13,
+     "q": "Until 2001 this tiny country used the French franc & the Spanish peseta, but today uses the euro",
+     "a": "Andorra",
+     "right": [
+      "Alexandra"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 16,
+     "q": "\"The Pink Panther\"",
+     "a": "a diamond",
+     "right": [
+      "Randall"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2000
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 4,
+     "q": "His delft touch with a brush makes subjects like 1663's \"Woman in Blue Reading a Letter\" compelling",
+     "a": "Vermeer",
+     "right": [
+      "Alexandra"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 19,
+     "q": "This large Italian sausage gets its name because it was seasoned with myrtle berries",
+     "a": "mortadella",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 28,
+     "q": "He married Mary Ambler in 1783, 20 years before deciding Marbury v. Madison",
+     "a": "Marshall",
+     "right": [
+      "Buddy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 24,
+     "q": "This 17th century form of Italian popular theater was marked by stock characters & familiar plots",
+     "a": "commedia dell'arte",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 14,
+     "q": "This West Coast African country with a Portuguese name was, like Liberia, founded as a nation for freed slaves",
+     "a": "Sierra Leone",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 17,
+     "q": "\"Serenity\"",
+     "a": "a spaceship",
+     "right": [
+      "Randall"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 5,
+     "q": "The work by this Dutch artist is seen here; maybe it's for the best he didn't become an architect, as he first intended",
+     "a": "(M.C.) Escher",
+     "right": [
+      "Alexandra"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 20,
+     "q": "This sausage sounds like a big deal, & in France it's known as fromage de tete",
+     "a": "headcheese",
+     "right": [
+      "Alexandra"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 27,
+     "q": "This chief justice & diplomat married the daughter of William Livingston, the first post-Revolutionary gov. of New Jersey",
+     "a": "John Jay",
+     "right": [
+      "Buddy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 25,
+     "q": "A snake & an experimental art movement founded in 1948 share this name",
+     "a": "cobra",
+     "right": [
+      "Alexandra"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "SCIENCE HISTORY",
+  "q": "In August 1971 on the Moon's surface, an astronaut repeated a famous experiment & declared that this man \"was correct\"",
+  "a": "Galileo",
+  "right": [
+   "Alexandra",
+   "Buddy"
+  ],
+  "wrong": [
+   "Randall"
+  ]
+ },
+ "gameId": "3378",
+ "cat_notes": {
+  "J": [
+   "Clues about Where There's a Will Shakespeare.",
+   "Clues about Sports Equipment.",
+   "Clues at the Drugstore.",
+   "Clues about The Cougar.",
+   "Clues in a Musical Mood.",
+   "Each answer contains the letter group “EAR”, and the clues are about Playing By."
+  ],
+  "DJ": [
+   "Clues about Around the World.",
+   "You have to identify the type of object for us.",
+   "Clues about My Art Will Go On.",
+   "The category “NICE SAUSAGE!” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "Clues about Supreme Courtship.",
+   "Each answer contains the letter “C”, and the clues are about Here."
+  ],
+  "F": "Clues about Science History."
+ }
+}

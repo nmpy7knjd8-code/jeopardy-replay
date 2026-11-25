@@ -1,0 +1,995 @@
+{
+ "show": "#5829",
+ "aired": "2010-01-07",
+ "note": "",
+ "contestants": [
+  {
+   "name": "Brian Chang",
+   "bio": "a pathologist from Oak Park, Illinois",
+   "short": "Brian"
+  },
+  {
+   "name": "Andrea Saenz",
+   "bio": "an immigration attorney from Boston, Massachusetts",
+   "short": "Andrea"
+  },
+  {
+   "name": "Lysette Tidwell",
+   "bio": "a dog rescuer from Escondido, California (whose 1-day cash winnings total $24,001)",
+   "short": "Lysette"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Lysette": 3600,
+   "Andrea": 4200,
+   "Brian": 4000
+  },
+  "DJ": {
+   "Lysette": 10000,
+   "Andrea": 16200,
+   "Brian": 21600
+  },
+  "Final": {
+   "Lysette": 0,
+   "Andrea": 32200,
+   "Brian": 10799
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "THE STATE OF THE STATE",
+    "MOVIE ROLES",
+    "AROUND THE COURTROOM",
+    "I'M GETTING THE SHAKES(PEARE)",
+    "HAND ME A BOTTLE",
+    "YOU'LL NEED \"ONE\""
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 24,
+     "q": "Underwater--or 80% of its largest city anyway, in August 2005",
+     "a": "Louisiana",
+     "right": [
+      "Brian"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 19,
+     "q": "2009:\nAustrian fashionista Bruno",
+     "a": "Sacha Baron Cohen",
+     "right": [
+      "Andrea"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "(Jimmy of the Clue Crew reports from a courtroom.) The judge might not literally sit on one, but his predecessors did, as in the Shakespeare line, \"To pluck down justice from your awful\" this",
+     "a": "the bench",
+     "right": [
+      "Lysette"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 17,
+     "q": "A history of Denmark by Saxo Grammaticus was one source of this 5-act tragedy",
+     "a": "Hamlet",
+     "right": [
+      "Lysette"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 6,
+     "q": "It's a soft rubber container with a stopper, filled with warmed liquid & used when you're ill",
+     "a": "a hot water bottle",
+     "right": [
+      "Andrea"
+     ],
+     "wrong": [
+      "Brian"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 7,
+     "q": "This is \"under god\" in the Pledge of Allegiance",
+     "a": "one nation",
+     "right": [
+      "Lysette"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 25,
+     "q": "Confused--in Nov. 2008 this state was unsure who got elected as its new senator, Mark Begich or Ted Stevens",
+     "a": "Alaska",
+     "right": [
+      "Andrea"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 20,
+     "q": "2009: \nZed, who lives in \"Year One\"",
+     "a": "Jack Black",
+     "right": [
+      "Andrea"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "(Jimmy of the Clue Crew reports from a courtroom.) To plead a case before the court, attorneys must literally do this 3-word phrase; many just out of law school struggle to do it",
+     "a": "pass the bar",
+     "right": [
+      "Andrea"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 13,
+     "q": "Bassanio gets some skin in the game & asks to borrow some money from his pal Antonio to woo a woman in this play",
+     "a": "The Merchant of Venice",
+     "right": [
+      "Andrea"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 12,
+     "q": "Fractional term for a bottle of liquor that holds 750 milliliters",
+     "a": "a fifth",
+     "right": [
+      "Andrea"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 8,
+     "q": "The three musketeers' motto",
+     "a": "all for one and one for all",
+     "right": [
+      "Brian"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 26,
+     "q": "On fire--on Oct. 8, 1871, 90,000 people in a major city were left homeless in this state",
+     "a": "Illinois",
+     "right": [
+      "Lysette"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 21,
+     "q": "2009: \nSkynet fighter John Connor",
+     "a": "Christian Bale",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 3,
+     "q": "(Jimmy of the Clue Crew reports from a courtroom.) Rather than have the jurors choose this person, some states automatically appoint the juror who's in the seat I'm in",
+     "a": "the foreman",
+     "right": [
+      "Andrea"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 14,
+     "q": "\"You lie, in faith, for you are called plain Kate, and bonny Kate, and sometimes Kate the curst\" is spoken in this play",
+     "a": "The Taming of the Shrew",
+     "right": [
+      "Andrea"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 18,
+     "q": "Perhaps from the Arabic for \"drinking cup\", it's used for serving wine in a restaurant",
+     "a": "a carafe",
+     "right": [
+      "Andrea"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 9,
+     "q": "Proverbially, to double your efficiency is to kill 2 birds with this",
+     "a": "one stone",
+     "right": [
+      "Lysette"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 27,
+     "q": "Frozen--specifically at Mt. Washington in this New England state, where it was around -47 degrees on Jan. 29, 1934",
+     "a": "New Hampshire",
+     "right": [
+      "Brian"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 22,
+     "q": "2009: \nPublic enemy John Dillinger",
+     "a": "Johnny Depp",
+     "right": [
+      "Andrea"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 4,
+     "q": "(Jimmy of the Clue Crew reports from a courtroom.) The officer of the court is responsible for maintaining security, guarding juries &, in most courts, giving this 2-word order when the judge enters",
+     "a": "all rise",
+     "right": [
+      "Lysette"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": true,
+     "order": 15,
+     "q": "Menteith, Caithness & Angus are among the noblemen in this tragedy",
+     "a": "Macbeth",
+     "right": [],
+     "wrong": [
+      "Andrea"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2600
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "This brand name is also a generic term for what technically are vacuum bottles that maintain temperature",
+     "a": "Thermos",
+     "right": [
+      "Andrea"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 10,
+     "q": "Slang for a slot machine in Vegas",
+     "a": "a one-armed bandit",
+     "right": [
+      "Brian"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 28,
+     "q": "Extremely windy, seen here is the April 11, 1965 double tornado in Elkhart in this state",
+     "a": "Indiana",
+     "right": [
+      "Brian"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 23,
+     "q": "2008: \nMary, \"The Other Boleyn Girl\"",
+     "a": "Scarlett Johansson",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 5,
+     "q": "(Jimmy of the Clue Crew reports from a courtroom.) The court reporter who sits here must record up to 250 words per minute for CVR certification, the \"V\" standing for this exact adjective",
+     "a": "verbatim",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 16,
+     "q": "This title guy dies of a broken heart as he kneels over the body of his youngest daughter",
+     "a": "King Lear",
+     "right": [
+      "Brian"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 30,
+     "q": "4-letter name for a small glass bottle used to hold medicine",
+     "a": "a vial",
+     "right": [
+      "Andrea"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 11,
+     "q": "4-word term meaning the garment is suitable for all body types",
+     "a": "one size fits all",
+     "right": [
+      "Lysette"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "PHILOSOPHERS",
+    "MUSIC MAKERS",
+    "FOLDING THE NEWSPAPER--& MAGAZINE",
+    "THEY RULED!",
+    "\"RED\" SCIENCE",
+    "RHYME SCHEME"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 6,
+     "q": "Alfred Whitehead said that Europe's philosophical tradition \"consists of a series of footnotes to\" this Greek",
+     "a": "Plato",
+     "right": [
+      "Lysette"
+     ],
+     "wrong": [
+      "Andrea",
+      "Brian"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 7,
+     "q": "This \"Double Fantasy\" songwriter was said to be legally blind without his glasses",
+     "a": "John Lennon",
+     "right": [],
+     "wrong": [
+      "Lysette"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 23,
+     "q": "2009: \nThis Denver paper",
+     "a": "The Rocky Mountain News",
+     "right": [
+      "Andrea"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 18,
+     "q": "At one time, he was first secretary of the Sverdlovsk Party Committee",
+     "a": "Yeltsin",
+     "right": [
+      "Brian"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 9,
+     "q": "Found in warm coastal waters, it's an explosion of fish-killing, toxin-secreting dinoflagellates",
+     "a": "red tide",
+     "right": [
+      "Andrea"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "Favorable regard, often high",
+     "a": "esteem",
+     "right": [
+      "Andrea"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": true,
+     "order": 13,
+     "q": "Ralph Waldo Emerson once employed this thinker as a gardener & handyman",
+     "a": "Thoreau",
+     "right": [
+      "Brian"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2000
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 8,
+     "q": "Earl Scruggs, once a member of the Foggy Mountain Boys, gained fame playing this instrument",
+     "a": "a banjo",
+     "right": [
+      "Andrea"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 24,
+     "q": "2008: \nThis New Mexico city's Pulitzer-winning Tribune",
+     "a": "Albuquerque",
+     "right": [
+      "Brian"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 19,
+     "q": "In 1979, this leader had to flee his own country",
+     "a": "the Shah",
+     "right": [
+      "Brian"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 10,
+     "q": "An erythrocyte",
+     "a": "a red blood cell",
+     "right": [
+      "Andrea"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 2,
+     "q": "A steady flow, as \"of consciousness\"",
+     "a": "stream",
+     "right": [
+      "Andrea"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 14,
+     "q": "In the 19th century he attacked Denmark's Lutheran church, questioning its true Christianity",
+     "a": "Kierkegaard",
+     "right": [
+      "Brian"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 26,
+     "q": "\"Walk On By\", made famous by Dionne Warwick, was written by Hal David & him",
+     "a": "Burt Bacharach",
+     "right": [
+      "Lysette"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 25,
+     "q": "2009: \nThis hyphenated Seattle paper (it survives online)",
+     "a": "the Post-Intelligencer",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": true,
+     "order": 20,
+     "q": "He was the longest serving prime minister of his country & is seen here in his trademark outfit",
+     "a": "(Jawaharlal) Nehru",
+     "right": [
+      "Brian"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true,
+     "ddWager": 8000
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 11,
+     "q": "This salad ingredient, Capsicum annuum grossum, has been allowed to ripen on the vine",
+     "a": "a red pepper",
+     "right": [
+      "Brian"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 3,
+     "q": "A topic or motif",
+     "a": "theme",
+     "right": [
+      "Andrea"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 15,
+     "q": "The first years of the life of this 5th c. philosopher are mostly known from his autobiographical \"Confessions\"",
+     "a": "Saint Augustine",
+     "right": [
+      "Andrea"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 27,
+     "q": "This jazz singer & pianist is Mrs. Elvis Costello",
+     "a": "Diana Krall",
+     "right": [
+      "Lysette"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 29,
+     "q": "2008: \nThis revived newspaper that once brightened up New York City",
+     "a": "The Sun",
+     "right": [
+      "Andrea"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 21,
+     "q": "This king of Saudi Arabia was assassinated by his nephew in 1975",
+     "a": "King Faisal",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 12,
+     "q": "A small, dim star; Proxima Centauri is one",
+     "a": "a red dwarf",
+     "right": [
+      "Brian"
+     ],
+     "wrong": [
+      "Andrea"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 4,
+     "q": "To use a coupon, or to make up for",
+     "a": "redeem",
+     "right": [
+      "Lysette"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 16,
+     "q": "According to his \"razor\"-sharp philosophy, a problem should be stated in its simplest & most basic terms",
+     "a": "(William of) Occam",
+     "right": [
+      "Andrea"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 28,
+     "q": "Known as a jazz Renaissance man, he screamed up the '80s charts with tunes like \"Rockit\"",
+     "a": "Herbie Hancock",
+     "right": [
+      "Lysette"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 30,
+     "q": "2009: \nThis Conde Nast foodie magazine (Bon Appetit is staying around ...for now)",
+     "a": "Gourmet",
+     "right": [
+      "Andrea"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 22,
+     "q": "This former law professor was prime minister of his country for parts of three decades",
+     "a": "Pierre Elliott Trudeau",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 17,
+     "q": "Due to the Doppler effect, it's an increase in the wavelength of radiation emitted by a moving celestial body",
+     "a": "redshift",
+     "right": [
+      "Brian"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 5,
+     "q": "This monetary unit was 1/100th of a French Franc",
+     "a": "a centime",
+     "right": [
+      "Andrea"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "TV HISTORY",
+  "q": "When this animated TV show premiered, it was sponsored by One-A-Day vitamins & Winston cigarettes",
+  "a": "The Flintstones",
+  "right": [
+   "Andrea"
+  ],
+  "wrong": [
+   "Lysette",
+   "Brian"
+  ]
+ },
+ "gameId": "3273",
+ "cat_notes": {
+  "J": [
+   "Clues about The State of the State.",
+   "Clues about Movie Roles.",
+   "Clues about Around the Courtroom.",
+   "The category “I'M GETTING THE SHAKES(PEARE)” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "Clues about Hand Me a Bottle.",
+   "Each answer contains the letter group “ONE”, and the clues are about You'll Need."
+  ],
+  "DJ": [
+   "Clues about Philosophers.",
+   "Clues about Music Makers.",
+   "Clues about Folding the Newspaper-- and Magazine.",
+   "The category “THEY RULED!” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "Each answer contains the letter group “RED”, and the clues are about Science.",
+   "Each answer is a rhyming word or phrase."
+  ],
+  "F": "Clues about TV History."
+ }
+}

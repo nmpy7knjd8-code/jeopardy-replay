@@ -1,0 +1,994 @@
+{
+ "show": "#5771",
+ "aired": "2009-10-19",
+ "note": "",
+ "contestants": [
+  {
+   "name": "Valerie Vicroy",
+   "bio": "a caterer from Pismo Beach, California",
+   "short": "Valerie"
+  },
+  {
+   "name": "Matt Blackwood",
+   "bio": "a middle school math teacher from Gulfport, Mississippi",
+   "short": "Matt"
+  },
+  {
+   "name": "Kevin Wilson",
+   "bio": "a communications specialist from Toronto, Ontario, Canada (whose 1-day cash winnings total $31,199)",
+   "short": "Kevin"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Kevin": 4600,
+   "Matt": 3000,
+   "Valerie": 1400
+  },
+  "DJ": {
+   "Kevin": 21400,
+   "Matt": 9800,
+   "Valerie": 2600
+  },
+  "Final": {
+   "Kevin": 19800,
+   "Matt": 9600,
+   "Valerie": 5200
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "LET'S GET BIBLICAL",
+    "SELF-INDULGENT REALITY TV",
+    "POTPOURRI",
+    "THE RUSSIAN",
+    "TEA",
+    "\"ROOM\""
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 5,
+     "q": "She mistakes Jesus for a gardener & Jesus tells the bedeviled woman not to touch him",
+     "a": "Mary Magdalene",
+     "right": [
+      "Kevin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 23,
+     "q": "VH1's \"Strange Love\" featured 5' 5 1/2\" Flavor Flav's whirlwind romance with this 6'1\" Danish star",
+     "a": "Brigitte Nielsen",
+     "right": [
+      "Kevin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 16,
+     "q": "Dark drinks like scotch have lots, vodka less, of impurities called congeners, a culprit in this nasty condition",
+     "a": "a hangover",
+     "right": [
+      "Kevin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 30,
+     "q": "The actions of this Russian were truly revolutionary",
+     "a": "Lenin",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 11,
+     "q": "In 1904 at the St. Louis World's Fair, Richard Blechynden popularized tea served this way",
+     "a": "iced",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "A photographer uses one to see what develops",
+     "a": "a darkroom",
+     "right": [
+      "Kevin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 6,
+     "q": "In this biblical book, war rides a red horse",
+     "a": "Revelation",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 24,
+     "q": "MTV's \"Bromance\" centered on the quest to find a BFF for this son of an Olympian",
+     "a": "Brody Jenner",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 17,
+     "q": "Norris McWhirter, track announcer at the first sub-4-minute mile, began compiling this book the same year",
+     "a": "the Guinness Book of World Records",
+     "right": [
+      "Kevin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "He's the high-flying hero of 1961 seen here",
+     "a": "Yuri Gagarin",
+     "right": [
+      "Kevin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 13,
+     "q": "There are about 8-36 mg of this in a cup of green tea compared to about 100-164 mg in a cup of coffee",
+     "a": "caffeine",
+     "right": [
+      "Kevin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "A witchy transport",
+     "a": "a broomstick (a broom accepted)",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 4,
+     "q": "They're the 2 books of the Bible named for women",
+     "a": "Ruth & Esther",
+     "right": [
+      "Valerie"
+     ],
+     "wrong": [
+      "Matt"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 22,
+     "q": "I guess you could say this actress' show \"It's Complicated\" has a certain \"sheen\" about it",
+     "a": "Denise Richards",
+     "right": [
+      "Kevin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 12,
+     "q": "Scary--in 1991 the N.Y. Supreme Court ruled that a home buyer could void the sale as he hadn't known the house was this",
+     "a": "haunted",
+     "right": [
+      "Kevin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 29,
+     "q": "Nobel Prize-winning Russian writer & prisoner seen here",
+     "a": "Solzhenitsyn",
+     "right": [
+      "Kevin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 14,
+     "q": "In 1952 this company introduced its \"Flo-Thru\" tea bag",
+     "a": "Lipton",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 8,
+     "q": "Starting in this office area is a proverbial entry point for many in Hollywood",
+     "a": "the mailroom",
+     "right": [],
+     "wrong": [
+      "Kevin",
+      "Matt"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 20,
+     "q": "Samson, Gideon & Deborah all make appearances in this biblical book with an occupational name",
+     "a": "Judges",
+     "right": [
+      "Kevin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 25,
+     "q": "On \"Rock of Love\", this rocker's hair extensions don't scare the ladies away; quite the opposite",
+     "a": "Bret Michaels",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 15,
+     "q": "A century-old painting of these animals playing poker was one of a pair that fetched $590,400 at a 2005 auction",
+     "a": "dogs",
+     "right": [
+      "Valerie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 7,
+     "q": "This Cold War fixture died in 1982",
+     "a": "Brezhnev",
+     "right": [
+      "Kevin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": true,
+     "order": 3,
+     "q": "Because it's meant to be served on coffee tables, not dining room tables, it's the alternate 2-word name for afternoon tea",
+     "a": "low tea",
+     "right": [],
+     "wrong": [
+      "Matt"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 400
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 9,
+     "q": "It's the \"max\" amount of space above your skull for easy passage",
+     "a": "headroom",
+     "right": [
+      "Kevin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 21,
+     "q": "Genesis tells us that Noah's Ark was made out of this \"beastly\" wood",
+     "a": "gopher wood",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 26,
+     "q": "On \"I'm With\" this actor, the Oscar nominee once threatened to pull someone's endocrine system from their body",
+     "a": "Gary Busey",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 19,
+     "q": "Schopenhauer wrote that to do this \"is to halve your rights and double your duties\"; so he never did",
+     "a": "to marry",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 28,
+     "q": "He's the Russian writer seen here, \"count\" on it",
+     "a": "Count Leo Tolstoy",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 18,
+     "q": "Teas bearing this former name of Taiwan are primarily oolong",
+     "a": "Formosa",
+     "right": [],
+     "wrong": [
+      "Kevin",
+      "Valerie"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 10,
+     "q": "You'll be such a fungi if you know a morel is one of these",
+     "a": "a mushroom",
+     "right": [
+      "Valerie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "NONFICTION",
+    "STARS BY MOVIE ROLES",
+    "A GIFT FROM THE MONARCH",
+    "LET'S TALK ABOUT THE WEATHER",
+    "\"C\"OUNTRIES",
+    "ANIMAL SUBTRACTION"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 10,
+     "q": "In \"Born Standing Up\", this \"wild & crazy guy\" recalled selling guidebooks at Disneyland at age 10",
+     "a": "Steve Martin",
+     "right": [
+      "Kevin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 21,
+     "q": "Wild Bill Kelso,\nJake Blues,\nJohn Blutarsky (GPA, 0.0)",
+     "a": "John Belushi",
+     "right": [
+      "Kevin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 20,
+     "q": "For Canada's centennial, Elizabeth II gave Ottawa 6 pairs of these birds, a-swimming on the Rideau River",
+     "a": "swans",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 30,
+     "q": "This calm circular region at the center of a hurricane can range from a few miles in diameter to more than 100",
+     "a": "the eye",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 15,
+     "q": "14 countries border this country that's more than 3,000 miles long & wide",
+     "a": "China",
+     "right": [
+      "Kevin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "Subtract a letter from this crustacean & you get a vehicle for public hire",
+     "a": "a crab",
+     "right": [
+      "Kevin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 11,
+     "q": "\"Their Finest Hour\", Volume II of his WWII history, is divided into 2 sections: \"The Fall of France\" & \"Alone\"",
+     "a": "Churchill",
+     "right": [
+      "Kevin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 7,
+     "q": "Longfellow Deeds,\nDink the Clown,\nZohan Dvir",
+     "a": "Adam Sandler",
+     "right": [
+      "Kevin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 22,
+     "q": "Lincoln accepted 2 tusks from the King of Siam, but turned down these animals, saying trains move goods just fine",
+     "a": "elephants",
+     "right": [
+      "Kevin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "This is defined as the amount of water vapor in the air",
+     "a": "the humidity",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 16,
+     "q": "This country seen here is a popular tourist destination",
+     "a": "Costa Rica",
+     "right": [
+      "Valerie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 2,
+     "q": "Subtract a letter from this amphibian & you get a hazy condition",
+     "a": "a frog",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [
+      "Valerie"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 12,
+     "q": "\"Resilience\" is the appropriate title of a book by this cancer-stricken political wife",
+     "a": "Elizabeth Edwards",
+     "right": [
+      "Kevin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 6,
+     "q": "Osmosis Jones,\nMooseblood,\nMarty the Zebra",
+     "a": "Chris Rock",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 23,
+     "q": "One story says Mistress Louise de Keroualle was a gift from Louis XIV to this Restoration king",
+     "a": "Charles II",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 28,
+     "q": "The flag seen here warns boaters of this type of moderately strong wind of about 34 to 54 miles per hour",
+     "a": "gales",
+     "right": [
+      "Kevin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 17,
+     "q": "An art biennial in this country is held at the Museo Nacional de Bellas Artes in Habana Vieja",
+     "a": "Cuba",
+     "right": [
+      "Valerie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 4,
+     "q": "Remove a letter from this furry animal & you get a Jewish clergyman",
+     "a": "a rabbit",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 13,
+     "q": "\"Be the Pack Leader\" was a non-fiction bestseller written by this TV \"Dog Whisperer\"",
+     "a": "Cesar Millan",
+     "right": [
+      "Kevin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 3,
+     "q": "Boolie Werthan,\nJack Lambert,\nSgt. Joe Friday",
+     "a": "Dan Aykroyd",
+     "right": [
+      "Kevin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 24,
+     "q": "At a state dinner King Mohammed VI of this African land gave Clinton a jeweled dagger--useful for slicing the lamb",
+     "a": "Morocco",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 26,
+     "q": "(Jimmy of the Clue Crew shows an animated weather map on the monitor.) A common weather pattern, bringing an abundance of warm, tropical moisture direct from Hawaii to the Pacific coast is popularly called this, like a 2008 comedy film",
+     "a": "the Pineapple Express",
+     "right": [
+      "Kevin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 18,
+     "q": "President Alvaro Uribe was considered a hero here after the rescue of Ingrid Betancourt in 2008",
+     "a": "Colombia",
+     "right": [
+      "Kevin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 8,
+     "q": "Subract a letter from this noisy bird & you get a list of players on a team",
+     "a": "a rooster",
+     "right": [
+      "Kevin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2000
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 14,
+     "q": "\"Rogue economist\" Steven D. Levitt ties Roe v. Wade to a drop in crime in this bestseller",
+     "a": "Freakonomics",
+     "right": [
+      "Kevin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 5,
+     "q": "Harry Burns,\nMiracle Max,\nMike Wazowski",
+     "a": "Billy Crystal",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 25,
+     "q": "(Jimmy of the Clue Crew reports from Mount Vernon, VA.) At Mount Vernon, Washington hung an engraving that was a gift of this man, our most powerful ally in the Revolutionary War",
+     "a": "Louis XVI of France",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": true,
+     "order": 27,
+     "q": "(Kelly of the Clue Crew shows an animated weather map on the monitor.) Named for the direction from which they come, much of our weather is carried across the United States & Canada by these dominant winds, between 30 & 60 degrees latitude",
+     "a": "westerlies",
+     "right": [],
+     "wrong": [
+      "Kevin"
+     ],
+     "stumper": false,
+     "img": true,
+     "ddWager": 4000
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 19,
+     "q": "This country, with a legacy of Roman culture, includes the historic regions of Dalmatia & Istria",
+     "a": "Croatia",
+     "right": [
+      "Kevin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 9,
+     "q": "Subtract a letter from this South American ruminant & you get a Buddhist monk",
+     "a": "a llama",
+     "right": [
+      "Kevin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "NOTABLE WOMEN",
+  "q": "When Galveston was devastated by a hurricane in 1900, she traveled 1,500 miles to head up the relief effort",
+  "a": "Clara Barton",
+  "right": [
+   "Valerie"
+  ],
+  "wrong": [
+   "Matt",
+   "Kevin"
+  ]
+ },
+ "gameId": "3181",
+ "cat_notes": {
+  "J": [
+   "The category “LET'S GET BIBLICAL” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "Clues about Self-indulgent Reality TV.",
+   "A mixed potpourri of Pot-related clues.",
+   "Clues about The Russian.",
+   "Clues about Tea.",
+   "Each answer contains the letter group “ROOM”."
+  ],
+  "DJ": [
+   "Clues about Nonfiction.",
+   "Clues about Stars by Movie Roles.",
+   "Clues about A Gift from the Monarch.",
+   "The category “LET'S TALK ABOUT THE WEATHER” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "Each answer starts with “C”, and the clues are about Ountries.",
+   "Each correct response will be an animal."
+  ],
+  "F": "Clues about Notable Women."
+ }
+}

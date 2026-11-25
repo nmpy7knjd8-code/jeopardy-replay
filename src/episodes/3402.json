@@ -1,0 +1,997 @@
+{
+ "show": "#5931",
+ "aired": "2010-05-31",
+ "note": "",
+ "contestants": [
+  {
+   "name": "Cathy Melocik",
+   "bio": "an editor for a business school from Wilder, Vermont",
+   "short": "Cathy"
+  },
+  {
+   "name": "Sally Ronald",
+   "bio": "a graduate student in Russian studies from Portland, Indiana",
+   "short": "Sally"
+  },
+  {
+   "name": "Aaron Ammerman",
+   "bio": "a program analyst for the Department of Navy from Arlington, Virginia (whose 1-day cash winnings total $26,000)",
+   "short": "Aaron"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Aaron": 3800,
+   "Sally": 7000,
+   "Cathy": 5200
+  },
+  "DJ": {
+   "Aaron": 10400,
+   "Sally": 12200,
+   "Cathy": 14000
+  },
+  "Final": {
+   "Aaron": 14000,
+   "Sally": 10400,
+   "Cathy": 24401
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "A PARIS CHRONOLOGY",
+    "HEISMAN TROPHY WINNERS",
+    "FASHION",
+    "STATE THE STATE",
+    "COOKING WEIGHTS & MEASURES",
+    "SILENT-LETTERED WORDS"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 26,
+     "q": "Paris was founded around 250 B.C. by the Celtic Parisii tribe, who built a settlement on an island in this river",
+     "a": "the Seine",
+     "right": [
+      "Cathy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "Bo knows that this Auburn running back & Heisman winner played MLB for 8 years, hitting 141 home runs",
+     "a": "Bo Jackson",
+     "right": [
+      "Cathy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 2,
+     "q": "Spanish name for what's basically a blanket with a hole in the center for the head",
+     "a": "a poncho",
+     "right": [
+      "Aaron"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 11,
+     "q": "This state seen here is shaped like the letter it starts with",
+     "a": "Louisiana",
+     "right": [
+      "Cathy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 21,
+     "q": "Traditionally, this was defined as the amount that can be taken between the thumb & forefinger",
+     "a": "a pinch",
+     "right": [
+      "Cathy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 16,
+     "q": "Someone who repairs water pipes & bathroom fixtures",
+     "a": "a plumber",
+     "right": [
+      "Aaron"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "After its forces put down a revolt led by Vercingetorix, the area came under this empire's control in 52 B.C.",
+     "a": "Rome",
+     "right": [
+      "Sally"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 3,
+     "q": "On Jan. 1, 2006 this 1984 Heisman winner from Boston College executed the first drop kick in the NFL in 65 years",
+     "a": "(Doug) Flutie",
+     "right": [
+      "Sally"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 5,
+     "q": "Often strapless & covered with beads, a clutch is one of these used in the evening",
+     "a": "a purse",
+     "right": [
+      "Sally"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 12,
+     "q": "It's bigger than it looks",
+     "a": "Montana",
+     "right": [
+      "Sally"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 22,
+     "q": "A stick of this is equivalent to 4 ounces",
+     "a": "butter",
+     "right": [
+      "Cathy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 17,
+     "q": "In song, it was wielded by Mack",
+     "a": "a knife",
+     "right": [
+      "Aaron"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 28,
+     "q": "To defend Paris against attack, King Charles V built this grim fortress-prison in the 14th century",
+     "a": "the Bastille",
+     "right": [
+      "Cathy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 4,
+     "q": "Only 2 Heisman winners have played for Navy: Joe Bellino & this man, \"Roger the Dodger\"",
+     "a": "Roger Staubach",
+     "right": [
+      "Cathy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 7,
+     "q": "This pattern of numerous round spots was first used on 19th c. fashion wear & named for a Bohemian dance",
+     "a": "polka dot",
+     "right": [
+      "Aaron"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": true,
+     "order": 13,
+     "q": "Let's have the three seen here in order from north to south, please",
+     "a": "South Dakota, Nebraska, Kansas",
+     "right": [
+      "Sally"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true,
+     "ddWager": 1000
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 23,
+     "q": "Americans using British cookbooks should know that a recipe calling for one of these is equivalent to 20 ounces, not 16",
+     "a": "a pint",
+     "right": [
+      "Aaron"
+     ],
+     "wrong": [
+      "Cathy"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 18,
+     "q": "5-letter word for a small morsel of bread or cake",
+     "a": "a crumb",
+     "right": [
+      "Sally"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "On June 14 of this year during World War II, German troops entered Paris & would hold it for 4 years",
+     "a": "1940",
+     "right": [
+      "Aaron"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 6,
+     "q": "4 schools have had back-to-back Heisman winners: Yale, Army, Ohio State & this one with Matt Leinart & Reggie Bush",
+     "a": "USC (University of Southern California)",
+     "right": [
+      "Cathy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 8,
+     "q": "This term for a striped tie often used to represent a snooty school comes from the word \"ribbed\"",
+     "a": "rep",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 14,
+     "q": "The Old Man used to be in the upper left there somewhere",
+     "a": "New Hampshire",
+     "right": [
+      "Cathy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 24,
+     "q": "The amount of cookies produced at one baking, it's from the Old English for \"bake\"",
+     "a": "a batch",
+     "right": [
+      "Cathy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 19,
+     "q": "Circular foliage arrangement used for ornamental purposes",
+     "a": "a wreath",
+     "right": [
+      "Sally"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 30,
+     "q": "Student riots in Paris in 1968 threatened to bring down this French president's government",
+     "a": "(Charles) de Gaulle",
+     "right": [
+      "Cathy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 10,
+     "q": "The 2008 film \"The Express\" told the story of this 1961 Heisman trophy winner, the first African American to win the award",
+     "a": "(Ernie) Davis",
+     "right": [
+      "Sally"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 9,
+     "q": "In the 1950s, at age 23, she owned 2 London shops called Bazaar where she sold her Chelsea or mod look fashions",
+     "a": "Mary Quant",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 15,
+     "q": "Put the three seen here in alphabetical order, please",
+     "a": "Alabama, Iowa, Pennsylvania",
+     "right": [
+      "Sally"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 25,
+     "q": "A dessert spoon is equivalent to 2 of these, roughly 10 milliliters in the United States",
+     "a": "a teaspoon",
+     "right": [
+      "Sally"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 20,
+     "q": "Hanseatic or Little",
+     "a": "a league",
+     "right": [
+      "Aaron"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "PROPHET REPORT",
+    "ROCK BAND INITIALS",
+    "RED FISH, BLUE FISH",
+    "WE'RE GOING BACKWARDS",
+    "ARE YOU AN -INI?",
+    "OR AN \"AUDI\""
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 7,
+     "q": "Muslims believe he was the last prophet of God",
+     "a": "Muhammad",
+     "right": [
+      "Aaron"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "Down on the corner, this group was known as CCR",
+     "a": "Creedence Clearwater Revival",
+     "right": [
+      "Aaron"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "That's not a papal advisor: it's this red fish of the family Apogonidae",
+     "a": "a cardinal",
+     "right": [
+      "Cathy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 10,
+     "q": "If you're 62 or older & receive loans that are charged against your equity in your house, it's this type of mortgage",
+     "a": "a reverse mortgage",
+     "right": [
+      "Cathy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 15,
+     "q": "He said getting out of a milk can was \"the best escape that I have ever invented\"",
+     "a": "Houdini",
+     "right": [
+      "Cathy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 20,
+     "q": "You do it for a casting director to get a part",
+     "a": "audition",
+     "right": [
+      "Aaron"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 8,
+     "q": "He was called in by Belshazzar to interpret the handwriting on the wall",
+     "a": "Daniel",
+     "right": [
+      "Aaron"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 3,
+     "q": "Fans popularly refer to them as GN'R",
+     "a": "Guns N' Roses",
+     "right": [
+      "Aaron"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 25,
+     "q": "The blue species of this spear-nosed sport fish can weigh 1,000 pounds or more",
+     "a": "a marlin",
+     "right": [
+      "Aaron"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 11,
+     "q": "Add 1 letter to a Darwinian word to get this, meaning assuming characteristics of an earlier form",
+     "a": "devolution",
+     "right": [
+      "Sally"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 16,
+     "q": "He was the first of Europe's 20th century fascist dictators",
+     "a": "Mussolini",
+     "right": [
+      "Cathy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 21,
+     "q": "A small business owner who fails to pay payroll taxes may find this person at his door",
+     "a": "an auditor",
+     "right": [
+      "Sally"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 9,
+     "q": "The so-called \"Shawnee Prophet\" was discredited after William Henry Harrison defeated the Shawnees at this battle",
+     "a": "Tippecanoe",
+     "right": [
+      "Sally"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 4,
+     "q": "Don't bring me down; tell me that ELO is short for this",
+     "a": "Electric Light Orchestra",
+     "right": [
+      "Aaron"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 26,
+     "q": "The bottom-dwelling fish named for this stinging arachnid can be red in color",
+     "a": "a scorpion",
+     "right": [
+      "Aaron"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 12,
+     "q": "Chronometrically speaking, in contrast to most twining vines, morning glory climbs this way",
+     "a": "counterclockwise",
+     "right": [],
+     "wrong": [
+      "Aaron",
+      "Sally"
+     ],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 17,
+     "q": "Ingrid Bergman's career suffered for a time due to her affair with this Italian film director",
+     "a": "(Roberto) Rossellini",
+     "right": [
+      "Cathy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 22,
+     "q": "One of these in the LDS conference center in Salt Lake City seats 21,000",
+     "a": "auditorium",
+     "right": [
+      "Aaron"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 27,
+     "q": "The book of Lamentations is short for the Lamentations of this prophet, whose book precedes it",
+     "a": "Jeremiah",
+     "right": [],
+     "wrong": [
+      "Sally"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 5,
+     "q": "What would you say if I told you DMB is this",
+     "a": "Dave Matthews Band",
+     "right": [
+      "Sally"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 29,
+     "q": "Seen here are red & blue specimens of this combative fish, native to Thailand, maybe getting ready to rumble!",
+     "a": "Siamese fighting fish",
+     "right": [
+      "Cathy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 13,
+     "q": "In psychology when a 40-year-old acts like a 10-year-old, it's called this",
+     "a": "regression",
+     "right": [
+      "Aaron"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 18,
+     "q": "Borromini was the greatest rival of this St. Peter's architect with a similar name",
+     "a": "Bernini",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 23,
+     "q": "In 1934 the first 33 1/3 RPM long-playing record was one of these, for the blind",
+     "a": "an audiobook",
+     "right": [
+      "Sally"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": true,
+     "order": 28,
+     "q": "Cassandra, a prophetess of Greek myth, also appears in this Shakespeare play",
+     "a": "Troilus and Cressida",
+     "right": [],
+     "wrong": [
+      "Aaron"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1000
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 6,
+     "q": "nin.com is the official website of this dark outfit",
+     "a": "Nine Inch Nails",
+     "right": [
+      "Aaron"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 30,
+     "q": "The sharptoothed Lutjanus campechanus is better known as this popular food fish",
+     "a": "red snapper",
+     "right": [],
+     "wrong": [
+      "Aaron"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 14,
+     "q": "(Sarah of the Clue Crew shows an astronomical animation on the monitor.) From Earth's point of view, shown here by the red line, planets sometimes appear to reverse direction because the Earth overtakes them in their orbits; the backward motion is called this--from the Latin for \"walking backward\"",
+     "a": "retrograde",
+     "right": [
+      "Sally"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": true,
+     "order": 19,
+     "q": "His last name begins with the 5-letter title of a Puccini opera he conducted",
+     "a": "(Arturo) Toscanini",
+     "right": [
+      "Cathy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2000
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 24,
+     "q": "After the Marines turned him down as too short, he became a WWII hero in the U.S. Army",
+     "a": "Audie Murphy",
+     "right": [
+      "Cathy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "ENGLISH POETS",
+  "q": "Translator Edward Fitzgerald wrote that her 1861 \"death is rather a relief to me... no more Aurora Leighs, thank God\"",
+  "a": "Elizabeth Barrett Browning",
+  "right": [
+   "Aaron",
+   "Cathy"
+  ],
+  "wrong": [
+   "Sally"
+  ]
+ },
+ "gameId": "3402",
+ "cat_notes": {
+  "J": [
+   "Clues about A Paris Chronology.",
+   "Clues about Heisman Trophy Winners.",
+   "Clues about Fashion.",
+   "Clues about State the State.",
+   "Clues about Cooking Weights and Measures.",
+   "The category “SILENT-LETTERED WORDS” sets the theme — the clues follow that idea and any wordplay suggested by the title."
+  ],
+  "DJ": [
+   "Clues about Prophet Report.",
+   "Clues about Rock Band Initials.",
+   "Clues about Red Fish, Blue Fish.",
+   "Clues about We're Going Backwards.",
+   "Clues about inis, riffing on the title “ARE YOU AN -INI?”.",
+   "Each answer contains the letter group “AUDI”, and the clues are about Or An."
+  ],
+  "F": "Clues about English Poets."
+ }
+}

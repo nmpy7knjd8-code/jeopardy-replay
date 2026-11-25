@@ -1,0 +1,1003 @@
+{
+ "show": "#5888",
+ "aired": "2010-03-31",
+ "note": "",
+ "contestants": [
+  {
+   "name": "Matt Drury",
+   "bio": "a government analyst from New York, New York",
+   "short": "Matt"
+  },
+  {
+   "name": "Pat Garahan",
+   "bio": "an inventor from Coronado, California",
+   "short": "Pat"
+  },
+  {
+   "name": "Stacy Braverman",
+   "bio": "a public interest lawyer from Washington, D.C. (whose 1-day cash winnings total $14,984)",
+   "short": "Stacy"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Stacy": 2800,
+   "Pat": 4000,
+   "Matt": 7800
+  },
+  "DJ": {
+   "Stacy": 7900,
+   "Pat": 14000,
+   "Matt": 23400
+  },
+  "Final": {
+   "Stacy": 9402,
+   "Pat": 8000,
+   "Matt": 18799
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "A TOMB WITH A VIEW",
+    "THE INCREDIBLE HULKS",
+    "SNACKS ON A PLANE",
+    "MYTHING IN ACTION",
+    "SCHOOLS OF ROCK",
+    "SWEET WORD OF YOUTH"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 2,
+     "q": "Among the more than 100 tombs within this Vatican City church are those of 91 popes & Queen Christina of Sweden",
+     "a": "St. Peter's Cathedral",
+     "right": [
+      "Pat"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 6,
+     "q": "Akebono, a grand champion of this sport of hulks, is seen here",
+     "a": "sumo wrestling",
+     "right": [
+      "Stacy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 7,
+     "q": "Bon appetit! On long flights, this airline serves baguettes, cheese & champagne in the \"affaires\" cabin",
+     "a": "Air France",
+     "right": [
+      "Pat"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 20,
+     "q": "The yata-no-kagami mirror was used by the sun goddess Amaterasu to bring light to the world in this country's mythology",
+     "a": "Japan",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 16,
+     "q": "The University of Arkansas has a campus in this state capital",
+     "a": "Little Rock",
+     "right": [
+      "Stacy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "A young person may be shallow as well as this word that rhymes with shallow & means \"immature\"",
+     "a": "callow",
+     "right": [
+      "Pat"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 3,
+     "q": "UNESCO calls this, a world heritage site since 1983, \"The jewel of Muslim art in India\"",
+     "a": "the Taj Mahal",
+     "right": [
+      "Pat"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 12,
+     "q": "Fan favorite & part-time big movie star seen here",
+     "a": "Andre the Giant",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 8,
+     "q": "Allergy concerns have caused most carriers to discontinue these snacks, but Northwest still serves 'em",
+     "a": "peanuts",
+     "right": [
+      "Stacy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 21,
+     "q": "Maori legend says the South Island of this country is the canoe of the Polynesian demi-god Maui",
+     "a": "New Zealand",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 18,
+     "q": "The university named for these is in Colorado Springs",
+     "a": "the Rockies",
+     "right": [],
+     "wrong": [
+      "Stacy"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 17,
+     "q": "The UK's Eglantyne Jebb founded the organization \"Save\" them",
+     "a": "the Children",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": true,
+     "order": 4,
+     "q": "You'll also find a First Lady in this structure in Manhattan's Morningside Heights section",
+     "a": "Grant's Tomb",
+     "right": [
+      "Pat"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1000
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 13,
+     "q": "One-time big sportsman & even bigger businessman seen here",
+     "a": "George Foreman",
+     "right": [
+      "Pat"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 9,
+     "q": "USA! USA! This red-white-&-blue carrier will sell you a 4-ounce chocolate chip cookie for just 3 bucks",
+     "a": "American Airlines",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 24,
+     "q": "The wooden statue Palladium kept this city safe until Odysseus & Diomedes took it",
+     "a": "Troy",
+     "right": [
+      "Pat"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 19,
+     "q": "\"Science for the benefit of humanity\" is the motto of the NYC school named for & founded by this man in 1901",
+     "a": "Rockefeller",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 22,
+     "q": "It can mean \"not experienced\" or \"without salt & pepper\"",
+     "a": "unseasoned",
+     "right": [
+      "Stacy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 5,
+     "q": "Venezuela's heroes are entombed in this, from the Greek for \"temple of all the gods\"",
+     "a": "pantheon",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 14,
+     "q": "It's the appliance nickname of the former football star seen here",
+     "a": "\"The Refrigerator\"",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 10,
+     "q": "United's \"classic snackbox\" includes this brand of gourmet jelly beans",
+     "a": "Jelly Belly",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "One legend says this was given by the Lady of the Lake & thrown back in the lake on King Arthur's death",
+     "a": "Excalibur",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 26,
+     "q": "Missouri's Rockhurst University was founded in 1910 by this Catholic teaching order",
+     "a": "the Jesuits",
+     "right": [
+      "Stacy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 23,
+     "q": "It's the J in Jaycees",
+     "a": "Junior",
+     "right": [
+      "Pat"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 25,
+     "q": "This ancient wonder built for the ruler of Caria gave us the generic term for any large tomb",
+     "a": "mausoleum",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 15,
+     "q": "This big swinger has gained a rep both on & off the course",
+     "a": "John Daly",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 11,
+     "q": "This Atlanta-based airline's \"flight delights\" includes hummus, pita chips & a deck of miniature playing cards",
+     "a": "Delta",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 30,
+     "q": "Now an emblem of the medical profession, it was the staff carried by Mercury",
+     "a": "the caduceus",
+     "right": [],
+     "wrong": [
+      "Pat",
+      "Matt"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 28,
+     "q": "Jane Addams was one of the first to receive a B.A. degree at Rockford College in this state",
+     "a": "Illinois",
+     "right": [
+      "Pat"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 27,
+     "q": "Fledgling can mean a young or inexperienced person or, in the animal world, one of these",
+     "a": "a bird",
+     "right": [
+      "Stacy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "THE MAN WHO WOULDN'T BE KING",
+    "BOB MARLEY & ME",
+    "SOUTH SPECIFIC",
+    "THERE MIGHT BE BLOOD",
+    "WHERE BEAGLES DARE",
+    "THE \"EX\" FILES"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 7,
+     "q": "Later dug up & hanged, Oliver Cromwell's body was originally buried in this church upon his death in 1658",
+     "a": "Westminster Abbey",
+     "right": [
+      "Pat"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 9,
+     "q": "To commemorate the birth of reggae legend & native son Bob Marley, Feb. 6, 1990 was a national holiday in this country",
+     "a": "Jamaica",
+     "right": [
+      "Stacy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 22,
+     "q": "\"A Lovely Sunday for Creve Coeur\" is a lesser play by this man with a southern state in his name",
+     "a": "Tennessee Williams",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 4,
+     "q": "Yellow fever is primarily carried by the Aedes aegypti species of this bloodsucker",
+     "a": "the mosquito",
+     "right": [
+      "Stacy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 17,
+     "q": "Here, a member of the Department of Agriculture's Beagle Brigade sniffs for contraband at LAX in this city",
+     "a": "Los Angeles",
+     "right": [
+      "Stacy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "Good thing for tourists that Honolulu's Diamond Head is this type of volcano",
+     "a": "extinct",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 8,
+     "q": "\"In the name of God, go!\" declared Cromwell in dismissing the so-called \"Rump\" version of this in 1653",
+     "a": "Parliament",
+     "right": [
+      "Stacy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 10,
+     "q": "Inducting Marley into the Rock & Roll Hall of Fame in 1994, this U2 singer said Bob was \"showman, shaman, human\"",
+     "a": "Bono",
+     "right": [
+      "Stacy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 23,
+     "q": "Allan Gurganus shot to fame with his novel about the \"Oldest Living\" this who \"Tells All\"",
+     "a": "Confederate Widow",
+     "right": [
+      "Stacy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 26,
+     "q": "This nocturnal insect, Cimex lectularius, often finds shelter in the seams, tufts & crevices of mattresses",
+     "a": "a bedbug",
+     "right": [
+      "Pat"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 18,
+     "q": "The valiant termite-detecting beagle here is ready for action in Chapel Hill in this state",
+     "a": "North Carolina",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 2,
+     "q": "Rachael Ray is such a fan of this type of olive oil that she even launched her own brand",
+     "a": "extra-virgin",
+     "right": [
+      "Pat"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 13,
+     "q": "Oliver Cromwell ruled between these 2 kings, a father & son",
+     "a": "Charles I & Charles II",
+     "right": [
+      "Pat"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 11,
+     "q": "In February 1979 Marley & his group headlined at this Harlem venue, the first reggae band to do so",
+     "a": "the Apollo",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 24,
+     "q": "A Miami Herald columnist since 1985, he's known for comic novels about Floridian corruption",
+     "a": "Carl Hiaasen",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [
+      "Pat"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 28,
+     "q": "There are more than 10,000 species of this bloodsucker but Pulex irritans is the one used in most \"circuses\"",
+     "a": "fleas",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 19,
+     "q": "The Christchurch Beagles representing one of the colleges of this English university are ready for a hunt",
+     "a": "Oxford",
+     "right": [
+      "Pat"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 3,
+     "q": "A type of tax, it can also mean to cut out, like a tumor",
+     "a": "excise",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 14,
+     "q": "When he ruled England from 1653 to 1658, Oliver Cromwell went by this 2-word title",
+     "a": "Lord Protector",
+     "right": [
+      "Pat"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 12,
+     "q": "Marley said his backup band was named this \"because we started out crying\"",
+     "a": "the Wailers",
+     "right": [
+      "Pat"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 25,
+     "q": "He's the late American novelist heard here:\n\n\"I suppose I had been thinking about Nat Turner for many, many years.\"",
+     "a": "William Styron",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2000
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 29,
+     "q": "In 19th century France, this aquatic worm was raised on farms by the thousands for medicinal purposes",
+     "a": "leeches",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 20,
+     "q": "See Uno receive his admirers after winning the Westminster Kennel Club's Best in Show at this New York City venue",
+     "a": "Madison Square Garden",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 5,
+     "q": "In England, the Chancellor of this is the Minister of Finance",
+     "a": "the Exchequer",
+     "right": [
+      "Pat"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 15,
+     "q": "Cromwell's Puritan followers were known as these for their closely cropped hair",
+     "a": "Roundheads",
+     "right": [
+      "Stacy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": true,
+     "order": 16,
+     "q": "\"War\", a song off Bob's 1976 album \"Rastaman Vibration\", had lyrics taken from a speech by this emperor",
+     "a": "Haile Selassie",
+     "right": [],
+     "wrong": [
+      "Stacy"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2500
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 27,
+     "q": "This debut novel by Carson McCullers empathetically tracks an isolated misfit in a Georgia town",
+     "a": "The Heart Is a Lonely Hunter",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 30,
+     "q": "Only the female of this \"equine\" pest of the family Tabanidae feeds on blood; the male feeds on nectar",
+     "a": "the horse-fly",
+     "right": [
+      "Stacy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 21,
+     "q": "First Beagles Him & Her are campaigning for this man, their owner, in 1964",
+     "a": "LBJ",
+     "right": [
+      "Matt"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 6,
+     "q": "(Kelly of the Clue Crew bends her right fingers and arm.) Flexor muscles allow you to bend joints, like curling your fingers or bending your arm at the elbow; the muscles that straighten the joints are this opposite type",
+     "a": "the extensors",
+     "right": [
+      "Pat"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "INTO AFRICA",
+  "q": "James Bruce taught himself Arabic & Amharic to prepare for his 1768 journey upriver in search of this spot",
+  "a": "the source of the Nile",
+  "right": [
+   "Stacy"
+  ],
+  "wrong": [
+   "Pat",
+   "Matt"
+  ]
+ },
+ "gameId": "3355",
+ "cat_notes": {
+  "J": [
+   "Clues about A Tomb with a View.",
+   "Clues about The Incredible Hulks.",
+   "Clues about Snacks on a Plane.",
+   "Clues about Mything in Action.",
+   "Clues about Schools of Rock.",
+   "Clues about Sweet Word of Youth."
+  ],
+  "DJ": [
+   "Clues about The Man Who Wouldn't Be King.",
+   "Clues about Bob Marley and Me.",
+   "Clues about South Specific.",
+   "Clues about There Might Be Blood.",
+   "Clues about Where Beagles Dare.",
+   "Each answer contains the letter group “EX”."
+  ],
+  "F": "Clues about Into Africa."
+ }
+}

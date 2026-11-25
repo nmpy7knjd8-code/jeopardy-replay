@@ -1,0 +1,992 @@
+{
+ "show": "#5797",
+ "aired": "2009-11-24",
+ "note": "",
+ "contestants": [
+  {
+   "name": "Robert Bethune",
+   "bio": "a middle school science teacher from Rancho Palos Verdes, California",
+   "short": "Robert"
+  },
+  {
+   "name": "Jen Jacobsen",
+   "bio": "a wellness coordinator from Grinnell, Iowa",
+   "short": "Jen"
+  },
+  {
+   "name": "Ben Davis",
+   "bio": "a law student from Chicago, Illinois (whose 2-day cash winnings total $51,802)",
+   "short": "Ben"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Ben": 4000,
+   "Jen": 2400,
+   "Robert": 5500
+  },
+  "DJ": {
+   "Ben": 9800,
+   "Jen": 4400,
+   "Robert": 12700
+  },
+  "Final": {
+   "Ben": 0,
+   "Jen": 5,
+   "Robert": 20700
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "SCIENCE & NATURE",
+    "RUN, RUN, RUN",
+    "MILITARY SLANG",
+    "SCULPTURE",
+    "BUSINESS BUDDIES",
+    "COMMON SIMILES"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 2,
+     "q": "In June 1991 weightlessness experiments were conducted on about 2,500 jellyfish aboard this",
+     "a": "the space shuttle",
+     "right": [
+      "Robert"
+     ],
+     "wrong": [
+      "Ben"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 16,
+     "q": "If you want to hit this type of \"contained\" home run, you probably will need to run really fast",
+     "a": "an inside-the-park home run",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 11,
+     "q": "This 2-word term, also a movie title, is slang for Navy Fighter Weapons School",
+     "a": "Top Gun",
+     "right": [
+      "Robert"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 26,
+     "q": "In 1953 sculptor William Zorach created the relief \"Man and Work\" for this Rochester, Minnesota clinic",
+     "a": "the Mayo Clinic",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 21,
+     "q": "S. Duncan Black & this partner filed a patent for a drill in 1914",
+     "a": "Decker",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "If you're scared, you might be \"shaking like\" this botanical item",
+     "a": "a leaf",
+     "right": [
+      "Robert"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 3,
+     "q": "The ARS, an agency of this U.S. government department, is looking to develop better bio-insecticides",
+     "a": "the Department of Agriculture",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 17,
+     "q": "In 1925 N.Y. Journal-American writer Bill Corum first called the Kentucky Derby the \"Run for\" these",
+     "a": "the Roses",
+     "right": [
+      "Robert"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 12,
+     "q": "\"Angels\" is slang for this measurement of height, in thousands of feet",
+     "a": "altitude",
+     "right": [
+      "Robert"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "This country's 12th century sculptor Unkei is known for his wooden statues carved for Buddhist temples",
+     "a": "Japan",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 22,
+     "q": "This maker of optical products borrowed money from his good friend Henry Lomb, but it turned out okay",
+     "a": "Bausch",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 7,
+     "q": "Adjective found before \"as leather\" & \"as nails\"",
+     "a": "tough",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 4,
+     "q": "Despite the fierce appearance of this plated beast, scientists believe it to have been an herbivore",
+     "a": "a Stegosaurus",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 18,
+     "q": "Due to an increase of endorphins in the brain, it's a state of euphoria experienced by exercisers",
+     "a": "runner's high",
+     "right": [
+      "Jen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": true,
+     "order": 13,
+     "q": "\"SAR\" stands for this, the effort to extract a downed aircrew in a combat zone",
+     "a": "search and rescue",
+     "right": [
+      "Robert"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1300
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 28,
+     "q": "Bartolommeo Ammannati designed this city's Fountain of Neptune & the courtyard of the Pitti Palace",
+     "a": "Florence",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 23,
+     "q": "Book publisher Henry Houghton made this guy his partner",
+     "a": "(George) Mifflin",
+     "right": [
+      "Robert"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 8,
+     "q": "This ichthyological simile might apply to someone spending too much time at the bar",
+     "a": "drinking like a fish",
+     "right": [
+      "Jen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 5,
+     "q": "Platinum, atomic number 78, is worth more than this other metal, atomic number 79",
+     "a": "gold",
+     "right": [
+      "Robert"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 19,
+     "q": "This 2-word hoops term is an offensive rush to beat the defense to the hoop",
+     "a": "a fast break",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 14,
+     "q": "A \"polliwog\" has never crossed this geographic line while aboard ship",
+     "a": "the equator",
+     "right": [
+      "Robert"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "An art museum on Madison Avenue is named for this sculptress who created the Titanic Memorial in Washington, D.C.",
+     "a": "Gertrude Vanderbilt Whitney",
+     "right": [],
+     "wrong": [
+      "Jen"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 24,
+     "q": "Postage meter inventor Arthur Pitney merged his company with that of this entrepreneur",
+     "a": "(Walter) Bowes",
+     "right": [
+      "Robert"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 9,
+     "q": "Ironically, something incomprehensible is said to be \"as clear as\" this 3-letter word",
+     "a": "mud",
+     "right": [
+      "Robert"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 6,
+     "q": "In 2009 a new hominid skeleton dubbed Ardi was aged at 4.4 million years, predating this other \"girly\" find by 1 mil. years",
+     "a": "Lucy",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 20,
+     "q": "In the modern pentathlon, athletes go 3,000 meters in this hyphenated type of running",
+     "a": "cross-country",
+     "right": [
+      "Jen"
+     ],
+     "wrong": [
+      "Robert"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 15,
+     "q": "A \"ROAD\" scholar is \"retired on\" this (coasting until actual retirement)",
+     "a": "active duty",
+     "right": [
+      "Jen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 30,
+     "q": "This English sculptor made one of his reclining figures for the 1951 Festival of Britain",
+     "a": "Henry Moore",
+     "right": [],
+     "wrong": [
+      "Robert"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 25,
+     "q": "A crossword puzzle book started it all for Richard L. Simon & this publishing partner",
+     "a": "Schuster",
+     "right": [
+      "Robert"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 10,
+     "q": "(Here's Jimmy.) He is depicting this common simile about a criminal who's been at it a long time & isn't good at not getting caught",
+     "a": "a rap sheet as long as your arm",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "WORLD CAPITALS",
+    "LYRICS FROM MUSICALS",
+    "THE NEW YORK TIMES 2009 FICTION BESTSELLERS",
+    "THE NEWSEUM",
+    "PAPAL NAMES",
+    "\"PH\"UN WORDS"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "It's located about 30 miles south of the DMZ",
+     "a": "Seoul",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 13,
+     "q": "\"Beauty school dropout, no graduation day for you\"",
+     "a": "Grease",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "Temperance Brennan is accused of mishandling an autopsy in Kathy Reichs' \"206\" these body parts",
+     "a": "Bones",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 11,
+     "q": "(Alex reports from the Newseum in Washington, D.C.) This is the microphone used for World War II English-language broadcasts by this woman, broadcasts that earned her a treason conviction; many years later, President Ford pardoned her",
+     "a": "Tokyo Rose",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 18,
+     "q": "The constellation between Cancer & Virgo",
+     "a": "Leo",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 6,
+     "q": "From the Greek for \"shape\", it means to transform an image into something else by computer",
+     "a": "morph",
+     "right": [
+      "Robert"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 3,
+     "q": "Until 1918 & the collapse of the dynasty, it was home base for the Hapsburgs",
+     "a": "Vienna",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 14,
+     "q": "\"A boy like that who'd kill your brother, forget that boy & find another, one of your own kind\"",
+     "a": "West Side Story",
+     "right": [
+      "Jen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 30,
+     "q": "Hey, y'all, this CNN legal analyst made the list with her novel \"The Eleventh Victim\"",
+     "a": "Nancy Grace",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 26,
+     "q": "(Alex reports from the Newseum in Washington, D.C.) In a sensational 1930s trial, the New York Journal paid for Bruno Hauptmann's defense in exchange for his wife's story; Hauptmann was later executed in this electric chair for the murder of this child",
+     "a": "the Lindbergh baby",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 19,
+     "q": "Not guilty",
+     "a": "Innocent",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 7,
+     "q": "In the scientific classification of animals, it's Chordata for a domesticated dog",
+     "a": "phylum",
+     "right": [
+      "Robert"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 4,
+     "q": "It's the largest English-speaking city in the Caribbean, mon",
+     "a": "Kingston (Jamaica)",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 15,
+     "q": "\"Shoeless Joe from Hannibal, Mo. Lucky are we to be having him\"",
+     "a": "Damn Yankees",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 29,
+     "q": "In \"Dead and Gone\" by Charlaine Harris, this \"True Blood\" waitress searches for the killer of a werepanther",
+     "a": "Sookie Stackhouse",
+     "right": [
+      "Robert"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 27,
+     "q": "(Alex reports from the Newseum in Washington, D.C.) The Newseum is also home to the studio from which ABC's \"This Week\" is broadcast, hosted by this former Clinton administration advisor; I'm in his seat",
+     "a": "(George) Stephanopoulos",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": true,
+     "order": 20,
+     "q": "From the Latin for \"blessed\"",
+     "a": "Benedict",
+     "right": [],
+     "wrong": [
+      "Ben"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1000
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 8,
+     "q": "The bar type is one common form of this chart",
+     "a": "graph",
+     "right": [
+      "Jen"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 5,
+     "q": "This South American capital's original longer name translated to \"Saint Mary of the Fair Winds\"",
+     "a": "Buenos Aires",
+     "right": [
+      "Robert"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 16,
+     "q": "\"Once I'm with the Wizard my whole life will change, 'cuz once you're with the Wizard no one thinks you're strange\"",
+     "a": "Wicked",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 28,
+     "q": "\"Homer & Langley\" by this author of \"Ragtime\" details the lives of the reclusive Collyer Brothers",
+     "a": "(E.L.) Doctorow",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 25,
+     "q": "(Alex reports from the Newseum in Washington, D.C.) After a great deal of debate, newspapers published this man's angry manifesto; it led to his being tracked to Montana & captured in this very cabin",
+     "a": "(Ted) Kaczynski (the Unabomber)",
+     "right": [
+      "Robert"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 21,
+     "q": "The winner of a contest",
+     "a": "Victor",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 9,
+     "q": "Now meaning those who are hostile to the arts, in biblical times it was a people subdued by King David",
+     "a": "a Philistine",
+     "right": [
+      "Robert"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": true,
+     "order": 12,
+     "q": "On a plane trip to this capital, you'd likely land at Soekarno-Hatta International Airport",
+     "a": "Jakarta",
+     "right": [],
+     "wrong": [
+      "Ben"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 7200
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 17,
+     "q": "\"Suddenly Seymour is standing beside me, he don't give me orders, he don't condescend\"",
+     "a": "Little Shop of Horrors",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 23,
+     "q": "Richard DiLallo & this author teamed to write \"Alex Cross's 'Trial\"', a novel about the detective's great-uncle",
+     "a": "(James) Patterson",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 24,
+     "q": "(Alex reports from the Newseum in Washington, D.C.) A key moment in the Civil Rights era was a sit-in protest after four black students were refused service at an all-white F.W. Woolworth lunch counter in this North Carolina city",
+     "a": "Greensboro, North Carolina",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 22,
+     "q": "From a Latin word for \"doer of good\"",
+     "a": "Boniface",
+     "right": [],
+     "wrong": [
+      "Ben"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 10,
+     "q": "Because the Greek goddess Artemis was associated with the Moon, she was also called this, which means \"light one\"",
+     "a": "Phoebe",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "COMPOSERS",
+  "q": "In 1928, the 100th anniversary of his death, a $10,000 prize was offered for the completion of his 8th Symphony",
+  "a": "(Franz) Schubert",
+  "right": [
+   "Robert"
+  ],
+  "wrong": [
+   "Jen",
+   "Ben"
+  ]
+ },
+ "gameId": "3226",
+ "cat_notes": {
+  "J": [
+   "Clues about Science and Nature.",
+   "Clues about Run, Run, Run.",
+   "Clues about Military Slang.",
+   "Clues about Sculpture.",
+   "Clues about Business Buddies.",
+   "Clues about Common Similes."
+  ],
+  "DJ": [
+   "Clues about World Capitals.",
+   "Clues about Lyrics from Musicals.",
+   "Clues about The New York Times 2009 Fiction Bestsellers.",
+   "...in Washington, with me.",
+   "Clues about Papal Names.",
+   "Each correct response will either begin or end with those two letters."
+  ],
+  "F": "Clues about Composers."
+ }
+}

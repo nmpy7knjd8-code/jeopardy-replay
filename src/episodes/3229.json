@@ -1,0 +1,993 @@
+{
+ "show": "#5800",
+ "aired": "2009-11-27",
+ "note": "",
+ "contestants": [
+  {
+   "name": "Kelly Garza",
+   "bio": "a training specialist originally from Missoula, Montana",
+   "short": "Kelly"
+  },
+  {
+   "name": "Grant Quertermous",
+   "bio": "an assistant curator from Charlottesville, Virginia",
+   "short": "Grant"
+  },
+  {
+   "name": "Jody Allen",
+   "bio": "a bookstore manager and actor from New York, New York (whose 1-day cash winnings total $25,000)",
+   "short": "Jody"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Jody": 7400,
+   "Grant": 4600,
+   "Kelly": 2600
+  },
+  "DJ": {
+   "Jody": 16200,
+   "Grant": 7800,
+   "Kelly": 5200
+  },
+  "Final": {
+   "Jody": 16500,
+   "Grant": 5600,
+   "Kelly": 100
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "U.S. GEOGRAPHY",
+    "HOLLYWOOD SQUARES",
+    "COMPUTER ABBREV.",
+    "THE ORGAN AFFECTED",
+    "MUSICAL INSTRUMENTS",
+    "A, B, C, D THEN F"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 11,
+     "q": "This state's highest point is Puu Wekiu, a cinder cone atop Mauna Kea",
+     "a": "Hawaii",
+     "right": [
+      "Grant"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "Hey, lady! In 1963, as Julius Kelp in \"The Nutty Professor\", he played a square",
+     "a": "Jerry Lewis",
+     "right": [
+      "Jody"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 21,
+     "q": "Your I.T. guy knows \"I.T.\" means this",
+     "a": "information technology",
+     "right": [
+      "Jody"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 16,
+     "q": "Endocarditis",
+     "a": "the heart",
+     "right": [
+      "Jody"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 6,
+     "q": "Hey, Mr.! It's a shallow frame drum with a single head & metal discs fitted into the walls of the frame",
+     "a": "a tambourine",
+     "right": [
+      "Kelly"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 22,
+     "q": "This branch of mathematics uses letters to symbolize numbers in equations",
+     "a": "algebra (analysis accepted)",
+     "right": [
+      "Jody",
+      "Grant"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": true,
+     "order": 12,
+     "q": "In the 1850s both California & Nevada called it Lake Bigler",
+     "a": "Lake Tahoe",
+     "right": [
+      "Grant"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1000
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "Uncool Sarah Jessica Parker & Amy Linker tried to fit in as freshmen in this early '80s sitcom",
+     "a": "Square Pegs",
+     "right": [
+      "Kelly"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "Useful for connecting devices, USB is short for Universal Serial this",
+     "a": "Bus",
+     "right": [
+      "Jody"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 17,
+     "q": "Nephritis",
+     "a": "the kidney",
+     "right": [
+      "Grant"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 7,
+     "q": "Ohana makes some models of this stringed instrument in a pineapple shape",
+     "a": "a ukulele",
+     "right": [
+      "Kelly"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 23,
+     "q": "To shake or wave a weapon menacingly",
+     "a": "brandish",
+     "right": [
+      "Jody"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 13,
+     "q": "The Columbia River Plateau lies to the east of this range, the Puget Sound-Willamette Valley Trough to the west",
+     "a": "the Cascades",
+     "right": [
+      "Jody"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 3,
+     "q": "This ubernerd became the breakout character of \"Family Matters\"",
+     "a": "Urkel",
+     "right": [
+      "Jody"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 28,
+     "q": "In the abbreviation JPEG, the \"P\" is this 12-letter adjective",
+     "a": "Photographic",
+     "right": [
+      "Jody"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 18,
+     "q": "Encephalitis",
+     "a": "the brain",
+     "right": [
+      "Jody"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 8,
+     "q": "Modern versions of these Latin American rattles contain lead shot rather than beads or seeds",
+     "a": "maracas",
+     "right": [
+      "Jody"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 24,
+     "q": "From the Latin for \"to come round\", it's what you do when you want to avoid something",
+     "a": "circumvent",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 14,
+     "q": "The Peace Bridge spanning the Niagara River connects this city in New York with Canada",
+     "a": "Buffalo",
+     "right": [
+      "Kelly"
+     ],
+     "wrong": [
+      "Jody"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 4,
+     "q": "The geeky Lambda Lambda Lambda fraternity rises up against the jocks of Alpha Beta in this 1984 big screen comedy",
+     "a": "Revenge of the Nerds",
+     "right": [
+      "Jody"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "\"DOS\" stands for these 3 words",
+     "a": "disk operating system",
+     "right": [
+      "Jody"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 19,
+     "q": "Keratitis",
+     "a": "the eyes",
+     "right": [
+      "Kelly"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 9,
+     "q": "On film, Danny Kaye called this reed instrument \"an ill wind that no one blows good\"",
+     "a": "an oboe",
+     "right": [
+      "Grant"
+     ],
+     "wrong": [
+      "Kelly"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 25,
+     "q": "If you're on the \"horns\" of one of these situations with unpleasant options, good luck with your choice",
+     "a": "dilemma",
+     "right": [
+      "Kelly"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 15,
+     "q": "Founded by Swiss immigrants, Switzerland County, Indiana lies across from Kentucky, along this river",
+     "a": "the Ohio River",
+     "right": [
+      "Grant"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 5,
+     "q": "Judd Apatow produced this 1999 TV series about weirdos & dweebs",
+     "a": "Freaks and Geeks",
+     "right": [
+      "Grant"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 30,
+     "q": "\"DSL\" is \"digital\" this \"line\"",
+     "a": "subscriber",
+     "right": [
+      "Jody"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 20,
+     "q": "Hashimoto's disease",
+     "a": "the thyroid",
+     "right": [],
+     "wrong": [
+      "Kelly"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 10,
+     "q": "In a 1791 opera, Tamino is given this musical instrument",
+     "a": "a (magic) flute",
+     "right": [
+      "Jody"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 26,
+     "q": "A European car maker, or an authoritative decree",
+     "a": "fiat",
+     "right": [
+      "Kelly"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "RENAISSANCE FAIR LADY",
+    "CYCLE BABBLE",
+    "POETRY FILL IN THE BLANK",
+    "THEY'RE BIG",
+    "ALL ABOUT THE BENJAMINS",
+    "A CHORUS OF \"BOO\"S"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 4,
+     "q": "Hans Holbein decided to paint Cupid with this love goddess in 1524; maybe Aphrodite was too hard to spell",
+     "a": "Venus",
+     "right": [
+      "Kelly"
+     ],
+     "wrong": [
+      "Grant"
+     ],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 19,
+     "q": "\"Brain bucket\" is a slang term for this piece of gear",
+     "a": "a helmet",
+     "right": [
+      "Kelly"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "\"Come live with me and be my ____\"",
+     "a": "love",
+     "right": [
+      "Kelly"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 13,
+     "q": "Historically, Detroit's big 3:\nGM,\nChrysler,\nthis company",
+     "a": "Ford",
+     "right": [
+      "Grant"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 8,
+     "q": "In 1723 he became the nominal publisher of the New-England Courant, his brother James' weekly newspaper",
+     "a": "Benjamin Franklin",
+     "right": [
+      "Kelly"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 7,
+     "q": "In English usage it means \"forbidden\"; in its original Polynesian it can also mean \"sacred\"",
+     "a": "taboo",
+     "right": [
+      "Grant"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 27,
+     "q": "The beautiful lass here was drawn by this Florentine great; \"La Gioconda\" was less upsetting",
+     "a": "da Vinci",
+     "right": [
+      "Grant"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 23,
+     "q": "The most coveted prize in the Tour de France is the maillot jaune, a jersey of this color",
+     "a": "yellow",
+     "right": [
+      "Kelly"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 2,
+     "q": "\"What happens to a dream ____? Does it dry up like a raisin in the sun?\"",
+     "a": "deferred",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 18,
+     "q": "The big 5 food allergens:\nsoy, wheat, milk, eggs, these legumes",
+     "a": "peanuts",
+     "right": [
+      "Grant"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 14,
+     "q": "This prime minister of Israel is nicknamed \"Bibi\"",
+     "a": "Netanyahu",
+     "right": [
+      "Jody"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 9,
+     "q": "A hidden bomb placed to be set off by an unsuspecting person",
+     "a": "a booby trap",
+     "right": [
+      "Kelly"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 28,
+     "q": "It's not \"Dr. Quinn, Medicine Woman\", it's this wife of Henry VIII in a Renaissance portrait by Hans Holbein",
+     "a": "Jane Seymour",
+     "right": [
+      "Kelly"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 24,
+     "q": "(Sarah of the Clue Crew reports from Trek Bicycle Corporation in Wisconsin.) I'm at Trek Bikes with the most popular frame design the diamond, or double this shape; it hasn't changed much since the 1880s & gives the bike its strength",
+     "a": "triangle",
+     "right": [
+      "Jody"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 3,
+     "q": "\"Whose woods these are I think I know. His house is in the ____ though\"",
+     "a": "village",
+     "right": [
+      "Grant"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 20,
+     "q": "The Big 12:\na dozen athletic powerhouses, 4 of them in this state",
+     "a": "Texas",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": true,
+     "order": 15,
+     "q": "In 1598 this playwright killed an actor in a duel; his punishment was branding & imprisonment",
+     "a": "(Ben) Jonson",
+     "right": [
+      "Jody"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2000
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 10,
+     "q": "It can be a ship's food preparation area or the last car on a freight train",
+     "a": "a caboose",
+     "right": [
+      "Kelly"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 29,
+     "q": "Raphael painted this beautiful title woman \"of the Goldfinch\" in 1505",
+     "a": "the Madonna of the Goldfinch",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 25,
+     "q": "Often called the race of truth, it can be for the whole team or just one cyclist against the clock",
+     "a": "a time trial",
+     "right": [
+      "Jody"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 5,
+     "q": "\"I hear America singing, the varied ____ I hear\"",
+     "a": "carols",
+     "right": [],
+     "wrong": [
+      "Kelly"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 21,
+     "q": "The Big 2 of comic book publishing:\nthese 2",
+     "a": "Marvel & DC",
+     "right": [
+      "Jody"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 16,
+     "q": "From 1968 to 1991 he was the executive editor of the Washington Post",
+     "a": "(Ben) Bradlee",
+     "right": [
+      "Kelly"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 11,
+     "q": "A supporter of a school, team or organization; he may find others & form a club",
+     "a": "a booster",
+     "right": [
+      "Jody"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": true,
+     "order": 30,
+     "q": "Michelangelo didn't mention multiple personalities when he painted this Delphic prophetess",
+     "a": "Sibyl",
+     "right": [],
+     "wrong": [
+      "Kelly"
+     ],
+     "stumper": false,
+     "img": true,
+     "ddWager": 3000
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 26,
+     "q": "(Kelly of the Clue Crew shows an animation on the monitor.) In order to cut wind resistance, a cyclist may use this air pocket to draft on another rider, saving about 30% of his energy",
+     "a": "the slipstream",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 6,
+     "q": "\"____ boy, with cheek of tan!\"",
+     "a": "Barefoot",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 22,
+     "q": "The Big 4 transcontinental railroad barons:\nHopkins,\nHuntington,\nCrocker,\nhim",
+     "a": "Leland Stanford",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 17,
+     "q": "Don't get Fed up--just name this man, seen here",
+     "a": "Bernanke",
+     "right": [
+      "Jody"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 12,
+     "q": "This large viper takes its name partly from a West African country where it's found",
+     "a": "the Gaboon viper",
+     "right": [],
+     "wrong": [
+      "Jody"
+     ],
+     "stumper": true,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "PLANET EARTH",
+  "q": "Despite its name, this ocean current outdoes any river; at maximum flow off the Carolinas, its flow is 3,500 times the Mississippi's",
+  "a": "the Gulf Stream",
+  "right": [
+   "Jody"
+  ],
+  "wrong": [
+   "Kelly",
+   "Grant"
+  ]
+ },
+ "gameId": "3229",
+ "cat_notes": {
+  "J": [
+   "Clues about U.S. Geography.",
+   "Clues about Hollywood Squares.",
+   "Clues about Computer Abbrev.",
+   "The main organ.",
+   "Clues about Musical Instruments.",
+   "All the correct responses will be in that order--\"A\", \"B\", \"C\", \"D\", gonna skip the \"E\" and then \"F\"."
+  ],
+  "DJ": [
+   "Clues about Renaissance Fair Lady.",
+   "Clues about Cycle Babble.",
+   "Clues about Poetry Fill in the Blank.",
+   "Clues about They're Big.",
+   "Clues about All About the Benjamins.",
+   "Each answer contains the letter group “BOO”, and the clues are about A Chorus of S."
+  ],
+  "F": "Clues about Planet Earth."
+ }
+}
