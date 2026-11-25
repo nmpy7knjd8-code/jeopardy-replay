@@ -409,6 +409,9 @@ body[data-paused="1"] #stage{filter:brightness(.62)}
 
 .h1 .of{font-size:.45em;font-weight:500;letter-spacing:.04em;opacity:.8;text-transform:none}
 
+/* ELO: unlabeled colored number next to a contestant name */
+table.cmp td .elo{display:inline-block;margin-left:.45em;font:600 max(12px,2.1vmin)/1 Oswald,sans-serif;letter-spacing:.06em;vertical-align:0.08em;text-shadow:0 0 .4em rgba(0,0,0,.35)}
+
 </style>
 </head>
 <body>
@@ -748,7 +751,82 @@ const SPEED={
   }
 };
 
+/* ---------- visual-only ELO (does not scale buzz speed) ---------- */
+/* Formula (documented as 'ELO' here, on the end screen title/aria, and
+ * in config comments; the number next to a name has no visible label).
+ *
+ * Each player starts at 1500. Games are processed in air-date order.
+ * The number shown for an episode is the rating *before* that game
+ * (career rating is the fallback when a before-rating is missing).
+ *
+ * 1. Finishing-order Elo. A 3-player game is three pairwise matches on
+ *    Final $ (ties = 0.5). Standard expected score
+ *    E = 1/(1+10^((Ropp-R)/400)), K=20, using pre-game ratings for
+ *    every pair, with all deltas applied after the game. A clean 1st /
+ *    2nd / 3rd among equals is +20 / 0 / −20.
+ *
+ * 2. Stats prior / blend. After the Elo update, a career stats prior
+ *    is blended in at weight 0.25: rating = 0.75*Elo + 0.25*prior.
+ *    The prior is the mean of three mappings, each 1500 at the catalog
+ *    per-player-game baseline and ±400 ELO over the given spread:
+ *      accuracy (R/(R+W))     center 0.875, spread 0.15
+ *      average official Coryat  center $11,200, spread $8,000
+ *      buzz share (R+W)/avail   center 0.333, spread 0.20
+ *    Career totals are used, including games fetched from J! Archive
+ *    that are not in this catalog. The blended rating is the input to
+ *    the next game's expected scores.
+ *
+ * 3. Display only. ELO is never used to scale SPEED / True Score / tau.
+ *    Color is by tier (thresholds below): muted gray-blue, white,
+ *    light gold, bright gold-orange.
+ */
+const ELO={
+  start:1500,
+  k:20,
+  blend:0.25,
+  tiers:[
+    {min:0,    color:'#9aa8c8', name:'low'},
+    {min:1400, color:'#f3f5ff', name:'average'},
+    {min:1600, color:'#e6c56a', name:'strong'},
+    {min:1800, color:'#ff9d3d', name:'elite'}
+  ],
+  data:null,
+  load(){
+    if(this._p)return this._p;
+    this._p=fetch('players.json').then(r=>r.ok?r.json():null).then(d=>{
+      if(d&&d.players)this.data=d;
+      window.__PLAYERS=this.data;
+      return this.data;
+    }).catch(()=>null);
+    return this._p;
+  },
+  idFor(show,i){
+    const d=this.data,gid=show&&show.gameId;
+    const row=d&&d.games&&d.games[gid];
+    return (row&&row[i])||null;
+  },
+  rating(id,gameId){
+    if(id==null||!this.data||!this.data.players)return null;
+    const p=this.data.players[id];
+    if(!p)return null;
+    if(gameId!=null&&p.b&&p.b[gameId]!=null)return p.b[gameId];
+    return p.e!=null?p.e:null;
+  },
+  color(n){
+    let c=this.tiers[0].color;
+    for(const t of this.tiers) if(n>=t.min) c=t.color;
+    return c;
+  },
+  badge(n){
+    if(n==null||!isFinite(n))return '';
+    const v=Math.round(n);
+    return `<span class="elo" style="color:${this.color(v)}" title="ELO ${v}" aria-label="ELO ${v}">${v}</span>`;
+  }
+};
+ELO.load();
+
 function loadShow(id){
+
   const meta=CATALOG.find(e=>e.gameId===id)||CATALOG[0];
   return fetch('episodes/'+meta.gameId+'.json').then(r=>{if(!r.ok)throw new Error('episode '+r.status);return r.json()}).then(d=>{SHOW=Object.assign({},meta,d);window.__SHOW=SHOW;SPEED.setGame(SHOW);return SHOW});
 }
@@ -1721,7 +1799,10 @@ function endScreen(){
   clearProgress(SHOW.gameId);
   savePlayed(SHOW.gameId,G.score,G.rawScore||0);
   const fin=SHOW.scores.Final;
-  const people=SHOW.contestants.map(c=>({name:c.name,short:c.short,score:fin[c.short],raw:fin[c.short],adj:fin[c.short],real:true,j:SHOW.scores.J[c.short],dj:SHOW.scores.DJ[c.short]}));
+  const people=SHOW.contestants.map((c,i)=>{
+    const id=ELO.idFor(SHOW,i);
+    return {name:c.name,short:c.short,score:fin[c.short],raw:fin[c.short],adj:fin[c.short],real:true,j:SHOW.scores.J[c.short],dj:SHOW.scores.DJ[c.short],elo:ELO.rating(id,SHOW.gameId)};
+  });
   const me={name:'You',score:G.score,raw:G.rawScore||0,adj:G.score,real:false,j:G.roundScores.J??0,dj:G.roundScores.DJ??0};
   const all=[...people,me].sort((a,b)=>b.score-a.score||(a.real?-1:1)); // ties: the real contestant keeps the nod
   const place=all.indexOf(me)+1;
@@ -1739,7 +1820,7 @@ function endScreen(){
    <div class="h1" style="font-size:min(8vw,12vh)">${place===1?'You <span class="gold">win!</span>':headline}</div>
    <div class="sub" style="letter-spacing:.08em;text-transform:none;font-size:max(13px,2.6vmin)">${detail}</div>
    <div class="endwrap"><table class="cmp end"><tr><th>#</th><th>Contestant</th><th>After J!</th><th>After DJ!</th><th>Raw</th><th>Speed-adj</th></tr>
-   ${all.map((p,i)=>`<tr class="${p.real?'':'me'}"><td>${i+1}</td><td>${esc(p.name)}${p.real?`<small>${esc(remarks[p.short])}</small>`:'<small>your game</small>'}</td>
+   ${all.map((p,i)=>`<tr class="${p.real?'':'me'}"><td>${i+1}</td><td>${esc(p.name)}${p.real?ELO.badge(p.elo):''}${p.real?`<small>${esc(remarks[p.short])}</small>`:'<small>your game</small>'}</td>
      <td class="${p.j<0?'neg':''}">${money(p.j)}</td><td class="${p.dj<0?'neg':''}">${money(p.dj)}</td>
      <td class="${(p.raw??p.score)<0?'neg':''}">${money(p.raw??p.score)}</td><td class="${(p.adj??p.score)<0?'neg':''}">${money(p.adj??p.score)}</td></tr>`).join('')}</table></div>
    <div class="contestants"><button class="btn" id="again">Play again</button></div></div>`);
@@ -1806,7 +1887,7 @@ if(AUTO){
     else if(st==='roundend'&&age>600)$('#cont').click();
   },200);
 }
-window.__G=G;window.__startRound=startRound;window.__loadShow=loadShow;window.__savePlayed=savePlayed;window.__readPlayed=readPlayed;window.__setPaused=setPaused;window.__togglePause=togglePause;window.__clearTimers=clearTimers;window.__openCatNote=openCatNote;window.__closeCatNote=closeCatNote;window.__Voice=Voice;window.__SPEED=SPEED;window.__SHOW=SHOW;window.__endScreen=endScreen;window.__finishClue=finishClue;window.__RNG=RNG;window.__saveProgress=saveProgress;window.__readProgress=readProgress;window.__clearProgress=clearProgress;window.__resetPlay=resetPlay;window.__resumeGame=resumeGame;
+window.__G=G;window.__startRound=startRound;window.__loadShow=loadShow;window.__savePlayed=savePlayed;window.__readPlayed=readPlayed;window.__setPaused=setPaused;window.__togglePause=togglePause;window.__clearTimers=clearTimers;window.__openCatNote=openCatNote;window.__closeCatNote=closeCatNote;window.__Voice=Voice;window.__SPEED=SPEED;window.__ELO=ELO;window.__SHOW=SHOW;window.__endScreen=endScreen;window.__finishClue=finishClue;window.__RNG=RNG;window.__saveProgress=saveProgress;window.__readProgress=readProgress;window.__clearProgress=clearProgress;window.__resetPlay=resetPlay;window.__resumeGame=resumeGame;
 intro();
 })();
 

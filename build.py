@@ -48,4 +48,11 @@ data = json.dumps(catalog, ensure_ascii=False, separators=(',',':')).replace('</
 t = t.replace('/*FONTS*/', ff).replace('/*CSS*/', (r/'src/style.css').read_text()).replace('/*JS*/', (r/'src/app.js').read_text())
 t = t.replace('/*DATA*/', data)
 (r/'index.html').write_text(t)
+players_src=r/'src'/'players.json'
+if players_src.exists():
+    shutil.copyfile(players_src, r/'players.json')
+    print('players.json', players_src.stat().st_size, 'bytes')
+else:
+    print('players.json missing (ELO will be hidden)')
+
 print('index.html', len(t)//1024, 'KB;', len(catalog), 'episodes;', sum((out/f'{e["gameId"]}.json').stat().st_size for e in catalog)//1024, 'KB JSON')
