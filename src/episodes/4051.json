@@ -1,0 +1,987 @@
+{
+ "show": "#6516",
+ "aired": "2013-01-07",
+ "note": "Ashok Poozhikunnel game 3.",
+ "contestants": [
+  {
+   "name": "Steve Money",
+   "bio": "an international education specialist from Washington, D.C.",
+   "short": "Steve"
+  },
+  {
+   "name": "Wendy Hayes",
+   "bio": "a project specialist from Kansas City, Missouri",
+   "short": "Wendy"
+  },
+  {
+   "name": "Ashok Poozhikunnel",
+   "bio": "an underwriter from Wheaton, Illinois (whose 2-day cash winnings total $39,601)",
+   "short": "Ashok"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Ashok": 2800,
+   "Wendy": 2800,
+   "Steve": 6200
+  },
+  "DJ": {
+   "Ashok": 18800,
+   "Wendy": 2400,
+   "Steve": 13000
+  },
+  "Final": {
+   "Ashok": 26001,
+   "Wendy": 4000,
+   "Steve": 19000
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "HOW DO YOU?",
+    "ORIGINAL OPERA TITLES",
+    "RULE OF THIRDS",
+    "UCLA CELEBRITY ALUMNI",
+    "4-SYLLABLE WORDS",
+    "2000: THE YEAR IN QUOTATIONS"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 13,
+     "q": "Purse your lips into a small \"O\" shape, place your tongue behind your bottom teeth, gently blow out air",
+     "a": "(How do you) whistle",
+     "right": [
+      "Steve"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "Rossini: \"Guillaume Tell\"",
+     "a": "William Tell",
+     "right": [
+      "Wendy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 2,
+     "q": "Kentucky Derby, Preakness...",
+     "a": "The Belmont Stakes",
+     "right": [
+      "Ashok"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 23,
+     "q": "This blonde beauty who reprised her role as Amanda on the new \"Melrose Place\" was a psychology major",
+     "a": "Heather Locklear",
+     "right": [
+      "Wendy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 4,
+     "q": "Mission: this 10-letter word meaning hopelessly difficult; the clue will self-destruct in one second",
+     "a": "impossible",
+     "right": [
+      "Ashok"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 18,
+     "q": "His State of the Union speech: \"Never before has our nation enjoyed... so much prosperity... and so few external threats\"",
+     "a": "Bill Clinton",
+     "right": [
+      "Wendy"
+     ],
+     "wrong": [
+      "Steve"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 14,
+     "q": "Cover the \"Free\" space on your card, listen to the host call letters & numbers, yell the winning word if you complete a line",
+     "a": "play bingo",
+     "right": [
+      "Ashok"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 12,
+     "q": "Mozart: \"Le Nozze di Figaro \"",
+     "a": "The Marriage of Figaro",
+     "right": [
+      "Steve"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 3,
+     "q": "The id, the ego...",
+     "a": "the superego",
+     "right": [
+      "Wendy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 24,
+     "q": "For the brief time he attended, he was a rebel with a cause, even landing a lead role in a 1950 stage production",
+     "a": "(James) Dean",
+     "right": [
+      "Ashok"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 5,
+     "q": "It takes a very steady hand... this term for a medical procedure also describes a math process like addition",
+     "a": "operation",
+     "right": [
+      "Wendy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 19,
+     "q": "\"We reverse the judgment of the Supreme Court of\" this state \"ordering a recount to proceed\"",
+     "a": "Florida",
+     "right": [
+      "Steve"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 15,
+     "q": "Start by gathering enough gopher wood to construct a 450 x 75 x 45-foot boat",
+     "a": "build an ark",
+     "right": [
+      "Wendy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 26,
+     "q": "Offenbach: \"Les Contes d'Hoffmann\"",
+     "a": "The Tales of Hoffmann",
+     "right": [],
+     "wrong": [
+      "Ashok"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 6,
+     "q": "Purgatorio, paradiso...",
+     "a": "inferno",
+     "right": [
+      "Ashok"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 25,
+     "q": "Attending UCLA in the '60s, he was no \"Meathead\", he just played one later on television",
+     "a": "Rob Reiner",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 9,
+     "q": "Term for a document that comes before \"of deposit\" & after \"birth\"",
+     "a": "certificate",
+     "right": [
+      "Steve"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 20,
+     "q": "In January, the spokesman for a presidential council on this computer issue: \"It's a lot quieter\"",
+     "a": "Y2K",
+     "right": [
+      "Wendy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 16,
+     "q": "Melt butter, melt in marshmallows, add breakfast cereal, stir, press flat & cut into squares",
+     "a": "make Rice Krispie Treats",
+     "right": [
+      "Steve"
+     ],
+     "wrong": [
+      "Ashok"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 27,
+     "q": "Wagner: \" Gotter-dammerung \"",
+     "a": "Twilight of the Gods",
+     "right": [],
+     "wrong": [
+      "Wendy"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 7,
+     "q": "In credit rating: Fitch, Moody's...",
+     "a": "Standard & Poor's",
+     "right": [
+      "Ashok"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "This woman who won consecutive heptathlons at the Olympics went to UCLA on a basketball scholarship",
+     "a": "Jackie Joyner-Kersee",
+     "right": [
+      "Ashok"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 10,
+     "q": "Also a physiological term, it's the distribution of copies of a periodical among readers",
+     "a": "circulation",
+     "right": [
+      "Ashok"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 21,
+     "q": "A congressman: \"Regardless of whether we grant normal trade status to\" this vast country, its \"market is opening\"",
+     "a": "China",
+     "right": [
+      "Steve"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 17,
+     "q": "Open the airflow valve slowly, note the reading when you first hear the pulse & again when you can no longer hear it",
+     "a": "take someone's blood pressure",
+     "right": [
+      "Steve"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 28,
+     "q": "Puccini: \"La Fanciulla del West\"",
+     "a": "Girl of the Golden West",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 8,
+     "q": "In the body: stirrup, hammer...",
+     "a": "anvil",
+     "right": [
+      "Wendy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 30,
+     "q": "Neurobiologist Amy Farrah Fowler on \"The Big Bang Theory\", in real life she has a Ph.D. in neuroscience from UCLA",
+     "a": "Mayim Bialik",
+     "right": [
+      "Steve"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 11,
+     "q": "A collection of monkeys & mambas on exhibit",
+     "a": "a menagerie",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": true,
+     "order": 22,
+     "q": "This country's president, in an address to the Knesset: \"I am asking forgiveness ...for myself and my generation\"",
+     "a": "Germany",
+     "right": [
+      "Steve"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1200
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "IT'S PLAY TIME",
+    "DAYS OF YORE",
+    "ACTORS WHO DIRECT",
+    "FEMALE FIRSTS",
+    "AMERICAN REGIONALISMS",
+    "HOLD THE FORT!"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 6,
+     "q": "In a Sophocles play, Jocasta hangs herself when she realizes that her husband & her son are both this title guy",
+     "a": "Oedipus",
+     "right": [
+      "Wendy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "The object that caused quite a stir as the \"Great Comet\" of 1531\" is now known as this",
+     "a": "Halley's Comet",
+     "right": [
+      "Ashok"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 16,
+     "q": "1941: \"Citizen Kane\"",
+     "a": "Orson Welles",
+     "right": [
+      "Steve"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 11,
+     "q": "In 1935 she became the first person to fly solo from Hawaii to the U.S. mainland",
+     "a": "(Amelia) Earhart",
+     "right": [
+      "Steve"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 21,
+     "q": "Whether it's a trash mover, a toad strangler or a gully washer, a hard one of these is about to fall",
+     "a": "a rain",
+     "right": [
+      "Wendy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 23,
+     "q": "This fort south of Louisville currently houses more than 140 million ounces of gold",
+     "a": "Fort Knox",
+     "right": [
+      "Wendy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 7,
+     "q": "This playwright's \"The Importance of Being Earnest\" was back on Broadway in 2011, 116 years after its debut there",
+     "a": "(Oscar) Wilde",
+     "right": [
+      "Ashok"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": true,
+     "order": 2,
+     "q": "This mixture of potassium nitrate, sulfur & charcoal was perfected by the Chinese around 1000 A.D.",
+     "a": "gunpowder",
+     "right": [
+      "Ashok"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 3000
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 17,
+     "q": "2012:\n\"Madea's Witness Protection\"",
+     "a": "(Tyler) Perry",
+     "right": [
+      "Steve"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 12,
+     "q": "In 1809 Mary Kies became the first woman to receive one of these, for a method of weaving straw",
+     "a": "a patent",
+     "right": [
+      "Ashok"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 22,
+     "q": "Chesterfield & daveno are words for this piece of furniture",
+     "a": "a sofa",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 24,
+     "q": "Fort Abraham Lincoln was established in 1872 to protect the survey crews & workers who were building this as it advanced west across the Dakota Territory & beyond",
+     "a": "the (Transcontinental) Railroad",
+     "right": [
+      "Steve"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 8,
+     "q": "\"Fair is foul, and foul is fair\" in the first scene tells us things are not as they should be in this Shakespeare tragedy",
+     "a": "Macbeth",
+     "right": [
+      "Ashok"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 3,
+     "q": "In 1505 this writer established a Florentine militia",
+     "a": "Machiavelli",
+     "right": [
+      "Ashok"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 18,
+     "q": "1996: \"Sling Blade\"",
+     "a": "Billy Bob Thornton",
+     "right": [
+      "Ashok"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 13,
+     "q": "In 1989 reverend Barbara Harris of Boston became the first female bishop in this Protestant church",
+     "a": "the Episcopal church",
+     "right": [
+      "Ashok"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 28,
+     "q": "If a fluffernutter or a grinder is on the menu, you're about to enjoy one of these",
+     "a": "a sandwich",
+     "right": [
+      "Steve"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 25,
+     "q": "What's called \"Fort Sam\" for short is named for him",
+     "a": "Fort Sam Houston",
+     "right": [
+      "Steve"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 9,
+     "q": "Annie Sullivan spells out \"water\", \"egg\" & \"mug\" for her pupil in living up to the title of this play",
+     "a": "The Miracle Worker",
+     "right": [
+      "Ashok"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 4,
+     "q": "Legend has it that around 550 Byzantine ruler Justinian sent monks to China to smuggle out these lepidopterans",
+     "a": "silkworms",
+     "right": [],
+     "wrong": [
+      "Wendy"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 19,
+     "q": "2000: \"Pollock\"",
+     "a": "Ed Harris",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 14,
+     "q": "The first to be named Time magazine's Woman of the Year, she soon married ex-British king Edward VIII",
+     "a": "Wallis Warfield Simpson",
+     "right": [],
+     "wrong": [
+      "Ashok"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 3000
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 29,
+     "q": "Mosquito hawk & globe-skimmer are terms for this \"fly\" with distinctive wings",
+     "a": "a dragonfly",
+     "right": [
+      "Ashok"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 26,
+     "q": "Troops are both mobilized & demobilized at this fort about 15 miles southeast of Trenton",
+     "a": "Fort Dix",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 10,
+     "q": "Proteus syndrome may have been the cause of the deformities of the title character of this 1979 play",
+     "a": "The Elephant Man",
+     "right": [
+      "Ashok"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 5,
+     "q": "9th century English King Alfred the Great is said to have used calibrated candles to measure this",
+     "a": "time",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 20,
+     "q": "2001: \"Zoolander\"",
+     "a": "Ben Stiller",
+     "right": [
+      "Ashok"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 15,
+     "q": "The first female White House press secretary, she served in 1993 & 1994",
+     "a": "(Dee Dee) Myers",
+     "right": [
+      "Steve"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 30,
+     "q": "It's a New Englandism for what the rest of us call a milkshake",
+     "a": "a frappe",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 27,
+     "q": "George Washington led the building of Fort Necessity in 1754 during this war",
+     "a": "the French & Indian War",
+     "right": [
+      "Ashok"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "AMERICAN SPORTS LEGENDS",
+  "q": "A bio from 1974, 26 years after his death, quotes him: \"I swing big... I hit big or I miss big. I like to live as big as I can\"",
+  "a": "Babe Ruth",
+  "right": [
+   "Wendy",
+   "Steve",
+   "Ashok"
+  ],
+  "wrong": []
+ },
+ "gameId": "4051",
+ "cat_notes": {
+  "J": [
+   "The category “HOW DO YOU?” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "You have to give us the English title.",
+   "Clues about Rule of Thirds.",
+   "Clues about Ucla Celebrity Alumni.",
+   "The category “4-SYLLABLE WORDS” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "Clues about 2000: the Year in Quotations."
+  ],
+  "DJ": [
+   "The category “IT'S PLAY TIME” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "Clues about Days of Yore.",
+   "Next, we want you to name the movie's actor-director.",
+   "Clues about Female Firsts.",
+   "Clues about American Regionalisms.",
+   "The category “HOLD THE FORT!” sets the theme — the clues follow that idea and any wordplay suggested by the title."
+  ],
+  "F": "Clues about American Sports Legends."
+ }
+}

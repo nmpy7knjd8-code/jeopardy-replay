@@ -1,0 +1,987 @@
+{
+ "show": "#6636",
+ "aired": "2013-06-24",
+ "note": "Andrew Moore game 6.",
+ "contestants": [
+  {
+   "name": "Joel Hart",
+   "bio": "a college admissions officer from Los Angeles, California",
+   "short": "Joel"
+  },
+  {
+   "name": "Britta Waller",
+   "bio": "a magazine and website editor from Greensboro, North Carolina",
+   "short": "Britta"
+  },
+  {
+   "name": "Andrew Moore",
+   "bio": "a test prep instructor from Buford, Georgia (whose 5-day cash winnings total $131,003)",
+   "short": "Andrew"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Andrew": 7600,
+   "Britta": 3000,
+   "Joel": 2200
+  },
+  "DJ": {
+   "Andrew": 16800,
+   "Britta": 7100,
+   "Joel": 10600
+  },
+  "Final": {
+   "Andrew": 6800,
+   "Britta": 4600,
+   "Joel": 4400
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "RED STATES",
+    "A FIRST NAME BASIS",
+    "WHOSE LATE NIGHT SKIT",
+    "D.I.Y.",
+    "6-LETTER ELEMENTS",
+    "DURIG CHOCOLATIER"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 24,
+     "q": "Going Republican in each presidential race since 1980, it's the second-largest state in both area & population",
+     "a": "Texas",
+     "right": [
+      "Andrew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 29,
+     "q": "\"I didn't know him from\" this name (except for you, of course, Mr. Sandler)",
+     "a": "Adam",
+     "right": [
+      "Andrew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 28,
+     "q": "\"Stupid Pet Tricks\"",
+     "a": "David Letterman",
+     "right": [
+      "Britta"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 30,
+     "q": "This word for a way to save energy & money also refers to sealing up the seams of a ship",
+     "a": "caulking",
+     "right": [
+      "Joel"
+     ],
+     "wrong": [
+      "Andrew"
+     ],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 5,
+     "q": "Because it is less dense than air, when we breathe this 2nd-lightest element, it comes out faster & at a higher frequency",
+     "a": "Helium",
+     "right": [
+      "Andrew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 14,
+     "q": "(Kelly of the Clue Crew presents the clue from Switzerland.) Stirred for hours to improve smoothness, the free-flowing mixture from which unsweetened chocolate candies are poured is called this, which sounds like it contains alcohol, but doesn't",
+     "a": "liquor",
+     "right": [
+      "Andrew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 23,
+     "q": "Blackbeard was killed at Ocracoke Island in this state's Outer Banks",
+     "a": "North Carolina",
+     "right": [
+      "Joel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 21,
+     "q": "A flat, springlike metal hairpin",
+     "a": "a bobby pin",
+     "right": [
+      "Andrew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "\"Triumph the Insult Comic Dog Goes to the Presidential Debate\"",
+     "a": "Conan O'Brien",
+     "right": [
+      "Joel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 26,
+     "q": "To clean red wine out of a carpet, sprinkle on this common condiment for 15 minutes, then rinse with soap",
+     "a": "salt (vinegar accepted)",
+     "right": [
+      "Andrew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 25,
+     "q": "Vital for life, it forms more compounds than all the other elements combined",
+     "a": "carbon",
+     "right": [
+      "Andrew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 13,
+     "q": "(Kelly of the Clue Crew presents the clue from Switzerland.) Shaped into balls, these fancy chocolates were named for an exotic French fungi they were thought to resemble",
+     "a": "truffles",
+     "right": [
+      "Joel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 9,
+     "q": "Fort Wayne is the seat of Allen County in this state",
+     "a": "Indiana",
+     "right": [
+      "Andrew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 20,
+     "q": "Meaning people in general, the phrase with these 3 male names dates back to the 1700s",
+     "a": "Tom, Dick & Harry",
+     "right": [
+      "Andrew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 15,
+     "q": "\"ESPN UK\"",
+     "a": "Craig Ferguson",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 19,
+     "q": "Fix your stained-glass problems using this, the word for any alloy that's heated to join the lead strips",
+     "a": "solder",
+     "right": [
+      "Britta"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 22,
+     "q": "In solution, this element that can be extracted from seaweed is used as an antiseptic on cuts & scratches",
+     "a": "iodine",
+     "right": [
+      "Andrew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 12,
+     "q": "(Jimmy of the Clue Crew presents the clue from Switzerland.) With a guaranteed price for crops & absolutely no child labor used, the all-natural ingredients in Durig chocolates are certified this type of non-exploitative trade",
+     "a": "fair trade",
+     "right": [
+      "Britta"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 1,
+     "q": "Some of its larger cities, including Huntington & Wheeling, are on the Ohio River",
+     "a": "West Virginia",
+     "right": [
+      "Joel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 4,
+     "q": "This name is found in a painful leg muscle cramp",
+     "a": "Charley",
+     "right": [
+      "Britta"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 16,
+     "q": "\"History of Rap\" with Justin Timberlake",
+     "a": "Jimmy Fallon",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 18,
+     "q": "If you're working with wood that doesn't need a finished look, you can use the waffle-head type of this",
+     "a": "a hammer",
+     "right": [
+      "Andrew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": true,
+     "order": 8,
+     "q": "It's used to vulcanize rubber & to make gunpowder",
+     "a": "sulfur",
+     "right": [
+      "Andrew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1200
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 11,
+     "q": "(Jimmy of the Clue Crew presents the clue from Switzerland.) At Durig, the molds are vibrated to eliminate any of these remaining in the chocolate, yielding a rich, dense product",
+     "a": "air bubbles",
+     "right": [
+      "Britta"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 2,
+     "q": "The 1854 act named for these 2 states allowed slavery north of 36º 30' latitude",
+     "a": "Kansas & Nebraska",
+     "right": [
+      "Andrew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 3,
+     "q": "Lyndon Johnson called some folks uncomfortable with his Vietnam policy these nervous types",
+     "a": "Nervous Nellies",
+     "right": [
+      "Andrew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 17,
+     "q": "\"YouTube Challenge: I Told My Kids I Ate All Their Halloween Candy\"",
+     "a": "Jimmy Kimmel",
+     "right": [
+      "Andrew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 7,
+     "q": "To cut a hole in drywall for an electrical outlet, use this saw that sounds like you're working on a door",
+     "a": "a keyhole saw",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 6,
+     "q": "Its 35 known isotopes are all radioactive",
+     "a": "radium",
+     "right": [],
+     "wrong": [
+      "Andrew"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 10,
+     "q": "(Jimmy of the Clue Crew presents the clue from Switzerland.) Here at Durig, the finest cocoa in the world is used to make their chocolates from beans bearing this name, also a term for a European Latin American",
+     "a": "criollo",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "BLUE STATES",
+    "THE ENGLISH CIVIL WARS",
+    "READING BY THE NUMBERS",
+    "THE FILM WITHIN THE FILM",
+    "THE COUNTRY'S MAJOR RELIGION",
+    "LET'S GO ON \"TUR\""
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "An ad says this sad state \"hurts. Cymbalta can help\"",
+     "a": "depression",
+     "right": [
+      "Britta"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 25,
+     "q": "The wars pitted Scots & Irish as well as English against Charles I & this royal house",
+     "a": "the Stuarts",
+     "right": [
+      "Joel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "This Shakespeare title character is only 13 years old",
+     "a": "Juliet",
+     "right": [],
+     "wrong": [
+      "Britta"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 28,
+     "q": "Scarlett Johansson played Janet Leigh in this film within the 2012 film \"Hitchcock\"",
+     "a": "Psycho",
+     "right": [
+      "Andrew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 17,
+     "q": "Egypt (a branch of Islam)",
+     "a": "Sunni",
+     "right": [
+      "Joel"
+     ],
+     "wrong": [
+      "Andrew"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 8,
+     "q": "This device usually has several arms projecting from a post to control the passage of people from one area to another",
+     "a": "a turnstile",
+     "right": [
+      "Andrew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 2,
+     "q": "This Stephen King novel is about writer Paul Sheldon & his No. 1 fan",
+     "a": "Misery",
+     "right": [
+      "Joel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 26,
+     "q": "Executing the king was authorized in 1649 by the legislative body called the \"Long\" this, which had sat since 1640",
+     "a": "Parliament",
+     "right": [
+      "Andrew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 23,
+     "q": "This book of poetry & wisdom has 150 chapters, the most in the Bible",
+     "a": "Psalms",
+     "right": [
+      "Andrew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "Gene Kelly's character is starring in \"The Dueling Cavalier\", which becomes \"The Dancing Cavalier\" in this musical",
+     "a": "Singin' in the Rain",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 18,
+     "q": "Thailand",
+     "a": "Buddhism",
+     "right": [
+      "Andrew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 13,
+     "q": "Sod, or a street gang's territory",
+     "a": "turf",
+     "right": [
+      "Joel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 3,
+     "q": "In ancient physiology, the 4 humors were blood, phlegm, choler & this, aka black bile",
+     "a": "melancholy",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 20,
+     "q": "After 9 years, the wars ended with victory at Worcester by this future Lord Protector",
+     "a": "(Oliver) Cromwell",
+     "right": [
+      "Andrew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 9,
+     "q": "This author was publicly chastised by Oprah after \"A Million Little Pieces\" just didn't add up",
+     "a": "James Frey",
+     "right": [
+      "Britta"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 11,
+     "q": "This film shows the conflict between Laurence Olivier & Marilyn Monroe while making \"The Prince and the Showgirl\"",
+     "a": "My Week With Marilyn",
+     "right": [
+      "Britta"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 24,
+     "q": "Greece",
+     "a": "Greek (or Eastern) Orthodox",
+     "right": [
+      "Joel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 14,
+     "q": "From the French for \"earthen\", it's a covered, broad & deep dish used to serve soups or stews",
+     "a": "a tureen",
+     "right": [
+      "Joel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 4,
+     "q": "Light therapy can help with SAD, this disorder first described by psychiatrist Norman Rosenthal",
+     "a": "seasonal affective disorder",
+     "right": [
+      "Andrew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 19,
+     "q": "Captured royalist leader Rowland Laugharne was spared execution by the drawing of these--bad luck, John Poyer",
+     "a": "lots",
+     "right": [
+      "Britta"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 10,
+     "q": "Prof. Aronnax explains that at 32,000' deep, you'll be squashed by 17.6 million kilos of pressure in a novel by this man",
+     "a": "(Jules) Verne",
+     "right": [
+      "Andrew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 12,
+     "q": "\"Habeas Corpus\" is the film within this Hollywood satire starring Tim Robbins",
+     "a": "The Player",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 5,
+     "q": "Sweden",
+     "a": "Lutheran",
+     "right": [
+      "Britta"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 15,
+     "q": "Synonym for depravity; it's often preceded by the word \"moral\"",
+     "a": "turpitude",
+     "right": [
+      "Joel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": true,
+     "order": 7,
+     "q": "A map of the 100 Acre Wood describes Eeyore's place as this, as well as \"rather boggy and sad\"",
+     "a": "gloomy",
+     "right": [],
+     "wrong": [
+      "Britta"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1000
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 21,
+     "q": "The royalist Cavaliers, with flowing locks, battled these forces named for their close-cropped hair",
+     "a": "the Roundheads",
+     "right": [
+      "Andrew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 22,
+     "q": "This Englishman's \"Two Treatises of Government\" held the key to the writing of the Declaration of Independence",
+     "a": "(John) Locke",
+     "right": [
+      "Joel"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 30,
+     "q": "Peter O'Toole is directing a WWI film within this 1980 movie that has Steve Railsback in the title role",
+     "a": "The Stunt Man",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": true,
+     "order": 6,
+     "q": "Malta",
+     "a": "Roman Catholicism",
+     "right": [],
+     "wrong": [
+      "Britta"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2500
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 16,
+     "q": "In chemistry, white paper soaked in tincture of this cooking herb is used to detect the presence of alkalis",
+     "a": "turmeric",
+     "right": [
+      "Britta"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "WORLD GEOGRAPHY",
+  "q": "Names of the 2 geographical features on a 2012 postage stamp issued jointly by Nepal & Israel",
+  "a": "Mt. Everest & The Dead Sea",
+  "right": [],
+  "wrong": [
+   "Britta",
+   "Joel",
+   "Andrew"
+  ]
+ },
+ "gameId": "4228",
+ "cat_notes": {
+  "J": [
+   "Clues about Red States.",
+   "Clues about A First Name Basis.",
+   "We want you to name the host of the show for us.",
+   "Clues about D.I.Y..",
+   "Each answer is a 6-letter word or term related to 6-letter Elements.",
+   "And finally, we join our Clue Crew on a visit to [*] in Europe."
+  ],
+  "DJ": [
+   "Clues about Blue States.",
+   "Clues about The English Civil Wars.",
+   "Clues about Reading by the Numbers.",
+   "Clues about The Film Within the Film.",
+   "Clues about The Country's Major Religion.",
+   "Each correct response will begin with those three letters--\"T-U-R\"."
+  ],
+  "F": "Clues about World Geography."
+ }
+}

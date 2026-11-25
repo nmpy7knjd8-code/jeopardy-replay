@@ -1,0 +1,991 @@
+{
+ "show": "#6518",
+ "aired": "2013-01-09",
+ "note": "Ashok Poozhikunnel game 5. \r Kristin Morgan game 1.",
+ "contestants": [
+  {
+   "name": "Brett Swartz",
+   "bio": "a graphic designer from Athens, Georgia",
+   "short": "Brett"
+  },
+  {
+   "name": "Kristin Morgan",
+   "bio": "a strategic analyst for NASA from Huntsville, Alabama",
+   "short": "Kristin"
+  },
+  {
+   "name": "Ashok Poozhikunnel",
+   "bio": "an underwriter from Wheaton, Illinois (whose 4-day cash winnings total $69,002)",
+   "short": "Ashok"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Ashok": 1200,
+   "Kristin": 2800,
+   "Brett": 2400
+  },
+  "DJ": {
+   "Ashok": 6400,
+   "Kristin": 9800,
+   "Brett": 12800
+  },
+  "Final": {
+   "Ashok": 0,
+   "Kristin": 6700,
+   "Brett": 4800
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "COMPUTING",
+    "U.S. PLACE NAMES",
+    "TV NEWS",
+    "THANKS TO OUR \"VET\"s",
+    "ENTERTAINMENTS",
+    "SUPERSTARS OF SCIENCE"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 23,
+     "q": "In 2004 a U.S. law named in part for this type of unwelcome e-mail took effect to prohibit deceptive subject lines",
+     "a": "spam",
+     "right": [
+      "Kristin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "There's a canal named this in Mesa County, Colorado, a long way from the famous one in New York State",
+     "a": "Erie",
+     "right": [
+      "Kristin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 16,
+     "q": "In 2011 Josh Elliott of ESPN became news reader for this ABC show that starts many people's day",
+     "a": "Good Morning America",
+     "right": [
+      "Ashok"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 11,
+     "q": "1940s job of the legendary Rosie",
+     "a": "a riveter",
+     "right": [
+      "Kristin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 6,
+     "q": "One set of rules in this test of strength says if the grip comes apart, the 2 hands will be strapped together",
+     "a": "arm wrestling",
+     "right": [
+      "Kristin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 2,
+     "q": "He let his theory evolve for 20 years before going public in 1858",
+     "a": "Darwin",
+     "right": [
+      "Ashok"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 25,
+     "q": "A set of operating rules for computer information exchange; it can also mean proper diplomatic etiquette",
+     "a": "protocol",
+     "right": [
+      "Kristin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 21,
+     "q": "The U.S. has 110 hospitals named for this helpful New Testament fella from Luke 10",
+     "a": "the Good Samaritan",
+     "right": [
+      "Kristin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 17,
+     "q": "Aaron Sorkin created Will McAvoy, anchorman with a conscience, for this HBO series",
+     "a": "The Newsroom",
+     "right": [
+      "Ashok"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 12,
+     "q": "Don't do it to your neighbor's stuff, warn the 10 Commandments",
+     "a": "covet",
+     "right": [
+      "Kristin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 7,
+     "q": "Contest in which old automobiles are intentionally crashed into each other until only one is left running",
+     "a": "demolition derby",
+     "right": [
+      "Kristin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 3,
+     "q": "In the 1660s, with Cambridge closed by plague, he went home & started inventing calculus",
+     "a": "Newton",
+     "right": [
+      "Ashok"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 26,
+     "q": "I'm sorry, contestants, it was the name of the murderous computer in \"2001: A Space Odyssey\"",
+     "a": "HAL",
+     "right": [
+      "Brett"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 22,
+     "q": "No shortage of U.S. islands called this; there are 162 besides the one that's home to Queens & Massapequa",
+     "a": "Long Island",
+     "right": [],
+     "wrong": [
+      "Ashok"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 18,
+     "q": "A new bio of this beloved CBS anchor says he bugged a committee room at the 1952 Republican Convention",
+     "a": "(Walter) Cronkite",
+     "right": [
+      "Ashok"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 13,
+     "q": "The Sting Ray was one model of this classic transport",
+     "a": "a Corvette",
+     "right": [
+      "Ashok"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 8,
+     "q": "This Olympic event is also called water ballet",
+     "a": "synchronized swimming",
+     "right": [
+      "Kristin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 4,
+     "q": "This 19th century chemist saved France's beer, wine & silk industries",
+     "a": "Pasteur",
+     "right": [
+      "Ashok"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 27,
+     "q": "In 1961 Les Earnest created the first program of this type, now a word processing tool, & yes, computer, his name is Les with 1 S",
+     "a": "a spell check",
+     "right": [
+      "Ashok"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 24,
+     "q": "(Sarah of the Clue Crew reports from Idaho.) This Idaho ski resort was developed by the Union Pacific Railroad & named by a press agent who brought Hollywood stars to popularize the area",
+     "a": "Sun Valley",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 19,
+     "q": "In 2012 she succeeded Ann Curry as co-anchor of the \"Today\" show",
+     "a": "Savannah Guthrie",
+     "right": [
+      "Brett"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 14,
+     "q": "Catlike critter prized for its musk",
+     "a": "a civet",
+     "right": [
+      "Kristin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 9,
+     "q": "In the '80s Photon was a chain of venues for this game inspired by \"Star Wars\"",
+     "a": "laser tag",
+     "right": [],
+     "wrong": [
+      "Kristin"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 5,
+     "q": "In 1957 this Danish physicist became the first recipient of the USA's Atoms for Peace Award",
+     "a": "(Niels) Bohr",
+     "right": [
+      "Kristin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 28,
+     "q": "WinZip is a popular tool for doing this, reducing file size to store or transfer more data",
+     "a": "compressing",
+     "right": [
+      "Ashok"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": true,
+     "order": 29,
+     "q": "Warm Springs, Georgia's airport is named for him",
+     "a": "Franklin Delano Roosevelt",
+     "right": [],
+     "wrong": [
+      "Ashok"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 4000
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 20,
+     "q": "We're glad this CNN show hosted by Candy Crowley isn't just on once a year in January",
+     "a": "State of the Union",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 15,
+     "q": "Oy, it means to complain or someone who complains a lot",
+     "a": "kvetch",
+     "right": [
+      "Brett"
+     ],
+     "wrong": [
+      "Kristin"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 10,
+     "q": "A saying in this circus activity is \"the trouble is that the balls go where you throw them\"",
+     "a": "juggling",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 30,
+     "q": "After discovering Uranus, he wanted to name it for King George III",
+     "a": "(William) Herschel",
+     "right": [
+      "Ashok"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "OUTLAWS",
+    "IN-LAWS",
+    "WORDS FOUND BEFORE BEAR",
+    "THE UNREAL McCOYS",
+    "THE LONDON STAGE",
+    "\"F\"OOD LOVERS"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "Robert LeRoy Parker was the real name of this outlaw & colleague of the Sundance Kid",
+     "a": "Butch Cassidy",
+     "right": [
+      "Ashok"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 21,
+     "q": "Oregon State basketball coach Craig Robinson, an MBA from the U. of Chicago, has this very famous brother-in-law",
+     "a": "Barack Obama",
+     "right": [
+      "Ashok"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 14,
+     "q": "The Arctic has this type of \"ice cap\"",
+     "a": "polar",
+     "right": [
+      "Kristin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 28,
+     "q": "Nicholas Hoult & Kelsey Grammer have played Dr. Hank McCoy in films about these marvelous mutants",
+     "a": "the X-Men",
+     "right": [
+      "Ashok"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 4,
+     "q": "\"We Will Rock You\", playing in the West End since 2002, features the music of this group",
+     "a": "Queen",
+     "right": [
+      "Kristin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 7,
+     "q": "Skirt steak is great for this sizzling southwest treat that comes with tortillas, peppers & onions",
+     "a": "fajitas",
+     "right": [
+      "Kristin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 2,
+     "q": "The FBI said the ma of these \"bloody\" brothers was part of the gang, but pa George was a shiftless beneficiary",
+     "a": "the Barkers",
+     "right": [
+      "Kristin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 22,
+     "q": "Agamemnon & Menelaus were both brothers & brothers-in-law: they wed sisters Clytemnestra & this Trojan beauty",
+     "a": "Helen",
+     "right": [
+      "Brett"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 15,
+     "q": "4-letter word of disdain; when doubled, it's a verb meaning to dismiss",
+     "a": "pooh",
+     "right": [
+      "Ashok"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 30,
+     "q": "Lauren Tewes welcomed guests aboard as cruise director Julie McCoy on this long-running ABC series",
+     "a": "The Love Boat",
+     "right": [
+      "Brett"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 5,
+     "q": "In summer 2011 Ralph Fiennes took to the stage as Prospero in this play",
+     "a": "The Tempest",
+     "right": [
+      "Kristin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 8,
+     "q": "A popular '70s gift was a pot for this dish of melted cheese & forks to dip the bread into it",
+     "a": "fondue",
+     "right": [
+      "Kristin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": true,
+     "order": 3,
+     "q": "The Younger brothers, standing, formed an outlaw alliance with these brothers, seated in the photo here",
+     "a": "the James brothers (Jesse & Frank)",
+     "right": [
+      "Kristin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true,
+     "ddWager": 1400
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 23,
+     "q": "This Scot, the winner of the 2012 Indy 500, is the son-in-law of country superstar Naomi Judd",
+     "a": "(Dario) Franchitti",
+     "right": [
+      "Ashok"
+     ],
+     "wrong": [
+      "Kristin"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 16,
+     "q": "The Maharishi sometimes used this word as part of his name",
+     "a": "Yogi",
+     "right": [
+      "Ashok"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 26,
+     "q": "Captain Bill McCoy's bootlegging ship is anchored off the New Jersey coast in the first scene of this HBO series",
+     "a": "Boardwalk Empire",
+     "right": [
+      "Ashok"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": true,
+     "order": 6,
+     "q": "In summer 2012 this play based on a movie about 2 British athletes at the 1924 Olympics was off & running",
+     "a": "Chariots of Fire",
+     "right": [
+      "Kristin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 800
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 9,
+     "q": "Focaccia & naan are types of this",
+     "a": "flatbread",
+     "right": [],
+     "wrong": [
+      "Kristin"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 19,
+     "q": "\"Bonanza\" star Lorne Greene had a No. 1 hit about this outlaw, the \"fastest gun in the West\"",
+     "a": "Johnny Ringo",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 24,
+     "q": "Social philosopher William Godwin was dad-in-law to this Romantic poet",
+     "a": "Shelley",
+     "right": [
+      "Brett"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 17,
+     "q": "This city name comes from an Illinois Native American word for the wild leek",
+     "a": "Chicago",
+     "right": [
+      "Ashok"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 27,
+     "q": "Leonard was the first name of Dr. McCoy, made famous by this actor in the 1960s",
+     "a": "DeForest Kelley",
+     "right": [
+      "Brett"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 12,
+     "q": "Judi Dench bowled 'em over as Sally Bowles in this musical that began its London run in 1968",
+     "a": "Cabaret",
+     "right": [
+      "Brett"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 10,
+     "q": "The name of this breakfast cereal is Italian for \"flour\"",
+     "a": "farina",
+     "right": [
+      "Kristin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 20,
+     "q": "Declared an outlaw by the feds, he & his \"Raiders\" were made an official part of the Confederate army in 1862",
+     "a": "William Quantrill",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 25,
+     "q": "Charlie Chaplin's last father-in-law was this dramatist",
+     "a": "Eugene O'Neill",
+     "right": [
+      "Kristin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 18,
+     "q": "A tough lad in 1950s England was this type of \"boy\"",
+     "a": "Teddy boy",
+     "right": [],
+     "wrong": [
+      "Ashok"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 29,
+     "q": "In \"The Bonfire of the Vanities\", this Oscar winner played financial wizard Sherman McCoy",
+     "a": "Tom Hanks",
+     "right": [
+      "Brett"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 13,
+     "q": "A 1991 production of \"Three Sisters\" featured these 2 daughters of Sir Michael, & their niece Jemma",
+     "a": "Lynn & Vanessa Redgrave",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 11,
+     "q": "Eaten raw or cooked, this fern is named for its resemblance to part of a violin",
+     "a": "fiddleheads",
+     "right": [
+      "Brett"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "CAPITAL CITIES",
+  "q": "These 2 world capitals are separated by only 250 miles of land & less than 1 degree of latitude, at 59º 17' & 59º 57' N.",
+  "a": "Stockholm & Oslo",
+  "right": [],
+  "wrong": [
+   "Ashok",
+   "Kristin",
+   "Brett"
+  ]
+ },
+ "gameId": "4053",
+ "cat_notes": {
+  "J": [
+   "Clues about Computing.",
+   "Clues about U.S. Place Names.",
+   "Clues about TV News.",
+   "Each answer contains the letter group “VET”, and the clues are about Thanks to Our S.",
+   "Clues about Entertainments.",
+   "Clues about Superstars of Science."
+  ],
+  "DJ": [
+   "Clues about Outlaws.",
+   "Clues in-laws.",
+   "The category “WORDS FOUND BEFORE BEAR” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "Clues about The Unreal Mccoys.",
+   "Clues about The London Stage.",
+   "Each answer starts with “F”, and the clues are about Ood Lovers."
+  ],
+  "F": "Clues about Capital Cities."
+ }
+}

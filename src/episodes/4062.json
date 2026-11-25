@@ -1,0 +1,1002 @@
+{
+ "show": "#6527",
+ "aired": "2013-01-22",
+ "note": "",
+ "contestants": [
+  {
+   "name": "Michelle Souza",
+   "bio": "a costume designer from San Diego, California",
+   "short": "Michelle"
+  },
+  {
+   "name": "Buddy Hammett",
+   "bio": "a customer service specialist from Douglasville, Georgia",
+   "short": "Buddy"
+  },
+  {
+   "name": "Barbara Sheridan",
+   "bio": "an attorney and law clerk to a judge from Yonkers, New York (whose 1-day cash winnings total $17,999)",
+   "short": "Barbara"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Barbara": -800,
+   "Buddy": 5400,
+   "Michelle": 5600
+  },
+  "DJ": {
+   "Barbara": 5600,
+   "Buddy": 12200,
+   "Michelle": 19200
+  },
+  "Final": {
+   "Barbara": 2,
+   "Buddy": 6601,
+   "Michelle": 13999
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "IF THE SHOE FITS...",
+    "ART & ARTIST",
+    "THE \"B\" TEAM",
+    "WEIGHTS & MEASURES",
+    "NOUN; VERB",
+    "I'M DYING HERE!"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 6,
+     "q": "The projections on golf shoes can be called cleats or these, also the name for very high heels that taper to a narrow base",
+     "a": "spikes",
+     "right": [
+      "Michelle"
+     ],
+     "wrong": [
+      "Barbara"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "Andrea del Sarto admired Leonardo, as you can see in this fresco by Andrea",
+     "a": "The Last Supper",
+     "right": [
+      "Michelle"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 11,
+     "q": "This baseball team had a winning record all 13 years in Milwaukee but moved to Atlanta anyway",
+     "a": "the Braves",
+     "right": [
+      "Buddy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 12,
+     "q": "The standard size of this bundle of cotton is 54-55 inches long & 20-21 inches wide",
+     "a": "a bale",
+     "right": [
+      "Buddy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 14,
+     "q": "A hand tool; to shape by repeated blows (possibly by using the tool)",
+     "a": "to hammer",
+     "right": [
+      "Michelle"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 26,
+     "q": "In April 1616 Miguel de Cervantes stopped tilting at windmills in this capital city",
+     "a": "Madrid",
+     "right": [
+      "Barbara"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 7,
+     "q": "This word for an onlooker is used for 2-tone shoes with a perforated design on the toe",
+     "a": "spectators",
+     "right": [
+      "Michelle"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "Self-portraits by this Mexican artist include her \"Self-portrait with Thorn Necklace and Hummingbird\"",
+     "a": "Frida Kahlo",
+     "right": [
+      "Michelle"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 22,
+     "q": "In 2011 this team won its first Stanley Cup in 39 years",
+     "a": "the (Boston) Bruins",
+     "right": [
+      "Barbara"
+     ],
+     "wrong": [
+      "Buddy"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 13,
+     "q": "This cylindrical container holding cranberries is defined as having a circumference at the bulge of 58 1/2 inches",
+     "a": "a barrel",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 18,
+     "q": "One of the 4 periods of the year; to spice up your food",
+     "a": "season",
+     "right": [
+      "Michelle"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "In April 1616 Shakespeare shuffled off the ol' mortal coil in this hometown",
+     "a": "Stratford-on-Avon",
+     "right": [
+      "Michelle"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 8,
+     "q": "These sandals were inspired by the footwear worn in the arena by ancient Romans",
+     "a": "gladiator sandals",
+     "right": [
+      "Barbara"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 3,
+     "q": "In Botticelli's \"Birth of\" her, the west wind is blowing the goddess toward us",
+     "a": "Venus",
+     "right": [
+      "Barbara"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 23,
+     "q": "This double-B team has gone 0-4 in Super Bowls",
+     "a": "the Buffalo Bills",
+     "right": [
+      "Barbara"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 15,
+     "q": "Many shot glasses are 1.5 ounces, but some bars use this \"equine\" shot, which is 1 ounce",
+     "a": "a pony",
+     "right": [
+      "Michelle"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 19,
+     "q": "A container for soup; to fire an employee",
+     "a": "can",
+     "right": [
+      "Michelle"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 28,
+     "q": "In 1954 Henri Matisse laid down his brushes in this French Riviera city that rhymes with his last name",
+     "a": "Nice",
+     "right": [
+      "Buddy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 9,
+     "q": "The Beach Boys' \"Surfin' U.S.A.\" mentions these leather-thonged sandals with a Spanish name",
+     "a": "huaraches",
+     "right": [
+      "Michelle"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": true,
+     "order": 4,
+     "q": "In a 1972 documentary, he said, \"Brigid's been doing my paintings for the last 3 years\"",
+     "a": "Andy Warhol",
+     "right": [],
+     "wrong": [
+      "Barbara"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1000
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 24,
+     "q": "They're Ohio's 2 NFL entries",
+     "a": "the Browns & the Bengals",
+     "right": [
+      "Michelle"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 16,
+     "q": "Vitamins A, D & E are measured in IUs, short for these",
+     "a": "International Units",
+     "right": [
+      "Michelle"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 20,
+     "q": "A gourd eaten as a vegetable; to press into a flat mass",
+     "a": "squash",
+     "right": [
+      "Michelle"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "On Feb. 23, 1848 John Quincy Adams died in this building where he'd been working since 1831",
+     "a": "the Capitol building",
+     "right": [
+      "Buddy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 10,
+     "q": "A Scottish castle gave its name to this basic style of Oxford shoes",
+     "a": "Balmoral",
+     "right": [],
+     "wrong": [
+      "Barbara",
+      "Michelle"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 5,
+     "q": "The portrait seen here by this 16th century artist is illustrative of the red pigments he favored",
+     "a": "Titian",
+     "right": [],
+     "wrong": [
+      "Barbara"
+     ],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 25,
+     "q": "It was Kareem Abdul-Jabbar's first pro team",
+     "a": "the Milwaukee Bucks",
+     "right": [
+      "Buddy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 17,
+     "q": "36 sections of land is equivalent to 1 of these, abbreviated TWP",
+     "a": "a township",
+     "right": [
+      "Buddy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 21,
+     "q": "A law firm; to perform as a lawyer doing business",
+     "a": "practice",
+     "right": [
+      "Buddy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 30,
+     "q": "In 1901 Verdi closed the score in this city that's home to La Scala opera house",
+     "a": "Milan",
+     "right": [
+      "Buddy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "HERE COMES THE JUDGE",
+    "METALS",
+    "SONGS FOR YOUR CAT",
+    "ANCIENT HISTORY",
+    "\"USE\"FUL INFORMATION",
+    "LITERARY LAST LINES"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "In 1697 Judge Samuel Sewall publicly apologized for his role in the witchcraft trials held in this city",
+     "a": "Salem",
+     "right": [
+      "Buddy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 7,
+     "q": "The Latin name of this precious metal is argentum",
+     "a": "silver",
+     "right": [
+      "Barbara"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 14,
+     "q": "Anything by this singer because she thanked her cat Kitty Purry in the credits of her 2008 debut album \"One of the Boys\"",
+     "a": "Katy Perry",
+     "right": [
+      "Michelle"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 19,
+     "q": "Much of what is known about Babylonian society comes from this 18th century B.C. king's code",
+     "a": "Hammurabi",
+     "right": [
+      "Barbara"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 26,
+     "q": "A goddess or a regular person who inspires a poet or artist",
+     "a": "a muse",
+     "right": [
+      "Michelle"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "A mega-bestseller: \"After all, tomorrow is another day\"",
+     "a": "Gone with the Wind",
+     "right": [
+      "Barbara"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 3,
+     "q": "He surprised many with his 2012 majority opinion upholding Obamacare",
+     "a": "Chief Justice John Roberts",
+     "right": [
+      "Barbara"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 10,
+     "q": "Clergyman William Gregor gets credit for the discovery, but it was chemist Martin Klaproth who named it for mythic giants",
+     "a": "titanium",
+     "right": [
+      "Michelle"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 15,
+     "q": "Woah, woah, woah, the cat can sing along to this, Tom Jones' second Top 10 hit",
+     "a": "\"What's New Pussycat?\"",
+     "right": [
+      "Michelle"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 20,
+     "q": "Zeno got a parchment cut, went on without wincing & founded an Athens school promoting this philosophy",
+     "a": "stoicism",
+     "right": [
+      "Michelle"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 27,
+     "q": "Line segment AC",
+     "a": "the hypotenuse",
+     "right": [
+      "Michelle"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": true,
+     "order": 8,
+     "q": "A children's classic: \"I'm so glad to be at home again!\"",
+     "a": "The Wizard of Oz",
+     "right": [
+      "Barbara"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2000
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 4,
+     "q": "Judge John J. Sirica got the '70s case relating to no ordinary break-in, the one at this Washington, D.C. complex",
+     "a": "Watergate",
+     "right": [
+      "Barbara"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": true,
+     "order": 11,
+     "q": "The name of this alkaline-earth metal comes partly from the Latin for \"lime\" (as in limestone)",
+     "a": "calcium",
+     "right": [],
+     "wrong": [
+      "Michelle"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2000
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 16,
+     "q": "The cat is a fan of rockabilly, so play anything by this Brian Setzer trio, particularly its \"Strut\"",
+     "a": "the Stray Cats",
+     "right": [
+      "Michelle"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 21,
+     "q": "Eleazar, from this family of Hanukkah heroes, perished when he stabbed a war elephant from underneath",
+     "a": "the Maccabees",
+     "right": [
+      "Barbara"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 28,
+     "q": "It's someone who lives alone, withdrawn from the world, like Howard Hughes in his later years",
+     "a": "a recluse",
+     "right": [
+      "Buddy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 9,
+     "q": "A 1960 classic: \"He would be there all night, and he would be there when Jem waked up in the morning\"",
+     "a": "To Kill a Mockingbird",
+     "right": [
+      "Buddy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 5,
+     "q": "The presiding judge in the O.J. Simpson trial, he no longer has a nameplate on his courtroom door; thieves kept stealing it",
+     "a": "(Lance) Ito",
+     "right": [
+      "Michelle"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 12,
+     "q": "This element, the lightest of the metals, has a density that's about half that of water",
+     "a": "lithium",
+     "right": [
+      "Michelle"
+     ],
+     "wrong": [
+      "Buddy"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 17,
+     "q": "Before bed, the cat dreams big & puts on this Tokens classic also called \"Wimoweh\"",
+     "a": "\"The Lion Sleeps Tonight\"",
+     "right": [
+      "Michelle"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 24,
+     "q": "(Kelly of the Clue Crew shows a map of ancient Italy on the monitor.) Around 300 B.C. Rome controlled the area seen here; within about 25 years it had conquered most of the Italian Peninsula, including the Umbrians & these people occupying what is now Tuscany",
+     "a": "the Etruscans",
+     "right": [
+      "Buddy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 29,
+     "q": "4-letter word for a crafty scheme or trick",
+     "a": "a ruse",
+     "right": [
+      "Michelle"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 22,
+     "q": "From Sinclair Lewis: \"Dear Lord, thy work is but begun! We shall yet make these United States a moral nation!\"",
+     "a": "Elmer Gantry",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 6,
+     "q": "In the Old West, he dispensed justice (& \"ice cold beer\") from the Jersey Lilly Saloon in Langtry, Texas",
+     "a": "Roy Bean",
+     "right": [
+      "Buddy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 13,
+     "q": "Galvanizing is the process of coating one metal with a layer of this other metal, atomic number 30",
+     "a": "zinc",
+     "right": [],
+     "wrong": [
+      "Buddy"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 18,
+     "q": "Kitty can't help but rock out when she hears Florence + the Machine belt out the hit called these \"Are Over\"",
+     "a": "\"Dog Days\"",
+     "right": [
+      "Michelle"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 25,
+     "q": "This city whose name is Greek for \"City of Persia\" was the capital & ceremonial center of the Achaemenid Empire",
+     "a": "Persepolis",
+     "right": [
+      "Buddy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 30,
+     "q": "It's French for a female singer",
+     "a": "a chanteuse",
+     "right": [
+      "Buddy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 23,
+     "q": "A Virginia Woolf novel: \"What is it that fills me with extraordinary excitement? It is Clarissa, he said. For there she was\"",
+     "a": "Mrs Dalloway",
+     "right": [
+      "Michelle"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "OFFICIAL COUNTRY NAMES",
+  "q": "It's the only nation in the world that officially describes itself as a confederation",
+  "a": "Swiss Confederation",
+  "right": [],
+  "wrong": [
+   "Barbara",
+   "Buddy",
+   "Michelle"
+  ]
+ },
+ "gameId": "4062",
+ "cat_notes": {
+  "J": [
+   "Clues about If the Shoe Fits.",
+   "Clues about Art and Artist.",
+   "Each answer is a person or name associated with the letter “B”.",
+   "Clues about Weights and Measures.",
+   "Clues about Noun; Verb.",
+   "The category “I'M DYING HERE!” sets the theme — the clues follow that idea and any wordplay suggested by the title."
+  ],
+  "DJ": [
+   "Clues about Here Comes the Judge.",
+   "Clues about Metals.",
+   "Clues about Songs for Your Cat.",
+   "Clues about Ancient History.",
+   "Each answer ends with “USE”, and the clues are about Ful Information.",
+   "Clues about Literary Last Lines."
+  ],
+  "F": "Clues about Official Country Names."
+ }
+}

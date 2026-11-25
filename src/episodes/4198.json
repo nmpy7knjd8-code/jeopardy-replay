@@ -1,0 +1,1003 @@
+{
+ "show": "#6619",
+ "aired": "2013-05-30",
+ "note": "",
+ "contestants": [
+  {
+   "name": "Katrina Whitehead",
+   "bio": "a strategic analyst from Sandston, Virginia",
+   "short": "Katrina"
+  },
+  {
+   "name": "Les Chun",
+   "bio": "a property manager from San Francisco, California",
+   "short": "Les"
+  },
+  {
+   "name": "Sam Hopkins",
+   "bio": "an M.B.A. student originally from Prairie Village, Kansas (whose 1-day cash winnings total $19,201)",
+   "short": "Sam"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Sam": 5400,
+   "Les": 5800,
+   "Katrina": 2800
+  },
+  "DJ": {
+   "Sam": 19000,
+   "Les": 20400,
+   "Katrina": 10400
+  },
+  "Final": {
+   "Sam": 12400,
+   "Les": 2799,
+   "Katrina": 300
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "SOFA'S CHOICE",
+    "IN THE CAPITAL CITY",
+    "\"PARTY\" TIME!",
+    "TREES THE CHARM",
+    "CHARITABLE ORGANIZATIONS",
+    "JOHNNY GILBERT GOES TO THE MOVIES"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 26,
+     "q": "Shikibuton is the Japanese word for the mattress part of this collapsible sofa",
+     "a": "futon",
+     "right": [
+      "Katrina"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 3,
+     "q": "Oct. 6, 1981:\nAnwar Sadat is assassinated",
+     "a": "Cairo",
+     "right": [
+      "Sam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 6,
+     "q": "A group sent out to look for someone who is missing",
+     "a": "search party",
+     "right": [
+      "Katrina"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 2,
+     "q": "The world's tallest living tree, the coast this is also a wide body: its trunks can be 25 feet wide",
+     "a": "redwood",
+     "right": [
+      "Sam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "This organization started by Millard & Linda Fuller has built more than 500,000 homes",
+     "a": "Habitat for Humanity",
+     "right": [
+      "Les"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 21,
+     "q": "\"Mrs. Robinson, you're trying to seduce me... aren't you?\"",
+     "a": "The Graduate",
+     "right": [
+      "Sam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "This type of sofa that changes into a bed shares its name with a type of car that lets you get some sun",
+     "a": "convertible",
+     "right": [
+      "Les"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 4,
+     "q": "April 29, 1945:\nEva Braun gets married",
+     "a": "Berlin",
+     "right": [
+      "Sam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 7,
+     "q": "In 1949 this pre-wedding affair for Jimmy Stewart was televised & featured a \"Wizard of Oz\" Munchkin in a diaper",
+     "a": "a bachelor party",
+     "right": [
+      "Sam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 11,
+     "q": "Though it's Georgia's state fruit, about 3/4 of the fruit grown in the U.S. from this tree is from California",
+     "a": "peach",
+     "right": [
+      "Les"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 17,
+     "q": "The group known as WWP helps these injured service men & women, WWs for short",
+     "a": "wounded warriors",
+     "right": [
+      "Sam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 22,
+     "q": "\"Fiddle-dee-dee! War, war, war; the war talk's spoiling all the fun at every party this spring\"",
+     "a": "Gone with the Wind",
+     "right": [
+      "Katrina"
+     ],
+     "wrong": [
+      "Sam"
+     ],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 28,
+     "q": "This 9-letter type of sofa has independent pieces that can be rearranged",
+     "a": "sectional",
+     "right": [
+      "Sam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 5,
+     "q": "Dec. 11, 2012:\nHugo Chavez has major cancer surgery (it's not Caracas)",
+     "a": "Havana",
+     "right": [
+      "Les"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 8,
+     "q": "The title of a 2005 Dave Chappelle film, it's an outdoor festival held on a closed-off city street",
+     "a": "block party",
+     "right": [
+      "Les"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 12,
+     "q": "A flowering tree that produces acorns, the California white type of this can be 90 feet tall",
+     "a": "oak",
+     "right": [
+      "Sam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 18,
+     "q": "French physicians & journalists started this medical aid group in the wake of war & famine in Biafra & floods in Pakistan",
+     "a": "Doctors Without Borders",
+     "right": [
+      "Les"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 23,
+     "q": "\"If... you're not with him, you'll regret it. Maybe not today. Maybe not tomorrow, but soon, & for the rest of your life\"",
+     "a": "Casablanca",
+     "right": [
+      "Les"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "An overstuffed sofa & a topcoat with a velvet collar are both named for the Earl of this",
+     "a": "Chesterfield",
+     "right": [
+      "Les"
+     ],
+     "wrong": [
+      "Katrina"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": true,
+     "order": 13,
+     "q": "Nov. 7, 1867:\nThe future Marie Curie is born",
+     "a": "Warsaw",
+     "right": [
+      "Sam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1800
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 9,
+     "q": "A band of Native American fighters who raid an enemy, or a hawkish political group",
+     "a": "war party",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 15,
+     "q": "Hey there, hoss, the Ponderosa type of this is common in the Rockies & the eastern side of the Cascades",
+     "a": "pine",
+     "right": [
+      "Katrina"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 19,
+     "q": "Appropriately, this 4-letter organization started out in 1946 by sending packages to survivors of WWII",
+     "a": "CARE",
+     "right": [
+      "Les"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 24,
+     "q": "Hello! My name is Inigo Montoya. You killed my father. Prepare to die\"",
+     "a": "The Princess Bride",
+     "right": [
+      "Les"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 30,
+     "q": "From the French, it's someone you tell secrets to, or the type of sofa seen here",
+     "a": "confidant",
+     "right": [
+      "Sam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 14,
+     "q": "1665:\nthe \"Great Plague\" kills 7,000 people in one week",
+     "a": "London",
+     "right": [
+      "Katrina"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 10,
+     "q": "Alliterative term for an occasion where you indulge in feeling sorry for yourself",
+     "a": "pity party",
+     "right": [
+      "Les"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 16,
+     "q": "A Yarmouth, Maine tree called Herbie, a majestic American type of this tree, had to be cut down in 2010 at age 217",
+     "a": "elm",
+     "right": [
+      "Katrina"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 20,
+     "q": "The logo of this ecologically-minded group is seen here",
+     "a": "the Nature Conservancy",
+     "right": [],
+     "wrong": [
+      "Sam"
+     ],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 25,
+     "q": "\"I'm funny how, I mean funny like I'm a clown, I amuse you? I make you laugh?... Funny how? How am I funny?\"",
+     "a": "Goodfellas",
+     "right": [
+      "Sam"
+     ],
+     "wrong": [
+      "Les"
+     ],
+     "stumper": false,
+     "img": true
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "THE COLOMBIA ENCYCLOPEDIA",
+    "ALPHABETICALLY FIRST",
+    "GIMME A \"D\"",
+    "THE NAPOLEONIC ERA",
+    "I SAW THAT BOOK ON TV",
+    "COMEDY TEAMS?"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "Under \"B\":\nit's the capital & largest city",
+     "a": "Bogotá",
+     "right": [
+      "Sam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 23,
+     "q": "Of the zodiac signs",
+     "a": "Aquarius",
+     "right": [
+      "Katrina"
+     ],
+     "wrong": [
+      "Sam"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 24,
+     "q": "German gives us the name of this type of restaurant--try the knishes",
+     "a": "delicatessen",
+     "right": [
+      "Sam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "Napoleon's invasion of this nation in mid-1812 was a turning point in his fortunes",
+     "a": "Russia",
+     "right": [
+      "Sam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 30,
+     "q": "Based on a book series, this CW show about catty young ladies in Manhattan ended its 6-year run in 2012",
+     "a": "Gossip Girl",
+     "right": [
+      "Les"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 7,
+     "q": "Game show dealmaker Mr. Hall plus a reticulated slitherer",
+     "a": "Monty Python",
+     "right": [
+      "Sam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 3,
+     "q": "Under \"C\":\nit's Colombia's most important legal agricultural export",
+     "a": "coffee",
+     "right": [
+      "Sam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 22,
+     "q": "Of the 5 Great Lakes",
+     "a": "Erie",
+     "right": [
+      "Katrina"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 28,
+     "q": "(Jimmy of the Clue Crew shows an animation on the monitor.) Traffic engineer Henry Barnes advocated the system of diagonal crossing; because of the way pedestrians weave around each other in the middle of the intersection, it's called the Barnes this",
+     "a": "Dance",
+     "right": [],
+     "wrong": [
+      "Sam"
+     ],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 16,
+     "q": "Napoleon met his Waterloo in 1815 just outside the town of Waterloo in what's now this country",
+     "a": "Belgium",
+     "right": [
+      "Les"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 18,
+     "q": "Julia McKenzie, born in 1941, began playing this British snoop in 2008's \"A Pocket Full of Rye\"",
+     "a": "Miss Marple",
+     "right": [],
+     "wrong": [
+      "Les"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 8,
+     "q": "Ron Asheton, Scott Asheton & Dave Alexander in Iggy Pop's band",
+     "a": "The Three Stooges",
+     "right": [
+      "Sam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 4,
+     "q": "Under \"V\":\nin 2009 & 2010, one of these named Galeras caused major evacuations",
+     "a": "volcano",
+     "right": [
+      "Katrina"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 19,
+     "q": "Of the English titles of the books making up the Pentateuch",
+     "a": "Deuteronomy",
+     "right": [
+      "Les"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 21,
+     "q": "The \"D\" in products like Zyrtec-D & Claritin-D stands for this, which will help your stuffy nose",
+     "a": "decongestant",
+     "right": [
+      "Sam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 15,
+     "q": "Victory in this October 1805 battle established British naval supremacy for the next 100 years",
+     "a": "Trafalgar",
+     "right": [
+      "Sam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 17,
+     "q": "Writer Andrew Davies adapted this novelist for 1994's \"Middlemarch\"",
+     "a": "(George) Eliot",
+     "right": [
+      "Les"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 9,
+     "q": "Coldplay's Chris & boxer Lennox",
+     "a": "Martin & Lewis",
+     "right": [
+      "Les"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 5,
+     "q": "Under G:\nthis 4-letter word for \"big\" preceded \"Colombia\" in the 1820s, when it also included Ecuador",
+     "a": "Gran",
+     "right": [
+      "Sam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 20,
+     "q": "Of the first ladies' first names",
+     "a": "Abigail",
+     "right": [
+      "Les"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 5000
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 27,
+     "q": "In legalese, this 8-letter word means a person's true, fixed & permanent residence",
+     "a": "domicile",
+     "right": [
+      "Katrina"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 14,
+     "q": "This British prime minister, the Younger, helped lead the fight against Napoleon until his death in 1806",
+     "a": "(William) Pitt",
+     "right": [
+      "Katrina"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 12,
+     "q": "In 2005 TV viewers could see \"Oprah Winfrey Presents\" this Zora Neale Hurston book",
+     "a": "Their Eyes Were Watching God",
+     "right": [
+      "Les"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 10,
+     "q": "Separated at birth: \"Manifesto\" man Karl & \"Right Here Waiting For You\" singer Richard",
+     "a": "The Marx Brothers",
+     "right": [
+      "Sam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": true,
+     "order": 6,
+     "q": "Under \"E\":\nMany Spanish explorers came to Colombia searching for this fabled city of gold",
+     "a": "El Dorado",
+     "right": [
+      "Sam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 4000
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 25,
+     "q": "Of the properties in a classic Monopoly game",
+     "a": "Atlantic Avenue",
+     "right": [
+      "Sam"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 29,
+     "q": "This type of glazed earthenware is named for a Dutch town",
+     "a": "Delft",
+     "right": [
+      "Katrina"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 26,
+     "q": "Napoleon commissioned the Arc de Triomphe after this 1805 battle, one of his greatest victories",
+     "a": "Battle of Austerlitz",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 13,
+     "q": "The Brits did up this John Galsworthy \"Saga\" splendidly in 1967 & again in 2002",
+     "a": "The Forsyte Saga",
+     "right": [
+      "Les"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 11,
+     "q": "The Canadian students inside school before their classrooms open",
+     "a": "Kids in the Hall",
+     "right": [
+      "Les"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "AMERICAN SCIENTISTS",
+  "q": "In 1920 The New York Times said he lacks the “knowledge ladled out daily in high schools”; on July 17, 1969, the paper apologized",
+  "a": "Robert Goddard",
+  "right": [],
+  "wrong": [
+   "Katrina",
+   "Sam",
+   "Les"
+  ]
+ },
+ "gameId": "4198",
+ "cat_notes": {
+  "J": [
+   "Clues about Sofa's Choice.",
+   "Clues in the Capital City.",
+   "Each answer ends with “PARTY”.",
+   "Clues about Trees the Charm.",
+   "Clues about Charitable Organizations.",
+   "We want you to name the film as..."
+  ],
+  "DJ": [
+   "Clues about The Colombia Encyclopedia.",
+   "Clues about Alphabetically First.",
+   "Each correct response beginning with that letter.",
+   "Clues about The Napoleonic Era.",
+   "The category “I SAW THAT BOOK ON TV” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "The category “COMEDY TEAMS?” sets the theme — the clues follow that idea and any wordplay suggested by the title."
+  ],
+  "F": "Clues about American Scientists."
+ }
+}

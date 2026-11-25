@@ -1,0 +1,998 @@
+{
+ "show": "#6643",
+ "aired": "2013-07-03",
+ "note": "Ben Ingram game 3.",
+ "contestants": [
+  {
+   "name": "Linda Vestrand",
+   "bio": "a human resources professional from Youngstown, Ohio",
+   "short": "Linda"
+  },
+  {
+   "name": "Hunter Sandison",
+   "bio": "a camera operator from Los Angeles, California",
+   "short": "Hunter"
+  },
+  {
+   "name": "Ben Ingram",
+   "bio": "an IT consultant originally from Florence, South Carolina (whose 2-day cash winnings total $42,030)",
+   "short": "Ben"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Ben": 4000,
+   "Hunter": 6800,
+   "Linda": 1400
+  },
+  "DJ": {
+   "Ben": 10200,
+   "Hunter": 15800,
+   "Linda": 3400
+  },
+  "Final": {
+   "Ben": 11200,
+   "Hunter": 11200,
+   "Linda": 1
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "TENNIS THE MENACE",
+    "TV LOGOS",
+    "THE ORIGINAL 31 FLAVORS",
+    "4-LETTER \"V\"ORDS",
+    "A CONNECTICUT YANKEE",
+    "IN KING ARTHUR'S COURT"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 15,
+     "q": "Tennis shoes with good support can decrease your chances of spraining these, aka your talocrural joints",
+     "a": "ankles",
+     "right": [
+      "Hunter"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 5,
+     "q": "B.C. or A.D., this is one of my favorite spots on the dial",
+     "a": "the History channel",
+     "right": [
+      "Hunter"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 11,
+     "q": "Sour item that precedes Crisp, Custard & Sherbet in 3 of Baskin-Robbins' original 31 flavors",
+     "a": "Lemon",
+     "right": [
+      "Hunter"
+     ],
+     "wrong": [
+      "Ben"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 4,
+     "q": "Boundless or immense, like some \"wastelands\"",
+     "a": "vast",
+     "right": [
+      "Hunter"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 2,
+     "q": "This pediatrician who wrote the book on baby & child care was born in New Haven in 1903 & rowed crew for Yale",
+     "a": "(Dr.) Spock",
+     "right": [
+      "Hunter"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 16,
+     "q": "In Arthurian legend, she's King Arthur's wife; some versions say it was her dad who gave Arthur the Round Table",
+     "a": "Guinevere",
+     "right": [
+      "Hunter"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 26,
+     "q": "An ATP study found that injuries occurred less than half as often on this French Open surface as on hard courts",
+     "a": "clay",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 6,
+     "q": "Things can get rather animated here",
+     "a": "the Cartoon Network",
+     "right": [
+      "Hunter"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 12,
+     "q": "Varieties of this flavor included French & Burnt Almond",
+     "a": "Vanilla",
+     "right": [
+      "Linda"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 9,
+     "q": "Before \"Zapata!\" & \"Las Vegas\", it means \"long live\"",
+     "a": "Viva",
+     "right": [
+      "Hunter"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 3,
+     "q": "A contribution of this Sterling, Connecticut man: the first average of selected U.S. stock prices",
+     "a": "(Charles Henry) Dow",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 17,
+     "q": "This magician was an advisor to both King Arthur & his father Uther Pendragon",
+     "a": "Merlin",
+     "right": [
+      "Hunter"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 30,
+     "q": "Stretching for a forehand, Boris Becker hyperextended this joint aka the carpus & had to withdraw from Wimbledon",
+     "a": "wrist",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 7,
+     "q": "Trumpeting its quality since 1996",
+     "a": "Animal Planet",
+     "right": [
+      "Linda"
+     ],
+     "wrong": [
+      "Hunter"
+     ],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 21,
+     "q": "This traditional Christmas drink was available",
+     "a": "Egg Nog",
+     "right": [
+      "Hunter"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 10,
+     "q": "A nice Chianti, or any Italian wine",
+     "a": "vino",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": true,
+     "order": 1,
+     "q": "This patriot began his one life in Coventry, Connecticut on June 6, 1755",
+     "a": "(Nathan) Hale",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1000
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 20,
+     "q": "Arthur proves to be the rightful king of England by pulling this sword from the Stone",
+     "a": "Excalibur",
+     "right": [
+      "Linda"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "\"Tennis leg\", a tear in one of these \"bovine\" muscles of the lower leg, can feel like getting shot with a pellet gun",
+     "a": "the calves",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 8,
+     "q": "Three heads are better than one",
+     "a": "PBS",
+     "right": [
+      "Hunter"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 22,
+     "q": "Flavors included this type of \"Stick\" (but not this type of \"Patty\")",
+     "a": "Peppermint",
+     "right": [
+      "Linda"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 18,
+     "q": "Change the direction of a ship, but, hopefully, not \"off course\"",
+     "a": "veer",
+     "right": [
+      "Hunter"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 14,
+     "q": "This gunmaker's manufacturing company is in Hartford, his birthplace",
+     "a": "(Samuel) Colt",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 24,
+     "q": "In some versions, it's the knight Percival who succeeds in finding this vessel; Wagner told his story in \"Parsifal\"",
+     "a": "the Holy Grail",
+     "right": [
+      "Hunter"
+     ],
+     "wrong": [
+      "Ben"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 28,
+     "q": "(Jimmy of the Clue Crew shows an anatomical drawing on the monitor.) Doctors say, when you're serving, it's a good idea to raise your arm angle above 90 degrees to reduce the risk of injury to this group of four muscles & related tendons in the shoulder",
+     "a": "the rotator cuff",
+     "right": [],
+     "wrong": [
+      "Hunter"
+     ],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 13,
+     "q": "\"El Gordo y la Flaca\" is one of its shows",
+     "a": "Univision",
+     "right": [
+      "Hunter"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 23,
+     "q": "Nuts to you! & marshmallows, too, with this alliterative original flavor",
+     "a": "Rocky Road",
+     "right": [
+      "Hunter"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 19,
+     "q": "It means to sell",
+     "a": "vend",
+     "right": [
+      "Hunter"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 27,
+     "q": "This Connecticut lexicographer's \"Blue-Backed Speller\" has never been out of print",
+     "a": "(Noah) Webster",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 25,
+     "q": "King Arthur & this nephew of his kill each other in battle",
+     "a": "Mordred",
+     "right": [],
+     "wrong": [
+      "Linda"
+     ],
+     "stumper": true,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "LITERARY MOUNTAIN CLIMBING",
+    "BOTTOM FEEDERS",
+    "BEFORE & AFTER",
+    "CONTAIN YOURSELF",
+    "TITLE ROLE PLAYING",
+    "AN \"F\" IN HISTORY"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 29,
+     "q": "Title adjective before \"Mountain\" in Charles Frazier's book about Inman returning home from the Civil War",
+     "a": "Cold",
+     "right": [
+      "Hunter"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 28,
+     "q": "The long-necked species of this bivalve is also known as the steamer",
+     "a": "a clam",
+     "right": [
+      "Hunter"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 30,
+     "q": "Williamsport, Penn. organization for kids' baseball & international cooperation, established by the Allies after WWI",
+     "a": "the Little League of Nations",
+     "right": [
+      "Hunter"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 25,
+     "q": "This small container for medicine lent its name to a type of hat popularized by Jackie Kennedy",
+     "a": "a pillbox",
+     "right": [
+      "Hunter"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "\"Django Unchained\"",
+     "a": "Jamie Foxx",
+     "right": [
+      "Hunter"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 18,
+     "q": "From 1865 to 1871 this Tuscan city was the capital of Italy",
+     "a": "Florence",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 27,
+     "q": "In \"To the Far Blue Mountains\", this prolific Western author continued his tales of the pioneering Sackett family",
+     "a": "Louis L'Amour",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 26,
+     "q": "In the Pacific & Atlantic halibuts, both of these organs are usually on the right side",
+     "a": "eyes",
+     "right": [
+      "Hunter"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 23,
+     "q": "Site of the U.S. Military Academy from which a shot is fired at very close range",
+     "a": "West Point blank",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 24,
+     "q": "In Catholicism, a monstrance is a receptacle for holding this consecrated object",
+     "a": "the host",
+     "right": [
+      "Linda"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 22,
+     "q": "\"The Talented Mr. Ripley\"",
+     "a": "Matt Damon",
+     "right": [
+      "Hunter"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 19,
+     "q": "Under feudalism, this was the land granted to a vassal by a lord in return for the vassal's loyalty & service",
+     "a": "a fief",
+     "right": [
+      "Hunter"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 2,
+     "q": "This short story became a big-screen story of forbidden love starring Heath Ledger & Jake Gyllenhaal",
+     "a": "\"Brokeback Mountain\"",
+     "right": [
+      "Hunter"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 14,
+     "q": "Although this echinoderm usually has 5 arms, some may have more than 40",
+     "a": "a starfish",
+     "right": [
+      "Hunter"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 8,
+     "q": "Animated film about a video game villain who designs polo shirts",
+     "a": "Wreck-It Ralph Lauren",
+     "right": [
+      "Hunter"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 5,
+     "q": "It can be the verb meaning to remove water from a boat or the container used to do it",
+     "a": "bail",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 11,
+     "q": "\"Jack Reacher\"",
+     "a": "Tom Cruise",
+     "right": [
+      "Linda"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": true,
+     "order": 4,
+     "q": "His 2000 election as president of Mexico ended 71 years of uninterrupted control by the PRI party",
+     "a": "Vicente Fox",
+     "right": [],
+     "wrong": [
+      "Ben"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 5000
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 3,
+     "q": "Hans Castorp goes to a sanatorium in the Swiss Alps in this Thomas Mann novel",
+     "a": "The Magic Mountain",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 15,
+     "q": "This animal has no head, arms or internal organs & belongs to the phylum Porifera, meaning \"pore-bearer\"",
+     "a": "sponge",
+     "right": [],
+     "wrong": [
+      "Hunter"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 3000
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 9,
+     "q": "Current governor of New Jersey who was also the first female governor of New Jersey",
+     "a": "Chris Christie Todd Whitman",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 6,
+     "q": "This word meaning to run can also be a deep metal bucket for carrying coal",
+     "a": "scuttle",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 12,
+     "q": "\"Alice Doesn't Live Here Anymore\"",
+     "a": "Ellen Burstyn",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 20,
+     "q": "In 1858 Longfellow wrote, \"If anyone wants to break a law, let him break\" this one; the act was repealed in 1864",
+     "a": "the Fugitive Slave Law",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 17,
+     "q": "A polar expedition finds the remains of a strange creature \"At the Mountains of Madness\" by this weird author",
+     "a": "(H.P.) Lovecraft",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 16,
+     "q": "The tube type of these live near deep-sea hydrothermal vents on the ocean floor & can reach 6' in length",
+     "a": "worms",
+     "right": [
+      "Hunter"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 10,
+     "q": "Founder of the Girl Scouts in America who is a collective name for Belgium, the Netherlands & Luxembourg",
+     "a": "Juliette Gordon Low Countries",
+     "right": [
+      "Ben"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 7,
+     "q": "In antiquity, this two-handled ceramic container held wine & other foodstuffs",
+     "a": "an amphora",
+     "right": [],
+     "wrong": [
+      "Hunter"
+     ],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 13,
+     "q": "\"Scott Pilgrim vs. the World\"",
+     "a": "Michael Cera",
+     "right": [
+      "Hunter"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 21,
+     "q": "Henry Kissinger is seen here failing to get this Saudi king to lift the 1973 oil embargo",
+     "a": "King Faisal",
+     "right": [
+      "Hunter"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "20th CENTURY MUSIC",
+  "q": "European music has \"3 Bs\"; 20th c. American music's \"3 Cs\" were John Cage, Elliott Carter & this composer/conductor",
+  "a": "Aaron Copland",
+  "right": [
+   "Ben"
+  ],
+  "wrong": [
+   "Linda",
+   "Hunter"
+  ]
+ },
+ "gameId": "4242",
+ "cat_notes": {
+  "J": [
+   "Clues about Tennis the Menace.",
+   "Clues about TV Logos.",
+   "Clues about The Original 31 Flavors.",
+   "Each answer is a 4-letter word or term related to 4-letter \"v\"ords.",
+   "Clues about A Connecticut Yankee.",
+   "Clues in King Arthur's Court."
+  ],
+  "DJ": [
+   "Clues about Literary Mountain Climbing.",
+   "Clues about Bottom Feeders.",
+   "Each answer is a “before and after”: two familiar phrases fused by a word or name they share.",
+   "Clues about Contain Yourself.",
+   "Clues about Title Role Playing.",
+   "Each answer contains the letter “F”, and the clues are about An in History."
+  ],
+  "F": "Clues about 20th Century Music."
+ }
+}

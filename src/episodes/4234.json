@@ -1,0 +1,984 @@
+{
+ "show": "#6639",
+ "aired": "2013-06-27",
+ "note": "",
+ "contestants": [
+  {
+   "name": "Darryl Campbell",
+   "bio": "a data analyst from Seattle, Washington",
+   "short": "Darryl"
+  },
+  {
+   "name": "Laura Amundson",
+   "bio": "a former criminal defense attorney from Des Moines, Iowa",
+   "short": "Laura"
+  },
+  {
+   "name": "Gabe Gales",
+   "bio": "a research analyst from Cincinnati, Ohio (whose 1-day cash winnings total $27,950)",
+   "short": "Gabe"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Gabe": 5600,
+   "Laura": 2600,
+   "Darryl": 6800
+  },
+  "DJ": {
+   "Gabe": 8200,
+   "Laura": 12200,
+   "Darryl": 16800
+  },
+  "Final": {
+   "Gabe": 6900,
+   "Laura": 20395,
+   "Darryl": 9199
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "SUMMER FUN",
+    "MOVIE TITLE OVERLAPS",
+    "SHAKESPEARE--ACT II, SCENE 1",
+    "BODY PARTS",
+    "GO \"C\" THE COUNTRY",
+    "WORDS OF WONDER"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 30,
+     "q": "When the Sun is directly overhead at the Tropic of Cancer on June 20 or 21, we are experiencing the summer this",
+     "a": "the solstice",
+     "right": [
+      "Darryl"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "\"Real\n_____\nMagnolias\"",
+     "a": "Steel",
+     "right": [
+      "Darryl"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 11,
+     "q": "\"Is not tomorrow, boy, the Ides of March?\"",
+     "a": "Julius Caesar",
+     "right": [
+      "Laura"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 12,
+     "q": "Phosphenes are the sensations of light you get when pressure is applied to these",
+     "a": "the eyes",
+     "right": [
+      "Darryl"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 2,
+     "q": "With a population of 1.3 billion, it has about 20% of all the people in the world",
+     "a": "China",
+     "right": [
+      "Gabe"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 17,
+     "q": "\"At\" often follows this word, also the name of a comic book company",
+     "a": "marvel",
+     "right": [
+      "Gabe"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 28,
+     "q": "Best seen high overhead in summer, the constellation of this strong guy had a star go nova in 1934",
+     "a": "Hercules",
+     "right": [
+      "Gabe"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 3,
+     "q": "\"The Rum\n_____\nof a Wimpy Kid\"",
+     "a": "Diary",
+     "right": [
+      "Darryl"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": true,
+     "order": 13,
+     "q": "\"Prospero my lord shall know what I have done... So, king, go safely on to seek thy son\"",
+     "a": "The Tempest",
+     "right": [
+      "Darryl"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1200
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 18,
+     "q": "Wamble is a term for the sound this organ can make",
+     "a": "stomach",
+     "right": [
+      "Darryl"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 4,
+     "q": "A 1982 act helped along by the Trudeau govt. made this country really, totally independent of Great Britain",
+     "a": "Canada",
+     "right": [
+      "Laura"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 29,
+     "q": "The U.S. used the military doctrine of \"shock &\" this, an overwhelming feeling of reverence",
+     "a": "awe",
+     "right": [
+      "Darryl"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 26,
+     "q": "\"Fun\" being a relative term, in 2012 Joey Chestnut downed 68 of these to win a contest held at Coney Island every July 4",
+     "a": "hot dogs",
+     "right": [
+      "Gabe"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 7,
+     "q": "\"Jeff,\nWho Lives at\n_____\nAlone\"",
+     "a": "Home",
+     "right": [
+      "Darryl"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 14,
+     "q": "\"You lie, in faith, for you are called plain Kate, and bonny Kate, and sometimes Kate the curst\"",
+     "a": "The Taming of the Shrew",
+     "right": [
+      "Laura"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 19,
+     "q": "Brannock is the name of the device that measures these from widths of 3A to 3E",
+     "a": "feet",
+     "right": [
+      "Gabe"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 5,
+     "q": "This country seen here has had a stormy history",
+     "a": "Croatia",
+     "right": [
+      "Darryl"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 27,
+     "q": "Change one letter in \"wonder\" & you get this synonym, meaning to consider thoughtfully",
+     "a": "ponder",
+     "right": [
+      "Laura"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 25,
+     "q": "The athletic, piping & dancing competitions held in Scotland every summer are known as these \"games\"",
+     "a": "the Highland games",
+     "right": [
+      "Darryl"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 9,
+     "q": "\"The Dark\n_____\nand Day\"",
+     "a": "Knight",
+     "right": [
+      "Darryl"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 15,
+     "q": "\"He's coming hither; now i' the night, i' the haste, and Regan with him\"",
+     "a": "King Lear",
+     "right": [
+      "Laura"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 22,
+     "q": "It can describe an actor who's over the top, or be slang for a muscle at the back of the leg",
+     "a": "hammy",
+     "right": [
+      "Gabe"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 6,
+     "q": "Slightly larger than Missouri, this country is bordered by Laos",
+     "a": "Cambodia",
+     "right": [
+      "Gabe"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 21,
+     "q": "It brings on a feeling of wonder when it precedes \"party\" & \"symphony\"",
+     "a": "surprise",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 24,
+     "q": "The production of plays in summer by a repertory company; it's the title of a Judy Garland film",
+     "a": "summer stock",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 10,
+     "q": "\"Shaun of the\n_____\nPresidents\"",
+     "a": "Dead",
+     "right": [
+      "Darryl"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 16,
+     "q": "\"...At least into a jealousy so strong that judgment cannot cure\"",
+     "a": "Othello",
+     "right": [
+      "Gabe"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 23,
+     "q": "When used normally, a garrote fits snugly around this part of the victim's body",
+     "a": "neck",
+     "right": [
+      "Gabe"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 8,
+     "q": "This island in the West Indies is 777 miles long but no more than 119 miles wide",
+     "a": "Cuba",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 20,
+     "q": "This \"-ish\"y word is from the Latin for \"to strike with thunder\"",
+     "a": "astonish",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "AMERICAN LIVES",
+    "ISLAND NAMES",
+    "GEOLOGY",
+    "ADDEND\"UM\"",
+    "COLLEGES WITH MASS. APPEAL",
+    "WORDS OF STEVIE WONDER"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "\"The Wizard of Menlo Park\" by Randall Stross tells how this man \"Invented the Modern World\"",
+     "a": "Thomas Edison",
+     "right": [
+      "Darryl"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "Verdant field",
+     "a": "Greenland",
+     "right": [
+      "Gabe"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 6,
+     "q": "A fluvial process such as erosion is caused by the action of this geographic feature",
+     "a": "river",
+     "right": [
+      "Laura"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 14,
+     "q": "A monthly payment for an insurance policy",
+     "a": "premium",
+     "right": [
+      "Darryl"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 11,
+     "q": "As of June 2011 the endowment for its Radcliffe Institute For Advanced Study was $546 mil., 1.7% of its $32 bil. endowment",
+     "a": "Harvard",
+     "right": [
+      "Laura"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 26,
+     "q": "\"You are\" these 5 words, \"that's why I'll always be around\"",
+     "a": "the sunshine of my life",
+     "right": [
+      "Laura"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 2,
+     "q": "\"The Man & The Secrets\" is Curt Gentry's take on the life of this longtime government official",
+     "a": "J. Edgar Hoover",
+     "right": [
+      "Laura"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "Ms. Stewart's grape-growing farm",
+     "a": "Martha's Vineyard",
+     "right": [
+      "Gabe"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 7,
+     "q": "Almost 2,000 miles below ground, the Gutenberg discontinuity is the boundary between this & the outer core",
+     "a": "mantle",
+     "right": [
+      "Laura"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 15,
+     "q": "This temporary state of mental confusion is often caused by fever or intoxication",
+     "a": "delirium",
+     "right": [
+      "Darryl"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 12,
+     "q": "Noah Webster & Samuel Dickinson (Emily's grandpa) were among the co-founders of this private liberal arts college",
+     "a": "Amherst",
+     "right": [],
+     "wrong": [
+      "Gabe"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 25,
+     "q": "\"Very\" this, \"writing's on the wall, very\" this, \"ladder's 'bout to fall\"",
+     "a": "superstitious",
+     "right": [
+      "Darryl"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 3,
+     "q": "Taking a line from a Supremes hit, James Haskins' \"I'm Gonna Make You Love Me\" is about this Motown star",
+     "a": "Diana Ross",
+     "right": [
+      "Laura"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 21,
+     "q": "Women's pants with a tapered leg that ends above the ankle",
+     "a": "capri pants",
+     "right": [
+      "Gabe"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 8,
+     "q": "The largest type of rock fragment, it's defined as more than 10\" across, though we think of it as huge",
+     "a": "boulder",
+     "right": [
+      "Darryl"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 16,
+     "q": "(Sarah of the Clue Crew presents the clue from Idaho.) Near the Sun Valley ski resort, this town of central Idaho is perhaps best known as the last home of Ernest Hemingway",
+     "a": "Ketchum",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 13,
+     "q": "This women's college in Northampton opened in 1875 with 14 students",
+     "a": "Smith College",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 24,
+     "q": "\"Like a fool, I went & stayed too long, now I'm wonderin' if your love's still strong, ooo, baby, here I am\" these 3 things, \"I'm yours\"",
+     "a": "signed, sealed, delivered",
+     "right": [
+      "Darryl"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 4,
+     "q": "Lois Scharf's biography of this 20th century woman is subtitled \"First Lady of American Liberalism\"",
+     "a": "Eleanor Roosevelt",
+     "right": [
+      "Laura"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 4000
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 20,
+     "q": "Type of tour for Sting & The Police in 2007 & '08",
+     "a": "Reunion",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 9,
+     "q": "Examples of an inselberg, or \"island mountain\", include this Rio de Janeiro landmark named for its \"tasty\" shape",
+     "a": "Sugarloaf",
+     "right": [
+      "Laura"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 17,
+     "q": "A guitar pick",
+     "a": "plectrum",
+     "right": [
+      "Darryl"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 28,
+     "q": "The motto of this university named for a Supreme Court justice is \"Truth, even unto its innermost parts\"",
+     "a": "Brandeis",
+     "right": [],
+     "wrong": [
+      "Gabe"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 3000
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 23,
+     "q": "\"La la la, la la la, la la la, la la la\" this part-French title, \"lovely as a summer day\"",
+     "a": "\"My Cherie Amour\"",
+     "right": [
+      "Darryl"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 5,
+     "q": "The 1974 biography \"Mr. Lincoln's Camera Man\" brought this photographer into focus",
+     "a": "Mathew Brady",
+     "right": [
+      "Laura"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 19,
+     "q": "Big one & little one (in the Mediterranean off the coast of Spain)",
+     "a": "Majorca & Minorca",
+     "right": [
+      "Gabe"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 10,
+     "q": "You won't find Santa at this point located in the Arctic Ocean & moving toward Siberia at about 40 miles a year",
+     "a": "the magnetic north pole",
+     "right": [
+      "Darryl"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 18,
+     "q": "Similar to a podium, it's an elevated platform for public speaking, from the Latin for \"beak\"",
+     "a": "rostrum",
+     "right": [
+      "Gabe"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 30,
+     "q": "This oldest Catholic college in New England is located in the wicked excellent city of Worcester",
+     "a": "Holy Cross",
+     "right": [],
+     "wrong": [
+      "Laura"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 22,
+     "q": "This title, \"I have someone who needs me, someone I've needed so long\"",
+     "a": "\"For Once In My Life\"",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "TRANSPORTATION",
+  "q": "Susan B. Anthony said this new fad had \"done more to emancipate women than anything else in the world\"",
+  "a": "the bicycle",
+  "right": [
+   "Laura"
+  ],
+  "wrong": [
+   "Gabe",
+   "Darryl"
+  ]
+ },
+ "gameId": "4234",
+ "cat_notes": {
+  "J": [
+   "Hey, it's that time, isn't it?",
+   "Clues about Movie Title Overlaps.",
+   "You identify the play for us.",
+   "Clues about Body Parts.",
+   "Each country will begin with the letter C.",
+   "Clues about Words of Wonder."
+  ],
+  "DJ": [
+   "Clues about American Lives.",
+   "Clues about Island Names.",
+   "Clues about Geology.",
+   "In [*] you notice the \"U-M\" in quotation marks at the end of the word. That's because each correct response will end in those two letters.",
+   "Clues about Colleges with Mass Appeal.",
+   "Clues about Words of Stevie Wonder."
+  ],
+  "F": "Clues about Transportation."
+ }
+}

@@ -1,0 +1,1006 @@
+{
+ "show": "#6654",
+ "aired": "2013-07-18",
+ "note": "",
+ "contestants": [
+  {
+   "name": "Berek Marcus",
+   "bio": "a video game quality assurance tester from Northborough, Massachusetts",
+   "short": "Berek"
+  },
+  {
+   "name": "Matthew Mahan",
+   "bio": "a child support officer from Hooksett, New Hampshire",
+   "short": "Matthew"
+  },
+  {
+   "name": "Kerri McCoy",
+   "bio": "a pediatric emergency-room nurse from Jersey City, New Jersey (whose 1-day cash winnings total $10,600)",
+   "short": "Kerri"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Kerri": 4400,
+   "Matthew": 6400,
+   "Berek": 6800
+  },
+  "DJ": {
+   "Kerri": 10000,
+   "Matthew": 12000,
+   "Berek": 17600
+  },
+  "Final": {
+   "Kerri": 6000,
+   "Matthew": 22000,
+   "Berek": 25199
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "THAT'S SOME \"TUDE\"!",
+    "BUSINESS HISTORIES",
+    "CROSSING THE PARTY LINE",
+    "AROUND THE WORLD",
+    "BABY REGISTRY ITEMS",
+    "LONG MOVIE TITLES"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 17,
+     "q": "A natural ability, maybe for math",
+     "a": "aptitude",
+     "right": [
+      "Berek"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 16,
+     "q": "When the founders of this Vermont company found the equipment to make bagels was too costly, they turned to ice cream",
+     "a": "Ben & Jerry's",
+     "right": [
+      "Berek"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 26,
+     "q": "In 2013 this Republican didn't get a lot of Republican love in the Senate but was confirmed as defense secretary",
+     "a": "Chuck Hagel",
+     "right": [
+      "Berek"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 11,
+     "q": "One of the 2 South American members of OPEC",
+     "a": "Venezuela (or Ecuador)",
+     "right": [
+      "Matthew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "All 50 states have laws saying your baby's not taking a ride without one of these, maybe the Graco SnugRide",
+     "a": "a car seat",
+     "right": [
+      "Berek"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 2,
+     "q": "1994:\n\"The Adventures of Priscilla, Queen of\" here",
+     "a": "the Desert",
+     "right": [
+      "Kerri"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 18,
+     "q": "It sounds lonely, but Thoreau said he thrived best on this, as exhibited at Walden Pond",
+     "a": "solitude",
+     "right": [
+      "Berek"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 22,
+     "q": "James Monaghan traded his half of this pizza business to his brother Tom for a VW Beetle; extra large mistake",
+     "a": "Domino's",
+     "right": [
+      "Berek"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "Democrat Edwin Stanton served as secretary of war under these 2 men, & his removal caused an impeachment",
+     "a": "Abraham Lincoln & Andrew Johnson",
+     "right": [
+      "Kerri"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 12,
+     "q": "Natural barriers like rivers, mountain ridges, even ditches & moats make up one-quarter of the length of this landmark",
+     "a": "the Great Wall of China",
+     "right": [
+      "Berek"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 3,
+     "q": "You can see baby & even communicate with baby from somewhere else in the house with Motorola's MBP line of these",
+     "a": "baby monitor",
+     "right": [
+      "Berek"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 4,
+     "q": "2003:\n\"How To\" achieve this feat \"In 10 Days\"",
+     "a": "Lose a Guy",
+     "right": [
+      "Berek"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 19,
+     "q": "The 13th Amendment outlaws slavery & involuntary this",
+     "a": "servitude",
+     "right": [
+      "Berek"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 23,
+     "q": "In 1906 William Ramsay began making this shoe polish, which he named for his wife's native land Down Under",
+     "a": "Kiwi",
+     "right": [
+      "Matthew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 28,
+     "q": "John Connally, in the car when JFK was shot, became secretary of the treasury under this Republican",
+     "a": "Nixon",
+     "right": [
+      "Matthew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 13,
+     "q": "Corinth is at the northern edge of this peninsula making up southern Greece",
+     "a": "the Peloponnesian Peninsula",
+     "right": [
+      "Matthew"
+     ],
+     "wrong": [
+      "Berek"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 8,
+     "q": "Since its introduction in 1989, this pillow has been a perennial bestseller",
+     "a": "a Boppy",
+     "right": [
+      "Matthew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 5,
+     "q": "2002:\n\"Divine Secrets of\" this group",
+     "a": "the Ya-Ya Sisterhood",
+     "right": [
+      "Berek"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 20,
+     "q": "It's a measure of the brightness of a star or the size of an earthquake",
+     "a": "magnitude",
+     "right": [
+      "Berek"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": true,
+     "order": 24,
+     "q": "In 1916 Pullman Brown was chosen as the color of this company's vehicles",
+     "a": "UPS",
+     "right": [
+      "Matthew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2000
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "This Republican served as JFK's secretary of defense",
+     "a": "McNamara",
+     "right": [
+      "Kerri"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 14,
+     "q": "Home to 140 million people, the island of Java is part of this country",
+     "a": "Indonesia",
+     "right": [
+      "Berek"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 9,
+     "q": "Lots of moms \"wish\" for this Playtex product that makes the disposal of Pampers & Huggies a snap",
+     "a": "a Diaper Genie",
+     "right": [
+      "Matthew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 6,
+     "q": "1998:\n\"Lock, Stock &\" this pair",
+     "a": "Two Smoking Barrels",
+     "right": [
+      "Berek"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 21,
+     "q": "It's a dull or trite remark, or a meaningless cliche",
+     "a": "platitude",
+     "right": [
+      "Matthew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 25,
+     "q": "In 1926 this guide to auto values was first published in Los Angeles; a 1921 Nash touring car with a clock was worth $50",
+     "a": "Kelley Blue Book",
+     "right": [
+      "Berek"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 30,
+     "q": "NYC Republican mayor Fiorello La Guardia served as chief of the Office of Civilian Defense under this president",
+     "a": "FDR",
+     "right": [
+      "Kerri"
+     ],
+     "wrong": [
+      "Berek"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 15,
+     "q": "This city on the Indian Ocean is \"D\" chief seaport of South Africa",
+     "a": "Durban",
+     "right": [
+      "Kerri"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 10,
+     "q": "Heads up! It's the smart line of developmental products that features the image seen here on its logo",
+     "a": "Baby Einstein",
+     "right": [
+      "Berek"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 7,
+     "q": "1995:\n\"Things to Do in Denver\" in this circumstance",
+     "a": "When You're Dead",
+     "right": [
+      "Kerri"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "MEDICAL HISTORY",
+    "2 WORDS, 12 TOTAL LETTERS",
+    "A CROSS TO BEAR",
+    "BALLPARK TOWNS",
+    "THE CHARACTER'S NAME HAS BEEN CHANGED",
+    "TO PROTECT THE INNOCENT"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "The first quarantine island to prevent the spread of disease was in this city's lagoon",
+     "a": "Venice",
+     "right": [],
+     "wrong": [
+      "Kerri"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 21,
+     "q": "Any prince whose succession to the crown appears certain",
+     "a": "the heir apparent",
+     "right": [
+      "Kerri"
+     ],
+     "wrong": [
+      "Matthew"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 16,
+     "q": "The common Christian cross, or crux ordinaria, is also known as this, the language of \"crux ordinaria\"",
+     "a": "a Latin cross",
+     "right": [
+      "Matthew"
+     ],
+     "wrong": [
+      "Berek"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 11,
+     "q": "Kauffman Stadium (formerly Royals Stadium)",
+     "a": "Kansas City",
+     "right": [
+      "Matthew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 6,
+     "q": "\"Call me Scooter. Some years ago... I thought I would sail about a little\"",
+     "a": "Ishmael",
+     "right": [
+      "Berek"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 26,
+     "q": "Boston Police rules say you do this to a suspect \"with their hands behind their back, thumbs up, palms out\"",
+     "a": "handcuff them",
+     "right": [
+      "Berek"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 2,
+     "q": "An outbreak of this disease during a military vets convention in Philadelphia in July 1976 killed dozens",
+     "a": "Legionnaires' disease",
+     "right": [
+      "Berek"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 22,
+     "q": "A hospital volunteer job, with accompanying uniform, for teenagers",
+     "a": "a candy striper",
+     "right": [
+      "Kerri"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 17,
+     "q": "A circle holding an interior cross is known as both a sun cross & the cross of this chief Norse god",
+     "a": "Odin",
+     "right": [
+      "Kerri"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 12,
+     "q": "U.S. Cellular Field (formerly New Comiskey)",
+     "a": "Chicago",
+     "right": [
+      "Berek"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 7,
+     "q": "\"Dorotea saw him and was informed by Sancho that this was Don Cornelius\"",
+     "a": "Don Quixote",
+     "right": [
+      "Berek"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 27,
+     "q": "Responsibilities of this unit of the San Diego PD include \"fire control support\" & \"hostage rescues\"",
+     "a": "SWAT team",
+     "right": [
+      "Berek"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 3,
+     "q": "In 1963 Hoffmann-La Roche introduced this tranquilizer, one of the most-prescribed drugs of all time",
+     "a": "Valium",
+     "right": [
+      "Kerri"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 23,
+     "q": "A region officially determined to be eligible, under law, for emergency governmental relief (your kid's room, perhaps?)",
+     "a": "disaster area",
+     "right": [
+      "Berek"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 18,
+     "q": "The cross called this has three bars representing the bearer's roles of high priest, high teacher & chief shepherd",
+     "a": "the papal cross",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 13,
+     "q": "Progressive Field (formerly Jacobs Field)",
+     "a": "Cleveland",
+     "right": [
+      "Berek"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 8,
+     "q": "\"'Dr. Phil, why do you say Buffalo Bill's not a sadist?'\"",
+     "a": "Dr. Lecter",
+     "right": [
+      "Berek"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 28,
+     "q": "A bad habit like smoking, or an illegal activity like prostitution; there's a squad devoted to it in wicked Des Moines",
+     "a": "a vice",
+     "right": [
+      "Kerri"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 4,
+     "q": "In 1896 physician Pringle Morgan described this condition as \"word blindness\"",
+     "a": "dyslexia",
+     "right": [],
+     "wrong": [
+      "Kerri"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2000
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 24,
+     "q": "A squadron of airplanes operating together, whether they're into Monty Python or not",
+     "a": "flying circus",
+     "right": [
+      "Berek"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 19,
+     "q": "One of the crosses in the Union Jack is the saltire, the X-shaped cross of this saint",
+     "a": "St. Andrew (of Scotland)",
+     "right": [
+      "Kerri"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2000
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 14,
+     "q": "Chase Field \n(formerly Bank One Ballpark)",
+     "a": "Phoenix",
+     "right": [
+      "Matthew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 9,
+     "q": "\"Dimmesdale, on the very day when Lady Gaga first wore her ignominious badge, had begun a course of penance\"",
+     "a": "Hester Prynne",
+     "right": [
+      "Kerri"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 29,
+     "q": "Summerville, South Carolina uses 2 breeds of K-9 unit dogs: Belgian Malinois & this breed (it ain't a Chihuahua!)",
+     "a": "German Shepherd",
+     "right": [
+      "Matthew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 5,
+     "q": "Isolated from the cortex of the adrenal gland, this steroid was introduced to ease the pain of arthritis in 1948",
+     "a": "cortisone",
+     "right": [
+      "Kerri"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 25,
+     "q": "The first trip of a boat after its acceptance by the owners from the builders",
+     "a": "maiden voyage",
+     "right": [
+      "Kerri"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 20,
+     "q": "The cross of this region that borders Alsace became a symbol of the French Resistance",
+     "a": "Lorraine",
+     "right": [
+      "Berek"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 15,
+     "q": "AT&T Park \n(formerly SBC Park, formerly Pacific Bell Park)",
+     "a": "San Francisco",
+     "right": [
+      "Matthew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 10,
+     "q": "\"Sister Christian... was possessed of a mind rudimentary in its power of observation and analysis\"",
+     "a": "Sister Carrie",
+     "right": [],
+     "wrong": [
+      "Kerri"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 30,
+     "q": "Instead of cash for clunkers, the Houston PD asks the public to I.D. criminals with a program called \"Ca$h for\" these",
+     "a": "Crooks",
+     "right": [],
+     "wrong": [
+      "Kerri"
+     ],
+     "stumper": true,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "HISTORIC TELEGRAMS",
+  "q": "In May 1945 Churchill cabled Truman that this \"is drawn down upon their front. We do not know what is going on behind\"",
+  "a": "the Iron Curtain",
+  "right": [
+   "Matthew",
+   "Berek"
+  ],
+  "wrong": [
+   "Kerri"
+  ]
+ },
+ "gameId": "4263",
+ "cat_notes": {
+  "J": [
+   "\"T-U-D-E\" in each correct response.",
+   "Clues about Business Histories.",
+   "Clues about Crossing the Party Line.",
+   "Clues about Around the World.",
+   "Clues about Baby Registry Items.",
+   "Clues about Long Movie Titles."
+  ],
+  "DJ": [
+   "Clues about Medical History.",
+   "Clues about 2 Words, 12 Total Letters.",
+   "Clues about A Cross to Bear.",
+   "Clues about Ballpark Towns.",
+   "I'll give you a quote in which the name has been changed. You have to give the correct name.",
+   "Clues to Protect the Innocent."
+  ],
+  "F": "Clues about Historic Telegrams."
+ }
+}

@@ -1,0 +1,993 @@
+{
+ "show": "#6595",
+ "aired": "2013-04-26",
+ "note": "",
+ "contestants": [
+  {
+   "name": "Jody Carlson",
+   "bio": "a paralegal from Fairfax, Virginia",
+   "short": "Jody"
+  },
+  {
+   "name": "John Leavy",
+   "bio": "a programmer from Austin, Texas",
+   "short": "John"
+  },
+  {
+   "name": "George McAleese",
+   "bio": "a political researcher from Washington, D.C. (whose 1-day cash winnings total $27,201)",
+   "short": "George"
+  }
+ ],
+ "scores": {
+  "J": {
+   "George": 5000,
+   "John": 5200,
+   "Jody": 4600
+  },
+  "DJ": {
+   "George": 18000,
+   "John": 12000,
+   "Jody": 14600
+  },
+  "Final": {
+   "George": 29201,
+   "John": 23000,
+   "Jody": 24600
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "I HAVE ISSUES",
+    "ABBREV. TV",
+    "AIRLINES",
+    "EUROPEAN LIT",
+    "ELEMENTS IN THE HUMAN BODY",
+    "SOUNDS LIKE A CLASSIC ARCADE GAME"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 23,
+     "q": "I never throw anything away; I've got what the Mayo Clinic calls \"Compulsive\" this \"Syndrome\"",
+     "a": "hoarding",
+     "right": [
+      "John"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "Sitcom narrated through flashbacks from the future: \"HIMYM\"",
+     "a": "How I Met Your Mother",
+     "right": [
+      "George"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 6,
+     "q": "Its loyalty program is called \"AAdvantage\"",
+     "a": "American",
+     "right": [
+      "Jody"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 9,
+     "q": "This 1759 Voltaire work attacks optimism by putting the title trusting young man through misery",
+     "a": "Candide",
+     "right": [
+      "John"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 20,
+     "q": "These 2 chemical elements make up 100% of a glass of water & 75% of the human body",
+     "a": "hydrogen and oxygen",
+     "right": [
+      "Jody"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 14,
+     "q": "They can be near-earth, Trojan, or main-belt",
+     "a": "asteroid",
+     "right": [
+      "George"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 25,
+     "q": "My favorite actor says I've been doing this, defined in California as willfully following & making a credible threat",
+     "a": "stalking",
+     "right": [
+      "Jody"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "Fashion rules from Stacy & Clinton: \"WNTW\"",
+     "a": "What Not To Wear",
+     "right": [
+      "George"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 7,
+     "q": "Seen here is the logo of this airline that's been based in Chicago since the 1930s",
+     "a": "United",
+     "right": [
+      "Jody"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 10,
+     "q": "Her diary was originally published in Dutch in 1947 as \"Het Achterhuis\"",
+     "a": "Anne Frank",
+     "right": [
+      "John"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 21,
+     "q": "As it makes up 18% of us, humans are described as life-forms \"based\" on this element",
+     "a": "carbon",
+     "right": [
+      "Jody"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 15,
+     "q": "A tilting match",
+     "a": "joust",
+     "right": [
+      "John"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 26,
+     "q": "I'm an onychophagist, which means I do this, so you're safe--only my manicure is not",
+     "a": "bite your nails",
+     "right": [
+      "Jody"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 3,
+     "q": "A competition: \"SYTYCD\"",
+     "a": "So You Think You Can Dance",
+     "right": [
+      "Jody"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 8,
+     "q": "One of its slogans was \"We love to fly and it shows\"",
+     "a": "Delta",
+     "right": [
+      "John"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 11,
+     "q": "When he lashed Norwegian society in \"A Doll's House\", he had been in his homeland only once in 15 years",
+     "a": "Ibsen",
+     "right": [
+      "George"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 22,
+     "q": "Your bones don't glow in the dark, but they do contain this \"light-bringing\" element that makes up 1% of you",
+     "a": "phosphorus",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 16,
+     "q": "Multisegmented predaceous arthropod",
+     "a": "centipede",
+     "right": [
+      "John"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 27,
+     "q": "I've lost jobs by doing this, a verb meaning pretend to be sick",
+     "a": "malingering",
+     "right": [
+      "John"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 4,
+     "q": "Miss J. Alexander prepped the beauties: \"ANTM\"",
+     "a": "America's Next Top Model",
+     "right": [
+      "George"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 18,
+     "q": "This airline began service to Houston & San Antonio from Dallas' Love Field on June 18, 1971",
+     "a": "Southwest",
+     "right": [
+      "Jody"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 12,
+     "q": "\"Outpouring Of The Heart Of An Art-Loving Lay Brother\" from 1797 is called the first German work in this movement",
+     "a": "romanticism",
+     "right": [
+      "John"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "This essential mineral is the most abundant metal in your body",
+     "a": "calcium",
+     "right": [],
+     "wrong": [
+      "John"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 17,
+     "q": "A medieval plate mail glove",
+     "a": "gauntlet",
+     "right": [
+      "George"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 28,
+     "q": "I'm so fanatical, I've been called this, named for a Judean sect that battled Rome",
+     "a": "a zealot",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 5,
+     "q": "Drama starring Jim Caviezel: \"POI\"",
+     "a": "Person of Interest",
+     "right": [
+      "George"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 19,
+     "q": "Pilot Sully Sullenberger performed the \"Miracle on the Hudson\" while flying for this airline",
+     "a": "US Airways",
+     "right": [
+      "George"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": true,
+     "order": 13,
+     "q": "Yannis Ritsos' poetry collection \"O Epitafios\" was symbolically burned at the foot of this hill",
+     "a": "the Acropolis",
+     "right": [
+      "John"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1000
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 30,
+     "q": "You contain copper, zinc & this metal, the most abundant element in our planet",
+     "a": "iron",
+     "right": [
+      "John"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 24,
+     "q": "It precedes \"of the faith\" in a title used by British monarchs since the 1500s",
+     "a": "defender",
+     "right": [
+      "Jody"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "ROME, IF YOU WANT TO",
+    "ODD WORDS",
+    "ON BROADWAY 1913",
+    "SINGLE NAMED SINGERS",
+    "NATIVE AMERICAN TRIBES",
+    "CAVES"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "3,000 Romans at a time could clean up in this facility named for Diocletian",
+     "a": "the Baths",
+     "right": [
+      "John"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 3,
+     "q": "To chirotonize is to exercise this democratic right",
+     "a": "to vote",
+     "right": [
+      "Jody"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 6,
+     "q": "The fabulous Shubert theatre opened with British star Johnston Forbes-Robertson as this doomed Dane",
+     "a": "Hamlet",
+     "right": [
+      "George"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "(Kelly of the Clue Crew delivers the clue from Robben Island in South Africa.) Nelson Mandela's prisoner number Here on Robben Island--46664--became the name of an HIV/AIDS charity & also the title of a fundraising song co-written by this U2 superstar",
+     "a": "Bono",
+     "right": [
+      "John"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 7,
+     "q": "In the mid-1600s, the Iroquois nearly wiped out the Erie & this other tribe that shares its name with a Great Lake",
+     "a": "Huron",
+     "right": [
+      "George"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 14,
+     "q": "The Waitomo caves on this country's North Island are lit by thousands of glowworms",
+     "a": "New Zealand",
+     "right": [
+      "John"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 2,
+     "q": "Rome lies on both banks of this roughly 250-mile-long river",
+     "a": "the Tiber",
+     "right": [
+      "Jody"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 4,
+     "q": "To \"bury\" this is to place an item of lesser significance first in an article",
+     "a": "the lede",
+     "right": [
+      "George"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 28,
+     "q": "Playing at the Hippodrome, the musical \"America\" had a bizarre plot about stealing the plans to this 50-mile-long dig",
+     "a": "the Panama Canal",
+     "right": [
+      "George"
+     ],
+     "wrong": [
+      "Jody"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 8,
+     "q": "This rapper has been called many things, but don't forget \"Oscar winner\" (for original song) for \"8 Mile\"",
+     "a": "Eminem",
+     "right": [
+      "George"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 18,
+     "q": "The Yankton & Oglala were members of this broad alliance of tribes",
+     "a": "the Sioux",
+     "right": [
+      "Jody"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 16,
+     "q": "On December 2, 1929 a skull of this prehistoric man was discovered in Zhoukoudian Cave in China",
+     "a": "Peking Man",
+     "right": [
+      "John"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 15,
+     "q": "Nicola Salvi won a 1732 competition by designing this Baroque fountain; it took 30 years to complete",
+     "a": "the Trevi Fountain",
+     "right": [
+      "George"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 5,
+     "q": "A lazaretto is a hospital especially for these people",
+     "a": "lepers",
+     "right": [
+      "John"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 25,
+     "q": "\"The Sunshine Girl\" was a hit & popularized the turkey trot, a new one of these",
+     "a": "a dance",
+     "right": [
+      "George"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 9,
+     "q": "In 2010 this rocker wrote a theme song for the Minnesota Vikings; is that why he's so into purple?",
+     "a": "Prince",
+     "right": [
+      "George"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 19,
+     "q": "In 1957, a century after a series of wars against the U.S., this tribe from Florida regained Federal recognition",
+     "a": "the Seminoles",
+     "right": [
+      "Jody"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 26,
+     "q": "The walls of Oklahoma's Alabaster Caverns are formed of this soft white mineral often used to make drywall",
+     "a": "gypsum",
+     "right": [
+      "John"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 17,
+     "q": "The ruins of the Domus Aurea, this Emperor's \"Golden House\" built after the Great Fire, sit in a public park in Rome",
+     "a": "Nero",
+     "right": [
+      "Jody"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 12,
+     "q": "Those born under Jupiter's sign were supposed to be joyful & this word describing them is derived from Jupiter's alias",
+     "a": "jovial",
+     "right": [
+      "George"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 24,
+     "q": "Later to help establish sound in the movies, he had them rolling in the aisles starring in \"The Honeymoon Express\" in 1913",
+     "a": "Al Jolson",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 10,
+     "q": "\"But we're never gonna survive, unless\" you name this singer who went \"Crazy\" on Billboard's Top 40 in 1991",
+     "a": "Seal",
+     "right": [],
+     "wrong": [
+      "John"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 20,
+     "q": "Code talkers using the language of this Southwestern were involved in every U.S. Marine assault in the Pacific 1942-45",
+     "a": "the Navajo",
+     "right": [
+      "Jody"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2000
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 29,
+     "q": "During the War of 1812, this Kentucky cave was used to mine saltpeter for the making of gunpowder",
+     "a": "Mammoth Cave",
+     "right": [
+      "George"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 22,
+     "q": "This Roman street that runs\nfrom the Villa Borghese\nto the Piazza Barberini\nwas portrayed\nin \"La Dolce vita\"",
+     "a": "Via Veneto",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 13,
+     "q": "Put these 3 letters, meaning \"mouth\", in front of \"-smacked\" & you get a word meaning \"flabbergasted\"",
+     "a": "gob",
+     "right": [
+      "Jody"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 23,
+     "q": "The sufferings of Suffragettes were spoofed at the New Amsterdam Theatre in the 1913 edition of these \"Follies\"",
+     "a": "the Ziegfeld Follies",
+     "right": [
+      "John"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 11,
+     "q": "In 1995 she sang \"Army Of Me\"--but really, when you wear a swan dress to the Oscars, that's what folks will remember",
+     "a": "Bjork",
+     "right": [
+      "Jody"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 21,
+     "q": "The name \"Comanche\" comes from a word meaning \"enemy\" or \"stranger\" in the language of this 3-letter tribe",
+     "a": "the Ute",
+     "right": [
+      "John"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": true,
+     "order": 30,
+     "q": "The Republic of Georgia's Krubera Cave in this mountain system is the world's deepest at 7,188 feet",
+     "a": "the Caucasus",
+     "right": [
+      "George"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 3000
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "GREAT NOVELS",
+  "q": "A preface to this novel called it \"rustic all through... Moorish, and wild, and knotty as the root of Heath\"",
+  "a": "Wuthering Heights",
+  "right": [
+   "John",
+   "Jody",
+   "George"
+  ],
+  "wrong": []
+ },
+ "gameId": "4161",
+ "cat_notes": {
+  "J": [
+   "The category “I HAVE ISSUES” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "Clues about Abbrev TV.",
+   "Clues about Airlines.",
+   "Clues about European Lit.",
+   "Clues about Elements in the Human Body.",
+   "The answers involve homophones — words that sound alike but differ in meaning or spelling."
+  ],
+  "DJ": [
+   "The category “ROME, IF YOU WANT TO” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "Clues about Odd Words.",
+   "Clues on Broadway 1913.",
+   "Clues about Single Named Singers.",
+   "Clues about Native American Tribes.",
+   "Clues about Caves."
+  ],
+  "F": "Clues about Great Novels."
+ }
+}

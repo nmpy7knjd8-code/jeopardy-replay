@@ -1,0 +1,993 @@
+{
+ "show": "#6508",
+ "aired": "2012-12-26",
+ "note": "",
+ "contestants": [
+  {
+   "name": "Debra Newman",
+   "bio": "a psychologist from Pound Ridge, New York",
+   "short": "Debra"
+  },
+  {
+   "name": "Gonzalo Rufatt",
+   "bio": "a financial advisor from Santa Fe, New Mexico",
+   "short": "Gonzalo"
+  },
+  {
+   "name": "Kris Hamilton",
+   "bio": "a computer technician from Dublin, Ohio (whose 2-day cash winnings total $37,001)",
+   "short": "Kris"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Kris": 6400,
+   "Gonzalo": 2000,
+   "Debra": 2800
+  },
+  "DJ": {
+   "Kris": 17300,
+   "Gonzalo": 5600,
+   "Debra": 0
+  },
+  "Final": {
+   "Kris": 23300,
+   "Gonzalo": 10000,
+   "Debra": 0
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "A BUNCH OF IDIOMS",
+    "MEDICAL EQUIPMENT",
+    "1892",
+    "RESTAURANTS BY SLOGAN",
+    "TALK OF THE TOWN",
+    "THEIR SOLE OSCAR NOMINATION"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 5,
+     "q": "Another way of saying \"the whole kit & caboodle\" is \"lock, stock &\" this",
+     "a": "barrel",
+     "right": [
+      "Kris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 26,
+     "q": "An ECG measures the electrical activity of the heart, while an EEG measures the activity of this organ",
+     "a": "the brain",
+     "right": [
+      "Gonzalo"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 21,
+     "q": "On January 20 this sport's first official game was played at the Springfield, Massachusetts YMCA gymnasium",
+     "a": "basketball",
+     "right": [
+      "Kris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 18,
+     "q": "\"Eat fresh\"",
+     "a": "Subway",
+     "right": [
+      "Kris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "Milton called it \"the eye of Greece, mother of arts & eloquence\"",
+     "a": "Athens",
+     "right": [
+      "Kris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 11,
+     "q": "Liam Neeson, \n1993",
+     "a": "Schindler's List",
+     "right": [
+      "Gonzalo"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 6,
+     "q": "Beware of this idiom, seen here",
+     "a": "the wolf in sheep's clothing",
+     "right": [
+      "Kris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "Alexander Wood, who invented the hollow-needled hypodermic one of these, became a morphine addict",
+     "a": "the syringe",
+     "right": [
+      "Kris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 22,
+     "q": "On January 1 teenager Annie Moore from Ireland became the first of millions of immigrants to pass through here",
+     "a": "Ellis Island",
+     "right": [
+      "Kris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 17,
+     "q": "\"Everything you love about breakfast\"",
+     "a": "IHOP",
+     "right": [
+      "Debra"
+     ],
+     "wrong": [
+      "Kris"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "Dorothy Parker is said to have described it as \"72 suburbs in search of a city\"",
+     "a": "Los Angeles",
+     "right": [
+      "Kris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 12,
+     "q": "Dudley Moore, \n1981",
+     "a": "Arthur",
+     "right": [
+      "Kris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 7,
+     "q": "To get your kids up & moving, you might tell them, \"don't sit there like a bump on\" this",
+     "a": "a log",
+     "right": [
+      "Gonzalo"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 28,
+     "q": "In 1977 Raymond Damadian constructed the first one of these full-body magnetic scanners, naming it \"indomitable\"",
+     "a": "an MRI",
+     "right": [
+      "Kris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 23,
+     "q": "This cotton pest first reached the U.S. when it crossed over the Mexican border into Texas",
+     "a": "the boll weevil",
+     "right": [
+      "Kris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 16,
+     "q": "\"Think outside the bun\" is dead! Long live \"Live mas\"",
+     "a": "Taco Bell",
+     "right": [
+      "Kris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 3,
+     "q": "According to Samuel Johnson, \"when a man is tired of\" this city, \"he is tired of life\"",
+     "a": "London",
+     "right": [],
+     "wrong": [
+      "Kris"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 13,
+     "q": "Haley Joel Osment, \n1999",
+     "a": "The Sixth Sense",
+     "right": [
+      "Kris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 8,
+     "q": "It's the same either way with this idiom",
+     "a": "six of one, half dozen of another",
+     "right": [
+      "Debra"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "A tonometer, which tests hydrostatic pressure within the eye, is used to detect this condition",
+     "a": "glaucoma",
+     "right": [
+      "Debra"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 24,
+     "q": "The Homestead Strike at one of this tycoon's steel plants was broken, setting back the union movement",
+     "a": "Carnegie",
+     "right": [
+      "Kris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 19,
+     "q": "\"When you're here, you're family\"",
+     "a": "Olive Garden",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 4,
+     "q": "\"I guess God made Boston on a wet Sunday\", wrote this mystery novelist; maybe the town put him into a \"Big Sleep\"",
+     "a": "Raymond Chandler",
+     "right": [
+      "Debra"
+     ],
+     "wrong": [
+      "Kris"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 14,
+     "q": "As a son, Dan Aykroyd, \n1989",
+     "a": "Driving Miss Daisy",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 9,
+     "q": "When it comes to bureaucratic rules, you've probably learned \"you can't fight\" this place",
+     "a": "city hall",
+     "right": [
+      "Kris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 30,
+     "q": "The bulldog type of this is used to clamp an artery or vein to stop blood flow",
+     "a": "a hemostat (or forceps)",
+     "right": [
+      "Kris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 25,
+     "q": "Homer Plessy was arrested in June for sitting in a whites-only R.R. car, leading to this Supreme Court case",
+     "a": "Plessy v. Ferguson",
+     "right": [
+      "Gonzalo"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 20,
+     "q": "\"No rules. Just right\"",
+     "a": "Outback Steakhouse",
+     "right": [
+      "Kris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": true,
+     "order": 10,
+     "q": "Hemingway wrote that if you've lived in Paris as a young man, \"wherever you go...it stays with you, for Paris is\" this book title",
+     "a": "A Moveable Feast",
+     "right": [],
+     "wrong": [
+      "Kris"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 800
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 15,
+     "q": "As a rancher, Rock Hudson, \n1956",
+     "a": "Giant",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "BANGLADESH",
+    "NOTORIOUS WOMEN",
+    "SHIP SHAPE",
+    "THE ARTS",
+    "STARTS WITH \"C\"",
+    "THEIR SOUL GRAMMY NOMINATION"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 21,
+     "q": "Seafood is naturally important to the economy, as Bangladesh has 360 miles of coast along this bay",
+     "a": "the Bay of Bengal",
+     "right": [
+      "Gonzalo"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 14,
+     "q": "During her crime spree with Clyde, she sent samples of her poetry to newspapers",
+     "a": "Bonnie Parker",
+     "right": [
+      "Gonzalo"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 9,
+     "q": "(Sarah of the Clue Crew reports from the Nat'l Maritime Museum in Sydney, Australia.) The CLS4 Carpenteria was built in 1917 to be a floating one of these; a sunlight-operated valve on the unmanned ship turned on the acetylene beacon",
+     "a": "a lighthouse",
+     "right": [
+      "Kris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 6,
+     "q": "This French art movement held its first show in 1874",
+     "a": "Impressionism",
+     "right": [
+      "Kris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "Traditionally, it's what you're told to say so you'll be smiling in a photograph",
+     "a": "cheese",
+     "right": [
+      "Kris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 26,
+     "q": "Oh, yeah, baby...his \"Theme From 'Shaft'\" was nominated & won in 1971",
+     "a": "(Isaac) Hayes",
+     "right": [
+      "Debra"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 22,
+     "q": "This country is the main destination for Bangladeshi exports",
+     "a": "the United States",
+     "right": [
+      "Debra"
+     ],
+     "wrong": [
+      "Kris"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 15,
+     "q": "Nicknamed \"Squeaky\", this Charles Manson follower tried to assassinate President Ford in 1975",
+     "a": "(Lynette) Fromme",
+     "right": [
+      "Kris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 10,
+     "q": "This German battleship was launched on February 14, 1939 & sunk by the British 2 years later",
+     "a": "the Bismarck",
+     "right": [
+      "Kris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 7,
+     "q": "In 1928 he composed \"Bolero\" as a ballet",
+     "a": "(Maurice) Ravel",
+     "right": [
+      "Kris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 2,
+     "q": "Jane Austen's writing room door made this noise, which she liked because it warned her of visitors",
+     "a": "a creak",
+     "right": [
+      "Kris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 27,
+     "q": "It was just him, without the Miracles, nominated in 1987 for \"Just To See Her\"",
+     "a": "Smokey Robinson",
+     "right": [
+      "Kris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 23,
+     "q": "Major industries of Bangladesh include tea processing & the manufacture of these, like jute",
+     "a": "textiles (fibers accepted)",
+     "right": [
+      "Gonzalo"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 16,
+     "q": "Not notorious herself, she played serial killer Aileen Wuornos in the movie \"Monster\"",
+     "a": "Charlize Theron",
+     "right": [
+      "Kris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 11,
+     "q": "While protesting nuclear testing in the Pacific, this Greenpeace ship was sunk in 1985 by agents of the French govt.",
+     "a": "Rainbow Warrior",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": true,
+     "order": 8,
+     "q": "\"Neptune, the Mystic\" ends this Gustav Holst work",
+     "a": "The Planets",
+     "right": [
+      "Kris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 600
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 3,
+     "q": "14-letter term for the 1960s movement opposed to mainstream American society",
+     "a": "the counterculture",
+     "right": [
+      "Kris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 28,
+     "q": "I heard it through the grapevine that this soulful legend was nominated in 1982 for \"Sexual Healing\"",
+     "a": "Marvin Gaye",
+     "right": [
+      "Kris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 24,
+     "q": "Subject to flooding, Bangladesh is on the flood plain of this river, which joins with the Brahmaputra",
+     "a": "the Ganges",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 17,
+     "q": "When Anna Sage betrayed this gangster on July 22, 1934, she was not dressed in red but wore an orange skirt",
+     "a": "John Dillinger",
+     "right": [
+      "Gonzalo"
+     ],
+     "wrong": [
+      "Debra"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 12,
+     "q": "In June 1787 this ship's interior was converted to house pots holding breadfruit plants",
+     "a": "the (HMS) Bounty",
+     "right": [],
+     "wrong": [
+      "Kris"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2900
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 19,
+     "q": "In 2012 Joshua Bell played this instrument at the grand opening of Vegas' Smith Center for the Performing Arts",
+     "a": "the violin",
+     "right": [
+      "Kris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 4,
+     "q": "These devices used to measure thickness can be \"inside\" or \"outside\"",
+     "a": "calipers",
+     "right": [
+      "Debra"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 29,
+     "q": "It wasn't the Soul Train but this train that got Gladys Knight & the Pips nominated in 1973",
+     "a": "a \"Midnight Train To Georgia\"",
+     "right": [
+      "Kris"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 25,
+     "q": "Following its conquest by Muslim invaders, Bangladesh became part of this empire in the 16th century",
+     "a": "the Mughal Empire",
+     "right": [],
+     "wrong": [
+      "Gonzalo",
+      "Debra"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 18,
+     "q": "This third wife of Emperor Claudius \"mess\"ed around with a lot of men & tried to get one on the throne, but it didn't work",
+     "a": "Messalina",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 13,
+     "q": "It was hijacked in 1985 by Palestinian terrorists who killed American Leon Klinghoffer",
+     "a": "the Achille Lauro",
+     "right": [
+      "Kris"
+     ],
+     "wrong": [
+      "Debra"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 20,
+     "q": "The 1824 countryside painting \"The Lock\" is his costliest, going for $35 million in 2012",
+     "a": "(John) Constable",
+     "right": [
+      "Gonzalo"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 5,
+     "q": "In music recording, this \"track\" sets the tempo",
+     "a": "the click track",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 30,
+     "q": "1974 was good to this \"Tell Me Something Good\" soul group that featured Chaka Khan",
+     "a": "Rufus",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "LITERARY FIRST LINES",
+  "q": "\"You better not never tell nobody but God\", begins this 1982 novel, whose film version garnered 11 Oscar nominations",
+  "a": "The Color Purple",
+  "right": [
+   "Gonzalo",
+   "Kris"
+  ],
+  "wrong": []
+ },
+ "gameId": "4043",
+ "cat_notes": {
+  "J": [
+   "Clues about A Bunch of Idioms.",
+   "Clues about Medical Equipment.",
+   "That was a good year.",
+   "Clues about Restaurants by Slogan.",
+   "Clues about Talk of the Town.",
+   "Clues about Their Sole OSCAR Nomination."
+  ],
+  "DJ": [
+   "Clues about Bangladesh.",
+   "Clues about Notorious Women.",
+   "Clues about Ship Shape.",
+   "Clues about The Arts.",
+   "Each answer starts with “C”.",
+   "Clues about Their Soul Grammy Nomination."
+  ],
+  "F": "Clues about Literary First Lines."
+ }
+}

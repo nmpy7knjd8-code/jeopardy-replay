@@ -1,0 +1,988 @@
+{
+ "show": "#6564",
+ "aired": "2013-03-14",
+ "note": "Drew Horwood game 8.",
+ "contestants": [
+  {
+   "name": "Tom Canterbury",
+   "bio": "a radio promotions director from Tuscaloosa, Alabama",
+   "short": "Tom"
+  },
+  {
+   "name": "Anne Olson",
+   "bio": "an accountant from Venice, California",
+   "short": "Anne"
+  },
+  {
+   "name": "Drew Horwood",
+   "bio": "a business analyst from Minneapolis, Minnesota (whose 7-day cash winnings total $124,296)",
+   "short": "Drew"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Drew": 3800,
+   "Anne": 2400,
+   "Tom": 4000
+  },
+  "DJ": {
+   "Drew": 13800,
+   "Anne": 6800,
+   "Tom": 2600
+  },
+  "Final": {
+   "Drew": 13804,
+   "Anne": 11800,
+   "Tom": 5200
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "SOUNDS LIKE A TECH BRAND",
+    "FLAGS OF THE WORLD",
+    "THE 1930s",
+    "STONES",
+    "CROSSWORD CLUES \"S\"",
+    "EX-PATRIOTS"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 11,
+     "q": "5-letter pome fruit of the family Rosaceae",
+     "a": "Apple",
+     "right": [
+      "Tom"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 6,
+     "q": "This country replaced its all-green flag with a red, black & green one following Qaddafi's overthrow in 2011",
+     "a": "Libya",
+     "right": [
+      "Anne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "On May 21, 1934 this duo attended a party at Black Lake, Louisiana; 2 days later, they were killed by the law",
+     "a": "Bonnie & Clyde",
+     "right": [
+      "Tom"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 21,
+     "q": "On March 9, 2012 a grapefruit-sized one of these, the largest ever found in Hawaii, fell in an Oahu thunderstorm",
+     "a": "hailstone",
+     "right": [
+      "Tom"
+     ],
+     "wrong": [
+      "Anne"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 16,
+     "q": "A bunch of pigs (5)",
+     "a": "swine",
+     "right": [
+      "Tom"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 26,
+     "q": "Steve Grogan quarterbacked the Pats in Super Bowl XX when Jim McMahon & this team beat them by 36",
+     "a": "the (Chicago) Bears",
+     "right": [
+      "Tom"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 12,
+     "q": "Shortened to 5 letters from a longer word, it's military information",
+     "a": "Intel",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 7,
+     "q": "Some people of this region, officially part of China, use a white triangle flag to represent its location among high mountains",
+     "a": "Tibet",
+     "right": [
+      "Drew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "On April 3, 1933 Lord Clydesdale became the first to pilot a plane over this mountain, just clearing it",
+     "a": "Mount Everest",
+     "right": [
+      "Drew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 22,
+     "q": "The heel stone, the slaughter stone & the station stones are among those found at this British landmark",
+     "a": "Stonehenge",
+     "right": [
+      "Anne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 17,
+     "q": "Wise herb (4)",
+     "a": "sage",
+     "right": [
+      "Tom"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "Adam Vinatieri used his right one as time expired on Feb. 3, 2002 to give the Patriots their first Super Bowl victory",
+     "a": "foot",
+     "right": [
+      "Drew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 13,
+     "q": "A small wooded valley, perhaps with a farmer",
+     "a": "Dell",
+     "right": [
+      "Anne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 8,
+     "q": "This nation's blue, yellow & red flag represents the colors used in the arms of Walachia & Moldavia",
+     "a": "Romania",
+     "right": [],
+     "wrong": [
+      "Drew"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 3,
+     "q": "With 6,000 seats, it opened in 1932 in NYC as the world's largest movie theater, though it's named for another medium",
+     "a": "Radio City Music Hall",
+     "right": [
+      "Tom"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": true,
+     "order": 23,
+     "q": "Carved in 196 B.C., its text lists the good things the pharaoh has done for the priests & people of Egypt",
+     "a": "the Rosetta Stone",
+     "right": [
+      "Anne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 800
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 18,
+     "q": "Surgeon's stitch (6)",
+     "a": "suture",
+     "right": [
+      "Anne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 28,
+     "q": "This diminutive 1984 Heisman winner for Boston College played his last NFL season as a Patriot",
+     "a": "(Doug) Flutie",
+     "right": [
+      "Drew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 14,
+     "q": "A former U.S. Navy rank between captains & admirals",
+     "a": "Commodore",
+     "right": [
+      "Drew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 9,
+     "q": "The name of these Portuguese islands comes from a word for the goshawk, & that bird is on the islands' flag",
+     "a": "the Azores",
+     "right": [],
+     "wrong": [
+      "Drew"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 4,
+     "q": "In March 1939, after Hitler made Bohemia & Moravia a German protectorate, this country ceased to exist",
+     "a": "Czechoslovakia",
+     "right": [],
+     "wrong": [
+      "Tom"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 24,
+     "q": "A heavy weight or burden around the neck, as mentioned in Luke 17",
+     "a": "millstone",
+     "right": [
+      "Tom"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 19,
+     "q": "Biblical Hercules (6)",
+     "a": "Samson",
+     "right": [
+      "Drew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "He hauled in 47 receiving touchdowns for the Pats from 2007 to 2009",
+     "a": "Randy Moss",
+     "right": [
+      "Drew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 15,
+     "q": "A famous one in ancient Greece bathed in the Castalian Spring before speaking",
+     "a": "Oracle",
+     "right": [
+      "Tom"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 10,
+     "q": "Honduras & this next-door neighbor to the south & east both have horizontally striped blue & white flags",
+     "a": "Nicaragua",
+     "right": [],
+     "wrong": [
+      "Drew",
+      "Tom"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 5,
+     "q": "After a week-long fast, he was released from government detention in Aug. 1933, weighing about 90 pounds",
+     "a": "Gandhi",
+     "right": [
+      "Drew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 25,
+     "q": "Blue Hone granite, found on the Scottish island of Ailsa Craig, is the favorite stone used in this sport",
+     "a": "curling",
+     "right": [
+      "Tom"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 20,
+     "q": "Dear sir or madam (10)",
+     "a": "salutation",
+     "right": [
+      "Tom"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 30,
+     "q": "The family of this former Patriot linebacker allowed his brain to be studied after his untimely death in 2012",
+     "a": "Junior Seau",
+     "right": [
+      "Drew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "SOLVE THE MYSTERY TITLE",
+    "NORTH AMERICAN RIVERS",
+    "A LITTLE BIT OF EVERYTHING",
+    "FEMALES IN GREEK MYTH",
+    "BEGINS WITH A VOWEL & ENDS IN \"I\"",
+    "EX-PATS"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "An Easy Rawlins mystery: \"___ in a Blue Dress\"",
+     "a": "Devil",
+     "right": [
+      "Anne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 11,
+     "q": "The Yaqui & Magdalena rivers in Mexico's state of Sonora flow into this gulf",
+     "a": "the Gulf of California",
+     "right": [
+      "Tom"
+     ],
+     "wrong": [
+      "Drew"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 16,
+     "q": "In one title of the U.S. federal bankruptcy code, chapter 7 is \"liquidation\"; \"reorganization\" is this chapter",
+     "a": "chapter 11",
+     "right": [
+      "Anne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 6,
+     "q": "She's the little lady who made the big war--the Trojan War--caused by her abduction",
+     "a": "Helen of Troy",
+     "right": [
+      "Tom"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 26,
+     "q": "It's Italian for \"goodbye for the present\"",
+     "a": "arrivederci",
+     "right": [
+      "Tom"
+     ],
+     "wrong": [
+      "Anne"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 21,
+     "q": "A \"phantom\" in this Tony-winning actor's past is his birth name, Michael Patrick Dumble-Smith",
+     "a": "(Michael) Crawford",
+     "right": [
+      "Anne"
+     ],
+     "wrong": [
+      "Tom"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 2,
+     "q": "Umberto Eco's \"The Name of the ___\"",
+     "a": "Rose",
+     "right": [
+      "Anne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 12,
+     "q": "In 1968 the U.S. & Mexico completed an artificial riverbed to keep this river from altering its course on the boundary",
+     "a": "the Rio Grande",
+     "right": [
+      "Drew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 17,
+     "q": "This man gets \"vomited out\" in his book of the Bible",
+     "a": "Jonah",
+     "right": [
+      "Anne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 7,
+     "q": "In some accounts, a naiad named Harmonia was the mother of these warrior women",
+     "a": "the Amazons",
+     "right": [
+      "Drew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 27,
+     "q": "Hyphenated French term for relaxing \"after\" a sporting day on the slopes",
+     "a": "après-ski",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 22,
+     "q": "You & Alison both know singer Declan Patrick McManus better by this name",
+     "a": "Elvis Costello",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 3,
+     "q": "Scott Turow's second novel \"The Burden of ___\"",
+     "a": "Proof",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 13,
+     "q": "(Sarah of The Clue Crew reports from Twin Falls, ID.) The Perrine Bridge near Twin Falls, Idaho is the only U.S. bridge from which so-called base jumpers can legally parachute without a permit into this river below.",
+     "a": "the Snake River",
+     "right": [
+      "Tom"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 18,
+     "q": "This Aussie marsupial is of the family Peramelidae; you may know the one named Crash",
+     "a": "bandicoot",
+     "right": [
+      "Drew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 8,
+     "q": "The sea goddess Amphitrite was the mother of Triton & the wife of this god",
+     "a": "Poseidon",
+     "right": [
+      "Drew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 28,
+     "q": "A sample of this type of art is seen here.",
+     "a": "origami",
+     "right": [
+      "Drew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 23,
+     "q": "Before he was Steve McGarrett on the original \"Hawaii Five-O\", he changed his name from John Joseph Patrick Ryan",
+     "a": "Jack Lord",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 4,
+     "q": "Dennis Lehane's \"___ River\"",
+     "a": "Mystic",
+     "right": [
+      "Drew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 14,
+     "q": "Its major tributaries include the Spokane, Yakima, & Kootenai Rivers",
+     "a": "the Columbia River",
+     "right": [],
+     "wrong": [
+      "Tom"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2600
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 19,
+     "q": "This name meaning \"our thing\" has been used as an alternative to \"mafia\"",
+     "a": "Cosa Nostra",
+     "right": [
+      "Drew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 9,
+     "q": "After Leander drowned while swimming the Hellespont to be with her, she killed herself",
+     "a": "Hero",
+     "right": [
+      "Tom"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 29,
+     "q": "This animal is part of the giraffe family, but it has kind of a zebra thing going on with its legs",
+     "a": "okapi",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 24,
+     "q": "Patrick Cusack became Pete Briquette & became one of the \"vermin\" in this Bob Geldof band",
+     "a": "The Boomtown Rats",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 5,
+     "q": "By Edgar Allan Poe, \"The Mystery of ___ Roget\"",
+     "a": "Marie",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 15,
+     "q": "This 1,000-mile-long river emptying into Hudson Bay wasn't named for a British P.M. but a governor of Hudson's Bay Company",
+     "a": "the Churchill River",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 20,
+     "q": "It's a fine online magazine, or a fine-grained rock that tends to split along parallel cleavage lines",
+     "a": "slate",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": true,
+     "order": 10,
+     "q": "This daughter (& sister) of Oedipus was with him when he died at Colonus",
+     "a": "Antigone",
+     "right": [],
+     "wrong": [
+      "Tom"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2400
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 30,
+     "q": "French term for a feeling of utter weariness resulting from lack of interest",
+     "a": "ennui",
+     "right": [
+      "Anne"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 25,
+     "q": "Prince's co-star in \"Purple Rain\", she was born Patricia Kotero",
+     "a": "Apollonia",
+     "right": [
+      "Drew"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "BEATLES SONGS",
+  "q": "It was one of The Beatles' longest songs & the one to spend the most time at No. 1 on the U.S. charts--9 weeks",
+  "a": "\"Hey Jude\"",
+  "right": [
+   "Tom",
+   "Anne",
+   "Drew"
+  ],
+  "wrong": []
+ },
+ "gameId": "4112",
+ "cat_notes": {
+  "J": [
+   "The answers involve homophones — words that sound alike but differ in meaning or spelling.",
+   "Clues about Flags of the World.",
+   "Clues about The 1930s.",
+   "Clues about Stones.",
+   "Each correct response will begin with that letter.",
+   "Clues about Ex-patriots."
+  ],
+  "DJ": [
+   "Clues about Solve the Mystery Title.",
+   "Clues about North American Rivers.",
+   "Clues about A Little Bit of Everything.",
+   "Clues about Females in Greek Myth.",
+   "Each answer starts with “I”.",
+   "Clues about Ex-pats."
+  ],
+  "F": "Clues about Beatles Songs."
+ }
+}
