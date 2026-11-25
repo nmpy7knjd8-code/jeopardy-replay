@@ -1,0 +1,992 @@
+{
+ "show": "#5676",
+ "aired": "2009-04-20",
+ "note": "",
+ "contestants": [
+  {
+   "name": "Anthony Resnick",
+   "bio": "a law student originally from Butler, Pennsylvania",
+   "short": "Anthony"
+  },
+  {
+   "name": "Stefanie Tomko",
+   "bio": "a software project manager from Bellevue, Washington",
+   "short": "Stefanie"
+  },
+  {
+   "name": "Kevin Joyce",
+   "bio": "a customer service representative from Leominster, Massachusetts (whose 3-day cash winnings total $111,299)",
+   "short": "Kevin"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Kevin": 2000,
+   "Stefanie": 900,
+   "Anthony": 7200
+  },
+  "DJ": {
+   "Kevin": 7800,
+   "Stefanie": 11000,
+   "Anthony": 11600
+  },
+  "Final": {
+   "Kevin": 4000,
+   "Stefanie": 20800,
+   "Anthony": 1199
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "BEHIND THE SEUSS-IC",
+    "THE CELEBRITY BLING BIZ",
+    "NAME THEIR ISLAND CHAIN",
+    "SECRET SERVICE CODE NAMES 2009",
+    "NOT LITERALLY",
+    "FOREIGN LANGUAGE"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 18,
+     "q": "With talk of \"Dick and Jane\" books being too boring for kids to learn, Seuss delivered this purr-fect big seller in 1957",
+     "a": "The Cat in the Hat",
+     "right": [
+      "Anthony"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 26,
+     "q": "A 4-leafed one of these has been lucky for Heidi Klum; it's a symbol of her jewelry collection",
+     "a": "a clover",
+     "right": [
+      "Stefanie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "Niihau &\nLanai",
+     "a": "the Hawaiian Islands",
+     "right": [
+      "Stefanie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 7,
+     "q": "Joe Biden--\nYour average Boston NBA player",
+     "a": "Celtic",
+     "right": [
+      "Kevin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 6,
+     "q": "Your friend didn't \"literally fall off the face of the Earth\"... unless he can defy this force that keeps him grounded",
+     "a": "gravity",
+     "right": [
+      "Anthony"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 9,
+     "q": "It's not nice to give someone the \"cold\" this, epaule in French",
+     "a": "shoulder",
+     "right": [
+      "Stefanie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 19,
+     "q": "An editor bet that Seuss (would not) could not write a book using 50 words or less; the result was this story",
+     "a": "Green Eggs and Ham",
+     "right": [
+      "Kevin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "Erica Kane would kill for the glamorous jewelry that this star who plays her sells on HSN",
+     "a": "Susan Lucci",
+     "right": [
+      "Anthony"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "St. John &\nSt. Thomas",
+     "a": "the U.S. Virgin Islands",
+     "right": [
+      "Stefanie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 14,
+     "q": "Michelle Obama--\nNot too shabby an art period",
+     "a": "Renaissance",
+     "right": [
+      "Anthony"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 8,
+     "q": "No, if you're \"literally climbing the walls\" you'd be this boyfriend of Mary Jane Watson",
+     "a": "Spider-Man (or Peter Parker)",
+     "right": [
+      "Stefanie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 10,
+     "q": "This Russian word for \"big\" is also the name of a big ballet company",
+     "a": "the Bolshoi",
+     "right": [
+      "Kevin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 22,
+     "q": "No character had ever burped in a children's book before, so the one in this Seuss tale caused quite a \"shell\" shock",
+     "a": "Yertle the Turtle",
+     "right": [
+      "Stefanie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 28,
+     "q": "Some of this comedienne's line of QVC jewelry has interchangeable parts (will interchangeable noses be next?)",
+     "a": "Joan Rivers",
+     "right": [
+      "Anthony"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 3,
+     "q": "Unimak &\nUnalaska",
+     "a": "the Aleutian Islands",
+     "right": [
+      "Stefanie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 15,
+     "q": "Barack Obama--\nThis \"R\" word; how mavericky",
+     "a": "Renegade",
+     "right": [
+      "Anthony"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 20,
+     "q": "You're \"literally going to pieces\"? Use this adhesive that stuck a worker's hard hat to a beam in an old ad",
+     "a": "Krazy Glue",
+     "right": [
+      "Kevin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 11,
+     "q": "This term for a karate instructor means \"doctor\" or \"teacher\" in Japanese",
+     "a": "sensei",
+     "right": [
+      "Kevin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": true,
+     "order": 23,
+     "q": "This book sells about 300,000 copies each year because so many people give it to college & high school graduates",
+     "a": "Oh, the Places You'll Go!",
+     "right": [],
+     "wrong": [
+      "Stefanie"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1500
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "Her mom, Candy, is famous for wearing expensive gems, but this \"90210\" alum's jewelry line is affordable",
+     "a": "Tori Spelling",
+     "right": [
+      "Stefanie"
+     ],
+     "wrong": [
+      "Kevin"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 4,
+     "q": "New Providence &\nTurks & Caicos",
+     "a": "the Bahamas",
+     "right": [
+      "Kevin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 16,
+     "q": "Jill Biden--\nNice pants; ask Laura Petrie",
+     "a": "Capri",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 21,
+     "q": "No, if you were \"literally rolling in money\" you'd be wriggling in a pile of C-notes (these)",
+     "a": "hundred-dollar bills",
+     "right": [
+      "Anthony"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 12,
+     "q": "Hebrew for \"a sitting\", it's an Orthodox Jewish college",
+     "a": "yeshiva",
+     "right": [
+      "Kevin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 24,
+     "q": "Some libraries took this book with the Yooks & Zooks off the shelf for its references to the Cold War",
+     "a": "The Butter Battle Book",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 30,
+     "q": "\"The Simple Life\" of this waiflike celeb includes a line of jewelry named for her little daughter Harlow",
+     "a": "Nicole Richie",
+     "right": [
+      "Anthony"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 5,
+     "q": "San Cristobal &\nGuadalcanal",
+     "a": "the Solomons",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 17,
+     "q": "Sasha Obama--\nIt's not just a movie sled anymore",
+     "a": "Rosebud",
+     "right": [
+      "Anthony"
+     ],
+     "wrong": [
+      "Kevin"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 25,
+     "q": "I should \"literally grab the bull by the horns\"? What am I, this performer, from the Spanish \"to kill\"?",
+     "a": "a matador",
+     "right": [
+      "Anthony"
+     ],
+     "wrong": [
+      "Stefanie"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 13,
+     "q": "\"Once a jolly swagman camped by\" this, Australian for a stagnant pool or backwater",
+     "a": "billabong",
+     "right": [
+      "Anthony"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "THE OZONE LAYER",
+    "FILL IN THE SONG TITLE",
+    "BIBLICAL RHYME TIME",
+    "LIKE A VIRGIL",
+    "MOVERS & SHAKERS",
+    "4 \"N\" LANGUAGE"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 25,
+     "q": "Ozone absorbs these harmful rays in a self-perpetuating cycle",
+     "a": "UV rays",
+     "right": [
+      "Anthony"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "Madonna as Evita:\n\"D.C.F.M.A.\"",
+     "a": "\"Don't Cry For Me Argentina\"",
+     "right": [
+      "Kevin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 7,
+     "q": "The most prominent of the Apostles' warming devices",
+     "a": "Peter's heaters",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 18,
+     "q": "Last name of Virgil, Morgan & Wyatt, famous for their gunplay at the O.K. Corral",
+     "a": "Earp",
+     "right": [
+      "Stefanie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 12,
+     "q": "In 1971 oilman Robert McCulloch moved London Bridge to this U.S. state",
+     "a": "Arizona",
+     "right": [
+      "Kevin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "In Roman numerals it's XCIX",
+     "a": "ninety-nine",
+     "right": [
+      "Kevin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 27,
+     "q": "In 1995 the Nobel Prize in this field went to 3 men for their studies of the formation & decomposition of the ozone layer",
+     "a": "chemistry",
+     "right": [
+      "Stefanie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 16,
+     "q": "Katy Perry:\n\"I.K.A.G.\"",
+     "a": "\"I Kissed a Girl\"",
+     "right": [
+      "Kevin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 8,
+     "q": "A son of Isaac's teetertotters",
+     "a": "Esau's see-saws",
+     "right": [
+      "Kevin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 19,
+     "q": "In the \"Aeneid\", the Roman poet Virgil quipped, \"I fear\" them \"even when they bring gifts\"",
+     "a": "Greeks",
+     "right": [
+      "Kevin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 13,
+     "q": "A 1737 300,000 were killed in this city, once India's capital, by an earthquake--or it may have been a cyclone",
+     "a": "Calcutta",
+     "right": [
+      "Kevin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 3,
+     "q": "Maharishi Mahesh Yogi developed this 2-word deep-relaxation technique in the 1950s",
+     "a": "transcendental meditation",
+     "right": [
+      "Kevin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 28,
+     "q": "(Sarah of the Clue Crew indicates a monitor.) Two atoms of this element create a stable bond; when three of them bond, they form the unstable ozone molecule",
+     "a": "oxygen",
+     "right": [
+      "Anthony"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 21,
+     "q": "Kelly Clarkson:\n\"S.U.B.G.\"",
+     "a": "\"Since U Been Gone\"",
+     "right": [
+      "Kevin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 9,
+     "q": "\"Perfect & upright\" man's spherical models of the earth",
+     "a": "Job's globes",
+     "right": [
+      "Stefanie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 20,
+     "q": "Virgil Thomson's opera about this 19th century romantic poet & libertine premiered at Juilliard in 1972",
+     "a": "Byron",
+     "right": [
+      "Anthony"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 14,
+     "q": "1908's Messina earthquake & tsunami ravaged the south of this country",
+     "a": "Italy",
+     "right": [
+      "Kevin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 4,
+     "q": "This phrase is the focal point of a dispute, be it a femur or ulna, or not",
+     "a": "bone of contention",
+     "right": [
+      "Kevin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 29,
+     "q": "Abbreviated CFCs, these release chlorine, which binds to ozone, destroying it",
+     "a": "chlorofluorocarbons",
+     "right": [
+      "Stefanie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 22,
+     "q": "Alicia Keys:\n\"N.O.\"",
+     "a": "\"No One\"",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 10,
+     "q": "Abraham's nephew's square, granny & clove hitches",
+     "a": "Lot's knots",
+     "right": [
+      "Stefanie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 23,
+     "q": "In 1965 this second American in space became the first to return to space",
+     "a": "Virgil \"Gus\" Grissom",
+     "right": [],
+     "wrong": [
+      "Kevin"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 15,
+     "q": "In 1682 he moved his court to Versailles",
+     "a": "Louis XIV",
+     "right": [
+      "Anthony"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 5,
+     "q": "A personal valet is popularly referred to by this 2-word term",
+     "a": "gentleman's gentleman",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": true,
+     "order": 30,
+     "q": "(Kelly of the Clue Crew indicates a cross-section of the atmosphere on the monitor.) Making life on Earth possible, 90% of the world's ozone is found in this layer of the atmosphere",
+     "a": "the stratosphere",
+     "right": [
+      "Stefanie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true,
+     "ddWager": 2500
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 26,
+     "q": "Taylor Swift:\n\"T.O.M.G.\"",
+     "a": "\"Teardrops On My Guitar\"",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 11,
+     "q": "Verified facts of Naomi's daughter-in-law",
+     "a": "Ruth's truths",
+     "right": [
+      "Kevin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 24,
+     "q": "Virgil Adams is the father of this Booth Tarkington title woman",
+     "a": "Alice Adams",
+     "right": [
+      "Stefanie"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": true,
+     "order": 17,
+     "q": "Roberto Clemente died flying supplies to this quake-stricken country in 1972",
+     "a": "Nicaragua",
+     "right": [],
+     "wrong": [
+      "Kevin"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 5400
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 6,
+     "q": "Edgar Allan Poe used this 16-letter word for the sound \"that so musically wells from the bells, bells, bells...\"",
+     "a": "tintinnabulation",
+     "right": [
+      "Kevin"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "AMERICAN LEGENDS",
+  "q": "Chippewa legend says Nanabojo grew angry at this person for tearing up trees & beat him to death with a fish",
+  "a": "Paul Bunyan",
+  "right": [
+   "Stefanie"
+  ],
+  "wrong": [
+   "Kevin",
+   "Anthony"
+  ]
+ },
+ "gameId": "2985",
+ "cat_notes": {
+  "J": [
+   "Clues about Behind the Seuss-ic.",
+   "Clues about The Celebrity Bling Biz.",
+   "Clues about Name Their Island Chain.",
+   "Clues about Secret Service Code Names 2009.",
+   "Clues about Not Literally.",
+   "Clues about Foreign Language."
+  ],
+  "DJ": [
+   "Clues about The Ozone Layer.",
+   "Clues about Fill in the Song Title.",
+   "Each answer is a rhyming word or phrase.",
+   "Clues about Like a Virgil.",
+   "Clues about Movers and Shakers.",
+   "Each correct response will have 4 \"N\"s in it."
+  ],
+  "F": "Clues about American Legends."
+ }
+}

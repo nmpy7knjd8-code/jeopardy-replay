@@ -1,0 +1,999 @@
+{
+ "show": "#5540",
+ "aired": "2008-10-10",
+ "note": "Cheryl Farrell's last appearance as a member of the Clue Crew.",
+ "contestants": [
+  {
+   "name": "Hannah Lynch",
+   "bio": "an IT specialist from Sterling, Virginia",
+   "short": "Hannah"
+  },
+  {
+   "name": "Luciano D'Orazio",
+   "bio": "a social studies teacher from Deer Park, New York",
+   "short": "Luciano"
+  },
+  {
+   "name": "Jim Davis",
+   "bio": "a college music and humanities instructor from Freeport, Illinois (whose 2-day cash winnings total $62,802)",
+   "short": "Jim"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Jim": 2200,
+   "Luciano": 400,
+   "Hannah": 8000
+  },
+  "DJ": {
+   "Jim": 12400,
+   "Luciano": 13600,
+   "Hannah": 17200
+  },
+  "Final": {
+   "Jim": 17201,
+   "Luciano": 27200,
+   "Hannah": 7199
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "THE 2008 TIME 100",
+    "MOVIE NUMBERS",
+    "PUZZLING ANIMATION",
+    "JUST DESSERTS",
+    "PAKISTAN LAURELS",
+    "HARDY"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 16,
+     "q": "\"Tibet's beacon of peace maintains a calm compassion--even as Beijing cracks down on his people\"",
+     "a": "the Dalai Lama",
+     "right": [
+      "Luciano"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "A teen date flick:\n\"____ Things I Hate About You\"",
+     "a": "10",
+     "right": [
+      "Luciano"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 6,
+     "q": "This is a way to play",
+     "a": "horsing around",
+     "right": [],
+     "wrong": [
+      "Jim",
+      "Luciano"
+     ],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 7,
+     "q": "The original Toll House cookies were this type",
+     "a": "chocolate chip",
+     "right": [
+      "Luciano"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 26,
+     "q": "Pakistan gained its independence on August 14, 1947, one day before this neighbor",
+     "a": "India",
+     "right": [
+      "Luciano"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 21,
+     "q": "Completes the title of Thomas Hardy's most humorous novel \"Far from...\"",
+     "a": "the Madding Crowd",
+     "right": [
+      "Hannah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 17,
+     "q": "\"His incisive scrutiny\" made 'Meet the Press' the place to be for U.S. candidates\"",
+     "a": "Tim Russert",
+     "right": [
+      "Jim"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "Always a bridesmaid, never a bride:\n\"____ Dresses\"",
+     "a": "27",
+     "right": [
+      "Hannah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 8,
+     "q": "Robert Browning told us to do this \"along with me. The best is yet to be\"",
+     "a": "grow old",
+     "right": [
+      "Hannah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 9,
+     "q": "This spicy \"bread\" that's flavored with molasses is often used to make a man or even a house",
+     "a": "gingerbread",
+     "right": [
+      "Hannah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "In August 2008 this man, president since 1999, gave a resignation speech touting all his achievements",
+     "a": "Musharraf",
+     "right": [
+      "Luciano"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 22,
+     "q": "The first part of this Hardy novel is called \"The Maiden\"",
+     "a": "Tess of the d'Urbervilles",
+     "right": [
+      "Jim"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 18,
+     "q": "\"His purchase of The Wall Street Journal puts a real power behind the press\"",
+     "a": "Rupert Murdoch",
+     "right": [
+      "Hannah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 3,
+     "q": "It's a rap!:\n\"____ Mile\"",
+     "a": "8",
+     "right": [
+      "Jim"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 13,
+     "q": "It's an upscale department store",
+     "a": "Bloomingdale's",
+     "right": [
+      "Hannah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 10,
+     "q": "Appropriately, a big top is on the package of these animal cookies from Mother's",
+     "a": "Circus Animal Cookies",
+     "right": [],
+     "wrong": [
+      "Luciano"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 28,
+     "q": "The Khyber Pass is a strategic link between Pakistan & this country",
+     "a": "Afghanistan",
+     "right": [
+      "Jim"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 23,
+     "q": "Farfrae succeeds Michael Henchard in this office, the title of an 1886 novel by Hardy",
+     "a": "The Mayor of Casterbridge",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 19,
+     "q": "\"Russia's iron-willed leader has rebuilt his country as a great power--and an irritant to the West\"",
+     "a": "Putin",
+     "right": [
+      "Jim"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 4,
+     "q": "Jennifer Garner goes from geek to gorgeous & grown-up in \"____ Going on ____\"",
+     "a": "13 & 30",
+     "right": [
+      "Jim"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 14,
+     "q": "You might get a call from a collection agency if you have this",
+     "a": "an account past due",
+     "right": [
+      "Hannah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 11,
+     "q": "One story about the origin of the name of this pie says its sweetness attracted a certain insect",
+     "a": "shoo-fly pie",
+     "right": [
+      "Hannah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "This sea that shares its name with a peninsula forms Pakistan's southern border",
+     "a": "the Arabian Sea",
+     "right": [
+      "Hannah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": true,
+     "order": 24,
+     "q": "This Thomas Hardy work first appeared under the title \"The Simpletons\"; it was later renamed for the doomed hero",
+     "a": "Jude the Obscure",
+     "right": [],
+     "wrong": [
+      "Jim"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1200
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 20,
+     "q": "\"How the firebrand Shi'ite cleric became a major power broker in the new Iraq\"",
+     "a": "Muqtada al-Sadr",
+     "right": [
+      "Hannah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 5,
+     "q": "A Las Vegas heist & a bunch of Elvis impersonators:\n\"____ Miles to Graceland\"",
+     "a": "3000",
+     "right": [
+      "Hannah"
+     ],
+     "wrong": [
+      "Jim"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 15,
+     "q": "Tom Petty had a Top 40 hit with this \"Long After Dark\"",
+     "a": "\"Change Of Heart\"",
+     "right": [],
+     "wrong": [
+      "Luciano"
+     ],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 12,
+     "q": "This dessert, chocolate cake filled with apricot jam, was created by a Viennese man",
+     "a": "Sachertorte",
+     "right": [
+      "Jim"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 30,
+     "q": "Construction of this Pakistani capital began in 1961",
+     "a": "Islamabad",
+     "right": [
+      "Hannah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 25,
+     "q": "Clym Yeobright comes back home to Egdon Heath & marries Eustacia Vye, with tragic results, in this novel",
+     "a": "The Return of the Native",
+     "right": [
+      "Luciano"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "\"GEN\"ERAL SCIENCE",
+    "LAST TOP 10 POP HIT",
+    "LESSER-KNOWN AMERICANS",
+    "DON'T THINK TOO FAST",
+    "TRASH TALKING AT THE MEDIEVAL JOUST",
+    "10-LETTER WORDS"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 26,
+     "q": "Pollen is a common--achoo!--example of one of these & there must--achoo!--be one in the studio",
+     "a": "an allergen",
+     "right": [
+      "Hannah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 14,
+     "q": "\"Would I Lie To You?\"\n(1985)",
+     "a": "The Eurythmics",
+     "right": [
+      "Luciano"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 6,
+     "q": "In August 1814 State Dept. Clerk Stephen Pleasonton hid these 2 documents from the invading British",
+     "a": "the Declaration of Independence & the Constitution",
+     "right": [
+      "Luciano"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 19,
+     "q": "The so-called black box on commercial planes, the flight data recorder is painted this color",
+     "a": "orange",
+     "right": [
+      "Hannah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "Ha! Thou shakest so much thy feet can barely stay in these, brought to Europe in the 8th century",
+     "a": "stirrups",
+     "right": [
+      "Jim"
+     ],
+     "wrong": [
+      "Luciano"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 11,
+     "q": "If you don't know this word for a person who works under another in order to learn a trade, \"You're fired!\"",
+     "a": "an apprentice",
+     "right": [
+      "Hannah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 27,
+     "q": "A pesticide called HCB has been classified by the EPA as one of these",
+     "a": "a carcinogen",
+     "right": [
+      "Hannah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 15,
+     "q": "\"She's A Lady\"\n(1971)",
+     "a": "Tom Jones",
+     "right": [
+      "Luciano"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 7,
+     "q": "The 1st execution in the American Colonies occurred in 1608 when Geo. Kendall was shot for spying for this kingdom",
+     "a": "Spain",
+     "right": [
+      "Luciano"
+     ],
+     "wrong": [
+      "Hannah"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 20,
+     "q": "When Prince Albert took the throne of England in 1936, he ruled under this name",
+     "a": "George VI",
+     "right": [
+      "Luciano"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 2,
+     "q": "Thou art lucky this my weapon hath a safety tip called a coronal; else thoud'st be unbreath'd as well as unhors'd",
+     "a": "a lance",
+     "right": [
+      "Hannah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 12,
+     "q": "It's the oxymoronic longer term for a man on his wedding day",
+     "a": "bridegroom",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": true,
+     "order": 28,
+     "q": "The atmosphere around the Dead Sea should make you feel good: it has more of this than anywhere else on Earth",
+     "a": "oxygen",
+     "right": [
+      "Hannah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2000
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 16,
+     "q": "\"Hey Nineteen\"\n(1980)",
+     "a": "Steely Dan",
+     "right": [
+      "Jim"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 8,
+     "q": "Called the \"American Sherlock Holmes\", William J. Burns solved the 1910 bombing of this Calif. newspaper",
+     "a": "the Los Angeles Times",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 21,
+     "q": "Originally, Panama hats were made in what is now this country",
+     "a": "Ecuador",
+     "right": [
+      "Luciano"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 3,
+     "q": "Wilt thou ward off my blow with an ecranche type of this? Why not use a sheet of parchment, 'twill work as well",
+     "a": "a shield",
+     "right": [
+      "Jim"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 13,
+     "q": "Like many CEOs, it's someone who spends close to every waking minute on the job",
+     "a": "a workaholic",
+     "right": [
+      "Jim"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 29,
+     "q": "This type of headlight that uses a trace of bromine or iodine vapor is the standard in auto manufacture",
+     "a": "halogen",
+     "right": [
+      "Luciano"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 17,
+     "q": "\"Cradle Of Love\"\n(1990)",
+     "a": "Billy Idol",
+     "right": [
+      "Luciano"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 9,
+     "q": "General Oliver Howard was the recipient of this Native American chief's \"I will fight no more forever\" message",
+     "a": "Chief Joseph",
+     "right": [
+      "Hannah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 22,
+     "q": "A fruit called the Chinese gooseberry was later renamed for the national bird of this country",
+     "a": "New Zealand",
+     "right": [
+      "Jim"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 4,
+     "q": "Hark! This fellow who proclaimeth the name of each jouster is more worthy of my steel than thee",
+     "a": "a herald",
+     "right": [
+      "Hannah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 24,
+     "q": "I scream, you scream, we all scream for this vanilla, strawberry & chocolate ice cream flavor",
+     "a": "Neapolitan",
+     "right": [
+      "Jim"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 30,
+     "q": "(Cheryl of the Clue Crew hangs with a robotic dinosaur from Walking with Dinosaurs.) The stegosaurus had a walnut-sized brain, so the enlarged area in the spinal cord was thought to be a second brain; it probably stored this polysaccharide, an energy reserve",
+     "a": "glycogen",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 18,
+     "q": "\"Your Wildest Dreams\"\n(1986)",
+     "a": "The Moody Blues",
+     "right": [
+      "Hannah"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 10,
+     "q": "Listen my children & you shall hear of William Dawes & this other man who accompanied Paul Revere early on April 19, 1775",
+     "a": "(Samuel) Prescott",
+     "right": [
+      "Luciano"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 23,
+     "q": "The Canary Islands' name comes from the Latin word canaria, referring to these large animals there",
+     "a": "dogs",
+     "right": [
+      "Luciano"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 5,
+     "q": "The lady whose favor thou sportest will sup with me ere the end of this larger event of which the joust is part",
+     "a": "a tournament",
+     "right": [
+      "Luciano"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": true,
+     "order": 25,
+     "q": "Greek for \"city of the dead\", it's the term for a large, ancient cemetery",
+     "a": "a necropolis",
+     "right": [
+      "Jim"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 3000
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "BIBLICAL AKA",
+  "q": "This second king of Israel was \"the sweet singer of Israel\"",
+  "a": "King David",
+  "right": [
+   "Jim",
+   "Luciano"
+  ],
+  "wrong": [
+   "Hannah"
+  ]
+ },
+ "gameId": "2725",
+ "cat_notes": {
+  "J": [
+   "The 100 most influential people in the world.",
+   "Clues about Movie Numbers.",
+   "Clues about Puzzling Animation.",
+   "Clues about Just Desserts.",
+   "Clues about Pakistan Laurels.",
+   "Clues about Hardy."
+  ],
+  "DJ": [
+   "Each answer ends with “GEN”, and the clues are about Eral Science.",
+   "Clues about Last Top 10 Pop Hit.",
+   "Clues about Lesser-known Americans.",
+   "Clues about Don't Think Too Fast.",
+   "Clues about Trash Talking at the Medieval Joust.",
+   "Each answer is a 10-letter word."
+  ],
+  "F": "Clues about Biblical Aka."
+ }
+}

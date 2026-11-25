@@ -1,0 +1,1003 @@
+{
+ "show": "#5618",
+ "aired": "2009-01-28",
+ "note": "",
+ "contestants": [
+  {
+   "name": "Jack Feerick",
+   "bio": "a freelance writer from Churchville, New York",
+   "short": "Jack"
+  },
+  {
+   "name": "Linda Tomsho",
+   "bio": "a medical editor from West Mifflin, Pennsylvania",
+   "short": "Linda"
+  },
+  {
+   "name": "Andy Walvoord",
+   "bio": "an investment banker from Denver, Colorado (whose 1-day cash winnings total $25,200)",
+   "short": "Andy"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Andy": 1000,
+   "Linda": 1800,
+   "Jack": 5800
+  },
+  "DJ": {
+   "Andy": 10200,
+   "Linda": 9200,
+   "Jack": 32600
+  },
+  "Final": {
+   "Andy": 1999,
+   "Linda": 3199,
+   "Jack": 48600
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "DIPLOMACY--A GAME",
+    "THE AUDACITY OF BOB HOPE",
+    "DON'T SAY MOBY DICK",
+    "WHERE'S THE BEEF FROM?",
+    "COLORFUL RHYME TIME",
+    "AMERICAN SIGN LANGUAGE"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 16,
+     "q": "At the start of the game Diplomacy, France controls 3 supply centers: Paris, Brest & this port",
+     "a": "Marseille",
+     "right": [
+      "Jack"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 11,
+     "q": "Of golfing with this president, Bob quipped, \"It's hard to play a guy who rattles his medals while you're putting\"",
+     "a": "Eisenhower",
+     "right": [
+      "Jack"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 6,
+     "q": "In 1851 Harriet Beecher Stowe began serializing this",
+     "a": "Uncle Tom's Cabin",
+     "right": [
+      "Andy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "Kobe",
+     "a": "Japan",
+     "right": [
+      "Linda"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 17,
+     "q": "A crimson toboggan",
+     "a": "a red sled",
+     "right": [
+      "Linda"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 22,
+     "q": "It's the phenomenon being signed here",
+     "a": "a rainbow",
+     "right": [
+      "Jack"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": true,
+     "order": 24,
+     "q": "Each army unit is represented by a cannon; each fleet unit, by this, also the name of a different game",
+     "a": "a battleship",
+     "right": [
+      "Andy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 1000
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 12,
+     "q": "After playing golf with this president: \"He hit a birdie--and an eagle, a moose, an elk, an aardvark...\"",
+     "a": "Gerald Ford",
+     "right": [
+      "Linda"
+     ],
+     "wrong": [
+      "Andy"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 7,
+     "q": "He began serializing his \"Child's History of England\", but he's a bit better known for \"Great Expectations\"",
+     "a": "Charles Dickens",
+     "right": [
+      "Jack"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "Hereford",
+     "a": "England",
+     "right": [
+      "Andy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 18,
+     "q": "A cobalt Native American boat",
+     "a": "a blue canoe",
+     "right": [
+      "Jack"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 23,
+     "q": "The Beatles' Rocky knows the sign for this animal",
+     "a": "a raccoon",
+     "right": [
+      "Andy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 25,
+     "q": "Turkey is one of the 7 great powers players may represent; the game is set just before this war",
+     "a": "World War I",
+     "right": [
+      "Andy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 13,
+     "q": "\"It's so cold\" in this city \"that politicians have their hands in their own pockets\"",
+     "a": "Washington, D.C.",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 8,
+     "q": "Herman Melville's good buddy Nat Hawthorne published this novel about a creepy old mansion",
+     "a": "The House of the Seven Gables",
+     "right": [
+      "Jack"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 3,
+     "q": "Zebu (aka Brahman)",
+     "a": "India",
+     "right": [
+      "Jack"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 19,
+     "q": "Licorice eaten to satisfy hunger between meals",
+     "a": "a black snack",
+     "right": [
+      "Linda"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 28,
+     "q": "You'll find this word in an Edgar Allan Poe title",
+     "a": "a pendulum",
+     "right": [
+      "Linda"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 26,
+     "q": "On the Diplomacy board, this country in the middle of Europe is considered impassable",
+     "a": "Switzerland",
+     "right": [
+      "Andy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 14,
+     "q": "Bob said this guy was going to name \"2 mil. Communists, he just got his hands on the Moscow telephone directory\"",
+     "a": "Senator McCarthy",
+     "right": [
+      "Jack"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 9,
+     "q": "English poet & critic John Ruskin published the 1st volume of \"The Stones of\" this decaying & sinking Italian city",
+     "a": "Venice",
+     "right": [
+      "Linda"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 4,
+     "q": "Angus",
+     "a": "Scotland",
+     "right": [
+      "Jack"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 20,
+     "q": "An ivory paper toy that flies in the wind",
+     "a": "a white kite",
+     "right": [
+      "Jack"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "This area of land with a specific use is of grave importance",
+     "a": "graveyard (cemetery)",
+     "right": [
+      "Jack"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 27,
+     "q": "The game is based on making & breaking these, such as the triple one that in real life united Italy, Germany & Austria",
+     "a": "alliances",
+     "right": [
+      "Jack"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 15,
+     "q": "Bob said, \"No one\" of these \"can fool all of the people all of the time. That's why we have two\"",
+     "a": "political parties",
+     "right": [],
+     "wrong": [
+      "Jack"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 10,
+     "q": "In \"Casa Guidi Windows\", written while she & hubby Bob lived abroad, she counted the ways she loved Florence",
+     "a": "Elizabeth Barrett Browning",
+     "right": [
+      "Linda"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 5,
+     "q": "Holstein",
+     "a": "the Netherlands",
+     "right": [],
+     "wrong": [
+      "Andy",
+      "Linda",
+      "Jack"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 21,
+     "q": "A coffee-colored tiara",
+     "a": "a brown crown",
+     "right": [
+      "Jack"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 30,
+     "q": "Here is the sign for this geometry term",
+     "a": "a perpendicular",
+     "right": [],
+     "wrong": [
+      "Andy",
+      "Linda"
+     ],
+     "stumper": true,
+     "img": true
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "DIPLOMACY--NOT A GAME",
+    "CHARACTERS IN MOVIES",
+    "EUROPEAN HISTORY",
+    "FOLKLORE",
+    "MEDICINE THROUGH THE YEARS",
+    "\"ECO\" FRIENDLY"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 23,
+     "q": "This department suggests reading \"Ghost Wars\" & Newsweek if you want to be a foreign service officer",
+     "a": "the State Department",
+     "right": [
+      "Linda"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 11,
+     "q": "George McFly,\nDr. Emmett Brown,\nBiff Tannen",
+     "a": "Back to the Future",
+     "right": [
+      "Linda"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 6,
+     "q": "Thomas Savery's contribution to British history was patenting the first of these engines in 1698",
+     "a": "a steam engine",
+     "right": [
+      "Andy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 16,
+     "q": "According to the ballad, \"'Twas on the Illinois central that\" this engineer \"won his fame\"",
+     "a": "Casey Jones",
+     "right": [
+      "Andy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "In China this practice, zhen ke, dates back 4,000 years; today it's mostly used there for surgical analgesia",
+     "a": "acupuncture",
+     "right": [
+      "Linda"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 18,
+     "q": "Ben Bernanke earned his Ph.D. in this from MIT",
+     "a": "economics",
+     "right": [
+      "Jack"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 24,
+     "q": "A marsupial might know this word for a diplomatic mailbag",
+     "a": "a pouch",
+     "right": [
+      "Jack"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 12,
+     "q": "Bishop,\nRipley,\nRebecca \"Newt\" Jorden",
+     "a": "Aliens",
+     "right": [
+      "Andy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 7,
+     "q": "After WWII hundreds of thousands with nowhere to go lived in DP camps, short for this",
+     "a": "displaced person",
+     "right": [
+      "Jack"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 17,
+     "q": "Since 1718 this pirate's ghost has been haunting Pamlico Sound searching for his missing head",
+     "a": "Blackbeard or Edward Teach",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 2,
+     "q": "In 1842 Crawford Long first used anesthetic in surgery, allowing his patient to sniff this gas, C4H10O",
+     "a": "ether",
+     "right": [
+      "Andy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 19,
+     "q": "It's the specialty that deals with women's health & diseases",
+     "a": "gynecology",
+     "right": [
+      "Jack"
+     ],
+     "wrong": [
+      "Andy"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 25,
+     "q": "NYC councilman Eric Gioia says 10 U.N. missions owe the city $8 million in these",
+     "a": "parking tickets",
+     "right": [
+      "Andy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 13,
+     "q": "Ellis \"Red\" Redding,\nAndy Dufresne,\nWarden Norton",
+     "a": "The Shawshank Redemption",
+     "right": [
+      "Jack"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 8,
+     "q": "In the 17th c. each member of the Polish legislature had this power & could defeat any measure & end the session",
+     "a": "a veto",
+     "right": [
+      "Andy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 28,
+     "q": "This Texas cowboy spent his early years running with a pack of coyotes & howling at the moon",
+     "a": "Pecos Bill",
+     "right": [
+      "Jack"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 3,
+     "q": "First mentioned in Genesis, it's the only surgical procedure clearly described in the Bible",
+     "a": "circumcision",
+     "right": [
+      "Andy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 20,
+     "q": "This period in American history lasted from 1865 to 1877",
+     "a": "Reconstruction",
+     "right": [
+      "Jack"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 26,
+     "q": "Criminals, don't try fleeing to Malta, whose government signed this type of treaty with the U.S. May 18, 2006",
+     "a": "extradition",
+     "right": [
+      "Linda"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 14,
+     "q": "Dean Keaton,\nFred Fenster,\nRoger \"Verbal\" Kint",
+     "a": "The Usual Suspects",
+     "right": [
+      "Jack"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 9,
+     "q": "After a 1547 victory over Protestant armies, Emperor Charles V said, \"Veni, vidi, Deus vicit\", meaning this",
+     "a": "\"I came, I saw, and God conquered\"",
+     "right": [
+      "Jack"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 29,
+     "q": "Old Stormalong soaped his ship to squeeze through the English channel; the soap rubbed off on these cliffs",
+     "a": "the Cliffs of Dover",
+     "right": [
+      "Jack"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 4,
+     "q": "Early Egyptian physicians diagnosed & inspected patients by palpation, examination by this sense",
+     "a": "touch",
+     "right": [
+      "Jack"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 21,
+     "q": "In this French-named art form, paper cutouts are used to cover a flat surface, then varnish is applied",
+     "a": "decoupage",
+     "right": [
+      "Linda"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": true,
+     "order": 27,
+     "q": "Henry Kissinger's practice of zipping between Mideastern capitals for talks was known as this type of diplomacy",
+     "a": "shuttle",
+     "right": [
+      "Linda"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 3000
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 15,
+     "q": "Jules Winnfield,\nButch Coolidge,\n\"The Wolf\"",
+     "a": "Pulp Fiction",
+     "right": [
+      "Jack"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 10,
+     "q": "Germany's worst terrorist gang finally disbanded in 1998, though Baader died in 1977 & this co-leader in 1976",
+     "a": "Ulrike Meinhof",
+     "right": [
+      "Jack"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": true,
+     "order": 30,
+     "q": "In Native American culture, these mythical birds flashed lightning from their eyes & caused storms with their wings",
+     "a": "thunderbirds",
+     "right": [
+      "Jack"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 10000
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 5,
+     "q": "19th c. physician William Little first described this disorder caused by brain injury before or soon after birth",
+     "a": "cerebral palsy",
+     "right": [
+      "Andy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 22,
+     "q": "For 2008 the Grammys added a new category to honor cajun & this style of music",
+     "a": "zydeco",
+     "right": [
+      "Andy"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "MUSICAL INSPIRATIONS",
+  "q": "The libretto for Haydn's oratorio \"The Creation\" was based on this epic English poem",
+  "a": "Paradise Lost",
+  "right": [
+   "Jack"
+  ],
+  "wrong": [
+   "Linda",
+   "Andy"
+  ]
+ },
+ "gameId": "2891",
+ "cat_notes": {
+  "J": [
+   "Clues about Diplomacy--a Game.",
+   "Clues about The Audacity of Bob Hope.",
+   "Clues about Don't Say Moby Dick.",
+   "The category “WHERE'S THE BEEF FROM?” sets the theme — the clues follow that idea and any wordplay suggested by the title.",
+   "Each answer is a rhyming word or phrase.",
+   "Clues about American Sign Language."
+  ],
+  "DJ": [
+   "Clues about Diplomacy--not a Game.",
+   "Clues about Characters in Movies.",
+   "Clues about European History.",
+   "Clues about Folklore.",
+   "Clues about Medicine Through the Years.",
+   "Each answer contains the letter group “ECO”, and the clues are about Friendly."
+  ],
+  "F": "Clues about Musical Inspirations."
+ }
+}

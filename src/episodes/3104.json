@@ -1,0 +1,991 @@
+{
+ "show": "#5741",
+ "aired": "2009-07-20",
+ "note": "Stefan Goodreau game 1. \r Champion Update #6: David Madden.",
+ "contestants": [
+  {
+   "name": "Ellyn Feerick",
+   "bio": "a middle school English teacher from Driggs, Idaho",
+   "short": "Ellyn"
+  },
+  {
+   "name": "Stefan Goodreau",
+   "bio": "a video game tester and camp counselor from Los Angeles, California",
+   "short": "Stefan"
+  },
+  {
+   "name": "Peter Wiscombe",
+   "bio": "a computer engineer from High Point, North Carolina (whose 1-day cash winnings total $16,799)",
+   "short": "Peter"
+  }
+ ],
+ "scores": {
+  "J": {
+   "Peter": 5000,
+   "Stefan": 10600,
+   "Ellyn": 4600
+  },
+  "DJ": {
+   "Peter": 9400,
+   "Stefan": 19400,
+   "Ellyn": 5800
+  },
+  "Final": {
+   "Peter": 8800,
+   "Stefan": 19917,
+   "Ellyn": 2199
+  }
+ },
+ "rounds": {
+  "J": {
+   "cats": [
+    "MONDAY, MONDAY",
+    "CELEBRITY YEARBOOK SUPERLATIVES",
+    "STORYTELLERS",
+    "U.S. ARMY 5-STAR GENERALS",
+    "MAGAZINES",
+    "\"HOT\" STUFF"
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 26,
+     "q": "Monday is named for this, first visited by man 40 years ago today",
+     "a": "the Moon",
+     "right": [
+      "Ellyn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 21,
+     "q": "Voted most popular at her East Nashville high school, in the '80s, she'd become the talk of the town",
+     "a": "Oprah Winfrey",
+     "right": [
+      "Peter"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 6,
+     "q": "For the sake of convenience & brevity, this 19th c. author signed his early essays \"RLS\"",
+     "a": "Robert Louis Stevenson",
+     "right": [
+      "Stefan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 1,
+     "q": "He was the last one who also served as a U.S. president",
+     "a": "Eisenhower",
+     "right": [
+      "Stefan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 11,
+     "q": "In 1967 John Lennon appeared on the cover of the first issue of this music magazine",
+     "a": "Rolling Stone",
+     "right": [
+      "Stefan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 200,
+     "dd": false,
+     "order": 16,
+     "q": "Tomatoes are frequently grown in one of these where the temperature can be controlled",
+     "a": "a hothouse",
+     "right": [
+      "Peter"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 27,
+     "q": "Sensibly, pondeli, the Czech word for Monday, literally means \"after\" this",
+     "a": "Sunday",
+     "right": [
+      "Ellyn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 22,
+     "q": "In 1994 his California high school voted him \"most likely to succeed\"; you watch golf?",
+     "a": "Tiger Woods",
+     "right": [
+      "Stefan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 7,
+     "q": "He wrote his first 2 novels, \"A Time to Kill\" & \"The Firm\", while serving in the Mississippi legislature",
+     "a": "John Grisham",
+     "right": [
+      "Peter"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 2,
+     "q": "In 1903 & 1904 he served in the Philippines as a second lieutenant",
+     "a": "MacArthur",
+     "right": [
+      "Stefan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 12,
+     "q": "Warren Buffett topped this mag's 2008 list of billionaires; mayor Bloomberg was its most powerful billionaire in 2009",
+     "a": "Forbes",
+     "right": [
+      "Peter"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 400,
+     "dd": false,
+     "order": 17,
+     "q": "I prefer to use my key, but you can start a car this way, by short-circuiting the ignition",
+     "a": "hot-wiring",
+     "right": [
+      "Stefan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 28,
+     "q": "In a nursery rhyme, \"Monday's child is fair of\" this",
+     "a": "face",
+     "right": [
+      "Stefan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 23,
+     "q": "At her New York high school in 1999, she was voted most likely to appear on \"Jeopardy!\"; we'd love to have her",
+     "a": "Natalie Portman",
+     "right": [
+      "Stefan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 8,
+     "q": "In the 1940s this writer created his \"three laws of robotics\" for use in his stories",
+     "a": "Asimov",
+     "right": [
+      "Stefan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 3,
+     "q": "He was the man with a plan named for him",
+     "a": "(George) Marshall",
+     "right": [
+      "Peter"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 13,
+     "q": "The name of this food magazine is a French phrase often said before dining",
+     "a": "Bon Appétit",
+     "right": [
+      "Stefan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 600,
+     "dd": false,
+     "order": 18,
+     "q": "Flapjacks, come & get 'em under this name!",
+     "a": "hotcakes",
+     "right": [
+      "Stefan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 29,
+     "q": "Not just a bad day for the stock market, it's the Monday after the last day of the NFL season, when coaches get fired",
+     "a": "Black Monday",
+     "right": [
+      "Peter"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 24,
+     "q": "At her Virginia high school, this \"Speed\" star was voted \"most likely to brighten your day\"",
+     "a": "Sandra Bullock",
+     "right": [
+      "Peter"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 9,
+     "q": "His \"True at First Light\", about an African safari, was published in 1999, 38 years after his suicide",
+     "a": "Hemingway",
+     "right": [
+      "Stefan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 4,
+     "q": "The fifth star was a reward for his service in World War I & he retired at that rank in 1924",
+     "a": "Pershing",
+     "right": [
+      "Peter"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 800,
+     "dd": false,
+     "order": 14,
+     "q": "This mag now distributed with the Sunday paper debuted in 1941, subtitled \"The Weekly Picture Newspaper\"",
+     "a": "Parade",
+     "right": [
+      "Peter"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 800,
+     "dd": true,
+     "order": 19,
+     "q": "This Arkansas city has been called the \"Baden-Baden of America\"",
+     "a": "Hot Springs",
+     "right": [
+      "Stefan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false,
+     "ddWager": 4000
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 30,
+     "q": "The U.S. declared war on Japan on this Monday in 1941",
+     "a": "December 8th",
+     "right": [
+      "Ellyn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 25,
+     "q": "At his Longview, Texas high school in 1988, this actor was voted most handsome",
+     "a": "Matthew McConaughey",
+     "right": [
+      "Ellyn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 10,
+     "q": "Written in Portuguese, \"O Alquimista\" by Paulo Coelho has sold 30 mil. copies, many under this English title",
+     "a": "The Alchemist",
+     "right": [
+      "Ellyn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 5,
+     "q": "In 1949 he became the first Chairman of the Joint Chiefs of Staff",
+     "a": "General Omar Bradley",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 15,
+     "q": "\"Life made easier\" is the motto of the magazine called \"Real\" this",
+     "a": "Simple",
+     "right": [
+      "Ellyn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 1000,
+     "dd": false,
+     "order": 20,
+     "q": "Launched by Wired magazine in 1996, this early search engine was later acquired by Lycos",
+     "a": "HotBot",
+     "right": [
+      "Stefan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    }
+   ]
+  },
+  "DJ": {
+   "cats": [
+    "EUROPEANA",
+    "TV MEDICAL SHOWS BY HOSPITAL",
+    "HABITAT FOR YOU, MANATEE",
+    "RIPLEYS",
+    "BELIEVE",
+    "\"IT\" OR \"NOT\""
+   ],
+   "clues": [
+    {
+     "c": 0,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 4,
+     "q": "You might have to window shop in this Swiss city's elegant Bahnhofstrasse: prices are lethal there",
+     "a": "Zurich",
+     "right": [
+      "Stefan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 1,
+     "q": "Seattle Grace",
+     "a": "Grey's Anatomy",
+     "right": [
+      "Ellyn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 11,
+     "q": "This U.S. state where you're the official marine mammal",
+     "a": "Florida",
+     "right": [
+      "Stefan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 26,
+     "q": "Robert Ripley's 1st \"Believe It or Not!\" had sports oddities like \"A. Forrester...ran 100 yards\" this way in 14 seconds",
+     "a": "backwards",
+     "right": [
+      "Ellyn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 16,
+     "q": "I saw 3 of these objects, first reported near Mt. Rainier in June 1947, hovering over my house last night",
+     "a": "UFOs (or flying saucers)",
+     "right": [
+      "Stefan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 0,
+     "v": 400,
+     "dd": false,
+     "order": 21,
+     "q": "In \"The Wizard of Oz\", Glinda was a good one",
+     "a": "a witch",
+     "right": [
+      "Ellyn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 5,
+     "q": "(Jimmy of the Clue Crew delivers the clue from The Hague in the Netherlands.) This upper house of the Dutch Parliament meets here; like this corresponding U.S. body used to be, it's selected indirectly rather than directly by the people",
+     "a": "a senate",
+     "right": [
+      "Peter"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": true
+    },
+    {
+     "c": 1,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 2,
+     "q": "St. Eligius",
+     "a": "St. Elsewhere",
+     "right": [
+      "Stefan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 12,
+     "q": "This 4,000-mile river",
+     "a": "the Amazon",
+     "right": [
+      "Peter"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 27,
+     "q": "Ripley Castle in this nation has been home to the Ingilby family for 700 years & 26 generations",
+     "a": "England (the United Kingdom acceptable)",
+     "right": [],
+     "wrong": [
+      "Peter",
+      "Ellyn"
+     ],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 1,
+     "v": 800,
+     "dd": false,
+     "order": 17,
+     "q": "My luggage was lost & I'm convinced it's now in this region named for a British Atlantic isle",
+     "a": "the Bermuda Triangle",
+     "right": [
+      "Stefan"
+     ],
+     "wrong": [
+      "Ellyn"
+     ],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 1,
+     "v": 800,
+     "dd": true,
+     "order": 22,
+     "q": "Mesmerizing, like the Greek god of sleep",
+     "a": "hypnotic (or hypnotizing)",
+     "right": [],
+     "wrong": [
+      "Ellyn"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2000
+    },
+    {
+     "c": 0,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 6,
+     "q": "Marcel Proust is buried in this vast Parisian cemetery",
+     "a": "the Père-Lachaise Cemetery",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 3,
+     "q": "Princeton-Plainsboro Teaching Hospital",
+     "a": "House (M.D.)",
+     "right": [
+      "Peter"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 13,
+     "q": "This continent, for the species Trichechus senegalensis",
+     "a": "Africa",
+     "right": [
+      "Stefan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 28,
+     "q": "You can actually sleep with the fishes at Ripley's Aquarium in Myrtle Beach in this state",
+     "a": "South Carolina",
+     "right": [
+      "Peter"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 18,
+     "q": "Last time I was fishing in Scotland I hooked this large, ancient plesiosaur & she got away with my best lure",
+     "a": "Nessie (the Loch Ness Monster)",
+     "right": [
+      "Stefan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 2,
+     "v": 1200,
+     "dd": false,
+     "order": 23,
+     "q": "From a method of shining army shoes, this word is paired with \"polish\" to mean extreme cleanliness",
+     "a": "spit",
+     "right": [
+      "Peter"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 3,
+     "v": 1600,
+     "dd": true,
+     "order": 7,
+     "q": "Its name is from a jebal, or mount, named for Tariq ibn Zizad, the general who led the Muslim conquest of Spain",
+     "a": "Gibraltar",
+     "right": [],
+     "wrong": [
+      "Peter"
+     ],
+     "stumper": false,
+     "img": false,
+     "ddWager": 2000
+    },
+    {
+     "c": 1,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 9,
+     "q": "Sacred Heart",
+     "a": "Scrubs",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 14,
+     "q": "Moises the Manatee's home, this island commonwealth",
+     "a": "Puerto Rico",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": true
+    },
+    {
+     "c": 3,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 29,
+     "q": "Ornithologist S. Dillon Ripley served as the head of this D.C. institution from 1964 to 1984",
+     "a": "the Smithsonian",
+     "right": [
+      "Ellyn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 19,
+     "q": "Hold onto your bug spray--I saw one of these insect/human creatures Richard Gere sought in a movie",
+     "a": "mothman",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 3,
+     "v": 1600,
+     "dd": false,
+     "order": 24,
+     "q": "Adjective meaning tediously repetitive... or repetitious... or lacking in variety",
+     "a": "monotonous",
+     "right": [
+      "Stefan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 0,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 8,
+     "q": "Steg & Schaan are towns in this landlocked principality",
+     "a": "Liechtenstein",
+     "right": [
+      "Stefan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 1,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 10,
+     "q": "In the 1980s:\nSan Francisco Memorial Hospital",
+     "a": "Trapper John, M.D.",
+     "right": [
+      "Peter"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 2,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 15,
+     "q": "The wetlands of this Mexican state, also the home of the Zapatistas",
+     "a": "Chiapas",
+     "right": [],
+     "wrong": [],
+     "stumper": true,
+     "img": false
+    },
+    {
+     "c": 3,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 30,
+     "q": "On June 6, 1849 Major Ripley Arnold founded what became this city near Dallas",
+     "a": "Fort Worth",
+     "right": [
+      "Ellyn"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 4,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 20,
+     "q": "I saw one of these hare/antelope hybrids in Johnny's dressing room just now & he called it by name!",
+     "a": "a jackalope",
+     "right": [
+      "Stefan"
+     ],
+     "wrong": [],
+     "stumper": false,
+     "img": false
+    },
+    {
+     "c": 5,
+     "r": 4,
+     "v": 2000,
+     "dd": false,
+     "order": 25,
+     "q": "It's reparation made by giving compensation for damages",
+     "a": "restitution",
+     "right": [],
+     "wrong": [
+      "Stefan"
+     ],
+     "stumper": true,
+     "img": false
+    }
+   ]
+  }
+ },
+ "final": {
+  "cat": "POETS ON POETS",
+  "q": "Longfellow began a poem about this earlier poet, \"Tuscan, that wanderest through the realms of gloom\"",
+  "a": "Dante Alighieri",
+  "right": [
+   "Stefan"
+  ],
+  "wrong": [
+   "Ellyn",
+   "Peter"
+  ]
+ },
+ "gameId": "3104",
+ "cat_notes": {
+  "J": [
+   "Clues about Monday, Monday.",
+   "Clues about Celebrity Yearbook Superlatives.",
+   "Clues about Storytellers.",
+   "Clues about U.S. Army 5-star Generals.",
+   "Clues about Magazines.",
+   "Each answer contains the letter group “HOT”."
+  ],
+  "DJ": [
+   "Clues about Europeana.",
+   "Clues about TV Medical Shows by Hospital.",
+   "Clues about Habitat for You, Manatee.",
+   "Clues about Ripleys.",
+   "Clues about Believe.",
+   "The category “\"IT\" OR \"NOT\"” sets the theme — the clues follow that idea and any wordplay suggested by the title."
+  ],
+  "F": "Clues about Poets on Poets."
+ }
+}
