@@ -24,8 +24,9 @@ for f in (r/'src/episodes').glob('*.json'):
     for k in ('J','DJ'):
         for c in e['rounds'][k]['clues']:
             c['q']=clean(c['q']); c.pop('img',None)
-            mp=r/'media'/f"{e['gameId']}-{k}_{c['c']}_{c['r']}.jpg"
-            if mp.exists(): c['img']='media/'+mp.name
+            stem=f"{e['gameId']}-{k}_{c['c']}_{c['r']}"
+            mp=next((r/'media'/f'{stem}.{ext}' for ext in ('webp','jpg') if (r/'media'/f'{stem}.{ext}').exists()), None)
+            if mp: c['img']='media/'+mp.name
     e['final']['q']=clean(e['final']['q']); e['show']='#'+re.sub(r'\D','',e['show']); e['tag']=TAGS.get(e['gameId'],''); e.pop('note',None)
     e['season']=season_of(e['aired']); e['seasonYears']=season_years(e['season'])
     eps.append(e)
